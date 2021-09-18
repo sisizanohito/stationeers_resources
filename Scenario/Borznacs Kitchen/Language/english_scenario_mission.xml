@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Name>English</Name>
+<Code>EN</Code>
+<Font>font_english</Font>
+	<Interface>
+		<Record>
+			<Key>ScenariosBorznacsKitchen</Key>
+			<Value>Borznac's Kitchen</Value>
+		</Record>
+		<Record>
+			<Key>TutoiralGasMixingSubTitle</Key>
+			<Value>Better get cooking</Value>
+		</Record>
+		<Record>
+			<Key>ScenariosBorznacsKitchenDescription</Key><!--Menu Disc-->
+			<Value>After being cut out of several trade deals with Sinotai, Borznac the 5th has decided to build an empire of his own, by taking control of all nearby Lunar bases, including yours.
+You've been forced to work as his new personal chef. So you better get cooking.</Value>
+		</Record>
+		<Record>
+			<Key>ScenariosBorznacsKitchenIntroDescription</Key><!--Intro Panel-->
+			<Value>Borznac the 5th isn't known for his niceties. After being cut out of several trade deals with Sinotai, he's decided to build an empire of his own, by taking control of all nearby Lunar bases, including yours.
+You've been forced to work as his new personal chef. You still don't know what happened to his last chef, and you don't want to find out. He has quite the appetite, and is very impatient. So you better get cooking.</Value>
+		</Record>
+		<Record>
+			<Key>CookingForYourLifeSubTitle</Key>
+			<Value>Cook for your life!</Value>
+		</Record>
+		<Record>
+			<Key>BakedPotato1</Key>
+			<Value>Cook and deliver 4 baked potatos.</Value>
+		</Record>
+		<Record>
+			<Key>FriesTask1</Key>
+			<Value>Cook and deliver 2 packs of fries.</Value>
+		</Record>
+		<Record>
+			<Key>MuffinTask1</Key>
+			<Value>Bake and deliver 3 Muffins.</Value>
+		</Record>
+		<Record>
+			<Key>BreadTask1</Key>
+			<Value>Cook and deliver 2 bread Loaves.</Value>
+		</Record>
+		<Record>
+			<Key>MilkTask1</Key>
+			<Value>Manufacture and deliver 2 cartons of milk.</Value>
+		</Record>
+		<Record>
+			<Key>PumpkinPie1</Key>
+			<Value>Bake and deliver 2 pumpkin pies.</Value>
+		</Record>
+		<Record>
+			<Key>TomatoSoup1</Key>
+			<Value>Blend and deliver a can of tomato soup.</Value>
+		</Record>
+		<Record>
+			<Key>PumpkinSoup1</Key>
+			<Value>Blend and deliver a can of pumpkin soup.</Value>
+		</Record>
+		<Record>
+			<Key>BakedPotato2</Key>
+			<Value>Bake and deliver 2 baked potatos.</Value>
+		</Record>
+		<Record>
+			<Key>BreadTask2</Key>
+			<Value>Bake and deliver 1 loaf of bread.</Value>
+		</Record>
+		<Record>
+			<Key>FriesTask2</Key>
+			<Value>Fry and deliver 1 pack of fries.</Value>
+		</Record>
+		<Record>
+			<Key>PumpkinTask2</Key>
+			<Value>Bake and deliver 1 pumpkin pie.</Value>
+		</Record>
+		<Record>
+			<Key>MuffinTask2</Key>
+			<Value>Bake and deliver 3 muffins.</Value>
+		</Record>
+		<Record>
+			<Key>MilkTask2</Key>
+			<Value>Manufacture and deliver 2 cartons of milk.</Value>
+		</Record>
+		<Record>
+			<Key>BorznacsNarration0D</Key>
+			<Value> I'm hungry, so make me some baked potatoes. But remember, you can only cook one at a time.
+When they're ready, deliver them to me through the chute. Don't disappoint me. My Last chef was slow and stupid. Things didn't go well for them.</Value>
+		</Record>
+		<Record>
+			<Key>BorznacsNarration1D</Key>
+			<Value>That was barely adequate. I want something with some FLAVOUR. I demand  fries! Surely you remember how to cook those?</Value>
+		</Record>
+		<Record>
+			<Key>BorznacsNarration2D</Key>
+			<Value>Mmmmm ... that was better. Now I want a sweet snack. Make me some muffins or experience my wrath.</Value>
+		</Record>
+		<Record>
+			<Key>BorznacsNarration3D</Key>
+			<Value>Ah, all that sweetness has put me in a doughy mood. Yes, I think some bread will go down nicely.</Value>
+		</Record>
+		<Record>
+			<Key>BorznacsNarration4D</Key>
+			<Value>All this food has made me a bit parched. I need a drink. Some nice fresh milk will be perfect. Make it so!</Value>
+		</Record>
+		<Record>
+			<Key>BorznacsNarration5D</Key>
+			<Value>Ah, you've done much better than your predecessor. Now for something classic. A pumpkin pie is what I need. Make me one immediately. I've opened a chute in the resource room. You may use anything the last chef left behind.</Value>
+		</Record>
+		<Record>
+			<Key>BorznacsNarration6D</Key>
+			<Value>Excellent. Unlike your imbecile forerunner, you may have actually what it takes to serve me. One day, I may even consider giving you freedom. Maybe. But now, I'm ready for DINNER. Complete a three-course meal or suffer  unspeakable consequences.</Value>
+		</Record>
+		<Record>
+			<Key>BorznacWinEnd</Key>
+			<Value>You have proved yourself to be an indispensible servant of Borznac.
+			
+Congratulations.</Value>
+		</Record>
+		<Record>
+			<Key>NarritiveClose</Key>
+			<Value>X</Value>
+		</Record>
+		
+		
+		
+	
+	</Interface>
+</Language>

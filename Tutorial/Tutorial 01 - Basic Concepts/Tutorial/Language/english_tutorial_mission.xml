@@ -1,0 +1,738 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Name>English</Name>
+<Code>EN</Code>
+<Font>font_english</Font>
+	<Interface>
+		<Record>
+			<Key>BasicConcepts</Key>
+			<Value>Basic Skills</Value>
+		</Record>
+		<Record>
+			<Key>MBasicConceptsDescription</Key>
+			<Value>Before we deploy you to the Solar System, let's test your basic skills.</Value>
+		</Record>
+		<Record>
+			<Key>BasicConceptsSubTitle</Key>
+			<Value>Practical Training: Stage I</Value>
+		</Record>
+		<Record>
+      		<Key>IntroClose</Key>
+      		<Value>Close Mission Briefing</Value>
+    	</Record>
+		<Record>
+      		<Key>WelcomeRecuit</Key>
+      		<Value>Welcome Cadet</Value>
+    	</Record>
+		<Record>
+      		<Key>BasicConceptsDescription</Key>
+      		<Value>Welcome to the Lunar Training Base, Cadet. The ODA has approved your application, so let's improve your chances of surviving deployment to the Solar System. 
+Enter the training base through the airlock ahead.</Value>
+    	</Record>
+		<Record>
+      		<Key>WelcomeRecuitDisc</Key>
+      		<Value>Make your way into the training base.</Value>
+    	</Record>
+		<Record>
+      		<Key>ControlMovement-1</Key>
+      		<Value>{KEY:Forward}{KEY:Left}{KEY:Backward}{KEY:Right}</Value>
+    	</Record>
+		<Record>
+      		<Key>ControlMovementDisc</Key>
+      		<Value>Movement</Value>
+    	</Record>
+		<Record>
+      		<Key>Narration1T</Key>
+      		<Value>Welcome Cadet</Value>
+    	</Record>
+		<Record>
+      		<Key>Narration1D</Key>
+      		<Value>Working and building under hazardous conditions, alone, far from home, a Stationeer needs many special skills. We're here to make sure you grasp the basics. Enter the training base through the airlock ahead.</Value>
+    	</Record>
+		<Record>
+      		<Key>EnterAreaT1</Key>
+      		<Value>Enter the airlock</Value>
+    	</Record>
+		<Record>
+			<Key>ControlLeftClick</Key>
+			<Value>{KEY:PrimaryAction}</Value>
+		</Record>
+		<Record>
+			<Key>ControlLeftClickDisc</Key>
+			<Value>Interact</Value>
+		</Record>
+		<Record>
+      		<Key>Narration2T</Key>
+      		<Value>Airlock Controls</Value>
+    	</Record>
+		<Record>
+      		<Key>Narration2D</Key>
+      		<Value>Working and building under hazardous conditions far from home, a Stationeer needs many special skills. You also need to push buttons.
+Press 'Cycle to interior' to enter the base.</Value>
+    	</Record>
+		<Record>
+      		<Key>TrainingBaseDisc</Key>
+      		<Value>Enter the Training Base.</Value>
+    	</Record>
+		<Record>
+      		<Key>OpenAirlock</Key>
+      		<Value>Cycle airlock using console</Value>
+    	</Record>
+		<Record>
+      		<Key>ExitAreaT1</Key>
+      		<Value>Enter Testing Area</Value>
+    	</Record>
+		<Record>
+      		<Key>Narration3T</Key>
+      		<Value>Protocols</Value>
+    	</Record>
+		<Record>
+      		<Key>Narration3D</Key>
+      		<Value>Before the original Stationeers Handbook collapsed into a singularity, it established a central Stationeers protocol: Cadets have TWO hands, but should only do ONE thing at a time.</Value>
+    	</Record>
+		<Record>
+			<Key>PickUpControlsDisc</Key>
+			<Value>Interact</Value>
+		</Record>
+		<Record>
+			<Key>SwapControls</Key>
+			<Value>{KEY:SwapHands}</Value>
+		</Record>
+		<Record>
+			<Key>SwapControlsDisc</Key>
+			<Value>Swap hands</Value>
+		</Record>
+		<Record>
+      		<Key>Co-OrdinationDisc</Key>
+      		<Value>Test your co-ordination by swapping items between hands.</Value>
+    	</Record>
+		<Record>
+      		<Key>PickUpT1</Key>
+      		<Value>Take welding torch from the crate</Value>
+    	</Record>
+		<Record>
+      		<Key>SwapHandsT1</Key>
+      		<Value>Swap hands</Value>
+    	</Record>
+		<Record>
+      		<Key>PickUpT1 1</Key>
+      		<Value>Take wirecutters from the crate.</Value>
+    	</Record>
+		<Record>
+      		<Key>SwapHandsT1 2</Key>
+      		<Value>Swap hands ... again</Value>
+    	</Record>
+		<Record>
+      		<Key>Narration4T</Key>
+      		<Value>The welder.</Value>
+    	</Record>
+		<Record>
+      		<Key>Narration4D</Key>
+      		<Value>You could have been a juggler. But you signed up as a Stationeer, so you're going to juggle tools instead. Lots of them. Some must be activated first, with {KEY:SecondaryAction}.</Value>
+    	</Record>
+		<Record>
+			<Key>ActiveWilderDisc</Key>
+			<Value>Activate the welding torch</Value>
+		</Record>
+		
+		<Record>
+			<Key>TurnOnControls</Key>
+			<Value>Toggle power</Value>
+		</Record>
+		<Record>
+			<Key>TurnOnControlsDisc</Key>
+			<Value>Toggle power on welding torch</Value>
+		</Record>
+		<Record>
+      		<Key>WeilderOn</Key>
+      		<Value>Turn on welding torch</Value>
+    	</Record>
+		<Record>
+      		<Key>WeilderOff</Key>
+      		<Value>Turn off welding torch</Value>
+    	</Record>
+		<Record>
+      		<Key>Narration5T</Key>
+      		<Value>Letting Go</Value>
+    	</Record>
+		<Record>
+      		<Key>Narration5D</Key>
+      		<Value>So far, your hands are working fine. That's good, you'll need them. So let's try dropping and throwing.
+Press {KEY:Drop} to drop items, or hold {KEY:Drop} to throw them.</Value>
+    	</Record>
+		<Record>
+			<Key>DropItemT1 1</Key>
+			<Value>Drop tool in right hand</Value>
+		</Record>
+		<Record>
+      		<Key>DropWireCutters</Key>
+      		<Value>Drop or throw tool in your right hand</Value>
+    	</Record> 
+		<Record>
+			<Key>ThrowControls</Key>
+			<Value>Hold {KEY:Drop}</Value>
+		</Record>
+		<Record>
+			<Key>ThrowControlsDisc</Key>
+			<Value>Throw item</Value>
+		</Record>
+		<Record>
+      		<Key>DropControls</Key>
+      		<Value>{KEY:Drop}</Value>
+    	</Record>
+		<Record>
+      		<Key>DropControlsDisc</Key>
+      		<Value>Drop item</Value>
+    	</Record>
+		<Record>
+			<Key>PrecisionPLaceT1 1</Key>
+			<Value>Precision place tool on table using {KEY:PrecisionPlace}</Value>
+		</Record>
+		<Record>
+      		<Key>Narration6T</Key>
+      		<Value>The welder</Value>
+    	</Record>
+		<Record>
+      		<Key>Narration6D</Key>
+      		<Value>Sometimes, you'll need to put items down more carefully. They're ODA property. Try it using {KEY:PrecisionPlace}, and check your suit joints are working smoothly.</Value>
+    	</Record>
+		<Record>
+      		<Key>PrecisionPlaceControls</Key>
+      		<Value>{KEY:PrecisionPlace}</Value>
+    	</Record>
+		<Record>
+      		<Key>PrecisionPlaceControlsDisc</Key>
+      		<Value>Precision Place Mode</Value>
+    	</Record>
+		<Record>
+      		<Key>PrecisionPlaceControlsPlace</Key>
+      		<Value>{KEY:PrimaryAction}</Value>
+    	</Record>
+		<Record>
+      		<Key>PrecisionPlaceControlsPlaceDisc</Key>
+      		<Value>Place Item</Value>
+    	</Record>
+		<Record>
+      		<Key>PrecisionPlace</Key>
+      		<Value>Place welding torch on table using 'Precision place'</Value>
+    	</Record>
+		<Record>
+      		<Key>Narration7T</Key>
+      		<Value>Inventory systems</Value>
+    	</Record>
+		<Record>
+      		<Key>Narration7D</Key>
+      		<Value>We can't teach you everything, but we can ensure you've got the basics down: surviving in the Solar System is up to you.
+Hold {KEY:MouseControl} to access your inventory, then click on a panel to open it.</Value>
+    	</Record>
+		<Record>
+			<Key>OpenToolControls</Key>
+			<Value>{KEY:MouseControl}</Value>
+		</Record>
+		<Record>
+			<Key>OpenToolControlsDisc</Key>
+			<Value>Enable Mouse Cursor</Value>
+		</Record>
+		<Record>
+			<Key>OpenToolbeltT1Disc</Key>
+			<Value>Open your toolbelt to access tools.</Value>
+		</Record>
+		<Record>
+			<Key>OpenBackControls</Key>
+			<Value>{KEY:HelmetSlot}-{KEY:ToolBeltSlot}</Value>
+		</Record>
+		<Record>
+			<Key>OpenBackControlsDisc</Key>
+			<Value>Open equipped slots</Value>
+		</Record>
+		<Record>
+			<Key>GettingTheBelt</Key>
+			<Value>Open your Tool Belt</Value>
+		</Record>
+		<Record>
+      		<Key>Narration8T</Key>
+      		<Value>UI windows</Value>
+    	</Record>
+		<Record>
+      		<Key>Narration8D</Key>
+      		<Value>As a Stationeer, there's never just 'one way' to achieve a goal: how you solve a problem is up to you. 
+That goes for your suit, too - try opening your inventory with numeric keys.</Value>
+    	</Record>
+		<Record>
+			<Key>OpenBackPackDisc</Key>
+			<Value>Open your Tool Belt</Value>
+		</Record>
+		<Record>
+      		<Key>OpenBackPack</Key>
+      		<Value>Open your backpack.</Value>
+    	</Record>
+		<Record>
+      		<Key>Narration9T</Key>
+      		<Value>Inventory navigation.</Value>
+    	</Record>
+		<Record>
+      		<Key>Narration9D</Key>
+      		<Value>Knowing where something is, and how to get it quick, makes all the difference: Inventory management saves lives. Start by dragging items into your hand from your inventory.</Value>
+    	</Record>
+		<Record>
+			<Key>HoldMiningBeltT1Disc</Key>
+			<Value>Drag mining belt from backpack into left hand</Value>
+		</Record>
+		<Record>
+      		<Key>PickUpT1 2</Key>
+      		<Value>Drag mining belt from backpack into left hand</Value>
+    	</Record>
+		<Record>
+			<Key>AltDragControls</Key>
+			<Value>{KEY:MouseControl} + Drag</Value>
+		</Record>
+		<Record>
+			<Key>AltDragControlsDisc</Key>
+			<Value>Interact with inventory.</Value>
+		</Record>
+		<Record>
+      		<Key>DropT1 2</Key>
+      		<Value>Drop or throw the mining belt</Value>
+    	</Record>
+		<Record>
+      		<Key>Narration10T</Key>
+      		<Value>Inventory dragging</Value>
+    	</Record>
+		<Record>
+      		<Key>Narration10D</Key>
+      		<Value>As a Stationeer, you'll be picking things up a lot. The Solar System's a mess. That's just how it is.
+Try dragging items from the world directly into your inventory.</Value>
+    	</Record>
+		<Record>
+			<Key>DragFromWorldT1Disc</Key>
+			<Value>Drag mining belt from ground into backpack</Value>
+		</Record>
+		<Record>
+			<Key>AltClickControls</Key>
+			<Value>{KEY:MouseControl} + {KEY:PrimaryAction}</Value>
+		</Record>	<Record>
+			<Key>AltClickControlsDisc</Key>
+			<Value>Interact with mouse</Value>
+		</Record>
+		<Record>
+			<Key>OpenMaskControls</Key>
+			<Value>{KEY:Internals}</Value>
+		</Record>
+		<Record>
+			<Key>OpenMaskControlsDisc</Key>
+			<Value>Open helmet</Value>
+		</Record>
+		<Record>
+			<Key>StationpediaToggleControls</Key>
+			<Value>{KEY:Help}</Value>
+		</Record>
+		<Record>
+			<Key>StationpediaToggleControlsDisc</Key>
+			<Value>Toggle Stationpedia</Value>
+		</Record>
+		<Record>
+			<Key>QucikEquiptControls</Key>
+			<Value>Scroll wheel</Value>
+		</Record>
+		<Record>
+			<Key>QucikEquiptControlsDisc</Key>
+			<Value>Select Inventory Slot</Value>
+		</Record>
+		<Record>
+			<Key>QuickSelectItemControls</Key>
+			<Value>{KEY:InventorySelect}</Value>
+		</Record>
+		<Record>
+			<Key>QuickSelectItemControlsDisc</Key>
+			<Value>Interact with inventory</Value>
+		</Record>
+		<Record>
+			<Key>DoubleClickingControls</Key>
+			<Value>{KEY:PrimaryAction} x2</Value>
+		</Record>
+		<Record>
+			<Key>DoubleClickingControlsDisc</Key>
+			<Value>Interact with inventory</Value>
+		</Record>
+		<Record>
+			<Key>SecondaryActionControls</Key>
+			<Value>(hold) {KEY:SecondaryAction}</Value>
+		</Record>
+		<Record>
+			<Key>SecondaryActionControlsDisc</Key>
+			<Value>Secondary Action</Value>
+		</Record>
+		<Record>
+			<Key>ControlLeftClickBuildDisc</Key>
+			<Value>Build Structure.</Value>
+		</Record>
+		<Record>
+			<Key>BuildControls</Key>
+			<Value>{KEY:SecondaryAction}</Value>
+		</Record>
+		<Record>
+			<Key>BuildControlsDisc</Key>
+			<Value>Enter Build Mode.</Value>
+		</Record>
+		<Record>
+			<Key>UseItemControls</Key>
+			<Value>Hold {KEY:SecondaryAction}</Value>
+		</Record>
+		<Record>
+			<Key>UseItemControlsDisc</Key>
+			<Value>Activate item</Value>
+		</Record>
+		<Record>
+			<Key>UsePrimeControls</Key>
+			<Value>Hold {KEY:PrimaryAction}</Value>
+		</Record>
+		<Record>
+			<Key>UsePrimeControlsDisc</Key>
+			<Value>Use item</Value>
+		</Record>
+		<Record>
+      		<Key>JetpackInsert</Key>
+      		<Value>Drag mining belt from ground into backpack</Value>
+    	</Record>
+		<Record>
+      		<Key>Narration11T</Key>
+      		<Value>Hot keys</Value>
+    	</Record>
+		<Record>
+      		<Key>Narration11D</Key>
+      		<Value>Until Asura Biomedia breeds a four-armed Stationeer, you're stuck with two hands. But there's quick ways to move items into them.
+Use MOUSE WHEEL to select an item in an open UI window, then press 'F' to equip it.</Value>
+    	</Record>
+		<Record>
+			<Key>RoadFlareT1Disc</Key>
+			<Value>Use 'Hot Keys' to equip a road flare</Value>
+		</Record>
+		<Record>
+      		<Key>GetRoadFlare</Key>
+      		<Value>Move road flare from backpack to left hand</Value>
+    	</Record>
+		<Record>
+      		<Key>LightFlare</Key>
+      		<Value>Activate road flare using Secondary Action</Value>
+    	</Record>
+		<Record>
+      		<Key>DropT1 3</Key>
+      		<Value>Drop roadflare using 'Q'</Value>
+    	</Record>
+		<Record>
+      		<Key>Narration12T</Key>
+      		<Value>Items in items</Value>
+    	</Record>
+		<Record>
+      		<Key>Narration12D</Key>
+      		<Value>Stationeer equiment is designed for durability and ease of fabrication, not good looks.
+Many of them, like powered tools, contain items like batteries or gas canisters.</Value>
+    	</Record>
+		<Record>
+			<Key>ChildOnSlotOpenDisc</Key>
+			<Value>Open the mining belt in your backpack.</Value>
+		</Record>
+		<Record>
+      		<Key>OpeningTheMininngBelt</Key>
+      		<Value>Open mining belt</Value>
+    	</Record>
+		<Record>
+      		<Key>Narration13T</Key>
+      		<Value>Insert batteries</Value>
+    	</Record>
+		<Record>
+      		<Key>Narration13D</Key>
+      		<Value>Everything costs something and, far from home, you need to guard your resources carefully.
+With many devices, resources like batteries and fuel can be removed and recharged.</Value>
+    	</Record>
+		<Record>
+			<Key>ReplaceBattT1Disc</Key>
+			<Value>Add battery from crate to mining drill</Value>
+		</Record>
+		<Record>
+      		<Key>ChangePowerCell</Key>
+      		<Value>Add battery from crate to mining drill</Value>
+    	</Record>
+		<Record>
+      		<Key>Narration14T</Key>
+      		<Value>Merging stacks</Value>
+    	</Record>
+		<Record>
+      		<Key>Narration14D</Key>
+      		<Value>They call it 'space', but don't be fooled: there's never enough room. Luckily, many items can be merged into stacks.</Value>
+    	</Record>
+		<Record>
+			<Key>MergeFramesT1Disc</Key>
+			<Value>Merge the frames, by dragging one stack onto the other.</Value>
+		</Record>
+		<Record>
+      		<Key>Merege de frames</Key>
+      		<Value>Merge two stacks of iron frames in the crate</Value>
+    	</Record>
+		<Record>
+      		<Key>Narration15T</Key>
+      		<Value>Close UI with `</Value>
+    	</Record>
+		<Record>
+      		<Key>Narration15D</Key>
+      		<Value>If your HUD gets a little busy, you can shut inventory windows by clicking the X, or pressing ` to close all windows.</Value>
+    	</Record>
+		<Record>
+			<Key>CloseAllUIT1Disc</Key>
+			<Value>Close all open UI windows</Value>
+		</Record>
+		<Record>
+      		<Key>CloseUITask</Key>
+      		<Value>Close all open UI windows</Value>
+    	</Record>
+		<Record>
+			<Key>ControlCloseUI</Key>
+			<Value>{KEY:HideAllWindows}</Value>
+		</Record>
+		<Record>
+			<Key>ControlCloseUIDisc</Key>
+			<Value>Close all open UI windows</Value>
+		</Record>
+		<Record>
+      		<Key>Narration16T</Key>
+      		<Value>Section B</Value>
+    	</Record>
+		<Record>
+      		<Key>Narration16D</Key>
+      		<Value>The ODA assessment panel are satisfied you're not an imminent threat to yourself. Good work, Cadet.
+Move to the next area of the training base for Part II - reviewing the basics of building.</Value>
+    	</Record>
+		<Record>
+			<Key>EnterAreaT1Disc</Key>
+			<Value>Move to Section B of the training base.</Value>
+		</Record>
+		<Record>
+      		<Key>EnterAreaT3</Key>
+      		<Value>Enter the next airlock</Value>
+    	</Record>
+		<Record>
+      		<Key>Narration17T</Key>
+      		<Value>Section B</Value>
+    	</Record>
+		<Record>
+			<Key>ControlJetpackToggle</Key>
+			<Value>{KEY:Jetpack}</Value>
+		</Record>
+		<Record>
+			<Key>ControlJetpackToggleDisc</Key>
+			<Value>Toggle Jetpack Power</Value>
+		</Record>
+		<Record>
+			<Key>ControlJetpackAsendMovement</Key>
+			<Value>{KEY:Ascend}</Value>
+		</Record>
+		<Record>
+			<Key>ControlJetpackAsendMovementDisc</Key>
+			<Value>Ascend</Value>
+		</Record>
+		<Record>
+			<Key>ControlJetpackDesendMovement</Key>
+			<Value>{KEY:Descend}</Value>
+		</Record>
+		<Record>
+			<Key>ControlJetpackDesendMovementDisc</Key>
+			<Value>Descend</Value>
+		</Record>
+		<Record>
+      		<Key>Narration17D</Key>
+      		<Value>In this phase of testing, you'll either master basic building skills, or run out of air.
+The construction area is too high to reach, so let's test your jetpack.</Value>
+    	</Record>
+		<Record>
+      		<Key>Narration18T</Key>
+      		<Value>Frames</Value>
+    	</Record>
+		<Record>
+      		<Key>Narration18D</Key>
+      		<Value>Simple to build and easy to pressurize, iron frames are the foundation of any Stationeer structure.
+Pick up frames, right click to enter build mode, then left click to place.</Value>
+    	</Record>
+		<Record>
+      		<Key>BuildTheFrames</Key>
+      		<Value>Use iron sheets and welder to complete frames</Value>
+    	</Record>
+		<Record>
+      		<Key>Narration19T</Key>
+      		<Value>Frames</Value>
+    	</Record>
+		<Record>
+      		<Key>Narration19D</Key>
+      		<Value>Most Stationeer constructions have several stages. Complete the frames and make them airtight by welding iron sheets onto them.
+You'll need a welder in your active hand, iron sheets in the other.</Value>
+    	</Record>
+		<Record>
+      		<Key>PickUpT1 9</Key>
+      		<Value>Take Iron Frames from crate</Value>
+    	</Record>
+		<Record>
+			<Key>BuildFrameT1Disc</Key>
+			<Value>Complete the unfinished roof using iron sheets.</Value>
+		</Record>
+		<Record>
+			<Key>IronFrameBuildTaskT1</Key>
+			<Value>Build frame #1 in highlighted spot above.</Value>
+		</Record>
+		<Record>
+			<Key>IronFrameBuildTaskT2</Key>
+			<Value>Build frame #2 in highlighted spot above.</Value>
+		</Record>
+		<Record>
+      		<Key>PickUpT1 4</Key>
+      		<Value>Take iron sheets from crate</Value>
+    	</Record>
+		<Record>
+			<Key>UsePrimeControlsBuildDisc</Key>
+			<Value>Construct</Value>
+		</Record>
+		<Record>
+			<Key>FinsihFramesT1Disc</Key>
+			<Value>Equip the welder and steel sheets from the crate, to complete the training base.</Value>
+		</Record>
+		<Record>
+			<Key>FillingWithAirT1Disc</Key>
+			<Value>Fill the base with breathable atmosphere.</Value>
+		</Record>
+		<Record>
+      		<Key>OpenTheAPCPanel</Key>
+      		<Value>Open the APC with crowbar from crate</Value>
+    	</Record>
+		<Record>
+      		<Key>TurnOnAPC</Key>
+      		<Value>Turn on the APC</Value>
+    	</Record>
+		<Record>
+      		<Key>TurningOnTheOXygen</Key>
+      		<Value>Wait for external pressure to reach 60kPa.</Value>
+    	</Record>
+		<Record>
+			<Key>OpenHelmT1Disc</Key>
+			<Value>Open your suit helmet.</Value>
+		</Record>
+		<Record>
+			<Key>OpenHelmT1Task</Key>
+			<Value>Unlock helmet</Value>
+		</Record>
+		<Record>
+			<Key>OpenHelmT2Task</Key>
+			<Value>Open helmet</Value>
+		</Record>
+		<Record>
+      		<Key>Narration20T</Key>
+      		<Value>Frames</Value>
+    	</Record>
+		<Record>
+			<Key>FinishFrameT1</Key>
+			<Value>Finish frames: iron sheets + welding torch (active hand)</Value>
+		</Record>
+		<Record>
+      		<Key>Narration20D</Key>
+      		<Value>The base is now airtight, so you can add atmosphere. Activate the area power controller (APC) to turn on the active vents, and start airflow into the room.
+Monitor the external pressure on your status panel.</Value>
+    	</Record>
+		<Record>
+      		<Key>Narration21T</Key>
+      		<Value>Final phase</Value>
+    	</Record>
+		<Record>
+      		<Key>Narration21D</Key>
+      		<Value>Alright, Cadet, you've nearly finished Phase I of Stationeers Practical Testing.
+If you want to learn more, consult the Stationpedia by pressing F1.</Value>
+    	</Record>
+		<Record>
+      		<Key>Narration22T</Key>
+      		<Value>Final phase</Value>
+    	</Record>
+		<Record>
+      		<Key>Narration22D</Key>
+      		<Value>Alright, Cadet, you've nearly finished Phase I of Stationeers Practical Testing.
+If you want to learn more, consult the Stationpedia by pressing F1. Once you've read up close the Stationpedia. You'll be doing more testing soon, but for now, make yourself at home. 
+Take off your suit and place it in a storage locker.</Value>
+    	</Record>
+		<Record>
+      		<Key>GettingHelp</Key>
+      		<Value>Open Stationpedia, and navigate to the 'Personal' tab.</Value>
+    	</Record>
+		<Record>
+			<Key>GettingHelpClose</Key>
+			<Value>Close the Stationpedia</Value>
+		</Record>
+		<Record>
+      		<Key>Narration23T</Key>
+      		<Value>Final phase</Value>
+    	</Record>
+		<Record>
+      		<Key>Narration23D</Key>
+      		<Value>Excellent, Cadet. That's the last step of Phase I. The ODA will be relieved you survived this far.
+Press the blue 'Complete' button to transmit your results to Stationeer Command.</Value>
+    	</Record>
+		<Record>
+			<Key>HangUpSuitT1Disc</Key>
+			<Value>Drag your suit into the storage locker.</Value>
+		</Record>
+		<Record>
+      		<Key>HangHelm</Key>
+      		<Value>Drag space helmet onto suit storage</Value>
+    	</Record>
+		<Record>
+      		<Key>HangSuit</Key>
+      		<Value>Drag suit onto suit storage</Value>
+    	</Record>
+		<Record>
+      		<Key>HangPack</Key>
+      		<Value>Drag backpack onto suit storage</Value>
+    	</Record>
+		<Record>
+      		<Key>JetpackOn</Key>
+      		<Value>Turn on jetpack</Value>
+    	</Record>
+		<Record>
+      		<Key>JetpackOff</Key>
+      		<Value>Turn off jetpack</Value>
+    	</Record>
+		<Record>
+			<Key>JetpackT1Disc</Key>
+			<Value>Test your jetpack controls.</Value>
+		</Record>
+		<Record>
+      		<Key>PickUpT1 6</Key>
+      		<Value>Pick up welder from table</Value>
+    	</Record>
+		<Record>
+			<Key>FillOutPaperworkT1Disc</Key>
+			<Value>Press big blue button to transmit results.</Value>
+		</Record>
+		<Record>
+			<Key>OnButtonPressTaskT1</Key>
+			<Value>Press 'Confirm' button to end test</Value>
+		</Record>
+		<Record>
+			<Key>UIBasicsEndDescription</Key>
+			<Value>Congratulations. Your results have been received by Stationeer Command of the Offworld Development Agency.</Value>
+		</Record>
+		<Record>
+			<Key>Dropflare</Key>
+			<Value>Drop the flare in your right hand</Value>
+		</Record>
+		<Record>
+		<Key>NarrationClose</Key>
+		<Value>Close Narration Panel</Value>
+		</Record>
+		<Record>
+			<Key>1GetWaterBottle</Key>
+			<Value>Get water bottle from uniform slot</Value>
+		</Record>
+		<Record>
+			<Key>1DrinkWater</Key>
+			<Value>Drink water</Value>
+		</Record>
+		<Record>
+			<Key>1NarrationExtra1</Key>
+			<Value>All that training has made you thirsty. You need to drink water to rehydrate. Luckily, you have some in your back pocket.</Value>
+		</Record>
+	</Interface>
+</Language>

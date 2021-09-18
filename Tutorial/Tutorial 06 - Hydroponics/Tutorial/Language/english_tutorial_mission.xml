@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Name>English</Name>
+<Code>EN</Code>
+<Font>font_english</Font>
+	<Interface>
+		<Record>
+			<Key>TutoiralHydroponicsAndFood</Key>
+			<Value>Hydroponics, Hydration + Food</Value>
+		</Record>
+		<Record>
+			<Key>TutoiralHydroponicsAndFood</Key><!--This is the description that appers in the menu-->
+			<Value>Hydroponics, Hydration + Food</Value>
+		</Record>
+		<Record>
+			<Key>TutoiralHydroponicsAndFoodSubTitle</Key>
+			<Value>Getting hungry? Test your ability to sustain yourself offworld.</Value>
+		</Record>
+		<Record>
+			<Key>TutoiralHydroponicsAndFoodSubTitle2</Key>
+			<Value>Practical Training: Stage VI.</Value>
+		</Record>
+		<Record>
+			<Key>TutoiralHydroponicsAndFoodDescription</Key>
+			<Value>Welcome Cadet. It's time to test your ability to sustain yourself far, far from home.</Value>
+		</Record>
+		<Record>
+			<Key>6Narration1D2</Key>
+			<Value>In this phase, we'll look at keeping yourself hydrated, growing food, and cooking it up into something useful. Start by setting up a water bottle refill station.</Value>
+		</Record>
+		<Record>
+			<Key>6Narration1D</Key>
+			<Value>In any hydration system, you need a place to store water. Build a water tank and a water tank connector, so you can link it to the pipe network. </Value>
+		</Record>
+		<Record>
+			<Key>6BuildTankConnecter</Key>
+			<Value>Build tank connector in the highlighted position</Value>
+		</Record>
+		<Record>
+			<Key>6MoveThingArea</Key>
+			<Value>Wrestle water tank onto tank connector</Value>
+		</Record>
+		<Record>
+			<Key>ConnectTankToConnecter</Key>
+			<Value>Use wrench to connect water tank to tank connector.</Value>
+		</Record>
+		<Record>
+			<Key>6Narration3D</Key>
+			<Value>Finish the liquid pipe network by connecting the liquid pipes to the tank connector.</Value>
+		</Record>
+		<Record>
+			<Key>6GetPipe</Key>
+			<Value>Get liquid pipes from crate</Value>
+		</Record>
+		<Record>
+			<Key>6BuildPipe</Key>
+			<Value>Place T-junction pipe in highlighted position</Value>
+		</Record>
+		<Record>
+			<Key>6BuildPipept2</Key>
+			<Value>Place pipe in highlighted position</Value>
+		</Record>
+		<Record>
+			<Key>6BuildPipept3</Key>
+			<Value>Place T-junction pipe in highlighted position</Value>
+		</Record>
+		<Record>
+			<Key>6Narration4D</Key>
+			<Value>Before you plant anything, set up a grow light so you can grow all through the night, too, bruh.</Value>
+		</Record>
+		<Record>
+			<Key>6GetGrowLight</Key>
+			<Value>Get grow light kit from crate</Value>
+		</Record>
+		<Record>
+			<Key>6BuildGrowLight</Key>
+			<Value>Place grow light in highlighted position</Value>
+		</Record>
+		<Record>
+			<Key>6GrowLightOn</Key>
+			<Value>Turn on growlight</Value>
+		</Record>
+		<Record>
+			<Key>6Narration5D</Key>
+			<Value>Different plants require different atmospheric ratios.
+But today, we're just testing the basics: you've got water, light, and the correct gas mix, so it's time to plant wheat in each of the hydroponic trays.</Value>
+		</Record>
+		<Record>
+			<Key>6GetWheat</Key>
+			<Value>Get wheat seeds from crate</Value>
+		</Record>
+		<Record>
+			<Key>6PlantWheat</Key>
+			<Value>Plant wheat in the hydroponics trays.</Value>
+		</Record>
+		<Record>
+			<Key>6Narration6D</Key>
+			<Value>We'll be testing your skills with gas systems in the next phase, but for now, just wait for the wheat to grow. We've added a little super fertilizer to speed things up.</Value>
+		</Record>
+		<Record>
+			<Key>6WaitForWheatToGrow</Key>
+			<Value>Wait for wheat to grow.</Value>
+		</Record>
+		<Record>
+			<Key>6Narration6D</Key>
+			<Value>It's harvest time! You can eat raw wheat - if you like - but it will provide more nourishment if you cook it. Harvest 20 wheat, then use the reagent processor to turn it into flour.</Value>
+		</Record>
+		<Record>
+			<Key>6HarvestWheat</Key>
+			<Value>Harvest 20 wheat</Value>
+		</Record>
+		<Record>
+			<Key>6PutWheatInProcessor</Key>
+			<Value>Add wheat to reagent processor funnel</Value>
+		</Record>
+		<Record>
+			<Key>6BenchOn</Key>
+			<Value>Turn on bench</Value>
+		</Record>
+		<Record>
+			<Key>6ReagentProcessorOn</Key>
+			<Value>Turn on reagent processor</Value>
+		</Record>
+		<Record>
+			<Key>6Narration8D</Key>
+			<Value>In a moment, you'll have flour, so you can get baking. You can cook a variety of foods in the microwave, including delicious muffins. Make sure to follow the recipe exactly, because baking is a science.</Value>
+		</Record>
+		<Record>
+			<Key>6PutEggInMicrowave</Key>
+			<Value>Add egg to microwave</Value>
+		</Record>
+		<Record>
+			<Key>6PutMilkInMicrowave</Key>
+			<Value>Add 10ml milk to microwave</Value>
+		</Record>
+		<Record>
+			<Key>6PutFlourInMicrowave</Key>
+			<Value>Add 50g flour to microwave</Value>
+		</Record>
+		<Record>
+			<Key>6MicrowaveOn</Key>
+			<Value>Turn on the microwave</Value>
+		</Record>
+		<Record>
+			<Key>6BakeMuffin</Key>
+			<Value>Bake muffin</Value>
+		</Record>
+		<Record>
+			<Key>6Narration9D</Key>
+			<Value>You're about to recieve one of Agrizero's finest muffins. Enjoy it - and banish that hunger, Cadet.</Value>
+		</Record>
+		<Record>
+			<Key>6EatMuffin</Key>
+			<Value>Eat the muffin</Value>
+		</Record>
+		<Record>
+			<Key>6Narration10D</Key>
+			<Value>Well done, Cadet. You've demonstrated a high degree of self-sufficiency, and acceptable culinary talents. Stationeer Command will be proud of you. Press the important blue button to transmit your results.</Value>
+		</Record>
+		<Record>
+			<Key>6OnButtonPressTask</Key>
+			<Value>Press important button</Value>
+		</Record>
+		<Record>
+			<Key>6FlourCreated</Key>
+			<Value>Create flour</Value>
+		</Record>
+		<Record>
+			<Key>6NarrationInsert1D</Key>
+			<Value>Now you have a water supply, let's get growing. Hydroponic trays provide a simple and effective system from growing plants of all sorts. Finish the network by adding another tray to the array.</Value>
+		</Record>
+		<Record>
+			<Key>6MicrowaveClosed</Key>
+			<Value>Close the microwave</Value>
+		</Record>
+		<Record>
+			<Key>6MicrowaveOpened</Key>
+			<Value>Open the microwave</Value>
+		</Record>
+		<Record>
+			<Key>6HydroponicTray</Key>
+			<Value>Build hydroponics tray</Value>
+		</Record>
+		<Record>
+			<Key>6BuildCables</Key>
+			<Value>Build cable in highlighted position</Value>
+		</Record>
+		<Record>
+			<Key>6PickUpCable</Key>
+			<Value>Pick up cable</Value>
+		</Record>
+		<Record>
+			<Key>6PickUpCable</Key>
+			<Value>Pick up cable</Value>
+		</Record>
+		<Record>
+			<Key>6PickUpItemHydroponicTray</Key>
+			<Value>Pick up hydroponic tray</Value>
+		</Record>
+		<Record>
+			<Key>6GetFlour</Key>
+			<Value>Get Flour from the reagent processor</Value>
+		</Record>
+		<Record>
+			<Key>6EndScreenText</Key>
+			<Value>Good work, Cadet. You have demonstrated acceptable hydration and hydroponic skills.</Value>
+		</Record>
+		<Record>
+			<Key>6WaitForGrow</Key>
+			<Value>Wait for wheat to grow</Value>
+		</Record>
+		<Record>
+			<Key>6GetWaterBottleFiller</Key>
+			<Value>Get water bottle filler kit from crate</Value>
+		</Record>
+		<Record>
+			<Key>6BuildWaterBottleFiller</Key>
+			<Value>Place water bottle filler in highlighted position</Value>
+		</Record>
+		<Record>
+			<Key>6NarrationExtra1</Key>
+			<Value>You're almost ready to fill your water bottle. Grab an empty bottle from the crate, then insert it into the bottle filler.</Value>
+		</Record>
+		<Record>
+			<Key>6GetWaterBottle</Key>
+			<Value>Get empty water bottle from crate</Value>
+		</Record>
+		<Record>
+			<Key>6AddWaterbottletofiller</Key>
+			<Value>Add water bottle to filler</Value>
+		</Record>
+		<Record>
+			<Key>6NarrationExtra2</Key>
+			<Value>Excellent. Now it's time to add water to your liquid network. Grab the ore belt from the crate. Then use the ice crusher to process ice into water.</Value>
+		</Record>
+		<Record>
+			<Key>6GetMingBelt</Key>
+			<Value>Get mining belt from the crate</Value>
+		</Record>
+		<Record>
+			<Key>6AddIceToCrusher</Key>
+			<Value>Take ice from mining belt and add to ice crusher</Value>
+		</Record>
+		<Record>
+			<Key>6MIceCrusherOn</Key>
+			<Value>Turn on ice crusher to fill bottle</Value>
+		</Record>
+	</Interface>
+</Language>

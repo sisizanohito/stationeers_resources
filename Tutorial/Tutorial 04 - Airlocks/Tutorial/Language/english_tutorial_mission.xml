@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Name>English</Name>
+<Code>EN</Code>
+<Font>font_english</Font>
+	<Interface>
+		<Record>
+			<Key>TutoiralAirlocks</Key>
+			<Value>Airlocks</Value>
+		</Record>
+		<Record>
+			<Key>TutoiralAirlocksDescription</Key><!--This is the description that appears in the menu-->
+			<Value>Refresh your knowledge of airlock construction.</Value>
+		</Record>
+		<Record>
+			<Key>TutoiralAtmosphericsSubTitle</Key>
+			<Value>Practical Training: Stage IV</Value>
+		</Record>
+		<Record>
+			<Key>IntoTutoiralAirlocksDescription</Key><!--This is the intro panel at the start of the tutorial-->
+			<Value>Welcome Cadet. To complete this phase of testing and pressurize your base, we will run you through basic airlock construction.</Value>
+		</Record>
+		<Record>
+			<Key>4Narration1T</Key>
+			<Value>Practical Training: Stage IV</Value>
+		</Record>
+		<Record>
+			<Key>4Narration1D</Key>
+			<Value>Before we start, looks like your suit's taken some damage. Use duct tape to fix it.</Value>
+		</Record>
+		<Record>
+			<Key>4GetDucktape</Key>
+			<Value>Equip duct tape in active hand from crate.</Value>
+		</Record>
+		<Record>
+			<Key>4UseDuctTape</Key>
+			<Value>Repair suit.</Value>
+		</Record>
+		<Record>
+			<Key>4Narration2D</Key>
+			<Value>Let's get started. To build an airlock, start by printing two door kits. You'll need to add ingots from the crate to the autolathe.</Value>
+		</Record>
+		<Record>
+			<Key>4PutCopperIngotInAutoLathe</Key>
+			<Value>Add copper ingot to autolathe</Value>
+		</Record>
+		<Record>
+			<Key>4PutGoldIngotInAutoLathe</Key>
+			<Value>Add gold ingot to autolathe</Value>
+		</Record>
+		<Record>
+			<Key>4Narration3D</Key>
+			<Value>You can now print two door kits using the multi-axis molecular compositional system, a.k.a. the autolathe. And begin isolating yourself from the loneliness and disappointment of space.</Value>
+		</Record>
+		<Record>
+			<Key>4FabricateDoor</Key>
+			<Value>Print two door kits</Value>
+		</Record>
+		<Record>
+			<Key>4Narration4D</Key>
+			<Value>Before you can construct replacement doors, ODA protocol dictates you must remove the destroyed ones.</Value>
+		</Record>
+		<Record>
+			<Key>T4Deconstruct1</Key>
+			<Value>Deconstruct destroyed door 1.</Value>
+		</Record>
+		<Record>
+			<Key>T4Deconstruct2</Key>
+			<Value>Deconstruct destroyed door 2.</Value>
+		</Record>
+		<Record>
+			<Key>4Narration5D</Key>
+			<Value>Good work. Now build composite doors in the highlighted positions.
+You'll need to cycle through the options to get the correct door variant.</Value>
+		</Record>
+		<Record>
+			<Key>4BuildPDoor1Tutorial</Key>
+			<Value>Place composite door #1 in highlighted position</Value>
+		</Record>
+		<Record>
+			<Key>4BuildDoor2Tutorial</Key>
+			<Value>Place composite door #2 in highlighted position</Value>
+		</Record>
+		<Record>
+			<Key>4BuildCornerCable1Tutorial</Key>
+			<Value>Connect door #1 to logic and power networks</Value>
+		</Record>
+		<Record>
+			<Key>4BuildCornerCable2Tutorial</Key>
+			<Value>Connect door #2 to logic and power networks</Value>
+		</Record>
+		<Record>
+			<Key>4Narration6D</Key>
+			<Value>Build a gas sensor to monitor pressure in the airlock. You'll need to consult the Stationpedia to learn which device fabricates it.</Value>
+		</Record>
+		<Record>
+			<Key>OnStationpediaOpen</Key>
+			<Value>Open Stationpedia (F1)</Value>
+		</Record>
+		<Record>
+			<Key>4PediaNavigation</Key>
+			<Value>Navigate to 'Kit (Sensors)' page to find fabricator</Value>
+		</Record>
+		<Record>
+			<Key>4FabricateSensorKit</Key>
+			<Value>Fabricate sensor kit</Value>
+		</Record>
+		<Record>
+			<Key>4BuildGasSensorTutorial</Key>
+			<Value>Build gas sensor in highlighted position</Value>
+		</Record>
+		<Record>
+			<Key>4Narration7D</Key>
+			<Value>To pressurize an airlock, you need an active vent to cycle air, and a passive vent to allow atmosphere to pass into the pipe network.</Value>
+		</Record>
+		<Record>
+			<Key>4FabricateItemPassiveVent</Key>
+			<Value>Fabricate passive vent</Value>
+		</Record>
+		<Record>
+			<Key>4GetActiveVent</Key>
+			<Value>Get active vent from crate</Value>
+		</Record>
+		<Record>
+			<Key>4BuildStructureActiveVent</Key>
+			<Value>Build active vent in highlighted position inside airlock</Value>
+		</Record>
+		<Record>
+			<Key>4BuildStructurePassiveVent</Key>
+			<Value>Build passive vent in highlighted position on base wall</Value>
+		</Record>
+		<Record>
+			<Key>4Narration8D</Key>
+			<Value>Connect the vents with a pipe network, in order to pump air from the room into the airlock.</Value>
+		</Record>
+		<Record>
+			<Key>4BuildPipeCorner1Tutorial</Key>
+			<Value>Add pipe #1 to pipe network</Value>
+		</Record>
+		<Record>
+			<Key>4BuildPipeCorner2Tutorial</Key>
+			<Value>Add pipe #2 to pipe network</Value>
+		</Record>
+		<Record>
+			<Key>4Narration9D</Key>
+			<Value>Norsec consoles allow you to control and monitor various systems, depending on their configuration. Think of them as a small, simple brain.</Value>
+		</Record>
+		<Record>
+			<Key>4BuildConsoleTutorial</Key>
+			<Value>Build console in highlighted position</Value>
+		</Record>
+		<Record>
+			<Key>4Narration10D</Key>
+			<Value>Circuitboards provide consoles with a range of different functionality. Here you need an airlock circuitboard, and a datadisk to program it.</Value>
+		</Record>
+		<Record>
+			<Key>4FabricateAirlcokCircuit</Key>
+			<Value>Fabricate airlock circuitboard</Value>
+		</Record>
+		<Record>
+			<Key>4FabricateDataDisk</Key>
+			<Value>Fabricate data disk</Value>
+		</Record>
+		<Record>
+			<Key>4FinsihConsole</Key>
+			<Value>Complete the console with glass sheet</Value>
+		</Record>
+		<Record>
+			<Key>4ConsoleOn</Key>
+			<Value>Turn console on</Value>
+		</Record>
+		<Record>
+			<Key>4Narration11D</Key>
+			<Value>To programme the airlock, you'll need a data disk. Then select the items you would like the console to operate.
+Devices highlight GREEN with RED TEXT when selected.</Value>
+		</Record>
+		<Record>
+			<Key>4PediaOpen</Key>
+			<Value>Open Stationpedia with F1</Value>
+		</Record>
+		<Record>
+			<Key>4Narration12D</Key>
+			<Value>Now select the airlock doors: selecting the external door as 'Exterior' will cause the other to default to 'Internal'.</Value>
+		</Record>
+		<Record>
+			<Key>4GetpipeKit</Key>
+			<Value>Get Pipes from crate.</Value>
+		</Record>
+		<Record>
+			<Key>4GetConsole</Key>
+			<Value>Get Console from crate</Value>
+		</Record>
+		<Record>
+			<Key>4Narration13D</Key>
+			<Value>When you have successfully completed the airlock set up, the switch on the side of the console will light up green. Remove the data disk from the console to lock it.</Value>
+		</Record>
+		<Record>
+			<Key>4PutCircuitInConsole</Key>
+			<Value>Add circuitboard airlock to console.</Value>
+		</Record>
+		<Record>
+			<Key>4Narration14D</Key>
+			<Value>The airlock's ready, so now you can pressurize the base! Turn on the APC to fill the room with atmosphere. The system will maintain a 100kPa pressure.</Value>
+		</Record>
+		<Record>
+			<Key></Key>
+			<Value></Value>
+		</Record>
+		<Record>
+			<Key>4Narration15D</Key>
+			<Value>As the room fills with atmosphere, your suit will register the external pressure and temperature change.</Value>
+		</Record>
+		<Record>
+			<Key>4TurningOnTheOXygen</Key>
+			<Value>Wait for pressure to reach 92kPa</Value>
+		</Record>
+		<Record>
+			<Key>4Narration16D</Key>
+			<Value>Now the base is pressurized, you can test the airlock by pressing 'Cycle to Exterior' on the console.</Value>
+		</Record>
+		<Record>
+			<Key>4OpenAirlock</Key>
+			<Value>Cycle the airlock</Value>
+		</Record>
+		<Record>
+			<Key>4Narration17D</Key>
+			<Value>Good work, Cadet. You've build an airtight, pressurized base. That's the last step of Practical Testing, Phase IV. Return inside and press the 'Complete' button to transmit your results to ODA Stationeer Command.</Value>
+		</Record>
+		<Record>
+			<Key>4AirlockProggramGasSensor</Key>
+			<Value>Select gas sensor</Value>
+		</Record>
+		<Record>
+			<Key>4AirlockProggramActiveVent</Key>
+			<Value>Select active vent</Value>
+		</Record>
+		<Record>
+			<Key>4AirlockExternalDoor</Key>
+			<Value>Select external door as 'Exterior'</Value>
+		</Record>
+		<Record>
+			<Key>4AirlockInternalDoor</Key>
+			<Value>Select Internal door as 'Internal'</Value>
+		</Record>
+		<Record>
+			<Key>4GetDataDisk2</Key>
+			<Value>Remove the data disk</Value>
+		</Record>
+		<Record>
+			<Key>4FlipSwitch</Key>
+			<Value>Turn on APC to start pressurization.</Value>
+		</Record>
+		<Record>
+			<Key>4FinishDoor1</Key>
+			<Value>Finish construction of door #1</Value>
+		</Record>
+		<Record>
+			<Key>4FinishDoor2</Key>
+			<Value>Finish construction of door #2</Value>
+		</Record>
+		<Record>
+			<Key>4Narration55D</Key>
+			<Value>As a Stationeer, you need to finish things: Complete construction of the doors using resources from the crate and your in-built, sub-sentient AI 'tooltip' HUD helper.</Value>
+		</Record>
+		<Record>
+			<Key>4Narration56D</Key>
+			<Value>Naming items on networks reduces confusion: Use the labeller to name the interior and exterior door on the data network.</Value>
+		</Record>
+		<Record>
+			<Key>4GetLabeler</Key>
+			<Value>Equip labeller from the crate</Value>
+		</Record>
+		<Record>
+			<Key>4LabelerOn</Key>
+			<Value>Turn labeller on</Value>
+		</Record>
+		<Record>
+			<Key>4CustomName</Key>
+			<Value>Label inner door 'Interior door'</Value>
+		</Record>
+		<Record>
+			<Key>4CustomName2</Key>
+			<Value>Label the outer door 'Exterior door'</Value>
+		</Record>
+		<Record>
+			<Key>4PutDataDiskInConsole</Key>
+			<Value>Insert Data disk into console</Value>
+		</Record>
+		<Record>
+			<Key></Key>
+			<Value></Value>
+		</Record>
+		<Record>
+			<Key></Key>
+			<Value></Value>
+		</Record>
+		<Record>
+			<Key></Key>
+			<Value></Value>
+		</Record>
+		<Record>
+			<Key></Key>
+			<Value></Value>
+		</Record>
+		<Record>
+			<Key></Key>
+			<Value></Value>
+		</Record>
+		<Record>
+			<Key></Key>
+			<Value></Value>
+		</Record>
+		<Record>
+			<Key></Key>
+			<Value></Value>
+		</Record>
+		<Record>
+			<Key></Key>
+			<Value></Value>
+		</Record>
+		<Record>
+			<Key></Key>
+			<Value></Value>
+		</Record>
+		<Record>
+			<Key></Key>
+			<Value></Value>
+		</Record>
+		<Record>
+			<Key></Key>
+			<Value></Value>
+		</Record>
+		<Record>
+			<Key></Key>
+			<Value></Value>
+		</Record>
+		
+	
+	</Interface>
+</Language>
