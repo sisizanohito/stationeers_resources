@@ -5046,6 +5046,10 @@
       <Value>大気</Value>
     </Record>
     <Record>
+      <Key>FireArm</Key>
+      <Value>武器</Value>
+    </Record>
+    <Record>
       <Key>PowerTools</Key>
       <Value>電動工具</Value>
     </Record>
