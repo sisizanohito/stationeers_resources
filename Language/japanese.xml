@@ -303,6 +303,10 @@
       <Value>植える</Value>
     </Record>
     <Record>
+      <Key>Water</Key>
+      <Value>水</Value>
+    </Record>
+    <Record>
       <Key>Harvest</Key>
       <Value>収穫</Value>
     </Record>
