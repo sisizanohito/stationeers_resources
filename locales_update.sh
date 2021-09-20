@@ -1,4 +1,5 @@
 #!/bin/bash
+cd `dirname $0`
 
 resources_ver=`cat version.txt`
 locales_ver=`cat locales/version.txt`
