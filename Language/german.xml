@@ -4490,6 +4490,18 @@
       <Key>StructureCornerLocker</Key>
       <Value/>
     </RecordThing>
+    <RecordThing>
+      <Key>ItemKitPowerTransmitter</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitInteriorDoors</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitPowerTransmitterOmni</Key>
+      <Value/>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>

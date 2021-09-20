@@ -4283,6 +4283,14 @@
       <Key>ItemKitHorizontalAutoMiner</Key>
       <Value>キット (モジュラーロケットエンジン)</Value>
     </RecordThing>
+    <RecordThing>
+      <Key>ItemKitInteriorDoors</Key>
+      <Value>キット (対爆ドア)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitPowerTransmitterOmni</Key>
+      <Value>キット (ロジックトランスミッター)</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>

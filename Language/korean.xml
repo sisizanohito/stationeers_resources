@@ -3180,6 +3180,14 @@
       <Key>ItemKitHorizontalAutoMiner</Key>
       <Value>로켓 엔진</Value>
     </RecordThing>
+    <RecordThing>
+      <Key>ItemKitInteriorDoors</Key>
+      <Value>조립킷 (방폭문)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitPowerTransmitterOmni</Key>
+      <Value>조립킷 (로직 유닛)</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>

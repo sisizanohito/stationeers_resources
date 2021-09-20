@@ -2274,6 +2274,14 @@
       <Key>ItemKitHorizontalAutoMiner</Key>
       <Value>Rocket Engine</Value>
     </RecordThing>
+    <RecordThing>
+      <Key>ItemKitInteriorDoors</Key>
+      <Value>Kit (Blast Door)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitPowerTransmitterOmni</Key>
+      <Value>Kit (Logic Unit)</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>

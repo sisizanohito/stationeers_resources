@@ -3936,6 +3936,14 @@
       <Key>ItemKitHorizontalAutoMiner</Key>
       <Value>Rakettimoottori</Value>
     </RecordThing>
+    <RecordThing>
+      <Key>ItemKitInteriorDoors</Key>
+      <Value>Varustepakkaus (paineovi)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitPowerTransmitterOmni</Key>
+      <Value>Varustepakkaus (logiikkayksikkö)</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>

@@ -4040,6 +4040,14 @@
       <Key>ItemKitHorizontalAutoMiner</Key>
       <Value>Motore a razzo</Value>
     </RecordThing>
+    <RecordThing>
+      <Key>ItemKitInteriorDoors</Key>
+      <Value>Kit (Porta blindata)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitPowerTransmitterOmni</Key>
+      <Value>Kit (Unità Logica)</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>

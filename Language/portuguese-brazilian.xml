@@ -2852,6 +2852,14 @@
     <RecordThing>
       <Key>StructureRocketModuleMiningJunk</Key>
     </RecordThing>
+    <RecordThing>
+      <Key>ItemKitInteriorDoors</Key>
+      <Value>Kit (Porta de Segurana)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitPowerTransmitterOmni</Key>
+      <Value>Kit (Transmissor Lgico)</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>
