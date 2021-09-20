@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Code>CS</Code>
+  <Interface>
+    <Record>
+      <Key>TutoiralConstruction</Key>
+      <Value>Konstrukce</Value>
+    </Record>
+    <Record>
+      <Key>TutoiralConstructionDescription</Key>
+      <Value>Budování základen pro ODA začíná pochopením základů výstavby.</Value>
+    </Record>
+    <Record>
+      <Key>TutoiralConstructionSubTitle</Key>
+      <Value>Praktický výcvik: Fáze II</Value>
+    </Record>
+    <Record>
+      <Key>IntoTutoiralConstructionDescription</Key>
+      <Value>Dobrý den, kadete. Prokázali jste základní dovednosti Stationeerů, nyní je čas dát se do práce.
+Stationeeři jsou stavitelé, nadevšechno. Otestujme vaše základní konstrukční schopnosti.</Value>
+    </Record>
+    <Record>
+      <Key>2PutAwayScrewDriver</Key>
+      <Value>Vezměte šroubovák a vložte jej do opasku na nářadí.</Value>
+    </Record>
+    <Record>
+      <Key>2PutAwayAngleGrinder</Key>
+      <Value>Vezměte úhlovou brusku do kterékoliv ruky.</Value>
+    </Record>
+    <Record>
+      <Key>2PutAwayPowerdrill</Key>
+      <Value>Vezměte vrtačku a vložte ji do opasku na nářadí.</Value>
+    </Record>
+    <Record>
+      <Key>2Narration1T</Key>
+      <Value>Praktický výcvik: Fáze II</Value>
+    </Record>
+    <Record>
+      <Key>2Narration1D</Key>
+      <Value>Bez nářadí je Stationeer bezbranný proti nepřátelskému vesmíru.
+Jděte k bedně a vezměte si nářadí, než se stane něco strašného.</Value>
+    </Record>
+    <Record>
+      <Key>2Narration2D</Key>
+      <Value>V této simulaci výuky ODA byly stěny &apos;poškozeny&apos; meteorickým deštěm.
+Chcete-li je vyměnit, musíte nejprve pomocí úhlové brusky odstranit poškozené rámy.</Value>
+    </Record>
+    <Record>
+      <Key>2Narration2T</Key>
+      <Value>Rozebrání</Value>
+    </Record>
+    <Record>
+      <Key>T2Deconstruct1</Key>
+      <Value>Odstraňte zničený rám č. 1.</Value>
+    </Record>
+    <Record>
+      <Key>T2Deconstruct2</Key>
+      <Value>Odstraňte zničený rám č. 2.</Value>
+    </Record>
+    <Record>
+      <Key>2Narration3T</Key>
+      <Value>Konstrukce </Value>
+    </Record>
+    <Record>
+      <Key>2Narration3D</Key>
+      <Value>Ujistěte se, že je tato základna uklizená pro příští kadety - dokončete stavbu stěn základny.
+Začněte železnými rámy.</Value>
+    </Record>
+    <Record>
+      <Key>BuildFramesTutorial2N1</Key>
+      <Value>Postavte rám na zvýrazněné místo.</Value>
+    </Record>
+    <Record>
+      <Key>BuildIronFramesT2</Key>
+      <Value>Dokončete rámy pomocí železných plechů + svářečky v aktivní ruce.</Value>
+    </Record>
+    <Record>
+      <Key>2Narration5T</Key>
+      <Value>Rozebrání autosoustruhu.</Value>
+    </Record>
+    <Record>
+      <Key>2Narration5D</Key>
+      <Value>Přesnost a plánování jsou základními dovednostmi Stationeerů. Poslední kadet byl vyhozen z programu pro stavbu autosoustruhu na špatném místě.
+Rozebírejte jej kousek po kousku a poté znovu postavte na zvýrazněném místě.</Value>
+    </Record>
+    <Record>
+      <Key>DeconstructAutolatherT2t1</Key>
+      <Value>Rozeberte 5. stupeň autosoustruhu vrtačkou.</Value>
+    </Record>
+    <Record>
+      <Key>DeconstructAutolatherT2t2</Key>
+      <Value>Rozeberte 4. stupeň autosoustruhu úhlovou bruskou.</Value>
+    </Record>
+    <Record>
+      <Key>DeconstructAutolatherT2t3</Key>
+      <Value>Rozeberte 3. stupeň autosoustruhu kleštěmi.</Value>
+    </Record>
+    <Record>
+      <Key>DeconstructAutolatherT2t4</Key>
+      <Value>Rozeberte 2. stupeň autosoustruhu úhlovou bruskou.</Value>
+    </Record>
+    <Record>
+      <Key>DeconstructAutolatherT2t5</Key>
+      <Value>Rozeberte 1. stupeň autosoustruhu hasákem.</Value>
+    </Record>
+    <Record>
+      <Key>2Narration6T</Key>
+      <Value>Konstrukce autosoustruhu.</Value>
+    </Record>
+    <Record>
+      <Key>2Narration6D</Key>
+      <Value>Máte vše, co potřebujete k obnově autosoustruhu na správném zvýrazněném místě. Takže byste to měli udělat, a to hned.</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial2AutolatePlacement</Key>
+      <Value>Umístěte sadu autosoustruhu.</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial2AutolateConstruct</Key>
+      <Value>Sestavte 2. stupeň autosoustruhu svářečkou + železnými plechy.</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial2AutolateConstruct2</Key>
+      <Value>Sestavte 3. stupeň autosoustruhu pomocí kabelové cívky.</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial2AutolateConstruct3</Key>
+      <Value>Sestavte 4. stupeň autosoustruhu svářečkou + plastovými panely.</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial2AutolateConstruct4</Key>
+      <Value>Sestavte 5. stupeň autosoustruhu pomocí šroubováku.</Value>
+    </Record>
+    <Record>
+      <Key>2Narration7T</Key>
+      <Value>Odstranění poškozeného drátu.</Value>
+    </Record>
+    <Record>
+      <Key>2Narration7D</Key>
+      <Value>Bez energie toho moc neuděláte. Chcete-li stanici zapnout, musíte znovu připojit solární panely k síti. Začněte odstraněním poškozených kabelů.</Value>
+    </Record>
+    <Record>
+      <Key>T2Deconstruct3</Key>
+      <Value>Odstraňte poškozený kabel č. 1 kleštěmi.</Value>
+    </Record>
+    <Record>
+      <Key>T2Deconstruct4</Key>
+      <Value>Odstraňte poškozený kabel č. 2 kleštěmi.</Value>
+    </Record>
+    <Record>
+      <Key>T2Deconstruct5</Key>
+      <Value>Odstraňte poškozený kabel č. 3 kleštěmi.</Value>
+    </Record>
+    <Record>
+      <Key>2Narration8T</Key>
+      <Value>Umístění kabelu.</Value>
+    </Record>
+    <Record>
+      <Key>2Narration8D</Key>
+      <Value>Navrhování elektrických sítí je hlavní součástí výstavby základny.
+Připojte solární panely k elektrické síti pomocí kabelů z bedny. Stejně jako mnoho jiných sad i kabely nabízejí několik variant zapojení.</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial2HCablePlacement</Key>
+      <Value>Vyměňte chybějící silný rovný kabel č. 1.</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial2HCablePlacement2</Key>
+      <Value>Vyměňte chybějící silný spojovací kabel.</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial2HCablePlacement3</Key>
+      <Value>Vyměňte chybějící silný rovný kabel č. 2.</Value>
+    </Record>
+    <Record>
+      <Key>2Narration9T</Key>
+      <Value>Záložní napájení.</Value>
+    </Record>
+    <Record>
+      <Key>2Narration9D</Key>
+      <Value>Ještě jsi neskončil, kadete! Občas se setmí, takže vytvořte záložní napájecí systém pomocí generátoru na tuhá paliva.</Value>
+    </Record>
+    <Record>
+      <Key>2Narration10D</Key>
+      <Value>Budete muset připojit generátor k elektrické síti.</Value>
+    </Record>
+    <Record>
+      <Key>2Narration11T</Key>
+      <Value>Překrytí křižovatky</Value>
+    </Record>
+    <Record>
+      <Key>2Narration11D</Key>
+      <Value>Pomocí funkce &apos;překrytí&apos; propojte nové kabely se stávající sítí.</Value>
+    </Record>
+    <Record>
+      <Key>2GetSolidGenerator</Key>
+      <Value>Vezměte sadu generátorů na tuhá paliva z bedny</Value>
+    </Record>
+    <Record>
+      <Key>2PlaceSolidGenerator</Key>
+      <Value>Umístěte generátor na tuhá paliva</Value>
+    </Record>
+    <Record>
+      <Key>2MergeEvent</Key>
+      <Value>K vytvoření křižovatky použijte kleště a kabel.</Value>
+    </Record>
+    <Record>
+      <Key>2Narration12T</Key>
+      <Value>Zapnutí</Value>
+    </Record>
+    <Record>
+      <Key>2Narration12D</Key>
+      <Value>Regulátory napěťového okruhu oddělují energii a data do podsítí, stabilizují elektrický tok a poskytují záložní energii. Jen buďte opatrní, jakým způsobem je instalujete.</Value>
+    </Record>
+    <Record>
+      <Key>2GetAPC</Key>
+      <Value>Vezměte regulátor napěťového okruhu (RNO) z bedny.</Value>
+    </Record>
+    <Record>
+      <Key>2PlaceAPC</Key>
+      <Value>Umístěte RNO na zvýrazněné místo se správnou orientací.</Value>
+    </Record>
+    <Record>
+      <Key>2Narration13D</Key>
+      <Value>Nyní spusťte generátor pomocí uhlí nacházejícího se v bedně.</Value>
+    </Record>
+    <Record>
+      <Key>2Narration14D</Key>
+      <Value>RNO také nabíjí baterie, což je dobré: ODA doporučuje mít několik nabitých baterií stále po ruce. V případě výpadku bude baterie krátce poskytovat záložní napájení.</Value>
+    </Record>
+    <Record>
+      <Key>2GetBatt</Key>
+      <Value>Vezměte baterii z bedny.</Value>
+    </Record>
+    <Record>
+      <Key>2OpenAPCTask</Key>
+      <Value>Otevřete RNO páčidlem.</Value>
+    </Record>
+    <Record>
+      <Key>2GetCoal</Key>
+      <Value>Vezměte uhlí z bedny</Value>
+    </Record>
+    <Record>
+      <Key>AddCoalToGenerator</Key>
+      <Value>Přidejte uhlí do generátoru</Value>
+    </Record>
+    <Record>
+      <Key>2TurnOnGenerator</Key>
+      <Value>Zapněte generátor</Value>
+    </Record>
+    <Record>
+      <Key>PlaceBatt</Key>
+      <Value>Vložte baterii do RNO.</Value>
+    </Record>
+    <Record>
+      <Key>2Narration15D</Key>
+      <Value>Dobrá práce, dokončili jste napájecí síť. Vedl jste si lépe než poslední kadet.
+Zapněte RNO pro napájení sítě a budiž SVĚTLO.</Value>
+    </Record>
+    <Record>
+      <Key>2Narration17D</Key>
+      <Value>Více informací naleznete v Stationpedii, proto stiskněte {KEY:Help} a obnovte si své znalosti o regulátoru napěťového okruhu (RNO).</Value>
+    </Record>
+    <Record>
+      <Key>2FlipSwitch</Key>
+      <Value>Zapněte RNO.</Value>
+    </Record>
+    <Record>
+      <Key>2PediaOpen</Key>
+      <Value>Otevřete Stationpedii.</Value>
+    </Record>
+    <Record>
+      <Key>2PediaNavigation</Key>
+      <Value>Přejděte na stránku regulátoru napěťového okruhu.</Value>
+    </Record>
+    <Record>
+      <Key>2GettingHelpClose</Key>
+      <Value>Zavřete Stationpedii.</Value>
+    </Record>
+    <Record>
+      <Key>2Narration16T</Key>
+      <Value>Kompletní.</Value>
+    </Record>
+    <Record>
+      <Key>2Narration16D</Key>
+      <Value>Dobrá práce, kadete. Opravili jste stěny a dokončili napájecí systém. To byl poslední krok fáze II. Stisknutím tlačítka &apos;Dokončit&apos; přenesete výsledky na velitelství Stationeer a my půjdeme dál.</Value>
+    </Record>
+    <Record>
+      <Key>2OnButtonPressTaskT1</Key>
+      <Value>Stisknutím tlačítka dokončete výcvik.</Value>
+    </Record>
+    <Record>
+      <Key>2GetCableHCoil</Key>
+      <Value>Vezměte silné kabely z bedny.</Value>
+    </Record>
+    <Record>
+      <Key>2GetFrames</Key>
+      <Value>Vezměte železné rámy z bedny.</Value>
+    </Record>
+  </Interface>
+</Language>

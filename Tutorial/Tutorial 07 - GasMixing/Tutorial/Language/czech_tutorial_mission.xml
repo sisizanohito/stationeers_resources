@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Code>CS</Code>
+  <Interface>
+    <Record>
+      <Key>TutoiralGasMixing</Key>
+      <Value>Míchání plynů</Value>
+    </Record>
+    <Record>
+      <Key>TutoiralGasMixingSubTitle</Key>
+      <Value>Praktický výcvik: Fáze IV</Value>
+    </Record>
+    <Record>
+      <Key>7WasteTankOpened</Key>
+      <Value>Otevřete odpadní nádrž obleku</Value>
+    </Record>
+    <Record>
+      <Key>7GetActiveVent</Key>
+      <Value>Vezměte aktivní ventilaci z bedny</Value>
+    </Record>
+    <Record>
+      <Key>7BuildActiveVent</Key>
+      <Value>Postavte aktivní ventilaci na zvýrazněné místo</Value>
+    </Record>
+    <Record>
+      <Key>7MoveToArea</Key>
+      <Value>Vstupte do atmosférické místnosti</Value>
+    </Record>
+    <Record>
+      <Key>7GetAtmospherics</Key>
+      <Value>Vezměte sadu atmosfériky z bedny</Value>
+    </Record>
+    <Record>
+      <Key>7BuildAtmospherics</Key>
+      <Value>Postavte filtrační jednotku na zvýrazněné místo</Value>
+    </Record>
+    <Record>
+      <Key>7GetPipeKit</Key>
+      <Value>Vezměte potrubí z bedny</Value>
+    </Record>
+    <Record>
+      <Key>7BuildPipe</Key>
+      <Value>Dokončete potrubní síť kyslíku</Value>
+    </Record>
+    <Record>
+      <Key>7GetPipeKitW</Key>
+      <Value>Vezměte druhou potrubní sadu z bedny</Value>
+    </Record>
+    <Record>
+      <Key>7BuildPipeW</Key>
+      <Value>Dokončete odpadní síť</Value>
+    </Record>
+    <Record>
+      <Key>7GetFilter</Key>
+      <Value>Vezměte kyslíkový filtr z bedny</Value>
+    </Record>
+    <Record>
+      <Key>7GetPipeRadiator</Key>
+      <Value>Vezměte potrubní radiátor z bedny</Value>
+    </Record>
+    <Record>
+      <Key>7BuildPipeRadiator</Key>
+      <Value>Umístěte potrubní radiátor na zvýrazněné místo</Value>
+    </Record>
+    <Record>
+      <Key>7GetIceCrusher</Key>
+      <Value>Vezměte drtič ledu z bedny</Value>
+    </Record>
+    <Record>
+      <Key>7BuildIceCrusher</Key>
+      <Value>Postavte drtič ledu na zvýrazněné místo</Value>
+    </Record>
+    <Record>
+      <Key>7ConstructIceCruhser</Key>
+      <Value>Použijte železné plechy na drtiči ledu</Value>
+    </Record>
+    <Record>
+      <Key>7ConstructIceCruhser2</Key>
+      <Value>Dokončete drtič ledu kabely</Value>
+    </Record>
+    <Record>
+      <Key>7GetMiningBelt</Key>
+      <Value>Vezměte hornický opasek z bedny</Value>
+    </Record>
+    <Record>
+      <Key>7AddIceToCrusher</Key>
+      <Value>Přidejte těkavé látky do drtiče ledu</Value>
+    </Record>
+    <Record>
+      <Key>7GetGasMixer</Key>
+      <Value>Vezměte směšovač plynu z bedny</Value>
+    </Record>
+    <Record>
+      <Key>7BuildGasMixer</Key>
+      <Value>Postavte směšovač plynu na zvýrazněné místo</Value>
+    </Record>
+    <Record>
+      <Key>7GetRegulator</Key>
+      <Value>Vezměte regulátor tlaku z bedny</Value>
+    </Record>
+    <Record>
+      <Key>7BuildRegulator</Key>
+      <Value>Postavte regulátor tlaku na zvýrazněné místo.</Value>
+    </Record>
+    <Record>
+      <Key>7GetValve</Key>
+      <Value>Vezměte potrubní ventil z bedny</Value>
+    </Record>
+    <Record>
+      <Key>7BuildValve</Key>
+      <Value>Postavte ventil na zvýrazněné místo</Value>
+    </Record>
+    <Record>
+      <Key>7GetTankConnector</Key>
+      <Value>Vezměte úložiště kanystru z bedny</Value>
+    </Record>
+    <Record>
+      <Key>7BuildTankConnector</Key>
+      <Value>Postavte úložiště kanystru na zvýrazněné místo</Value>
+    </Record>
+    <Record>
+      <Key>7GetEmptyTank</Key>
+      <Value>Vyjměte kanystr z uložiště</Value>
+    </Record>
+    <Record>
+      <Key>7AddCanisterToTankConnector</Key>
+      <Value>Vložte kanystr na palivo ze svářečky do úložiště kanystru</Value>
+    </Record>
+    <Record>
+      <Key>7PediaNavigation</Key>
+      <Value>Podívejte se na stránku kanystru (palivo) ve Stationpedii</Value>
+    </Record>
+    <Record>
+      <Key>7PediaNavigationClose</Key>
+      <Value>Zavřít Stationpedia</Value>
+    </Record>
+    <Record>
+      <Key>7LimitRegulator</Key>
+      <Value>Nastavte tlak na regulátoru na 1950 kPa</Value>
+    </Record>
+    <Record>
+      <Key>7IceCrusherOn</Key>
+      <Value>Zapněte drtič ledu</Value>
+    </Record>
+    <Record>
+      <Key>7FilterOn</Key>
+      <Value>Zapněte filtrační jednotku</Value>
+    </Record>
+    <Record>
+      <Key>7GasMixerOn</Key>
+      <Value>Zapněte směšovač plynu</Value>
+    </Record>
+    <Record>
+      <Key>7PressureReg</Key>
+      <Value>Zapněte regulátor tlaku</Value>
+    </Record>
+    <Record>
+      <Key>7OpenSuit</Key>
+      <Value>Otevřete uživatelské rozhraní obleku</Value>
+    </Record>
+    <Record>
+      <Key>7OpenWasteTankMenu</Key>
+      <Value>Vyberte odpadní nádrž</Value>
+    </Record>
+    <Record>
+      <Key>7FinishDoor</Key>
+      <Value>Dokončete přechodovou komoru</Value>
+    </Record>
+    <Record>
+      <Key>7GetTablet</Key>
+      <Value>Vezměte tablet z batohu</Value>
+    </Record>
+    <Record>
+      <Key>7InsertCart</Key>
+      <Value>Vložte atmosférický analyzátor do tabletu</Value>
+    </Record>
+  </Interface>
+</Language>

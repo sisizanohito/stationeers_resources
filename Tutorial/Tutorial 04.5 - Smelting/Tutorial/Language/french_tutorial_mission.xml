@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Code>FR</Code>
+  <Interface>
+    <Record>
+      <Key>TutoiralSmelting</Key>
+      <Value>Fonte d&apos;alliage</Value>
+    </Record>
+    <Record>
+      <Key>TutoiralSmeltingDescription</Key>
+      <!--This is the description that appers in the menu-->
+      <Value>Améliorez vos compétences en métallurgie et apprenez à créer des alliages métalliques pour des constructions plus ambitieuses.</Value>
+    </Record>
+    <Record>
+      <Key>TutoiralAtmosphericsSubTitle</Key>
+      <Value>Formation pratique : Étape V</Value>
+    </Record>
+    <Record>
+      <Key>TutoiralSmleting</Key>
+      <Value>Fonte d&apos;alliage</Value>
+    </Record>
+    <Record>
+      <Key>TutoiralSmletingSubTitle</Key>
+      <Value>Formation pratique : Étape V</Value>
+    </Record>
+    <Record>
+      <Key>TutoiralSmletingDescription</Key>
+      <Value>Bienvenue Cadet. Stationeer Command est satisfait de vos progrès. Ils vous ont autorisé à améliorer vos compétences. Dans cette phase, nous testerons vos capacités de métallurgiste. Vous allez créer des alliages, afin de créer des structures et des dispositifs plus avancés.</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration1T</Key>
+      <Value>Fonte</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration1D</Key>
+      <Value>Vous avez ajouté beaucoup d’appareils à votre base, et vous commencez à manquer de puissance. Une batterie stationnaire pourrait aider, en vous permettant de stocker l’énergie excédentaire pour une utilisation ultérieure. La construction  de la batterie nécessite de l’acier, donc d’abord, vous devez construire un fourneau pour la fusion des alliages.</Value>
+    </Record>
+    <Record>
+      <Key>4.5GetFurnace</Key>
+      <Value>Ramassez un kit(fourneau) dans la caisse</Value>
+    </Record>
+    <Record>
+      <Key>4.5BuildFurnace</Key>
+      <Value>Construire le fourneau dans la zone en surbrillance</Value>
+    </Record>
+    <Record>
+      <Key>4.5FinishFurnace</Key>
+      <Value>Finir la construction du fourneau</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration2D</Key>
+      <Value>Les fours produisent des lingots métalliques, de la chaleur et des gaz résiduaires. Le manuel Stationeers suggère de capturer ce gaz pour l’utiliser ailleurs, mais vous n’êtes pas encore prêt pour ça. Vous devrez donc l&apos;évacuer à l’extérieur, pour éviter de vous empoisonner. Cela vous permettra également de vider le four, plus tard.</Value>
+    </Record>
+    <Record>
+      <Key>4.5BuildPipe</Key>
+      <Value>Placez le tuyau dans la zone en surbrillance</Value>
+    </Record>
+    <Record>
+      <Key>4.5PickUpPipe</Key>
+      <Value>Ramassez un tuyau dans la caisse</Value>
+    </Record>
+    <Record>
+      <Key>4.5PickUpPassiveVent</Key>
+      <Value>Ramassez une ventilation passive dans la caisse</Value>
+    </Record>
+    <Record>
+      <Key>4.5BuildPassiveVent</Key>
+      <Value>Placer la ventilation passive dans la zone en surbrillance à l&apos;extérieur</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration3D</Key>
+      <Value>La gestion de l&apos;atmosphère sur des roches stériles et sans air fait partie du travail quotidien d&apos;un stationeer. Les pompes de volume sont pratiques. Ajouter-en une à votre réseau de tuyau, et elle fera office de soupape pour maintenir la pression dans le four. Ensuite elle vous permettra d’éliminer les gaz résiduels lorsque vous aurez terminé la fusion.</Value>
+    </Record>
+    <Record>
+      <Key>4.5BuildPump</Key>
+      <Value>Placez la pompe dans la zone en surbrillance</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration4D</Key>
+      <Value>Fait intéressant : les accidents liés aux fourneaux ont été la principale cause de démembrement de Stationeer l’an dernier. Vous devez en surveiller la pression et la température en tout temps, sinon cela peut vous causer quelques désagréments. Configurez des consoles pour afficher ces informations à côté du four.</Value>
+    </Record>
+    <Record>
+      <Key>4.5PlaceConsole</Key>
+      <Value>Construire une console dans la zone en surbrillance</Value>
+    </Record>
+    <Record>
+      <Key>4.5PutGasCircuitInConsole</Key>
+      <Value>Insérer un Circuit imprimé (Afficheur de gaz) dans la console inachevée</Value>
+    </Record>
+    <Record>
+      <Key>4.5Finishconsole</Key>
+      <Value>Complétez la console avec une plaque de verre</Value>
+    </Record>
+    <Record>
+      <Key>4.5PutDataDiskInConsole</Key>
+      <Value>Insérer le disque de données dans la console</Value>
+    </Record>
+    <Record>
+      <Key>4.5ConsoleOn</Key>
+      <Value>Activer la console</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration5D</Key>
+      <Value>Pour programmer l&apos;affichage de la température du four sur la console, basculez-la en mode &apos;Température&apos;. Cliquer sur le bouton actuellement intitulé &apos;Mode: Pressure&apos;.</Value>
+    </Record>
+    <Record>
+      <Key>4.5ConfigureGasSensorTask</Key>
+      <Value>Mettez la  console en mode &apos;Temperature&apos;</Value>
+    </Record>
+    <Record>
+      <Key>4,5ConfigureGasSensorTask1</Key>
+      <Value>Sélectionner le fourneau dans la liste de la console</Value>
+    </Record>
+    <Record>
+      <Key>4,5ConfigureGasSensorTask2</Key>
+      <Value>Configurer la seconde pour lire la pression</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration6D</Key>
+      <Value>Excellent, vous êtes prêt à fondre vos premiers alliages. Consultez la Stationpedia pour savoir comment alimenter le fourneau.</Value>
+    </Record>
+    <Record>
+      <Key>4.5HowToMakeBattery</Key>
+      <Value>Consulter la page &apos;Kit (Batterie)&apos; de la Stationpedia</Value>
+    </Record>
+    <Record>
+      <Key>4.5PediaNavigation1</Key>
+      <Value>Consultez la page &apos;Fourneau&apos; de la Stationpedia pour connaitre la recette du carburant</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration8D</Key>
+      <Value>L’ODA a besoin de vos services, là-bas dans le Système Solaire dès que possible. Nous vous avons donc laissé une réserve d’oxite et de volatiles, pour accélérer les choses. Vous trouverez la ceinture de mineur dans la caisse.</Value>
+    </Record>
+    <Record>
+      <Key>4.5PickUpMiningBelt</Key>
+      <Value>Ramasser la ceinture de mineur dans la caisse</Value>
+    </Record>
+    <Record>
+      <Key>4.5EquiptMiningbelt</Key>
+      <Value>Équipez vous de la ceinture de mineur</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration10D</Key>
+      <Value>Les ressources ne viennent pas toujours dans la quantité exacte dont vous avez besoin. Vous avez parfois besoin de les diviser. La glace se fissure facilement dans votre poigne puissante.</Value>
+    </Record>
+    <Record>
+      <Key>OpenOxiteMenu</Key>
+      <Value>Cliquez sur la &apos;Glace (Oxite)&apos;</Value>
+    </Record>
+    <Record>
+      <Key>4.5SplitStack</Key>
+      <Value>Diviser la Glace (Oxite) en deux</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration11D</Key>
+      <Value>Mettons le feu à tout cela. Ce n’est pas exactement la « meilleure pratique » de l’ODA, mais l’ajout de glace directement dans le four fonctionnera pour l’instant. Vous devez traiter chaque morceau d’oxite individuellement, en appuyant plusieurs fois sur le bouton &apos;Activer&apos;. Le couvercle du four se rouvrira lorsque l’oxite sera entièrement fondue.</Value>
+    </Record>
+    <Record>
+      <Key>4.5AddOxitetoFurnace</Key>
+      <Value>Ajouter 6 Oxites dans le fourneau</Value>
+      <!--Change to match tutorial-->
+    </Record>
+    <Record>
+      <Key>4.5IgnitingTheFurnace</Key>
+      <Value>Traiter l&apos;oxite : appuyer sur le bouton &apos;Activer&apos; jusqu&apos;à ce que le couvercle s&apos;ouvre</Value>
+    </Record>
+    <Record>
+      <Key>4.5AddVolatilestoFurnace</Key>
+      <Value>Ajouter 12 volatiles dans le fourneau</Value>
+      <!--Change to match tutorial-->
+    </Record>
+    <Record>
+      <Key>4.5IgnitingTheFurnace</Key>
+      <Value>Traiter l&apos;oxite : appuyer sur le bouton &apos;Activer&apos; jusqu&apos;à ce que le couvercle s&apos;ouvre</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration12D</Key>
+      <Value>Il n’y a pas d’atmosphère dans cette pièce, donc vous ne pouvez pas entendre le rugissement de la fournaise - mais elle rugit. Préparez donc vos autres ingrédients. Imprimer une batterie stationnaire nécessite également du cuivre et de l’or. Nous vous avons laissé des minerais dans le casier. Remarque : la température et la pression plus élevées du fourneau permet de fondre rapidement les minerais.</Value>
+    </Record>
+    <Record>
+      <Key>5AddCoppertoFurnace</Key>
+      <Value>Ajouter 50 minerai de cuivre dans le fourneau</Value>
+    </Record>
+    <Record>
+      <Key>4.5OpenFurnaceC</Key>
+      <Value>Tirez le levier lorsque la fusion est terminée</Value>
+    </Record>
+    <Record>
+      <Key>4.5SmeltCopper</Key>
+      <Value>Attendre que le lingot de cuivre soit fondu</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration13D</Key>
+      <Value>Excellent. maintenant fabriquer un lingot d’or, alchimiste de l’espace.</Value>
+    </Record>
+    <Record>
+      <Key>4.5AddGoldtoFurnace</Key>
+      <Value>Insérer 50 Minerai (Or) dans le fourneau</Value>
+    </Record>
+    <Record>
+      <Key>4.5OpenFurnace</Key>
+      <Value>Ejecter le Lingot</Value>
+    </Record>
+    <Record>
+      <Key>4.5SmeltGold</Key>
+      <Value>Attendre que le lingot d&apos;or soit fondu</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration14D</Key>
+      <Value>Si vous êtes arrivé jusqu’ici, Cadet, vos chances de survivre à ce test sont bien supérieures à 50%. Mais le fourneau maintient la pression, même quand il refroidit. Donc, à moins que vous ne vouliez faire &apos;bang&apos;, ventilez le fourneau avant de le réutiliser.</Value>
+    </Record>
+    <Record>
+      <Key>4.5TurnOnVolPump</Key>
+      <Value>Allumer la pompe pour aspirer les gaz</Value>
+    </Record>
+    <Record>
+      <Key>4.5VentingTheGases</Key>
+      <Value>Laisser la pression descendre sous 99 kPa</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration15D</Key>
+      <Value>Maintenant que la pression du four a été réduite à des niveaux sûrs. Arrêtez la pompe et refaites le plein du four, pour sa remise en marche. Si vous avez besoin de minerai supplémentaire, il y en a plus dans le deuxième casier.</Value>
+    </Record>
+    <Record>
+      <Key>4.5VentingTheGases2</Key>
+      <Value>Remettez le fourneau en chauffe</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration16D</Key>
+      <Value>Comme la fuséologie et l&apos;organisation de fiesta, les bons ratios de minerais sont essentiels pour la fusion des alliages. Consultez la Stationpedia pour trouver le meilleur ratio de fer et de carbone pour la fusion de l’acier, ainsi que la pression et la température requise.</Value>
+    </Record>
+    <Record>
+      <Key>4.5HowToMakeSteel</Key>
+      <Value>Consulter la page &apos;Lingot (Acier)&apos; de la Stationpedia</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration17D</Key>
+      <Value>Lorsque vous ajoutez du carbone (charbon) et du fer dans le fourneau, la fusion de l’alliage commence automatiquement. Si vous éjectez le fer avant d’ajouter le charbon, vous obtiendrez simplement un lingot de fer.</Value>
+    </Record>
+    <Record>
+      <Key>4.5AddIrontoFurnace</Key>
+      <Value>Ajouter 24 Minerai (Fer)</Value>
+    </Record>
+    <Record>
+      <Key>4.5AddCoaltoFurnace</Key>
+      <Value>Ajouter 8 Minerai (Charbon)</Value>
+    </Record>
+    <Record>
+      <Key>4.5SmeltSteel</Key>
+      <Value>Attendre la fusion complète du lingot d’acier</Value>
+    </Record>
+    <Record>
+      <Key>4.5PickUpSteel</Key>
+      <Value>Ejectez et Ramassez le lingot d&apos;acier</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration18D</Key>
+      <Value>Bravo, cadet. Maintenant, vous avez tout ce dont vous avez besoin pour améliorer votre système d’alimentation avec une batterie stationnaire. Imprimer le kit (batterie) à l’aide de l’imprimante électronique.</Value>
+    </Record>
+    <Record>
+      <Key>4.5MakeStationBattery</Key>
+      <Value>Imprimez un Kit (Batterie)</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration19D</Key>
+      <Value>Excellent. Les batteries stationnaires vous permettent de stocker l’énergie excédentaire, de sorte que vous n’avez pas besoin de la générer continuellement. Placez-le à côté des autres batteries de votre réseau.</Value>
+    </Record>
+    <Record>
+      <Key>4.5BuildStationBattery</Key>
+      <Value>Placez la batterie stationnaire dans la zone en surbrillance</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration20D</Key>
+      <Value>Pour raison de sécurité, les batteries doivent être allumées pour recevoir l&apos;énergie. L’interrupteur d’une batterie est sur le côté.</Value>
+    </Record>
+    <Record>
+      <Key>4.5TurnBattery</Key>
+      <Value>Allumez la batterie stationnaire</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration21D</Key>
+      <Value>On y est presque ! Allumez le contrôleur d&apos;alimentation (APC) du réseau de batteries pour le relier au réseau électrique principal. L&apos;APC isole le réseau de batteries et assure un flux de puissance stable et régulier vers le réseau principal.</Value>
+    </Record>
+    <Record>
+      <Key>4.5TurnAPC1</Key>
+      <Value>Allumez le Contrôleur d&apos;Alimentation du réseau de batterie</Value>
+    </Record>
+    <Record>
+      <Key>4.5TurnAPC</Key>
+      <Value>Allumez le Contrôleur d&apos;Alimentation principal</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration22D</Key>
+      <Value>Félicitations - le système d’alimentation de votre base est terminé! C’est la dernière étape des tests pratiques de la phase V. 
+Appuyez sur le Gros Bouton Bleu pour transmettre vos résultats à Stationeer Command.</Value>
+    </Record>
+    <Record>
+      <Key>4.5OnButtonPressTaskT1</Key>
+      <Value>Appuyez sur le Gros Bouton Bleu pour terminer le test</Value>
+    </Record>
+    <Record>
+      <Key>4.5AddCoppertoFurnace</Key>
+      <Value>Insérer 50 Minerai (Cuivre) dans le fourneau</Value>
+    </Record>
+    <Record>
+      <Key>4.5TurnOffVolPump</Key>
+      <Value>Eteignez la pompe</Value>
+    </Record>
+    <Record>
+      <Key>4.5CloseFurnace</Key>
+      <Value>Fermer le fourneau en relevant le levier d&apos;éjection</Value>
+    </Record>
+    <Record>
+      <Key>TutoiralSmeltingEndDescription</Key>
+      <Value>Excellent travail, Cadet - vous avez maîtrisé les bases de la fusion de l’acier.</Value>
+    </Record>
+    <Record>
+      <Key>4.5OpenMiningbelt</Key>
+      <Value>Ouvrez la ceinture de mineur</Value>
+    </Record>
+    <Record>
+      <Key>4.5PediaNavigationClose</Key>
+      <Value>Fermer la Stationpedia quand vous avez fini de lire</Value>
+    </Record>
+    <Record>
+      <Key>4.5RemoveDataDisk</Key>
+      <Value>Retirer le disque de données de la console</Value>
+    </Record>
+    <Record>
+      <Key>4.5NarrationInsert1D</Key>
+      <Value>Le lingot de cuivre est prêt. Tirez sur le levier pour éjecter le lingot.</Value>
+    </Record>
+    <Record>
+      <Key>4.5NarrationInsert2D</Key>
+      <Value>Maintenant, allumez le réseau électrique principal, et ... que la lumière soit.</Value>
+    </Record>
+    <Record>
+      <Key>4.5OpenAPCTask</Key>
+      <Value>Ouvrez le Contrôleur d&apos;Alimentation principal</Value>
+    </Record>
+  </Interface>
+</Language>

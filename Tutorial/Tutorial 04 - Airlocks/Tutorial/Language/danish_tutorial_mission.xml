@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Code>DA</Code>
+  <Interface>
+    <Record>
+      <Key>4BuildPDoor1Tutorial</Key>
+      <Value>Tag {THING:ItemSpaceHelmet}en på</Value>
+    </Record>
+    <Record>
+      <Key>4BuildDoor2Tutorial</Key>
+      <Value>Tag {THING:ItemSpaceHelmet}en på</Value>
+    </Record>
+    <Record>
+      <Key>4BuildGasSensorTutorial</Key>
+      <Value>Tag {THING:ItemSpaceHelmet}en på</Value>
+    </Record>
+    <Record>
+      <Key>4GetActiveVent</Key>
+      <Value>Tag {THING:ItemEvaSuit}en på</Value>
+    </Record>
+    <Record>
+      <Key>4BuildStructureActiveVent</Key>
+      <Value>Tag {THING:ItemSpaceHelmet}en på</Value>
+    </Record>
+    <Record>
+      <Key>4BuildStructurePassiveVent</Key>
+      <Value>Tag {THING:ItemSpaceHelmet}en på</Value>
+    </Record>
+    <Record>
+      <Key>4BuildConsoleTutorial</Key>
+      <Value>Tag {THING:ItemSpaceHelmet}en på</Value>
+    </Record>
+    <Record>
+      <Key>4ConsoleOn</Key>
+      <Value>Tag {THING:ItemSpaceHelmet}en på</Value>
+    </Record>
+    <Record>
+      <Key>4GetpipeKit</Key>
+      <Value>Tag {THING:ItemEvaSuit}en på</Value>
+    </Record>
+    <Record>
+      <Key>4GetConsole</Key>
+      <Value>Tag {THING:ItemEvaSuit}en på</Value>
+    </Record>
+    <Record>
+      <Key>4GetLabeler</Key>
+      <Value>Tag {THING:ItemSpaceHelmet}en på</Value>
+    </Record>
+    <Record>
+      <Key>4LabelerOn</Key>
+      <Value>Tag {THING:ItemSpaceHelmet}en på</Value>
+    </Record>
+  </Interface>
+</Language>

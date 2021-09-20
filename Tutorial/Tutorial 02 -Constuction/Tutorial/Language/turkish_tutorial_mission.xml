@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Code>TR</Code>
+  <Interface>
+    <Record>
+      <Key>TutoiralConstruction</Key>
+      <Value>İnşaat</Value>
+    </Record>
+    <Record>
+      <Key>2Narration3D</Key>
+      <Value>Bir sonraki öğrenci için bu üssün düzenli olduğundan emin ol; üs duvarlarının inşaasını tamamla.
+Demir çerçeveler ile başla.</Value>
+    </Record>
+    <Record>
+      <Key>BuildFramesTutorial2N1</Key>
+      <Value>Vurgulanan konuma çerçeveyi inşa et.</Value>
+    </Record>
+    <Record>
+      <Key>2Narration12T</Key>
+      <Value>Güç Vermek</Value>
+    </Record>
+    <Record>
+      <Key>2GetBatt</Key>
+      <Value>Sandıktan pili al</Value>
+    </Record>
+    <Record>
+      <Key>2GetCoal</Key>
+      <Value>Sandıktan kömürü al</Value>
+    </Record>
+    <Record>
+      <Key>2PediaOpen</Key>
+      <Value>Stationpedia&apos;yı aç</Value>
+    </Record>
+    <Record>
+      <Key>2PediaNavigation</Key>
+      <Value>Pil Şarjı ve Güç Denetleyicileri</Value>
+    </Record>
+    <Record>
+      <Key>2GettingHelpClose</Key>
+      <Value>Stationpedia&apos;yı kapat</Value>
+    </Record>
+    <Record>
+      <Key>2Narration16T</Key>
+      <Value>Tamamla.</Value>
+    </Record>
+    <Record>
+      <Key>2GetCableHCoil</Key>
+      <Value>Sandıktan Ağır Kabloyu al.</Value>
+    </Record>
+    <Record>
+      <Key>2GetFrames</Key>
+      <Value>Sandıktan Demir Çerçeveleri al.</Value>
+    </Record>
+  </Interface>
+</Language>

@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Code>CS</Code>
+  <Interface>
+    <Record>
+      <Key>Tutorial-BasicRocketry</Key>
+      <Value>Raketová technika</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial-BasicRocketryDescription</Key>
+      <Value>Osvěžení raketové vědy.</Value>
+    </Record>
+    <Record>
+      <Key>LaunchPlatforms</Key>
+      <Value>Začínáme s raketou</Value>
+    </Record>
+    <Record>
+      <Key>LaunchPlatformsDescription</Key>
+      <Value>Než budete moci vypustit raketu, musíte postavit odpalovací rampu.</Value>
+    </Record>
+    <Record>
+      <Key>LaunchPlatformsTask1</Key>
+      <Value>Postupujte podle postupu na místo spuštění a vezměte {THING:ItemKitStructureLaunchPad} z bílé bedny.</Value>
+    </Record>
+    <Record>
+      <Key>LaunchPlatformsTask2</Key>
+      <Value>Postavte {THING:StructureLaunchPad} na zvýrazněné místo.</Value>
+    </Record>
+    <Record>
+      <Key>LaunchPlatforms2</Key>
+      <Value>Budování odpalovací platformy</Value>
+    </Record>
+    <Record>
+      <Key>LaunchPlatformsDescription2</Key>
+      <Value>{THING:StructureLaunchPad} je hlavním plnícím místem rakety a připojuje se ke všem modulům rakety.</Value>
+    </Record>
+    <Record>
+      <Key>WeildSteelPlatesL</Key>
+      <Value>Přivařte {THING:ItemSteelSheets} k {THING:StructureLaunchPad}.</Value>
+    </Record>
+    <Record>
+      <Key>ElectronicsL</Key>
+      <Value>Připojte elektroniku k {THING:StructureLaunchPad}.</Value>
+    </Record>
+    <Record>
+      <Key>RocketEngines</Key>
+      <Value>Raketové motory</Value>
+    </Record>
+    <Record>
+      <Key>RocketEnginesDescription</Key>
+      <Value>Další část rakety je {THING:StructureModularRocketEngine01}. Tím se palivo změní na tah, což umožňuje raketě vzlétnout a uniknout gravitaci planety.</Value>
+    </Record>
+    <Record>
+      <Key>RocketEnginesTask1</Key>
+      <Value>Vezměte {THING:ItemKitStructureModularRocketEngine01} z bedny nalevo. </Value>
+    </Record>
+    <Record>
+      <Key>RocketEnginesTask2</Key>
+      <Value>Postavte {THING:StructureModularRocketEngine01} na zvýrazněné místo.</Value>
+    </Record>
+    <Record>
+      <Key>RocketEngines2</Key>
+      <Value>Raketové inženýrství 101</Value>
+    </Record>
+    <Record>
+      <Key>RocketEngines2Description</Key>
+      <Value>Na rozdíl od všeobecného přesvědčení, budování raketového motoru je stejně snadné jako 1,2,3. Potřebujete jen ocel, plast a elektroniku.</Value>
+    </Record>
+    <Record>
+      <Key>RocketEngines2Task1</Key>
+      <Value>Přivařte {THING:ItemSteelSheets} k {THING:StructureModularRocketEngine01}</Value>
+    </Record>
+    <Record>
+      <Key>RocketEngines2Task2</Key>
+      <Value>Přivařte {THING:ItemPlasticSheets} k {THING:StructureModularRocketEngine01}</Value>
+    </Record>
+    <Record>
+      <Key>RocketEngines2Task3</Key>
+      <Value>Připojte {THING:ItemElectronicParts} k {THING:StructureModularRocketEngine01}</Value>
+    </Record>
+    <Record>
+      <Key>FuelTanks</Key>
+      <Value>Palivové nádrže</Value>
+    </Record>
+    <Record>
+      <Key>FuelTanksDescription</Key>
+      <Value>Palivová nádrž je dalším modulem rakety. Můžete mít více modulů palivové nádrže na raketě pro více paliva. To vám umožní vzít si s sebou více nákladu.</Value>
+    </Record>
+    <Record>
+      <Key>FuelTanksTask1</Key>
+      <Value>Vezměte {THING:ItemKitStructureModularRocketFueltank01} z bedny nalevo.</Value>
+    </Record>
+    <Record>
+      <Key>FuelTanksTask2</Key>
+      <Value>Postavte {THING:StructureModularRocketFueltank01} na zvýrazněné místo.</Value>
+    </Record>
+    <Record>
+      <Key>FuelTanks2</Key>
+      <Value>Palivové nádrže</Value>
+    </Record>
+    <Record>
+      <Key>FuelTanks2Description</Key>
+      <Value>Rakety ve Stationeers používají stejné palivo jako jiné předměty vyžadující hořlavý plyn, například svářečka nebo generátor na plyn. Nejčistší spálení těkavých látek a kyslíku zajistí poměr 2 : 1.</Value>
+    </Record>
+    <Record>
+      <Key>FuelTanks2Task1</Key>
+      <Value>Připojte {THING:ItemKitTank} k {THING:StructureModularRocketFueltank01}</Value>
+    </Record>
+    <Record>
+      <Key>FuelTanks2Task2</Key>
+      <Value>Přivařte {THING:ItemSteelSheets} k {THING:StructureModularRocketFueltank01}</Value>
+    </Record>
+    <Record>
+      <Key>FuelTanks2Task3</Key>
+      <Value>Připojte {THING:ItemElectronicParts} k {THING:StructureModularRocketFueltank01}</Value>
+    </Record>
+    <Record>
+      <Key>CargoModule</Key>
+      <Value>Nákladní modul</Value>
+    </Record>
+    <Record>
+      <Key>CargoModuleDescription</Key>
+      <Value>Nákladní modul vám umožní vzít si s sebou vybavení a zařízení na další místo určení. Můžete postavit více než jeden nákladní modul, ale musí být nad palivovými nádržemi.</Value>
+    </Record>
+    <Record>
+      <Key>CargoModuleTask1</Key>
+      <Value>Vezměte {THING:ItemKitStructureModularRocketCargo01} z levé bedny</Value>
+    </Record>
+    <Record>
+      <Key>CargoModuleTask2</Key>
+      <Value>Postavte {THING:StructureModularRocketCargo01} na zvýrazněné místo</Value>
+    </Record>
+    <Record>
+      <Key>CargoModule2</Key>
+      <Value>Budování nákladového modulu</Value>
+    </Record>
+    <Record>
+      <Key>CargoModule2Description</Key>
+      <Value>Budování nákladového modulu je podobná jako u ostatních modulů. Budování více modulů přidá raketě větší váhu a bude vyžadovat více paliva k opuštění gravitačního pole planety.</Value>
+    </Record>
+    <Record>
+      <Key>CargoModule2Task1</Key>
+      <Value>Přivařte {THING:ItemSteelSheets} k {THING:StructureModularRocketCargo01}</Value>
+    </Record>
+    <Record>
+      <Key>CargoModule2Task2</Key>
+      <Value>Přivařte {THING:ItemPlasticSheets} k {THING:StructureModularRocketCargo01}</Value>
+    </Record>
+    <Record>
+      <Key>CargoModule2Task3</Key>
+      <Value>Připojte {THING:ItemElectronicParts} k {THING:StructureModularRocketCargo01}</Value>
+    </Record>
+    <Record>
+      <Key>CommandMod</Key>
+      <Value>Velitelský modul</Value>
+    </Record>
+    <Record>
+      <Key>CommandModDescription</Key>
+      <Value>Velitelský modul je poslední částí rakety a jejím centrálním řídicím místem. Je to také modul, který řídí raketu do konečného místa určení.</Value>
+    </Record>
+    <Record>
+      <Key>CommandModTask1</Key>
+      <Value>Vezměte {THING:ItemKitStructureModularRocketCommand01} z bílé bedny nalevo</Value>
+    </Record>
+    <Record>
+      <Key>CommandModTask2</Key>
+      <Value>Umístěte {THING:StructureModularRocketCommand01} na zvýrazněné místo</Value>
+    </Record>
+    <Record>
+      <Key>CommandMod2</Key>
+      <Value>Budování velitelského modulu</Value>
+    </Record>
+    <Record>
+      <Key>CommandMod2Description</Key>
+      <Value>Díky tepelnému štítu vnějšího pláště a tvrzeným hlinitokřemičitým sklům, může modul bezpečně opustit a znovu vstoupit do atmosféry planety bez rizika pro Stationeery uvnitř. Je plně izolován, má aktivní klimatizační jednotku a uhlíkové pračky pro udržení optimální teploty a prodyšnosti.</Value>
+    </Record>
+    <Record>
+      <Key>CommandMod2Task1</Key>
+      <Value>Přivařte {THING:ItemSteelSheets} k {THING:StructureModularRocketCommand01}</Value>
+    </Record>
+    <Record>
+      <Key>CommandMod2Task2</Key>
+      <Value>Přivařte {THING:ItemPlasticSheets} k {THING:StructureModularRocketCommand01}</Value>
+    </Record>
+    <Record>
+      <Key>CommandMod2Task3</Key>
+      <Value>Připojte {THING:ItemElectronicParts} k {THING:StructureModularRocketCommand01}</Value>
+    </Record>
+    <Record>
+      <Key>FuelUp</Key>
+      <Value>Natankování</Value>
+    </Record>
+    <Record>
+      <Key>FuelUpDescription</Key>
+      <Value>Je čas natankovat raketu. Do velké palivové nádrže byla přidána předem připravená palivová směs. Budete muset dokončit potrubí k nově postavenému palivovému modulu rakety. Velitelský modul odebírá kyslík, ale není to podstatné, protože jste v obleku a bude mít dostatečné rezervy pro let.</Value>
+    </Record>
+    <Record>
+      <Key>FuelUpStraight</Key>
+      <Value>Postavte {THING:StructureInsulatedPipeStraight} na zvýrazněné místo</Value>
+    </Record>
+    <Record>
+      <Key>FuelUpCorner</Key>
+      <Value>Postavte {THING:StructureInsulatedPipeCorner} na zvýrazněné místo</Value>
+    </Record>
+    <Record>
+      <Key>NoPower</Key>
+      <Value>Bez napájení</Value>
+    </Record>
+    <Record>
+      <Key>NoPowerDescription</Key>
+      <Value>Zdá se, že raketa nemá žádnou energii. Zkontrolujte {THING:StructureAreaPowerControl} nacházející se za výtahem.</Value>
+    </Record>
+    <Record>
+      <Key>NoPower1</Key>
+      <Value>Zapněte {THING:StructureAreaPowerControl}</Value>
+    </Record>
+    <Record>
+      <Key>SettingTheDestination</Key>
+      <Value>Nastavení cíle</Value>
+    </Record>
+    <Record>
+      <Key>SettingTheDestinationDescription</Key>
+      <Value>Před spuštěním budete chtít naprogramovat letový počítač s platným cílem - jinak můžete skončit uprostřed ničeho. V tomto případě poletíte na Mimas, jednoho ze Saturnových měsíců. To provedete zápisem ID planety do velitelského modulu pomocí logického zapisovače.</Value>
+    </Record>
+    <Record>
+      <Key>SettingTheDestination1</Key>
+      <Value>Otevřete Stationpedii</Value>
+    </Record>
+    <Record>
+      <Key>SettingTheDestination2</Key>
+      <Value>Přejděte do sekce světové cestování, klikněte na &quot;Cestování&quot; a přečtěte si, jak nastavit cíle, poté klikněte na souřadnice Mimas: -712314497 a zkopírujte je do schránky</Value>
+    </Record>
+    <Record>
+      <Key>SettingTheDestination3</Key>
+      <Value>Vezměte {THING:ItemLabeller} z bedny nalevo.</Value>
+    </Record>
+    <Record>
+      <Key>SettingTheDestination4</Key>
+      <Value>Nastavte {THING:StructureLogicMemory} na souřadnice Mimas: -712314497 pomocí {THING:ItemLabeller}.</Value>
+    </Record>
+    <Record>
+      <Key>SettingTheDestination5</Key>
+      <Value>Nastavte vstupní hodnotu na {THING:StructureLogicWriter} na {THING:StructureLogicMemory} pomocí {THING:ItemScrewdriver}</Value>
+    </Record>
+    <Record>
+      <Key>SettingTheDestination6</Key>
+      <Value>Nastavte výstupní hodnotu na {THING:StructureLogicWriter} na {THING:StructureLaunchPad} pomocí {THING:ItemScrewdriver} </Value>
+    </Record>
+    <Record>
+      <Key>SettingTheDestination7</Key>
+      <Value>Nastavte hodnotu typ logiky na {THING:StructureLogicWriter} na &quot;Nastavení&quot; pomocí {THING:ItemScrewdriver}</Value>
+    </Record>
+    <Record>
+      <Key>SettingTheDestination8</Key>
+      <Value>Nakonec zapněte {THING:StructureLogicWriter}. Všechny předchozí kroky by měly být odškrtnuty.</Value>
+    </Record>
+    <Record>
+      <Key>FuelUpValve</Key>
+      <Value>Palivový ventil</Value>
+    </Record>
+    <Record>
+      <Key>FuelUpValveDescription</Key>
+      <Value>Poslední částí přípravy rakety je zapnutí palivového ventilu a doplnění palivové nádrže rakety.</Value>
+    </Record>
+    <Record>
+      <Key>FuelUpValveTask1</Key>
+      <Value>Otevřete palivový ventil umístěný nad logickou místností.</Value>
+    </Record>
+    <Record>
+      <Key>LaunchRocket</Key>
+      <Value>Čas pro vzlet</Value>
+    </Record>
+    <Record>
+      <Key>LaunchRocketDescription</Key>
+      <Value>Je čas vzlétnout! Vezměte výtah do nejvyššího patra, jakmile je raketa plná a připravená, můžete vstoupit do velitelského modulu. Poté stiskněte tlačítko ODPAL.</Value>
+    </Record>
+    <Record>
+      <Key>LaunchRocketTask1</Key>
+      <Value>Odpálení rakety</Value>
+    </Record>
+  </Interface>
+</Language>

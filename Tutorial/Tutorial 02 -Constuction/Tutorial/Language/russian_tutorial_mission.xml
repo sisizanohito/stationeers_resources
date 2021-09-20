@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Code>RU</Code>
+  <Interface>
+    <Record>
+      <Key>TutoiralConstruction</Key>
+      <Value>Строительство</Value>
+    </Record>
+    <Record>
+      <Key>TutoiralConstructionDescription</Key>
+      <Value>Строительство баз для ODA начинается с понимания основ строительства.</Value>
+    </Record>
+    <Record>
+      <Key>TutoiralConstructionSubTitle</Key>
+      <Value>Практические тренировки: Этап II</Value>
+    </Record>
+    <Record>
+      <Key>IntoTutoiralConstructionDescription</Key>
+      <Value>Здравствуйте, Кадет. Вы продемонстрировали основные навыки станционера, теперь пришло время применить их в деле.
+Станционеры - это прежде всего строители. Давайте проверим ваши базовые строительные способности.</Value>
+    </Record>
+    <Record>
+      <Key>2PutAwayScrewDriver</Key>
+      <Value>Подберите отвёртку, поместите на пояс</Value>
+    </Record>
+    <Record>
+      <Key>2PutAwayAngleGrinder</Key>
+      <Value>Возьмите в руку болгарку</Value>
+    </Record>
+    <Record>
+      <Key>2PutAwayPowerdrill</Key>
+      <Value>Подберите дрель, поместите на пояс</Value>
+    </Record>
+    <Record>
+      <Key>2Narration1T</Key>
+      <Value>Практические тренировки: Этап II</Value>
+    </Record>
+    <Record>
+      <Key>2Narration1D</Key>
+      <Value>Без инструментов станционер беззащитен перед враждебной вселенной.
+Подойдите к ящику и возьмите инструменты, пока не случилось что-то ужасное.</Value>
+    </Record>
+    <Record>
+      <Key>2Narration2D</Key>
+      <Value>В этой тренировочной симуляции ODA, стены были &apos;повреждены&apos; метеоритным дождём.
+Чтобы поменять их, вам сперва нужно убрать повреждённые каркасы используя болгарку.</Value>
+    </Record>
+    <Record>
+      <Key>2Narration2T</Key>
+      <Value>Демонтаж</Value>
+    </Record>
+    <Record>
+      <Key>T2Deconstruct1</Key>
+      <Value>Уберите разрушенный каркас 1</Value>
+    </Record>
+    <Record>
+      <Key>T2Deconstruct2</Key>
+      <Value>Уберите разрушенный каркас 2</Value>
+    </Record>
+    <Record>
+      <Key>2Narration3T</Key>
+      <Value>Строительство </Value>
+    </Record>
+    <Record>
+      <Key>2Narration3D</Key>
+      <Value>Убедитесь что база приведена в порядок и готова к следующему Кадету - завершите строительство стен.
+Начните с железных каркасов.</Value>
+    </Record>
+    <Record>
+      <Key>BuildFramesTutorial2N1</Key>
+      <Value>Постройте каркас в выделенном месте.</Value>
+    </Record>
+    <Record>
+      <Key>BuildIronFramesT2</Key>
+      <Value>Доделайте каркасы при помощи листов железа и газовой горелки в активной руке</Value>
+    </Record>
+    <Record>
+      <Key>2Narration5T</Key>
+      <Value>Демонтаж Автолата.</Value>
+    </Record>
+    <Record>
+      <Key>2Narration5D</Key>
+      <Value>Точность и планирование - важные навыки станционера. Последний Кадет был исключён из программы за постройку автолата не в том месте.
+Разберите его по частям, а затем постройте заново в правильном месте.</Value>
+    </Record>
+    <Record>
+      <Key>DeconstructAutolatherT2t1</Key>
+      <Value>Проведите демонтаж 5-го этапа автолата с помощью дрели.</Value>
+    </Record>
+    <Record>
+      <Key>DeconstructAutolatherT2t2</Key>
+      <Value>Проведите демонтаж 4-го этапа автолата с помощью болгарки.</Value>
+    </Record>
+    <Record>
+      <Key>DeconstructAutolatherT2t3</Key>
+      <Value>Проведите демонтаж 3-го этапа автолата с помощью кусачек.</Value>
+    </Record>
+    <Record>
+      <Key>DeconstructAutolatherT2t4</Key>
+      <Value>Проведите демонтаж 2-го этапа автолата с помощью болгарки.</Value>
+    </Record>
+    <Record>
+      <Key>DeconstructAutolatherT2t5</Key>
+      <Value>Проведите демонтаж I-го этапа автолата с помощью разводного ключа.</Value>
+    </Record>
+    <Record>
+      <Key>2Narration6T</Key>
+      <Value>Строительство Автолата.</Value>
+    </Record>
+    <Record>
+      <Key>2Narration6D</Key>
+      <Value>У вас есть всё необходимое для восстановления автолата в правильном, выделенном месте. Так что вы должны это сделать. Сейчас же.</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial2AutolatePlacement</Key>
+      <Value>Разместите набор для изготовления автолата.</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial2AutolateConstruct</Key>
+      <Value>Завершите 2 этап строительства автолата с помощью горелки и листов железа</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial2AutolateConstruct2</Key>
+      <Value>Завершите 3 этап строительства автолата с помощью мотка кабеля</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial2AutolateConstruct3</Key>
+      <Value>Завершите 4 этап строительства автолата с помощью горелки и листов пластика</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial2AutolateConstruct4</Key>
+      <Value>Завершите 5 этап строительства автолата с помощью отвёртки</Value>
+    </Record>
+    <Record>
+      <Key>2Narration7T</Key>
+      <Value>Удаление Повреждённых Проводов.</Value>
+    </Record>
+    <Record>
+      <Key>2Narration7D</Key>
+      <Value>Без энергии вы мало что можете изготовить. Чтобы включить станцию, необходимо повторно подключить солнечные батареи к сети. Начните с удаления повреждённых кабелей.</Value>
+    </Record>
+    <Record>
+      <Key>T2Deconstruct3</Key>
+      <Value>Удалите повреждённый кабель #1 при помощи кусачек</Value>
+    </Record>
+    <Record>
+      <Key>T2Deconstruct4</Key>
+      <Value>Удалите повреждённый кабель #2 при помощи кусачек</Value>
+    </Record>
+    <Record>
+      <Key>T2Deconstruct5</Key>
+      <Value>Удалите повреждённый кабель #3 при помощи кусачек</Value>
+    </Record>
+    <Record>
+      <Key>2Narration8T</Key>
+      <Value>Подключение Кабеля.</Value>
+    </Record>
+    <Record>
+      <Key>2Narration8D</Key>
+      <Value>Проектирование электрических сетей - основная часть строительства базы.
+Подключите солнечные панели к электросети кабелями из ящика. Как и многие наборы, кабели предлагают некоторые вариации для строительства при прокрутке.</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial2HCablePlacement</Key>
+      <Value>Замените недостающий прямой силовой кабель.</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial2HCablePlacement2</Key>
+      <Value>Замените недостающий соединительный силовой кабель</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial2HCablePlacement3</Key>
+      <Value>Замените недостающий прямой силовой кабель #2.</Value>
+    </Record>
+    <Record>
+      <Key>2Narration9T</Key>
+      <Value>Резервное Питание.</Value>
+    </Record>
+    <Record>
+      <Key>2Narration9D</Key>
+      <Value>Вы еще не закончили, Кадет! Иногда становится темно, поэтому давайте создадим резервную систему электроснабжения, используя твердотопливный генератор.</Value>
+    </Record>
+    <Record>
+      <Key>2Narration10D</Key>
+      <Value>Вам нужно подключить генератор к электросети.</Value>
+    </Record>
+    <Record>
+      <Key>2Narration11D</Key>
+      <Value>Используйте функцию &apos;наложения&apos;, чтобы подключить новые кабели к существующей сети.</Value>
+    </Record>
+    <Record>
+      <Key>2GetSolidGenerator</Key>
+      <Value>Возьмите набор для изготовления твердотопливного генератора из ящика</Value>
+    </Record>
+    <Record>
+      <Key>2PlaceSolidGenerator</Key>
+      <Value>Установите твердотопливный генератор</Value>
+    </Record>
+    <Record>
+      <Key>2MergeEvent</Key>
+      <Value>Используйте кусачки и кабель, чтобы соединить провода</Value>
+    </Record>
+    <Record>
+      <Key>2Narration12T</Key>
+      <Value>Включение</Value>
+    </Record>
+    <Record>
+      <Key>2Narration12D</Key>
+      <Value>ИБП разделяют мощность и данные на подсети, стабилизируют электрический поток и обеспечивают резервное питание. Только обращайте внимание на направление при их установке.</Value>
+    </Record>
+    <Record>
+      <Key>2GetAPC</Key>
+      <Value>Возьмите источник бесперебойного питания (ИБП) из ящика.</Value>
+    </Record>
+    <Record>
+      <Key>2PlaceAPC</Key>
+      <Value>Поместите ИБП в выделенной место учитывая направление подключения.</Value>
+    </Record>
+    <Record>
+      <Key>2Narration13D</Key>
+      <Value>Теперь запустите генератор с помощью угля из ящика.</Value>
+    </Record>
+    <Record>
+      <Key>2Narration14D</Key>
+      <Value>ИБП также заряжает аккумуляторы, что несомненно хорошо: ODA рекомендует всегда держать под рукой несколько заряженных аккумуляторов. В случае сбоя аккумулятор также ненадолго обеспечит резервное питание.</Value>
+    </Record>
+    <Record>
+      <Key>2GetBatt</Key>
+      <Value>Возьмите батарейку из ящика</Value>
+    </Record>
+    <Record>
+      <Key>2OpenAPCTask</Key>
+      <Value>Откройте ИБП ломом.</Value>
+    </Record>
+    <Record>
+      <Key>2GetCoal</Key>
+      <Value>Возьмите уголь из ящика</Value>
+    </Record>
+    <Record>
+      <Key>AddCoalToGenerator</Key>
+      <Value>Добавьте угля в генератор</Value>
+    </Record>
+    <Record>
+      <Key>2TurnOnGenerator</Key>
+      <Value>Включите генератор</Value>
+    </Record>
+    <Record>
+      <Key>PlaceBatt</Key>
+      <Value>Добавьте батарейку в ИБП</Value>
+    </Record>
+    <Record>
+      <Key>2Narration15D</Key>
+      <Value>Отлично, вы доделали электросеть. У вас получилось лучше, чем у последнего Кадета.
+Включите ИБП, чтобы активировать сеть, и да будет СВЕТ.</Value>
+    </Record>
+    <Record>
+      <Key>2Narration17D</Key>
+      <Value>Более подробную информацию можно найти в Stationpedia. Нажмите F1, чтобы обновить свои знания об ИПБ, просмотрев запись в Stationpedia.</Value>
+    </Record>
+    <Record>
+      <Key>2FlipSwitch</Key>
+      <Value>Включите ИБП.</Value>
+    </Record>
+    <Record>
+      <Key>2PediaOpen</Key>
+      <Value>Откройте Stationpedia</Value>
+    </Record>
+    <Record>
+      <Key>2PediaNavigation</Key>
+      <Value>Перейдите на страницу ИБП.</Value>
+    </Record>
+    <Record>
+      <Key>2GettingHelpClose</Key>
+      <Value>Закройте Stationpedia</Value>
+    </Record>
+    <Record>
+      <Key>2Narration16T</Key>
+      <Value>Завершить</Value>
+    </Record>
+    <Record>
+      <Key>2Narration16D</Key>
+      <Value>Хорошая работа, Кадет. Вы отремонтировали стены и достроили энергосистему. Это последний шаг Фазы II. Нажмите кнопку &apos;Завершить&apos;, чтобы передать результаты Руководству Станционеров, и мы продолжим.</Value>
+    </Record>
+    <Record>
+      <Key>2OnButtonPressTaskT1</Key>
+      <Value>Нажмите кнопку чтобы завершить испытание.</Value>
+    </Record>
+    <Record>
+      <Key>2GetCableHCoil</Key>
+      <Value>Возьмите силовой кабель из ящика.</Value>
+    </Record>
+    <Record>
+      <Key>2GetFrames</Key>
+      <Value>Возьмите железные каркасы из ящика.</Value>
+    </Record>
+  </Interface>
+</Language>

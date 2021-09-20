@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Hungarian</Name>
+  <Code>HU</Code>
+  <Font>font_russian</Font>
+  <Interface>
+    <Record>
+      <Key>EscapeFromMarsTitle</Key>
+      <Value>Szabadulás a Marsról [BÉTA]</Value>
+    </Record>
+    <Record>
+      <Key>EscapeFromMarsDescription</Key>
+      <Value>Egy kis ellátmány és elszántság segítségével kell túlélned a Marson. Ha minden a tervek szerint alakul, képes leszel egy a marsi légkör elhagyására alkalmas rakétát építeni.</Value>
+    </Record>
+    <!-- Mission Stage: In Case of Emergency -->
+    <Record>
+      <Key>MarsTitleInCaseOfEmergency</Key>
+      <Value>Vészhelyzet esetén...</Value>
+    </Record>
+    <Record>
+      <Key>MarsDescInCaseOfEmergency</Key>
+      <Value>A ruhád sérül és valami élelmet kell találnod.</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskGetTape</Key>
+      <Value>Keress {THING:ItemDuctTape}ot!</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskGetFood</Key>
+      <Value>Keress egy {THING:ItemCerealBar}et!</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage1</Key>
+      <Value>VÉSZHELYZETI KÉZIKÖNYV</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage1Page1</Key>
+      <Value>OLDAL 1 / 2\nNE ESS PÁNIKBA! \n\nHa ezt olvasod, túlélted az evakuációt... gratulálok! A környezetedtől függetlenül most az első dolgod, hogy ellenőrizd az életfunkcióidat. Ellenőrizd a ruhád épségét is, hiszen ebben a környezetben szükséged lesz a megfelelő levegőellátásra!</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage1Page2</Key>
+      <Value>OLDAL 2 / 2 \nHa közel vagy egy vészhelyzeti kapszulához és az ellátmányos ládához, elegendő ellátmánynak kéne lennie, csak várj, hogy kimentsenek. Ha nem, akkor keress túélőket. Fel kéne jegyezned a helyeket ahol bármiféle fontos túléléshez szükséges dolgokat, mint például ételt vagy szigetelő szalagot és felszereléseket találsz. \n</Value>
+    </Record>
+    <!-- Mission Stage: Aquire Raw Materials -->
+    <Record>
+      <Key>MarsTitleRawMaterials</Key>
+      <Value>Könyörögj, áss és lopj</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage2</Key>
+      <Value>NYERSANYAGOK</Value>
+    </Record>
+    <Record>
+      <Key>MarsDescRawMaterials</Key>
+      <Value>Állíts elő valahogy alapanyagokat a gyártás elkezdéséhez!</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskGetIronIngots</Key>
+      <Value>Szerezz egy {THING:ItemIronIngot}-t!</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskGetCopperIngots</Key>
+      <Value>Szerezz egy {THING:ItemCopperIngot}-t!</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskGetGoldIngots</Key>
+      <Value>Szerezz egy {THING:ItemGoldIngot}-t!</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage2Page1</Key>
+      <Value>OLDAL 1 / 5 \nKÖNYÖRÖGJ, ÁSS VAGY LOPJ\n\nSzerencsére a gyártóeszközeink rendelkeznek minden recepttel, ami szükséges a te esetedben. Sajnos el kell látni őket nyersanyaggal, ezeket több forrásból is beszerezheted:</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage2Page2</Key>
+      <Value>OLDAL 2 / 5 \nGUBERÁLJ\n\nHa még ép a hajód, esélyed van arra, hogy feldolgozott nyersanyagokat találj, esetleg már a gyártó gépekben vagy a közelükben tárolva.</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage2Page3</Key>
+      <Value>OLDAL 3 / 5 \nLEBONTÁS\n\nHa már találtál vagy legyártottál egy sarokcsiszolót, képes lennél vele lebontani a hajóroncs egyéb részeit. Az újrahasznosító le tudja bontani a behelyezett anyagokat, majd azokat egy keverék formájában kiadhatja. Ezeket a keverékeket egy centrifuga segítségével tudod szétválasztani tiszta anyagokra, amiket pedig újra beolvaszthatsz a későbbi használatra.</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage2Page4</Key>
+      <Value>OLDAL 4 / 5 \nKITERMELÉS\n\nNéhány felderítő hajó el van látva alapvető bányászfelszereléssel, ha elég szerencsés vagy, akár még egy adag feldolgozatlan ércet is találhatsz, mellyel jelentősen megugorhatnak a túlélési esélyeid.</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage2Page5</Key>
+      <Value>OLDAL 5 / 5 \nBEOLVASZTÁS\n\nA nyersanyagok feldolgozásának és gyártáshoz előkészítése legegyszerűbb módja, ha elektromos kohót használunk némi árammal ellátva. Ha a forrásaid korlátozottak, erre kéne először hangsúlyt fektetned, hogy megfelelő mennyiségű alapanyagot állíthass elő.</Value>
+    </Record>
+    <!-- Mission Stage: Setup Manufacturing -->
+    <Record>
+      <Key>MarsTitleSetupManufacturing</Key>
+      <Value>A gyártás eszközei</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage3</Key>
+      <Value>PRODUKCIÓ 101</Value>
+    </Record>
+    <Record>
+      <Key>MarsDescSetupManufacturing</Key>
+      <Value>Ahhoz hogy mindent le tudj gyártani, a {THING:ItemKitHydraulicPipeBender} és a {THING:ItemKitElectronicsPrinter} használatával kéne kezdeni.</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskManufactureHPB</Key>
+      <Value>Gyártsd le: {THING:ItemKitHydraulicPipeBender}</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskManufactureEP</Key>
+      <Value>Gyártsd le: {THING:ItemKitElectronicsPrinter}</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage3Page1</Key>
+      <Value>OLDAL 1 / 5\nGYÁRTÁS \nBár valószínűleg már megkezdődtek a mentési folyamatok, sok időre lesz a menekítésedhez. Bölcs lenne kissé hosszabb távra tervezni. Szükséged lesz pár alapvető gyártóeszközre. Az automata eszterga az első, amit meg kell építened az alapvető anyagok és specifikus gépek gyártásához.</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage3Page2</Key>
+      <Value>OLDAL 2 / 5 \nÁRAMELLÁTÁS \n\nRemélhetőleg már találtál elemeket, de ezeket tölteni kell. Egy hálózat ellátását legegyszerűbben áramszabályozóba helyezett elemekkel oldhatod meg. A beolvasztáshoz és a gyártához azonban több áramra lesz szükséged. A kivitelezés függ a szituációdtól, de vannak lehetőségeid:</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage3Page3</Key>
+      <Value>OLDAL 3 / 5 \nSZILÁRD TÜZELÉSŰ GENERÁTOR  \nAz eszköz segítségével áramot termelhetsz megkövesedett szénhidrogének elégetésével. Az megépítéshez szükséges készlet egy elektronika nyomtató vagy egy fabrikátor segítségével gyártható le.</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage3Page4</Key>
+      <Value>OLDAL 4 / 5 \nGÁZÜZEMŰ GENERÁTOR \nEzzel az eszközzel hidrogén-oxigén keverék égetésével állíthatsz elő áramot. Tiszta égéssel nagyobb hatásfokot érhetsz el, de használj transzformátort, különben a kábelek túltöltődnek.</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage3Page5</Key>
+      <Value>OLDAL 5 / 5 \nNAPELEMEK \nNapelemek. Ha elhelyeztél egyet, ki kell egészítened egy üveglappal, ezután nincs más dolgod, maguktól termelik az elektromosságot. Az irányukat állíthatod franciakulccsal, de ha nem akarsz ezzel vacakolni, egy áramkört is építhetsz, ami egy napfényérzékelő segítségével szabályozza a paneleket.</Value>
+    </Record>
+    <!-- Mission Stage: Food Supply -->
+    <Record>
+      <Key>MarsTitleFoodSupply</Key>
+      <Value>Megbízható élelmiszerforrás</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage4</Key>
+      <Value>NÖVÉNYTERMESZTÉSI KÉZIKÖNYV</Value>
+    </Record>
+    <Record>
+      <Key>MarsDescFoodSupply</Key>
+      <Value>Nem tudjuk meddig kell még túlélned, úgyhogy a biztonság kedvéért ételt kéne előállítanunk.</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskPrepareAtmos</Key>
+      <Value>Csinálj egy nyomás alatt levő szobát elégséges légkörrel burgonyatermesztéshez.</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskGrowPotato</Key>
+      <Value>Növessz egy {THING:ItemPotato}palántát érésig.</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage4Page1</Key>
+      <Value>OLDAL 1 / 2 \nKICSI ZÖLD CSÍRÁK\nA növénytermesztéshez szükséged lesz legalább egy hidroponikus tálcára vagy egy hordozható hidroponikus termesztőre. Ezeket vízzel és megfelelő légkörrel kell ellátnod. Az atmoszféra nyomása legyen legalább 20 kPa, hőmérséklete pedig 20 és 25 Celsius-fok között és tartalmazzon valamennyi szén-dioxidot.</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage4Page2</Key>
+      <Value>OLDAL 2 / 2\n A kezdéshez a legnehezebb lesz magvakat szerezni. Minden mentőkapszula tartalmaz egy ládát névleges mennyiségű maggal - ezeknek megvédése kulcsfontosságú. Ha esetleg eltávolodtál a mentőkapszuládtól, egy nyomkövető kártya segítségével lekövetheted a kapszula jeladóját.</Value>
+    </Record>
+    <!-- Mission Stage: Spawn Mothership & Engine -->
+    <Record>
+      <Key>MarsTitleCreateRocket</Key>
+      <Value>Rakéta építése</Value>
+    </Record>
+    <Record>
+      <Key>MarsDescCreateRocket</Key>
+      <Value>Építs egy rakétát egy {THING:StructureLaunchPad} elkészítésével, amihez add hozzá a szükséges modulokat.</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskBuildLaunchPad</Key>
+      <Value>Építs indítóplatformot a rakétához</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskBuildEngine</Key>
+      <Value>Építsd meg a rakéta hajtóművét</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskBuildFuelTank</Key>
+      <Value>Építsd meg a rakéta üzemanyagtartályát</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskBuildCommand</Key>
+      <Value>Építsd meg a rakéta vezérlőegységét</Value>
+    </Record>
+    <Record>
+      <Key>MarsTitleLaunchRocket</Key>
+      <Value>Az rakéta kilövése</Value>
+    </Record>
+    <Record>
+      <Key>MarsDescLaunchRocket</Key>
+      <Value>Az újonnan megépített rakéta feltankolása után végre visszatérhetsz a civilizált világba.</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskLaunchMothership</Key>
+      <Value>Lődd ki a rakétát!</Value>
+    </Record>
+  </Interface>
+</Language>

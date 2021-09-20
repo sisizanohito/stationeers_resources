@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Code>KN</Code>
+  <Interface>
+    <Record>
+      <Key>09BasicResearch</Key>
+      <Value>基本 研究</Value>
+    </Record>
+    <Record>
+      <Key>TheResearchMachine1</Key>
+      <Value>赤い {THING:DynamicCrate} から {THING:ItemKitResearchMachine} を取り出す。</Value>
+    </Record>
+    <Record>
+      <Key>TheResearchMachine2</Key>
+      <Value>{THING:ItemKitResearchMachine} をハイライトされた位置に設置する。</Value>
+    </Record>
+    <Record>
+      <Key>TheResearchMachineBuild1</Key>
+      <Value>{THING:ItemIronSheets} を拾う。</Value>
+    </Record>
+    <Record>
+      <Key>TheResearchMachineBuild2</Key>
+      <Value>{THING:StructureResearchMachine} に {THING:ItemWeldingTorch} を使って {THING:ItemIronSheets} を溶接する。</Value>
+    </Record>
+    <Record>
+      <Key>TheResearchMachineBuild3</Key>
+      <Value>次に、 {THING:ItemElectronicParts} を拾う。</Value>
+    </Record>
+    <Record>
+      <Key>TheResearchMachineBuild5</Key>
+      <Value>{THING:ItemScrewdriver} を使って {THING:StructureResearchMachine} を完成させる。</Value>
+    </Record>
+    <Record>
+      <Key>PrintingCapsules1</Key>
+      <Value>{THING:StructureElectronicsPrinter} の電源を入れる。</Value>
+    </Record>
+    <Record>
+      <Key>PrintingCapsules2</Key>
+      <Value>{THING:StructureElectronicsPrinter} で {THING:ItemResearchCapsuleRed} を選択する。</Value>
+    </Record>
+    <Record>
+      <Key>PrintingCapsules3</Key>
+      <Value>{THING:ItemResearchCapsuleRed} を1つプリントする。</Value>
+    </Record>
+    <Record>
+      <Key>PrintingCapsules4</Key>
+      <Value>{THING:StructureElectronicsPrinter} で {THING:ItemResearchCapsule} を選択する。</Value>
+    </Record>
+    <Record>
+      <Key>PrintingCapsules5</Key>
+      <Value>{THING:ItemResearchCapsule} を1つプリントする。</Value>
+    </Record>
+    <Record>
+      <Key>InsertingCapsules0</Key>
+      <Value>{THING:StructureResearchMachine} の電源を入れる。</Value>
+    </Record>
+    <Record>
+      <Key>InsertingCapsules1</Key>
+      <Value>新しくプリントした {THING:ItemResearchCapsuleRed} を {THING:StructureResearchMachine} の背面に入れる。</Value>
+    </Record>
+    <Record>
+      <Key>CapsuleBreakDown1</Key>
+      <Value>{THING:StructureResearchMachine} を使って2つ目の {THING:ItemResearchCapsule} を処理する。</Value>
+    </Record>
+    <Record>
+      <Key>ItemsUnlocked1</Key>
+      <Value>{THING:StructureElectronicsPrinter} で {THING:CircuitboardAirControl} を選択する。</Value>
+    </Record>
+    <Record>
+      <Key>ItemsUnlocked2</Key>
+      <Value>{THING:StructureElectronicsPrinter} で {THING:CircuitboardAirControl} をプリントする。</Value>
+    </Record>
+  </Interface>
+</Language>

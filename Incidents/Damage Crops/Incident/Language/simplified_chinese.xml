@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Simplified Chinese</Name>
+  <Code>CN</Code>
+  <Font>font_cjk</Font>
+  <Interface>
+    <Record>
+      <Key>Incident_PlantInfected_Title</Key>
+      <Value>植物被真菌感染</Value>
+    </Record>
+    <Record>
+      <Key>Incident_PlantInfected</Key>
+      <Value>警告，真菌已经感染了该地区的一些植物</Value>
+    </Record>
+  </Interface>
+</Language>

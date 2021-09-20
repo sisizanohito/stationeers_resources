@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Code>DE</Code>
+  <Interface>
+    <Record>
+      <Key>WelcomeRecuitDisc</Key>
+      <Value>Zirkulation der Luftschleuse</Value>
+    </Record>
+    <Record>
+      <Key>EnterAreaT1</Key>
+      <Value>Zirkulation der Luftschleuse</Value>
+    </Record>
+    <Record>
+      <Key>SwapControlsDisc</Key>
+      <Value>Aktive Hand wechseln</Value>
+    </Record>
+    <Record>
+      <Key>PickUpT1</Key>
+      <Value>{THING:ItemCopperIngot} aus der orangenen Kiste nehmen.</Value>
+    </Record>
+    <Record>
+      <Key>AltClickControlsDisc</Key>
+      <Value>Mit Gegenständen in der Hand interagieren</Value>
+    </Record>
+    <Record>
+      <Key>QuickSelectItemControlsDisc</Key>
+      <Value>Mit Gegenständen in der Hand interagieren</Value>
+    </Record>
+    <Record>
+      <Key>DoubleClickingControlsDisc</Key>
+      <Value>Mit Gegenständen in der Hand interagieren</Value>
+    </Record>
+    <Record>
+      <Key>PickUpT1 9</Key>
+      <Value>{THING:ItemTablet} aufnehmen</Value>
+    </Record>
+    <Record>
+      <Key>PickUpT1 4</Key>
+      <Value>{THING:ItemTablet} aufnehmen</Value>
+    </Record>
+    <Record>
+      <Key>FillingWithAirT1Disc</Key>
+      <Value>Fülle die Basis mit atembarer Luft.</Value>
+    </Record>
+    <Record>
+      <Key>OpenTheAPCPanel</Key>
+      <Value>Öffne die ESV mit dem Stemmeisen aus der Box</Value>
+    </Record>
+    <Record>
+      <Key>TurnOnAPC</Key>
+      <Value>Schalte die ESV ein</Value>
+    </Record>
+    <Record>
+      <Key>Narration20D</Key>
+      <Value>Jetzt da die Station luftdicht ist, kann sie belüftet werden. Aktiviere die Ersatzstromversorgung (ESV) um die aktiven Ventilatoren einzuschalten, damit die Luft in den Raum strömen kann. Überwache den Druck auf dem Statuspanel.</Value>
+    </Record>
+    <Record>
+      <Key>GettingHelpClose</Key>
+      <Value>Verschweiße das {THING:StructureFrame} um das Tutorial ab zu schließen</Value>
+    </Record>
+    <Record>
+      <Key>NarrationClose</Key>
+      <Value>Verschweiße das {THING:StructureFrame} um das Tutorial ab zu schließen</Value>
+    </Record>
+  </Interface>
+</Language>

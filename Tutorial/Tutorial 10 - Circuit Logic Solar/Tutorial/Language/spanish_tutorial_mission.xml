@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Code>ES</Code>
+  <Interface>
+    <Record>
+      <Key>Tutorial10-CircuitLogicSolarTracking</Key>
+      <Value>ADV Lógica de circuitos - Seguimiento solar</Value>
+    </Record>
+    <Record>
+      <Key>CircuitLogicSolarTrackingDescription</Key>
+      <Value>Automatizar los paneles solares usando la lógica de los circuitos.</Value>
+    </Record>
+    <Record>
+      <Key>MoveToArea</Key>
+      <Value>Muévete a la zona</Value>
+    </Record>
+    <Record>
+      <Key>MoveToAreaDescription</Key>
+      <Value>Toma el ascensor hasta el centro principal y sigue el pasillo iluminado hasta la zona del tutorial.</Value>
+    </Record>
+    <Record>
+      <Key>MoveToAreaTask1</Key>
+      <Value>Ciclo de esclusa en la zona del tutorial.</Value>
+    </Record>
+    <Record>
+      <Key>ConsoleManuallControl</Key>
+      <Value>Control de la consola solar</Value>
+    </Record>
+    <Record>
+      <Key>ConsoleManuallControlDescription</Key>
+      <Value>Alinear paneles solares puede ser una tarea que requiere mucho tiempo. Para acelerar el trabajo, conecte los paneles solares y conéctelos a una consola de control, para que pueda ajustar manualmente sus posiciones de una vez. Todo lo que necesitas está en la caja.</Value>
+    </Record>
+    <Record>
+      <Key>ConsoleManuallControl1</Key>
+      <Value>Termina la red colocando una {THING:StructureCableStraight} en la posición resaltada.</Value>
+    </Record>
+    <Record>
+      <Key>ConsoleManuallControl2</Key>
+      <Value>Coloca una {THING:StructureConsole} en la posición resaltada.</Value>
+    </Record>
+    <Record>
+      <Key>ConsoleManualControlSetup</Key>
+      <Value>Configuración del control manual de la consola</Value>
+    </Record>
+    <Record>
+      <Key>ConsoleManualControlSetUpDescription</Key>
+      <Value>Al igual que al configurar una esclusa de aire, debe programar el circuito de control del panel solar utilizando un {THING:CircuitboardSolarControl}.</Value>
+    </Record>
+    <Record>
+      <Key>ConsoleManualControlSetupTask1</Key>
+      <Value>Inserte la {THING:CircuitboardSolarControl} en la {THING:StructureConsole}.</Value>
+    </Record>
+    <Record>
+      <Key>ConsoleManualControlSetupTask2</Key>
+      <Value>Coloque las {THING:ItemGlassSheets} a la {THING:StructureConsole}.</Value>
+    </Record>
+    <Record>
+      <Key>ConsoleManualControlSetupTask3</Key>
+      <Value>Inserte el {THING:ItemDataDisk} en la {THING:StructureConsole}.</Value>
+    </Record>
+    <Record>
+      <Key>ConsoleManualControlSetUpDescription2</Key>
+      <Value>Encienda la consola y seleccione los cuatro paneles solares que se muestran. 
+            
+Una vez completado, retire el disco de datos, ahora puede ajustar el ángulo horizontal y vertical de todos los paneles solares conectados, así como monitorear la salida de energía</Value>
+    </Record>
+    <Record>
+      <Key>ConsoleManualControlSetupTask4</Key>
+      <Value>Encienda la {THING:StructureConsole} y seleccione los paneles solares que se muestran.</Value>
+    </Record>
+    <Record>
+      <Key>ConsoleManualControlSetupTask5</Key>
+      <Value>Retire el {THING:ItemDataDisk} de la {THING:StructureConsole}.</Value>
+    </Record>
+    <Record>
+      <Key>DaylightSensors</Key>
+      <Value>Configurando los sensores</Value>
+    </Record>
+    <Record>
+      <Key>DaylightSensorsDescription</Key>
+      <Value>El seguimiento solar automático maximiza la potencia producida por los paneles solares y significa que no necesita ajustarlos manualmente para enfrentar el sol.
+            
+El primer paso es colocar sensores de luz natural. Uno medirá el ángulo horizontal del sol, mientras que el otro medirá el ángulo vertical. Esto proporcionará un seguimiento completo durante el día en cualquier planeta.</Value>
+    </Record>
+    <Record>
+      <Key>PickUpDaylightSensor</Key>
+      <Value>Recoge las unidades de {THING:ItemKitSensor} de la caja</Value>
+    </Record>
+    <Record>
+      <Key>DaylightSensor1</Key>
+      <Value>Coloca una {THING:StructureDaylightSensor} en el lugar resaltado.</Value>
+    </Record>
+    <Record>
+      <Key>SolarMemory</Key>
+      <Value>Módulo de memoria</Value>
+    </Record>
+    <Record>
+      <Key>SolarMemoryDescription</Key>
+      <Value>La memoria se utiliza para almacenar datos, con valores fijados manualmente por un destornillador. Necesitaremos cinco módulos de memoria para almacenar los datos necesarios para el circuito.</Value>
+    </Record>
+    <Record>
+      <Key>PickUpMemory</Key>
+      <Value>Recoge las {THING:ItemKitLogicMemory} unidades de la caja cercana.</Value>
+    </Record>
+    <Record>
+      <Key>StructureLogicMemory</Key>
+      <Value>Coloca las unidades de {THING:StructureLogicMemory} en sus posiciones resaltadas.</Value>
+    </Record>
+    <Record>
+      <Key>SetMemory</Key>
+      <Value>Ajustar la memoria</Value>
+    </Record>
+    <Record>
+      <Key>SetMemoryDescription</Key>
+      <Value>Ahora que tienes las unidades de {THING:StructureLogicMemory} en su lugar, y un sistema de seguimiento solar establecido, necesitas establecer valores específicos en la {THING:StructureLogicMemory} usando la {THING:ItemScrewdriver}. Los valores dependen de la posición y rotación de la {THING:StructureDaylightSensor} y los paneles solares.
+Los sensores de luz diurna tienen 3 modos: Predeterminado, Horizontal y Vertical. Cada modo cambia el ángulo solar de salida. En este caso, necesitamos poner el sensor en Horizontal, que es el modo 1. Para ello, establezca el Módulo de Memoria Horizontal en un valor de 1, y el escritor lógico escribirá ese valor en el sensor.</Value>
+    </Record>
+    <Record>
+      <Key>SetMemoryDescription2</Key>
+      <Value>Ahora necesitamos establecer un desplazamiento horizontal, para corregir las posiciones y rotaciones del panel solar y los sensores de luz del día. Si el sensor solar está en un ángulo de -90 grados con respecto a los paneles solares, la compensación ajustará los datos del ángulo solar para que los paneles solares estén orientados hacia el sol.
+Aplicamos este valor a la unidad matemática horizontal 2, cuando lo sumamos al valor de salida de la unidad matemática horizontal 1.</Value>
+    </Record>
+    <Record>
+      <Key>SetMemoryDescription3</Key>
+      <Value>Como los sensores solares proporcionan un valor negativo, debe convertir un valor negativo en uno positivo. Para hacer esto, multiplique el valor de Invertir memoria contra el valor del sensor solar usando Horizontal Math 1.</Value>
+    </Record>
+    <Record>
+      <Key>SetMemoryDescription4</Key>
+      <Value>Por último, calibre la posición vertical del panel solar. 
+Para hacer esto, tome el porcentaje del ángulo solar vertical de la Matemática Vertical 1, y añada el 50% usando Añadir Memoria en la Matemática Vertical 2. Esto hará el 50% del punto cero horizontal del panel solar (plano, mirando hacia arriba).</Value>
+    </Record>
+    <Record>
+      <Key>SetMemoryDescription5</Key>
+      <Value>El eje vertical de los paneles solares se mide como un porcentaje, mientras que los sensores emiten los datos del ángulo solar en grados de 0 a 160.
+            
+Para hacer que los paneles solares sean compatibles con los sensores, usamos Vertical Logic Math 1 para dividir los datos del sensor por 1,6, convirtiendo así el grado en un porcentaje.
+            </Value>
+    </Record>
+    <Record>
+      <Key>SetMemory0</Key>
+      <Value>Poner la memoria del modo horizontal a un valor de 1</Value>
+    </Record>
+    <Record>
+      <Key>SetMemory1</Key>
+      <Value>Poner la memoria OffSet a un valor de -90</Value>
+    </Record>
+    <Record>
+      <Key>SetMemory2</Key>
+      <Value>Poner la memoria de inversión a un valor de -1</Value>
+    </Record>
+    <Record>
+      <Key>SetMemory3</Key>
+      <Value>Establecer la memoria a un valor de 50</Value>
+    </Record>
+    <Record>
+      <Key>SetMemory4</Key>
+      <Value>Establecer la memoria de inclinación a un valor de 1.6</Value>
+    </Record>
+    <Record>
+      <Key>SetupHorizontalSensor</Key>
+      <Value>Configuración del sensor horizontal</Value>
+    </Record>
+    <Record>
+      <Key>SetupHorizontalSensorDescription</Key>
+      <Value>Un escritor de lógica nos permite escribir un valor dado a ciertos tipos de lógica en un dispositivo.
+\t\t\t
+Nota: Debe colocar el escritor lógico con el zócalo de datos de salida conectado al dispositivo en el que está escribiendo, ya que algunos datos del circuito lógico fluyen en una dirección específica. Diseña los circuitos en consecuencia.
+    </Value>
+    </Record>
+    <Record>
+      <Key>SetupLogicWritter</Key>
+      <Value>Configuración de un escritor lógico</Value>
+    </Record>
+    <Record>
+      <Key>SetupLogicWritterDescription</Key>
+      <Value>Necesitamos configurar nuestro sensor horizontal en el modo horizontal. Para hacer esto, utilizaremos un {THING: StructureLogicWriter} para establecer el modo en el sensor leyendo un valor de un {THING: StructureLogicMemory}</Value>
+    </Record>
+    <Record>
+      <Key>SetupLogicWritter1</Key>
+      <Value>Enciende la {THING:StructureLogicWriter}.</Value>
+    </Record>
+    <Record>
+      <Key>SetupLogicWritter2</Key>
+      <Value>Ponga la entrada {THING:StructureLogicWriter} en la memoria del modo horizontal usando un {THING:ItemScrewdriver}.</Value>
+    </Record>
+    <Record>
+      <Key>SetupLogicWritter3</Key>
+      <Value>Establezca la salida {THING:StructureLogicWriter} en el sensor horizontal de luz diurna.</Value>
+    </Record>
+    <Record>
+      <Key>SetupLogicWritter4</Key>
+      <Value>Configure {THING:StructureLogicWriter} para escribir en el valor lógico del sensor denominado Modo.</Value>
+    </Record>
+    <Record>
+      <Key>PickUpLogicProcessor</Key>
+      <Value>Recoge algunas unidades de {THING:ItemKitLogicProcessor} de la caja cercana.</Value>
+    </Record>
+    <Record>
+      <Key>LogicWriter1</Key>
+      <Value>Coloca una {THING:StructureLogicWriter} en la posición resaltada.</Value>
+    </Record>
+    <Record>
+      <Key>LogicReadersSetup</Key>
+      <Value>Configuración de los lectores lógicos</Value>
+    </Record>
+    <Record>
+      <Key>LogicReaderSetupDescription</Key>
+      <Value>Un lector lógico hace lo que parece: lee lógica. Los usaremos para leer el ángulo solar de cada sensor.</Value>
+    </Record>
+    <Record>
+      <Key>LogicReader1</Key>
+      <Value>Coloca una {THING:StructureLogicReader} en la posición resaltada.</Value>
+    </Record>
+    <Record>
+      <Key>LogicReaderLogicSetup</Key>
+      <Value>Configuración del lector lógico</Value>
+    </Record>
+    <Record>
+      <Key>LogicReaderLogicSetupDescription</Key>
+      <Value>Ahora tenemos que configurar nuestros lectores lógicos recién colocados. Al igual que con el Escritor lógico, necesitamos establecer las entradas.</Value>
+    </Record>
+    <Record>
+      <Key>LogicReaderLogicSetup1</Key>
+      <Value>Establezca la entrada de Horizontal Logic Reader 1 en Sensor de luz de día horizontal.</Value>
+    </Record>
+    <Record>
+      <Key>LogicReaderLogicSetup2</Key>
+      <Value>Establezca el valor lógico en ángulo solar.</Value>
+    </Record>
+    <Record>
+      <Key>LogicReaderLogicSetup3</Key>
+      <Value>Configure el Lector de lógica vertical 1 en Sensor de luz vertical de día.</Value>
+    </Record>
+    <Record>
+      <Key>LogicReaderLogicSetup4</Key>
+      <Value>Establezca el valor lógico en ángulo solar.</Value>
+    </Record>
+    <Record>
+      <Key>VerticalLogicProcessors</Key>
+      <Value>Procesadores Lógicos.</Value>
+    </Record>
+    <Record>
+      <Key>VerticalLogicProcessorsDescription</Key>
+      <Value>Ahora necesitamos realizar algunas operaciones matemáticas con los valores leídos por {THING:StructureLogicReader} y {THING:StructureLogicMemory}. Comience con el módulo de datos vertical del circuito.
+            
+La primera {THING:StructureLogicMath} dividirá los datos de {THING:StructureLogicReader} por 1.5 utilizando una {THING:StructureLogicMemory}.
+  
+La próxima {THING:StructureLogicMath} leerá la entrada de nuestra primera {THING:StructureLogicMath} y agregará 50 usando un desplazamiento denominado {THING:StructureLogicMemory}.</Value>
+    </Record>
+    <Record>
+      <Key>PlaceLogicMath</Key>
+      <Value>Coloca la primera {THING:StructureLogicMath} en la posición resaltada.</Value>
+    </Record>
+    <Record>
+      <Key>PlaceLogicMath1</Key>
+      <Value>Coloca la siguiente {THING:StructureLogicMath} en la posición resaltada.</Value>
+    </Record>
+    <Record>
+      <Key>LogicMathVertical</Key>
+      <Value>Configuración vertical de lógica matemática.</Value>
+    </Record>
+    <Record>
+      <Key>LogicMathVerticalDescription</Key>
+      <Value>Configurar los procesadores matemáticos es uno de los pasos más importantes para crear un circuito lógico, ya que maneja todos los cálculos necesarios para la mayoría de las tareas.</Value>
+    </Record>
+    <Record>
+      <Key>LogicMathVertical1</Key>
+      <Value>Encienda Vertical Math Unit 1.</Value>
+    </Record>
+    <Record>
+      <Key>LogicMathVertical2</Key>
+      <Value>Configure la entrada 1 en Vertical Math Unit 1 para leer Vertical Logic Reader 1.</Value>
+    </Record>
+    <Record>
+      <Key>LogicMathVertical3</Key>
+      <Value>Configure la entrada 2 en la Unidad de Matemática Vertical 1 para leer la Memoria de Inclinación.</Value>
+    </Record>
+    <Record>
+      <Key>LogicMathVertical4</Key>
+      <Value>Establezca el tipo de operación Matemática en la Unidad Matemática Vertical 1 en &apos;Dividir&apos;.</Value>
+    </Record>
+    <Record>
+      <Key>LogicMathVertical5</Key>
+      <Value>Encienda Vertical Math Unit 2.</Value>
+    </Record>
+    <Record>
+      <Key>LogicMathVertical6</Key>
+      <Value>Establezca la entrada 1 en la Unidad de Matemática Vertical 2 para leer la Unidad de Matemática Vertical 1.</Value>
+    </Record>
+    <Record>
+      <Key>LogicMathVertical7</Key>
+      <Value>Configure la entrada 2 en la unidad vertical de matemáticas 2 para leer Agregar memoria.</Value>
+    </Record>
+    <Record>
+      <Key>LogicMathVertical8</Key>
+      <Value>Establezca el tipo de operación Matemática en Vertical Math Unit 2 en &apos;Agregar&apos;.</Value>
+    </Record>
+    <Record>
+      <Key>VerticalBatchWriter</Key>
+      <Value>El escritor de lotes verticales</Value>
+    </Record>
+    <Record>
+      <Key>VerticalBatchWriterDescription</Key>
+      <Value>Batch Writer escribe en todos los dispositivos conectados de un tipo determinado. Use esto para escribir el valor vertical recién calculado en todos los paneles solares a la vez.</Value>
+    </Record>
+    <Record>
+      <Key>VerticalBatchWritterSetup</Key>
+      <Value>Configuración de escritor de lote vertical</Value>
+    </Record>
+    <Record>
+      <Key>VerticalBatchWritterSetupDescription</Key>
+      <Value>Al igual que los otros circuitos, debe configurar {THING:StructureLogicBatchWriter} para enviar valores a los paneles solares.</Value>
+    </Record>
+    <Record>
+      <Key>VerticalBatchWritterSetup1</Key>
+      <Value>Establezca la entrada de {THING:StructureLogicBatchWriter} para leer el valor de Vertical Math Unit 2.</Value>
+    </Record>
+    <Record>
+      <Key>VerticalBatchWritterSetup2</Key>
+      <Value>Establezca los datos de salida para escribir en {THING:StructureSolarPanelDual}.</Value>
+    </Record>
+    <Record>
+      <Key>VerticalBatchWritterSetup3</Key>
+      <Value>Establezca el tipo de lógica en {THING:StructureLogicBatchWriter} en Vertical.</Value>
+    </Record>
+    <Record>
+      <Key>VerticalBatchWritterSetup4</Key>
+      <Value>Enciende la {THING:StructureLogicBatchWriter}.</Value>
+    </Record>
+    <Record>
+      <Key>PickUpLogicInputOutput</Key>
+      <Value>Coge una {THING:ItemKitLogicInputOutput} de la caja.</Value>
+    </Record>
+    <Record>
+      <Key>BatchWriter1</Key>
+      <Value>Coloca una {THING:StructureLogicBatchWriter} en la posición resaltada.</Value>
+    </Record>
+    <Record>
+      <Key>HorizontalLogicProcessorSetUp</Key>
+      <Value>Procesadores lógicos horizontales</Value>
+    </Record>
+    <Record>
+      <Key>HorizontalLogicProcessorSetUpDescription</Key>
+      <Value>Al igual que el módulo vertical del circuito, necesitamos realizar cálculos sobre los datos de entrada horizontales.
+\t\t\t
+Primero, invierta el valor negativo de los datos del ángulo solar horizontal multiplicándolo por -1. Para hacer esto, lee los datos del Lector Lógico con una {THING:StructureLogicMath} y multiplícalos por la {THING:StructureLogicMemory} llamada Invertir.
+            
+El siguiente paso es compensar los datos entregados por el {THING:StructureDaylightSensor}. En este caso necesitamos ajustar los datos en -90. Hazlo leyendo el valor de salida de la {THING:StructureLogicMath} y añadiéndolo a la {THING:StructureLogicMemory} etiquetada Offset.</Value>
+    </Record>
+    <Record>
+      <Key>PlaceLogicMath2</Key>
+      <Value>Coloca la primera {THING:StructureLogicMath} en la posición resaltada.</Value>
+    </Record>
+    <Record>
+      <Key>PlaceLogicMath3</Key>
+      <Value>Coloca la segunda {THING:StructureLogicMath} en la posición resaltada.</Value>
+    </Record>
+    <Record>
+      <Key>HorizontalLogicProcessorSetUp1</Key>
+      <Value>Encienda la Unidad de Matemática Horizontal 1.</Value>
+    </Record>
+    <Record>
+      <Key>HorizontalLogicProcessorSetUp2</Key>
+      <Value>Establezca la entrada 1 en la Unidad de Matemática Horizontal 1 en Lector Lógico Horizontal 1.</Value>
+    </Record>
+    <Record>
+      <Key>HorizontalLogicProcessorSetUp3</Key>
+      <Value>Configure la entrada 2 en la Unidad de Matemática Horizontal 1 para Invertir Memoria.</Value>
+    </Record>
+    <Record>
+      <Key>HorizontalLogicProcessorSetUp4</Key>
+      <Value>Establezca el tipo de operación Matemáticas en la Unidad Matemática Horizontal 1 en &apos;multiplicar&apos;.</Value>
+    </Record>
+    <Record>
+      <Key>HorizontalLogicProcessorSetUp5</Key>
+      <Value>Encienda la unidad horizontal de matemáticas 2.</Value>
+    </Record>
+    <Record>
+      <Key>HorizontalLogicProcessorSetUp6</Key>
+      <Value>Establezca la entrada 1 en la Unidad de Matemática Horizontal 2 en la Unidad de Matemática Horizontal 1.</Value>
+    </Record>
+    <Record>
+      <Key>HorizontalLogicProcessorSetUp7</Key>
+      <Value>Establezca la entrada 2 en la Unidad de Matemáticas Horizontal 2 en OffSet Memory.</Value>
+    </Record>
+    <Record>
+      <Key>HorizontalLogicProcessorSetUp8</Key>
+      <Value>Establezca el tipo de operación Matemáticas en la Unidad Matemática Horizontal 2 en &apos;Agregar&apos;.</Value>
+    </Record>
+    <Record>
+      <Key>HorizontalBatchWriter</Key>
+      <Value>Escritor de lotes horizontales</Value>
+    </Record>
+    <Record>
+      <Key>HorizontalBatchWriterDescription</Key>
+      <Value>Batch Writer escribe en todos los dispositivos conectados de un tipo determinado. Usaremos esto para escribir el valor horizontal recién calculado en los paneles solares.</Value>
+    </Record>
+    <Record>
+      <Key>BatchWriter2</Key>
+      <Value>Coloca una {THING:StructureLogicBatchWriter} en la posición resaltada.</Value>
+    </Record>
+    <Record>
+      <Key>HorizontalBatchWritterSetup1</Key>
+      <Value>Establezca la entrada del Escritor de lotes horizontales en Horizontal Math Unit 2</Value>
+    </Record>
+    <Record>
+      <Key>HorizontalBatchWritterSetup2</Key>
+      <Value>Establezca los datos de salida para escribir en {THING:StructureSolarPanelDual}</Value>
+    </Record>
+    <Record>
+      <Key>HorizontalBatchWritterSetup3</Key>
+      <Value>Establezca el tipo de lógica en {THING:StructureLogicBatchWriter} en Horizontal.</Value>
+    </Record>
+    <Record>
+      <Key>HorizontalBatchWritterSetup4</Key>
+      <Value>Enciende la {THING:StructureLogicBatchWriter}.</Value>
+    </Record>
+    <Record>
+      <Key>SleepMode</Key>
+      <Value>Módulo de modo de reposo</Value>
+    </Record>
+    <Record>
+      <Key>SleepModeDescription</Key>
+      <Value>Ahora tenemos un circuito de seguimiento solar que rastreará la luz del sol durante todo el día.
+\t\t\t
+¿Pero qué hay de la noche? Para ello, instalaremos otro módulo que actuará como un modo de descanso. Cuando los sensores de luz diurna estén inactivos o no reciban luz diurna, los paneles solares se reajustarán a una posición predeterminada. Para hacer esto necesitamos usar las unidades {THING:StructureLogicReader} para leer el estado activo en cada {THING:StructureDaylightSensor}.
+            </Value>
+    </Record>
+    <Record>
+      <Key>LogicSelect1</Key>
+      <Value>Coloca la primera {THING:StructureLogicSelect} en la posición resaltada.</Value>
+    </Record>
+    <Record>
+      <Key>LogicSelect2</Key>
+      <Value>Coloca la Siguiente {THING:StructureLogicSelect} en la posición resaltada.</Value>
+    </Record>
+    <Record>
+      <Key>SleepModeSetup</Key>
+      <Value>Configuración del modo de suspensión</Value>
+    </Record>
+    <Record>
+      <Key>SleepModeSetupDescription</Key>
+      <Value>Ahora necesitamos leer el estado activo de los sensores solares. Esto nos dirá si es de día o de noche.</Value>
+    </Record>
+    <Record>
+      <Key>SleepModeSetupTask1</Key>
+      <Value>Configure el dispositivo de entrada en el Vertical Logic Reader 2 en Sensor vertical de luz diurna</Value>
+    </Record>
+    <Record>
+      <Key>SleepModeSetupTask2</Key>
+      <Value>Establezca el Tipo de lógica en Activar.</Value>
+    </Record>
+    <Record>
+      <Key>SleepModeSetupTask3</Key>
+      <Value>Configure el dispositivo de entrada en Horizontal Logic Reader 2 en Sensor horizontal de luz diurna</Value>
+    </Record>
+    <Record>
+      <Key>SleepModeSetupTask4</Key>
+      <Value>Establezca el Tipo de lógica en Activar.</Value>
+    </Record>
+    <Record>
+      <Key>SleepModePart2</Key>
+      <Value>Modo de reposo parte 2</Value>
+    </Record>
+    <Record>
+      <Key>SleepModePart2Description</Key>
+      <Value>A continuación, use las unidades {THING:StructureLogicSelect} para leer la {THING:StructureLogicReader} recién colocada y elija si desea usar las salidas de {THING:StructureLogicMath} o los valores de desplazamiento de {THING:StructureLogicMemory}.
+
+Por último, cambie el valor de entrada en cada {THING:StructureLogicBatchWriter} para usar los datos de salida de cada {THING:StructureLogicSelect}.</Value>
+    </Record>
+    <Record>
+      <Key>SleepModePart2Task1</Key>
+      <Value>En el Selector de lógica vertical, configure la entrada Seleccionar en Lector de lógica vertical 2.</Value>
+    </Record>
+    <Record>
+      <Key>SleepModePart2Task2</Key>
+      <Value>En el Selector lógico vertical, configure la entrada 1 en Agregar memoria.</Value>
+    </Record>
+    <Record>
+      <Key>SleepModePart2Task3</Key>
+      <Value>Establezca la entrada final en Vertical Math Unit 2.</Value>
+    </Record>
+    <Record>
+      <Key>SleepModePart2Task4</Key>
+      <Value>Encienda el selector de lógica vertical.</Value>
+    </Record>
+    <Record>
+      <Key>SleepModePart2Task5</Key>
+      <Value>En el Selector de lógica horizontal, configure la entrada Seleccionar en Lector de lógica horizontal 2.</Value>
+    </Record>
+    <Record>
+      <Key>SleepModePart2Task6</Key>
+      <Value>En el Selector lógico horizontal, configure la entrada 1 en Memoria compensada.</Value>
+    </Record>
+    <Record>
+      <Key>SleepModePart2Task7</Key>
+      <Value>Establezca la entrada final en Horizontal Math Unit 2.</Value>
+    </Record>
+    <Record>
+      <Key>SleepModePart2Task8</Key>
+      <Value>Active el selector de lógica horizontal.</Value>
+    </Record>
+    <Record>
+      <Key>FinalStage</Key>
+      <Value>La fase final</Value>
+    </Record>
+    <Record>
+      <Key>FinalStageDescription</Key>
+      <Value>Para que el modo de suspensión funcione, reasigne la entrada del Escritor de Lotes para usar las unidades de selección de lógica. Hágalo de la misma manera que cambiaría cualquier otra entrada: cambie cada dispositivo de entrada del Escritor de lotes a su correspondiente unidad de selección lógica.</Value>
+    </Record>
+    <Record>
+      <Key>FinalStage1</Key>
+      <Value>Ponga el dispositivo de entrada del grabador de lotes horizontales en el selector de lógica horizontal.</Value>
+    </Record>
+    <Record>
+      <Key>FinalStage2</Key>
+      <Value>Ponga el dispositivo de entrada del grabador de lote vertical en el selector de lógica vertical.</Value>
+    </Record>
+    <Record>
+      <Key>TurnOnReader</Key>
+      <Value>Enciende el lector lógico.</Value>
+    </Record>
+  </Interface>
+</Language>

@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Code>FR</Code>
+  <Interface>
+    <Record>
+      <Key>TutoiralFabrication</Key>
+      <Value>Exploitation minière + Fabrication</Value>
+    </Record>
+    <Record>
+      <Key>TutoiralFabricationDescription</Key>
+      <Value>Explorez les principes fondamentaux de l’exploitation minière et de la fabrication.</Value>
+    </Record>
+    <Record>
+      <Key>TutoiralFabricationSubTitle</Key>
+      <Value>Formation pratique : Étape III</Value>
+    </Record>
+    <Record>
+      <Key>IntoTutoiralFabricationDescription</Key>
+      <Value>Bienvenue, cadet.
+En tant que Stationeer déployé loin de la Terre, vous avez le choix : forgez vos propres ressources à partir des matériaux locaux, ou périr.
+Les connaissances de base de l’exploitation minière et de la fabrication sont essentielles. Réparez la Base Lunaire Test pour prouver vos compétences.</Value>
+    </Record>
+    <Record>
+      <Key>3Narration1T</Key>
+      <Value>Formation pratique : Étape III</Value>
+    </Record>
+    <Record>
+      <Key>3Narration1D</Key>
+      <Value>Le design fonctionne souvent à l’envers : pour réparer la base d’essai, vous avez besoin de composants. Pour les obtenir, vous avez besoin d’une cintreuse hydraulique ... et vous avez besoin de ressources pour la fabriquer.
+Donc, allons trouver un peu de minerai à l’aide de votre tablette.</Value>
+    </Record>
+    <Record>
+      <Key>3GetTablet</Key>
+      <Value>Prendre la tablette dans la caisse.</Value>
+    </Record>
+    <Record>
+      <Key>3Narration2T</Key>
+      <Value>Formation pratique : Étape III</Value>
+    </Record>
+    <Record>
+      <Key>3Narration2D</Key>
+      <Value>La tablette Xigo &apos;Padi&apos; a diverses fonctions. Avec la Carte (Traqueur) insérée, elle vous aide à naviguer vers les balises locales.</Value>
+    </Record>
+    <Record>
+      <Key>2PutCartInTablet</Key>
+      <Value>Prendre la carte (Traqueur) dans la caisse et l&apos;insérer dans la tablette.</Value>
+    </Record>
+    <Record>
+      <Key>3TabletOn</Key>
+      <Value>Allumez la tablette.</Value>
+    </Record>
+    <Record>
+      <Key>3Narration3D</Key>
+      <Value>Trouver du minerai pour construire votre base prend du temps. Pour aider, nous avons placé une balise sur un dépôt de fer à proximité. Utilisez la tablette pour naviguer jusqu’à la balise, puis exploiter le filon minier.</Value>
+    </Record>
+    <Record>
+      <Key>3EnterAreaT1</Key>
+      <Value>Marcher jusqu&apos;à la balise</Value>
+    </Record>
+    <Record>
+      <Key>3Narration4D</Key>
+      <Value>La foreuse rotative à trois cônes &apos;Topo&apos; réside dans votre ceinture de mineur. Fonctionnant aussi bien dans le vide que dans l’atmosphère, ses embouts en carbure de tungstène cémenté augmentent la résilience, la durée de vie du roulement et réduisent l’écaillage.
+Traitez-la bien.</Value>
+    </Record>
+    <Record>
+      <Key>3GetMDrill</Key>
+      <Value>Ouvrez votre ceinture de mineur, et équipez-vous de la foreuse.</Value>
+    </Record>
+    <Record>
+      <Key>3MDrillOn</Key>
+      <Value>Activer la foreuse</Value>
+    </Record>
+    <Record>
+      <Key>3GetIronOre</Key>
+      <Value>Minez 30 fer.</Value>
+    </Record>
+    <Record>
+      <Key>3Narration5D</Key>
+      <Value>Votre ceinture de mineur devrait maintenant contenir suffisamment de minerai de fer.
+Ramenez-le à la base et fondez ce minerai pour obtenir du fer !</Value>
+    </Record>
+    <Record>
+      <Key>3EnterAreaT2</Key>
+      <Value>Retournez à la base</Value>
+    </Record>
+    <Record>
+      <Key>3Narration6D</Key>
+      <Value>Avant de pouvoir être utilisé pour la construction, le minerai brut doit être transformé en lingots purs. Pour cela, la solution la plus simple est d&apos;utiliser un four à arc.
+Prenez un Kit (Four à Arc) dans la caisse et installez-le dans la zone en surbrillance.</Value>
+    </Record>
+    <Record>
+      <Key>3GetArcFurnaceKit</Key>
+      <Value>Prenez le Kit (Four à Arc) dans la caisse.</Value>
+    </Record>
+    <Record>
+      <Key>3BuildArcFurnaceTutorial</Key>
+      <Value>Installez le Four à Arc dans la zone en surbrillance.</Value>
+    </Record>
+    <Record>
+      <Key>3BuildHeavyCableTutorial</Key>
+      <Value>Connectez le four à arc à l’alimentation à l’aide des câbles de votre ceinture d’outils.</Value>
+    </Record>
+    <Record>
+      <Key>3Narration7D</Key>
+      <Value>Le four à arc ne fonctionne pas à des températures suffisamment élevées pour créer des alliages complexes, mais il fondera très bien le minerai de fer.
+Mettez votre minerai de fer dans le four à arc.</Value>
+    </Record>
+    <Record>
+      <Key>3ArcFurnaceOn</Key>
+      <Value>Allumez le four à arc</Value>
+    </Record>
+    <Record>
+      <Key>3PutOreInFurnace</Key>
+      <Value>Insérer le minerai de fer dans le Four à Arc</Value>
+    </Record>
+    <Record>
+      <Key>3ArcFurnaceActive</Key>
+      <Value>Activer le Four à Arc</Value>
+    </Record>
+    <Record>
+      <Key>3Narration8D</Key>
+      <Value>Simple, rapide et assez efficace, un four à arc crée également des sous-produits de gaz qui peuvent être filtrés et utilisés à d’autres fins.
+Pour le moment, vous avez juste besoin des lingots qu’il fait - il est presque fini.</Value>
+    </Record>
+    <Record>
+      <Key>2GetIronIngot</Key>
+      <Value>Ramasser le lingot derrière le four à arc</Value>
+    </Record>
+    <Record>
+      <Key>3PutIronIngotInAutoLathe</Key>
+      <Value>Insérer le lingot dans le Tour Automatique</Value>
+    </Record>
+    <Record>
+      <Key>3Narration9D</Key>
+      <Value>Le cintreuse hydraulique fabrique des tuyaux, des dispositifs atmosphériques et quelques structures portatives. Pour en construire une avec le tour automatique, vous avez besoin de fer, de cuivre et d’or.
+Les autres lingots dont vous avez besoin sont dans la caisse.</Value>
+    </Record>
+    <Record>
+      <Key>3GetCopperIngot</Key>
+      <Value>Ramasser le lingot de cuivre dans la caisse.</Value>
+    </Record>
+    <Record>
+      <Key>3PutCopperIngotInAutoLathe</Key>
+      <Value>Insérer le lingot de cuivre dans le Tour Automatique.</Value>
+    </Record>
+    <Record>
+      <Key>3GetGoldIngot</Key>
+      <Value>Ramasser le lingot d’or dans la caisse.</Value>
+    </Record>
+    <Record>
+      <Key>3PutGoldIngotInAutoLathe</Key>
+      <Value>Insérer le lingot d’or dans le Tour Automatique</Value>
+    </Record>
+    <Record>
+      <Key>3Narration10D</Key>
+      <Value>Le tour automatique est un outil de composition moléculaire à axes multiples. Il fabrique divers kits structurels et autres appareils, y compris l’humble cintreuse hydraulique. Cliquez sur le bouton &apos;loupe&apos; à l’avant de la machine pour sélectionner une recette.</Value>
+    </Record>
+    <Record>
+      <Key>3AutoLatheOn</Key>
+      <Value>Allumez le tour automatique.</Value>
+    </Record>
+    <Record>
+      <Key>3PipebenderHash</Key>
+      <Value>Sélectionnez la recette de cintreuse hydraulique en utilisant la fonction de recherche.</Value>
+    </Record>
+    <Record>
+      <Key>3FabricatePipeBender</Key>
+      <Value>Imprimez le kit de cintreuse hydraulique.</Value>
+    </Record>
+    <Record>
+      <Key>3GetPipeBender</Key>
+      <Value>Ramassez le kit de Cintreuse Hydraulique.</Value>
+    </Record>
+    <Record>
+      <Key>3BuildPipebenderTutorial</Key>
+      <Value>Placez la cintreuse hydraulique en position surlignée.</Value>
+    </Record>
+    <Record>
+      <Key>3Narration11D</Key>
+      <Value>Les choses prennent du temps: comme le tour automatique, la cintreuse hydraulique à plusieurs étapes de construction.
+Suivez les instructions pour finir sa construction.</Value>
+    </Record>
+    <Record>
+      <Key>3FinishPipeBender</Key>
+      <Value>Terminer la cintreuse hydraulique avec les ressources dans la caisse.</Value>
+    </Record>
+    <Record>
+      <Key>3PipeBenderOn</Key>
+      <Value>Allumez la cintreuse hydraulique.</Value>
+    </Record>
+    <Record>
+      <Key>3Narration12D</Key>
+      <Value>La polyvalence est une vertu. Besoin de lingots tout de suite ? Les machines de fabrication fournissent également un stockage des ressources.
+Éjectez-les du tour automatique en tirant sur le levier, puis insérez-les dans une autre machine.</Value>
+    </Record>
+    <Record>
+      <Key>3OpenAutoLathe</Key>
+      <Value>Tirez le levier du tour automatique pour éjecter les lingots</Value>
+    </Record>
+    <Record>
+      <Key>3PutIronIngotInPipeBender</Key>
+      <Value>Mettre le lingot de fer dans la cintreuse hydraulique</Value>
+    </Record>
+    <Record>
+      <Key>3PutCopperIngotInPipeBender</Key>
+      <Value>Mettre le lingot de cuivre dans la cintreuse hydraulique</Value>
+    </Record>
+    <Record>
+      <Key>3PutGoldIngotInPipeBender</Key>
+      <Value>Mettre lingot d’or dans la cintreuse hydraulique</Value>
+    </Record>
+    <Record>
+      <Key>3Narration13D</Key>
+      <Value>La ventilation active est un composant indispensable pour un sas : maintenant, vous pouvez en fabriquer un avec la cintreuse hydraulique !</Value>
+    </Record>
+    <Record>
+      <Key>3ActiveVentHash</Key>
+      <Value>Sélectionnez le Kit (Ventilation Active) dans la liste des recettes de la cintreuse hydraulique.</Value>
+    </Record>
+    <Record>
+      <Key>3FabricateActiveVent</Key>
+      <Value>Fabriquez un Kit (Ventilation Active) à l’aide de la cintreuse hydraulique.</Value>
+    </Record>
+    <Record>
+      <Key>3PipeBenderOff</Key>
+      <Value>Éteignez la cintreuse hydraulique lorsque la fabrication est terminée.</Value>
+    </Record>
+    <Record>
+      <Key>3GetItemActiveVent</Key>
+      <Value>Prenez le Kit (Ventilation Active)</Value>
+    </Record>
+    <Record>
+      <Key>3Narration14D</Key>
+      <Value>Bon travail, Cadet. Vous avez créé un système de fabrication complet.
+C’est la dernière étape des tests pratiques de la phase III. Appuyez sur le bouton &apos;Terminer&apos; pour transmettre vos résultats à Stationeer Command.</Value>
+    </Record>
+    <Record>
+      <Key>3OnButtonPressTaskT1</Key>
+      <Value>Appuyez sur le Gros Bouton Bleu pour terminer le test.</Value>
+    </Record>
+    <Record>
+      <!--Equip Mining belt-->
+      <Key>3Narration15D</Key>
+      <Value>Votre ceinture de mineur fait deux choses : elle contient vos outils de mineur et stocke le minerai lorsque vous minez.
+Lorsqu’elle est équipé dans votre emplacement &quot;ceinture&quot;, les minerais sorti du sol, y sont automatiquement stockés.</Value>
+    </Record>
+    <Record>
+      <Key>2EquiptMiningbelt</Key>
+      <Value>Équipez vous de la ceinture de mineur</Value>
+    </Record>
+    <Record>
+      <!--Equip Tool belt-->
+      <Key>3Narration16D</Key>
+      <Value>C’est tout, vous avez terminé l’exploitation minière pour l’instant, alors remettez votre ceinture d&apos;outils - vous en aurez besoin sous peu.</Value>
+    </Record>
+    <Record>
+      <Key>2EquiptToolbelt</Key>
+      <Value>Équiper la ceinture d’outils.</Value>
+    </Record>
+  </Interface>
+</Language>

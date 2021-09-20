@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Code>TW</Code>
+  <Interface>
+    <Record>
+      <Key>TutoiralSmelting</Key>
+      <Value>合金冶煉</Value>
+    </Record>
+    <Record>
+      <Key>TutoiralSmleting</Key>
+      <Value>礦物冶煉</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration1T</Key>
+      <Value>礦物冶煉</Value>
+    </Record>
+    <Record>
+      <Key>4.5OpenMiningbelt</Key>
+      <Value>開啟挖礦腰帶</Value>
+    </Record>
+  </Interface>
+</Language>

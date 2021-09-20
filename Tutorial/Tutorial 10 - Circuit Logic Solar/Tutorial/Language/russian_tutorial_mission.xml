@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Code>RU</Code>
+  <Interface>
+    <Record>
+      <Key>Tutorial10-CircuitLogicSolarTracking</Key>
+      <Value>ADV Логическая Схема - Слежение за Солнцем</Value>
+    </Record>
+    <Record>
+      <Key>CircuitLogicSolarTrackingDescription</Key>
+      <Value>Автоматизируйте солнечные панели использую логические схемы.</Value>
+    </Record>
+    <Record>
+      <Key>MoveToArea</Key>
+      <Value>Переберитесь в область</Value>
+    </Record>
+    <Record>
+      <Key>MoveToAreaDescription</Key>
+      <Value>Спуститесь на лифте в Главный Узел и следуйте по освещенному коридору к зоне Обучения.</Value>
+    </Record>
+    <Record>
+      <Key>MoveToAreaTask1</Key>
+      <Value>Пройдите цикл шлюзования к зоне Обучения.</Value>
+    </Record>
+    <Record>
+      <Key>ConsoleManuallControl</Key>
+      <Value>Солнечное Управление Консолью</Value>
+    </Record>
+    <Record>
+      <Key>ConsoleManuallControlDescription</Key>
+      <Value>Установка направления солнечных панелей может быть трудоемкой задачей. Чтобы ускорить работу, соедините солнечные панели вместе и подключите их к консоли управления, таким образом вы сможете вручную отрегулировать положение всех панелей за раз. Все необходимое находится в ящике.</Value>
+    </Record>
+    <Record>
+      <Key>ConsoleManuallControl1</Key>
+      <Value>Закончите сеть установив{THING:StructureCableStraight} в выделенное место.</Value>
+    </Record>
+    <Record>
+      <Key>ConsoleManuallControl2</Key>
+      <Value>Установите {THING:StructureConsole} в выделенное место.</Value>
+    </Record>
+    <Record>
+      <Key>ConsoleManualControlSetup</Key>
+      <Value>Установка Ручного Управление Консолью</Value>
+    </Record>
+    <Record>
+      <Key>ConsoleManualControlSetUpDescription</Key>
+      <Value>Так же как и со шлюзом, вы должны запрограммировать панель управления солнечными панелями используя {THING:CircuitboardSolarControl}.</Value>
+    </Record>
+    <Record>
+      <Key>ConsoleManualControlSetupTask1</Key>
+      <Value>Установите {THING:CircuitboardSolarControl} в {THING:StructureConsole}.</Value>
+    </Record>
+    <Record>
+      <Key>ConsoleManualControlSetupTask2</Key>
+      <Value>Смонтируйте {THING:ItemGlassSheets} к {THING:StructureConsole}.</Value>
+    </Record>
+    <Record>
+      <Key>ConsoleManualControlSetupTask3</Key>
+      <Value>Вставьте {THING:ItemDataDisk} в {THING:StructureConsole}.</Value>
+    </Record>
+    <Record>
+      <Key>ConsoleManualControlSetUpDescription2</Key>
+      <Value>Включите Консоль и выберите четыре показанные солнечные панели. 
+            
+После завершения изымите диск данных, Вы теперь можете устанавливать горизонтальный и вертикальный углы всех подсоединенных Солнечных панелей, а так же видеть производимую мощность</Value>
+    </Record>
+    <Record>
+      <Key>ConsoleManualControlSetupTask4</Key>
+      <Value>Включите {THING:StructureConsole} и выберите показанные солнечные панели.</Value>
+    </Record>
+    <Record>
+      <Key>ConsoleManualControlSetupTask5</Key>
+      <Value>Заберите {THING:ItemDataDisk} из {THING:StructureConsole}.</Value>
+    </Record>
+    <Record>
+      <Key>DaylightSensors</Key>
+      <Value>Установка Сенсоров</Value>
+    </Record>
+    <Record>
+      <Key>DaylightSensorsDescription</Key>
+      <Value>Автоматическое ориентирование на солнце повышает эффективность солнечных панелей, а так же означает что вам не нужно вручную наводить панели на солнце.
+            
+Первый шаг это установка сенсоров солнечного освещения. Один будет измерять горизонтальный угол солнца, другой будет измерять вертикальный угол. Такой метод обеспечит полное дневное отслеживание на любой планете.</Value>
+    </Record>
+    <Record>
+      <Key>PickUpDaylightSensor</Key>
+      <Value>Возьмите {THING:ItemKitSensor} из ящика</Value>
+    </Record>
+    <Record>
+      <Key>DaylightSensor1</Key>
+      <Value>Установите {THING:StructureDaylightSensor} в выделенное место.</Value>
+    </Record>
+    <Record>
+      <Key>SolarMemory</Key>
+      <Value>Модуль Памяти</Value>
+    </Record>
+    <Record>
+      <Key>SolarMemoryDescription</Key>
+      <Value>Память используется для хранения данных, значения устанавливаются вручную, отверткой. Нам нужно пять модулей памяти чтобы хранить данные необходимые для схемы.</Value>
+    </Record>
+    <Record>
+      <Key>PickUpMemory</Key>
+      <Value>Возьмите {THING:ItemKitLogicMemory} из находящегося рядом ящика.</Value>
+    </Record>
+    <Record>
+      <Key>StructureLogicMemory</Key>
+      <Value>Установите {THING:StructureLogicMemory} в выделенные места.</Value>
+    </Record>
+    <Record>
+      <Key>SetMemory</Key>
+      <Value>Настраиваем Память</Value>
+    </Record>
+    <Record>
+      <Key>SetMemoryDescription</Key>
+      <Value>Теперь, когда у вас есть {THING:StructureLogicMemory} и установлена система наблюдения за солнцем, вам нужно установить конкретные значения в {THING:StructureLogicMemory} используя {THING:ItemScrewdriver}. Значения зависят от позиции и ориентации {THING:StructureDaylightSensor} и солнечных панелей.
+Датчики дневного света поддерживают 3 режима: Режим по умолчанию, Горизонтальный и Вертикальный. Каждый режим меняет выводимый угол. В этом случае нам нужно установить сенсор в горизонтальный режим, это режим 1. Чтобы сделать это, установите Модуль Горизонтальной Памяти на значение 1, и логическое записывающее устройство запишет это значение в сенсор. </Value>
+    </Record>
+    <Record>
+      <Key>SetMemoryDescription2</Key>
+      <Value>Теперь нам нужно установить горизонтальный отступ, чтобы компенсировать ограничения позиции и поворота солнечных панелей и свето-сенсора. Если ваш сенсор находится под углом в 90 градусов к вашим панелям, отступ поправит угол чтобы панели смотрели точно на солнце.
+Мы применяем это значение к Горизонтальному математическому модулю 2, когда мы добавляем его к выходу Горизонтального математического модуля 1.</Value>
+    </Record>
+    <Record>
+      <Key>SetMemory0</Key>
+      <Value>Установите значение Модуля Горизонтальной Памяти на 1</Value>
+    </Record>
+    <Record>
+      <Key>SetupHorizontalSensor</Key>
+      <Value>Настраиваем Горизонтальный Сенсор</Value>
+    </Record>
+    <Record>
+      <Key>SetupLogicWritter</Key>
+      <Value>Настраиваем Модуль Логической Записи</Value>
+    </Record>
+    <Record>
+      <Key>SetupLogicWritter1</Key>
+      <Value>Включите {THING:StructureLogicWriter}.</Value>
+    </Record>
+    <Record>
+      <Key>SetupLogicWritter2</Key>
+      <Value>Установите вход {THING:StructureLogicWriter} на Модуль Горизонтальной Памяти используя {THING:ItemScrewdriver}.</Value>
+    </Record>
+    <Record>
+      <Key>PickUpLogicProcessor</Key>
+      <Value>Возьмите {THING:ItemKitLogicProcessor} из находящегося рядом ящика.</Value>
+    </Record>
+    <Record>
+      <Key>LogicWriter1</Key>
+      <Value>Установите {THING:StructureLogicWriter} в выделенное место.</Value>
+    </Record>
+    <Record>
+      <Key>LogicReadersSetup</Key>
+      <Value>Устанавлтваем Логический Считыватель</Value>
+    </Record>
+    <Record>
+      <Key>LogicReaderSetupDescription</Key>
+      <Value>Логический считыватель делает так как назван: считывает логику. Мы будем использовать такие для считывания угла солнца с сенсоров.</Value>
+    </Record>
+    <Record>
+      <Key>LogicReader1</Key>
+      <Value>Установите {THING:StructureLogicReader} в выделенное место.</Value>
+    </Record>
+    <Record>
+      <Key>VerticalLogicProcessors</Key>
+      <Value>Логические Процессоры.</Value>
+    </Record>
+    <Record>
+      <Key>PlaceLogicMath</Key>
+      <Value>Установите первый {THING:StructureLogicMath} в выделенное место.</Value>
+    </Record>
+    <Record>
+      <Key>PlaceLogicMath1</Key>
+      <Value>Установите следующий {THING:StructureLogicMath} в выделенное место.</Value>
+    </Record>
+    <Record>
+      <Key>VerticalBatchWritterSetup4</Key>
+      <Value>Включите {THING:StructureLogicBatchWriter}.</Value>
+    </Record>
+    <Record>
+      <Key>PickUpLogicInputOutput</Key>
+      <Value>Возьмите {THING:ItemKitLogicInputOutput} из ящика.</Value>
+    </Record>
+    <Record>
+      <Key>BatchWriter1</Key>
+      <Value>Установите {THING:StructureLogicBatchWriter} в выделенное место.</Value>
+    </Record>
+    <Record>
+      <Key>PlaceLogicMath2</Key>
+      <Value>Установите первый {THING:StructureLogicMath} в выделенное место.</Value>
+    </Record>
+    <Record>
+      <Key>PlaceLogicMath3</Key>
+      <Value>Установите второй {THING:StructureLogicMath} в выделенное место.</Value>
+    </Record>
+    <Record>
+      <Key>BatchWriter2</Key>
+      <Value>Установите {THING:StructureLogicBatchWriter} в выделенное место.</Value>
+    </Record>
+    <Record>
+      <Key>HorizontalBatchWritterSetup4</Key>
+      <Value>Включите {THING:StructureLogicBatchWriter}.</Value>
+    </Record>
+    <Record>
+      <Key>LogicSelect1</Key>
+      <Value>Установите первый {THING:StructureLogicSelect} в выделенное место.</Value>
+    </Record>
+    <Record>
+      <Key>LogicSelect2</Key>
+      <Value>Установите следующий {THING:StructureLogicSelect} в выделенное место.</Value>
+    </Record>
+  </Interface>
+</Language>

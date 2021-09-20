@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Code>CS</Code>
+  <Interface>
+    <Record>
+      <Key>TutoiralFabrication</Key>
+      <Value>Těžba + Výroba</Value>
+    </Record>
+    <Record>
+      <Key>TutoiralFabricationDescription</Key>
+      <Value>Prozkoumejte základy těžby a výroby.</Value>
+    </Record>
+    <Record>
+      <Key>TutoiralFabricationSubTitle</Key>
+      <Value>Praktický výcvik: Fáze III</Value>
+    </Record>
+    <Record>
+      <Key>IntoTutoiralFabricationDescription</Key>
+      <Value>Vítejte, kadete.
+Jako Stationeer nasazený daleko od Země máte na výběr: vytvořit si vlastní zdroje z místních materiálů nebo zahynout.
+Základní znalosti těžby a výroby jsou zásadní. Dokažte své schopnosti a opravte Měsíční výcvikovou základnu.</Value>
+    </Record>
+    <Record>
+      <Key>3Narration1T</Key>
+      <Value>Praktický výcvik: Fáze III</Value>
+    </Record>
+    <Record>
+      <Key>3Narration1D</Key>
+      <Value>Design často funguje obráceně: k opravě výcvikové základny potřebujete komponenty, pro které potřebujete hydraulickou ohýbačku trubek ... na kterou potřebuje zdroje pro výrobu.
+Najděte tedy pomocí tabletu nějakou rudu.</Value>
+    </Record>
+    <Record>
+      <Key>3GetTablet</Key>
+      <Value>Vezměte tablet z bedny.</Value>
+    </Record>
+    <Record>
+      <Key>3Narration2T</Key>
+      <Value>Praktický výcvik: Fáze III</Value>
+    </Record>
+    <Record>
+      <Key>3Narration2D</Key>
+      <Value>Tablet Xigo &apos;Padi&apos; vykonává řadu různých funkcí. S vloženou lokalizační kazetou vám pomůže s navigací k místním majákům.</Value>
+    </Record>
+    <Record>
+      <Key>2PutCartInTablet</Key>
+      <Value>Vložte lokalizační kazetu z bedny do tabletu.</Value>
+    </Record>
+    <Record>
+      <Key>3TabletOn</Key>
+      <Value>Zapněte tablet.</Value>
+    </Record>
+    <Record>
+      <Key>3Narration3D</Key>
+      <Value>Hledání rudy k vybudování základny vyžaduje čas, a proto jsme umístili maják na nedaleké ložisko železné rudy. Pomocí tabletu najděte maják a proveďte těžbu.</Value>
+    </Record>
+    <Record>
+      <Key>3EnterAreaT1</Key>
+      <Value>Najděte maják.</Value>
+    </Record>
+    <Record>
+      <Key>3Narration4D</Key>
+      <Value>Ve vašem hornickém opasku bydlí tříkónický rotační těžební vrták &apos;Topo&apos;. Funguje stejně dobře ve vakuu i v atmosféře a jeho slinutá karbidová korunka zvyšuje odolnost, životnost ložiska a snižuje odlamování.
+Zacházejte s ním dobře.</Value>
+    </Record>
+    <Record>
+      <Key>3GetMDrill</Key>
+      <Value>Vezměte si těžební vrták z hornického opasku v batohu.</Value>
+    </Record>
+    <Record>
+      <Key>3MDrillOn</Key>
+      <Value>Zapněte vrták.</Value>
+    </Record>
+    <Record>
+      <Key>3GetIronOre</Key>
+      <Value>Vytěžte 30 ks železné rudy.</Value>
+    </Record>
+    <Record>
+      <Key>3Narration5D</Key>
+      <Value>Váš hornický opasek by nyní měl obsahovat spoustu železné rudy.
+Odneste ho zpátky na základnu a začněte tavit!</Value>
+    </Record>
+    <Record>
+      <Key>3EnterAreaT2</Key>
+      <Value>Vraťte se na základnu.</Value>
+    </Record>
+    <Record>
+      <Key>3Narration6D</Key>
+      <Value>Předtím, než může být surová ruda použita ve výrobě, musí být přeměněna na čisté ingoty. Nejjednodušším řešením je proto oblouková pec.
+Vezměte sadu z bedny a umístěte ji na zvýrazněné místo.</Value>
+    </Record>
+    <Record>
+      <Key>3GetArcFurnaceKit</Key>
+      <Value>Vezměte sadu obloukové pece z bedny.</Value>
+    </Record>
+    <Record>
+      <Key>3BuildArcFurnaceTutorial</Key>
+      <Value>Umístěte obloukovou pec na zvýrazněné místo.</Value>
+    </Record>
+    <Record>
+      <Key>3BuildHeavyCableTutorial</Key>
+      <Value>Připojte obloukovou pec k napájení pomocí kabelů z opasku na nářadí.</Value>
+    </Record>
+    <Record>
+      <Key>3Narration7D</Key>
+      <Value>Oblouková pec nepracuje na dostatečně vysokých teplotách, aby vytvořila složité slitiny, ale skvěle taví železo.
+Přidejte železnou rudu do obloukové pece.</Value>
+    </Record>
+    <Record>
+      <Key>3ArcFurnaceOn</Key>
+      <Value>Zapněte obloukovou pec.</Value>
+    </Record>
+    <Record>
+      <Key>3PutOreInFurnace</Key>
+      <Value>Přidejte železnou rudu do obloukové pece.</Value>
+    </Record>
+    <Record>
+      <Key>3ArcFurnaceActive</Key>
+      <Value>Aktivujte obloukovou pec.</Value>
+    </Record>
+    <Record>
+      <Key>3Narration8D</Key>
+      <Value>Jednoduchá, rychlá a poměrně efektivní oblouková pec také generuje vedlejší plynné produkty, které lze odfiltrovat a použít pro jiné účely.
+Právě teď však potřebujete pouze ingoty, které vytváří - je téměř hotová.</Value>
+    </Record>
+    <Record>
+      <Key>2GetIronIngot</Key>
+      <Value>Vezměte ingoty za obloukovou pecí.</Value>
+    </Record>
+    <Record>
+      <Key>3PutIronIngotInAutoLathe</Key>
+      <Value>Přidejte ingot do autosoustruhu.</Value>
+    </Record>
+    <Record>
+      <Key>3Narration9D</Key>
+      <Value>Hydraulická ohýbačka trubek vytváří potrubí, stejně jako atmosférické zařízení a některé přenosné konstrukce. Chcete-li postavit jednu autosoustruhem, potřebujete železo, měď a zlato.
+Další požadované ingoty jsou v bedně.</Value>
+    </Record>
+    <Record>
+      <Key>3GetCopperIngot</Key>
+      <Value>Vezměte měděný ingot z bedny.</Value>
+    </Record>
+    <Record>
+      <Key>3PutCopperIngotInAutoLathe</Key>
+      <Value>Přidejte měděný ingot do autosoustruhu.</Value>
+    </Record>
+    <Record>
+      <Key>3GetGoldIngot</Key>
+      <Value>Vezměte zlatý ingot z bedny.</Value>
+    </Record>
+    <Record>
+      <Key>3PutGoldIngotInAutoLathe</Key>
+      <Value>Přidejte zlatý ingot do autosoustruhu.</Value>
+    </Record>
+    <Record>
+      <Key>3Narration10D</Key>
+      <Value>Autosoustruh je víceosý systém molekulárního skládání. Vyrábí řadu konstrukčních a přístrojových sad, včetně skromné hydraulické ohýbačky trubek. Klikněte na tlačítko hledání na přední straně pro výběr receptu.</Value>
+    </Record>
+    <Record>
+      <Key>3AutoLatheOn</Key>
+      <Value>Zapněte autosoustruh.</Value>
+    </Record>
+    <Record>
+      <Key>3PipebenderHash</Key>
+      <Value>Pomocí vyhledávací funkce vyberte recept na hydraulickou ohýbačku trubek.</Value>
+    </Record>
+    <Record>
+      <Key>3FabricatePipeBender</Key>
+      <Value>Vytiskněte sadu hydraulické ohýbačky trubek.</Value>
+    </Record>
+    <Record>
+      <Key>3GetPipeBender</Key>
+      <Value>Vezměte sadu hydraulické ohýbačky trubek.</Value>
+    </Record>
+    <Record>
+      <Key>3BuildPipebenderTutorial</Key>
+      <Value>Umístěte hydraulickou ohýbačku trubek na zvýrazněné místo.</Value>
+    </Record>
+    <Record>
+      <Key>3Narration11D</Key>
+      <Value>Věci vyžadují čas: stejně jako autosoustruh má i hydraulická ohýbačka trubek několik fází výstavby.
+Postupujte podle popisků a dokončete její konstrukci.</Value>
+    </Record>
+    <Record>
+      <Key>3FinishPipeBender</Key>
+      <Value>Pomocí zdrojů z bedny dokončete ohýbačku trubek.</Value>
+    </Record>
+    <Record>
+      <Key>3PipeBenderOn</Key>
+      <Value>Zapněte ohýbačku trubek.</Value>
+    </Record>
+    <Record>
+      <Key>3Narration12D</Key>
+      <Value>Všestrannost je ctnost. Potřebujete ingoty ve spěchu? Výrobní zařízení také poskytují úložiště zdrojů.
+Vysuňte je z autosoustruhu zatažením za páku a poté je přidejte do jiného stroje.</Value>
+    </Record>
+    <Record>
+      <Key>3OpenAutoLathe</Key>
+      <Value>Zatáhněte za páku autosoustruhu pro vysunutí ingotů.</Value>
+    </Record>
+    <Record>
+      <Key>3PutIronIngotInPipeBender</Key>
+      <Value>Vložte železný ingot do hydraulické ohýbačky trubek.</Value>
+    </Record>
+    <Record>
+      <Key>3PutCopperIngotInPipeBender</Key>
+      <Value>Vložte měděný ingot do hydraulické ohýbačky trubek.</Value>
+    </Record>
+    <Record>
+      <Key>3PutGoldIngotInPipeBender</Key>
+      <Value>Vložte zlatý ingot do hydraulické ohýbačky trubek.</Value>
+    </Record>
+    <Record>
+      <Key>3Narration13D</Key>
+      <Value>Aktivní ventilace je zásadní součástí přechodové komory: nyní ji můžete vyrobit pomocí hydraulické ohýbačky trubek!</Value>
+    </Record>
+    <Record>
+      <Key>3ActiveVentHash</Key>
+      <Value>Vyberte aktivní ventilaci v hydraulické ohýbačce trubek.</Value>
+    </Record>
+    <Record>
+      <Key>3FabricateActiveVent</Key>
+      <Value>Vytvořte aktivní ventilaci pomocí ohýbačky trubek.</Value>
+    </Record>
+    <Record>
+      <Key>3PipeBenderOff</Key>
+      <Value>Po dokončení výroby vypněte ohýbačku trubek.</Value>
+    </Record>
+    <Record>
+      <Key>3GetItemActiveVent</Key>
+      <Value>Vezměte aktivní ventilaci.</Value>
+    </Record>
+    <Record>
+      <Key>3Narration14D</Key>
+      <Value>Dobrá práce, kadete. Vytvořili jste kompletní výrobní systém.
+To byl poslední krok praktického výcviku, fáze III. Stisknutím tlačítka &apos;Dokončit&apos; přeneste výsledky na velitelství Stationeer.</Value>
+    </Record>
+    <Record>
+      <Key>3OnButtonPressTaskT1</Key>
+      <Value>Stiskněte přenosové tlačítko k dokončení testu.</Value>
+    </Record>
+    <Record>
+      <!--Equip Mining belt-->
+      <Key>3Narration15D</Key>
+      <Value>Hornický opasek má dvě funkce: prostor na těžební nástroje a vytěženou rudu.
+Když je umístěn ve vašem &apos;opaskovém&apos; slotu, automaticky se tam ukládají všechny vytěžené rudy.</Value>
+    </Record>
+    <Record>
+      <Key>2EquiptMiningbelt</Key>
+      <Value>Vybavte se hornickým opaskem.</Value>
+    </Record>
+    <Record>
+      <!--Equip Tool belt-->
+      <Key>3Narration16D</Key>
+      <Value>Prozatím je to z těžby vše a nyní si vyměňte zpět opasek na nářadí - budete ho brzy potřebovat.</Value>
+    </Record>
+    <Record>
+      <Key>2EquiptToolbelt</Key>
+      <Value>Vybavte se opaskem na nářadí.</Value>
+    </Record>
+  </Interface>
+</Language>

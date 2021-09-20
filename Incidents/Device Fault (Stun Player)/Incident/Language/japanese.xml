@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Japanese</Name>
+  <Code>KN</Code>
+  <Font>font_cjk</Font>
+  <Interface>
+    <Record>
+      <Key>Incident_Device_Fault_Title</Key>
+      <Value>デバイスの故障</Value>
+    </Record>
+    <Record>
+      <Key>Incident_Device_Fault</Key>
+      <Value>デバイスに障害が発生しました!</Value>
+    </Record>
+  </Interface>
+</Language>

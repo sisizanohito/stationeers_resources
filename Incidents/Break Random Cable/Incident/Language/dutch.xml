@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Dutch</Name>
+  <Code>NL</Code>
+  <Font>font_extended</Font>
+  <Interface>
+    <Record>
+      <Key>Incident_BrokenCable_Title</Key>
+      <Value>Verbrand willekeurige kabel</Value>
+    </Record>
+    <Record>
+      <Key>Incident_BrokenCable</Key>
+      <Value>Een sterke electrische golf is gedetecteerd. Dit kan kabels doorbranden.</Value>
+    </Record>
+  </Interface>
+</Language>

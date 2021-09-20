@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Code>RU</Code>
+  <Interface>
+    <Record>
+      <Key>TutoiralHydroponicsAndFood</Key>
+      <Value>Гидропоника, Гидратация + Еда</Value>
+    </Record>
+    <Record>
+      <Key>TutoiralHydroponicsAndFood</Key>
+      <!--This is the description that appers in the menu-->
+      <Value>Гидропоника, Гидратация + Еда</Value>
+    </Record>
+    <Record>
+      <Key>TutoiralHydroponicsAndFoodSubTitle</Key>
+      <Value>Проголодались? Проверьте свои способности к поддержанию жизни во внеземном мире.</Value>
+    </Record>
+    <Record>
+      <Key>TutoiralHydroponicsAndFoodSubTitle2</Key>
+      <Value>Практические тренировки: Этап VI</Value>
+    </Record>
+    <Record>
+      <Key>TutoiralHydroponicsAndFoodDescription</Key>
+      <Value>Приветствую Кадет. Настало время проверить твои способности к поддержанию жизни далеко, далеко от дома.</Value>
+    </Record>
+    <Record>
+      <Key>6Narration1D2</Key>
+      <Value>В этой фазе, мы посмотрим как поддерживать свой уровень гидратации, выращивать еду и готовить ее во что-то полезное. Начни с установки разливочной машины воды.</Value>
+    </Record>
+    <Record>
+      <Key>6Narration1D</Key>
+      <Value>В любой системе гидратации, тебе нужно место для хранения воды. Построй водный резервуар и коннектор водного резервуара, чтобы подключить его к системе труб. </Value>
+    </Record>
+    <Record>
+      <Key>6BuildTankConnecter</Key>
+      <Value>Постройте соединитель резервуара в выделенном месте</Value>
+    </Record>
+    <Record>
+      <Key>6MoveThingArea</Key>
+      <Value>Перетащите водный резервуар на соединитель резервуаров</Value>
+    </Record>
+    <Record>
+      <Key>ConnectTankToConnecter</Key>
+      <Value>Используйте гаечный ключ чтобы подключить водный резервуар к соединителю резервуара.</Value>
+    </Record>
+    <Record>
+      <Key>6Narration3D</Key>
+      <Value>Завершите жидкостную систему труб соединив трубы для жидкости с соединителем резервуаров.</Value>
+    </Record>
+    <Record>
+      <Key>6GetPipe</Key>
+      <Value>Возьмите жидкостные трубы из ящика</Value>
+    </Record>
+    <Record>
+      <Key>6BuildPipe</Key>
+      <Value>Поместите Т-образную трубу в выделенном месте</Value>
+    </Record>
+    <Record>
+      <Key>6BuildPipept2</Key>
+      <Value>Поместите трубу в выделенном месте</Value>
+    </Record>
+    <Record>
+      <Key>6BuildPipept3</Key>
+      <Value>Поместите Т-образную трубу в выделенном месте</Value>
+    </Record>
+    <Record>
+      <Key>6Narration4D</Key>
+      <Value>Перед тем как ты начнешь сажать что-либо, установи освещение для растений, чтобы они могли расти даже ночью, братан.</Value>
+    </Record>
+    <Record>
+      <Key>6GetGrowLight</Key>
+      <Value>Достаньте набор освещения для растений из контейнера</Value>
+    </Record>
+    <Record>
+      <Key>6BuildGrowLight</Key>
+      <Value>Разместите освещение для растений в подсвеченной области</Value>
+    </Record>
+    <Record>
+      <Key>6GrowLightOn</Key>
+      <Value>Включите освещение для растений</Value>
+    </Record>
+    <Record>
+      <Key>6Narration5D</Key>
+      <Value>Разные растения нуждаются в разных атмосферных соотношениях.
+Но сегодня, мы всего-лишь протестируем основы: у тебя есть вода, свет и правильная газовая смесь, поэтому настало время посадить пшеницу в каждый из гидропонных лотков.</Value>
+    </Record>
+    <Record>
+      <Key>6GetWheat</Key>
+      <Value>Возьмите семена пшеницы из контейнера</Value>
+    </Record>
+    <Record>
+      <Key>6PlantWheat</Key>
+      <Value>Посадите пшеницу в гидропонные лотки.</Value>
+    </Record>
+    <Record>
+      <Key>6Narration6D</Key>
+      <Value>Мы проверим ваши навыки работы с газовыми системами на следующем этапе, а пока просто подождите пока пшеница вырастет. Мы добавили немного супер-удобрения для ускорения процесса.</Value>
+    </Record>
+    <Record>
+      <Key>6WaitForWheatToGrow</Key>
+      <Value>Дождитесь пока пшеница вырастет.</Value>
+    </Record>
+    <Record>
+      <Key>6Narration6D</Key>
+      <Value>Мы проверим ваши навыки работы с газовыми системами на следующем этапе, а пока просто подождите пока пшеница вырастет. Мы добавили немного супер-удобрения для ускорения процесса.</Value>
+    </Record>
+    <Record>
+      <Key>6HarvestWheat</Key>
+      <Value>Соберите 20 пшеницы</Value>
+    </Record>
+    <Record>
+      <Key>6PutWheatInProcessor</Key>
+      <Value>Добавьте пшеницу в воронку процессора реагентов</Value>
+    </Record>
+    <Record>
+      <Key>6BenchOn</Key>
+      <Value>Включите верстак</Value>
+    </Record>
+    <Record>
+      <Key>6ReagentProcessorOn</Key>
+      <Value>Включите процессор реагентов</Value>
+    </Record>
+    <Record>
+      <Key>6Narration8D</Key>
+      <Value>Скоро у тебя будет мука, так что ты сможешь приступить к выпечке. Ты можете приготовить разнообразную еду в микроволновке, включая восхитительные маффины. Обязательно следуй точно рецепту, потому что выпекание это наука.</Value>
+    </Record>
+    <Record>
+      <Key>6PutEggInMicrowave</Key>
+      <Value>Добавьте яйцо в микроволновку</Value>
+    </Record>
+    <Record>
+      <Key>6PutMilkInMicrowave</Key>
+      <Value>Добавьте 10мл молока в микроволновку</Value>
+    </Record>
+    <Record>
+      <Key>6PutFlourInMicrowave</Key>
+      <Value>Добавьте 50г муки в микроволновку</Value>
+    </Record>
+    <Record>
+      <Key>6MicrowaveOn</Key>
+      <Value>Включите микроволновку</Value>
+    </Record>
+    <Record>
+      <Key>6BakeMuffin</Key>
+      <Value>Испеките маффин</Value>
+    </Record>
+    <Record>
+      <Key>6Narration9D</Key>
+      <Value>Ты сейчас собираешься получить один из лучших маффинов Агризеро. Насладись им - и прогони этот голод, Кадет.</Value>
+    </Record>
+    <Record>
+      <Key>6EatMuffin</Key>
+      <Value>Съешьте маффин</Value>
+    </Record>
+    <Record>
+      <Key>6Narration10D</Key>
+      <Value>Отлично сработано, Кадет. Ты продемонстрировал высокий уровень самодостаточности, и приемлемые кулинарные таланты. Командование Станционеров будет гордиться тобой. Нажми на важную голубую кнопку чтобы отправить твои результаты.</Value>
+    </Record>
+    <Record>
+      <Key>6OnButtonPressTask</Key>
+      <Value>Нажмите важную кнопку</Value>
+    </Record>
+    <Record>
+      <Key>6FlourCreated</Key>
+      <Value>Создайте муку</Value>
+    </Record>
+    <Record>
+      <Key>6NarrationInsert1D</Key>
+      <Value>Теперь у тебя есть запас воды, давай займемся выращиванием. Гидропонные лотки обеспечивают простую и эффективную систему для выращивания растений любых сортов. Закончи гидропонную сеть добавив еще один лоток в массив.</Value>
+    </Record>
+    <Record>
+      <Key>6MicrowaveClosed</Key>
+      <Value>Закройте микроволновку</Value>
+    </Record>
+    <Record>
+      <Key>6MicrowaveOpened</Key>
+      <Value>Откройте микроволновку</Value>
+    </Record>
+    <Record>
+      <Key>6HydroponicTray</Key>
+      <Value>Постройте гидропонный лоток</Value>
+    </Record>
+    <Record>
+      <Key>6BuildCables</Key>
+      <Value>Установите кабель в выделенной области</Value>
+    </Record>
+    <Record>
+      <Key>6PickUpCable</Key>
+      <Value>Подберите кабель</Value>
+    </Record>
+    <Record>
+      <Key>6PickUpCable</Key>
+      <Value>Подберите кабель</Value>
+    </Record>
+    <Record>
+      <Key>6PickUpItemHydroponicTray</Key>
+      <Value>Возьмите гидропонный лоток</Value>
+    </Record>
+    <Record>
+      <Key>6GetFlour</Key>
+      <Value>Заберите муку из процессора реагентов</Value>
+    </Record>
+    <Record>
+      <Key>6EndScreenText</Key>
+      <Value>Хорошая работа, Кадет. Ты показал приемлемый уровень навыков гидратации и гидропоники.</Value>
+    </Record>
+    <Record>
+      <Key>6WaitForGrow</Key>
+      <Value>Подождите пока пшеница вырастет</Value>
+    </Record>
+    <Record>
+      <Key>6GetWaterBottleFiller</Key>
+      <Value>Возьмите набор разливочной машины воды из контейнера</Value>
+    </Record>
+    <Record>
+      <Key>6BuildWaterBottleFiller</Key>
+      <Value>Установите разливочную машину воды в выделенном месте</Value>
+    </Record>
+    <Record>
+      <Key>6NarrationExtra1</Key>
+      <Value>Ты почти готов заполнить свою бутылку с водой. Возьми пустую бутылку из контейнера, потом вставь ее в разливочную машину.</Value>
+    </Record>
+    <Record>
+      <Key>6GetWaterBottle</Key>
+      <Value>Возьмите пустую бутылку для воды из контейнера</Value>
+    </Record>
+    <Record>
+      <Key>6AddWaterbottletofiller</Key>
+      <Value>Вставьте бутылку для воды в разливочную машину</Value>
+    </Record>
+    <Record>
+      <Key>6NarrationExtra2</Key>
+      <Value>Превосходно. Теперь настало время пустить воду в водопровод. Возьми шахтерский пояс из контейнера. Потом используй измельчитель льда чтобы переработать лёд в воду.</Value>
+    </Record>
+    <Record>
+      <Key>6GetMingBelt</Key>
+      <Value>Возьмите пояс шахтера из ящика</Value>
+    </Record>
+    <Record>
+      <Key>6AddIceToCrusher</Key>
+      <Value>Возьмите лёд из шахтерского пояса и положите его в измельчитель льда</Value>
+    </Record>
+    <Record>
+      <Key>6MIceCrusherOn</Key>
+      <Value>Включите измельчитель льда чтобы заполнить бутылку</Value>
+    </Record>
+  </Interface>
+</Language>

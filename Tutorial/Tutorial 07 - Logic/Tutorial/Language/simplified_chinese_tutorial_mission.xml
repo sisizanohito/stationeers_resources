@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Code>CN</Code>
+  <Interface>
+    <Record>
+      <Key>TutoiralLogicSubTitle</Key>
+      <Value>实践培训：阶段三</Value>
+    </Record>
+    <Record>
+      <Key>8ConstructLever</Key>
+      <Value>在高亮位置生成控制台</Value>
+    </Record>
+    <Record>
+      <Key>8ConstructCable</Key>
+      <Value>在高亮位置生成控制台</Value>
+    </Record>
+    <Record>
+      <Key>8ConstructReader</Key>
+      <Value>在高亮位置生成控制台</Value>
+    </Record>
+    <Record>
+      <Key>8ConstructWriter</Key>
+      <Value>在高亮位置生成控制台</Value>
+    </Record>&gt;
+		
+    <Record>
+      <Key>8TurnOnReader</Key>
+      <Value>打开这个逻辑读取的开关。</Value>
+    </Record>
+    <Record>
+      <Key>8TurnOnWriter</Key>
+      <Value>打开这个逻辑读取的开关。</Value>
+    </Record>
+    <Record>
+      <Key>8TurnOffWriter</Key>
+      <Value>打开这个逻辑读取的开关。</Value>
+    </Record>
+    <Record>
+      <Key>8TurnOffReader</Key>
+      <Value>打开这个逻辑读取的开关。</Value>
+    </Record>
+    <Record>
+      <Key>8ConstructBatchWriter</Key>
+      <Value>在高亮位置生成控制台</Value>
+    </Record>
+    <Record>
+      <Key>8TurnOnBatchWriter</Key>
+      <Value>按 {KEY:ToggleHandPower} 键打开 {THING:ItemTablet}。</Value>
+    </Record>
+    <Record>
+      <Key>8TurnOffBatchWriter</Key>
+      <Value>关闭焊枪</Value>
+    </Record>
+  </Interface>
+</Language>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Code>RO</Code>
+  <Interface>
+    <Record>
+      <Key>4BuildPDoor1Tutorial</Key>
+      <Value>Purtați {THING:ItemSpaceHelmet} </Value>
+    </Record>
+    <Record>
+      <Key>4BuildDoor2Tutorial</Key>
+      <Value>Purtați {THING:ItemSpaceHelmet} </Value>
+    </Record>
+    <Record>
+      <Key>4BuildGasSensorTutorial</Key>
+      <Value>Purtați {THING:ItemSpaceHelmet} </Value>
+    </Record>
+    <Record>
+      <Key>4GetActiveVent</Key>
+      <Value>Purtați {THING: ItemEvaSuit}</Value>
+    </Record>
+    <Record>
+      <Key>4BuildStructureActiveVent</Key>
+      <Value>Purtați {THING:ItemSpaceHelmet} </Value>
+    </Record>
+    <Record>
+      <Key>4BuildStructurePassiveVent</Key>
+      <Value>Purtați {THING:ItemSpaceHelmet} </Value>
+    </Record>
+    <Record>
+      <Key>4BuildConsoleTutorial</Key>
+      <Value>Purtați {THING:ItemSpaceHelmet} </Value>
+    </Record>
+    <Record>
+      <Key>4ConsoleOn</Key>
+      <Value>Purtați {THING:ItemSpaceHelmet} </Value>
+    </Record>
+    <Record>
+      <Key>4GetpipeKit</Key>
+      <Value>Purtați {THING: ItemEvaSuit}</Value>
+    </Record>
+    <Record>
+      <Key>4GetConsole</Key>
+      <Value>Purtați {THING: ItemEvaSuit}</Value>
+    </Record>
+    <Record>
+      <Key>4GetLabeler</Key>
+      <Value>Purtați {THING:ItemSpaceHelmet} </Value>
+    </Record>
+    <Record>
+      <Key>4LabelerOn</Key>
+      <Value>Purtați {THING:ItemSpaceHelmet} </Value>
+    </Record>
+  </Interface>
+</Language>

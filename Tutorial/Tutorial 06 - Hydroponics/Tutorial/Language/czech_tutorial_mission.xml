@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Code>CS</Code>
+  <Interface>
+    <Record>
+      <Key>TutoiralHydroponicsAndFood</Key>
+      <Value>Hydroponie, hydratace + jídlo</Value>
+    </Record>
+    <Record>
+      <Key>TutoiralHydroponicsAndFood</Key>
+      <!--This is the description that appers in the menu-->
+      <Value>Hydroponie, hydratace + jídlo</Value>
+    </Record>
+    <Record>
+      <Key>TutoiralHydroponicsAndFoodSubTitle2</Key>
+      <Value>Praktický výcvik: Fáze VI</Value>
+    </Record>
+    <Record>
+      <Key>6BuildTankConnecter</Key>
+      <Value>Postavte konektor nádrže na zvýrazněné místo</Value>
+    </Record>
+    <Record>
+      <Key>6GetPipe</Key>
+      <Value>Vezměte potrubí na kapaliny z bedny</Value>
+    </Record>
+    <Record>
+      <Key>6BuildPipe</Key>
+      <Value>Umístěte potrubní T-spoj na zvýrazněné místo</Value>
+    </Record>
+    <Record>
+      <Key>6GetGrowLight</Key>
+      <Value>Vezměte růstové světlo z bedny</Value>
+    </Record>
+    <Record>
+      <Key>6BuildGrowLight</Key>
+      <Value>Umístěte růstové světlo na zvýrazněné místo</Value>
+    </Record>
+    <Record>
+      <Key>6GrowLightOn</Key>
+      <Value>Zapněte růstové světlo</Value>
+    </Record>
+    <Record>
+      <Key>6GetWheat</Key>
+      <Value>Vezměte semena pšenice z bedny</Value>
+    </Record>
+    <Record>
+      <Key>6BenchOn</Key>
+      <Value>Zapněte lavici</Value>
+    </Record>
+    <Record>
+      <Key>6PutEggInMicrowave</Key>
+      <Value>Přidejte vejce do mikrovlné trouby</Value>
+    </Record>
+    <Record>
+      <Key>6PutMilkInMicrowave</Key>
+      <Value>Přidejte 10 ml mléka do mikrovlné trouby</Value>
+    </Record>
+    <Record>
+      <Key>6PutFlourInMicrowave</Key>
+      <Value>Přidejte 50 g mouky do mikrovlné trouby</Value>
+    </Record>
+    <Record>
+      <Key>6MicrowaveOn</Key>
+      <Value>Zapněte mikrovlnnou troubu</Value>
+    </Record>
+    <Record>
+      <Key>6BakeMuffin</Key>
+      <Value>Upečte muffin</Value>
+    </Record>
+    <Record>
+      <Key>6EatMuffin</Key>
+      <Value>Jezte muffin</Value>
+    </Record>
+    <Record>
+      <Key>6OnButtonPressTask</Key>
+      <Value>Stiskněte důležité tlačítko</Value>
+    </Record>
+    <Record>
+      <Key>6FlourCreated</Key>
+      <Value>Vytvořte mouku</Value>
+    </Record>
+    <Record>
+      <Key>6MicrowaveClosed</Key>
+      <Value>Zavřete mikrovlnnou troubu</Value>
+    </Record>
+    <Record>
+      <Key>6MicrowaveOpened</Key>
+      <Value>Otevřete mikrovlnnou troubu</Value>
+    </Record>
+    <Record>
+      <Key>6HydroponicTray</Key>
+      <Value>Postavte hydroponický zásobník</Value>
+    </Record>
+    <Record>
+      <Key>6BuildCables</Key>
+      <Value>Postavte kabel na zvýrazněné místo</Value>
+    </Record>
+    <Record>
+      <Key>6PickUpCable</Key>
+      <Value>Vezměte kabel</Value>
+    </Record>
+    <Record>
+      <Key>6PickUpCable</Key>
+      <Value>Vezměte kabel</Value>
+    </Record>
+    <Record>
+      <Key>6WaitForGrow</Key>
+      <Value>Počkejte až pšenice poroste</Value>
+    </Record>
+    <Record>
+      <Key>6GetWaterBottleFiller</Key>
+      <Value>Vezměte plničku lahví na vodu z bedny</Value>
+    </Record>
+    <Record>
+      <Key>6BuildWaterBottleFiller</Key>
+      <Value>Umístěte plničku lahví na vodu na zvýrazněné místo</Value>
+    </Record>
+    <Record>
+      <Key>6GetWaterBottle</Key>
+      <Value>Vezměte prázdnou láhev na vodu z bedny</Value>
+    </Record>
+    <Record>
+      <Key>6GetMingBelt</Key>
+      <Value>Vezměte hornický opasek z bedny</Value>
+    </Record>
+    <Record>
+      <Key>6MIceCrusherOn</Key>
+      <Value>Zapněte drtič ledu pro naplnění láhve</Value>
+    </Record>
+  </Interface>
+</Language>

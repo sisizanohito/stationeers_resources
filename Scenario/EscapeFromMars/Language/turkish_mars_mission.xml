@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Turkish</Name>
+  <Code>TR</Code>
+  <Font>font_russian</Font>
+  <Interface>
+    <Record>
+      <Key>EscapeFromMarsTitle</Key>
+      <Value>Mars&apos;tan Kaçış [BETA]</Value>
+    </Record>
+    <Record>
+      <Key>EscapeFromMarsDescription</Key>
+      <Value>TEST İÇİN: Sadece az miktarda kaynak ile, Mars&apos;ta hayatta kalmanın yolunu bulmak için, aklını ve ruhunu kullanmalısın.  Tüm bunlar plana dönüşecek, Mars&apos;ın atmosferini geride bırakabilecek bir roket inşa etmene yol açacaktır.</Value>
+    </Record>
+    <!-- Mission Stage: In Case of Emergency -->
+    <Record>
+      <Key>MarsTitleInCaseOfEmergency</Key>
+      <Value>Acil Bir Durumda...</Value>
+    </Record>
+    <Record>
+      <Key>MarsDescInCaseOfEmergency</Key>
+      <Value>Giysin hasarlı ve biraz yiyecek bir şeyler bulmalısın.</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskGetTape</Key>
+      <Value>Biraz {THING:ItemDuctTape} bul</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskGetFood</Key>
+      <Value>Bir {THING:ItemCerealBar} bul</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage1</Key>
+      <Value>ACİL DURUM KILAVUZU</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage1Page1</Key>
+      <Value>SAYFA 1/2\nPANİK YAPMA.\n\nEğer bunu okuyorsan, tahliyeden sağ kurtulmuşsun; tebrikler.  Çevreye bakınmadan ilk önceliğin, kendi sağlık durumunu ve etrafındaki diğerlerinin sağlık durumlarını kontrol etmektir.  Kendini içinde bulduğun ortam ne olursa olsun, kıyafet bütünlüğünü kontrol ettiğine emin ol ve kalan hava kaynağını koruman da çok önemlidir.</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage1Page2</Key>
+      <Value>SAYFA 2/2 \nEğer sağlam bir kaçış kapsülü ve eklenmiş tedarik sandığı yanındaysan, kurtarılmayı beklemene yardımcı olacak bazı az miktarda malzemelere sahip olmalısın. Eğer değilsen, hayatta kalanları ara.  Gıda, piller, koli bandı ve taşınabilir hayatta kalma ekipmanlarına benzer yardımcı malzemeler gibi hayatta kalman için en önemli olacak gereçlerin konumlarını not ettiğine veya topladığına emin olmalısın. \n</Value>
+    </Record>
+    <!-- Mission Stage: Aquire Raw Materials -->
+    <Record>
+      <Key>MarsTitleRawMaterials</Key>
+      <Value>DİLENMEK, GİZLENMEK VE ÇALMAK</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage2</Key>
+      <Value>HAM MADDELER</Value>
+    </Record>
+    <Record>
+      <Key>MarsDescRawMaterials</Key>
+      <Value>Üretime devam etmek için, ihtiyacın olan temel malzemeleri üretmenin bir yolunu bul.</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskGetIronIngots</Key>
+      <Value>Bir {THING:ItemIronIngot} al</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskGetCopperIngots</Key>
+      <Value>Bir {THING:ItemCopperIngot} al</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskGetGoldIngots</Key>
+      <Value>Bir {THING:ItemGoldIngot} al</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage2Page1</Key>
+      <Value>SAYFA 1/5 \nDİLEN, GİZLEN veya ÇAL\n\nNeyse ki, üretim araçlarımız, bu durumunda muhtemelen ihtiyacın olan bütün tariflerin bilgisine sahipler.  Ne yazık ki, bu tarifleri yapabilmek için ham maddelere ihtiyaçları olacak.  Bu maddeler, durumuna göre birkaç kaynaktan elde edilebilir:</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage2Page2</Key>
+      <Value>SAYFA 2/5 \nORTALIĞI ARAMAK\n\nEğer gemin hâlâ büyük ölçüde sağlam ise, üretilmiş hâliyle malzemeler bulabilirsin, ya da zaten üretim makineleri içeridedir veya yakınlarda depolanmıştır.</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage2Page3</Key>
+      <Value>SAYFA 3/5 \nSÖKMEK\n\nEğer bir Açılı Öğütücü bulabildiysen veya üretebildiysen, gemi enkazından bazılarını sökmek için kullanabilmelisin.  Bir Geri Dönüştürücü, bileşen malzemelerinin bir karışımını ortaya çıkarmak için kullanılabilir ve bir Santrifüj, bunları birbirinden ayırabilir; böylece, kullanılabilir malzemelere yeniden eritilebilirler.</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage2Page4</Key>
+      <Value>SAYFA 4/5 \nKAZMAK\n\nÇevrenize çok bağlı olarak, bazı keşif gemileri, basit madencilik ekipmanları ile donatılmıştır.  Eğer, bol miktarda maden kaynağı olan bir yerde kendini bulacak kadar şanslıysan, bu ekipmanları kullanmak kesinlikle uygun bir seçenektir.</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage2Page5</Key>
+      <Value>SAYFA 5/5\nERİTME\n\nHam maddeleri, üretim için hazır işlenmiş külçelere dönüştürmenin en basit yolu, Ark Fırını kullanmaktır ve ona biraz enerji sağlamaktır.  Eğer, kaynak olarak sıkıntıda isen, bu muhtemelen ilk yatırımın olmalıdır; eğer yeterli malzeme bulamazsan, sonunda daha fazla üretebilmen için bir gereklilik olacaktır.</Value>
+    </Record>
+    <!-- Mission Stage: Setup Manufacturing -->
+    <Record>
+      <Key>MarsTitleSetupManufacturing</Key>
+      <Value>Üretim yollarını kavramak</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage3</Key>
+      <Value>ÜRETİM 101</Value>
+    </Record>
+    <Record>
+      <Key>MarsDescSetupManufacturing</Key>
+      <Value>İhtiyacımız olacak herşeyi üretebilmek için, bir {THING:ItemKitHydraulicPipeBender} ve bir {THING:ItemKitElectronicsPrinter} ile başlamamız gerekir.</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskManufactureHPB</Key>
+      <Value>Bir {THING:ItemKitHydraulicPipeBender} üret</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskManufactureEP</Key>
+      <Value>Bir {THING:ItemKitElectronicsPrinter} üret</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage3Page1</Key>
+      <Value>SAYFA 1/5\nÜRETİM \nBüyük olasılıkla, bu kurtarma çabaları zaten devam ediyorken, onların sana ulaşabilmeleri biraz zaman alabilir.  Daha uzun süre kalmak için plan yapmak uygun olacaktır.  Bazı temel üretim altyapısını kurman gerekecek.  Bir Otomatik Torna, doğal başlangıç noktasıdır ve bu makine, daha çok göreve özgü üretim makineleri üretmeni sağlayacak.</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage3Page2</Key>
+      <Value>SAYFA 2/5 \nKİŞİYE ENERJİ \n\nUmarım bu noktaya kadar biraz pil bulmuşsundur; bazı araçlar bu pilleri şarj eder.  Bir elektrik ağına enerji tedarik etmenin en kolay yolu, bir Bölgesel Güç Denetleyici birimine pilleri bağlamaktır.  Ancak, eritme ve toptan üretimde ihtiyacın olacak enerjiyi sağlamak için, biraz daha kullanışlı bir şeye ihtiyacın olacak.  Bunu halletmenin en iyi yolu, durumuna bağlı olmakla beraber şu seçenekleri içerir;</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage3Page3</Key>
+      <Value>SAYFA 3/5 \nKATI YAKIT ÜRETİCİ \nBu makine, katı hâldeki fosilleşmiş hidrokarbonları yakarak enerji üretir.  Donanımı, bir Elektronik Yazıcı veya bir İmalatçı&apos;da üretilebilir.</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage3Page4</Key>
+      <Value>SAYFA 4/5 \nGAZ ÜRETİCİ \nBu makine, bir hidrojen/oksijen yakıt karışımının ateşlenmesi ile yanma sonucunda enerji ortaya çıkarır.  Temiz bir yanma, daha büyük bir enerji çıkışını sağlar, fakat beslenen yakıt miktarını dikkatlice idare etmelisin ve enerji çıkışını sınırlandırmak için muhtemelen bir transformatör kullanmalısın yoksa aşırı yüklenmiş kablolardan muzdarip olursun.</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage3Page5</Key>
+      <Value>SAYFA 5/5 \nGÜNEŞ PANELLERİ \nGüneş Panelleri.  Yerleştirildikten sonra, bir cam yüzey ile tamamlaman gerekir; ama bir kez yapıldılar mı, gün boyunca düşük bir miktarda enerji üretirler.  Güneşe çevirebilmek, dikey ve yatay açıyı ayarlayabilmek için ingiliz anahtarını kullanabilirsin fakat uzun dönemde, senin için, Güneş&apos;i takip etmeleri için bir mantık devresinin ve bir gün ışığı sensörünün kullanımına bakmak isteyebilirsin.</Value>
+    </Record>
+    <!-- Mission Stage: Food Supply -->
+    <Record>
+      <Key>MarsTitleFoodSupply</Key>
+      <Value>GÜVENİLİR BİR GIDA KAYNAĞI</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage4</Key>
+      <Value>BAHÇIVANLIK KILAVUZU</Value>
+    </Record>
+    <Record>
+      <Key>MarsDescFoodSupply</Key>
+      <Value>Burada ne kadar uzun süre hayatta kalman gerekeceğini bilmiyoruz.  Her ihtimale karşı yenilenebilir bir gıda kaynağı hazırlamalıyız.</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskPrepareAtmos</Key>
+      <Value>Patates yetiştirmek için yeterli bir atmosfere sahip basınçlı bir oda oluştur.</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskGrowPotato</Key>
+      <Value>Olgun bir {THING:ItemPotato} yetiştir.</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage4Page1</Key>
+      <Value>SAYFA 1/2 \nKÜÇÜK YEŞİL BAŞPARMAK\nEn temel olarak, bitki yetiştirebilmek için bir Hidroponik Tepsisine veya bir Taşınabilir Hidroponiğe ihtiyacın olacak.  Bu araçlar, su kaynağının temin edilmesine ve en az 20kpa basınçtaki, yaklaşık 20-25 santigrad derecedeki ve az bir miktar karbondioksitin bulunduğu atmosfere ihtiyaç duyar.</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage4Page2</Key>
+      <Value>SAYFA 2/2\nEn zorlu gereksinim, başlamak için biraz tohum elde etmektir.  Her kaçış kapsülü, başlaman için çok az miktarda tohumun bulunduğu tedarik sandıkları barındırır; bu tohumları koruman çok önemlidir.  Kaçış kapsülünden ayrılırsan ve eğer bir izleme kartuşu bulursan, kapsülün işaret fenerini izlemek için bu kartuşu kullanabilirsin.</Value>
+    </Record>
+    <!-- Mission Stage: Spawn Mothership & Engine -->
+    <Record>
+      <Key>MarsTitleCreateRocket</Key>
+      <Value>Bir Roket Oluşturmak</Value>
+    </Record>
+    <Record>
+      <Key>MarsDescCreateRocket</Key>
+      <Value>Bir {THING:StructureLaunchPad} üreterek ve gerekli modülleri ona takarak bir Roket inşa et.</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskBuildLaunchPad</Key>
+      <Value>Roket Kalkış Rampası İnşa Et</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskBuildEngine</Key>
+      <Value>Roket Motoru İnşa Et</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskBuildFuelTank</Key>
+      <Value>Roket Yakıt Tankı İnşa Et</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskBuildCommand</Key>
+      <Value>Roket Kumanda Modülü İnşa Et</Value>
+    </Record>
+    <Record>
+      <Key>MarsTitleLaunchRocket</Key>
+      <Value>Roketi Fırlatmak</Value>
+    </Record>
+    <Record>
+      <Key>MarsDescLaunchRocket</Key>
+      <Value>Yeni inşa ettiğin roketine yakıt ikmal ettikten sonra, sonunda uygarlığa geri dönebilirsin.</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskLaunchMothership</Key>
+      <Value>Roketi fırlat</Value>
+    </Record>
+  </Interface>
+</Language>

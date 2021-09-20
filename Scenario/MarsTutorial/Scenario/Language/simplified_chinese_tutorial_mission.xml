@@ -1,0 +1,740 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Code>CN</Code>
+  <Interface>
+    <Record>
+      <Key>TheNewBeginningTitle</Key>
+      <Value>新手上路 [BETA]</Value>
+    </Record>
+    <Record>
+      <Key>TheNewBeginningDescription</Key>
+      <Value>让我们学习一些基础知识，并学习如何成为最好的Stationeer！</Value>
+    </Record>
+    <!-- start the tutorial -->
+    <Record>
+      <Key>TutorialTheBeginningTitle</Key>
+      <Value>开始</Value>
+    </Record>
+    <Record> Using 
+			
+      <Key>TutorialTheBeginningDescription</Key>
+      <Value>让我们开始吧。按{KEY:Help}关掉你的游戏百科全书 。然后按{KEY:PrimaryAction}来捡起物品。按{KEY:HelmetSlot}, {KEY:SuitSlot}, {KEY:BackSlot},{KEY:UniformSlot}或{KEY:ToolBeltSlot}来和其中的物品或设备进行交互。按住来交换槽位和你手上之间的物品。你也可以按住{KEY:MouseControl}启用鼠标来拖动物品到这些槽上。
+
+角色的这些槽位可以在屏幕的左边看到。比如按住{KEY:MouseControl}启用鼠标然后点击{THING:UniformOrangeJumpSuit}槽位。这就能显示其中的菜单，并且能够用物品与其交互。</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTheBeginningTask1</Key>
+      <Value>关闭 {LINK:Home;Stationpedia}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTheBeginningTask2</Key>
+      <Value>装备你的{THING:ItemSpaceHelmet}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTheBeginningTask3</Key>
+      <Value>装备你的{THING:ItemSpacepack}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTheBeginningTask4</Key>
+      <Value>装备你的{THING:ItemEvaSuit}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDontBeAToolTitle</Key>
+      <Value>别成为工具</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDontBeAToolDescription</Key>
+      <Value>你知道他们在说什么，在带上你的工具带之前哪都不要去! 马上拿起来带上。</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDontBeAToolTask1</Key>
+      <Value>装备你的{THING:ItemToolBelt}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialPowerUpTitle</Key>
+      <Value>供电</Value>
+    </Record>
+    <Record>
+      <Key>TutorialPowerUpDescription</Key>
+      <Value>棒极了，现在让我们设法使你的宇航服上的系统开始运行。</Value>
+    </Record>
+    <Record>
+      <Key>TutorialPowerUpTask1</Key>
+      <Value>用 {KEY:PrimaryAction} 按键来捡起 {THING:ItemBatteryCellNuclear}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialPowerUpTask2</Key>
+      <Value>用 {KEY:SuitSlot} 按键来打开你的 {THING:ItemEvaSuit} 。</Value>
+    </Record>
+    <Record>
+      <Key>TutorialPowerUpTask3</Key>
+      <Value>把你的 {THING:ItemBatteryCellNuclear} 放入电池槽里。</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSomethingToFilterTitle</Key>
+      <Value>过滤的东西</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSomethingToFilterDescription</Key>
+      <Value>宇航服需要 {THING:ItemBatteryCellNuclear} ， {THING:ItemGasFilterCarbonDioxide} 和一些其他的东西来提供安全和封闭的内部环境。</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSomethingToFilterTask1</Key>
+      <Value>用 {KEY:PrimaryAction} 来捡起 {THING:ItemGasFilterCarbonDioxide}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSomethingToFilterTask3</Key>
+      <Value>把你的 {THING:ItemGasFilterCarbonDioxide} 放入滤芯槽里</Value>
+    </Record>
+    <Record>
+      <Key>TutorialGasItUpTitle</Key>
+      <Value>给它通上气体</Value>
+    </Record>
+    <Record>
+      <Key>TutorialGasItUpDescription</Key>
+      <Value>{THING:ItemSpacepack} 需要推进剂才能使用，让我们把那边的装氮的金属罐拿过来为我们所用。</Value>
+    </Record>
+    <Record>
+      <Key>TutorialGasItUpTask</Key>
+      <Value>把 {THING:ItemGasCanisterNitrogen} 放在推进剂槽中。</Value>
+    </Record>
+    <Record>
+      <Key>TutorialFeelingHotHotHotTitle</Key>
+      <Value>感觉烫烫烫</Value>
+    </Record>
+    <Record>
+      <Key>TutorialFeelingHotHotHotDescripton</Key>
+      <Value>你的宇航服内部有点热！用 {KEY:SuitSlot} 打开你的 {THING:ItemEvaSuit}，并将温度调低至20度。降低宇航服温度有助于增加电池的持续时间，当你在一个比较严峻的环境中时，这将会带来不少帮助。你可以在面板上看到你所做的修改。</Value>
+    </Record>
+    <Record>
+      <Key>TutorialFeelingHotHotHotTask1</Key>
+      <Value>把你宇航服的温度调低。</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLockItDownTitle</Key>
+      <Value>立即锁定它</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLockItDownDescripton</Key>
+      <Value>是时候出去走走了！记住，出去前先关上你的头盔 - 否则你会呼吸困难. 锁定头盔可以避免你不小心按错而让你暴露在危险的环境中。现在我们来锁定它。</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLockItDownTask1</Key>
+      <Value>按 {KEY:Internals} 关好你的 {THING:ItemSpaceHelmet}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLockItDownTask2</Key>
+      <Value>按 {KEY:HelmetSlot} 打开 {THING:ItemSpaceHelmet} 菜单，点击&quot;锁定面罩&quot;按钮</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTheGreatOutdoorsTitle</Key>
+      <Value>夏日尖兵</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTheGreatOutdoorsDescription</Key>
+      <Value>让我们来探险吧！准备对{THING:StructureAirlock}进行充放气操作。</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTheGreatOutdoorsTask1</Key>
+      <Value>进入 {THING:StructureAirlock}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTheGreatOutdoorsTask2</Key>
+      <Value>单击在控制台上显示的Cycle按钮来平衡 {THING:StructureAirlock} 内的气压并等待其完成。</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescCycleAirlock1</Key>
+      <Value>让我们来呼吸点不那么新鲜的空气，好吗？</Value>
+    </Record>
+    <Record>
+      <Key>TutorialAnotherDayAnotherDollarTitle</Key>
+      <Value>和往常一样</Value>
+    </Record>
+    <Record>
+      <Key>TutorialAnotherDayAnotherDollarDescription</Key>
+      <Value>这些矿石可不会自己跑出来！您可以通过按住 {KEY:InventorySelect} 将物品从插槽放到你的手中，也可以通过长按插槽的号数将您手中的物品移动到该插槽。现在进入你的背包，拿出你的{THING:ItemMiningBelt}，当它在你的手中的时候长按{KEY:ToolBeltSlot}即可装备。拿出你的{THING:ItemMiningDrill}并开始去挖。记得不用的时候把它关掉。</Value>
+    </Record>
+    <Record>
+      <Key>TutorialAnotherDayAnotherDollarTask1</Key>
+      <Value>从 {THING:ItemMiningBelt} 中拿出{THING:ItemMiningDrill}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialAnotherDayAnotherDollarTask0</Key>
+      <Value>按{KEY:ToggleHandPower}打开你的钻头开关</Value>
+    </Record>
+    <Record>
+      <Key>TutorialAnotherDayAnotherDollarTask2</Key>
+      <Value>从地面挖一些{THING:ItemIronOre}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialJetpackDescription</Key>
+      <Value>啊哦，看来有人忘了带梯子！飞到上面的阳台，按 {KEY:Ascend} 上升，按 {KEY:Descend} 下降。</Value>
+    </Record>
+    <Record>
+      <Key>TutorialJetpackTask1</Key>
+      <Value>按 {KEY:Jetpack} 开启在你的 {THING:ItemSpacepack} 的背包</Value>
+    </Record>
+    <Record>
+      <Key>TutorialJetpackTask2</Key>
+      <Value>进入{THING:StructureAirlock}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialJetpackTask4</Key>
+      <Value>平衡 {THING:StructureAirlock} 的气压 (点击绿色Cycle按钮)</Value>
+    </Record>
+    <Record>
+      <Key>TutorialHatHairTitle</Key>
+      <Value>坏发型</Value>
+    </Record>
+    <Record>
+      <Key>TutorialHatHairDescription</Key>
+      <Value>现在我们已经安全地在里面了，再次打开你的头盔，以节省你宇航服里的氧气！</Value>
+    </Record>
+    <Record>
+      <Key>TutorialHatHairTask1</Key>
+      <Value>解锁你的 {THING:ItemSpaceHelmet}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialHatHairTask2</Key>
+      <Value>打开你的 {THING:ItemSpaceHelmet} 面罩</Value>
+    </Record>
+    <Record>
+      <Key>TutorialIsItGettingHotInHereTitle</Key>
+      <Value>这里在变热吗？</Value>
+    </Record>
+    <Record>
+      <Key>TutorialIsItGettingHotInHereDescription</Key>
+      <Value>从储物柜里拿上{THING:ItemKitFurnace}并且安放在那边. 按{KEY:QuantityModifier}来进行旋转调整.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialIsItGettingHotInHereTask1</Key>
+      <Value>把{THING:ItemKitFurnace}安置在高亮的区域中</Value>
+    </Record>
+    <Record>
+      <Key>TutorialItsJustTheFurnaceTitle</Key>
+      <Value>这只是个熔炉</Value>
+    </Record>
+    <Record>
+      <Key>TutorialItsJustTheFurnaceDescription</Key>
+      <Value>这里唯一能对物品进行加热的东西就是{THING:StructureArcFurnace}, 把你刚刚挖的 {THING:ItemIronOre} 放进去然后把它炼成 {THING:ItemIronIngot}! 记得在弄完后把它关了, 能省电。</Value>
+    </Record>
+    <Record>
+      <Key>TutorialItsJustTheFurnaceTask1</Key>
+      <Value>从你的 {THING:ItemMiningBelt} 拿出 {THING:ItemIronOre}。</Value>
+    </Record>
+    <Record>
+      <Key>TutorialItsJustTheFurnaceTask2</Key>
+      <Value>打开 {THING:StructureArcFurnace} 的开关</Value>
+    </Record>
+    <Record>
+      <Key>TutorialItsJustTheFurnaceTask3</Key>
+      <Value>把 {THING:ItemIronOre} 放进 {THING:StructureArcFurnace} 然后等待其熔炼完成。</Value>
+    </Record>
+    <Record>
+      <Key>TutorialItsJustTheFurnaceTask4</Key>
+      <Value>按 {KEY:PrimaryAction} 捡起 {THING:ItemIronIngot} 。</Value>
+    </Record>
+    <Record>
+      <Key>TutorialItsJustTheFurnaceTask5</Key>
+      <Value>关闭 {THING:StructureArcFurnace}。</Value>
+    </Record>
+    <Record>
+      <Key>TutorialItsJustTheFurnace1Title</Key>
+      <Value>这只是个熔炉</Value>
+    </Record>
+    <Record>
+      <Key>TutorialItsJustTheFurnace1Description</Key>
+      <Value>让我们创造！</Value>
+    </Record>
+    <Record>
+      <Key>TutorialItsJustTheFurnace1Task1</Key>
+      <Value>进入下一个房间</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAroundTitle</Key>
+      <Value>把车床放在附近</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAroundDescription</Key>
+      <Value>放置 {THING:ItemKitAutolathe} 然后拿出你的 {THING:ItemWeldingTorch} 。拿到所需的材料完成建造。在&apos;设置&apos;中启用&apos;扩展工具提示&apos;选项后，您可以将光标悬停在结构上，查看完成下一阶段建造所需的材料。</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAroundTask1</Key>
+      <Value>从储物柜中拿出 {THING:ItemKitAutolathe} 并将其放置在高亮位置处</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAround1Title</Key>
+      <Value>把车床放在附近</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAround1Task1</Key>
+      <Value>把 {THING:ItemKitAutolathe} 放置在高亮的区域中</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAround2Title</Key>
+      <Value>把车床放在附近</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAround2Description</Key>
+      <Value>现在我们终于可以开工了！让我们首先用储物柜中提供的资源建造一个{THING:ItemKitElectronicsPrinter}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAround2Task0</Key>
+      <Value>打开你的 {THING:StructureAutolathe}！</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAround2Task1</Key>
+      <Value>用 {THING:ItemToolBelt} 中的 {THING:ItemWeldingTorch} 和所需的材料建造您的 {THING:ItemKitAutolathe}。</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAround2Task2</Key>
+      <Value>在 {THING:StructureAutolathe} 的菜单上选择 {THING:ItemKitElectronicsPrinter}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialYouCallThatAPrinterTitle</Key>
+      <Value>你把那个叫做打印机？</Value>
+    </Record>
+    <Record>
+      <Key>TutorialYouCallThatAPrinterDescription</Key>
+      <Value>太棒了！现在，让我们建造一个 {THING:ItemKitElectronicsPrinter}。拿起它，然后进入下个房间。</Value>
+    </Record>
+    <Record>
+      <Key>TutorialYouCallThatAPrinterTask1</Key>
+      <Value>使用储物柜中的材料创建 {THING:ItemKitElectronicsPrinter}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialYouCallThatAPrinterTask2</Key>
+      <Value>捡起 {THING:ItemKitElectronicsPrinter}。</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAround3Title</Key>
+      <Value>把车床放在附近</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAround3Description</Key>
+      <Value>前进。</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAround3Task1</Key>
+      <Value>捡起 {THING:ItemKitElectronicsPrinter}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAround3Task2</Key>
+      <Value>进入下一个房间</Value>
+    </Record>
+    <Record>
+      <Key>TutorialThisIsAPrinterTitle</Key>
+      <Value>这是一台打印机</Value>
+    </Record>
+    <Record>
+      <Key>TutorialThisIsAPrinterDescription</Key>
+      <Value>下一件要做的，搭建 {THING:ItemKitElectronicsPrinter}。</Value>
+    </Record>
+    <Record>
+      <Key>TutorialThisIsAPrinterTask1</Key>
+      <Value>把 {THING:ItemKitElectronicsPrinter} 安置在高亮的区域中</Value>
+    </Record>
+    <Record>
+      <Key>TutorialThisIsAPrinter1Title</Key>
+      <Value>这是一台打印机</Value>
+    </Record>
+    <Record>
+      <Key>TutorialThisIsAPrinter1Description</Key>
+      <Value>该搭建 {THING:ItemKitElectronicsPrinter} 了。你应该能在储物柜里找到所需的材料。完成搭建后，选择制作 {THING:ItemKitSolarPanel}。打印一旦开始，像 {THING:StructureElectronicsPrinter} 这样的机器会一直打印你选择的物品，如果你不及时停掉它的话。你的资源消耗会非常快，所以你在它制作完你所需物品后一定要及时关闭它！</Value>
+    </Record>
+    <Record>
+      <Key>TutorialThisIsAPrinter1Task</Key>
+      <Value>搭建 {THING:ItemKitElectronicsPrinter}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialThisIsAPrinter1Task0</Key>
+      <Value>打开打印机</Value>
+    </Record>
+    <Record>
+      <Key>TutorialThisIsAPrinter1Task2</Key>
+      <Value>用提供的材料建造 {THING:ItemKitSolarPanel}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialThisIsAPrinter1Task1</Key>
+      <Value>在打印机上选择 {THING:ItemKitSolarPanel} 。</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSeeTheLightTitle</Key>
+      <Value>要有光</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSeeTheLightDescription</Key>
+      <Value>使用所需的材料搭建一个 {THING:ItemKitSolarPanel}，你应该能在储物柜中找到这些材料。</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSeeTheLightTask1</Key>
+      <Value>拿起材料搭建 {THING:ItemKitSolarPanel}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSeeTheLightTask2</Key>
+      <Value>按 {KEY:PrimaryAction} 捡起 {THING:ItemKitSolarPanel}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSeeTheLight1Title</Key>
+      <Value>要有光</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSeeTheLight1Description</Key>
+      <Value>前进。</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSeeTheLight1Task1</Key>
+      <Value>进入下一个房间</Value>
+    </Record>
+    <Record>
+      <Key>TutorialPanelForthTitle</Key>
+      <Value>面板朝外</Value>
+    </Record>
+    <Record>
+      <Key>TutorialPanelForthDescription</Key>
+      <Value>看起来那扇门需要通电才能继续往前走。幸运的是，哪里有窗户，哪里就有阳光。哪里有阳光，哪里就有电力！让我们安装好那个 {THING:ItemKitSolarPanel}。你可以用你的 {THING:ItemWrench} 来它的调整角度，当电池板正对太阳时，它会产生更大的电力。</Value>
+    </Record>
+    <Record>
+      <Key>TutorialPanelForthTask1</Key>
+      <Value>把 {THING:StructureSolarPanel} 放置在高亮的区域中</Value>
+    </Record>
+    <Record>
+      <Key>TutorialPanelForthTask2</Key>
+      <Value>使用储物柜中的材料搭建{THING:StructureSolarPanel}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDoorNeedsPowerTitle</Key>
+      <Value>门需要电源</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDoorNeedsPowerDescription</Key>
+      <Value>让我们等门通好电，然后准备进去。</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDoorNeedsPowerTask1</Key>
+      <Value>一旦门通电了，就打开它。</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDoorNeedsPower1Title</Key>
+      <Value>前进。</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDoorNeedsPower1Description</Key>
+      <Value>前进时间到。</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDoorNeedsPower1Task1</Key>
+      <Value>进入下一个房间</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSnackTimeTitle</Key>
+      <Value>点心时间！</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSnackTimeDescription</Key>
+      <Value>感觉有点饿？拿起那个 {THING:ItemCerealBar} 张口就吃。这些食物能给你回复血量，如果你受伤，还可以帮助你更快地恢复。</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSnackTimeTask1</Key>
+      <Value>按 {KEY:PrimaryAction} 捡起 {THING:ItemCerealBar}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSnackTimeTask2</Key>
+      <Value>按 {KEY:SecondaryAction} 食用它</Value>
+    </Record>
+    <Record>
+      <Key>TutorialBreakOutTitle</Key>
+      <Value>中断</Value>
+    </Record>
+    <Record>
+      <Key>TutorialBreakOutDescription</Key>
+      <Value>那扇门好像还不能用！用你的 {THING:ItemCrowbar} 撬开门。</Value>
+    </Record>
+    <Record>
+      <Key>TutorialBreakOutTask1</Key>
+      <Value>拿起你的 {THING:ItemCrowbar}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialBreakOutTask2</Key>
+      <Value>破门进入下个房间</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorkingTitle</Key>
+      <Value>电线不工作?</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorkingDescription</Key>
+      <Value>知道电力功耗和生产的概念很重要！看这里，因为这根电线的通过电压太高了，所以变成了这个样子。让我们收拾好这个烂摊子，剪下那根电线。</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorkingTask1</Key>
+      <Value>从工具带中取出并装备 {THING:ItemWireCutters}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorkingTask2</Key>
+      <Value>找到并剪断坏电线。</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorking1Description</Key>
+      <Value>你可用 {THING:ItemAreaPowerControl} (又称APC) 来防止电线过载而引发爆炸. 你可以在储物柜里找到一个 - 然后放在线路爆炸的地方。</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorking1Task1</Key>
+      <Value>放置 {THING:ItemAreaPowerControl}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorking2Description</Key>
+      <Value>现在，让我们设置 APC 单元。我们需要我们的 {THING:ItemCrowbar} 打开它，在里面放一个电池，然后打开开关。您现在就有了一个安全的电力系统。</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorking2Task1</Key>
+      <Value>从你的腰带中拿出装备 {THING:ItemCrowbar}。 </Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorking2Task2</Key>
+      <Value>用 {THING:ItemCrowbar} 打开 APC</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorking2Task3</Key>
+      <Value>将电池放到 APC 里。</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorking2Task4</Key>
+      <Value>打开 APC的开关。</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorking2Task5</Key>
+      <Value>用 {THING:ItemCrowbar} 合上 APC</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorking2Task6</Key>
+      <Value>给电池充电</Value>
+    </Record>
+    <Record>
+      <Key>TutorialJustAroundTheCornerTitle</Key>
+      <Value>就在附近</Value>
+    </Record>
+    <Record>
+      <Key>TutorialJustAroundTheCornerDescription</Key>
+      <Value>前进。</Value>
+    </Record>
+    <Record>
+      <Key>TutorialJustAroundTheCornerTask1</Key>
+      <Value>进入下一个房间</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDoYouFeelTheFlowTitle</Key>
+      <Value>感受到那阵风了吗？</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDoYouFeelTheFlowDescription</Key>
+      <Value>用 {THING:ItemWrench} 把 {THING:StructureGasTankStorage} 安装到 {THING:StructureTankConnector} 上面搞点流动的空气, 这里开始有点闷了。</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDoYouFeelTheFlowTask1</Key>
+      <Value>安装 {THING:StructureTankConnector}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDoYouFeelTheFlowTask2</Key>
+      <Value>把 {THING:StructureValve} 打开，让空气流动。</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLetsTankItUpTitle</Key>
+      <Value>倒光储物罐</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLetsTankItUpDescription</Key>
+      <Value>既然现在空气开始流动了，让我们填满这个 {THING:ItemGasCanisterEmpty}。小心不要让里面的压力过高，很多人在干这个的时候就因为压力过高而发生了爆炸事故。一般来说，爆炸会导致周围的结构受损，不过在这里，我们已经把它们设置为坚不可摧</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLetsTankItUpTask1</Key>
+      <Value>放置 {THING:ItemGasCanisterEmpty} </Value>
+    </Record>
+    <Record>
+      <Key>TutorialLetsTankItUpTask2</Key>
+      <Value>将 {THING:StructureActiveVent} 设置为in-ward(进风)</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLetsTankItUpTask3</Key>
+      <Value>打开 {THING:StructureActiveVent} 的开关</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLetsTankItUp1Title</Key>
+      <Value>继续走</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLetsTankItUp1Description</Key>
+      <Value>很接近了！</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLetsTankItUp1Task1</Key>
+      <Value>进入下一个房间</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStatusUpdatesTitle</Key>
+      <Value>Scotty，你那边的情况如何？</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStatusUpdatesDescription</Key>
+      <Value>当你得走了，你就得走了。看起来你的电池已经用完了，用储物柜中的电池来更换！</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStatusUpdatesTask1</Key>
+      <Value>更换电池</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStatusUpdates1Description</Key>
+      <Value>干得好，等下你的气罐好像是空的？这有点不太对劲。</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStatusUpdates1Task1</Key>
+      <Value>更换气罐</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStatusUpdates2Description</Key>
+      <Value>滤芯用完了，给你的宇航服再添一个新的，你最多可以放3个！</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStatusUpdates2Task1</Key>
+      <Value>更换滤芯</Value>
+    </Record>
+    <Record>
+      <Key>TutorialMovingOnUpTitle</Key>
+      <Value>去上面</Value>
+    </Record>
+    <Record>
+      <Key>TutorialMovingOnUpDescription</Key>
+      <Value>进入那个电梯！</Value>
+    </Record>
+    <Record>
+      <Key>TutorialMovingOnUpTask1</Key>
+      <Value>进电梯上楼</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTimeToScrubTitle</Key>
+      <Value>空气净化时间</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTimeToScrubDescription</Key>
+      <Value>植物需要一个非常特殊的环境才能生长，包括干净的空气，充足的水源，充足的阳光。</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTimeToScrubTask1</Key>
+      <Value>打开 {THING:DynamicScrubber} 清除空气中的污染物</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWaterYaThinkAboutThatTitle</Key>
+      <Value>你想到的是水吗?</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWaterYaThinkAboutThatDescription</Key>
+      <Value>让我们用一个崭新的罐子替换那个空的 {THING:ItemGasCanisterWater} 。</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWaterYaThinkAboutThatTask1</Key>
+      <Value>将这个满的 {THING:ItemGasCanisterWater} 放到 {THING:DynamicHydroponics} 下面</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLetItGrowTitle</Key>
+      <Value>等待生长成熟</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLetItGrowDescription</Key>
+      <Value>在太空中要面对的最大问题是没有地方能给你食物。因此，让我们来试着种一种，顺便看看你的园艺技巧有多精湛。</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLetItGrowTask1</Key>
+      <Value>把 {THING:ItemTomato} 种进 {THING:DynamicHydroponics} </Value>
+    </Record>
+    <Record>
+      <Key>TutorialLetItGrowTask2</Key>
+      <Value>等待迎接你的大丰收</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSoCloseTitle</Key>
+      <Value>很近了</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSoCloseDescription</Key>
+      <Value>很接近了，但还有一点距离。进入下个房间。</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSoCloseTask1</Key>
+      <Value>进入隔壁房间</Value>
+    </Record>
+    <Record>
+      <Key>TutorialUnderPressureTitle</Key>
+      <Value>压力之下</Value>
+    </Record>
+    <Record>
+      <Key>TutorialUnderPressureDescription</Key>
+      <Value>该设置你的第一个 {THING:StructureAirlock} 了。电线已经帮你铺好了，您只需将物件正确地放在高亮区域即可。您可以在储物柜中找到所需的物件。</Value>
+    </Record>
+    <Record>
+      <Key>TutorialUnderPressureTask1</Key>
+      <Value>安放 {THING:StructureActiveVent}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialUnderPressureTask2</Key>
+      <Value>安放 {THING:StructureConsole}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialUnderPressureTask3</Key>
+      <Value>安放 {THING:StructureGasSensor}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialUnderPressureTask4</Key>
+      <Value>安放 {THING:StructureFlashingLight}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialUnderPressure1Title</Key>
+      <Value>压力之下</Value>
+    </Record>
+    <Record>
+      <Key>TutorialUnderPressure1Description</Key>
+      <Value>太好了！现在让我们设置气压平衡程序，插入提供的部件并设置好控制台。</Value>
+    </Record>
+    <Record>
+      <Key>TutorialUnderPressure1Task1</Key>
+      <Value>插入 {THING:CircuitboardAirlockControl}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialUnderPressure1Task2</Key>
+      <Value>插入 {THING:ItemDataDisk}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialUnderPressure1Task3</Key>
+      <Value>安上玻璃板完成控制台的制作</Value>
+    </Record>
+    <Record>
+      <Key>TutorialHackingTheMainframeTitle</Key>
+      <Value>黑进主机</Value>
+    </Record>
+    <Record>
+      <Key>TutorialHackingTheMainframeDescription</Key>
+      <Value>现在移除 数据磁盘 并打开控制台对 {THING:StructureAirlock} 进行编程.
+编程时候确保内部门选项选定的是&apos;INTERIOR&apos; 。 选定后可以看到上面的颜色从绿色转向红色，说明你已经在该门应用该选项。
+一旦控制台控制了一个设备，该设备将在其控制下并被锁定，它将不会响应你的任何交互指令。</Value>
+    </Record>
+    <Record>
+      <Key>TutorialHackingTheMainframeTask1</Key>
+      <Value>对 {THING:StructureAirlock} 设置</Value>
+    </Record>
+    <Record>
+      <Key>TutorialBeFreeTitle</Key>
+      <Value>自由</Value>
+    </Record>
+    <Record>
+      <Key>TutorialBeFreeDescription</Key>
+      <Value>运行气压平衡程序(点击控制台屏幕上的cycle)，然后离开这里！</Value>
+    </Record>
+    <Record>
+      <Key>TutorialBeFreeTask1</Key>
+      <Value>平衡 {THING:StructureAirlock} 的气压 (点击绿色Cycle按钮)</Value>
+    </Record>
+    <Record>
+      <Key>TutorialCompletedDescription</Key>
+      <Value>恭喜你，你完成了基本教程！走吧，Stationeer！</Value>
+    </Record>
+  </Interface>
+</Language>

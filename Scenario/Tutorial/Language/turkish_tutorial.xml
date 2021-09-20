@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Turkish</Name>
+  <Code>TR</Code>
+  <Font>font_russian</Font>
+  <Interface>
+    <Record>
+      <Key>TutorialTitleWearSpacesuit</Key>
+      <Value>Uzay Giysisini Giymek</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskWearHelmet</Key>
+      <Value>{THING:ItemSpaceHelmet} giy</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskWearSuit</Key>
+      <Value>{THING:ItemEvaSuit} giy</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskWearJetpack</Key>
+      <Value>{THING:ItemSpacepack} giy</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescPickupHelmet</Key>
+      <Value>{THING:ItemSpaceHelmet}&apos;nı bul ve baktığında yeşil etkileşim hâlinde olan giysiyi {KEY:PrimaryAction} tuşuna tıklayarak {SLOT:LeftHand} veya {SLOT:RightHand} yuvana koy. Daha fazla bilgi için, {LINK:Home;Stationpedia}&apos;daki {LINK:InventoryPage;Envanter} bölümünü oku</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescWearHelmet</Key>
+      <Value>{LINK:InventoryPage;Envanter}&apos;in ile etkileşim için iki yolun var: Kısayollar ve fare kontrolü. Her iki yolun da avantajları ve dezavantajları var.
+      
+{SLOT:Helmet} yuvana {THING:ItemSpaceHelmet} sürükleyip bırakmak için ve fare imlecini ortaya çıkarmak için {KEY:MouseControl} tuşuna basılı tut veya {THING:ItemSpaceHelmet}&apos;n, {SLOT:Helmet} yuvana taşınıncaya kadar {KEY:HelmetSlot} tuşuna basılı tut.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescPickupSuit</Key>
+      <Value>{THING:ItemEvaSuit}&apos;ni bul ve {SLOT:LeftHand}&apos;ine veya {SLOT:RightHand}&apos;ine koy. Bu sefer, {THING:ItemEvaSuit}&apos;ni doğrudan {SLOT:Suit} yuvana sürüklemeyi deneyebilirsin; bu daha hızlı bir yol. {KEY:MouseControl} tuşuna basılı tut ve fare imlecini {THING:ItemEvaSuit}&apos;nin üstüne götür. {KEY:PrimaryAction} tuşuna basılı tut ve {SLOT:Suit}&apos;e sürükle.
+      </Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescWearSuit</Key>
+      <Value>{THING:ItemEvaSuit}&apos;ni {SLOT:Suit} yuvana yerleştirmek için, {KEY:SuitSlot} tuşuna basılı tut veya fare imlecini ortaya çıkarmak için {KEY:MouseControl} tuşuna basılı tut.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescPickupJetpack</Key>
+      <Value>{THING:ItemSpacepack}&apos;ni bul ve baktığında yeşil etkileşim hâlinde olan giysiyi {KEY:PrimaryAction} tuşuna tıklayarak {SLOT:LeftHand}&apos;ine veya {SLOT:RightHand}&apos;ine koy.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescWearJetpack</Key>
+      <Value>{SLOT:Back} yuvana {THING:ItemSpacepack} yerleştirmek için {KEY:BackSlot} tuşuna basılı tut veya fare imlecini ortaya çıkarmak için {KEY:MouseControl} tuşuna basılı tut.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTitlePowerSuit</Key>
+      <Value>UZAY GİYSİSİNE GÜÇ VERMEK</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescPowerSuit</Key>
+      <Value>Bir {THING:ItemBatteryCellLarge} bul ve ona bakarak ve {KEY:PrimaryAction} tuşuna tıklayarak {SLOT:LeftHand}&apos;ine veya {SLOT:RightHand}&apos;ine al. Zaman kazanmak için {THING:ItemBatteryCellLarge}&apos;ni doğrudan {THING:ItemEvaSuit}&apos;ne sürükleyebilirsin.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescPowerSuit2</Key>
+      <Value>{KEY:SuitSlot} tuşuna basarak veya {KEY:MouseControl} tuşuna basılı tutarak ve {SLOT:Suit} yuvası üzerine tıklayarak {THING:ItemEvaSuit}&apos;ni aç.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskLifesupportSuit1</Key>
+      <Value>Bir {THING:ItemBatteryCellLarge} al</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskLifesupportSuit2</Key>
+      <Value>{THING:ItemEvaSuit} yuva penceresini aç</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskLifesupportSuit4</Key>
+      <Value>Bir {THING:ItemBatteryCellLarge} olan {THING:ItemEvaSuit} giy</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescLifesupport1</Key>
+      <Value>{KEY:SuitSlot} tuşuna basıp bırakarak veya {KEY:MouseControl} tuşuna basılı tutarak ve {SLOT:Suit} yuvası üzerine tıklayarak {SLOT:Suit} ile etkileşime geçebilirsin.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescLifesupport2</Key>
+      <Value>{COLORRED:Devam edebilmek için {THING:ItemEvaSuit}&apos;ni giymelisin. Lütfen onu geri takın.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescLifesupport4</Key>
+      <Value>{KEY:MouseControl} tuşuna basılı tutuyorken, {THING:ItemEvaSuit} içindeki {SLOT:LifeSupport} yuvasına {THING:ItemBatteryCellLarge}&apos;ni sürükle. Aynı zamanda, {THING:ItemBatteryCellLarge}&apos;ni yer değiştirmek için {COLORRED:Mouse Wheel}ni çevirebilir ve {KEY:InventorySelect} tuşunu kullanabilirsin. Aktif elinde her ne var ise, yer değiştirmek için {KEY:SwapHands} tuşuna basabileceğini unutma.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTitleSuitFilter</Key>
+      <Value>BİR FİLTRE DONANMAK</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescFilter1</Key>
+      <Value>Bir {THING:ItemGasFilterCarbonDioxide} bul ve ona bakıyorken ve {KEY:PrimaryAction} tuşuna basarak {SLOT:LeftHand}&apos;ine veya {SLOT:RightHand}&apos;ine al. Tekrardan, zaman kazanmak için, dünyadan {THING:ItemEvaSuit}&apos;ne {THING:ItemGasFilterCarbonDioxide}&apos;i basitçene sürükle. Bu filtre, {THING:ItemEvaSuit}&apos;nden {GAS:CarbonDioxide}&apos;i uzaklaştıracaktır.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskFilter1</Key>
+      <Value>Bir {THING:ItemGasFilterCarbonDioxide} al</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskFilter2</Key>
+      <Value>{THING:ItemEvaSuit} yuva penceresini aç</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskFilter4</Key>
+      <Value>Bir {THING:ItemGasFilterCarbonDioxide}&apos;i olan {THING:ItemEvaSuit} giy</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescFilter2</Key>
+      <Value>{KEY:SuitSlot} tuşuna basıp bırakarak veya {KEY:MouseControl} tuşuna basılı tutarak ve {SLOT:Suit} yuvası üzerine tıklayarak {SLOT:Suit} yuvası ile etkileşime geçebilirsin.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescFilter3</Key>
+      <Value>{COLORRED:Mouse Wheel}&apos;ni kullanarak {THING:ItemEvaSuit} içerisindeki yuvaları seçebilirsin. Devam etmek için herhangi bir dahili {SLOT:Filter} yuvasını seç.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescFilter4</Key>
+      <Value>{KEY:MouseControl} tuşuna basılı tutuyorken, {THING:ItemEvaSuit}&apos;ndeki herhangi bir {SLOT:Filter} yuvasına {THING:ItemGasFilterCarbonDioxide}&apos;ni yerleştir. Aynı zamanda, {THING:ItemGasFilterCarbonDioxide}&apos;ni yer değiştirmek için {COLORRED:Mouse Wheel}&apos;ni çevirebilir ve {KEY:InventorySelect} tuşunu kullanabilirsin. Aktif elinde her ne var ise, yer değiştirmek için {KEY:SwapHands} tuşuna basabileceğini unutma.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTitleGetTools</Key>
+      <Value>İNŞAAT EKİPMANLARINI ALMAK</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescGetTools1</Key>
+      <Value>Şimdi, bazı onarımlar yapmak için istasyondan dışarı çıkmalıyız. {KEY:Drop} tuşunu kullanarak ellerinde ne varsa bırak; böylece diğer şeyleri alabiliriz. Hatırla, {LINK:InventoryPage;envanter} yönetimi için ve fareyi etkinleştirmek için {KEY:MouseControl} tuşunu kullanabilirsin ve de {KEYS:SwapHands} tuşuna basarak {COLORYELLOW:Etkin Elini} değiştirebilirsin.
+
+{LINK:InventoryPage;envanter}ini yönetmek, iyi bir beceri ve pratik yapmayı gerektirir; önceden, ilerisini plânlayarak yanına ne alacağın hakkında dikkatlice düşünmelisin. Dolu bir {THING:ItemGasCanisterOxygen}&apos;nü veya {THING:ItemBatteryCellLarge}&apos;ni almayı unutmak felaket olabilir. Bu durum aynı zamanda kaybolmayı da kolaylaştırır. Dikkatli ol!
+      </Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescGetTools2</Key>
+      <Value>{THING:ItemToolBelt}&apos;ni edin ve {KEY:ToolBeltSlot} tuşuna basarak {SLOT:Belt} yuvasına koy veya {KEY:MouseControl} tuşuna basılı tutuyorken yuvaya sürükle. {SLOT:Belt} yuvan, madencilik ve diğer aletleri barındırabilecek kemerleri edinmeni sağlar.
+      
+{THING:ItemMiningBelt}, örnek olarak bir {THING:ItemMiningDrill} kullandığında otomatik olarak kendisini cevherlerle dolduracak özelleşmiş {LINK:OrePage;Cevher} yuvalarına sahiptir. {LINK:MiningPage;Madencilik} hakkında daha fazla oku.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskGetTools1</Key>
+      <Value>{THING:ItemTablet}&apos;ı bırak</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskGetTools2</Key>
+      <Value>{SLOT:Belt} yuvasına {THING:ItemToolBelt}&apos;ni tak</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskGetTools3</Key>
+      <Value>{SLOT:LeftHand} veya {SLOT:RightHand} yuvana {THING:ItemSteelSheets}&apos;nı al</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTitleGoInAirlock</Key>
+      <Value>UZAYA GİTMEK</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescGoInAirlock1</Key>
+      <Value>{THING:StructureAirlock} kapısında gir ve {THING:ItemEvaSuit}&apos;nin ve {THING:ItemSpaceHelmet}&apos;nın hazır olduğundan emin ol. Etkileşim menüsünü görebilmek için {KEY:HelmetSlot} tuşuna bas ve sonra ya etkileşime bas veya kapat seçeneğine gel ve durumu değiştirmek için {KEY:InventorySelect} tuşuna bas, ya da {COLORYELLOW:Dahili}yi hızlıca açıp kapatmak için {KEY:Internals} tuşuna bas.
+      
+Ekranın sağ tarafına dikkat et; durumunu ve aldığın herhangi bir hızlı eylemin hakkında seni bilgilendirecek simgeler göreceksin. Bu durum ve uyarı göstergelerine çok dikkat et; bu göstergeler belki hayatını kurtarabilir!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskGoInAirlock1</Key>
+      <Value>{THING:ItemSpaceHelmet} maskeni kapat</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskGoInAirlock2</Key>
+      <Value>Sarı oda içindeki {THING:StructureAirlock}&apos;ne doğru git</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTitleCycleAirlock</Key>
+      <Value>Hava kilidini çevir</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescCycleAirlock1</Key>
+      <Value>{THING:StructureConsole}&apos;i veya {THING:StructureAirlock} kapılarındaki etkileşimli klavyeyi kullanarak Hava Kilidi&apos;ni çevirebilirsin. Bu eylem, hava kilidindeki hava basıncını azaltacak; böylece uzaya doğru çıkabileceksin.
+
+{THING:StructureConsole}&apos;undaki bir {THING:CircuitboardAirlockControl}, hava kilidini çevirmek için {THING:StructureActiveVent} ve diğer cihazları kontrol eder. Ekranının sağ üstünde bulunan {COLORYELLOW:İçerisi} ve {COLORYELLOW:Dışarısı} bilgilerine dikkat et.
+
+Giysini giyiyorken, içeride ve bir de dışarıda olmak üzere iki atmosferin vardır. Oyun, karmaşık atmosferleri modeller; o yüzden, güvende kalmak için atmosferik bilgilere çok dikkat etmelisin.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskCycleAirlock1</Key>
+      <Value>Hava kilidini çevir</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTitleRepairCable</Key>
+      <Value>Hasarlı Kabloyu Onar</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskRepairCable1</Key>
+      <Value>{THING:ItemWireCutters}&apos;ni donan</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskRepairCable2</Key>
+      <Value>{THING:StructureCableJunctionBurnt}&apos;nı kaldır</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskRepairCable3</Key>
+      <Value>{THING:ItemCableCoil}&apos;ni donan</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskRepairCable4</Key>
+      <Value>{THING:ItemCableCoil}&apos;den bir {THING:StructureCableJunction} ile değiştir</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescRepairCable2</Key>
+      <Value>Etkin elinde {THING:ItemWireCutters} varken {THING:StructureCableJunctionBurnt}&apos;ya bak. Etrafında bir {COLORYELLOW:yellow} kutu göreceksin. {THING:StructureCableJunctionBurnt}&apos;yı kaldırmak için {KEY:PrimaryAction} tuşuna basılı tut.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTitleFinishFrame</Key>
+      <Value>Kaynak Çerçevesinin Tamamlanması</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskFinishFrame1</Key>
+      <Value>{THING:StructureFrame}&apos;ye kaynak yap</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTitleTablet</Key>
+      <Value>Ellerdeki Öğeler ile Etkileşim</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskTablet1</Key>
+      <Value>Bir {THING:ItemTablet} al</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskTablet2</Key>
+      <Value>Bir {THING:ItemBatteryCellLarge} al</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskTablet3</Key>
+      <Value>Eldeki {THING:ItemTablet}&apos;in yuva penceresini aç</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskTablet5</Key>
+      <Value>{THING:ItemBatteryCellLarge}&apos;in {SLOT:Battery} yuvasına {THING:ItemBatteryCellLarge}&apos;i koy</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTitleUseReader</Key>
+      <Value>{THING:CartridgeElectronicReader}&apos;un Kullanımı</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskUseReader1</Key>
+      <Value>{THING:ItemTablet}&apos;i aç</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskUseReader2</Key>
+      <Value>Bir {THING:ItemMuffin} yapmak için {COLORYELLOW:#VAR1# tarifi} bul</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTitleBakeMuffin</Key>
+      <Value>Bir {THING:ItemMuffin} pişir</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescBakeMuffin4</Key>
+      <Value>{THING:ApplianceMicrowave}&apos;daki kapağa bak. Kapağı açmak ve içerisine reaktifleri koymak için {KEY:PrimaryAction} tuşuna bas.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescBakeMuffin6</Key>
+      <Value>Şimdi {THING:ApplianceMicrowave}&apos;ı, sağ tarafındaki tuşuna basarak aç. {THING:ApplianceMicrowave} şimdi tarifini pişirecek. Eğer tarifin doğru ise, bir {THING:ItemMuffin} yapmış olacaksın; eğer doğru değil ise, hiç bir şeyin olmayacak.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescBakeMuffin7</Key>
+      <Value>{KEY:BackSlot} tuşuna basarak veya {KEY:MouseControl} tuşuna basıp, fare kontrolünü etkinleştirerek {THING:ItemSpacepack}&apos;nı aç. {THING:ItemWrench}&apos;nı eline sürükleyip bırak veya {COLORRED:Mouse Wheel} ile seçip, {KEY:InventorySelect} tuşuna basarak elindekiyle yer değiştir.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskBakeMuffin1</Key>
+      <Value>{THING:ApplianceMicrowave}&apos;nı al</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskBakeMuffin2</Key>
+      <Value>{THING:StructureBench}&apos;ın üstüne bırak</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskBakeMuffin3</Key>
+      <Value>{THING:ApplianceMicrowave}&apos;nı yerine monte et</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskBakeMuffin11</Key>
+      <Value>{THING:ItemSpacepack}&apos;nden {THING:ItemWrench}&apos;nı al</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskBakeMuffin4</Key>
+      <Value>{THING:ApplianceMicrowave}&apos;nın içine {COLORYELLOW:50g} {THING:ItemFlour} koy</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskBakeMuffin5</Key>
+      <Value>{THING:ApplianceMicrowave}&apos;nın içine {COLORYELLOW:one} {THING:ItemEgg} koy</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskBakeMuffin6</Key>
+      <Value>{THING:ApplianceMicrowave}&apos;nın içine {COLORYELLOW:10ml} {THING:ItemMilk} koy</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskBakeMuffin7</Key>
+      <Value>{THING:ApplianceMicrowave}&apos;nı aç</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskBakeMuffin8</Key>
+      <Value>Bir {THING:ItemMuffin} yap</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskBakeMuffin9</Key>
+      <Value>{THING:ApplianceMicrowave}&apos;nın kapağını kapat</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskBakeMuffin10</Key>
+      <Value>{THING:ApplianceMicrowave}&apos;nı çalıştır</Value>
+    </Record>
+  </Interface>
+</Language>

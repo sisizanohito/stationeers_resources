@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Code>HU</Code>
+  <Interface>
+    <Record>
+      <Key>6BuildTankConnecter</Key>
+      <Value>Hegeszd meg: {THING:StructureFrame}</Value>
+    </Record>
+    <Record>
+      <Key>6GetPipe</Key>
+      <Value>Készíts egy {THING:ItemMuffin}t</Value>
+    </Record>
+    <Record>
+      <Key>6GetGrowLight</Key>
+      <Value>Készíts egy {THING:ItemMuffin}t</Value>
+    </Record>
+    <Record>
+      <Key>6BuildGrowLight</Key>
+      <Value>Hegeszd meg: {THING:StructureFrame}</Value>
+    </Record>
+    <Record>
+      <Key>6GrowLightOn</Key>
+      <Value>Vedd fel a {THING:ApplianceMicrowave}t</Value>
+    </Record>
+    <Record>
+      <Key>6GetWheat</Key>
+      <Value>Készíts egy {THING:ItemMuffin}t</Value>
+    </Record>
+    <Record>
+      <Key>6BakeMuffin</Key>
+      <Value>Süss egy {THING:ItemMuffin}t!</Value>
+    </Record>
+    <Record>
+      <Key>6MicrowaveClosed</Key>
+      <Value>Hegeszd meg: {THING:StructureFrame}</Value>
+    </Record>
+    <Record>
+      <Key>6MicrowaveOpened</Key>
+      <Value>Nyisd ki a {THING:ApplianceMicrowave} ajtaját</Value>
+    </Record>
+    <Record>
+      <Key>6BuildCables</Key>
+      <Value>Hegeszd meg: {THING:StructureFrame}</Value>
+    </Record>
+    <Record>
+      <Key>6GetWaterBottleFiller</Key>
+      <Value>Készíts egy {THING:ItemMuffin}t</Value>
+    </Record>
+    <Record>
+      <Key>6BuildWaterBottleFiller</Key>
+      <Value>Hegeszd meg: {THING:StructureFrame}</Value>
+    </Record>
+    <Record>
+      <Key>6GetWaterBottle</Key>
+      <Value>Készíts egy {THING:ItemMuffin}t</Value>
+    </Record>
+    <Record>
+      <Key>6GetMingBelt</Key>
+      <Value>Vedd fel a {THING:ApplianceMicrowave}t</Value>
+    </Record>
+  </Interface>
+</Language>

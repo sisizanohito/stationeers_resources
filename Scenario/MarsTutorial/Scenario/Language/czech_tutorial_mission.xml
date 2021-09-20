@@ -1,0 +1,746 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Code>CS</Code>
+  <Interface>
+    <Record>
+      <Key>TheNewBeginningTitle</Key>
+      <Value>Nový začátek [BETA]</Value>
+    </Record>
+    <Record>
+      <Key>TheNewBeginningDescription</Key>
+      <Value>Naučte se některé základy a naučte se, jak být nejlepším Stationeerem, jakým můžete být!</Value>
+    </Record>
+    <!-- start the tutorial -->
+    <Record>
+      <Key>TutorialTheBeginningTitle</Key>
+      <Value>Začátek</Value>
+    </Record>
+    <Record> Using 
+			
+      <Key>TutorialTheBeginningDescription</Key>
+      <Value>Začněme. Zavřete Stationpedii pomocí {KEY:Help}. Poté vyzvedněte položky pomocí {KEY:PrimaryAction}. Stisknutím kláves {KEY:HelmetSlot}, {KEY:SuitSlot}, {KEY:BackSlot}, {KEY:UniformSlot} nebo {KEY:ToolBeltSlot} můžete přepínat mezi interakcemi a sloty na libovolné položce, kterou máte na sobě. Stisknutím a podržením přepnete mezi tímto slotem a aktivníma rukama. Můžete také podržet {KEY:MouseControl} a přetáhnout položky do příslušného slotu.
+
+Sloty pro vaši postavu lze vidět na levé straně obrazovky. Příkladem je použití {KEY:MouseControl} a kliknutí na slot {THING:UniformOrangeJumpSuit}. Tím se otevře nabídka pro danou položku v rámci slotu, což umožňuje interakci s položkou.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTheBeginningTask1</Key>
+      <Value>Zavřete {LINK:Home;Stationpedii}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTheBeginningTask2</Key>
+      <Value>Nasaďte si {THING:ItemSpaceHelmet}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTheBeginningTask3</Key>
+      <Value>Nasaďte si {THING:ItemSpacepack}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTheBeginningTask4</Key>
+      <Value>Nasaďte si {THING:ItemEvaSuit}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDontBeAToolTitle</Key>
+      <Value>Nebuďte nástrojem</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDontBeAToolDescription</Key>
+      <Value>Víte, co se říká, nikam nechoďte bez opasku na nářadí! Vezměte si ho a nasaďte si ho.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDontBeAToolTask1</Key>
+      <Value>Nasaďte si {THING:ItemToolBelt}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialPowerUpTitle</Key>
+      <Value>Zapnout</Value>
+    </Record>
+    <Record>
+      <Key>TutorialPowerUpDescription</Key>
+      <Value>Skvělé, nyní můžete nechat systémy běžet na vašem obleku.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialPowerUpTask1</Key>
+      <Value>Vezměte {THING:ItemBatteryCellNuclear} pomocí {KEY:PrimaryAction}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialPowerUpTask2</Key>
+      <Value>Otevřete {THING:ItemEvaSuit} pomocí klávesy {KEY:SuitSlot}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialPowerUpTask3</Key>
+      <Value>Přidejte {THING:ItemBatteryCellNuclear} do slotu pro baterii.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSomethingToFilterTitle</Key>
+      <Value>Něco na filtrování</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSomethingToFilterDescription</Key>
+      <Value>Oblek vyžaduje {THING:ItemBatteryCellNuclear}, {THING:ItemGasFilterCarbonDioxide} a další věci pro zajištění bezpečného a inkluzivního prostředí.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSomethingToFilterTask1</Key>
+      <Value>Vezměte {THING:ItemGasFilterCarbonDioxide} pomocí {KEY:PrimaryAction}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSomethingToFilterTask3</Key>
+      <Value>Přidejte {THING:ItemGasFilterCarbonDioxide} do svého filtračního slotu</Value>
+    </Record>
+    <Record>
+      <Key>TutorialGasItUpTitle</Key>
+      <Value>Natlakujte to</Value>
+    </Record>
+    <Record>
+      <Key>TutorialGasItUpDescription</Key>
+      <Value>{THING:ItemSpacepack} pro využití trysek potřebuje hnací plyn, pojďme použít ten kanystr s dusíkem, co leží tamhle.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialGasItUpTask</Key>
+      <Value>Přidejte {THING:ItemGasCanisterNitrogen} do slotu pro pohonné hmoty.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialFeelingHotHotHotTitle</Key>
+      <Value>Cítit horko horko horko</Value>
+    </Record>
+    <Record>
+      <Key>TutorialFeelingHotHotHotDescripton</Key>
+      <Value>Je trošku horko ve skafandru! Otevřete {THING:ItemEvaSuit} pomocí klávesy {KEY:SuitSlot} a snižte teplotu na 20°C. Snížení teploty skafandru muže pomoci prodloužit životnost baterie skafandru, což může být užitečné, pokud se ocitnete v tísnivé situaci. Změny se projeví ve vašem HUD.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialFeelingHotHotHotTask1</Key>
+      <Value>Snižte teplotu obleku.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLockItDownTitle</Key>
+      <Value>Zamkněte to teď</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLockItDownDescripton</Key>
+      <Value>Je čas jít ven! Nezapomeňte si zavřít přilbu - dýchání bude jinak obtížné. Zamknutí přilby může zabránit náhodnému otevření a vystavení se škodlivým atmosférám a teplotním výkyvům, takže ji uzamkněte.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLockItDownTask1</Key>
+      <Value>Zavřete {THING:ItemSpaceHelmet} pomocí {KEY:Internals}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLockItDownTask2</Key>
+      <Value>Pomocí tlačítka {KEY:HelmetSlot} otevřete nabídku {THING:ItemSpaceHelmet} a vyberte tlačítko Zamknout masku.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTheGreatOutdoorsTitle</Key>
+      <Value>Báječná dovolená</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTheGreatOutdoorsDescription</Key>
+      <Value>Pojďme na dobrodružství! Připravte se na synchronizaci {THING:StructureAirlock}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTheGreatOutdoorsTask1</Key>
+      <Value>Vstupte do {THING:StructureAirlock}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTheGreatOutdoorsTask2</Key>
+      <Value>Synchronizujte {THING:StructureAirlock} kliknutím na tlačítko Synchronizovat na osvětlené konzoli a počkejte, až bude dokončena.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescCycleAirlock1</Key>
+      <Value>Pojďme získat ne tak čerstvý vzduch, můžeme?</Value>
+    </Record>
+    <Record>
+      <Key>TutorialAnotherDayAnotherDollarTitle</Key>
+      <Value>Další den, další dolar</Value>
+    </Record>
+    <Record>
+      <Key>TutorialAnotherDayAnotherDollarDescription</Key>
+      <Value>Tahle ruda se sama nevytěží! Položky ze slotu můžete přesunout do ruky podržením {KEY:InventorySelect} a položky v ruce můžete přesunout do slotu podržením čísla slotu. Jděte do batohu a vezměte svůj {THING:ItemMiningBelt} a vybavte se jím podržením {KEY:ToolBeltSlot}, dokud je v ruce. Vezměte si váš {THING:ItemMiningDrill} a začněte kopat. Nezapomeňte ho znovu vypnout, než ho odložíte!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialAnotherDayAnotherDollarTask1</Key>
+      <Value>Vezměte si {THING:ItemMiningDrill} z vašeho {THING:ItemMiningBelt}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialAnotherDayAnotherDollarTask0</Key>
+      <Value>Zkuste zapnout svou vrtačku pomocí {KEY:ToggleHandPower}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialAnotherDayAnotherDollarTask2</Key>
+      <Value>Vytěžte nějaký {THING:ItemIronOre} ze země</Value>
+    </Record>
+    <Record>
+      <Key>TutorialJetpackTitle</Key>
+      <Value>Věřím, že umím létat</Value>
+    </Record>
+    <Record>
+      <Key>TutorialJetpackDescription</Key>
+      <Value>Někdo zapomněl žebřík! Vyleť na balkon použitím {KEY:Ascend} na stoupání a {KEY:Descend} na sestup.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialJetpackTask1</Key>
+      <Value>Zapněte trysky v {THING:ItemSpacepack} použitím {KEY:Jetpack}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialJetpackTask2</Key>
+      <Value>Vstupte do {THING:StructureAirlock}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialJetpackTask4</Key>
+      <Value>Synchronizujte {THING:StructureAirlock}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialHatHairTitle</Key>
+      <Value>Čepice</Value>
+    </Record>
+    <Record>
+      <Key>TutorialHatHairDescription</Key>
+      <Value>Teď, když jsme bezpečně uvnitř, otevřete masku znovu, aby se zachoval přívod kyslíku vašeho obleku!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialHatHairTask1</Key>
+      <Value>Odemkněte {THING:ItemSpaceHelmet}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialHatHairTask2</Key>
+      <Value>Otevřete masku {THING:ItemSpaceHelmet}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialIsItGettingHotInHereTitle</Key>
+      <Value>Začíná tu být horko?</Value>
+    </Record>
+    <Record>
+      <Key>TutorialIsItGettingHotInHereDescription</Key>
+      <Value>Vezměte {THING:ItemKitFurnace} ze skříně a položte ji tamhle. Použijte {KEY:QuantityModifier} na rotaci.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialIsItGettingHotInHereTask1</Key>
+      <Value>Umístěte {THING:ItemKitFurnace} do zvýrazněné oblasti.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialItsJustTheFurnaceTitle</Key>
+      <Value>To je jenom pec</Value>
+    </Record>
+    <Record>
+      <Key>TutorialItsJustTheFurnaceDescription</Key>
+      <Value>Jediná věc, která se zahřívá je {THING:StructureArcFurnace}, vložte {THING:ItemIronOre}, který jste akorát vytěžili, dovnitř a přeměňte ho na {THING:ItemIronIngot}! Nezapomeňte ji vypnout, to vám pomůže ušetřit vaše cenné zdroje.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialItsJustTheFurnaceTask1</Key>
+      <Value>Získejte {THING:ItemIronOre} z vašeho {THING:ItemMiningBelt}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialItsJustTheFurnaceTask2</Key>
+      <Value>Zapněte {THING:StructureArcFurnace}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialItsJustTheFurnaceTask3</Key>
+      <Value>Umístěte {THING:ItemIronOre} do {THING:StructureArcFurnace} a počkejte, než se přetaví.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialItsJustTheFurnaceTask4</Key>
+      <Value>Vezměte {THING:ItemIronIngot} užitím klávesy {KEY:PrimaryAction}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialItsJustTheFurnaceTask5</Key>
+      <Value>Vypněte {THING:StructureArcFurnace}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialItsJustTheFurnace1Title</Key>
+      <Value>To je jenom pec</Value>
+    </Record>
+    <Record>
+      <Key>TutorialItsJustTheFurnace1Description</Key>
+      <Value>Pojďme být kreativní!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialItsJustTheFurnace1Task1</Key>
+      <Value>Vstupte do další místnosti</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAroundTitle</Key>
+      <Value>Zastavte se a rozhlédněte se kolem</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAroundDescription</Key>
+      <Value>Vložte {THING:ItemKitAutolathe} a vyberte si vaší {THING:ItemWeldingTorch}. Použijte potřebné materiály k dokončení stavby. S možností &apos;Rozšířené popisky&apos; povolenou v nabídce Možnosti můžete najet kurzorem nad strukturu a zjistit, co potřebujete k dokončení další fáze výstavby.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAroundTask1</Key>
+      <Value>Vezměte {THING:ItemKitAutolathe} ze skříně a umístěte ho do zvýrazněné oblasti</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAround1Title</Key>
+      <Value>Zastavte se a rozhlédněte se kolem</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAround1Task1</Key>
+      <Value>Umístěte {THING:ItemKitAutolathe} do zvýrazněné oblasti</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAround2Title</Key>
+      <Value>Zastavte se a rozhlédněte se kolem</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAround2Description</Key>
+      <Value>Nyní můžete konečně začít stavět! Začněte vytvořením {THING:ItemKitElectronicsPrinter} prostřednictvím zdrojů ze skříňky.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAround2Task0</Key>
+      <Value>Zapněte {THING:StructureAutolathe}!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAround2Task1</Key>
+      <Value>Sestavte {THING:ItemKitAutolathe} pomocí {THING:ItemWeldingTorch} z {THING:ItemToolBelt} a požadovaných materiálů.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAround2Task2</Key>
+      <Value>Vyberte recept {THING:ItemKitElectronicsPrinter} v {THING:StructureAutolathe}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialYouCallThatAPrinterTitle</Key>
+      <Value>Tomu říkáte tiskárna?</Value>
+    </Record>
+    <Record>
+      <Key>TutorialYouCallThatAPrinterDescription</Key>
+      <Value>Skvělé! Nyní vytvořte {THING:ItemKitElectronicsPrinter}. Vezměte ji a pak se přesuňte do vedlejší místnosti.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialYouCallThatAPrinterTask1</Key>
+      <Value>Vytvořte {THING:ItemKitElectronicsPrinter} pomocí materiálů ze skříně</Value>
+    </Record>
+    <Record>
+      <Key>TutorialYouCallThatAPrinterTask2</Key>
+      <Value>Vezměte {THING:ItemKitElectronicsPrinter}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAround3Title</Key>
+      <Value>Zastavte se a rozhlédněte se kolem</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAround3Description</Key>
+      <Value>Jdeme dál.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAround3Task1</Key>
+      <Value>Vezměte {THING:ItemKitElectronicsPrinter}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAround3Task2</Key>
+      <Value>Vstupte do další místnosti</Value>
+    </Record>
+    <Record>
+      <Key>TutorialThisIsAPrinterTitle</Key>
+      <Value>Toto je tiskárna</Value>
+    </Record>
+    <Record>
+      <Key>TutorialThisIsAPrinterDescription</Key>
+      <Value>Další věc na našem seznamu, které je třeba udělat, jen dole umisť {THING:ItemKitElectronicsPrinter}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialThisIsAPrinterTask1</Key>
+      <Value>Umístěte {THING:ItemKitElectronicsPrinter} do zvýrazněné oblasti</Value>
+    </Record>
+    <Record>
+      <Key>TutorialThisIsAPrinter1Title</Key>
+      <Value>Toto je tiskárna</Value>
+    </Record>
+    <Record>
+      <Key>TutorialThisIsAPrinter1Description</Key>
+      <Value>Čas na vytvoření {THING:ItemKitElectronicsPrinter}. Potřebné materiály byste měli najít ve skříňce. Poté, vyberte {THING:ItemKitSolarPanel} recept. Struktury jako {THING:StructureElectronicsPrinter} budou pokračovat v tisku položek, dokud je znovu nevypnete, velmi rychle spotřebují zdroje, takže je nezapomeňte vypnout, jakmile budete hotov!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialThisIsAPrinter1Task</Key>
+      <Value>Vytvořte {THING:ItemKitElectronicsPrinter}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialThisIsAPrinter1Task0</Key>
+      <Value>Zapnutí tiskárny</Value>
+    </Record>
+    <Record>
+      <Key>TutorialThisIsAPrinter1Task2</Key>
+      <Value>Vytvořte {THING:ItemKitSolarPanel} s dodanými materiály</Value>
+    </Record>
+    <Record>
+      <Key>TutorialThisIsAPrinter1Task1</Key>
+      <Value>Vyberte recept {THING:ItemKitSolarPanel} na tiskárně.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSeeTheLightTitle</Key>
+      <Value>Podívejte se na světlo</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSeeTheLightDescription</Key>
+      <Value>Použijte požadované materiály k vytvoření {THING:ItemKitSolarPanel}, měli byste je najít ve skříňce.  </Value>
+    </Record>
+    <Record>
+      <Key>TutorialSeeTheLightTask1</Key>
+      <Value>Přidejte materiály k vytvoření {THING:ItemKitSolarPanel}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSeeTheLightTask2</Key>
+      <Value>Vezměte {THING:ItemKitSolarPanel} užitím {KEY:PrimaryAction}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSeeTheLight1Title</Key>
+      <Value>Podívejte se na světlo</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSeeTheLight1Description</Key>
+      <Value>Jdeme dál.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSeeTheLight1Task1</Key>
+      <Value>Vstupte do další místnosti</Value>
+    </Record>
+    <Record>
+      <Key>TutorialPanelForthTitle</Key>
+      <Value>Panel dopředu</Value>
+    </Record>
+    <Record>
+      <Key>TutorialPanelForthDescription</Key>
+      <Value>Vypadá to, že ty dveře potřebují energii, než budeme moci pokračovat. Naštěstí tam, kde je okno, je sluneční světlo. Tam, kde je sluneční světlo, je energie! Pojďme tam, umístit {THING:ItemKitSolarPanel}. Můžete použít {THING:ItemWrench} pro upravení úhlu, bude generovat více energie, když bude čelit slunci.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialPanelForthTask1</Key>
+      <Value>Umístěte {THING:StructureSolarPanel} do zvýrazněné oblasti</Value>
+    </Record>
+    <Record>
+      <Key>TutorialPanelForthTask2</Key>
+      <Value>Vytvořte {THING:StructureSolarPanel} pomocí materiálu ze skříně</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDoorNeedsPowerTitle</Key>
+      <Value>Dveře potřebují energii</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDoorNeedsPowerDescription</Key>
+      <Value>Počkejte, až se dveře zapnou a připravte se na postup vpřed.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDoorNeedsPowerTask1</Key>
+      <Value>Otevřete dveře, jakmile budou mít energii.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDoorNeedsPower1Title</Key>
+      <Value>Jdeme dál.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDoorNeedsPower1Description</Key>
+      <Value>Je čas jít dál.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDoorNeedsPower1Task1</Key>
+      <Value>Vstupte do další místnosti</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSnackTimeTitle</Key>
+      <Value>Čas na svačinu!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSnackTimeDescription</Key>
+      <Value>Cítíte se trochu hladově? Vezměte si {THING:ItemCerealBar} pro chutnou svačinu. Svačiny jsou dobré pro vaše zdraví a v případě zranění vám mohou pomoci rychleji se zotavit. </Value>
+    </Record>
+    <Record>
+      <Key>TutorialSnackTimeTask1</Key>
+      <Value>Zvedněte {THING:ItemCerealBar} použitím {KEY:PrimaryAction}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSnackTimeTask2</Key>
+      <Value>Snězte to použitím {KEY:SecondaryAction}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialBreakOutTitle</Key>
+      <Value>Uprchnout</Value>
+    </Record>
+    <Record>
+      <Key>TutorialBreakOutDescription</Key>
+      <Value>Zdá se, že ty dveře nefungují! Použijte svůj {THING:ItemCrowbar} pro vypáčení dveří.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialBreakOutTask1</Key>
+      <Value>Zvedněte váš {THING:ItemCrowbar}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialBreakOutTask2</Key>
+      <Value>Otevřete dveře a vstupte do další místnosti</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorkingTitle</Key>
+      <Value>Kabele ty nefunguješ?</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorkingDescription</Key>
+      <Value>Koncept čerpání energie a produkce je důležitý! Tady, příliš moc energie bylo vyprodukováno na to, aby to dráty vydržely. Ukliďte ten nepořádek, přeřízněte ten drát.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorkingTask1</Key>
+      <Value>Vezměte si {THING:ItemWireCutters} z opasku na nářadí</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorkingTask2</Key>
+      <Value>Najděte a přeřízněte přerušený kabel.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorking1Description</Key>
+      <Value>Něco, co můžete použít k zabránění vypálení kabelu, je {THING:ItemAreaPowerControl}, jinak známý jako APC. Můžete najít jeden ve skříňce - umístěte ho tam, kde byl vypálený kabel.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorking1Task1</Key>
+      <Value>Umístěte {THING:ItemAreaPowerControl}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorking2Description</Key>
+      <Value>Tak teď nastavíme APC jednotku. Budeme potřebovat náš {THING:ItemCrowbar} na její otevření, vložíme baterii a přehodíme vypínač. Tak a teď máte bezpečný nabíjecí systém.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorking2Task1</Key>
+      <Value>Vezměte si {THING:ItemCrowbar} z opasku. </Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorking2Task2</Key>
+      <Value>Otevřete APC pomocí {THING:ItemCrowbar}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorking2Task3</Key>
+      <Value>Přidejte baterii do jednotky APC.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorking2Task4</Key>
+      <Value>Zapněte APC.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorking2Task5</Key>
+      <Value>Zavřete APC pomocí {THING:ItemCrowbar}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorking2Task6</Key>
+      <Value>Nabijte baterie</Value>
+    </Record>
+    <Record>
+      <Key>TutorialJustAroundTheCornerTitle</Key>
+      <Value>Hned za rohem</Value>
+    </Record>
+    <Record>
+      <Key>TutorialJustAroundTheCornerDescription</Key>
+      <Value>Jdeme dál.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialJustAroundTheCornerTask1</Key>
+      <Value>Vstupte do další místnosti</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDoYouFeelTheFlowTitle</Key>
+      <Value>Cítíte ten proud?</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDoYouFeelTheFlowDescription</Key>
+      <Value>Použitím {THING:ItemWrench} připojíme {THING:StructureGasTankStorage} do {THING:StructureTankConnector}, aby jsme měli proudění vzduchu uvnitř, začíná tu být trochu dusno.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDoYouFeelTheFlowTask1</Key>
+      <Value>Připojte {THING:StructureTankConnector}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDoYouFeelTheFlowTask2</Key>
+      <Value>Zapněte {THING:StructureValve}, aby vzduch proudil.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLetsTankItUpTitle</Key>
+      <Value>Tak to natankujme</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLetsTankItUpDescription</Key>
+      <Value>Nyní, když proudí vzduch, naplňte tento {THING:ItemGasCanisterEmpty}. Dávejte pozor, aby tlak nebyl příliš vysoko, protože může dojít k výbuchu. To by za normálních okolností mělo vliv na okolní konstrukce, ale ty jsou zde nezničitelné</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLetsTankItUpTask1</Key>
+      <Value>Umístěte {THING:ItemGasCanisterEmpty} </Value>
+    </Record>
+    <Record>
+      <Key>TutorialLetsTankItUpTask2</Key>
+      <Value>Nastavte {THING:StructureActiveVent} na vnitřní</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLetsTankItUpTask3</Key>
+      <Value>Nastavte {THING:StructureActiveVent} na zapnuto</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLetsTankItUp1Title</Key>
+      <Value>Jdeme dál</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLetsTankItUp1Description</Key>
+      <Value>Už jsme skoro tam!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLetsTankItUp1Task1</Key>
+      <Value>Vstupte do další místnosti</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStatusUpdatesTitle</Key>
+      <Value>Scotty, jaký je tvůj status?</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStatusUpdatesDescription</Key>
+      <Value>Když musíš jít, tak musíš jít. Vypadá to, že se vaše baterie vybila, vyměňte ji za jednu ve skříňce!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStatusUpdatesTask1</Key>
+      <Value>Vyměňte baterii</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStatusUpdates1Description</Key>
+      <Value>Dobrá práce, teď se zdá, že vaše vzduchová nádrž je prázdná? Děje se tu něco podezřelého.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStatusUpdates1Task1</Key>
+      <Value>Vyměňte vzduchovou nádrž</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStatusUpdates2Description</Key>
+      <Value>Ten filtr je ucpaný, přidejte nový do obleku, můžete pojmout až tři!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStatusUpdates2Task1</Key>
+      <Value>Vyměňte filtr</Value>
+    </Record>
+    <Record>
+      <Key>TutorialMovingOnUpTitle</Key>
+      <Value>Jdeme nahoru</Value>
+    </Record>
+    <Record>
+      <Key>TutorialMovingOnUpDescription</Key>
+      <Value>Dostaňte se do toho výtahu!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialMovingOnUpTask1</Key>
+      <Value>Vstupte do výtahu a jděte do dalšího patra</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTimeToScrubTitle</Key>
+      <Value>Čas na čištění</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTimeToScrubDescription</Key>
+      <Value>Rostliny vyžadují velmi specifické prostředí, aby mohly růst, to zahrnuje zdravý vzduch a přívod vody a slunečního světla.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTimeToScrubTask1</Key>
+      <Value>Zapnutím funkce {THING:DynamicScrubber} odstraníte znečišťující látky z atmosféry</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWaterYaThinkAboutThatTitle</Key>
+      <Value>Voda o tom přemýšlíte?</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWaterYaThinkAboutThatDescription</Key>
+      <Value>Pojďme vyměnit tento prázdný {THING:ItemGasCanisterWater} novým svěžím kanystrem.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWaterYaThinkAboutThatTask1</Key>
+      <Value>Přidejte plný {THING:ItemGasCanisterWater} do {THING:DynamicHydroponics}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLetItGrowTitle</Key>
+      <Value>Nechte ji růst</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLetItGrowDescription</Key>
+      <Value>Věc o vesmíru je, že tu neexistuje jídlo. Zkusme tedy nějaké vypěstovat a uvidíme, jak je váš palec zelený.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLetItGrowTask1</Key>
+      <Value>Zasaďte {THING:ItemTomato} do {THING:DynamicHydroponics} </Value>
+    </Record>
+    <Record>
+      <Key>TutorialLetItGrowTask2</Key>
+      <Value>Počkejte, až sklidíte svou bohatou úrodu</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSoCloseTitle</Key>
+      <Value>Tak blízko</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSoCloseDescription</Key>
+      <Value>Tak blízko, ale zatím daleko. Přesuňte se do vedlejší místnosti.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSoCloseTask1</Key>
+      <Value>Přesuňte se do další místnosti</Value>
+    </Record>
+    <Record>
+      <Key>TutorialUnderPressureTitle</Key>
+      <Value>Pod tlakem</Value>
+    </Record>
+    <Record>
+      <Key>TutorialUnderPressureDescription</Key>
+      <Value>Čas na nastavení vaší první {THING:StructureAirlock}. Kabely jsou umístěny pro vás, stačí dát objekty do správných zvýrazněných oblastí. Požadované předměty najdete ve skříňce. </Value>
+    </Record>
+    <Record>
+      <Key>TutorialUnderPressureTask1</Key>
+      <Value>Umístěte {THING:StructureActiveVent}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialUnderPressureTask2</Key>
+      <Value>Umístěte {THING:StructureConsole}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialUnderPressureTask3</Key>
+      <Value>Umístěte {THING:StructureGasSensor}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialUnderPressureTask4</Key>
+      <Value>Umístěte {THING:StructureFlashingLight}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialUnderPressure1Title</Key>
+      <Value>Pod tlakem</Value>
+    </Record>
+    <Record>
+      <Key>TutorialUnderPressure1Description</Key>
+      <Value>Skvělé! Nyní nastavíme proces synchronizace, vložte dodané komponenty a nastavte konzoli.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialUnderPressure1Task1</Key>
+      <Value>Vložte {THING:CircuitboardAirlockControl}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialUnderPressure1Task2</Key>
+      <Value>Vložte {THING:ItemDataDisk}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialUnderPressure1Task3</Key>
+      <Value>Dokončete konzoli nanesením skla</Value>
+    </Record>
+    <Record>
+      <Key>TutorialHackingTheMainframeTitle</Key>
+      <Value>Hackování systému</Value>
+    </Record>
+    <Record>
+      <Key>TutorialHackingTheMainframeDescription</Key>
+      <Value>Nyní vyjměte datový disk a zapněte konzoli na programování {THING:StructureAirlock}.
+
+Při zvolení vzduchové komory, se ubezpečte že &apos;INTERIÉR&apos; možnost je vybrána. To lze vidět tím, že se světlo přechodové komory mění ze zelené na červenou, a označuje na kterou přechodovou komoru se aplikujete možnost.
+
+Jakmile bude mít konzole vybrané zařízení, bude pod jeho kontrolou a bude uzamčeno, nebude reagovat na vaše interakce.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialHackingTheMainframeTask1</Key>
+      <Value>Přiřaďte komponenty {THING:StructureAirlock}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialBeFreeTitle</Key>
+      <Value>Buďte svobodní</Value>
+    </Record>
+    <Record>
+      <Key>TutorialBeFreeDescription</Key>
+      <Value>Spusťte synchronizaci a vypadněte odsud!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialBeFreeTask1</Key>
+      <Value>Synchronizujte {THING:StructureAirlock}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialCompletedDescription</Key>
+      <Value>Gratulujeme, vaše základní školení je kompletní! Vypadněte, Stationeere!</Value>
+    </Record>
+  </Interface>
+</Language>

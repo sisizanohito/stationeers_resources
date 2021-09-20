@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Code>HU</Code>
+  <Interface>
+    <Record>
+      <Key>8ConstructLever</Key>
+      <Value>Hegeszd meg: {THING:StructureFrame}</Value>
+    </Record>
+    <Record>
+      <Key>8ConstructCable</Key>
+      <Value>Hegeszd meg: {THING:StructureFrame}</Value>
+    </Record>
+    <Record>
+      <Key>8ConstructReader</Key>
+      <Value>Hegeszd meg: {THING:StructureFrame}</Value>
+    </Record>
+    <Record>
+      <Key>8ConstructWriter</Key>
+      <Value>Hegeszd meg: {THING:StructureFrame}</Value>
+    </Record>&gt;
+		
+    <Record>
+      <Key>8TurnOnReader</Key>
+      <Value>Tedd le a {THING:StructureBench}ra</Value>
+    </Record>
+    <Record>
+      <Key>8TurnOnWriter</Key>
+      <Value>Tedd le a {THING:StructureBench}ra</Value>
+    </Record>
+    <Record>
+      <Key>8TurnOffWriter</Key>
+      <Value>Tedd le a {THING:StructureBench}ra</Value>
+    </Record>
+    <Record>
+      <Key>8TurnOffReader</Key>
+      <Value>Tedd le a {THING:StructureBench}ra</Value>
+    </Record>
+    <Record>
+      <Key>8ConstructBatchWriter</Key>
+      <Value>Hegeszd meg: {THING:StructureFrame}</Value>
+    </Record>
+    <Record>
+      <Key>8TurnOnBatchWriter</Key>
+      <Value>Tedd le a {THING:StructureBench}ra</Value>
+    </Record>
+  </Interface>
+</Language>

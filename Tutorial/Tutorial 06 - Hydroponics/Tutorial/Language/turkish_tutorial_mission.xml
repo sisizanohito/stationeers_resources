@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Code>TR</Code>
+  <Interface>
+    <Record>
+      <Key>TutoiralHydroponicsAndFood</Key>
+      <Value>Hidroponi</Value>
+    </Record>
+    <Record>
+      <Key>TutoiralHydroponicsAndFood</Key>
+      <!--This is the description that appers in the menu-->
+      <Value>Hidroponi</Value>
+    </Record>
+    <Record>
+      <Key>6BuildTankConnecter</Key>
+      <Value>Vurgulanan noktaya {THING:StructureGasSensor}&apos;nü inşa et.</Value>
+    </Record>
+    <Record>
+      <Key>6GetPipe</Key>
+      <Value>IronSheets&apos;ı Al.</Value>
+    </Record>
+    <Record>
+      <Key>6GetGrowLight</Key>
+      <Value>IronSheets&apos;ı Al.</Value>
+    </Record>
+    <Record>
+      <Key>6BuildGrowLight</Key>
+      <Value>Vurgulanan noktaya {THING:StructureGasSensor}&apos;nü inşa et.</Value>
+    </Record>
+    <Record>
+      <Key>6GrowLightOn</Key>
+      <Value>Kaynak aletini aç</Value>
+    </Record>
+    <Record>
+      <Key>6GetWheat</Key>
+      <Value>Sandıktan kömürü al</Value>
+    </Record>
+    <Record>
+      <Key>6BakeMuffin</Key>
+      <Value>Bir {THING:ItemMuffin} pişir</Value>
+    </Record>
+    <Record>
+      <Key>6MicrowaveClosed</Key>
+      <Value>Uyarıyı Kapat</Value>
+    </Record>
+    <Record>
+      <Key>6MicrowaveOpened</Key>
+      <Value>{THING:ApplianceMicrowave}&apos;nı aç</Value>
+    </Record>
+    <Record>
+      <Key>6HydroponicTray</Key>
+      <Value>Sabit Hidroponik</Value>
+    </Record>
+    <Record>
+      <Key>6BuildCables</Key>
+      <Value>Vurgulanan noktaya {THING:StructureGasSensor}&apos;nü inşa et.</Value>
+    </Record>
+    <Record>
+      <Key>6GetWaterBottleFiller</Key>
+      <Value>IronSheets&apos;ı Al.</Value>
+    </Record>
+    <Record>
+      <Key>6BuildWaterBottleFiller</Key>
+      <Value>Vurgulanan noktaya {THING:StructureGasSensor}&apos;nü inşa et.</Value>
+    </Record>
+    <Record>
+      <Key>6GetWaterBottle</Key>
+      <Value>IronSheets&apos;ı Al.</Value>
+    </Record>
+    <Record>
+      <Key>6GetMingBelt</Key>
+      <Value>Turuncu sandıktan bir {THING:ItemGoldIngot} al.</Value>
+    </Record>
+  </Interface>
+</Language>

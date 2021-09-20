@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Code>FR</Code>
+  <Interface>
+    <Record>
+      <Key>TutoiralLogic</Key>
+      <Value>Logique</Value>
+    </Record>
+    <Record>
+      <Key>TutoiralLogicSubTitle</Key>
+      <Value>Formation pratique : Étape III</Value>
+    </Record>
+    <Record>
+      <Key>8ConstructLever</Key>
+      <Value>Construire une console dans la zone en surbrillance</Value>
+    </Record>
+    <Record>
+      <Key>8ConstructCable</Key>
+      <Value>Construire une console dans la zone en surbrillance</Value>
+    </Record>
+    <Record>
+      <Key>8ConstructCable2</Key>
+      <Value>Ramassez une ventilation passive dans la caisse</Value>
+    </Record>
+    <Record>
+      <Key>8ConstructReader</Key>
+      <Value>Placer le tuyau dans la position en surbrillance</Value>
+    </Record>
+    <Record>
+      <Key>8ConstructWriter</Key>
+      <Value>Placer le tuyau dans la position en surbrillance</Value>
+    </Record>&gt;
+		
+    <Record>
+      <Key>8TurnOnReader</Key>
+      <Value>Allumez le lecteur logique.</Value>
+    </Record>
+    <Record>
+      <Key>8TurnOnWriter</Key>
+      <Value>Allumez le lecteur logique.</Value>
+    </Record>
+    <Record>
+      <Key>8ConstructCable2</Key>
+      <Value>Ramassez une ventilation passive dans la caisse</Value>
+    </Record>
+    <Record>
+      <Key>8TurnOffWriter</Key>
+      <Value>Allumez le lecteur logique.</Value>
+    </Record>
+    <Record>
+      <Key>8TurnOffReader</Key>
+      <Value>Allumez le lecteur logique.</Value>
+    </Record>
+    <Record>
+      <Key>8ConstructBatchWriter</Key>
+      <Value>Placer le tuyau dans la position en surbrillance</Value>
+    </Record>
+    <Record>
+      <Key>8TurnOnBatchWriter</Key>
+      <Value>Allumez la batterie stationnaire</Value>
+    </Record>
+    <Record>
+      <Key>8TurnOffBatchWriter</Key>
+      <Value>Allumez la batterie stationnaire</Value>
+    </Record>
+  </Interface>
+</Language>

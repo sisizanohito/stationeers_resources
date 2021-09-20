@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Simplified Chinese</Name>
+  <Code>CN</Code>
+  <Font>font_cjk</Font>
+  <Interface>
+    <Record>
+      <Key>TutorialTitleWearSpacesuit</Key>
+      <Value>装备太空服</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskWearHelmet</Key>
+      <Value>戴 {THING:ItemSpaceHelmet}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskWearSuit</Key>
+      <Value>穿 {THING:ItemEvaSuit}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskWearJetpack</Key>
+      <Value>穿 {THING:ItemSpacepack}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescPickupHelmet</Key>
+      <Value>找到 {THING:ItemSpaceHelmet} 单击 {KEY:PrimaryAction} 把它放进你的 {SLOT:LeftHand} 或 {SLOT:RightHand} 里。 详情请看 {LINK:Home;百科全书} 里的 {LINK:InventoryPage;库存} 部分</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescWearHelmet</Key>
+      <Value>有两种方法可以与{LINK:InventoryPage;库存}交互：按快捷键和鼠标。两者各有优缺点。
+      
+按住 {KEY:MouseControl} 可启用鼠标光标，将 {THING:ItemSpaceHelmet} 拖放到你的 {SLOT:Helmet} 插槽中。或者长按 {KEY:HelmetSlot}，直到你的 {THING:ItemSpaceHelmet} 移动到你的 {SLOT:Helmet} 插槽。</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescPickupSuit</Key>
+      <Value>找到{THING:ItemEvaSuit}然后用你的{SLOT:LeftHand}或者{SLOT:RightHand}拿起来。这次我们来尝试用鼠标把{THING:ItemEvaSuit}拖到你左侧的{SLOT:Suit}槽位中，这样会快一点。按住{KEY:MouseControl}然后把你的鼠标移动到{THING:ItemEvaSuit}上面然后按住{KEY:PrimaryAction}把它拖到你的{SLOT:Suit}中。
+      </Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescWearSuit</Key>
+      <Value>按住 {KEY:SuitSlot} 按键装备 {THING:ItemEvaSuit} 到你的 {SLOT:Suit} 装备槽.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescPickupJetpack</Key>
+      <Value>找到 {THING:ItemSpacepack} 在你准星对准该物品的时候单击 {KEY:PrimaryAction} 把它放进你的 {SLOT:LeftHand} 或 {SLOT:RightHand}中。</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescWearJetpack</Key>
+      <Value>按住 {KEY:BackSlot} 按键装备 {THING:ItemSpacepack} 到你的 {SLOT:Back} 装备槽.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTitlePowerSuit</Key>
+      <Value>宇航服能源</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescPowerSuit</Key>
+      <Value>找到 {THING:ItemBatteryCellLarge} 然后单击 {KEY:PrimaryAction} 把它捡起放到到 {SLOT:LeftHand} 或 {SLOT:RightHand} 中。 你也可以直接启用鼠标来拖动 {THING:ItemBatteryCellLarge} 放到 {THING:ItemEvaSuit} 里来节省时间。</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescPowerSuit2</Key>
+      <Value>按 {KEY:SuitSlot} 键开启你的 {THING:ItemEvaSuit} , 也可以按住 {KEY:MouseControl} 启用鼠标来直接点击 {SLOT:Suit} 完成该操作.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskLifesupportSuit1</Key>
+      <Value>拾起 {THING:ItemBatteryCellLarge}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskLifesupportSuit2</Key>
+      <Value>打开 {THING:ItemEvaSuit} 装备槽窗口</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskLifesupportSuit4</Key>
+      <Value>装备 {THING:ItemEvaSuit} 与 {THING:ItemBatteryCellLarge}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescLifesupport1</Key>
+      <Value>你可以交换 {SLOT:Suit} 通过按下并释放 {KEY:SuitSlot} 按键. 这将和装备槽库存来交换, 如果可用. 这样做直到你看到装备槽清单.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescLifesupport2</Key>
+      <Value>{COLORRED:你需要穿戴好 {THING:ItemEvaSuit} 继续. 请先穿好.}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescLifesupport4</Key>
+      <Value>当 {THING:ItemBatteryCellLarge} 已经激活在你的 {SLOT:LeftHand} 或 {SLOT:RightHand} 上, 按下 {KEY:InventorySelect} 按键切换 {THING:ItemBatteryCellLarge} 到 {SLOT:LifeSupport} 装备槽. 如果需要你可以按一下 {KEY:SwapHands} 按键切换你激活的手.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTitleSuitFilter</Key>
+      <Value>装备一个过滤器</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescFilter1</Key>
+      <Value>找到 {THING:ItemGasFilterCarbonDioxide} 然后把它捡到 {SLOT:LeftHand} 或 {SLOT:RightHand} 中，和之前的操作一样，你也可以使用鼠标来拖动{THING:ItemGasFilterCarbonDioxide}放入{THING:ItemEvaSuit}中来节省时间。此滤芯会从你的 {THING:ItemEvaSuit} 里面移除掉呼出的 {GAS:CarbonDioxide} 。</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskFilter1</Key>
+      <Value>收集 {THING:ItemGasFilterCarbonDioxide}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskFilter2</Key>
+      <Value>打开 {THING:ItemEvaSuit} 装备槽菜单</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskFilter4</Key>
+      <Value>装备 {THING:ItemEvaSuit} 与 {THING:ItemGasFilterCarbonDioxide}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescFilter2</Key>
+      <Value>你可以与 {SLOT:Suit} 装备槽互动通过按下和释放 {KEY:SuitSlot} 按键. 这将装备槽库存来交换, 如果可用. 这样做直到你看到装备槽清单.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescFilter3</Key>
+      <Value>你可以使用 {COLORRED:鼠标滚轮} 在 {THING:ItemEvaSuit} 里面选择装备槽. 选择任何内部 {SLOT:Filter} 装备槽继续.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescFilter4</Key>
+      <Value>当 {THING:ItemGasFilterCarbonDioxide} 在你的 {SLOT:LeftHand} or {SLOT:RightHand} 上被激活, 按下 {KEY:InventorySelect} 把电池换到装备槽里. 如果需要你可以按一下 {KEY:SwapHands} 按键切换你激活的手.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTitleGetTools</Key>
+      <Value>建设工具使用</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescGetTools1</Key>
+      <Value>现在我们需要到外面去做一些修理工作. 按 {KEY:Drop} 放下手中的东西来清空手部的格子。请记住，你随时可以使用{KEY:MouseControl} 启用鼠标对 {LINK:InventoryPage;库存} 进行管理，还可以按 {KEYS:SwapHands} 切换 {COLORYELLOW:左右手}。
+
+管理好你的 {LINK:InventoryPage;库存} 需要熟练度和一些练习; 仔细考虑哪些物品对你当前要做的事情能帮上忙，提前做好计划. 忘记带上充足的 {THING:ItemGasCanisterOxygen} 或 {THING:ItemBatteryCellLarge} 可能是灾难性的。 还有迷路也是很常见的。
+所以，请务必小心行事!
+      </Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescGetTools2</Key>
+      <Value>拿起 {THING:ItemToolBelt} 然后按 {KEY:ToolBeltSlot} 键把它放进 {SLOT:Belt} 槽里 , 或者按 {KEY:MouseControl} 启用鼠标把它拖进去. 你的 {SLOT:Belt} 槽能放入那些装工具的腰带.
+      
+{THING:ItemMiningBelt} 里面有专门放 {LINK:OrePage;矿石} 的插槽，你在用 {THING:ItemMiningDrill} 挖矿的时候会自动把挖出来的矿石放入进去. 更多详情请看 {LINK:MiningPage;采矿}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskGetTools1</Key>
+      <Value>打开 {THING:ItemTablet}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskGetTools2</Key>
+      <Value>拿上{THING:ItemToolBelt} 在 {SLOT:Belt} 装备槽</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskGetTools3</Key>
+      <Value>收集 {THING:ItemSteelSheets} 在 {SLOT:LeftHand} 或 {SLOT:RightHand} 装备槽上</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTitleGoInAirlock</Key>
+      <Value>进入 {COLORRED:基友团ID264122911} 空间站</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescGoInAirlock1</Key>
+      <Value>请先确保你的 {THING:ItemEvaSuit} 跟 {THING:ItemSpaceHelmet} 已经OK然后再通过 {THING:StructureAirlock} 门. 按下 {KEY:HelmetSlot} 按键直到你看到交互菜单, 切换到关闭选项, 并且按下 {KEY:InventorySelect} 显示出状态.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskGoInAirlock1</Key>
+      <Value>关闭你的 {THING:ItemSpaceHelmet} 板面</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskGoInAirlock2</Key>
+      <Value>通过 {THING:StructureAirlock} 门进入到黄色的房间</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTitleCycleAirlock</Key>
+      <Value>循环气密门</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescCycleAirlock1</Key>
+      <Value>你可以通过{THING:StructureConsole} 或 {THING:StructureAirlock} 门两侧的键盘操作循环气密门 . 这将使气闸减压，这样你就可以进入空间站了.
+
+A {THING:CircuitboardAirlockControl} 在 {THING:StructureConsole} 是控制 {THING:StructureActiveVent}s 和其他装置来控制循环气闸.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskCycleAirlock1</Key>
+      <Value>循环气密门</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTitleRepairCable</Key>
+      <Value>修复损坏的电线</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescRepairCable1</Key>
+      <Value>{THING:StructureCableStraight} 可以传输 {COLORYELLOW:数据} 和 {COLORYELLOW:电力}，但如果通过它的电力功率大于所能承受的额定功率，它们就会损坏。 这里有些烧焦的 {THING:StructureCableJunction} 在你刚刚走出来的 {THING:StructureAirlock} 下面, 从你的 {THING:ItemToolBelt} 中拿出 {THING:ItemWireCutters} 把这些坏电线移除掉。
+      
+记得你有两种方法可以访问你的 {LINK:InventoryPage;库存}. 你可以按住 {KEY:MouseControl} 来启用鼠标拖动物品或是打开物品的窗口。或者为了快速操作，按 {KEY:ToolBeltSlot} 打开你 {SLOT:Belt} 的窗口。 按 {KEY:InventorySelect} 来与其中高亮的物品交换到你的手中。
+
+如果你觉得你一次性打开的窗口太多了，按 {KEY:HideAllWindows} 关闭所有窗口, 您可以使用各自的插槽快捷键开关单独的窗口, 你还可以按住 {KEY:MouseControl} 启用鼠标用鼠标点。</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskRepairCable1</Key>
+      <Value>装备你的 {THING:ItemWireCutters}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskRepairCable2</Key>
+      <Value>移除 {THING:StructureCableJunctionBurnt}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskRepairCable3</Key>
+      <Value>装备你的 {THING:ItemCableCoil}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskRepairCable4</Key>
+      <Value>替换为 {THING:StructureCableJunction} 从 {THING:ItemCableCoil}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescRepairCable2</Key>
+      <Value>看向 {THING:StructureCableJunctionBurnt} 并且拿出 {THING:ItemWireCutters} . 你将看到 {COLORYELLOW:黄色} 框框在它周围. 按住 {KEY:PrimaryAction} 直到移除 {THING:StructureCableJunctionBurnt}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescRepairCable3</Key>
+      <Value>现在我们需要一个 {THING:StructureCableJunction}. 移除 {THING:ItemCableCoil} 从你的 {THING:ItemToolBelt} 到你的 {SLOT:LeftHand} 或 {SLOT:RightHand} 装备槽. 记得 {KEY:InventorySelect} 与内部装备槽和动作相互作用, 和 {KEY:ToolBeltSlot} 按键打开和关闭你的 {SLOT:Belt} 装备槽.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescRepairCable4</Key>
+      <Value>把 {THING:ItemCableCoil}放在你{COLORYELLOW:当前使用的手}, 按 {KEY:SecondaryAction} 进入 {LINK:ConstructionPage;建造} 蓝图布局界面。
+
+使用 {COLORRED:鼠标滚轮} 改变建造类型, 选择建造 {THING:StructureCableJunction}.
+
+您的布局蓝图包含重要的连接信息，小的加号表示物品能从这里连接到电缆网络。确保你的连接线是准确的。
+
+按下 {KEY:QuantityModifier} 会让物品尝试其最佳的连接位置。或者，你也可以使用自定义旋转快捷键。</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTitleFinishFrame</Key>
+      <Value>完成焊接框架</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescFinishFrame</Key>
+      <Value>有些工具需要两种操作. 焊接 {THING:StructureFrame} 你需要一个 {THING:ItemWeldingTorch} 在你的收中激活, 并且 {THING:ItemSteelSheets} 在另外一只手上. 一个快速的按键, {KEY:ToggleHandPower}, 我们会自动切换你的活动手的任何物品的电源开关，或者你可以通过互动菜单完成它.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskFinishFrame1</Key>
+      <Value>焊接 {THING:StructureFrame} 完成教程</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTitleTablet</Key>
+      <Value>手上的物品交换</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescTablet1</Key>
+      <Value>准星移到 {THING:ItemTablet} 和 {THING:ItemBatteryCellLarge} 上面用 {SLOT:LeftHand} 或 {SLOT:RightHand}按 {KEY:PrimaryAction} 捡起来。你可以按 {KEY:SwapHands} 键切换当前的使用手。这样你就能一边手拿一个物品了。完成以继续。</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescTablet2</Key>
+      <Value>您可以按 {KEY:ActiveHandSlot} 键或用鼠标单击来与当前手中的物品交互。这将打开当前手中物品的 {LINK:InventoryPage;库存} 窗口。你可以按{KEY:SwapHands}键切换你当前的使用手。切换到有 {THING:ItemTablet} 的手，打开其库存界面来继续下一步。</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescTablet4</Key>
+      <Value>现在把你激活的手和 {KEY:SwapHands} 按键直到 {THING:ItemBatteryCellLarge} 切换到激活的手上. 你应该有内部物品槽库存 {THING:ItemTablet} 在另一只手上打开, 并且 {THING:ItemBatteryCellLarge} 被选为主动的手在另一个. 然后按 {KEY:InventorySelect} 按键装备进入选定的 {SLOT:Battery} 装备槽.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskTablet1</Key>
+      <Value>收集 {THING:ItemTablet}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskTablet2</Key>
+      <Value>收集 {THING:ItemBatteryCellLarge}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskTablet3</Key>
+      <Value>在手上打开 {THING:ItemTablet} 装备菜单</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskTablet5</Key>
+      <Value>装备 {THING:ItemTablet} 与 {THING:ItemBatteryCellLarge}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTitleUseReader</Key>
+      <Value>使用 {THING:CartridgeElectronicReader}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescUseReader1</Key>
+      <Value>这个 {THING:ItemTablet} 可以有不同的功能. 翻动 {THING:ItemTablet} 在使用 {KEY:ToggleHandPower} 按键, 或者和你手的互动通过 {KEY:ActiveHandSlot} 按键.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescUseReader2</Key>
+      <Value>这个 {THING:ItemTablet} 中有 {THING:CartridgeElectronicReader} 添加. 这告诉你在游戏中你需要制作的配方，以及它们的制作方法。找到 {COLORYELLOW:配方 #VAR1#} 可以让你创建一个 {THING:ItemMuffin} 通过使用 {COLORRED:鼠标滚轮} 滚动选项.
+
+使用不同的盒子允许您访问许多不同的功能,如 {THING:CartridgeNetworkAnalyser} 它允许您调试有线有线网络,或 {THING:CartridgeAtmosAnalyser} 它提供大气信息.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskUseReader1</Key>
+      <Value>打开 {THING:ItemTablet}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskUseReader2</Key>
+      <Value>找到 {COLORYELLOW:Recipe #VAR1#} 做一个 {THING:ItemMuffin}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTitleBakeMuffin</Key>
+      <Value>烤 {THING:ItemMuffin}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescBakeMuffin1</Key>
+      <Value>游戏中的某些设备是安装在 {THING:StructureBench} 上面的 ; 这些设备被称为{LINK:AppliancePage;小型设备}. 捡起这个{THING:ApplianceMicrowave} 走到 {THING:StructureBench} 的面前.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescBakeMuffin2</Key>
+      <Value>按下 {KEY:Drop} 按键放弃 {THING:ApplianceMicrowave} 在上面的 {THING:StructureBench}. 继续这样做直到 {THING:ApplianceMicrowave} 位于 {THING:StructureBench} 之上.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescBakeMuffin3</Key>
+      <Value>看向 {THING:ApplianceMicrowave}. 看它的边缘, 而不是门, 这样你就直接以这个物品为目标了，而不是打开它的门。当你看到 {COLORYELLOW:黄色的框框} 长按 {KEY:PrimaryAction} 用扳手把它扳到 {THING:StructureBench}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescBakeMuffin4</Key>
+      <Value>面向{THING:ApplianceMicrowave}的门. 单击 {KEY:PrimaryAction} 打开门，把化学原料放在里面。</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescBakeMuffin5</Key>
+      <Value>在你的任务清单中挑选所需的原料，并用手在打开微波炉. 按 {KEY:PrimaryAction} 放入更多的原料，直到条件足够. 不要加多了。某些配方可能要求你做2次。
+      
+如果你放多了，没关系，先按{KEY:Drop}放下你手上的东西，然后打开{THING:ApplianceMicrowave}的门点击{COLORYELLOW:Clear}，然后再来一遍。</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescBakeMuffin6</Key>
+      <Value>现在按下设备右边的按钮，打开 {THING:ApplianceMicrowave} . 该设备现在将烘烤你的配方。如果你有正确的配方，那么你就会做一个 {THING:ItemMuffin}. 否则，你将一无所有.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescBakeMuffin7</Key>
+      <Value>按下 {KEY:BackSlot} 键打开你的 {THING:ItemSpacepack} . 用 {THING:ItemWrench} 循环到装备槽中使用 {COLORRED:鼠标滚轮} 并按 {KEY:InventorySelect} 键将其交换到你的手中.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskBakeMuffin1</Key>
+      <Value>收集 {THING:ApplianceMicrowave}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskBakeMuffin2</Key>
+      <Value>在 {THING:StructureBench} 下降</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskBakeMuffin3</Key>
+      <Value>扳手 {THING:ApplianceMicrowave} 到位</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskBakeMuffin11</Key>
+      <Value>从 {THING:ItemSpacepack} 得到 {THING:ItemWrench} </Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskBakeMuffin4</Key>
+      <Value>把 {THING:ItemFlour} 的 {COLORYELLOW:50g} 放到 {THING:ApplianceMicrowave} 上</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskBakeMuffin5</Key>
+      <Value>把 {COLORYELLOW:one} {THING:ItemEgg} 放到 {THING:ApplianceMicrowave} 上</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskBakeMuffin6</Key>
+      <Value>把 {THING:ItemMilk} 的 {COLORYELLOW:10ml} 放到 {THING:ApplianceMicrowave} 上</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskBakeMuffin7</Key>
+      <Value>打开 {THING:ApplianceMicrowave}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskBakeMuffin8</Key>
+      <Value>制造一个 {THING:ItemMuffin}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskBakeMuffin9</Key>
+      <Value>关闭 {THING:ApplianceMicrowave} 门</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskBakeMuffin10</Key>
+      <Value>打开 {THING:ApplianceMicrowave}</Value>
+    </Record>
+  </Interface>
+</Language>

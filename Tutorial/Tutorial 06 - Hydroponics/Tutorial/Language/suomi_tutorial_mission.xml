@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Code>FI</Code>
+  <Interface>
+    <Record>
+      <Key>6BuildTankConnecter</Key>
+      <Value>Laita {THING:ItemToolBelt} {SLOT:Belt} lokeroon</Value>
+    </Record>
+    <Record>
+      <Key>6GetPipe</Key>
+      <Value>Poimi {THING:ItemTablet}</Value>
+    </Record>
+    <Record>
+      <Key>6GetGrowLight</Key>
+      <Value>Poimi {THING:ItemTablet}</Value>
+    </Record>
+    <Record>
+      <Key>6BuildGrowLight</Key>
+      <Value>Laita {THING:ItemToolBelt} {SLOT:Belt} lokeroon</Value>
+    </Record>
+    <Record>
+      <Key>6GrowLightOn</Key>
+      <Value>Käynnistä {THING:ItemTablet}</Value>
+    </Record>
+    <Record>
+      <Key>6GetWheat</Key>
+      <Value>Poimi {THING:ItemTablet}</Value>
+    </Record>
+    <Record>
+      <Key>6BakeMuffin</Key>
+      <Value>Leivo {THING:ItemMuffin}</Value>
+    </Record>
+    <Record>
+      <Key>6MicrowaveClosed</Key>
+      <Value>Kierrätä Ilmalukko</Value>
+    </Record>
+    <Record>
+      <Key>6MicrowaveOpened</Key>
+      <Value>Avaa {THING:ApplianceMicrowave}</Value>
+    </Record>
+    <Record>
+      <Key>6BuildCables</Key>
+      <Value>Laita {THING:ItemToolBelt} {SLOT:Belt} lokeroon</Value>
+    </Record>
+    <Record>
+      <Key>6GetWaterBottleFiller</Key>
+      <Value>Poimi {THING:ItemTablet}</Value>
+    </Record>
+    <Record>
+      <Key>6BuildWaterBottleFiller</Key>
+      <Value>Laita {THING:ItemToolBelt} {SLOT:Belt} lokeroon</Value>
+    </Record>
+    <Record>
+      <Key>6GetWaterBottle</Key>
+      <Value>Poimi {THING:ItemTablet}</Value>
+    </Record>
+    <Record>
+      <Key>6GetMingBelt</Key>
+      <Value>Poimi {THING:ItemTablet}</Value>
+    </Record>
+  </Interface>
+</Language>

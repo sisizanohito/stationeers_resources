@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Traditional Chinese</Name>
+  <Code>TW</Code>
+  <Font>font_cjk</Font>
+  <Interface>
+    <Record>
+      <Key>Incident_Supply_Dynamic_Canister_Air_Title</Key>
+      <Value>氣瓶 (氣體 Air)</Value>
+    </Record>
+    <Record>
+      <Key>Incident_Supply_Dynamic_Canister_Air</Key>
+      <Value>衛星顯示附近有一個氣瓶掉落，你的信標跟蹤器應該可以追蹤到該物體信號。</Value>
+    </Record>
+  </Interface>
+</Language>

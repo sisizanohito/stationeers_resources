@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Code>RU</Code>
+  <Interface>
+    <Record>
+      <Key>BasicConcepts</Key>
+      <Value>Основные Навыки</Value>
+    </Record>
+    <Record>
+      <Key>MBasicConceptsDescription</Key>
+      <Value>Прежде чем мы отправим вас в солнечную систему, давайте проверим ваши основные навыки.</Value>
+    </Record>
+    <Record>
+      <Key>BasicConceptsSubTitle</Key>
+      <Value>Практические Тренировки: Этап I</Value>
+    </Record>
+    <Record>
+      <Key>IntroClose</Key>
+      <Value>Закрытие Брифинга Миссии</Value>
+    </Record>
+    <Record>
+      <Key>WelcomeRecuit</Key>
+      <Value>Добро пожаловать, Кадет</Value>
+    </Record>
+    <Record>
+      <Key>BasicConceptsDescription</Key>
+      <Value>Добро пожаловать на лунную тренировочную базу, Кадет. ODA одобрило ваше резюме, поэтому давайте повысим ваши шансы на выживание в солнечной системе.
+Войдите на тренировочную базу через шлюз впереди.</Value>
+    </Record>
+    <Record>
+      <Key>WelcomeRecuitDisc</Key>
+      <Value>Пройдите на тренировочную базу.</Value>
+    </Record>
+    <Record>
+      <Key>ControlMovementDisc</Key>
+      <Value>Передвижение</Value>
+    </Record>
+    <Record>
+      <Key>Narration1T</Key>
+      <Value>Добро пожаловать, Кадет</Value>
+    </Record>
+    <Record>
+      <Key>Narration1D</Key>
+      <Value>Работая и строя в опасных условиях, в одиночестве, вдали от дома, станционеру требуется множество специальных навыков. Мы здесь, чтобы убедиться, что вы усвоили основы. Войдите на тренировочную базу через шлюз впереди.</Value>
+    </Record>
+    <Record>
+      <Key>EnterAreaT1</Key>
+      <Value>Войдите в шлюз</Value>
+    </Record>
+    <Record>
+      <Key>ControlLeftClickDisc</Key>
+      <Value>Взаимодействовать</Value>
+    </Record>
+    <Record>
+      <Key>Narration2T</Key>
+      <Value>Управление Шлюзом</Value>
+    </Record>
+    <Record>
+      <Key>Narration2D</Key>
+      <Value>Работая и строя в опасных условиях вдали от дома, станционеру требуется множество специальных навыков. В том числе умение нажимать кнопки.
+Нажмите &apos;Цикл входа&apos;, чтобы зайти на базу.</Value>
+    </Record>
+    <Record>
+      <Key>TrainingBaseDisc</Key>
+      <Value>Войдите на тренировочную базу.</Value>
+    </Record>
+    <Record>
+      <Key>OpenAirlock</Key>
+      <Value>Начните цикл шлюзования используя консоль</Value>
+    </Record>
+    <Record>
+      <Key>ExitAreaT1</Key>
+      <Value>Войдите в Тестовую Зону</Value>
+    </Record>
+    <Record>
+      <Key>Narration3T</Key>
+      <Value>Протоколы</Value>
+    </Record>
+    <Record>
+      <Key>Narration3D</Key>
+      <Value>Прежде чем оригинальный Справочник Станционеров схлопнулся в сингулярность, он установил главный протокол Станционеров: у Кадетов ДВЕ руки, но можно делать только ОДНО действие за раз.</Value>
+    </Record>
+    <Record>
+      <Key>PickUpControlsDisc</Key>
+      <Value>Взаимодействовать</Value>
+    </Record>
+    <Record>
+      <Key>SwapControlsDisc</Key>
+      <Value>Сменить руку</Value>
+    </Record>
+    <Record>
+      <Key>Co-OrdinationDisc</Key>
+      <Value>Проверьте свою координацию, перемещая предметы между руками.</Value>
+    </Record>
+    <Record>
+      <Key>PickUpT1</Key>
+      <Value>Возьмите сварочный инструмент из ящика</Value>
+    </Record>
+    <Record>
+      <Key>SwapHandsT1</Key>
+      <Value>Смените руку</Value>
+    </Record>
+    <Record>
+      <Key>PickUpT1 1</Key>
+      <Value>Возьмите кусачки из ящика.</Value>
+    </Record>
+    <Record>
+      <Key>SwapHandsT1 2</Key>
+      <Value>Смените руку ... ещё разок</Value>
+    </Record>
+    <Record>
+      <Key>Narration4T</Key>
+      <Value>Сварочный аппарат.</Value>
+    </Record>
+    <Record>
+      <Key>Narration4D</Key>
+      <Value>Вы могли бы стать жонглёром. Но вы записались в Станционеры, так что вам придётся жонглировать инструментами. Многими из них. Некоторые нужно сначала активировать с помощью {KEY:SecondaryAction}.</Value>
+    </Record>
+    <Record>
+      <Key>ActiveWilderDisc</Key>
+      <Value>Включить сварочный аппарат</Value>
+    </Record>
+    <Record>
+      <Key>TurnOnControls</Key>
+      <Value>Переключить питание</Value>
+    </Record>
+    <Record>
+      <Key>TurnOnControlsDisc</Key>
+      <Value>Переключите питание сварочного аппарата</Value>
+    </Record>
+    <Record>
+      <Key>WeilderOn</Key>
+      <Value>Включите сварочный аппарат</Value>
+    </Record>
+    <Record>
+      <Key>WeilderOff</Key>
+      <Value>Выключите сварочный аппарат</Value>
+    </Record>
+    <Record>
+      <Key>Narration5D</Key>
+      <Value>Пока ваши руки работают нормально. Это хорошо, потому что они вам понадобятся. Итак, давайте попробуем выкладывание и кидание.
+Нажмите {KEY:Drop}, чтобы выложить предмет, или удерживайте {KEY:Drop}, чтобы кинуть его.</Value>
+    </Record>
+    <Record>
+      <Key>DropItemT1 1</Key>
+      <Value>Бросьте предмет в вашей правой руке</Value>
+    </Record>
+    <Record>
+      <Key>DropWireCutters</Key>
+      <Value>Выложите или киньте инструмент из правой руки</Value>
+    </Record>
+    <Record>
+      <Key>ThrowControls</Key>
+      <Value>Удерживать {KEY:Drop}</Value>
+    </Record>
+    <Record>
+      <Key>ThrowControlsDisc</Key>
+      <Value>Кинуть предмет</Value>
+    </Record>
+    <Record>
+      <Key>DropControlsDisc</Key>
+      <Value>Выложить предмет</Value>
+    </Record>
+    <Record>
+      <Key>PrecisionPLaceT1 1</Key>
+      <Value>Разместите инструмент прямо на столе, используя {KEY:PrecisionPlace}</Value>
+    </Record>
+    <Record>
+      <Key>Narration6T</Key>
+      <Value>Сварочный аппарат</Value>
+    </Record>
+    <Record>
+      <Key>Narration6D</Key>
+      <Value>Иногда, вам потребуется складывать предметы более аккуратно. Всё таки это собственность ODA. Попробуйте использовать {KEY:PrecisionPlace} и убедитесь, что шарниры вашего костюма работают плавно.</Value>
+    </Record>
+    <Record>
+      <Key>PrecisionPlaceControlsDisc</Key>
+      <Value>Режим Точного Размещения</Value>
+    </Record>
+    <Record>
+      <Key>PrecisionPlaceControlsPlaceDisc</Key>
+      <Value>Разместить предмет</Value>
+    </Record>
+    <Record>
+      <Key>PrecisionPlace</Key>
+      <Value>Разместите газовую горелку прямо на столе, используя &apos;Точное размещение&apos;</Value>
+    </Record>
+    <Record>
+      <Key>Narration7T</Key>
+      <Value>Система инвентаря</Value>
+    </Record>
+    <Record>
+      <Key>Narration7D</Key>
+      <Value>Мы не можем научить вас всему, но мы можем гарантировать, что вы усвоили основы: выживание в Солнечной системе зависит от вас.
+Чтобы получить доступ к вашему инвентарю, удерживайте {KEY:MouseControl} и кликните по нему на панели.</Value>
+    </Record>
+    <Record>
+      <Key>OpenToolControlsDisc</Key>
+      <Value>Показать Курсор Мыши</Value>
+    </Record>
+    <Record>
+      <Key>OpenToolbeltT1Disc</Key>
+      <Value>Откройте ваш пояс инструментов для доступа к инструментам.</Value>
+    </Record>
+    <Record>
+      <Key>OpenBackControlsDisc</Key>
+      <Value>Открыть экипированные слоты</Value>
+    </Record>
+    <Record>
+      <Key>GettingTheBelt</Key>
+      <Value>Откройте ваш пояс инструментов</Value>
+    </Record>
+    <Record>
+      <Key>Narration8T</Key>
+      <Value>Окна пользовательского интерфейса</Value>
+    </Record>
+    <Record>
+      <Key>Narration8D</Key>
+      <Value>У станционера не существует &apos;только одного&apos; способа достичь цели: как решить проблему - зависит только от вас. 
+То же относится и к вашему снаряжению, попробуйте открыть ваш инвентарь с помощью цифровых клавиш.</Value>
+    </Record>
+    <Record>
+      <Key>OpenBackPackDisc</Key>
+      <Value>Откройте ваш пояс инструментов</Value>
+    </Record>
+    <Record>
+      <Key>OpenBackPack</Key>
+      <Value>Откройте ваш рюкзак.</Value>
+    </Record>
+    <Record>
+      <Key>Narration9T</Key>
+      <Value>Навигация по инвентарю.</Value>
+    </Record>
+    <Record>
+      <Key>Narration9D</Key>
+      <Value>Знание, где что-то находится, и как это быстро получить, имеет решающее значение: управление инвентарём спасает жизни. Начните с перетаскивания предметов из инвентаря в руку.</Value>
+    </Record>
+    <Record>
+      <Key>HoldMiningBeltT1Disc</Key>
+      <Value>Перетащите пояс шахтёра из рюкзака в левую руку</Value>
+    </Record>
+    <Record>
+      <Key>PickUpT1 2</Key>
+      <Value>Перетащите пояс шахтёра из рюкзака в левую руку</Value>
+    </Record>
+    <Record>
+      <Key>AltDragControls</Key>
+      <Value>{KEY:MouseControl} + Перетаскивание</Value>
+    </Record>
+    <Record>
+      <Key>AltDragControlsDisc</Key>
+      <Value>Взаимодействовать с инвентарём.</Value>
+    </Record>
+    <Record>
+      <Key>DropT1 2</Key>
+      <Value>Выложите или киньте пояс шахтёра</Value>
+    </Record>
+    <Record>
+      <Key>Narration10T</Key>
+      <Value>Перетаскивание инвентаря</Value>
+    </Record>
+    <Record>
+      <Key>Narration10D</Key>
+      <Value>Будучи станционером, вам предстоит подбирать множество вещей. В Солнечной системе беспорядок. Просто так оно и есть.
+Попробуйте перетаскивать предметы из мира прямо в свой инвентарь.</Value>
+    </Record>
+    <Record>
+      <Key>DragFromWorldT1Disc</Key>
+      <Value>Перетащите пояс шахтёра с земли в рюкзак</Value>
+    </Record>
+    <Record>
+      <Key>AltClickControlsDisc</Key>
+      <Value>Взаимодействие мышкой</Value>
+    </Record>
+    <Record>
+      <Key>OpenMaskControlsDisc</Key>
+      <Value>Открыть шлем</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaToggleControlsDisc</Key>
+      <Value>Открыть/закрыть Stationpedia</Value>
+    </Record>
+    <Record>
+      <Key>QucikEquiptControls</Key>
+      <Value>Колесо прокрутки</Value>
+    </Record>
+    <Record>
+      <Key>QucikEquiptControlsDisc</Key>
+      <Value>Выбрать слот инвентаря</Value>
+    </Record>
+    <Record>
+      <Key>QuickSelectItemControlsDisc</Key>
+      <Value>Взаимодействовать с инвентарём</Value>
+    </Record>
+    <Record>
+      <Key>DoubleClickingControlsDisc</Key>
+      <Value>Взаимодействовать с инвентарём</Value>
+    </Record>
+    <Record>
+      <Key>SecondaryActionControls</Key>
+      <Value>Удерживайте {KEY:SecondaryAction}</Value>
+    </Record>
+    <Record>
+      <Key>SecondaryActionControlsDisc</Key>
+      <Value>Дополнительное действие</Value>
+    </Record>
+    <Record>
+      <Key>ControlLeftClickBuildDisc</Key>
+      <Value>Построить Структуру.</Value>
+    </Record>
+    <Record>
+      <Key>BuildControlsDisc</Key>
+      <Value>Войти в режим строительства</Value>
+    </Record>
+    <Record>
+      <Key>UseItemControls</Key>
+      <Value>Удерживайте {KEY:SecondaryAction}</Value>
+    </Record>
+    <Record>
+      <Key>UseItemControlsDisc</Key>
+      <Value>Активировать предмет</Value>
+    </Record>
+    <Record>
+      <Key>UsePrimeControls</Key>
+      <Value>Удерживайте {KEY:PrimaryAction}</Value>
+    </Record>
+    <Record>
+      <Key>UsePrimeControlsDisc</Key>
+      <Value>Использовать предмет</Value>
+    </Record>
+    <Record>
+      <Key>JetpackInsert</Key>
+      <Value>Перетащите пояс шахтёра с земли в рюкзак</Value>
+    </Record>
+    <Record>
+      <Key>Narration11T</Key>
+      <Value>Горячие клавиши</Value>
+    </Record>
+    <Record>
+      <Key>Narration11D</Key>
+      <Value>Пока Asura Biomedia не разводит четырёхруких станционеров, вам остаётся только пользоваться своими двумя. Но существуют быстрые способы переместить в них предметы.
+Используйте КОЛЕСО МЫШИ, чтобы выбрать предмет в открытом окне интерфейса, а затем нажмите &apos;F&apos;, чтобы экипировать его.</Value>
+    </Record>
+    <Record>
+      <Key>RoadFlareT1Disc</Key>
+      <Value>Используйте &apos;горячие клавиши&apos; чтобы экипировать сигнальный огонь</Value>
+    </Record>
+    <Record>
+      <Key>GetRoadFlare</Key>
+      <Value>Переместите сигнальный огонь из рюкзака в левую руку</Value>
+    </Record>
+    <Record>
+      <Key>LightFlare</Key>
+      <Value>Активируйте сигнальный огонь используя &apos;Дополнительное действие&apos;</Value>
+    </Record>
+    <Record>
+      <Key>DropT1 3</Key>
+      <Value>Бросьте сигнальный огонь используя &apos;Q&apos;</Value>
+    </Record>
+    <Record>
+      <Key>Narration12T</Key>
+      <Value>Предметы в предметах</Value>
+    </Record>
+    <Record>
+      <Key>Narration12D</Key>
+      <Value>Оборудование станционеров рассчитано на долговечность и простоту изготовления, а не на внешний вид.
+Многое оборудование, как электроинструменты, содержат такие предметы, как батареи или канистры с газом.</Value>
+    </Record>
+    <Record>
+      <Key>ChildOnSlotOpenDisc</Key>
+      <Value>Откройте пояс шахтёра в вашем рюкзаке.</Value>
+    </Record>
+    <Record>
+      <Key>OpeningTheMininngBelt</Key>
+      <Value>Откройте пояс шахтёра</Value>
+    </Record>
+    <Record>
+      <Key>Narration13T</Key>
+      <Value>Вставьте батарейку</Value>
+    </Record>
+    <Record>
+      <Key>Narration13D</Key>
+      <Value>Всё чего-то стоит, и вдали от дома нужно бережнее относиться к своим ресурсам.
+У многих устройств такие ресурсы, как батареи и топливо, можно извлекать и перезаряжать.</Value>
+    </Record>
+    <Record>
+      <Key>ReplaceBattT1Disc</Key>
+      <Value>Добавьте батарейку из ящика в бур</Value>
+    </Record>
+    <Record>
+      <Key>ChangePowerCell</Key>
+      <Value>Добавьте батарейку из ящика в бур</Value>
+    </Record>
+    <Record>
+      <Key>Narration14T</Key>
+      <Value>Объединение стаков</Value>
+    </Record>
+    <Record>
+      <Key>Narration14D</Key>
+      <Value>Они называют это &apos;пространством&apos;, но не дайте себя обмануть: места всегда не хватает. К счастью, многие предметы можно объединить в стаки.</Value>
+    </Record>
+    <Record>
+      <Key>MergeFramesT1Disc</Key>
+      <Value>Объедините каркасы, перетаскивая один стак на другой.</Value>
+    </Record>
+    <Record>
+      <Key>Merege de frames</Key>
+      <Value>Объедините два стака железных каркасов в ящике</Value>
+    </Record>
+    <Record>
+      <Key>Narration15T</Key>
+      <Value>Закройте ПИ с помощью `</Value>
+    </Record>
+    <Record>
+      <Key>Narration15D</Key>
+      <Value>Если ваш HUD немного загружен, вы можете закрыть окна инвентаря, щелкнув X или нажав `, чтобы закрыть все окна.</Value>
+    </Record>
+    <Record>
+      <Key>CloseAllUIT1Disc</Key>
+      <Value>Закройте все открытые окна ПИ</Value>
+    </Record>
+    <Record>
+      <Key>CloseUITask</Key>
+      <Value>Закройте все открытые окна ПИ</Value>
+    </Record>
+    <Record>
+      <Key>ControlCloseUIDisc</Key>
+      <Value>Закрыть все открытые окна ПИ</Value>
+    </Record>
+    <Record>
+      <Key>Narration16T</Key>
+      <Value>Секция B</Value>
+    </Record>
+    <Record>
+      <Key>Narration16D</Key>
+      <Value>Группа оценки ODA убеждена, что вы не представляете для себя непосредственной угрозы. Молодец, Кадет.
+Перейдите к следующей области тренировочной базы для Части II - ознакомления с основами строительства.</Value>
+    </Record>
+    <Record>
+      <Key>EnterAreaT1Disc</Key>
+      <Value>Двигайтесь в секцию B тренировочной базы.</Value>
+    </Record>
+    <Record>
+      <Key>EnterAreaT3</Key>
+      <Value>Войдите в следующий шлюз</Value>
+    </Record>
+    <Record>
+      <Key>Narration17T</Key>
+      <Value>Секция B</Value>
+    </Record>
+    <Record>
+      <Key>ControlJetpackToggleDisc</Key>
+      <Value>Активировать реактивный ранец</Value>
+    </Record>
+    <Record>
+      <Key>ControlJetpackAsendMovementDisc</Key>
+      <Value>Набирать высоту</Value>
+    </Record>
+    <Record>
+      <Key>ControlJetpackDesendMovementDisc</Key>
+      <Value>Снижаться</Value>
+    </Record>
+    <Record>
+      <Key>Narration17D</Key>
+      <Value>На этом этапе тестирования вы либо овладеете базовыми строительными навыками, либо у вас закончится воздух.
+Строительная площадка слишком высока, поэтому давайте проверим ваш реактивный ранец.</Value>
+    </Record>
+    <Record>
+      <Key>Narration18T</Key>
+      <Value>Каркасы</Value>
+    </Record>
+    <Record>
+      <Key>Narration18D</Key>
+      <Value>Простые в сборке и герметизации, железные каркасы являются фундаментом для любой конструкции станционера.
+Поднимите каркасы, нажав ПКМ войдите в режим строительства, а затем используя ЛКМ размещайте их.</Value>
+    </Record>
+    <Record>
+      <Key>BuildTheFrames</Key>
+      <Value>Используйте листы железа и горелку чтобы обшить каркасы</Value>
+    </Record>
+    <Record>
+      <Key>Narration19T</Key>
+      <Value>Каркасы</Value>
+    </Record>
+    <Record>
+      <Key>Narration19D</Key>
+      <Value>Большинство конструкций станционеров состоит из нескольких этапов сборки. Доделайте каркасы и сделайте их герметичными, приварив к ним листы железа.
+Вам потребуется горелка в активной руке и листы железа в другой.</Value>
+    </Record>
+    <Record>
+      <Key>PickUpT1 9</Key>
+      <Value>Возьмите железные каркасы из ящика</Value>
+    </Record>
+    <Record>
+      <Key>BuildFrameT1Disc</Key>
+      <Value>Доделайте недостроенную крышу железными листами.</Value>
+    </Record>
+    <Record>
+      <Key>IronFrameBuildTaskT1</Key>
+      <Value>Постройте каркас #1 в подсвеченной области</Value>
+    </Record>
+    <Record>
+      <Key>IronFrameBuildTaskT2</Key>
+      <Value>Постройте каркас #2 в подсвеченной области</Value>
+    </Record>
+    <Record>
+      <Key>PickUpT1 4</Key>
+      <Value>Возьмите железные листы из ящика</Value>
+    </Record>
+    <Record>
+      <Key>UsePrimeControlsBuildDisc</Key>
+      <Value>Построить</Value>
+    </Record>
+    <Record>
+      <Key>FinsihFramesT1Disc</Key>
+      <Value>Экипируйтесь сварочный аппаратом и стальными листами из ящика, чтобы доделать тренировочную базу.</Value>
+    </Record>
+    <Record>
+      <Key>FillingWithAirT1Disc</Key>
+      <Value>Наполните базу пригодной для дыхания атмосферой.</Value>
+    </Record>
+    <Record>
+      <Key>OpenTheAPCPanel</Key>
+      <Value>Откройте ИБП с помощью лома из ящика</Value>
+    </Record>
+    <Record>
+      <Key>TurnOnAPC</Key>
+      <Value>Включите ИБП</Value>
+    </Record>
+    <Record>
+      <Key>TurningOnTheOXygen</Key>
+      <Value>Подождите пока внешнее давление достигнет 60кПа.</Value>
+    </Record>
+    <Record>
+      <Key>OpenHelmT1Disc</Key>
+      <Value>Откройте шлем вашего скафандра.</Value>
+    </Record>
+    <Record>
+      <Key>OpenHelmT1Task</Key>
+      <Value>Разблокируйте шлем</Value>
+    </Record>
+    <Record>
+      <Key>OpenHelmT2Task</Key>
+      <Value>Откройте шлем</Value>
+    </Record>
+    <Record>
+      <Key>Narration20T</Key>
+      <Value>Каркасы</Value>
+    </Record>
+    <Record>
+      <Key>FinishFrameT1</Key>
+      <Value>Закончите каркасы: листы железа + газовая горелка (активная рука)</Value>
+    </Record>
+    <Record>
+      <Key>Narration20D</Key>
+      <Value>База теперь герметична, поэтому вы можете добавить атмосферы. Активируйте источник бесперебойного питания (ИБП), чтобы включить активную вентиляцию и запустить приток воздуха в комнату.
+Следите за внешним давлением на панели состояния.</Value>
+    </Record>
+    <Record>
+      <Key>Narration21T</Key>
+      <Value>Последняя фаза</Value>
+    </Record>
+    <Record>
+      <Key>Narration21D</Key>
+      <Value>Хорошо, Кадет, вы почти закончили Фазу I Практического Тестирования Станционеров.
+Если вы хотите научиться большему, обратитесь к Stationpedia, нажав F1.</Value>
+    </Record>
+    <Record>
+      <Key>Narration22T</Key>
+      <Value>Последняя фаза</Value>
+    </Record>
+    <Record>
+      <Key>Narration22D</Key>
+      <Value>Хорошо, Кадет, вы почти закончили Фазу I Практического Тестирования Станционеров.
+Если вы хотите научиться большему, обратитесь к Stationpedia, нажав F1. Как только вы прочитаете, закройте Stationpedia. Скоро вы будете проводить дополнительные испытания, а пока будьте как дома.
+Снимите костюм и положите его в шкафчик для хранения вещей.</Value>
+    </Record>
+    <Record>
+      <Key>GettingHelp</Key>
+      <Value>Откройте Stationpedia, и перейдите в раздел &apos;Персональные&apos;.</Value>
+    </Record>
+    <Record>
+      <Key>GettingHelpClose</Key>
+      <Value>Закройте Stationpedia</Value>
+    </Record>
+    <Record>
+      <Key>Narration23T</Key>
+      <Value>Последняя фаза</Value>
+    </Record>
+    <Record>
+      <Key>Narration23D</Key>
+      <Value>Отлично, Кадет. Это последний этап Фазы I. ODA будет рада, что вы выжили так далеко.
+Нажмите синюю кнопку &apos;Завершить&apos;, чтобы передать результаты руководству станционеров.</Value>
+    </Record>
+    <Record>
+      <Key>HangUpSuitT1Disc</Key>
+      <Value>Переместите ваш скафандр в шкафчик для хранения.</Value>
+    </Record>
+    <Record>
+      <Key>HangHelm</Key>
+      <Value>Переместите ваш шлем в стойку для скафандра</Value>
+    </Record>
+    <Record>
+      <Key>HangSuit</Key>
+      <Value>Перетяните ваш скафандр на стойку для скафандра</Value>
+    </Record>
+    <Record>
+      <Key>HangPack</Key>
+      <Value>Переместите рюкзак в стойку для скафандра</Value>
+    </Record>
+    <Record>
+      <Key>JetpackOn</Key>
+      <Value>Включите реактивный ранец</Value>
+    </Record>
+    <Record>
+      <Key>JetpackOff</Key>
+      <Value>Выключите реактивный ранец</Value>
+    </Record>
+    <Record>
+      <Key>JetpackT1Disc</Key>
+      <Value>Протестируйте управление вашим реактивным ранцем.</Value>
+    </Record>
+    <Record>
+      <Key>PickUpT1 6</Key>
+      <Value>Поднимите горелку со стола</Value>
+    </Record>
+    <Record>
+      <Key>FillOutPaperworkT1Disc</Key>
+      <Value>Нажмите большую синюю кнопку чтобы передать результаты.</Value>
+    </Record>
+    <Record>
+      <Key>OnButtonPressTaskT1</Key>
+      <Value>Нажмите кнопку &apos;Подтвердить&apos; чтобы завершить тест</Value>
+    </Record>
+    <Record>
+      <Key>UIBasicsEndDescription</Key>
+      <Value>Поздравляю. Ваши результаты были получены руководством станционеров &apos;Агентства по развитию внешнего мира&apos; (ODA).</Value>
+    </Record>
+    <Record>
+      <Key>Dropflare</Key>
+      <Value>Бросьте сигнальный огонь в вашей правой руке</Value>
+    </Record>
+    <Record>
+      <Key>NarrationClose</Key>
+      <Value>Закрыть Панель Повествования</Value>
+    </Record>
+    <Record>
+      <Key>1GetWaterBottle</Key>
+      <Value>Достаньте бутылку воды из слота униформы</Value>
+    </Record>
+    <Record>
+      <Key>1DrinkWater</Key>
+      <Value>Попейте воды</Value>
+    </Record>
+    <Record>
+      <Key>1NarrationExtra1</Key>
+      <Value>Все эти тренировки вызвали у вас жажду. Вам нужно пить воду для регидратации. К счастью, у вас есть немного в заднем кармане.</Value>
+    </Record>
+  </Interface>
+</Language>

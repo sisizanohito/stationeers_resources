@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Code>FR</Code>
+  <Interface>
+    <Record>
+      <Key>TutoiralAirlocks</Key>
+      <Value>Sas</Value>
+    </Record>
+    <Record>
+      <Key>TutoiralAirlocksDescription</Key>
+      <!--This is the description that appears in the menu-->
+      <Value>Rafraîchissez vos connaissances sur la construction de sas.</Value>
+    </Record>
+    <Record>
+      <Key>TutoiralAtmosphericsSubTitle</Key>
+      <Value>Formation pratique : Étape IV</Value>
+    </Record>
+    <Record>
+      <Key>IntoTutoiralAirlocksDescription</Key>
+      <!--This is the intro panel at the start of the tutorial-->
+      <Value>Bienvenue Cadet. A la fin de cette phase de test, vous allez pressuriser votre base, nous vous guiderons dans la construction de sas basique.</Value>
+    </Record>
+    <Record>
+      <Key>4Narration1T</Key>
+      <Value>Formation pratique : Étape IV</Value>
+    </Record>
+    <Record>
+      <Key>4Narration1D</Key>
+      <Value>Avant de commencer, on dirait que votre combinaison a subi des dégâts. Utilisez du ruban adhésif pour la réparer.</Value>
+    </Record>
+    <Record>
+      <Key>4GetDucktape</Key>
+      <Value>Ramassez le ruban adhésif dans la caisse et mettez-le  dans votre main active.</Value>
+    </Record>
+    <Record>
+      <Key>4UseDuctTape</Key>
+      <Value>Réparez votre combinaison.</Value>
+    </Record>
+    <Record>
+      <Key>4Narration2D</Key>
+      <Value>Commençons. Pour construire un sas, vous allez avoir besoin de deux kits de porte. Commencez par ajouter les lingots de cuivre et d&apos;or dans le tour automatique.</Value>
+    </Record>
+    <Record>
+      <Key>4PutCopperIngotInAutoLathe</Key>
+      <Value>Ajouter un lingot de cuivre dans le tour automatique</Value>
+    </Record>
+    <Record>
+      <Key>4PutGoldIngotInAutoLathe</Key>
+      <Value>Ajouter un lingot d’or dans le tour automatique</Value>
+    </Record>
+    <Record>
+      <Key>4Narration3D</Key>
+      <Value>Vous pouvez maintenant imprimer deux kits de porte à l’aide du système de composition moléculaire multi-axes, alias le tour automatique. Ensuite vous commencerez à vous isoler de la solitude et du désespoir de l’espace.</Value>
+    </Record>
+    <Record>
+      <Key>4FabricateDoor</Key>
+      <Value>Imprimer deux Kit (Porte)</Value>
+    </Record>
+    <Record>
+      <Key>4Narration4D</Key>
+      <Value>Avant de pouvoir construire les portes de remplacement, le protocole ODA vous oblige à enlever les portes détruites.</Value>
+    </Record>
+    <Record>
+      <Key>T4Deconstruct1</Key>
+      <Value>Démonter la porte détruite #1.</Value>
+    </Record>
+    <Record>
+      <Key>T4Deconstruct2</Key>
+      <Value>Démonter la porte détruite #2.</Value>
+    </Record>
+    <Record>
+      <Key>4Narration5D</Key>
+      <Value>Bon travail. Maintenant, construisez des portes composites dans les zones en surbrillance.
+Vous aurez besoin de parcourir les options pour obtenir la variante de porte correcte.</Value>
+    </Record>
+    <Record>
+      <Key>4BuildPDoor1Tutorial</Key>
+      <Value>Construire la porte composite #1 dans la zone en surbrillance</Value>
+    </Record>
+    <Record>
+      <Key>4BuildDoor2Tutorial</Key>
+      <Value>Construire la porte composite #2 dans la zone en surbrillance</Value>
+    </Record>
+    <Record>
+      <Key>4BuildCornerCable1Tutorial</Key>
+      <Value>Connecter la porte #1 au réseau logique et électrique</Value>
+    </Record>
+    <Record>
+      <Key>4BuildCornerCable2Tutorial</Key>
+      <Value>Connecter la porte #2 au réseau logique et électrique</Value>
+    </Record>
+    <Record>
+      <Key>4Narration6D</Key>
+      <Value>Un capteur de gaz surveille la pression dans le sas. Vous devrez consulter la Stationpedia pour savoir quelle machine permet de le fabriquer.</Value>
+    </Record>
+    <Record>
+      <Key>OnStationpediaOpen</Key>
+      <Value>Ouvrir la Stationpedia (F1)</Value>
+    </Record>
+    <Record>
+      <Key>4PediaNavigation</Key>
+      <Value>Accédez à la page &apos;Kit (Capteur)&apos; pour trouver comment le fabriquer</Value>
+    </Record>
+    <Record>
+      <Key>4FabricateSensorKit</Key>
+      <Value>Fabriquer un Kit(Capteur)</Value>
+    </Record>
+    <Record>
+      <Key>4BuildGasSensorTutorial</Key>
+      <Value>Construire un capteur de gaz dans la zone en surbrillance</Value>
+    </Record>
+    <Record>
+      <Key>4Narration7D</Key>
+      <Value>Pour pressuriser un sas, vous avez besoin d’une ventilation active pour faire du aspirer/souffler l’air, et d’une ventilation passive pour permettre à l’air d&apos;entrer/sortir du réseau de tuyaux.</Value>
+    </Record>
+    <Record>
+      <Key>4FabricateItemPassiveVent</Key>
+      <Value>Fabriquer une ventilation passive</Value>
+    </Record>
+    <Record>
+      <Key>4GetActiveVent</Key>
+      <Value>Ramassez une Ventilation active dans la caisse</Value>
+    </Record>
+    <Record>
+      <Key>4BuildStructureActiveVent</Key>
+      <Value>Construire la ventilation active dans la zone en surbrillance à l’intérieur du SAS</Value>
+    </Record>
+    <Record>
+      <Key>4BuildStructurePassiveVent</Key>
+      <Value>Construire la ventilation passive dans la zone en surbrillance sur le mur</Value>
+    </Record>
+    <Record>
+      <Key>4Narration8D</Key>
+      <Value>Connecter les ventilations avec un réseau de tuyaux, afin de pomper l’air de la salle dans le SAS.</Value>
+    </Record>
+    <Record>
+      <Key>4BuildPipeCorner1Tutorial</Key>
+      <Value>Fixer le tuyau #1 à la ventilation active</Value>
+    </Record>
+    <Record>
+      <Key>4BuildPipeCorner2Tutorial</Key>
+      <Value>Fixer le tuyau #2 à la ventilation passive</Value>
+    </Record>
+    <Record>
+      <Key>4Narration9D</Key>
+      <Value>Les consoles Norsec vous permettent de contrôler et de surveiller différents systèmes, en fonction de leur configuration. Considérez-les comme des petits cerveaux rudimentaires.</Value>
+    </Record>
+    <Record>
+      <Key>4BuildConsoleTutorial</Key>
+      <Value>Construire la console dans la zone en surbrillance</Value>
+    </Record>
+    <Record>
+      <Key>4Narration10D</Key>
+      <Value>Les circuits imprimés sont programmés avec différentes fonctionnalités pour les consoles. Ici, vous avez besoin d’un {THING:CircuitboardAirlockControl}, et d’un {THING:ItemDataDisk} pour configurer la console.</Value>
+    </Record>
+    <Record>
+      <Key>4FabricateAirlcokCircuit</Key>
+      <Value>Fabriquer un Circuit Imprimé (Contrôle du sas)</Value>
+    </Record>
+    <Record>
+      <Key>4FabricateDataDisk</Key>
+      <Value>Fabriquer un disque de données</Value>
+    </Record>
+    <Record>
+      <Key>4FinsihConsole</Key>
+      <Value>Complétez la console avec une plaque de verre</Value>
+    </Record>
+    <Record>
+      <Key>4ConsoleOn</Key>
+      <Value>Allumer la console</Value>
+    </Record>
+    <Record>
+      <Key>4Narration11D</Key>
+      <Value>Pour configurer le SAS, vous insérez un disque de données dans la console. Ensuite, sélectionnez les éléments que vous souhaitez contrôler avec la console.
+Les dispositifs s&apos;affiche sur un fond VERT avec le texte en ROUGE lorsqu’ils sont sélectionnés.</Value>
+    </Record>
+    <Record>
+      <Key>4PediaOpen</Key>
+      <Value>Ouvrir la Stationpedia avec la touche F1</Value>
+    </Record>
+    <Record>
+      <Key>4Narration12D</Key>
+      <Value>Maintenant, sélectionnez les portes du sas : sélectionner la porte externe comme &apos;EXTERIOR&apos;, l’autre sera par défaut &apos;INTERNAL&apos;.</Value>
+    </Record>
+    <Record>
+      <Key>4GetpipeKit</Key>
+      <Value>Ramassez les Kit (Tuyau) dans la caisse</Value>
+    </Record>
+    <Record>
+      <Key>4GetConsole</Key>
+      <Value>Ramassez le Kit (Console) dans la caisse</Value>
+    </Record>
+    <Record>
+      <Key>4Narration13D</Key>
+      <Value>Une fois la configuration du sas terminée, l’interrupteur sur le côté de la console s’allume en vert. Retirer le disque de données de la console pour sortir du mode configuration.</Value>
+    </Record>
+    <Record>
+      <Key>4PutCircuitInConsole</Key>
+      <Value>Insérer le Circuit Imprimé (Contrôle du sas) dans la console</Value>
+    </Record>
+    <Record>
+      <Key>4Narration14D</Key>
+      <Value>Le sas est prêt. Donc maintenant vous pouvez pressuriser la base! Allumez le contrôleur d&apos;alimention pour remplir la pièce avec de l’air. Le système maintiendra une pression de 100kPa.</Value>
+    </Record>
+    <Record>
+      <Key>4Narration15D</Key>
+      <Value>A mesure que la pièce se remplit d’air, votre combinaison enregistre le changement de température et de pression externe.</Value>
+    </Record>
+    <Record>
+      <Key>4TurningOnTheOXygen</Key>
+      <Value>Attendez que la pression atteigne 92kPa</Value>
+    </Record>
+    <Record>
+      <Key>4Narration16D</Key>
+      <Value>Maintenant que la base est pressurisée, vous pouvez tester le sas en appuyant sur le bouton &apos;Cycle to Exterior&apos; de la console.</Value>
+    </Record>
+    <Record>
+      <Key>4OpenAirlock</Key>
+      <Value>Cycle du sas</Value>
+    </Record>
+    <Record>
+      <Key>4Narration17D</Key>
+      <Value>Bon travail, Cadet. Vous avez construit une base hermétique et pressurisée. C’est la dernière étape des tests pratiques de la phase IV. Retournez à l’intérieur et appuyez sur le Gros Bouton Bleu pour transmettre vos résultats à Stationeer Command.</Value>
+    </Record>
+    <Record>
+      <Key>4AirlockProggramGasSensor</Key>
+      <Value>Sélectionnez le Capteur de Gaz</Value>
+    </Record>
+    <Record>
+      <Key>4AirlockProggramActiveVent</Key>
+      <Value>Sélectionnez la Ventilation Active</Value>
+    </Record>
+    <Record>
+      <Key>4AirlockExternalDoor</Key>
+      <Value>Sélectionnez la Porte Extérieure comme &apos;EXTERIOR&apos;</Value>
+    </Record>
+    <Record>
+      <Key>4AirlockInternalDoor</Key>
+      <Value>Sélectionnez Porte Interieur comme &apos;INTERIOR&apos;</Value>
+    </Record>
+    <Record>
+      <Key>4GetDataDisk2</Key>
+      <Value>Retirer le disque de données</Value>
+    </Record>
+    <Record>
+      <Key>4FlipSwitch</Key>
+      <Value>Allumez le Contrôleur d&apos;Alimention pour commencer la pressurisation.</Value>
+    </Record>
+    <Record>
+      <Key>4FinishDoor1</Key>
+      <Value>Terminer la construction de la porte #1</Value>
+    </Record>
+    <Record>
+      <Key>4FinishDoor2</Key>
+      <Value>Terminer la construction de la porte #2</Value>
+    </Record>
+    <Record>
+      <Key>4Narration55D</Key>
+      <Value>En tant que Stationeer, vous avez besoin de finir les choses : Compléter la construction des portes en utilisant les ressources de la caisse. Vous saurez ce dont vous avez besoin grâce à l&apos;IA de  votre casque et son affichage tête haute intégré.</Value>
+    </Record>
+    <Record>
+      <Key>4Narration56D</Key>
+      <Value>Nommer les éléments sur le réseau de données réduit la confusion : Utilisez l’étiqueteuse pour renommer les portes intérieure et extérieure.</Value>
+    </Record>
+    <Record>
+      <Key>4GetLabeler</Key>
+      <Value>Équipez-vous de l&apos;{THING:ItemLabeller} dans la caisse</Value>
+    </Record>
+    <Record>
+      <Key>4LabelerOn</Key>
+      <Value>Allumez l’{THING:ItemLabeller}</Value>
+    </Record>
+    <Record>
+      <Key>4CustomName</Key>
+      <Value>Renommer la porte intérieure &apos;Porte intérieure&apos;</Value>
+    </Record>
+    <Record>
+      <Key>4CustomName2</Key>
+      <Value>Renommer la porte extérieure &apos;Porte extérieure&apos;</Value>
+    </Record>
+    <Record>
+      <Key>4PutDataDiskInConsole</Key>
+      <Value>Insérer le disque de données dans la console</Value>
+    </Record>
+  </Interface>
+</Language>

@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Português</Name>
+  <Code>PT</Code>
+  <Interface>
+    <Record>
+      <Key>TutorialTitleWearSpacesuit</Key>
+      <Value>Vestir o Fato Espacial</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskWearHelmet</Key>
+      <Value>Veste o {THING:ItemSpaceHelmet}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskWearSuit</Key>
+      <Value>Veste o {THING:ItemEvaSuit}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskWearJetpack</Key>
+      <Value>Veste o {THING:ItemSpacepack}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescPickupHelmet</Key>
+      <Value>Encontra o {THING:ItemSpaceHelmet} e coloca-o na tua {SLOT:LeftHand} ou na tua {SLOT:RightHand} carregando no botão {KEY:PrimaryAction} sobre o verde interativo que vês quando olhas para ele. Para mais informações lê a secção {LINK:InventoryPage;Inventário} na {LINK:Home;Stationpedia}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescWearHelmet</Key>
+      <Value>Tens duas maneiras de interagir com o teu {LINK:InventoryPage;Inventário}: atalhos de teclas ou controlo por rato. Ambas tens vantagens e desvantagens.
+
+Clica e mantêm pressionada a tecla {KEY:MouseControl} para fazeres aparecer o cursor do rato para arrastares e largares o {THING:ItemSpaceHelmet} no compartimento do teu {SLOT:Helmet}. Ou carrega e mantêm pressionada a tecla {KEY:HelmetSlot} até o teu {THING:ItemSpaceHelmet} se mova para o compartimento {SLOT:Helmet}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescPickupSuit</Key>
+      <Value>Encontra o {THING:ItemEvaSuit} e coloca-o na tua {SLOT:LeftHand} ou na tua {SLOT:RightHand}. Desta vez tenta arrastar o {THING:ItemEvaSuit} diretamente para o compartimento {SLOT:Suit}, é muito mais rápido. Mantém pressionada a tecla {KEY:MouseControl} e move o teu cursor do rato sobre o {THING:ItemEvaSuit}, mantém pressionada a tecla {KEY:PrimaryAction} e arrasta-o para o compartimento do {SLOT:Suit}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescWearSuit</Key>
+      <Value>Carrega e mantém pressionada a tecla {KEY:SuitSlot}, ou clica e mantém pressionado a {KEY:MouseControl} para fazer aparecer o rato do cursor, para equipar o {THING:ItemEvaSuit} no teu {SLOT:Suit}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescPickupJetpack</Key>
+      <Value>Encontra a {THING:ItemSpacepack} e coloca-a no na tua {SLOT:LeftHand} ou na tua {SLOT:RightHand} clicando no botão {KEY:PrimaryAction} sobre o verde interativo que vês quando olhas para ele.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescWearJetpack</Key>
+      <Value>Carrega e mantém pressionada a tecla {KEY:BackSlot} ou clica e mantém pressionado a tecla  {KEY:MouseControl} para fazer aparecer o rato do cursor e equipar a {THING:ItemSpacepack} no teu {SLOT:Suit}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTitlePowerSuit</Key>
+      <Value>Alimentando o fato espacial</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescPowerSuit</Key>
+      <Value>Encontra uma {THING:ItemBatteryCellLarge}, apanha-a para a tua {SLOT:LeftHand} ou para a  {SLOT:RightHand} olhando para ela e carregando na tecla {KEY:PrimaryAction}. Podes arrastar a {THING:ItemBatteryCellLarge} diretamente para o {THING:ItemEvaSuit} para poupar tempo.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescPowerSuit2</Key>
+      <Value>Abra o seu {THING:ItemEvaSuit} pressionando na tecla {KEY:SuitSlot}, ou mantendo pressionada a tecla {KEY:MouseControl} e depois clicando no compartimento do {SLOT:Suit}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskLifesupportSuit1</Key>
+      <Value>Apanhe uma {THING:ItemBatteryCellLarge}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskLifesupportSuit2</Key>
+      <Value>Abra a janela do compartimento do {THING:ItemEvaSuit}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskLifesupportSuit4</Key>
+      <Value>Equipa o {THING:ItemEvaSuit} com uma {THING:ItemBatteryCellLarge}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescLifesupport1</Key>
+      <Value>Podes interagir com o compartimento {SLOT:Suit} carregando e largando a {KEY:SuitSlot} ou mantendo pressionada a tecla {KEY:MouseControl} e clicando no compartimento {SLOT:Suit}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescLifesupport2</Key>
+      <Value>{COLORRED:Precisas de usar o {THING:ItemEvaSuit} para continuar. Por favor, vista-o novamente.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescLifesupport4</Key>
+      <Value>Enquanto pressionas a {KEY:MouseControl} arrasta a {THING:ItemBatteryCellLarge} para o compartimento {SLOT:LifeSupport} no {THING:ItemEvaSuit}. Podes também rodar a  {COLORRED:Mouse Wheel} e usar a tecla {KEY:InventorySelect} para trocar a {THING:ItemBatteryCellLarge}. Lembra-te que podes carregar a tecla {KEY:SwapHands} para trocar o que tens na mão que está ativa.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTitleSuitFilter</Key>
+      <Value>Equipando um filtro</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescFilter1</Key>
+      <Value>Encontra um {THING:ItemGasFilterCarbonDioxide} e coloca-o na tua {SLOT:LeftHand} ou na tua {SLOT:RightHand} olhando-o e carregando no botão {KEY:PrimaryAction}. Mais uma vez, podes simplesmente arrastar o {THING:ItemGasFilterCarbonDioxide} do mundo directamente para o {THING:ItemEvaSuit} para poupar tempo. Este filtro remove {GAS:CarbonDioxide} do teu {THING:ItemEvaSuit}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskFilter1</Key>
+      <Value>Apanha um {THING:ItemGasFilterCarbonDioxide}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskFilter2</Key>
+      <Value>Abra a janela de compartimentos do {THING:ItemEvaSuit}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskFilter4</Key>
+      <Value>Equipa o {THING:ItemEvaSuit} com um {THING:ItemGasFilterCarbonDioxide}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescFilter2</Key>
+      <Value>Podes interagir com o compartimento {SLOT:Suit} carregando e largando a tecla {KEY:SuitSlot} ou mantendo pressionada a tecla {KEY:MouseControl} e clicando no compartimento {SLOT:Suit}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescFilter3</Key>
+      <Value>Podes selecionar compartimentos dentro do {THING:ItemEvaSuit} usando a {COLORRED:Roda do Mouse}. Seleciona qualquer dos compartimentos internos {SLOT:Filter} para continuar.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescFilter4</Key>
+      <Value>Enquanto manténs pressionada tecla {KEY:MouseControl} arrasta o  {THING:ItemGasFilterCarbonDioxide} para qualquer compartimento {SLOT:Filter} no teu {THING:ItemEvaSuit}. Podes também usar a {COLORRED:Mouse Wheel} e usar a tecla {KEY:InventorySelect} para trocar o {THING:ItemGasFilterCarbonDioxide}. Lembra-te que podes usar a tecla {KEY:SwapHands} para trocares o que tens na mão que está ativa.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTitleGetTools</Key>
+      <Value>Obter Equipamento de Construção</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescGetTools1</Key>
+      <Value>Agora precisamos de nos deslocar para fora da Estação para fazermos alguns reparos. Deixa tudo o que tenhas nas mãos usando a tecla {KEY:Drop} de modo a que possas apanhar outras coisas. Lembra-te que podes usar a tecla {KEY:MouseControl} para ativares o rato e fazeres a gestão na {LINK:InventoryPage;inventory}, e podes mudar a {COLORYELLOW:Active Hand} carregando na tecla {KEYS:SwapHands}.
+
+Para fazer a gestão do {LINK:InventoryPage;inventory} bem feito é preciso alguma destreza e prática; Pensa e faz os teus planos cuidadosamente sobre o que vais levar contigo. Esquecer de ter uma {THING:ItemGasCanisterOxygen} ou uma {THING:ItemBatteryCellLarge} pode ser desastroso. É também fácil perderes-te. Tem cuidado!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescGetTools2</Key>
+      <Value>Apanha um {THING:ItemToolBelt} e coloca-o no compartimento {SLOT:Belt} carregando na tecla {KEY:ToolBeltSlot}, ou arrastando-o para o compartimento enquanto carregas e mantens pressionada a tecla {KEY:MouseControl}. O teu compartimento {SLOT:Belt} permite-te ter cintos que contém minérios e outras ferramentas.
+
+O {THING:ItemMiningBelt} tem compartimentos especializados {LINK:OrePage;Ore} que vão automaticamente enchendo conforme vais usando uma {THING:ItemMiningDrill}. Lê mais sobre o assunto {LINK:MiningPage;Mining}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskGetTools1</Key>
+      <Value>Deixa cair o {THING:ItemTablet}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskGetTools2</Key>
+      <Value>Veste o {THING:ItemToolBelt} no compartimento {SLOT:Belt}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskGetTools3</Key>
+      <Value>Apanha as {THING:ItemSteelSheets} com a {SLOT:LeftHand} ou com a {SLOT:RightHand}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTitleGoInAirlock</Key>
+      <Value>Indo ao espaço</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescGoInAirlock1</Key>
+      <Value>Passa pela {THING:StructureAirlock} e assegura que o teu {THING:ItemEvaSuit} e o {THING:ItemSpaceHelmet} estão prontos. Carrega na tecla {KEY:HelmetSlot} para veres o menu de interações e então ou clicas numa interação ou percorre o menu até fechares as opções e carrega na tecla {KEY:InventorySelect} para alternares o seu estado, ou carrega na tecla {KEY:Internals} para rapidamente alternares o {COLORYELLOW:Internals} entre ligado ou desligado.
+
+Nota no lado direito do ecrã, vês ícones que permitem-te saber o estado e também que tipo de ações rápidas foram ativadas. Presta atenção a estes status e indicadores de avisos pois eles podem salvar-te a vida!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskGoInAirlock1</Key>
+      <Value>Fecha o visor do teu {THING:ItemSpaceHelmet}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskGoInAirlock2</Key>
+      <Value>Passa pela {THING:StructureAirlock} até à sala amarela</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTitleCycleAirlock</Key>
+      <Value>Alterna a airlock</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescCycleAirlock1</Key>
+      <Value>Podes alternar a Airlock usando a {THING:StructureConsole} ou o teclado interativo em qualquer das portas do {THING:StructureAirlock}. Isto irá despressurizar as ailocks de modo que possas ir para o espaço.
+
+A {THING:CircuitboardAirlockControl} na {THING:StructureConsole} está a controlar as {THING:StructureActiveVent} e outros dispositivos para fazer os ciclos da airlock. Se reparares no canto superior direito do ecrã, verás os símbolos informativos da pressão {COLORYELLOW:Internal} e {COLORYELLOW:External}.
+
+Enquanto tiveres vestido o teu fato, terás informação sobre a sua atmosfera interna assim como uma possível atmosfera exterior, por isso toma atenção às informações de atmosferas para te manteres seguro.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskCycleAirlock1</Key>
+      <Value>Alternar a Airlock</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTitleRepairCable</Key>
+      <Value>Reparar um cabo estragado</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescRepairCable1</Key>
+      <Value>Um {THING:StructureCableStraight} pode transportar tanto {COLORYELLOW:Data} como {COLORYELLOW:Power}, mas serão danificados se forem submetidos a mais energia do que podem suportar. Existe um {THING:StructureCableJunction} estragado algures debaixo da {THING:StructureAirlock} que acabaste de sair. Encontra-o e remove-o usando o {THING:ItemWireCutters} que está no teu {THING:ItemToolBelt}.
+
+Lembra-te que existem duas maneiras de interagir com o teu {LINK:InventoryPage;inventário}. Podes clicar e manter a pressionada a tecla {KEY:MouseControl} para ativares o cursor do rato e então arrastar e largar ou então abrir coisas com o rato. Para um controlo rápido, carrega na tecla {KEY:ToolBeltSlot} para abrires o teu compartimento do {SLOT:Belt}. Carrega no {KEY:InventorySelect} para alternares a seleção do compartimento interior para as tuas mãos.
+
+Se te encontrares com demasiadas janelas abertas, podes fechar todas usando a tecla {KEY:HideAllWindows}, podes também ativar uma janela individual com a sua respetiva tecla de atalho ou podes carregar no seu respetivo compartimento enquanto o rato de cursor estiver ativo com a tecla {KEY:MouseControl}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskRepairCable1</Key>
+      <Value>Equipa o teu {THING:ItemWireCutters}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskRepairCable2</Key>
+      <Value>Remove o {THING:StructureCableJunctionBurnt}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskRepairCable3</Key>
+      <Value>Equipa o teu {THING:ItemCableCoil}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskRepairCable4</Key>
+      <Value>Substitui o {THING:StructureCableJunction} com um {THING:ItemCableCoil}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescRepairCable2</Key>
+      <Value>Olha para o {THING:StructureCableJunctionBurnt} enquanto o {THING:ItemWireCutters} está na tua mão activa. Verás uma caixa {COLORYELLOW:yellow} à sua volta. Carrega e mantém pressionada a tecla {KEY:PrimaryAction} para remover o {THING:StructureCableJunctionBurnt}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescRepairCable3</Key>
+      <Value>Agora precisas de colocar um {THING:StructureCableJunction}. Move o {THING:ItemCableCoil} do teu {THING:ItemToolBelt} para a tua {SLOT:LeftHand} ou para a {SLOT:RightHand}.
+
+Poderás ter a necessidade de libertar o que tens nas mãos, movendo as {THING:ItemSteelSheets} para a tua mochila. Poderias deixá-las cair, mas vais precisar delas mais tarde!
+
+Lembra-te que {KEY:InventorySelect} interage com os compartimentos interiores e ações e a tecla {KEY:ToolBeltSlot} abre e fecha o teu {SLOT:Belt}. Como sempre, poderás ativar o cursor do rato carregando na tecla {KEY:MouseControl}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescRepairCable4</Key>
+      <Value>Com o {THING:ItemCableCoil} na tua {COLORYELLOW:Active Hand}, carrega na tecla {KEY:SecondaryAction} para ativares o cursor de {LINK:ConstructionPage;construção}.
+
+Usa a {COLORRED:Mouse Wheel} para mudares o tipo de cabo a ser colocado, selecionando as variantes de {THING:StructureCableJunction}.
+
+Os esquemas de colocação contém informações importantes de conexões, o pequeno símbolo de adição indica que o item liga-se a uma rede aqui. Certifica-te que a tua conexão esteja exatamente alinhada.
+
+Carrega em {KEY:QuantityModifier} e o objeto tentará fazer a melhor conexão possível, de outro modo poderás usar as teclas de rotação.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTitleFinishFrame</Key>
+      <Value>Acaba a soldagem da estrutura</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescFinishFrame</Key>
+      <Value>Algumas ferramentas requerem duas coisas para serem operadas. Para soldar uma {THING:StructureFrame} precisarás de uma {THING:ItemWeldingTorch} na tua mão ativa e {THING:ItemSteelSheets} na tua outra mão. Uma tecla rápida, {KEY:ToggleHandPower}, irá rapidamente ligar e desligar qualquer ferramenta da tua mão ativa, ou poderás fazê-lo pelo menu de interações.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskFinishFrame1</Key>
+      <Value>Solda a {THING:StructureFrame}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTitleTablet</Key>
+      <Value>Interagindo com Itens nas mãos</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescTablet1</Key>
+      <Value>Apanhe uma {THING:ItemTablet} e uma {THING:ItemBatteryCellLarge} para a tua {SLOT:LeftHand} ou para a tua {SLOT:RightHand}, olhando para ela e clicando {KEY:PrimaryAction}. Podes mudar a tua mão ativa carregando na tecla {KEY:SwapHands}. Isto vai permitir colocar um item em cada mão. Faz isto para continuar.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescTablet2</Key>
+      <Value>Podes interagir com a tua mão ativa carregando e mantendo pressionada a tecla {KEY:ActiveHandSlot} ou clicando nela. Isto irá abrir a janela do {LINK:InventoryPage;inventory} para a mão. Podes mudar a tua mão ativa com a tecla {KEY:SwapHands}. Seleciona a {THING:ItemTablet} como tua mão ativa e abre o compartimento interior para continuar.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescTablet4</Key>
+      <Value>Insere a {THING:ItemBatteryCellLarge} no compartimento {Slot:Battery} da {THING:ItemTablet}. Usa o rato para arrastares e largares, mantendo pressionada a tecla {KEY:MouseControl} ou então carrega na tecla {KEY:InventorySelect} para equipares no respectivo compartimento {SLOT:Battery}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskTablet1</Key>
+      <Value>Apanha um {THING:ItemTablet}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskTablet2</Key>
+      <Value>Apanha uma {THING:ItemBatteryCellLarge}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskTablet3</Key>
+      <Value>Abre a janela do compartimento {THING:ItemTablet} nas mãos</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskTablet5</Key>
+      <Value>Coloca uma {THING:ItemBatteryCellLarge} no compartimento {SLOT:Battery}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTitleUseReader</Key>
+      <Value>Usando o {THING:CartridgeElectronicReader}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescUseReader1</Key>
+      <Value>O {THING:ItemTablet} pode conter diferentes cartuchos para diferentes funções. Estes incluem {THING:CartridgeAtmosAnalyser} para verificar atmosferas, o {THING:CartridgeNetworkAnalyser} para analisar correntes de energia e redes lógicas e muito mais.
+
+Liga a {THING:ItemTablet} usando a tecla {KEY:ToggleHandPower}, clica no botão de interação com a tecla {KEY:MouseControl} ou escolhe interação nas tuas mãos e carrega na tecla {KEY:ActiveHandSlot}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescUseReader2</Key>
+      <Value>A {THING:ItemTablet} tem um {THING:CartridgeElectronicReader} inserido. Isto mostra os esquemas que precisas para fazer todas as coisas no jogo e onde podem ser feitas. Encontra a  {COLORYELLOW:Recipe #VAR1#} que te permite fazer um {THING:ItemMuffin} usando a {COLORRED:Mouse Wheel} para escolheres entre as opções.
+
+Usando vários cartuchos vai permitir te aceder a várias funções, assim como um {THING:CartridgeNetworkAnalyser} para verificar redes, ou um {THING:CartridgeAtmosAnalyser} que mostra te informações atmosféricas.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskUseReader1</Key>
+      <Value>Liga a {THING:ItemTablet}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskUseReader2</Key>
+      <Value>Encontra a {COLORYELLOW:Receita #VAR1#} para fazer um {THING:ItemMuffin}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTitleBakeMuffin</Key>
+      <Value>Prepara um {THING:ItemMuffin}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescBakeMuffin1</Key>
+      <Value>Alguns dispositivos no jogo são montados numa {THING:StructureBench}; eles são chamados de {LINK:AppliancePage;Appliances}. Apanha um {THING:ApplianceMicrowave} e coloca-te em frente a uma {THING:StructureBench}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescBakeMuffin2</Key>
+      <Value>Carrega na tecla {KEY:Drop} para largares o {THING:ApplianceMicrowave} em cima da {THING:StructureBench}. Continua até que o {THING:ApplianceMicrowave} esteja colocado em cima da {THING:StructureBench}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescBakeMuffin3</Key>
+      <Value>Olhando para o {THING:ApplianceMicrowave}. Olha para os lados invés da porta, de modo que estejas apontando o item diretamente e não para tentar abri-lo. Quando vires uma {COLORYELLOW:caixa amarela}, mantém pressionado a tecla {KEY:PrimaryAction} para o fixares com a chave inglesa na {THING:StructureBench}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescBakeMuffin4</Key>
+      <Value>Olha para a porta no {THING:ApplianceMicrowave}. Carrega a tecla {KEY:PrimaryAction} para abrires a porta e permitir que coloques os reagentes no seu interior.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescBakeMuffin5</Key>
+      <Value>Arranja os ingredientes necessários que tens na lista e olha para o interior do {THING:ApplianceMicrowave} com a tua mão ativa. Continua a clicar na {KEY:PrimaryAction} para adicionares a quantidade necessária. Não adiciones mais do que é necessário para a receita. terás de fazer isto duas vezes para algumas receitas.
+
+Se adicionares a mais, deixa cair o que tens na mão {KEY:Drop} e olha para o {THING:ApplianceMicrowave} com a porta aberta para ativares a ação   {COLORYELLOW:Clear} e assim recomeçares novamente.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescBakeMuffin6</Key>
+      <Value>Agora liga o {THING:ApplianceMicrowave}, carregando no botão da direita no dispositivo. O dispositivo irá cozinhar a tua receita. Se a receita estiver correta, então terás feito um {THING:ItemMuffin}. Se tal não for o caso, o produto final não será nada.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescBakeMuffin7</Key>
+      <Value>Abre o teu {THING:ItemSpacepack} carregando na tecla {KEY:BackSlot} ou ativando o controlo por rato com a tecla {KEY:MouseControl} e clica nela. Move a {THING:ItemWrench} para a tua mão arrastando e largando ou usando a {COLORRED:Mouse Wheel} e carregando na tecla {KEY:InventorySelect} para trocares para a tua mão.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskBakeMuffin1</Key>
+      <Value>Apanha o {THING:ApplianceMicrowave}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskBakeMuffin2</Key>
+      <Value>Coloca-o na {THING:StructureBench}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskBakeMuffin3</Key>
+      <Value>Fixa o {THING:ApplianceMicrowave} no lugar</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskBakeMuffin11</Key>
+      <Value>Pega na {THING:ItemWrench} da tua {THING:ItemSpacepack}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskBakeMuffin4</Key>
+      <Value>Coloca {COLORYELLOW:50g} de {THING:ItemFlour} no {THING:ApplianceMicrowave}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskBakeMuffin5</Key>
+      <Value>Coloca {COLORYELLOW:one} {THING:ItemEgg} no {THING:ApplianceMicrowave}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskBakeMuffin6</Key>
+      <Value>Coloca {COLORYELLOW:10ml} de {THING:ItemMilk} no {THING:ApplianceMicrowave}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskBakeMuffin7</Key>
+      <Value>Abre o {THING:ApplianceMicrowave}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskBakeMuffin8</Key>
+      <Value>Cozinha um {THING:ItemMuffin}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskBakeMuffin9</Key>
+      <Value>Fecha a porta do {THING:ApplianceMicrowave}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskBakeMuffin10</Key>
+      <Value>Liga o {THING:ApplianceMicrowave}</Value>
+    </Record>
+  </Interface>
+</Language>

@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Code>ES</Code>
+  <Interface>
+    <Record>
+      <Key>Tutorial-BasicRocketry</Key>
+      <Value>Cohetería</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial-BasicRocketryDescription</Key>
+      <Value>Un repaso de la ciencia espacial.</Value>
+    </Record>
+    <Record>
+      <Key>LaunchPlatforms</Key>
+      <Value>Empezando en cohetería</Value>
+    </Record>
+    <Record>
+      <Key>LaunchPlatformsDescription</Key>
+      <Value>Antes de que puedas lanzar un cohete, necesitas construir una plataforma de lanzamiento.</Value>
+    </Record>
+    <Record>
+      <Key>LaunchPlatformsTask1</Key>
+      <Value>Sigue la pasarela hasta el lugar de lanzamiento y recoge la {THING:ItemKitStructureLaunchPad} en la caja blanca.</Value>
+    </Record>
+    <Record>
+      <Key>LaunchPlatformsTask2</Key>
+      <Value>Construye el {THING:StructureLaunchPad} en el lugar resaltado.</Value>
+    </Record>
+    <Record>
+      <Key>LaunchPlatforms2</Key>
+      <Value>Construyendo la plataforma de lanzamiento</Value>
+    </Record>
+    <Record>
+      <Key>LaunchPlatformsDescription2</Key>
+      <Value>La {THING:StructureLaunchPad} es el principal punto de carga del cohete y se conecta a todos los módulos del cohete.</Value>
+    </Record>
+    <Record>
+      <Key>WeildSteelPlatesL</Key>
+      <Value>Soldar la {THING:ItemSteelSheets} a el {THING:StructureLaunchPad}.</Value>
+    </Record>
+    <Record>
+      <Key>ElectronicsL</Key>
+      <Value>Unir la electronica a el {THING:StructureLaunchPad}.</Value>
+    </Record>
+    <Record>
+      <Key>RocketEngines</Key>
+      <Value>Motores de cohetes</Value>
+    </Record>
+    <Record>
+      <Key>RocketEnginesDescription</Key>
+      <Value>La siguiente parte del cohete es la {THING:StructureModularRocketEngine01}. Esto convierte el combustible en empuje, permitiendo que el cohete despegue y escape de la gravedad del planeta.</Value>
+    </Record>
+    <Record>
+      <Key>RocketEnginesTask1</Key>
+      <Value>Recoge el {THING:ItemKitStructureModularRocketEngine01} de la caja de la izquierda. </Value>
+    </Record>
+    <Record>
+      <Key>RocketEnginesTask2</Key>
+      <Value>Construye el {THING:StructureModularRocketEngine01} en el lugar resaltado.</Value>
+    </Record>
+    <Record>
+      <Key>RocketEngines2</Key>
+      <Value>Ingeniería de cohetes 101</Value>
+    </Record>
+    <Record>
+      <Key>RocketEngines2Description</Key>
+      <Value>Contrariamente a la creencia popular, construir un motor de cohete es tan fácil como 1,2,3. Sólo necesitas algo de acero, plástico y electrónica.</Value>
+    </Record>
+    <Record>
+      <Key>RocketEngines2Task1</Key>
+      <Value>Suelda las {THING:ItemSteelSheets} a el {THING:StructureModularRocketEngine01}</Value>
+    </Record>
+    <Record>
+      <Key>RocketEngines2Task2</Key>
+      <Value>Soldar la {THING:ItemPlasticSheets} a el {THING:StructureModularRocketEngine01}</Value>
+    </Record>
+    <Record>
+      <Key>RocketEngines2Task3</Key>
+      <Value>Coloca las {THING:ItemElectronicParts} a el {THING:StructureModularRocketEngine01}</Value>
+    </Record>
+    <Record>
+      <Key>FuelTanks</Key>
+      <Value>Tanques de combustible</Value>
+    </Record>
+    <Record>
+      <Key>FuelTanksDescription</Key>
+      <Value>El tanque de combustible es el siguiente módulo del cohete. Puedes tener varios módulos de Tanque de Combustible en un cohete para llevar más combustible. Esto te permitirá llevar más carga contigo.</Value>
+    </Record>
+    <Record>
+      <Key>FuelTanksTask1</Key>
+      <Value>Recoge el {THING:ItemKitStructureModularRocketFueltank01} de la caja de la izquierda.</Value>
+    </Record>
+    <Record>
+      <Key>FuelTanksTask2</Key>
+      <Value>Construye el {THING:StructureModularRocketFueltank01} en el lugar resaltado.</Value>
+    </Record>
+    <Record>
+      <Key>FuelTanks2</Key>
+      <Value>Tanques de combustible</Value>
+    </Record>
+    <Record>
+      <Key>FuelTanks2Description</Key>
+      <Value>Los cohetes en los Estacionarios usan el mismo combustible que otros artículos que requieren gas inflamable como el Soldador o el Generador de Gas. Una proporción de 2:1 de volátiles y oxígeno proporciona una combustión más limpia.</Value>
+    </Record>
+    <Record>
+      <Key>FuelTanks2Task1</Key>
+      <Value>Junta el {THING:ItemKitTank} a el {THING:StructureModularRocketFueltank01}</Value>
+    </Record>
+    <Record>
+      <Key>FuelTanks2Task2</Key>
+      <Value>Suelda las {THING:ItemSteelSheets} a el {THING:StructureModularRocketFueltank01}</Value>
+    </Record>
+    <Record>
+      <Key>FuelTanks2Task3</Key>
+      <Value>Coloca las {THING:ItemElectronicParts} a el {THING:StructureModularRocketFueltank01}</Value>
+    </Record>
+    <Record>
+      <Key>CargoModule</Key>
+      <Value>Módulo de carga</Value>
+    </Record>
+    <Record>
+      <Key>CargoModuleDescription</Key>
+      <Value>El Módulo de Carga le permite llevar equipos y dispositivos a su próximo destino. Puedes construir más de un módulo de carga, pero deben estar encima de los tanques de combustible.</Value>
+    </Record>
+    <Record>
+      <Key>CargoModuleTask1</Key>
+      <Value>Recoge el {THING:ItemKitStructureModularRocketCargo01} de la caja de la izquierda</Value>
+    </Record>
+    <Record>
+      <Key>CargoModuleTask2</Key>
+      <Value>Construye el {THING:StructureModularRocketCargo01} en el lugar resaltado</Value>
+    </Record>
+    <Record>
+      <Key>CargoModule2</Key>
+      <Value>Construir el módulo de carga</Value>
+    </Record>
+    <Record>
+      <Key>CargoModule2Description</Key>
+      <Value>La construcción del módulo de carga es similar a la de otros módulos. Construir varios módulos añadirá más peso al cohete y requerirá más combustible para salir del campo gravitatorio del planeta.</Value>
+    </Record>
+    <Record>
+      <Key>CargoModule2Task1</Key>
+      <Value>Suelda las {THING:ItemSteelSheets} a el {THING:StructureModularRocketCargo01}</Value>
+    </Record>
+    <Record>
+      <Key>CargoModule2Task2</Key>
+      <Value>Suelda las {THING:ItemPlasticSheets} a el {THING:StructureModularRocketCargo01}</Value>
+    </Record>
+    <Record>
+      <Key>CargoModule2Task3</Key>
+      <Value>Colocas las {THING:ItemElectronicParts} a el {THING:StructureModularRocketCargo01}</Value>
+    </Record>
+    <Record>
+      <Key>CommandMod</Key>
+      <Value>Módulo de mando</Value>
+    </Record>
+    <Record>
+      <Key>CommandModDescription</Key>
+      <Value>El módulo de mando es la parte final del cohete y su punto de control central. También es el módulo que controla el destino final del cohete.</Value>
+    </Record>
+    <Record>
+      <Key>CommandModTask1</Key>
+      <Value>Recoge el {THING:ItemKitStructureModularRocketCommand01} de la caja de la izquierda</Value>
+    </Record>
+    <Record>
+      <Key>CommandModTask2</Key>
+      <Value>Pon el {THING:StructureModularRocketCommand01} en la posición resaltada</Value>
+    </Record>
+    <Record>
+      <Key>CommandMod2</Key>
+      <Value>Construir el módulo de mando</Value>
+    </Record>
+    <Record>
+      <Key>CommandMod2Description</Key>
+      <Value>Equipado con un escudo térmico exterior y un cristal de alumino-silicato templado, el módulo puede salir y volver a entrar con seguridad en la atmósfera de un planeta sin riesgo para los Estacionarios del interior. Está totalmente aislado, con una unidad de aire acondicionado activa y depuradores de carbono para mantener una temperatura y una respirabilidad óptimas.</Value>
+    </Record>
+    <Record>
+      <Key>CommandMod2Task1</Key>
+      <Value>Suelda las {THING:ItemSteelSheets} a el {THING:StructureModularRocketCommand01}</Value>
+    </Record>
+    <Record>
+      <Key>CommandMod2Task2</Key>
+      <Value>Suelda las {THING:ItemPlasticSheets} a el {THING:StructureModularRocketCommand01}</Value>
+    </Record>
+    <Record>
+      <Key>CommandMod2Task3</Key>
+      <Value>Coloca las {THING:ItemElectronicParts} a el {THING:StructureModularRocketCommand01}</Value>
+    </Record>
+    <Record>
+      <Key>FuelUp</Key>
+      <Value>Llene el tanque de combustible.</Value>
+    </Record>
+    <Record>
+      <Key>FuelUpDescription</Key>
+      <Value>Es hora de cargar combustible en el cohete. Se ha añadido una mezcla de combustible preparada al gran depósito de combustible. Necesitarás completar la tubería del nuevo módulo de combustible del cohete. El módulo de mando toma oxígeno pero no es esencial, ya que está en un traje y tendrá suficientes reservas para el vuelo.</Value>
+    </Record>
+    <Record>
+      <Key>FuelUpStraight</Key>
+      <Value>Construye el {THING:StructureInsulatedPipeStraight} en la posición resaltada</Value>
+    </Record>
+    <Record>
+      <Key>FuelUpCorner</Key>
+      <Value>Construye la {THING:StructureInsulatedPipeCorner} en la posición resaltada</Value>
+    </Record>
+    <Record>
+      <Key>NoPower</Key>
+      <Value>Sin energía</Value>
+    </Record>
+    <Record>
+      <Key>NoPowerDescription</Key>
+      <Value>Parece que no hay energía en el cohete. Revisa la {THING:StructureAreaPowerControl} que se encuentra detrás del ascensor.</Value>
+    </Record>
+    <Record>
+      <Key>NoPower1</Key>
+      <Value>Enciende la {THING:StructureAreaPowerControl}</Value>
+    </Record>
+    <Record>
+      <Key>SettingTheDestination</Key>
+      <Value>Establecer un destino</Value>
+    </Record>
+    <Record>
+      <Key>SettingTheDestinationDescription</Key>
+      <Value>Antes de despegar, deberá programar el ordenador de vuelo con un destino válido - o de lo contrario puede terminar en el medio de la nada. En este caso, queremos viajar a Mimas, una de las lunas de Saturno. Hazlo escribiendo la identificación del planeta en el módulo de comando usando un escritor lógico.</Value>
+    </Record>
+    <Record>
+      <Key>SettingTheDestination1</Key>
+      <Value>Abrir la Stationpedia</Value>
+    </Record>
+    <Record>
+      <Key>SettingTheDestination2</Key>
+      <Value>Navegue a la sección de Viajes Mundiales, haga clic en &quot;Viajes&quot;, y lea cómo establecer destinos y luego haga clic en las coordenadas Mimas: -712314497 para copiarlas a su portapapeles</Value>
+    </Record>
+    <Record>
+      <Key>SettingTheDestination3</Key>
+      <Value>Recoge la {THING:ItemLabeller} que se encuentra en la caja de la izquierda.</Value>
+    </Record>
+    <Record>
+      <Key>SettingTheDestination4</Key>
+      <Value>Ajusta la {THING:StructureLogicMemory} a las Coordenadas -712314497 usando el {THING:ItemLabeller}.</Value>
+    </Record>
+    <Record>
+      <Key>SettingTheDestination5</Key>
+      <Value>Ajusta el valor de entrada en el {THING:StructureLogicWriter} a {THING:StructureLogicMemory} usando el {THING:ItemScrewdriver}</Value>
+    </Record>
+    <Record>
+      <Key>SettingTheDestination6</Key>
+      <Value>Ajusta el valor de salida en el {THING:StructureLogicWriter} a {THING:StructureLaunchPad} usando un {THING:ItemScrewdriver} </Value>
+    </Record>
+    <Record>
+      <Key>SettingTheDestination7</Key>
+      <Value>Ajusta el valoer LogicType en el {THING:StructureLogicWriter} para &quot;ajustar&quot; usa un {THING:ItemScrewdriver}</Value>
+    </Record>
+    <Record>
+      <Key>SettingTheDestination8</Key>
+      <Value>Finalmente, Enciende el {THING:StructureLogicWriter}. Los pasos anteriores deben estar hechos.</Value>
+    </Record>
+    <Record>
+      <Key>FuelUpValve</Key>
+      <Value>La válvula de combustible</Value>
+    </Record>
+    <Record>
+      <Key>FuelUpValveDescription</Key>
+      <Value>La última parte de la preparación del cohete es encender la válvula de combustible y llenar el tanque de combustible del cohete.</Value>
+    </Record>
+    <Record>
+      <Key>FuelUpValveTask1</Key>
+      <Value>Abre la válvula de combustible, situada encima de la sala de lógica.</Value>
+    </Record>
+    <Record>
+      <Key>LaunchRocket</Key>
+      <Value>Hora de despegar</Value>
+    </Record>
+    <Record>
+      <Key>LaunchRocketDescription</Key>
+      <Value>¡Es hora de despegar! Toma el ascensor hasta el último piso, Una vez que el cohete esté lleno y listo puedes entrar al Módulo de Comando. Luego presiona el botón de LANZAMIENTO.</Value>
+    </Record>
+    <Record>
+      <Key>LaunchRocketTask1</Key>
+      <Value>Lanza el cohete</Value>
+    </Record>
+  </Interface>
+</Language>

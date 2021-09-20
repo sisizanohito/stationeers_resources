@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Czech</Name>
+  <Code>CS</Code>
+  <Font>font_russian</Font>
+  <Interface>
+    <Record>
+      <Key>TutorialTitleWearSpacesuit</Key>
+      <Value>Nošení skafandru</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskWearHelmet</Key>
+      <Value>Nasaďte si {THING:ItemSpaceHelmet}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskWearSuit</Key>
+      <Value>Nasaďte si {THING:ItemEvaSuit}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskWearJetpack</Key>
+      <Value>Nasaďte si {THING:ItemSpacepack}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescPickupHelmet</Key>
+      <Value>Najděte {THING:ItemSpaceHelmet} a vložte ji do {SLOT:LeftHand} a nebo do {SLOT:RightHand} kliknutím {KEY:PrimaryAction} nad zeleným interaktivním polem viditelným při se pohledu na něj. Pro více informací čtěte {LINK:InventoryPage;Inventář} v sekci {LINK:Home;Stationpedie}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescWearHelmet</Key>
+      <Value>Máte dva způsoby interakce s {LINK:InventoryPage;inventářem}: klávesové zkratky a ovládání myši. Obě mají své výhody a nevýhody.
+      
+Stiskněte a podržte {KEY:MouseControl} pro zobrazení kurzoru myši a přetáhněte a vložte {THING:ItemSpaceHelmet} do slotu {SLOT:Helmet}. Nebo stiskněte a podržte {KEY:HelmetSlot} dokud se {THING:ItemSpaceHelmet} nepřesune do slotu {SLOT:Helmet}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescPickupSuit</Key>
+      <Value>Najděte {THING:ItemEvaSuit} a vložte jej do {SLOT:LeftHand} a nebo do {SLOT:RightHand}. Tentokrát se můžete pokusit přetáhnout {THING:ItemEvaSuit} přímo do slotu {SLOT:Suit}, je to mnohem rychlejší. Podržte {KEY:MouseControl} a přesuňte kurzor myši nad {THING:ItemEvaSuit} a podržte {KEY:PrimaryAction} a přetáhněte jej do {SLOT:Suit}.
+      </Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescWearSuit</Key>
+      <Value>Stisknutím a podržením klávesy {KEY:SuitSlot}, nebo stisknutím a podržením {KEY:MouseControl} se zobrazí kurzor myši, pro vybavení {THING:ItemEvaSuit} do slotu {SLOT:Suit}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescPickupJetpack</Key>
+      <Value>Najděte {THING:ItemSpacepack} a vložte jej do {SLOT:LeftHand} a nebo {SLOT:RightHand} kliknutím {KEY:PrimaryAction} nad zeleným interaktivním polem viditelným při pohledu na něj.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescWearJetpack</Key>
+      <Value>Stisknutím a podržením klávesy {KEY:BackSlot}, nebo stisknutím a podržením {KEY:MouseControl} se zobrazí kursor myši, pro vybavení {THING:ItemSpacepack} do slotu {SLOT:Back}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTitlePowerSuit</Key>
+      <Value>Napájení skafandru</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescPowerSuit</Key>
+      <Value>Najděte {THING:ItemBatteryCellLarge} a dejte ji do {SLOT:LeftHand} a nebo do {SLOT:RightHand} tím, že se ně něj podíváte a kliknete {KEY:PrimaryAction}. Můžete přetáhnout {THING:ItemBatteryCellLarge} přímo do {THING:ItemEvaSuit} pro ušetření času.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescPowerSuit2</Key>
+      <Value>Otevřete {THING:ItemEvaSuit} stisknutím klávesy {KEY:SuitSlot} nebo podržením {KEY:MouseControl} a klikněte na slot {SLOT:Suit}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskLifesupportSuit1</Key>
+      <Value>Vezměte {THING:ItemBatteryCellLarge}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskLifesupportSuit2</Key>
+      <Value>Otevřete okno slotu {THING:ItemEvaSuit}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskLifesupportSuit4</Key>
+      <Value>Vezměte si {THING:ItemEvaSuit} s {THING:ItemBatteryCellLarge}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescLifesupport1</Key>
+      <Value>Můžete interagovat se slotem {SLOT:Suit} stisknutím a uvolněním klávesy {KEY:SuitSlot} nebo podržením {KEY:MouseControl} a kliknutím na slot {SLOT:Suit}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescLifesupport2</Key>
+      <Value>{COLORRED:Abyste mohli pokračovat, musíte mít na sobě {THING:ItemEvaSuit}. Nasaďte si ho prosím zpět.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescLifesupport4</Key>
+      <Value>Podržte {KEY:MouseControl} a přetáhněte {THING:ItemBatteryCellLarge} do slotu {SLOT:LifeSupport} v {THING:ItemEvaSuit}. Můžete také rolovat {COLORRED:kolečkem myši} a pomocí klávesy {KEY:InventorySelect} vyměnit {THING:ItemBatteryCellLarge}. Pamatujte, že můžete stisknout klávesu {KEY:SwapHands} pro změnu aktivní ruky.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTitleSuitFilter</Key>
+      <Value>Vybavení filtru</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescFilter1</Key>
+      <Value>Najděte {THING:ItemGasFilterCarbonDioxide} a vezměte ho do {SLOT:LeftHand} nebo do {SLOT:RightHand} tím, že se na něj podíváte a kliknete na {KEY:PrimaryAction}. Opět můžete jednoduše přetáhnout {THING:ItemGasFilterCarbonDioxide} ze světa do {THING:ItemEvaSuit}, abyste ušetřili čas. Tento filtr odebere {GAS:CarbonDioxide} z vašeho {THING:ItemEvaSuit}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskFilter1</Key>
+      <Value>Vezměte {THING:ItemGasFilterCarbonDioxide}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskFilter2</Key>
+      <Value>Otevřete okno slotu {THING:ItemEvaSuit}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskFilter4</Key>
+      <Value>Vezměte si {THING:ItemEvaSuit} s {THING:ItemGasFilterCarbonDioxide}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescFilter2</Key>
+      <Value>Můžete interagovat se slotem {SLOT:Suit} stisknutím a uvolněním klávesy {KEY:SuitSlot} nebo podržením {KEY:MouseControl} a kliknutím na slot {SLOT:Suit}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescFilter3</Key>
+      <Value>Pomocí {COLORRED:kolečka myši} můžete vybrat sloty uvnitř {THING:ItemEvaSuit}. Pokračujte výběrem libovolného vnitřního slotu {SLOT:Filter}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescFilter4</Key>
+      <Value>Podržte {KEY:MouseControl} a přetáhněte {THING:ItemGasFilterCarbonDioxide} do libovolného slotu {SLOT:Filter} v {THING:ItemEvaSuit}. Můžete také rolovat {COLORRED:kolečkem myši} a pomocí klávesy {KEY:InventorySelect} vyměnit {THING:ItemGasFilterCarbonDioxide}. Pamatujte, že můžete stisknout klávesu {KEY:SwapHands} pro změnu aktivní ruky.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTitleGetTools</Key>
+      <Value>Získání konstrukčního vybavení</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescGetTools1</Key>
+      <Value>Nyní musíme jít před stanici, abychom provedli nějaké opravy. Odložte vše z rukou pomocí klávesy {KEY:Drop}, abychom mohli vzít další věci. Nezapomeňte, že můžete pomocí {KEY:MouseControl} povolit myš pro správu {LINK:InventoryPage;inventáře} a můžete změnit {COLORYELLOW:aktivní ruku} stisknutím klávesy {KEYS:SwapHands}.
+
+Správa {LINK:InventoryPage;inventáře} vyžaduje dovednosti a praxe; pečlivě přemýšlejte o tom, co s sebou berete s dostatečným předstihem a plánujte dopředu. Zapomenout, že máte prázdný {THING:ItemGasCanisterOxygen} nebo {THING:ItemBatteryCellLarge}, může být katastrofální. Je také snadné se ztratit. Buďte opatrný!
+      </Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescGetTools2</Key>
+      <Value>Vezměte {THING:ItemToolBelt} a přiřaďte jej do slotu {SLOT:Belt} podržením klávesy {KEY:ToolBeltSlot}, nebo přetažením do slotu za současného držení {KEY:MouseControl}. Váš {SLOT:Belt} slot vám umožní mít opasky, které mohou obsahovat těžební a jiné nástroje.
+      
+{THING:ItemMiningBelt} má specializované sloty na {LINK:OrePage;rudy}, které se automaticky plní, pokud například používáte {THING:ItemMiningDrill}. Přečtěte si více o {LINK:MiningPage;těžení}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskGetTools1</Key>
+      <Value>Upusťte {THING:ItemTablet}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskGetTools2</Key>
+      <Value>Noste {THING:ItemToolBelt} ve slotu {SLOT:Belt}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskGetTools3</Key>
+      <Value>Vezměte si {THING:ItemSteelSheets} do {SLOT:LeftHand} nebo do {SLOT:RightHand}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTitleGoInAirlock</Key>
+      <Value>Jdeme do vesmíru</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescGoInAirlock1</Key>
+      <Value>Vydejte se do dveří {THING:StructureAirlock} a zajistěte, aby váš {THING:ItemEvaSuit} a {THING:ItemSpaceHelmet} byly připraveny. Stisknutím tlačítka {KEY:HelmetSlot} zobrazíte nabídku interakce a poté kliknutím na interakci, nebo přejděte na možnost Zavřít a stisknutím tlačítka {KEY:InventorySelect} přepnete stav, nebo stisknutím tlačítka {KEY:Internals} rychle přepnete {COLORYELLOW:vnitřní} zapnuto a vypnuto.
+      
+V pravé části obrazovky uvidíte ikony, které vás informují o stavu a také o tom, jaké rychlé akce byly přepnuty. Věnujte velkou pozornost těmto stavovým a varovným indikátorům, které vám mohou zachránit život!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskGoInAirlock1</Key>
+      <Value>Zavřete masku {THING:ItemSpaceHelmet}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskGoInAirlock2</Key>
+      <Value>Projděte dveřmi {THING:StructureAirlock} do žluté místnosti</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTitleCycleAirlock</Key>
+      <Value>Synchronizujte přechodovou komoru</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescCycleAirlock1</Key>
+      <Value>Přechodovou komoru můžete ovládat pomocí {THING:StructureConsole}, nebo pomocí klávesnice, která je kompatibilní na dveřích {THING:StructureAirlock}. Tím dojde k odtlakování přechodové komory, takže můžete jít do vesmíru.
+
+{THING:CircuitboardAirlockControl} v {THING:StructureConsole} řídí {THING:StructureActiveVent}, další zařízení pro synchronizaci přechodové komory. Poznámka: V pravém horním rohu obrazovky máte informace o {COLORYELLOW:Vnitřní} a {COLORYELLOW:Externí}.
+
+Když máte na sobě svůj oblek, máte uvnitř atmosféru a i venku. Herní ikony složité atmosféry, proto věnujte velkou pozornost informacím atmosféry, abyste zůstali v bezpečí.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskCycleAirlock1</Key>
+      <Value>Synchronizujte přechodovou komoru</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTitleRepairCable</Key>
+      <Value>Oprava rozbitého kabelu</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescRepairCable1</Key>
+      <Value>{THING:StructureCableStraight} může přenášet jak {COLORYELLOW:data}, tak {COLORYELLOW:energii}, ale přeruší se, pokud se do něj dá více energie, než je určeno. Někde pod {THING:StructureAirlock} je přerušen {THING:StructureCableJunction}, najděte ho a odeberte pomocí {THING:ItemWireCutters} z {THING:ItemToolBelt}.
+
+Nezapomeňte, že existují dva způsoby interakce s vaším {LINK:InventoryPage;inventářem}. Stisknutím a podržením tlačítka {KEY:MouseControl} aktivujete kurzor myši a poté myší přetahujete nebo otevíráte věci. Pro rychlé ovládání stisknutím tlačítka {KEY:ToolBeltSlot} otevřete slot {SLOT:Belt}. Stisknutím tlačítka {KEY:InventorySelect} zaměňte zvýrazněnou položku vnitřního slotu v ruce.
+
+Pokud zjistíte, že máte příliš mnoho otevřených oken, můžete je všechny zavřít najednou pomocí {KEY:HideAllWindows}, můžete přepínat jednotlivé okna pomocí jejich klávesové zkratky, nebo můžete kliknout na samotný slot, zatímco je myš povolena pomocí {KEY:MouseControl}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskRepairCable1</Key>
+      <Value>Vezměte si {THING:ItemWireCutters}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskRepairCable2</Key>
+      <Value>Odstraňte {THING:StructureCableJunctionBurnt}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskRepairCable3</Key>
+      <Value>Vezměte si {THING:ItemCableCoil}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskRepairCable4</Key>
+      <Value>Nahraďte {THING:StructureCableJunction} z {THING:ItemCableCoil}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescRepairCable2</Key>
+      <Value>Podívejte se na {THING:StructureCableJunctionBurnt} zatímco {THING:ItemWireCutters} jsou ve vaší aktivní ruce. Uvidíte {COLORYELLOW:žluté} pole kolem objektu. Stisknutím a podržením {KEY:PrimaryAction} odstraníte {THING:StructureCableJunctionBurnt}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescRepairCable3</Key>
+      <Value>Nyní musíme umístit {THING:StructureCableJunction}. Přesuňte {THING:ItemCableCoil} z {THING:ItemToolBelt} do {SLOT:LeftHand} nebo {SLOT:RightHand}.
+      
+Možná budete muset uvolnit ruce přesunutím {THING:ItemSteelSheets} do batohu. Můžete je upustit, ale budete je potřebovat později!
+      
+ Nezapomeňte, že {KEY:InventorySelect} interaguje s interními sloty a akcemi a klávesa {KEY:ToolBeltSlot} otevře a zavře váš slot {SLOT:Belt}. Jako vždy můžete vyvolat ovládání myši stisknutím tlačítka {KEY:MouseControl}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescRepairCable4</Key>
+      <Value>S {THING:ItemCableCoil} ve vaší {COLORYELLOW:aktivní ruce}, stiskněte {KEY:SecondaryAction} a vyvolejte kurzor {LINK:ConstructionPage;konstrukce}.
+
+Použijte {COLORRED:kolečko myši} ke změně typu umístění a vyberte variantu {THING:StructureCableJunction}.
+
+Plán umístění obsahuje důležité informace o připojení, malé symboly plus označují, že se položka připojuje k kabelové síti. Ujistěte se, že jsou vaše připojovací vedení přesně nastavena.
+
+Stiskněte tlačítko {KEY:QuantityModifier} a objekt se pokusí o nejlepší umístění připojení, jinak můžete použít vlastní otočné klávesy.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTitleFinishFrame</Key>
+      <Value>Dokončete svařování rámu</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescFinishFrame</Key>
+      <Value>Některé nástroje vyžadují dvě věci k provozu. Chcete-li svařovat {THING:StructureFrame}, budete potřebovat v aktivní ruce {THING:ItemWeldingTorch} a v druhé ruce {THING:ItemSteelSheets}. Rychlá klávesa {KEY:ToggleHandPower} automaticky zapíná a vypíná napájení pro libovolnou položku v aktivní ruce, nebo to můžete udělat prostřednictvím nabídky interakcí.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskFinishFrame1</Key>
+      <Value>Svařte {THING:StructureFrame}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTitleTablet</Key>
+      <Value>Interakce s položkami v rukou</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescTablet1</Key>
+      <Value>Vezměte si {THING:ItemTablet} a {THING:ItemBatteryCellLarge} do svých slotů {SLOT:LeftHand} nebo {SLOT:RightHand} tak, že se na ně podíváte a kliknete na {KEY:PrimaryAction}. Aktivní ruku můžete přepnout stisknutím tlačítka {KEY:SwapHands}. To vám umožní vložit do každé ruky jednu položku. Udělejte to pro pokračování.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescTablet2</Key>
+      <Value>S aktivním slotem na ruce můžete komunikovat stisknutím a uvolněním tlačítka {KEY:ActiveHandSlot} nebo kliknutím na něj. Tím se otevře aktuální okno {LINK:InventoryPage;inventáře}. Klávesou {KEY:SwapHands} můžete změnit svou aktivní ruku. Jako aktivní ruku vyberte {THING:ItemTablet} a pokračujte otevřením vnitřku slotu.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescTablet4</Key>
+      <Value>Vložte {THING:ItemBatteryCellLarge} do {Slot:Battery} v {THING:ItemTablet}. Použijte myš k přetažení, přidržením klávesy {KEY:MouseControl} nebo stisknutím klávesy {KEY:InventorySelect} do vybraného slotu {SLOT:Battery}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskTablet1</Key>
+      <Value>Vezměte {THING:ItemTablet}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskTablet2</Key>
+      <Value>Vezměte {THING:ItemBatteryCellLarge}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskTablet3</Key>
+      <Value>Otevřete okno slotu {THING:ItemTablet} v rukou</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskTablet5</Key>
+      <Value>Vložte {THING:ItemBatteryCellLarge} do slotu {SLOT:Battery} {THING:ItemBatteryCellLarge}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTitleUseReader</Key>
+      <Value>Použití {THING:CartridgeElectronicReader}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescUseReader1</Key>
+      <Value>{THING:ItemTablet} může mít různé kazety pro různé funkce.  Patří mezi ně {THING:CartridgeAtmosAnalyser} pro kontrolu atmosféry, {THING:CartridgeNetworkAnalyser} pro kontrolu ladících energetických a logických sítí a mnoho dalších.
+      
+Zapněte {THING:ItemTablet} pomocí klávesy {KEY:ToggleHandPower}, během držení {KEY:MouseControl} klikněte na interaktivní tlačítko s myší, nebo přejděte na interakci ve vašich rukou a stiskněte klávesu {KEY:ActiveHandSlot}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescUseReader2</Key>
+      <Value>Do {THING:ItemTablet} je vložena {THING:CartridgeElectronicReader}. Řekne vám recepty, které musíte udělat pro všechny věci ve hře, a v čem je lze vyrobit. Najděte {COLORYELLOW: Recept #VAR1#}, který vám umožní vytvořit {THING:ItemMuffin} pomocí {COLORRED:kolečkem myši} pro procházení možností.
+
+Použití různých kazet umožňuje přístup k mnoha různým funkcím, například k {THING:CartridgeNetworkAnalyser}, který vám umožňuje ladit kabelové sítě, nebo k {THING:CartridgeAtmosAnalyser}, který poskytuje informace o atmosféře.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskUseReader1</Key>
+      <Value>Zapněte {THING:ItemTablet}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskUseReader2</Key>
+      <Value>Najděte {COLORYELLOW:recept #VAR1#} na upečení {THING:ItemMuffin}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTitleBakeMuffin</Key>
+      <Value>Upečte {THING:ItemMuffin}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescBakeMuffin1</Key>
+      <Value>Některá zařízení ve hře jsou namontována na {THING:StructureBench}; nazývají se {LINK:AppliancePage;Spotřebiče}. Vezměte {THING:ApplianceMicrowave} a jděte před {THING:StructureBench}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescBakeMuffin2</Key>
+      <Value>Stisknutím klávesy {KEY:Drop} přetáhněte {THING:ApplianceMicrowave} na horní část {THING:StructureBench}. Pokračujte, dokud {THING:ApplianceMicrowave} nebude sedět na vrcholu {THING:StructureBench}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescBakeMuffin3</Key>
+      <Value>Podívejte se na {THING:ApplianceMicrowave}. Dívejte se spíše na stranu než na dveře, abyste cílili přímo na položku a nesnažili se ji otevřít. Když uvidíte {COLORYELLOW:žluté pole}, podržte klávesu {KEY:PrimaryAction}, abyste ji zašroubovali na {THING:StructureBench}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescBakeMuffin4</Key>
+      <Value>Podívejte se na dveře {THING:ApplianceMicrowave}. Stisknutím tlačítka {KEY:PrimaryAction} otevřete dveře a umožní vám vložit dovnitř činidla.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescBakeMuffin5</Key>
+      <Value>Vezměte požadované ingredience v seznamu úkolů a podívejte se do {THING:ApplianceMicrowave} pomocí své aktivní ruky. Kliknutím na tlačítko {KEY:PrimaryAction} přidávejte další činidlo, dokud ho nepřidáte dostatečně. Nepřidávejte více, než je nutné pro recept. U některých receptů to budete muset udělat dvakrát.
+      
+Pokud přidáte příliš mnoho, vypusťte to, co přenášíte, pomocí {KEY:Drop} a poté se podívejte na {THING:ApplianceMicrowave} s otevřenými dvířky pro přistup k akci {COLORYELLOW:vymazat} a mohli začít znovu.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescBakeMuffin6</Key>
+      <Value>Nyní zapněte {THING:ApplianceMicrowave} stisknutím tlačítka na pravé straně. Přístroj nyní upeče váš recept. Pokud máte recept správně, uděláte {THING:ItemMuffin}. Pokud ne, nebudete mít nic.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescBakeMuffin7</Key>
+      <Value>Otevřete svůj {THING:ItemSpacepack} stisknutím tlačítka {KEY:BackSlot} nebo povoleným ovládáním myši pomocí {KEY:MouseControl} a kliknutím na něj. Přesuňte {THING:ItemWrench} do ruky pomocí tažení a položení, nebo {COLORRED:kolečkem myši} a stiskem klávesy {KEY:InventorySelect} pro jeho výměnu do ruky.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskBakeMuffin1</Key>
+      <Value>Vezměte {THING:ApplianceMicrowave}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskBakeMuffin2</Key>
+      <Value>Položte to na {THING:StructureBench}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskBakeMuffin3</Key>
+      <Value>Přišroubujte {THING:ApplianceMicrowave} na místo</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskBakeMuffin11</Key>
+      <Value>Vezměte {THING:ItemWrench} z {THING:ItemSpacepack}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskBakeMuffin4</Key>
+      <Value>Vložte {COLORYELLOW:50g} z {THING:ItemFlour} do {THING:ApplianceMicrowave}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskBakeMuffin5</Key>
+      <Value>Vložte {COLORYELLOW:jedno} {THING:ItemEgg} do {THING:ApplianceMicrowave}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskBakeMuffin6</Key>
+      <Value>Vložte {COLORYELLOW:10ml} {THING:ItemMilk} do {THING:ApplianceMicrowave}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskBakeMuffin7</Key>
+      <Value>Otevřete {THING:ApplianceMicrowave}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskBakeMuffin8</Key>
+      <Value>Udělejte {THING:ItemMuffin}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskBakeMuffin9</Key>
+      <Value>Zavřete dveře {THING:ApplianceMicrowave}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskBakeMuffin10</Key>
+      <Value>Zapněte {THING:ApplianceMicrowave}</Value>
+    </Record>
+  </Interface>
+</Language>

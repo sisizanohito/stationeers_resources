@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Code>KO</Code>
+  <Interface>
+    <Record>
+      <Key>TutoiralConstruction</Key>
+      <Value>건설</Value>
+    </Record>
+    <Record>
+      <Key>TutoiralConstructionSubTitle</Key>
+      <Value>실용적인 훈련: 단계 2</Value>
+    </Record>
+    <Record>
+      <Key>2Narration2T</Key>
+      <Value>해체</Value>
+    </Record>
+    <Record>
+      <Key>T2Deconstruct1</Key>
+      <Value>파괴된 틀 - 1을 제거하세요.</Value>
+    </Record>
+    <Record>
+      <Key>T2Deconstruct2</Key>
+      <Value>파괴된 틀 - 2을 제거하세요.</Value>
+    </Record>
+    <Record>
+      <Key>2Narration3T</Key>
+      <Value>건설</Value>
+    </Record>
+    <Record>
+      <Key>2Narration3D</Key>
+      <Value>이제, 기지의 벽을 건설하는 작업을 완료하세요. 철 틀이 주어집니다. </Value>
+    </Record>
+    <Record>
+      <Key>BuildFramesTutorial2N1</Key>
+      <Value>틀을 강조된 지점에 설치하세요.</Value>
+    </Record>
+    <Record>
+      <Key>2Narration6T</Key>
+      <Value>자동 선반 건설</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial2AutolatePlacement</Key>
+      <Value>자동 선반을 설치하세요.</Value>
+    </Record>
+    <Record>
+      <Key>2Narration8T</Key>
+      <Value>케이블 배치</Value>
+    </Record>
+    <Record>
+      <Key>2Narration12T</Key>
+      <Value>전력 공급</Value>
+    </Record>
+    <Record>
+      <Key>2GetBatt</Key>
+      <Value>배터리를 상자에서 주우세요</Value>
+    </Record>
+    <Record>
+      <Key>2OpenAPCTask</Key>
+      <Value>APC를 빠루로 여세요.</Value>
+    </Record>
+    <Record>
+      <Key>2GetCoal</Key>
+      <Value>석탄을 상자에서 주우세요</Value>
+    </Record>
+    <Record>
+      <Key>AddCoalToGenerator</Key>
+      <Value>석탄을 발전기에 투입하세요</Value>
+    </Record>
+    <Record>
+      <Key>2TurnOnGenerator</Key>
+      <Value>발전기를 켜세요</Value>
+    </Record>
+    <Record>
+      <Key>PlaceBatt</Key>
+      <Value>APC에 배터리를 추가하세요.</Value>
+    </Record>
+    <Record>
+      <Key>2FlipSwitch</Key>
+      <Value>APC를 켜세요.</Value>
+    </Record>
+    <Record>
+      <Key>2PediaOpen</Key>
+      <Value>도움말 열기</Value>
+    </Record>
+    <Record>
+      <Key>2PediaNavigation</Key>
+      <Value>&apos;주괴 (강철)&apos; 페이지로 이동하세요.</Value>
+    </Record>
+    <Record>
+      <Key>2GettingHelpClose</Key>
+      <Value>{LINK:Home;Stationpedia}를 닫으세요.</Value>
+    </Record>
+    <Record>
+      <Key>2Narration16T</Key>
+      <Value>끝났습니다.</Value>
+    </Record>
+    <Record>
+      <Key>2OnButtonPressTaskT1</Key>
+      <Value>버튼을 눌러 시험을 마치세요.</Value>
+    </Record>
+    <Record>
+      <Key>2GetCableHCoil</Key>
+      <Value>고압 전선을 상자에서 주우세요.</Value>
+    </Record>
+    <Record>
+      <Key>2GetFrames</Key>
+      <Value>철 틀을 상자에서 주우세요.</Value>
+    </Record>
+  </Interface>
+</Language>

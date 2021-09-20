@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Code>HU</Code>
+  <Interface>
+    <Record>
+      <Key>TheNewBeginningTitle</Key>
+      <Value>Az új kezdet [BETA]</Value>
+    </Record>
+    <Record>
+      <Key>TheNewBeginningDescription</Key>
+      <Value>Tanuld meg az alapokat és hogy hogyan lehetsz te a legjobb stationeer!</Value>
+    </Record>
+    <!-- start the tutorial -->
+    <Record>
+      <Key>TutorialTheBeginningTitle</Key>
+      <Value>A kezdet</Value>
+    </Record>
+    <Record> Using 
+			
+      <Key>TutorialTheBeginningDescription</Key>
+      <Value>Na kezdjünk bele! Zárd be a Stationpediát a(z) {KEY:Help} gombbal. Azután öltözz fel; a(z) {KEY:PrimaryAction} használatával vehetsz fel tárgyakat. A(z) {KEY:HelmetSlot}, {KEY:SuitSlot}, {KEY:BackSlot}, {KEY:UniformSlot} és a(z) {KEY:ToolBeltSlot} billentyűkkel interaktálhatsz a hozzájuk tartozó slotokkal és a slotokban levő tárgyakkal. Ezek lenyomásával és hosszan tartásával cserélheted ki közvetlenül a kezed és a slot között a tárgyakat. Kurzorral is áthúzhatod a dolgokat, ha nyomva tartod a(z) {KEY:MouseControl} billentyűt.
+
+A karaktered slotjait a képernyő bal szélén találod. Itt egy példa: nyomd a(z) {KEY:MouseControl} gombot és kattints a(z) {THING:UniformOrangeJumpSuit} slotra. Ekkor megnyílik az adott tárgy menüje, mellyel interakcióba léphetsz vele.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTheBeginningTask1</Key>
+      <Value>Zárd be: {LINK:Home;Stationpedia}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTheBeginningTask2</Key>
+      <Value>Vedd fel: {THING:ItemSpaceHelmet}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTheBeginningTask3</Key>
+      <Value>Vedd fel: {THING:ItemSpacepack}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTheBeginningTask4</Key>
+      <Value>Vedd fel: {THING:ItemEvaSuit}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDontBeAToolTitle</Key>
+      <Value>Az eszköz szent</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDontBeAToolDescription</Key>
+      <Value>Tudod mi a szokás, NE menj sehova az eszközeid nélkül! Ragadd meg és csatold fel!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDontBeAToolTask1</Key>
+      <Value>Vedd fel: {THING:ItemToolBelt}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialPowerUpTitle</Key>
+      <Value>Feltöltődés</Value>
+    </Record>
+    <Record>
+      <Key>TutorialPowerUpDescription</Key>
+      <Value>Jól van, most kapcsoljuk be a ruhád rendszereit!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialPowerUpTask1</Key>
+      <Value>Vedd fel az {THING:ItemBatteryCellNuclear} tárgyat a(z) {KEY:PrimaryAction} használatával!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialPowerUpTask2</Key>
+      <Value>Nyisd meg az {THING:ItemEvaSuit} menüjét a(z) {KEY:SuitSlot} gombbal!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialPowerUpTask3</Key>
+      <Value>Helyezd az {THING:ItemBatteryCellNuclear} cellát az elem slotba!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSomethingToFilterTitle</Key>
+      <Value>Szűrjünk valamit</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSomethingToFilterDescription</Key>
+      <Value>A ruha megfelelő működéséhez szükség van egy {THING:ItemBatteryCellNuclear} cellára, {THING:ItemGasFilterCarbonDioxide} eszközre és pár egyéb dologra, így biztonságos környezetet biztosítva számodra.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSomethingToFilterTask1</Key>
+      <Value>Vedd fel a {THING:ItemGasFilterCarbonDioxide} eszközt a(z) {KEY:PrimaryAction} gombbal!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSomethingToFilterTask3</Key>
+      <Value>Tedd a {THING:ItemGasFilterCarbonDioxide} eszközt a szűrő slotba!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialGasItUpTitle</Key>
+      <Value>Gázosítás</Value>
+    </Record>
+    <Record>
+      <Key>TutorialGasItUpDescription</Key>
+      <Value>A {THING:ItemSpacepack}nak hajtóanyagra van szüksége a fúvókák működtetéséhez, használd azt a nitrogénes palackot, ott ni!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialGasItUpTask</Key>
+      <Value>Helyezd a {THING:ItemGasCanisterNitrogen}t a hajtóanyag slotba.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialFeelingHotHotHotTitle</Key>
+      <Value>Érzem a hőőőőt</Value>
+    </Record>
+    <Record>
+      <Key>TutorialFeelingHotHotHotDescripton</Key>
+      <Value>Egy kicsit meleg van a ruhában! Nyisd ki az {THING:ItemEvaSuit}t a(z) {KEY:SuitSlot} billentyűvel és tekerd le a termosztátot 20 °C-ra! Ha a hőmérsékletet alacsonyabban tartod azzal megnövelheted az elemeid élettartamát, ami hasznos egy húzosabb szituban. A változtatásokat a HUD jelezni fogja.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialFeelingHotHotHotTask1</Key>
+      <Value>Vedd le a ruhád hőmérsékletét.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLockItDownTitle</Key>
+      <Value>Zárd le azonnal</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLockItDownDescripton</Key>
+      <Value>Itt az idő kimenni! Vigyázz, hogy a sisakod zárva legyen - különben nehezen kapnál levegőt. A sisakot biztosíthatod a véletlen felnyitás megakadályozásának érdekében, hogy véletlenül se tedd ki magad a káros légkörnek és nagy hőingadozásoknak, szóval érdemes lezárni.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLockItDownTask1</Key>
+      <Value>Csukd be az {THING:ItemSpaceHelmet}ot a(z) {KEY:Internals} gombbal!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLockItDownTask2</Key>
+      <Value>Nyisd meg az {THING:ItemSpaceHelmet} menüjét a(z) {KEY:HelmetSlot} billentyűvel és válaszd ki a &quot;Sisak lezárása&quot; gombot.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTheGreatOutdoorsTitle</Key>
+      <Value>Levegőzzünk!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTheGreatOutdoorsDescription</Key>
+      <Value>Kalandozzunk! Készülj fel a {THING:StructureAirlock} nyitására!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTheGreatOutdoorsTask1</Key>
+      <Value>Lépj be a {THING:StructureAirlock}be!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTheGreatOutdoorsTask2</Key>
+      <Value>Állítsd át a {THING:StructureAirlock} légnyomását a világító kozolon levő Ciklus gomb megnyomásával és várj a folyamat befejezéséig!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescCycleAirlock1</Key>
+      <Value>Szívjunk egy kis nem-olyan-friss-levegőt!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialAnotherDayAnotherDollarTitle</Key>
+      <Value>Egy nap, egy forint</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTimeToScrubTask1</Key>
+      <Value>A {THING:DynamicScrubber} bekapcsolásával kiszűrheted a méreganyagokat a levegőből</Value>
+    </Record>
+  </Interface>
+</Language>

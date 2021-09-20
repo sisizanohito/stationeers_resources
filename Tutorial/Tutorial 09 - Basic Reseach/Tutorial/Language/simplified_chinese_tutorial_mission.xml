@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Code>CN</Code>
+  <Interface>
+    <Record>
+      <Key>09BasicResearch</Key>
+      <Value>基础研究</Value>
+    </Record>
+    <Record>
+      <Key>BasicResearchDescription</Key>
+      <Value>使用科研机器解锁新技术。</Value>
+    </Record>
+    <Record>
+      <Key>TheResearchMachine</Key>
+      <Value>研究机器</Value>
+    </Record>
+    <Record>
+      <Key>TheResearchMachineDescription</Key>
+      <Value>如果在世界设置菜单中启用了研究，那你则需要通过处理研究胶囊才能解锁新技术。使用 {THING:StructureResearchMachine} 来处理研究胶囊.
+ 
+你的第一个任务就是建造一个 {THING:StructureResearchMachine}. 你可以在这个红色的{THING:DynamicCrate} 中找到所有所需的材料.</Value>
+    </Record>
+    <Record>
+      <Key>TheResearchMachine1</Key>
+      <Value>从红色{THING:DynamicCrate}拿起{THING:ItemKitResearchMachine}。</Value>
+    </Record>
+    <Record>
+      <Key>TheResearchMachine2</Key>
+      <Value>将 {THING:ItemKitResearchMachine} 放置在高亮的位置上。</Value>
+    </Record>
+    <Record>
+      <Key>TheResearchMachineBuild</Key>
+      <Value>科研机器搭建</Value>
+    </Record>
+    <Record>
+      <Key>TheResearchMachineBuildeDescription</Key>
+      <Value>像其他机器一样， {THING:StructureResearchMachine} 也有好几个建造步骤。 你要完成所有步骤才能完全建造{THING:StructureResearchMachine}。</Value>
+    </Record>
+    <Record>
+      <Key>TheResearchMachineBuild1</Key>
+      <Value>拿起 {THING:ItemIronSheets}. </Value>
+    </Record>
+    <Record>
+      <Key>TheResearchMachineBuild2</Key>
+      <Value>用{THING:ItemWeldingTorch}把{THING:ItemIronSheets}焊在{THING:StructureResearchMachine}上。</Value>
+    </Record>
+    <Record>
+      <Key>TheResearchMachineBuild3</Key>
+      <Value>现在拿一些{THING:ItemElectronicParts}。</Value>
+    </Record>
+    <Record>
+      <Key>TheResearchMachineBuild4</Key>
+      <Value>使用 {THING:ItemScrewdriver} 将 {THING:ItemElectronicParts} 安装到 {THING:StructureResearchMachine}。</Value>
+    </Record>
+    <Record>
+      <Key>TheResearchMachineBuild5</Key>
+      <Value>用{THING:ItemScrewdriver}来完成对{THING:StructureResearchMachine}的建造。</Value>
+    </Record>
+    <Record>
+      <Key>PrintingCapsules</Key>
+      <Value>打印胶囊</Value>
+    </Record>
+    <Record>
+      <Key>PrintingCapsulesDescription</Key>
+      <Value>研究胶囊是研究过程的重要组成部分。使用{THING:StructureElectronicsPrinter} 打印它们，然后将它们放到 {THING:StructureResearchMachine} 以获得研究点。胶囊按等级排序，成本也按等级排序：红色、绿色、蓝色然后是黄色。
+
+更先进的技术需要更高级的胶囊。
+
+使用附近的 {THING:StructureElectronicsPrinter} 打印一些胶囊。 </Value>
+    </Record>
+    <Record>
+      <Key>PrintingCapsules1</Key>
+      <Value>启动{THING:StructureElectronicsPrinter}。</Value>
+    </Record>
+    <Record>
+      <Key>PrintingCapsules2</Key>
+      <Value>在{THING:StructureElectronicsPrinter}选择打印{THING:ItemResearchCapsuleRed}.</Value>
+    </Record>
+    <Record>
+      <Key>PrintingCapsules3</Key>
+      <Value>打印一个{THING:ItemResearchCapsuleRed}。</Value>
+    </Record>
+    <Record>
+      <Key>PrintingCapsules4</Key>
+      <Value>在 {THING:StructureElectronicsPrinter} 上选择打印 {THING:ItemResearchCapsule}。</Value>
+    </Record>
+    <Record>
+      <Key>PrintingCapsules5</Key>
+      <Value>打印一个 {THING:ItemResearchCapsule}。</Value>
+    </Record>
+    <Record>
+      <Key>InsertingCapsules</Key>
+      <Value>插入胶囊</Value>
+    </Record>
+    <Record>
+      <Key>InsertingCapsulesDescription</Key>
+      <Value>现在，你有了研究胶囊，你可以开始打碎它们来获得研究点数。</Value>
+    </Record>
+    <Record>
+      <Key>InsertingCapsules0</Key>
+      <Value>开启 {THING:StructureResearchMachine}。</Value>
+    </Record>
+    <Record>
+      <Key>InsertingCapsules1</Key>
+      <Value>把新打印的{THING:ItemResearchCapsuleRed}从{THING:StructureResearchMachine}的后面插入。</Value>
+    </Record>
+    <Record>
+      <Key>InsertingCapsules2</Key>
+      <Value>按下在 {THING:StructureResearchMachine} 前方的大大的绿色按钮就可以对这些胶囊进行处理了。只要按钮下方的小进度条完成，就代表处理完成。</Value>
+    </Record>
+    <Record>
+      <Key>InsertingCapsules3</Key>
+      <Value>当第一个胶囊处理完成后, 将 {THING:ItemResearchCapsule} 插入 {THING:StructureResearchMachine}.</Value>
+    </Record>
+    <Record>
+      <Key>CapsuleBreakDown</Key>
+      <Value>胶囊处理</Value>
+    </Record>
+    <Record>
+      <Key>CapsuleBreakDownDescription</Key>
+      <Value>每个等级的研究胶囊其处理时间都会不同。 等级越高花费的时间就越长。</Value>
+    </Record>
+    <Record>
+      <Key>CapsuleBreakDown1</Key>
+      <Value>用 {THING:StructureResearchMachine} 处理第二个 {THING:ItemResearchCapsule}。</Value>
+    </Record>
+    <Record>
+      <Key>UnlockingResearch</Key>
+      <Value>解锁研究</Value>
+    </Record>
+    <Record>
+      <Key>UnlockingResearchDescription</Key>
+      <Value>现在我们已经处理完这些研究胶囊了, 可以对这些新获得的研究点数进行分配。
+	点击 {THING:StructureResearchMachine} 的红色圆形按钮访问研究界面. 在右上方, 你可以看到你当前拥有的研究点数. 你每次处理一个胶囊, 你就获得一个点数.
+
+左边是特定科技列表筛选按钮, 帮助你快速定位要解锁的科技. 中间的面板显示了当前未解锁的项目类别，以及解锁需要的成本。
+    
+    </Value>
+    </Record>
+    <Record>
+      <Key>UnlockingResearch2</Key>
+      <Value>点击 {THING:StructureResearchMachine} 上的红色按钮， 然后点击左侧的 &apos;自动化&apos; 类别。 点击 &apos;Basic Logic Controllers&apos;，然后点击 &apos;确认&apos;。</Value>
+    </Record>
+    <Record>
+      <Key>ItemsUnlocked</Key>
+      <Value>已解锁项目</Value>
+    </Record>
+    <Record>
+      <Key>ItemsUnlockedDescription</Key>
+      <Value>现在，你已经解锁了新的研究节点，您可以在其关联的打印装置中制造这些新物品。</Value>
+    </Record>
+    <Record>
+      <Key>ItemsUnlocked1</Key>
+      <Value>在 {THING:StructureElectronicsPrinter} 上选择 {THING:CircuitboardAirControl}。</Value>
+    </Record>
+    <Record>
+      <Key>ItemsUnlocked2</Key>
+      <Value>用 {THING:StructureElectronicsPrinter} 打印一个 {THING:CircuitboardAirControl} 。</Value>
+    </Record>
+  </Interface>
+</Language>

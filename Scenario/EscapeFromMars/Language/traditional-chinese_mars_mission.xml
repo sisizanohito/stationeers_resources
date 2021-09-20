@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Traditional Chinese</Name>
+  <Code>TW</Code>
+  <Font>font_cjk</Font>
+  <Interface>
+    <Record>
+      <Key>EscapeFromMarsTitle</Key>
+      <Value>逃離火星 [Beta]</Value>
+    </Record>
+    <Record>
+      <Key>EscapeFromMarsDescription</Key>
+      <Value>給測試者：你只有少量的物資，必須利用你的智慧和精力尋找在火星上生存的方法。 最終你必須計劃建造一臺能夠飛離火星大氣層的火箭。</Value>
+    </Record>
+    <!-- Mission Stage: In Case of Emergency -->
+    <Record>
+      <Key>MarsTitleInCaseOfEmergency</Key>
+      <Value>緊急情況...</Value>
+    </Record>
+    <Record>
+      <Key>MarsDescInCaseOfEmergency</Key>
+      <Value>你的裝備破損了，而且你需要找些食物。</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskGetTape</Key>
+      <Value>尋找一些 {THING:ItemDuctTape}</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskGetFood</Key>
+      <Value>尋找一個 {THING:ItemCerealBar}</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage1</Key>
+      <Value>緊急情況指南</Value>
+    </Record>
+    <!-- Mission Stage: Aquire Raw Materials -->
+    <Record>
+      <Key>MarsTitleRawMaterials</Key>
+      <Value>乞求、挖洞和偷竊</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage2</Key>
+      <Value>未加工材料</Value>
+    </Record>
+    <Record>
+      <Key>MarsDescRawMaterials</Key>
+      <Value>找到一種方法來生產製造所需的基本材料</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskGetIronIngots</Key>
+      <Value>得到一個 {THING:ItemIronIngot}</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskGetCopperIngots</Key>
+      <Value>得到一個 {THING:ItemCopperIngot}</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskGetGoldIngots</Key>
+      <Value>得到一個 {THING:ItemGoldIngot}</Value>
+    </Record>
+    <!-- Mission Stage: Setup Manufacturing -->
+    <Record>
+      <Key>MarsTitleSetupManufacturing</Key>
+      <Value>獲取生產資料</Value>
+    </Record>
+    <Record>
+      <Key>MarsDescSetupManufacturing</Key>
+      <Value>為了製造我們所需的一切，我們應該 {THING:ItemKitHydraulicPipeBender} 和 {THING:ItemKitElectronicsPrinter} 開始。</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskManufactureHPB</Key>
+      <Value>製造一個 {THING:ItemKitHydraulicPipeBender}</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskManufactureEP</Key>
+      <Value>製造一個 {THING:ItemKitElectronicsPrinter}</Value>
+    </Record>
+    <!-- Mission Stage: Food Supply -->
+    <Record>
+      <Key>MarsTitleFoodSupply</Key>
+      <Value>可靠的食物來源</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage4</Key>
+      <Value>園藝指南</Value>
+    </Record>
+    <Record>
+      <Key>MarsDescFoodSupply</Key>
+      <Value>我們不知道你需要在這裡待多久。 我們應該準備一個可再生的食物來源以防萬一。</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskPrepareAtmos</Key>
+      <Value>創建一個壓力充足的房間，其大氣壓足以種植馬鈴薯。</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskGrowPotato</Key>
+      <Value>獲得一個 {THING:ItemPotato}</Value>
+    </Record>
+    <!-- Mission Stage: Spawn Mothership & Engine -->
+    <Record>
+      <Key>MarsTitleCreateRocket</Key>
+      <Value>創建火箭</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskBuildLaunchPad</Key>
+      <Value>火箭組裝 發射台</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskBuildEngine</Key>
+      <Value>火箭組裝 火箭引擎</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskBuildFuelTank</Key>
+      <Value>火箭組裝 燃料槽</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskBuildCommand</Key>
+      <Value>火箭組裝 指令艙模組</Value>
+    </Record>
+    <Record>
+      <Key>MarsTitleLaunchRocket</Key>
+      <Value>發射火箭</Value>
+    </Record>
+    <Record>
+      <Key>MarsDescLaunchRocket</Key>
+      <Value>在你往全新打造的火箭補充完燃料後, 你終於可以回到文明世界.</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskLaunchMothership</Key>
+      <Value>發射火箭</Value>
+    </Record>
+  </Interface>
+</Language>

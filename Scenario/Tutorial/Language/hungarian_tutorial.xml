@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Hungarian</Name>
+  <Code>HU</Code>
+  <Font>font_russian</Font>
+  <Interface>
+    <Record>
+      <Key>TutorialTitleWearSpacesuit</Key>
+      <Value>Az űrruha felvétele</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskWearHelmet</Key>
+      <Value>Vedd fel: {THING:ItemSpaceHelmet}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskWearSuit</Key>
+      <Value>Vedd fel: {THING:ItemEvaSuit}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskWearJetpack</Key>
+      <Value>Vedd fel: {THING:ItemSpacepack}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescPickupHelmet</Key>
+      <Value>Találd meg az {THING:ItemSpaceHelmet}ot és vedd a {SLOT:LeftHand} vagy {SLOT:RightHand} slotba a {KEY:PrimaryAction} megnyomásával. Több információért nézd meg a {LINK:Home;Stationpedia} {LINK:InventoryPage;Inventory} szekcióját.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescWearHelmet</Key>
+      <Value>Kétféleképpen tudsz interaktálni a {LINK:InventoryPage;tárhelyeddel}: gyorsbillentyűkkel és egérrel. Mindkettőnek megvan a maga előnye és hátránya.
+
+Tartsd nyomva a {KEY:MouseControl} gombot a kurzor megjelenítéséhez, majd húzd be az {THING:ItemSpaceHelmet}ot a {SLOT:Helmet} slotodba. Másik lehetőség a {KEY:HelmetSlot} lenyomása addig, amíg a {THING:ItemSpaceHelmet} át nem helyeződik a {SLOT:Helmet} slotba.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescPickupSuit</Key>
+      <Value>Keresd meg az {THING:ItemEvaSuit}-t és vedd a {SLOT:LeftHand} vagy a {SLOT:RightHand} slotba. Most próbálkozz az {THING:ItemEvaSuit} közvetlenül a {SLOT:Suit} slotba való húzásával, így gyorsabb. Tartsd nyomva a {KEY:MouseControl} billentyűt, vidd a kurzort az {THING:ItemEvaSuit} fölé, fogd meg a {KEY:PrimaryAction} megnyomásával és húzd a {SLOT:Suit} slotodba.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescWearSuit</Key>
+      <Value>Nyomd hosszan a {KEY:SuitSlot} billentyűt vagy tarsd nyomva a {KEY:MouseControl} gombot a kurzor megjelenítéséhez és az {THING:ItemEvaSuit} {SLOT:Suit} slotba helyezéséhez.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescPickupJetpack</Key>
+      <Value>Találd meg az {THING:ItemSpacepack}ot és vedd a {SLOT:LeftHand} vagy a {SLOT:RightHand} slotba a {KEY:PrimaryAction} megnyomásával.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescWearJetpack</Key>
+      <Value>Nyomd hosszan a(z) {KEY:BackSlot} gombot vagy tartsd nyomva a(z) {KEY:MouseControl} billentyűt és a kurzort, hogy felvedd a {THING:ItemSpacepack}-t a(z) {SLOT:Back} slotba.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTitlePowerSuit</Key>
+      <Value>Az űrruha ellátása árammal</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTitleGoInAirlock</Key>
+      <Value>Űrséta</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTitleFinishFrame</Key>
+      <Value>Fejezd be a váz hegesztését!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskFinishFrame1</Key>
+      <Value>Hegeszd meg: {THING:StructureFrame}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTitleBakeMuffin</Key>
+      <Value>Süss egy {THING:ItemMuffin}t!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescBakeMuffin6</Key>
+      <Value>Kapcsold be a {THING:ApplianceMicrowave}t a jobb oldali gombbal. Ha mindent jól mértél ki, akkor nemsokára lesz egy fincsi {THING:ItemMuffin}od! Ha nem, minden kárba vész.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescBakeMuffin7</Key>
+      <Value>Nyisd ki az {THING:ItemSpacepack}od a(z) {KEY:BackSlot} megnyomásával vagy a kurzorral kattints rá a(z) {KEY:MouseControl} gombot nyomva. Húzd át a kurzorral a {THING:ItemWrench}ot a kezedbe vagy a {COLORRED:görgővel} válaszd ki és a(z) {KEY:InventorySelect} megnyomásával cseréld ki a kezedben levő &quot;semmire&quot; (vagy az abban levő tárgyra).</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskBakeMuffin1</Key>
+      <Value>Vedd fel a {THING:ApplianceMicrowave}t</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskBakeMuffin2</Key>
+      <Value>Tedd le a {THING:StructureBench}ra</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskBakeMuffin3</Key>
+      <Value>Rögzítsd a {THING:ApplianceMicrowave}t a helyére</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskBakeMuffin11</Key>
+      <Value>Szedd ki a {THING:ItemWrench}ot az {THING:ItemSpacepack}ból</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskBakeMuffin4</Key>
+      <Value>Helyezz {COLORYELLOW:50g} {THING:ItemFlour}et a {THING:ApplianceMicrowave}be</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskBakeMuffin5</Key>
+      <Value>Helyezz {COLORYELLOW:egy} {THING:ItemEgg}t a {THING:ApplianceMicrowave}be</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskBakeMuffin6</Key>
+      <Value>Helyezz {COLORYELLOW:10ml} {THING:ItemMilk}et a {THING:ApplianceMicrowave}be</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskBakeMuffin7</Key>
+      <Value>Nyisd ki a {THING:ApplianceMicrowave} ajtaját</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskBakeMuffin8</Key>
+      <Value>Készíts egy {THING:ItemMuffin}t</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskBakeMuffin9</Key>
+      <Value>Csukd be a {THING:ApplianceMicrowave} ajtaját</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskBakeMuffin10</Key>
+      <Value>Kapcsold be a {THING:ApplianceMicrowave}t</Value>
+    </Record>
+  </Interface>
+</Language>

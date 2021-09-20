@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Dutch</Name>
+  <Code>NL</Code>
+  <Font>font_extended</Font>
+  <Interface>
+    <Record>
+      <Key>Incident_SolarFlare_Cold_Title</Key>
+      <Value>Zonnevlam Koud</Value>
+    </Record>
+    <Record>
+      <Key>Incident_SolarFlare_Cold</Key>
+      <Value>Satelieten hebben extreem weer patronen herkend rond jouw gebied.</Value>
+    </Record>
+  </Interface>
+</Language>

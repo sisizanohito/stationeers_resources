@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Code>TR</Code>
+  <Interface>
+    <Record>
+      <Key>BasicConcepts</Key>
+      <Value>Temel Beceriler</Value>
+    </Record>
+    <Record>
+      <Key>MBasicConceptsDescription</Key>
+      <Value>Seni Güneş Sistemi&apos;ne konuşlandırmadan önce, hadi temel becerilerini test edelim.</Value>
+    </Record>
+    <Record>
+      <Key>BasicConceptsSubTitle</Key>
+      <Value>Pratik Eğitim: Aşama I</Value>
+    </Record>
+    <Record>
+      <Key>IntroClose</Key>
+      <Value>Görev Bilgilendirmesini Kapat</Value>
+    </Record>
+    <Record>
+      <Key>WelcomeRecuit</Key>
+      <Value>Hoşgeldin Öğrenci</Value>
+    </Record>
+    <Record>
+      <Key>WelcomeRecuitDisc</Key>
+      <Value>Eğitim üssüne gir.</Value>
+    </Record>
+    <Record>
+      <Key>ControlMovementDisc</Key>
+      <Value>Hareket</Value>
+    </Record>
+    <Record>
+      <Key>Narration1T</Key>
+      <Value>Hoşgeldin Öğrenci</Value>
+    </Record>
+    <Record>
+      <Key>Narration1D</Key>
+      <Value>Evden uzak ve yalnız bir Stationeer tehlikeli şartlar altında çalışırken ve inşa ederken birçok özel beceriye gerek duyar. Biz, temelleri kavradığından emin olmak için buradayız. İlerideki hava geçidinden geçerek eğitim üssüne gir.</Value>
+    </Record>
+    <Record>
+      <Key>EnterAreaT1</Key>
+      <Value>Hava kilidine gir</Value>
+    </Record>
+    <Record>
+      <Key>ControlLeftClickDisc</Key>
+      <Value>Etkileşim</Value>
+    </Record>
+    <Record>
+      <Key>Narration2T</Key>
+      <Value>Hava Kilidi Kontrolleri</Value>
+    </Record>
+    <Record>
+      <Key>TrainingBaseDisc</Key>
+      <Value>Eğitim Üssüne Gir.</Value>
+    </Record>
+    <Record>
+      <Key>OpenAirlock</Key>
+      <Value>Konsolu kullanarak havakilidi dengele</Value>
+    </Record>
+    <Record>
+      <Key>ExitAreaT1</Key>
+      <Value>Test Alanına Gir</Value>
+    </Record>
+    <Record>
+      <Key>Narration3T</Key>
+      <Value>Protokoller</Value>
+    </Record>
+    <Record>
+      <Key>PickUpControlsDisc</Key>
+      <Value>Etkileşim</Value>
+    </Record>
+    <Record>
+      <Key>SwapControlsDisc</Key>
+      <Value>El değiştir</Value>
+    </Record>
+    <Record>
+      <Key>PickUpT1</Key>
+      <Value>Sandıktan kaynak aletini al</Value>
+    </Record>
+    <Record>
+      <Key>SwapHandsT1</Key>
+      <Value>El değiştir</Value>
+    </Record>
+    <Record>
+      <Key>SwapHandsT1 2</Key>
+      <Value>Tekrar el değiştir ...</Value>
+    </Record>
+    <Record>
+      <Key>Narration4T</Key>
+      <Value>Kaynak aleti.</Value>
+    </Record>
+    <Record>
+      <Key>ActiveWilderDisc</Key>
+      <Value>Kaynak aletini etkinleştir</Value>
+    </Record>
+    <Record>
+      <Key>WeilderOn</Key>
+      <Value>Kaynak aletini aç</Value>
+    </Record>
+    <Record>
+      <Key>WeilderOff</Key>
+      <Value>Kaynak aletini kapat</Value>
+    </Record>
+    <Record>
+      <Key>DropItemT1 1</Key>
+      <Value>Sağ elindeki aleti at</Value>
+    </Record>
+    <Record>
+      <Key>ThrowControlsDisc</Key>
+      <Value>Eşyayı fırlat</Value>
+    </Record>
+    <Record>
+      <Key>DropControlsDisc</Key>
+      <Value>Eşyayı bırak</Value>
+    </Record>
+    <Record>
+      <Key>Narration6T</Key>
+      <Value>Kaynakçı</Value>
+    </Record>
+    <Record>
+      <Key>PrecisionPlaceControlsDisc</Key>
+      <Value>Hassas Yerleştirme Modu</Value>
+    </Record>
+    <Record>
+      <Key>PrecisionPlaceControlsPlaceDisc</Key>
+      <Value>Eşya Yerleştir</Value>
+    </Record>
+    <Record>
+      <Key>Narration7T</Key>
+      <Value>Envanter sistemleri</Value>
+    </Record>
+    <Record>
+      <Key>GettingTheBelt</Key>
+      <Value>Alet Kemerini Aç</Value>
+    </Record>
+    <Record>
+      <Key>Narration8T</Key>
+      <Value>Arayüz pencereleri</Value>
+    </Record>
+    <Record>
+      <Key>OpenBackPackDisc</Key>
+      <Value>Alet Kemerini Aç</Value>
+    </Record>
+    <Record>
+      <Key>OpenBackPack</Key>
+      <Value>Sırt çantanı aç.</Value>
+    </Record>
+    <Record>
+      <Key>AltDragControlsDisc</Key>
+      <Value>Envanter ile etkileşim.</Value>
+    </Record>
+    <Record>
+      <Key>AltClickControlsDisc</Key>
+      <Value>Fare ile etkileşim</Value>
+    </Record>
+    <Record>
+      <Key>OpenMaskControlsDisc</Key>
+      <Value>Başlığı aç</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaToggleControlsDisc</Key>
+      <Value>Stationpedia&apos;yı aç</Value>
+    </Record>
+    <Record>
+      <Key>QucikEquiptControls</Key>
+      <Value>Fare tekerleği</Value>
+    </Record>
+    <Record>
+      <Key>QucikEquiptControlsDisc</Key>
+      <Value>Envanter Yuvasını Seç</Value>
+    </Record>
+    <Record>
+      <Key>QuickSelectItemControlsDisc</Key>
+      <Value>Envanter ile etkileşim</Value>
+    </Record>
+    <Record>
+      <Key>DoubleClickingControlsDisc</Key>
+      <Value>Envanter ile etkileşim</Value>
+    </Record>
+    <Record>
+      <Key>SecondaryActionControlsDisc</Key>
+      <Value>İkincil Eylem</Value>
+    </Record>
+    <Record>
+      <Key>ControlLeftClickBuildDisc</Key>
+      <Value>Yapı İnşa Et.</Value>
+    </Record>
+    <Record>
+      <Key>BuildControlsDisc</Key>
+      <Value>Yapı Moduna Gir.</Value>
+    </Record>
+    <Record>
+      <Key>UseItemControls</Key>
+      <Value>{KEY:SecondaryAction} basılı tut</Value>
+    </Record>
+    <Record>
+      <Key>UseItemControlsDisc</Key>
+      <Value>Eşyayı etkinleştir</Value>
+    </Record>
+    <Record>
+      <Key>UsePrimeControls</Key>
+      <Value>{KEY:PrimaryAction} basılı tut</Value>
+    </Record>
+    <Record>
+      <Key>UsePrimeControlsDisc</Key>
+      <Value>Eşyayı kullan</Value>
+    </Record>
+    <Record>
+      <Key>Narration11T</Key>
+      <Value>Kısa yollar</Value>
+    </Record>
+    <Record>
+      <Key>DropT1 3</Key>
+      <Value>&apos;Q&apos; ile işaret fişeğini bırak</Value>
+    </Record>
+    <Record>
+      <Key>ChildOnSlotOpenDisc</Key>
+      <Value>Çantandan madenci kemerini aç.</Value>
+    </Record>
+    <Record>
+      <Key>OpeningTheMininngBelt</Key>
+      <Value>Madenci kemerini aç</Value>
+    </Record>
+    <Record>
+      <Key>Narration13T</Key>
+      <Value>Piller yerleştir</Value>
+    </Record>
+    <Record>
+      <Key>Narration14T</Key>
+      <Value>Yığınları birleştir</Value>
+    </Record>
+    <Record>
+      <Key>MergeFramesT1Disc</Key>
+      <Value>Bir yığını diğerinin üzerine sürükleyerek çerçeveleri birleştirin.</Value>
+    </Record>
+    <Record>
+      <Key>Narration15T</Key>
+      <Value>` ile arayüzü kapat</Value>
+    </Record>
+    <Record>
+      <Key>CloseAllUIT1Disc</Key>
+      <Value>Tüm açık UI pencerelerini kapat</Value>
+    </Record>
+    <Record>
+      <Key>CloseUITask</Key>
+      <Value>Tüm arayüz pencerelerini kapat</Value>
+    </Record>
+    <Record>
+      <Key>ControlCloseUIDisc</Key>
+      <Value>Tüm açık arayüz pencerelerini kapat</Value>
+    </Record>
+    <Record>
+      <Key>Narration16T</Key>
+      <Value>Bölüm B</Value>
+    </Record>
+    <Record>
+      <Key>EnterAreaT3</Key>
+      <Value>Sonraki hava kilidine gir</Value>
+    </Record>
+    <Record>
+      <Key>Narration17T</Key>
+      <Value>Bölüm B</Value>
+    </Record>
+    <Record>
+      <Key>ControlJetpackAsendMovementDisc</Key>
+      <Value>Yüksel</Value>
+    </Record>
+    <Record>
+      <Key>ControlJetpackDesendMovementDisc</Key>
+      <Value>Alçal</Value>
+    </Record>
+    <Record>
+      <Key>PickUpT1 9</Key>
+      <Value>Sandıktan Demir Çerçeveleri al</Value>
+    </Record>
+    <Record>
+      <Key>PickUpT1 4</Key>
+      <Value>Sandıktan demir levhaları al</Value>
+    </Record>
+    <Record>
+      <Key>FinsihFramesT1Disc</Key>
+      <Value>Eğitim üssünü tamamlamak için sandıktan lehim aletini ve çelik levhaları al.</Value>
+    </Record>
+    <Record>
+      <Key>FillingWithAirT1Disc</Key>
+      <Value>Üssünü nefes alınabilir atmosfer ile doldur.</Value>
+    </Record>
+    <Record>
+      <Key>OpenTheAPCPanel</Key>
+      <Value>Sandıktaki levye ile APC&apos;yi aç</Value>
+    </Record>
+    <Record>
+      <Key>TurnOnAPC</Key>
+      <Value>APC&apos;yi aç</Value>
+    </Record>
+    <Record>
+      <Key>TurningOnTheOXygen</Key>
+      <Value>Dış basınç 60kPa&apos;a ulaşana kadar bekle.</Value>
+    </Record>
+    <Record>
+      <Key>OpenHelmT1Disc</Key>
+      <Value>Giysi başlığını aç.</Value>
+    </Record>
+    <Record>
+      <Key>OpenHelmT1Task</Key>
+      <Value>Başlık kilidini aç</Value>
+    </Record>
+    <Record>
+      <Key>OpenHelmT2Task</Key>
+      <Value>Başlığı aç</Value>
+    </Record>
+    <Record>
+      <Key>Narration21T</Key>
+      <Value>Son aşama</Value>
+    </Record>
+    <Record>
+      <Key>Narration21D</Key>
+      <Value>Pekâlâ öğrenci, Stationeers Pratik Testi&apos;nin ilk aşamasını neredeyse tamamladın. Daha fazlasını öğrenmek istersen F1 tuşuna basarak  Stationpedia&apos;ya başvurabilirsin.</Value>
+    </Record>
+    <Record>
+      <Key>Narration22T</Key>
+      <Value>Son aşama</Value>
+    </Record>
+    <Record>
+      <Key>GettingHelpClose</Key>
+      <Value>Stationpedia&apos;yı kapat</Value>
+    </Record>
+    <Record>
+      <Key>Narration23T</Key>
+      <Value>Son aşama</Value>
+    </Record>
+    <Record>
+      <Key>JetpackOn</Key>
+      <Value>Sırt roketini aç</Value>
+    </Record>
+    <Record>
+      <Key>JetpackOff</Key>
+      <Value>Sırt roketini kapat</Value>
+    </Record>
+    <Record>
+      <Key>JetpackT1Disc</Key>
+      <Value>Sırt roketinin kontrollerini test et.</Value>
+    </Record>
+    <Record>
+      <Key>FillOutPaperworkT1Disc</Key>
+      <Value>Sonuçları iletmek için büyük mavi tuşa bas.</Value>
+    </Record>
+    <Record>
+      <Key>OnButtonPressTaskT1</Key>
+      <Value>Testi bitirmek için &apos;Onayla&apos; tuşuna bas</Value>
+    </Record>
+    <Record>
+      <Key>UIBasicsEndDescription</Key>
+      <Value>Tebrikler. Sonuçlarınız, Offworld Kalkınma Ajansı Stationeer Komutanlığı tarafından alındı.</Value>
+    </Record>
+    <Record>
+      <Key>Dropflare</Key>
+      <Value>Sağ elinden işaret fişeyini bırak</Value>
+    </Record>
+    <Record>
+      <Key>NarrationClose</Key>
+      <Value>Anlatım Panelini kapat</Value>
+    </Record>
+  </Interface>
+</Language>

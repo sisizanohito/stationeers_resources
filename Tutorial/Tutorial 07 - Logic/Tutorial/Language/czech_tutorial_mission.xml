@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Code>CS</Code>
+  <Interface>
+    <Record>
+      <Key>TutoiralLogic</Key>
+      <Value>Logika</Value>
+    </Record>
+    <Record>
+      <Key>TutoiralLogicSubTitle</Key>
+      <Value>Praktický výcvik: Fáze III</Value>
+    </Record>
+    <Record>
+      <Key>8ConstructLever</Key>
+      <Value>Postavte ventil na zvýrazněné místo</Value>
+    </Record>
+    <Record>
+      <Key>8ConstructCable</Key>
+      <Value>Postavte ventil na zvýrazněné místo</Value>
+    </Record>
+    <Record>
+      <Key>8ConstructCable2</Key>
+      <Value>Dokončete potrubní síť kyslíku</Value>
+    </Record>
+    <Record>
+      <Key>8ConstructReader</Key>
+      <Value>Postavte ventil na zvýrazněné místo</Value>
+    </Record>
+    <Record>
+      <Key>8ConstructWriter</Key>
+      <Value>Postavte ventil na zvýrazněné místo</Value>
+    </Record>&gt;
+		
+    <Record>
+      <Key>8TurnOnReader</Key>
+      <Value>Zapněte čtečku logiky.</Value>
+    </Record>
+    <Record>
+      <Key>8TurnOnWriter</Key>
+      <Value>Zapněte čtečku logiky.</Value>
+    </Record>
+    <Record>
+      <Key>8ConstructCable2</Key>
+      <Value>Dokončete potrubní síť kyslíku</Value>
+    </Record>
+    <Record>
+      <Key>8TurnOffWriter</Key>
+      <Value>Zapněte čtečku logiky.</Value>
+    </Record>
+    <Record>
+      <Key>8TurnOffReader</Key>
+      <Value>Zapněte čtečku logiky.</Value>
+    </Record>
+    <Record>
+      <Key>8ConstructBatchWriter</Key>
+      <Value>Postavte ventil na zvýrazněné místo</Value>
+    </Record>
+    <Record>
+      <Key>8TurnOnBatchWriter</Key>
+      <Value>Zapněte baterii</Value>
+    </Record>
+    <Record>
+      <Key>8TurnOffBatchWriter</Key>
+      <Value>Zapněte baterii</Value>
+    </Record>
+  </Interface>
+</Language>

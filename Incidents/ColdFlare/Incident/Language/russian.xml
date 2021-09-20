@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Russian</Name>
+  <Code>RU</Code>
+  <Font>font_russian</Font>
+  <Interface>
+    <Record>
+      <Key>Incident_SolarFlare_Cold_Title</Key>
+      <Value>Похолодание</Value>
+    </Record>
+    <Record>
+      <Key>Incident_SolarFlare_Cold</Key>
+      <Value>Спутники распознают экстремальные погодные условия в вашем районе.</Value>
+    </Record>
+  </Interface>
+</Language>

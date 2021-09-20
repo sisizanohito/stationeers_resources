@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Code>ES</Code>
+  <Interface>
+    <Record>
+      <Key>TutoiralRocketry</Key>
+      <Value>Coheteria</Value>
+    </Record>
+    <Record>
+      <Key>TutoiralRocketryDescription</Key>
+      <!--This is the description that appers in the menu-->
+      <Value>ROCKET ... guayyyyyy, no me va a demandar ningún tipo cualquiera.</Value>
+    </Record>
+    <Record>
+      <Key>TutoiralAtmosphericsSubTitle</Key>
+      <Value>Entrenamiento Práctico: Fase 4</Value>
+    </Record>
+  </Interface>
+</Language>

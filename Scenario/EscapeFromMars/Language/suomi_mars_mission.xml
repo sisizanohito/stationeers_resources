@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Suomi</Name>
+  <Code>FI</Code>
+  <Interface>
+    <Record>
+      <Key>EscapeFromMarsTitle</Key>
+      <Value>Pako Marsista</Value>
+    </Record>
+    <Record>
+      <Key>EscapeFromMarsDescription</Key>
+      <Value>Niukasti tarvikkeita, sinun täytyy hyödyntää nokkeluuttasi ja tahtoasi löytääksesi keinon selvitä Marsissa. Jos kaikki menee suunitelman mukaan, tämä johtaa lopulta raketin rakentamiseen joka pystyy poistumaan Marsin ilmakehästä.</Value>
+    </Record>
+    <!-- Mission Stage: In Case of Emergency -->
+    <Record>
+      <Key>MarsTitleInCaseOfEmergency</Key>
+      <Value>Hätätapauksessa...</Value>
+    </Record>
+    <Record>
+      <Key>MarsDescInCaseOfEmergency</Key>
+      <Value>Pukusi on vaurioitunut ja sinun täytyy löytää ruokaa.</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskGetTape</Key>
+      <Value>Etsi {COLORGREEN:Ilmastointiteippi}</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskGetFood</Key>
+      <Value>Etsi {COLORGREEN:Viljapatukka}</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage1</Key>
+      <Value>HÄTÄOPAS</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage1Page1</Key>
+      <Value>SIVU 1 / 2 \nEI PANIIKKIA.\n\nJos luet tätä, selvisit hengissä evakuoinnista - onneksi olkoon.  Ympäristöstäsi riippumatta ensimmäinen prioriteettisi on tarkistaa oma ja muitten ympärillä olevien terveys.  Muista myös tarkistaa pukusi kunto koska ei voi tietää millaisista olosuhteista löydät itsesi ja jäljellä olevan hapen suojaaminen on ratkaisevaa.</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage1Page2</Key>
+      <Value>SIVU 2 / 2 \nJos olet lähellä ehjää pakokapselia ja siihen liitettyä varustelaatikkoa, sinulla pitäisi olla jotain tärkeitä varusteita kun odotat pelastusta. Jos et niin etsi eloonjäänneitä.  Pistä mieleen sijainti, tai kerää, varusteita jotka ovat tärkeitä eloonjäämisesi kannalta kuten ruokaa, paristoja, materiaaleja kuten ilmastointiteippi ja kannettavia laitteita. \n</Value>
+    </Record>
+    <!-- Mission Stage: Aquire Raw Materials -->
+    <Record>
+      <Key>MarsTitleRawMaterials</Key>
+      <Value>Kerjää, Kaiva tai Varasta</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage2</Key>
+      <Value>RAAKAMATERIAALEJA</Value>
+    </Record>
+    <Record>
+      <Key>MarsDescRawMaterials</Key>
+      <Value>Löydä keino valmistaa perusmateriaaleja jotta saat tuotannon käyntiin.</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskGetIronIngots</Key>
+      <Value>Hanki {COLORGREEN:Rautaharkko}</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskGetCopperIngots</Key>
+      <Value>Hanki {COLORGREEN:Kupariharkko}</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskGetGoldIngots</Key>
+      <Value>Hanki {COLORGREEN:Kultaharkko}</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage2Page1</Key>
+      <Value>SIVU 1 / 2 \nKERJÄÄ, KAIVA tai VARASTA\n\nOnneksi meidän työkaluissa on valmistusohjeita joita todennäköisesti tarvitset tilanteessasi.  Valitettavasti tarvitset raakamateriaaleja niihin.  Nämä voi saada useammasta lähteestä tilanteestasi riippuen:</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage2Page2</Key>
+      <Value>SIVU 2 / 2 \nKERÄÄ\n\nJos aluksesi on suhteellisen ehjä, voit löytää materiaaleja jalostetussa muodossa, joko valmistuslaitteissa tai varastoituna niitten lähelle.\n\nPURA\n\nJos onnistut löytämään tai valmistamaan kulmahiomakoneen, voit käyttää sitä purkaaksesi aluksen hylkyä.  Kierrättäjää voi käyttää hajottamaan osat perusmateriaaleiksi ja Linko erottelee ne jotta niitä voi sulattaa uudestaan käytettäviksi materiaaleiksi.</Value>
+    </Record>
+    <!-- Mission Stage: Setup Manufacturing -->
+    <Record>
+      <Key>MarsTitleSetupManufacturing</Key>
+      <Value>Tuotannon Aloittaminen</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage3</Key>
+      <Value>TUOTANNON ALKEET</Value>
+    </Record>
+    <Record>
+      <Key>MarsDescSetupManufacturing</Key>
+      <Value>Jotta voidaan valmistaa kaikki tarvittava, meidän pitäisi aloitaa {COLORGREEN:Hydraulisella Putkentaivuttajalla} ja {COLORGREEN:Elektroniikka Printterillä}.</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskManufactureHPB</Key>
+      <Value>Valmista {COLORGREEN:Hydraulinen Putkentaivuttaja}</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskManufactureEP</Key>
+      <Value>Valmista {COLORGREEN:Elektroniikka Printteri}</Value>
+    </Record>
+    <!-- Mission Stage: Food Supply -->
+    <Record>
+      <Key>MarsTitleFoodSupply</Key>
+      <Value>Luotettava Ravinnonlähde</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage4</Key>
+      <Value>PUUTARHANHOITO-OPAS</Value>
+    </Record>
+    <Record>
+      <Key>MarsDescFoodSupply</Key>
+      <Value>Emme tiedä miten kauan joudumme selviämään täällä.  Meidän tulisi valmistaa uusiutuvaa ravninnonlähdettä varmuuden vuoksi.</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskPrepareAtmos</Key>
+      <Value>Luo paineistettu huone missä on tarpeellinen ilmasto perunoiden kasvattamiseen.</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskGrowPotato</Key>
+      <Value>Hanki {COLORGREEN:Peruna}</Value>
+    </Record>
+    <!-- Mission Stage: Spawn Mothership & Engine -->
+    <Record>
+      <Key>MarsTitleCreateRocket</Key>
+      <Value>Emoaluksen Luominen</Value>
+    </Record>
+    <Record>
+      <Key>MarsTitleLaunchRocket</Key>
+      <Value>Emoaluksen Laukaisu</Value>
+    </Record>
+  </Interface>
+</Language>

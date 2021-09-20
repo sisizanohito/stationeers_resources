@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Code>KN</Code>
+  <Interface>
+    <Record>
+      <Key>Tutorial10-CircuitLogicSolarTracking</Key>
+      <Value>#10 応用 ロジック回路 - 太陽のトラッキング</Value>
+    </Record>
+    <Record>
+      <Key>ConsoleManuallControl1</Key>
+      <Value>ハイライトされた位置に {THING:StructureCableStraight} を設置してネットワークを完成させる。</Value>
+    </Record>
+    <Record>
+      <Key>ConsoleManuallControl2</Key>
+      <Value>{THING:StructureConsole} をハイライトされた位置に設置する。</Value>
+    </Record>
+    <Record>
+      <Key>ConsoleManualControlSetupTask1</Key>
+      <Value>{THING:StructureConsole} に {THING:CircuitboardSolarControl} を挿入する。</Value>
+    </Record>
+    <Record>
+      <Key>ConsoleManualControlSetupTask2</Key>
+      <Value>{THING:StructureConsole} に {THING:ItemGlassSheets} を取り付ける。</Value>
+    </Record>
+    <Record>
+      <Key>ConsoleManualControlSetupTask3</Key>
+      <Value>{THING:StructureConsole} に {THING:ItemDataDisk} を挿入する。</Value>
+    </Record>
+    <Record>
+      <Key>ConsoleManualControlSetupTask4</Key>
+      <Value>{THING:StructureConsole} を起動させ、表示されるソーラーパネルを選択する。</Value>
+    </Record>
+    <Record>
+      <Key>ConsoleManualControlSetupTask5</Key>
+      <Value>{THING:StructureConsole} から {THING:ItemDataDisk} を取り出す。</Value>
+    </Record>
+    <Record>
+      <Key>PickUpDaylightSensor</Key>
+      <Value>クレートから {THING:ItemKitSensor} を取り出す。</Value>
+    </Record>
+    <Record>
+      <Key>DaylightSensor1</Key>
+      <Value>{THING:StructureDaylightSensor} をハイライトされた位置に設置する。</Value>
+    </Record>
+    <Record>
+      <Key>PickUpMemory</Key>
+      <Value>近くのクレートから {THING:ItemKitLogicMemory} ユニットを取り出す。</Value>
+    </Record>
+    <Record>
+      <Key>StructureLogicMemory</Key>
+      <Value>{THING:StructureLogicMemory} をハイライトされた位置に設置する。</Value>
+    </Record>
+    <Record>
+      <Key>SetupLogicWritter1</Key>
+      <Value>{THING:StructureLogicWriter} を起動する。</Value>
+    </Record>
+    <Record>
+      <Key>SetupLogicWritter2</Key>
+      <Value>{THING:ItemScrewdriver} を使って {THING:StructureLogicWriter} の入力をHorizontal Mode Memoryに設定する。
+</Value>
+    </Record>
+    <Record>
+      <Key>PickUpLogicProcessor</Key>
+      <Value>近くのクレートから {THING:ItemKitLogicProcessor} ユニットを取り出す。</Value>
+    </Record>
+    <Record>
+      <Key>LogicWriter1</Key>
+      <Value>{THING:StructureLogicWriter} をハイライトされた位置に設置する。</Value>
+    </Record>
+    <Record>
+      <Key>LogicReader1</Key>
+      <Value>{THING:StructureLogicReader} をハイライトされた位置に設置する。</Value>
+    </Record>
+    <Record>
+      <Key>PlaceLogicMath</Key>
+      <Value>最初の {THING:StructureLogicMath} をハイライトされた位置に設置する。</Value>
+    </Record>
+    <Record>
+      <Key>PlaceLogicMath1</Key>
+      <Value>次の {THING:StructureLogicMath} をハイライトされた位置に設置する。</Value>
+    </Record>
+    <Record>
+      <Key>VerticalBatchWritterSetup4</Key>
+      <Value>{THING:StructureLogicBatchWriter} を起動する。</Value>
+    </Record>
+    <Record>
+      <Key>PickUpLogicInputOutput</Key>
+      <Value>クレートから {THING:ItemKitLogicInputOutput} を取り出す。</Value>
+    </Record>
+    <Record>
+      <Key>BatchWriter1</Key>
+      <Value>{THING:StructureLogicBatchWriter} をハイライトされた位置に設置する。</Value>
+    </Record>
+    <Record>
+      <Key>PlaceLogicMath2</Key>
+      <Value>最初の {THING:StructureLogicMath} をハイライトされた位置に設置する。</Value>
+    </Record>
+    <Record>
+      <Key>PlaceLogicMath3</Key>
+      <Value>2つ目の {THING:StructureLogicMath} をハイライトされた位置に設置する。</Value>
+    </Record>
+    <Record>
+      <Key>BatchWriter2</Key>
+      <Value>{THING:StructureLogicBatchWriter} をハイライトされた位置に設置する。</Value>
+    </Record>
+    <Record>
+      <Key>HorizontalBatchWritterSetup4</Key>
+      <Value>{THING:StructureLogicBatchWriter} を起動する。</Value>
+    </Record>
+    <Record>
+      <Key>LogicSelect1</Key>
+      <Value>最初の {THING:StructureLogicSelect} をハイライトされた位置に設置する。</Value>
+    </Record>
+    <Record>
+      <Key>LogicSelect2</Key>
+      <Value>次の {THING:StructureLogicSelect} をハイライトされた位置に設置する。</Value>
+    </Record>
+  </Interface>
+</Language>

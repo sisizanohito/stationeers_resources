@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Code>KO</Code>
+  <Interface>
+    <Record>
+      <Key>TutoiralFabrication</Key>
+      <Value>제조</Value>
+    </Record>
+    <Record>
+      <Key>TutoiralFabricationSubTitle</Key>
+      <Value>실용적인 훈련: 단계 3</Value>
+    </Record>
+    <Record>
+      <Key>3Narration1T</Key>
+      <Value>실용적인 훈련: 단계 3</Value>
+    </Record>
+    <Record>
+      <Key>3GetTablet</Key>
+      <Value>태블릿을 상자에서 주우세요.</Value>
+    </Record>
+    <Record>
+      <Key>3Narration2T</Key>
+      <Value>실용적인 훈련: 단계 3</Value>
+    </Record>
+    <Record>
+      <Key>3TabletOn</Key>
+      <Value>태블릿을 켜세요.</Value>
+    </Record>
+    <Record>
+      <Key>3EnterAreaT1</Key>
+      <Value>비콘으로 이동하세요</Value>
+    </Record>
+    <Record>
+      <Key>3GetMDrill</Key>
+      <Value>채굴 드릴을 가방안의 채굴용 벨트에서 장착하세요.</Value>
+    </Record>
+    <Record>
+      <Key>3MDrillOn</Key>
+      <Value>드릴을 켜세요.</Value>
+    </Record>
+    <Record>
+      <Key>3GetIronOre</Key>
+      <Value>30개의 철을 캐세요.</Value>
+    </Record>
+    <Record>
+      <Key>3Narration5D</Key>
+      <Value>기지에 돌아가 얻은 광석을 제련하세요.</Value>
+    </Record>
+    <Record>
+      <Key>3EnterAreaT2</Key>
+      <Value>기지로 돌아가세요</Value>
+    </Record>
+    <Record>
+      <Key>3GetArcFurnaceKit</Key>
+      <Value>용광로 키트를 상자에서 주우세요.</Value>
+    </Record>
+    <Record>
+      <Key>3BuildArcFurnaceTutorial</Key>
+      <Value>용광로를 강조된 지점에 설치하세요.</Value>
+    </Record>
+    <Record>
+      <Key>3BuildHeavyCableTutorial</Key>
+      <Value>용광로의 전원을 연결하세요.</Value>
+    </Record>
+    <Record>
+      <Key>3ArcFurnaceOn</Key>
+      <Value>용광로를 켜세요</Value>
+    </Record>
+    <Record>
+      <Key>3ArcFurnaceActive</Key>
+      <Value>용광로를 가동하세요</Value>
+    </Record>
+    <Record>
+      <Key>3GetCopperIngot</Key>
+      <Value>구리 주괴를 상자에서 주우세요.</Value>
+    </Record>
+    <Record>
+      <Key>3PutCopperIngotInAutoLathe</Key>
+      <Value>구리 주괴를 자동 선반에 투입하세요.</Value>
+    </Record>
+    <Record>
+      <Key>3GetGoldIngot</Key>
+      <Value>금 주괴를 상자에서 주우세요.</Value>
+    </Record>
+    <Record>
+      <Key>3PutGoldIngotInAutoLathe</Key>
+      <Value>금 주괴를 자동 선반에 투입하세요.</Value>
+    </Record>
+    <Record>
+      <Key>3AutoLatheOn</Key>
+      <Value>자동 선반을 켜세요.</Value>
+    </Record>
+    <Record>
+      <Key>3GetPipeBender</Key>
+      <Value>공유압 프린터 키트를 주우세요.</Value>
+    </Record>
+    <Record>
+      <Key>3BuildPipebenderTutorial</Key>
+      <Value>공유압 프린터를 강조된 지점에 설치하세요</Value>
+    </Record>
+    <Record>
+      <Key>3PipeBenderOn</Key>
+      <Value>공유압 프린터를 켜세요.</Value>
+    </Record>
+    <Record>
+      <Key>2EquiptMiningbelt</Key>
+      <Value>채굴용 벨트 열기</Value>
+    </Record>
+  </Interface>
+</Language>

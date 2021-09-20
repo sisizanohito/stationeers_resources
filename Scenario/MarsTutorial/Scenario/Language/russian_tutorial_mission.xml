@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Code>RU</Code>
+  <Interface>
+    <Record>
+      <Key>TheNewBeginningTitle</Key>
+      <Value>Новое начало [БЕТА]</Value>
+    </Record>
+    <Record>
+      <Key>TheNewBeginningDescription</Key>
+      <Value>Давайте изучим некоторые основы и научимся быть лучшим Станционером, каким только можно быть!</Value>
+    </Record>
+    <!-- start the tutorial -->
+    <Record>
+      <Key>TutorialTheBeginningTitle</Key>
+      <Value>Начало</Value>
+    </Record>
+    <Record> Using 
+			
+      <Key>TutorialTheBeginningDescription</Key>
+      <Value>Давайте начнем. Закройте Stationpedia используя {KEY:Help}. Теперь экипируйте скафандр используя {KEY:PrimaryAction} для поднятия предметов. Нажмите {KEY:HelmetSlot}, {KEY:SuitSlot}, {KEY:BackSlot}, {KEY:UniformSlot} или {KEY:ToolBeltSlot} чтобы переключится через возможные взаимодействия и слоты в любых экипированных в слоты экипировки предметах. Нажмите и держите соответствующие кнопки чтобы обменять содержимое слота с тем что у вас в руках. Вы так же можете зажать {KEY:MouseControl} и перетянуть предметы в соответствующий слот.
+
+Слоты вашего персонажа показаны в левой части экрана. Как пример использование кнопки {KEY:MouseControl} для нажатия на слот {THING:UniformOrangeJumpSuit}. Это откроет меню в соответствии с предметом экипированным в слот, позволяя взаимодействовать с предметом.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTheBeginningTask1</Key>
+      <Value>Закройте {LINK:Home;Stationpedia}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTheBeginningTask2</Key>
+      <Value>Наденьте {THING:ItemSpaceHelmet}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTheBeginningTask3</Key>
+      <Value>Наденьте ваш {THING:ItemSpacepack}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTheBeginningTask4</Key>
+      <Value>Наденьте ваш {THING:ItemEvaSuit}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDontBeAToolTitle</Key>
+      <Value>Не Будь Инструментом</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDontBeAToolDescription</Key>
+      <Value>Знаешь, как говорят: &quot;Никогда не выходи без своего пояса инструментов!&quot;
+Бери его и надевай.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDontBeAToolTask1</Key>
+      <Value>Наденьте ваш {THING:ItemToolBelt}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialPowerUpTitle</Key>
+      <Value>Включение Питания</Value>
+    </Record>
+    <Record>
+      <Key>TutorialPowerUpDescription</Key>
+      <Value>Отлично, теперь давайте запустим системы вашего костюма.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialPowerUpTask1</Key>
+      <Value>Возьмите {THING:ItemBatteryCellNuclear} используя {KEY:PrimaryAction}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialPowerUpTask2</Key>
+      <Value>Откройте ваш {THING:ItemEvaSuit} использую кнопку {KEY:SuitSlot}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialPowerUpTask3</Key>
+      <Value>Вставьте {THING:ItemBatteryCellNuclear} в слот для батареи.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSomethingToFilterTitle</Key>
+      <Value>Чего-нибудь отфильтровать</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSomethingToFilterDescription</Key>
+      <Value>Скафандр требует {THING:ItemBatteryCellNuclear}, {THING:ItemGasFilterCarbonDioxide} и прочие вещи для обеспечения безопасной и всеохватывающей среды.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSomethingToFilterTask1</Key>
+      <Value>Возьмите {THING:ItemGasFilterCarbonDioxide} использую {KEY:PrimaryAction}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSomethingToFilterTask3</Key>
+      <Value>Вставьте {THING:ItemGasFilterCarbonDioxide} в слот для фильтра</Value>
+    </Record>
+    <Record>
+      <Key>TutorialGasItUpTitle</Key>
+      <Value>Подзаправься</Value>
+    </Record>
+    <Record>
+      <Key>TutorialGasItUpDescription</Key>
+      <Value>Ваш {THING:ItemSpacepack} требует топливо для работы, давайте воспользуемся той канистрой с азотом, что недалеко от вас.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialGasItUpTask</Key>
+      <Value>Вставьте {THING:ItemGasCanisterNitrogen} в топливный слот.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialFeelingHotHotHotTitle</Key>
+      <Value>Ощущается горячо-горячо</Value>
+    </Record>
+    <Record>
+      <Key>TutorialFeelingHotHotHotDescripton</Key>
+      <Value>В костюме несколько жарковато. Откройте ваш {THING:ItemEvaSuit} используя {KEY:SuitSlot} и опустите температуру до 20 градусов Цельсия. Более низкие температуры могут помочь продлить работу вашего костюма от аккумулятора, что может быть полезно если вы окажетесь в неблагоприятной ситуации. Сделанные вами изменения отобразятся в вашем пользовательском интерфейсе.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialFeelingHotHotHotTask1</Key>
+      <Value>Снизьте температуру в скафандре.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLockItDownTitle</Key>
+      <Value>Заблокируйте Его Сейчас</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLockItDownDescripton</Key>
+      <Value>Время выбраться наружу! Не забудьте закрыть ваш шлем - в противном случае возникнут сложности с дыханием. Заблокировав шлем вы можете избежать случайного открытия скафандра и воздействия вредной атмосферы, температурных флуктуаций, так что давайте заблокируем его.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLockItDownTask1</Key>
+      <Value>Закройте ваш {THING:ItemSpaceHelmet} используя {KEY:Internals}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLockItDownTask2</Key>
+      <Value>Откройте меню {THING:ItemSpaceHelmet} используя {KEY:HelmetSlot} и выберите кнопку блокировки.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTheGreatOutdoorsTitle</Key>
+      <Value>Великие Просторы</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTheGreatOutdoorsDescription</Key>
+      <Value>Пошли на встречу приключениям! Подготовьтесь провести цикл шлюзования {THING:StructureAirlock}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTheGreatOutdoorsTask1</Key>
+      <Value>Войдите в {THING:StructureAirlock}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTheGreatOutdoorsTask2</Key>
+      <Value>Проведите цикл шлюзования {THING:StructureAirlock} нажав на кнопку Cycle в подсвеченной консоли и дождитесь завершения процедуры.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescCycleAirlock1</Key>
+      <Value>Как на счет подышать не таким уж и свежим воздухом?</Value>
+    </Record>
+    <Record>
+      <Key>TutorialAnotherDayAnotherDollarTitle</Key>
+      <Value>Новый День, Новый Доллар</Value>
+    </Record>
+    <Record>
+      <Key>TutorialAnotherDayAnotherDollarDescription</Key>
+      <Value>Эти руды сами себя не выкопают! Ты можешь перемещать предметы из слота в свою руку удерживая {KEY:InventorySelect}, и можешь перемещать предметы из своей руки в слот удерживая кнопку с номером слота. Загляни в свой рюкзак и достань свой {THING:ItemMiningBelt}, надевая его с помощью удерживания {KEY:ToolBeltSlot} пока он в руке. Возьми {THING:ItemMiningDrill} и начни копать. Не забудь выключить его перед тем как убирать обратно!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialAnotherDayAnotherDollarTask1</Key>
+      <Value>Возьми {THING:ItemMiningDrill} из твоего {THING:ItemMiningBelt}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialAnotherDayAnotherDollarTask0</Key>
+      <Value>Попробуйте включить ваш бур используя {KEY:ToggleHandPower}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialAnotherDayAnotherDollarTask2</Key>
+      <Value>Добудьте немного {THING:ItemIronOre} из грунта</Value>
+    </Record>
+    <Record>
+      <Key>TutorialJetpackTitle</Key>
+      <Value>Я Верю Что Могу Летать</Value>
+    </Record>
+    <Record>
+      <Key>TutorialJetpackDescription</Key>
+      <Value>О, кто-то забыл лестницу! Лети на балкон используя {KEY:Ascend} для подъёма и {KEY:Descend} для снижения.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialJetpackTask1</Key>
+      <Value>Включите сопла в вашем {THING:ItemSpacepack} используя {KEY:Jetpack}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialJetpackTask2</Key>
+      <Value>Зайдите в {THING:StructureAirlock}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialJetpackTask4</Key>
+      <Value>Начните цикл шлюзования {THING:StructureAirlock}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialHatHairDescription</Key>
+      <Value>Так как теперь мы благополучно внутри, снова откройте вашу маску, чтобы сэкономить запас кислорода вашего костюма!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialHatHairTask1</Key>
+      <Value>Разблокируйте ваш {THING:ItemSpaceHelmet}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialHatHairTask2</Key>
+      <Value>Откройте маску вашего {THING:ItemSpaceHelmet}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialIsItGettingHotInHereTitle</Key>
+      <Value>Тут Становится Жарко?</Value>
+    </Record>
+    <Record>
+      <Key>TutorialIsItGettingHotInHereDescription</Key>
+      <Value>Возьмите {THING:ItemKitFurnace} из шкафчика и установите его в том месте. Используйте {KEY:QuantityModifier} для вращения.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialIsItGettingHotInHereTask1</Key>
+      <Value>Установите {THING:ItemKitFurnace} в подсвеченном месте.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialItsJustTheFurnaceTitle</Key>
+      <Value>Это Просто Печь</Value>
+    </Record>
+    <Record>
+      <Key>TutorialItsJustTheFurnaceDescription</Key>
+      <Value>Единственная нагревающаяся вещь это {THING:StructureArcFurnace}, теперь положите добытую {THING:ItemIronOre} в эту печь и переплавьте в {THING:ItemIronIngot}! Не забудьте выключить печь по завершению, это поможет с сбережением энергии.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialItsJustTheFurnaceTask1</Key>
+      <Value>Забери свою {THING:ItemIronOre} из своего {THING:ItemMiningBelt}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialItsJustTheFurnaceTask2</Key>
+      <Value>Включите {THING:StructureArcFurnace}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialItsJustTheFurnaceTask3</Key>
+      <Value>Положите {THING:ItemIronOre} в {THING:StructureArcFurnace} и подождите завершения переплавки.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialItsJustTheFurnaceTask4</Key>
+      <Value>Возьмите {THING:ItemIronIngot} используя {KEY:PrimaryAction}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialItsJustTheFurnaceTask5</Key>
+      <Value>Выключите {THING:StructureArcFurnace}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialItsJustTheFurnace1Title</Key>
+      <Value>Это Всего Лишь Печь</Value>
+    </Record>
+    <Record>
+      <Key>TutorialItsJustTheFurnace1Description</Key>
+      <Value>Подойдем творчески!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialItsJustTheFurnace1Task1</Key>
+      <Value>Войдите в Следующее Помещение</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAroundDescription</Key>
+      <Value>Расположите ваш {THING:ItemKitAutolathe} и возьмите {THING:ItemWeldingTorch}. Используйте необходимые материалы для завершения сборки. При включенной опции &apos;Расширенных Подсказок&apos; в меню, вы можете увидеть материалы необходимые для завершения сборки наведя курсор на незаконченную структуру.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAroundTask1</Key>
+      <Value>Хватайте {THING:ItemKitAutolathe} из шкафчика и установите его в выделенном месте</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAround1Task1</Key>
+      <Value>Установите {THING:ItemKitAutolathe} в выделенном месте</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAround2Description</Key>
+      <Value>Мы наконец-то можем начать строить! Давайте начнем с {THING:ItemKitElectronicsPrinter} используя ресурсы оставленные в шкафчике.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAround2Task0</Key>
+      <Value>Включите ваш {THING:StructureAutolathe}!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAround2Task1</Key>
+      <Value>Соберите ваш {THING:ItemKitAutolathe} используя {THING:ItemWeldingTorch} из вашего {THING:ItemToolBelt} и требуемых материалов.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAround2Task2</Key>
+      <Value>Выберите рецепт {THING:ItemKitElectronicsPrinter} в {THING:StructureAutolathe}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialYouCallThatAPrinterTitle</Key>
+      <Value>Вы называете это Принтером?</Value>
+    </Record>
+    <Record>
+      <Key>TutorialYouCallThatAPrinterDescription</Key>
+      <Value>Отлично! Теперь давайте сделаем {THING:ItemKitElectronicsPrinter}. Поднимите его и перейдите в следующую комнату.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialYouCallThatAPrinterTask1</Key>
+      <Value>Создайте {THING:ItemKitElectronicsPrinter} используя материалы из шкафчика</Value>
+    </Record>
+    <Record>
+      <Key>TutorialYouCallThatAPrinterTask2</Key>
+      <Value>Возьмите {THING:ItemKitElectronicsPrinter}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAround3Description</Key>
+      <Value>Продолжим.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAround3Task1</Key>
+      <Value>Возьмите {THING:ItemKitElectronicsPrinter}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAround3Task2</Key>
+      <Value>Войдите в Следующую Комнату</Value>
+    </Record>
+    <Record>
+      <Key>TutorialThisIsAPrinterTitle</Key>
+      <Value>Это Принтер</Value>
+    </Record>
+    <Record>
+      <Key>TutorialThisIsAPrinterDescription</Key>
+      <Value>Дальше по списку дел, давайте установим {THING:ItemKitElectronicsPrinter}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialThisIsAPrinterTask1</Key>
+      <Value>Расположите {THING:ItemKitElectronicsPrinter} в выделенной области</Value>
+    </Record>
+    <Record>
+      <Key>TutorialThisIsAPrinter1Title</Key>
+      <Value>Это Принтер</Value>
+    </Record>
+    <Record>
+      <Key>TutorialThisIsAPrinter1Description</Key>
+      <Value>Время построить {THING:ItemKitElectronicsPrinter}. Вы можете найти нужные материалы в шкафчике. Как закончите, выберите рецепт {THING:ItemKitSolarPanel}. Машины, такие как {THING:StructureElectronicsPrinter}, будет продолжать печать до тех пока вы их не выключите, быстро расходуя ваши ресурсы, так что не забудьте его выключить по завершению!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialThisIsAPrinter1Task</Key>
+      <Value>Постройте {THING:ItemKitElectronicsPrinter}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialThisIsAPrinter1Task0</Key>
+      <Value>Включите Принтер</Value>
+    </Record>
+    <Record>
+      <Key>TutorialThisIsAPrinter1Task2</Key>
+      <Value>Соберите {THING:ItemKitSolarPanel} используя предоставленные материалы</Value>
+    </Record>
+    <Record>
+      <Key>TutorialThisIsAPrinter1Task1</Key>
+      <Value>Выберите рецепт {THING:ItemKitSolarPanel} в принтере.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSeeTheLightTitle</Key>
+      <Value>Вижу Свет</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSeeTheLightDescription</Key>
+      <Value>Используйте необходимые материалы для создания {THING:ItemKitSolarPanel}, вы можете найти их в шкафчике.  </Value>
+    </Record>
+    <Record>
+      <Key>TutorialSeeTheLightTask1</Key>
+      <Value>Добавьте материалы для сборки {THING:ItemKitSolarPanel}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSeeTheLightTask2</Key>
+      <Value>Возьмите {THING:ItemKitSolarPanel} используя {KEY:PrimaryAction}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSeeTheLight1Title</Key>
+      <Value>Вижу Свет</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSeeTheLight1Description</Key>
+      <Value>Продолжим.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSeeTheLight1Task1</Key>
+      <Value>Перейдите в Следующую Комнату</Value>
+    </Record>
+    <Record>
+      <Key>TutorialPanelForthDescription</Key>
+      <Value>Похоже дверь нуждается в питании прежде чем мы сможем продолжить. К счастью там где есть окна, есть и солнце. Где есть солнце, там есть энергия! Давайте установим этот {THING:ItemKitSolarPanel}. Вы можете использовать {THING:ItemWrench} для настройки угла, панель будет производить больше энергии будучи направленной на солнце.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialPanelForthTask1</Key>
+      <Value>Установите {THING:StructureSolarPanel} в подсвеченной области</Value>
+    </Record>
+    <Record>
+      <Key>TutorialPanelForthTask2</Key>
+      <Value>Постройте {THING:StructureSolarPanel} используя материалы из шкафчика</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDoorNeedsPowerTitle</Key>
+      <Value>Двери Нужно Электричество</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDoorNeedsPowerDescription</Key>
+      <Value>Давайте подождем пока на дверь не подастся питание, затем приготовьтесь двигаться дальше.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDoorNeedsPowerTask1</Key>
+      <Value>Откройте дверь как появится питание.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDoorNeedsPower1Title</Key>
+      <Value>Продолжим.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDoorNeedsPower1Description</Key>
+      <Value>Время продолжить.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDoorNeedsPower1Task1</Key>
+      <Value>Пройдемте в Следующую Комнату</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSnackTimeTitle</Key>
+      <Value>Время перекуса!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSnackTimeDescription</Key>
+      <Value>Чувствуете себя немного голодным? Возьмите этот {THING:ItemCerealBar} для вкусного перекуса. Закуски полезны для вашего здоровья и могут помочь вам быстрее восстановиться в случае получения травм. </Value>
+    </Record>
+    <Record>
+      <Key>TutorialSnackTimeTask1</Key>
+      <Value>Возьмите {THING:ItemCerealBar} используя {KEY:PrimaryAction}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSnackTimeTask2</Key>
+      <Value>Съешьте его используя {KEY:SecondaryAction}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialBreakOutTitle</Key>
+      <Value>Побег</Value>
+    </Record>
+    <Record>
+      <Key>TutorialBreakOutDescription</Key>
+      <Value>Эта дверь похоже не работает! Используйте {THING:ItemCrowbar} чтобы открыть её.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialBreakOutTask1</Key>
+      <Value>Возьмите ваш {THING:ItemCrowbar}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialBreakOutTask2</Key>
+      <Value>Взломайте дверь и войдите в следующую комнату</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorkingTitle</Key>
+      <Value>Проводчему ты не работаешь?</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorkingDescription</Key>
+      <Value>Концепция потребляемой мощности и производства важна! Здесь было сгенерировано слишком много энергии, с которой не смогли справиться провода. Давайте уберем этот беспорядок, вырежьте этот провод.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorkingTask1</Key>
+      <Value>Возьмите {THING:ItemWireCutters} из вашего пояса инструментов</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorkingTask2</Key>
+      <Value>Найдите и перережьте сломанный кабель.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorking1Description</Key>
+      <Value>Одна из вещей которую можете использовать для предотвращения перегорания проводов, это {THING:ItemAreaPowerControl}, так же известный как APC. Вы можете найти один в шкафчике - поместите его вместо перегоревшего провода.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorking1Task1</Key>
+      <Value>Установите {THING:ItemAreaPowerControl}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorking2Description</Key>
+      <Value>Теперь давайте подготовим этот APC к работе. Вам понадобится {THING:ItemCrowbar} чтобы открыть его, поместите внутрь батарею и переключите включатель. Теперь у вас есть безопасная заряжающая система.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorking2Task1</Key>
+      <Value>Возьмите {THING:ItemCrowbar} с вашего пояса инструментов. </Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorking2Task2</Key>
+      <Value>Откройте APC используя ваш {THING:ItemCrowbar}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorking2Task3</Key>
+      <Value>Вставьте батарею в APC.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorking2Task4</Key>
+      <Value>Включите ИБП.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorking2Task5</Key>
+      <Value>Закройте ИБП используя ваш {THING:ItemCrowbar}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorking2Task6</Key>
+      <Value>Смените батарейки</Value>
+    </Record>
+    <Record>
+      <Key>TutorialJustAroundTheCornerTitle</Key>
+      <Value>Сразу За Углом</Value>
+    </Record>
+    <Record>
+      <Key>TutorialJustAroundTheCornerDescription</Key>
+      <Value>Продолжим.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialJustAroundTheCornerTask1</Key>
+      <Value>Перейдите в следующую комнату</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDoYouFeelTheFlowTitle</Key>
+      <Value>Чувствуешь Поток?</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDoYouFeelTheFlowDescription</Key>
+      <Value>Используя {THING:ItemWrench} присоедините {THING:StructureGasTankStorage} к {THING:StructureTankConnector} чтобы добавить небольшой поток воздуха, а то становится немного душновато.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDoYouFeelTheFlowTask1</Key>
+      <Value>Присоедините {THING:StructureTankConnector}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDoYouFeelTheFlowTask2</Key>
+      <Value>Включите {THING:StructureValve} чтобы пустить воздух.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLetsTankItUpTitle</Key>
+      <Value>Заполним Баки</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLetsTankItUpDescription</Key>
+      <Value>Теперь когда воздух поступает, давайте заполним {THING:ItemGasCanisterEmpty}. Будьте осторожны чтобы давление не вышло слишком высоким, при высоких давлениях появляется опасность взрывов. Обычно взрывы влияют на расположенные поблизости структуры, но в данном случае окружение неразрушимо</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLetsTankItUpTask1</Key>
+      <Value>Вставьте {THING:ItemGasCanisterEmpty} </Value>
+    </Record>
+    <Record>
+      <Key>TutorialLetsTankItUpTask2</Key>
+      <Value>Установите {THING:StructureActiveVent} на закачивание</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLetsTankItUpTask3</Key>
+      <Value>Включите {THING:StructureActiveVent}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLetsTankItUp1Title</Key>
+      <Value>Двигаемся дальше</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLetsTankItUp1Description</Key>
+      <Value>Почти закончили!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLetsTankItUp1Task1</Key>
+      <Value>Перейдите в следующую комнату</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStatusUpdatesTitle</Key>
+      <Value>Скотти, каков твой статус?</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStatusUpdatesTask1</Key>
+      <Value>Сменить Батарею</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStatusUpdates2Task1</Key>
+      <Value>Сменить фильтр</Value>
+    </Record>
+    <Record>
+      <Key>TutorialMovingOnUpDescription</Key>
+      <Value>Забирись в этот лифт!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialMovingOnUpTask1</Key>
+      <Value>Зайдите в лифт и поднимитесь на следующий этаж</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLetItGrowTitle</Key>
+      <Value>Дайте этому Вырасти</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSoCloseTitle</Key>
+      <Value>Так Близко</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSoCloseDescription</Key>
+      <Value>Так близко, но так далеко. Перейдите в следующую комнату.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSoCloseTask1</Key>
+      <Value>Перейдите в следующую комнату</Value>
+    </Record>
+    <Record>
+      <Key>TutorialUnderPressureTitle</Key>
+      <Value>Под Давлением</Value>
+    </Record>
+    <Record>
+      <Key>TutorialUnderPressureTask1</Key>
+      <Value>Разместите {THING:StructureActiveVent}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialUnderPressureTask2</Key>
+      <Value>Разместите {THING:StructureConsole}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialUnderPressureTask3</Key>
+      <Value>Разместите {THING:StructureGasSensor}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialUnderPressureTask4</Key>
+      <Value>Разместите {THING:StructureFlashingLight}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialUnderPressure1Title</Key>
+      <Value>Под Давлением</Value>
+    </Record>
+    <Record>
+      <Key>TutorialUnderPressure1Task1</Key>
+      <Value>Вставьте {THING:CircuitboardAirlockControl}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialUnderPressure1Task2</Key>
+      <Value>Вставьте {THING:ItemDataDisk}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialUnderPressure1Task3</Key>
+      <Value>Завершите консоль используя стекло</Value>
+    </Record>
+    <Record>
+      <Key>TutorialHackingTheMainframeTask1</Key>
+      <Value>Назначьте компоненты {THING:StructureAirlock}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialBeFreeTitle</Key>
+      <Value>Будь Свободен</Value>
+    </Record>
+    <Record>
+      <Key>TutorialBeFreeTask1</Key>
+      <Value>Начните цикл шлюзования {THING:StructureAirlock}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialCompletedDescription</Key>
+      <Value>Поздравляем, ваша базовая подготовка завершена! Мир ждет вас, Stationeer!</Value>
+    </Record>
+  </Interface>
+</Language>

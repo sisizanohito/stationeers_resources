@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Code>CS</Code>
+  <Interface>
+    <Record>
+      <Key>TutoiralSmelting</Key>
+      <Value>Tavení slitin</Value>
+    </Record>
+    <Record>
+      <Key>TutoiralAtmosphericsSubTitle</Key>
+      <Value>Praktický výcvik: Fáze V</Value>
+    </Record>
+    <Record>
+      <Key>TutoiralSmleting</Key>
+      <Value>Tavení</Value>
+    </Record>
+    <Record>
+      <Key>TutoiralSmletingSubTitle</Key>
+      <Value>Praktický výcvik: Fáze V</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration1T</Key>
+      <Value>Tavení</Value>
+    </Record>
+    <Record>
+      <Key>4.5GetFurnace</Key>
+      <Value>Vezměte sadu pece z bedny</Value>
+    </Record>
+    <Record>
+      <Key>4.5BuildFurnace</Key>
+      <Value>Postavte pec na zvýrazněné místo</Value>
+    </Record>
+    <Record>
+      <Key>4.5FinishFurnace</Key>
+      <Value>Dokončete stavění pece</Value>
+    </Record>
+    <Record>
+      <Key>4.5BuildPipe</Key>
+      <Value>Umístěte potrubí na zvýrazněné místo</Value>
+    </Record>
+    <Record>
+      <Key>4.5PickUpPipe</Key>
+      <Value>Vezměte potrubí z bedny</Value>
+    </Record>
+    <Record>
+      <Key>4.5PickUpPassiveVent</Key>
+      <Value>Vezměte pasivní ventilaci z bedny</Value>
+    </Record>
+    <Record>
+      <Key>4.5BuildPassiveVent</Key>
+      <Value>Umístěte ventilaci ven na zvýrazněné místo</Value>
+    </Record>
+    <Record>
+      <Key>4.5BuildPump</Key>
+      <Value>Umístěte objemové čerpadlo na zvýrazněné místo</Value>
+    </Record>
+    <Record>
+      <Key>4.5PlaceConsole</Key>
+      <Value>Umístěte konzoli na zvýrazněné místo</Value>
+    </Record>
+    <Record>
+      <Key>4.5PutGasCircuitInConsole</Key>
+      <Value>Přidejte obvodovou desku displeje plynu do nedokončené konzole</Value>
+    </Record>
+    <Record>
+      <Key>4.5Finishconsole</Key>
+      <Value>Dokončete konzoli skleněnou tabulí</Value>
+    </Record>
+    <Record>
+      <Key>4.5PutDataDiskInConsole</Key>
+      <Value>Vložte datový disk do bočního slotu konzole</Value>
+    </Record>
+    <Record>
+      <Key>4.5ConsoleOn</Key>
+      <Value>Zapněte konzoli</Value>
+    </Record>
+    <Record>
+      <Key>4.5ConfigureGasSensorTask</Key>
+      <Value>Nastavte konzolu do režimu &apos;Teploty&apos;</Value>
+    </Record>
+    <Record>
+      <Key>4,5ConfigureGasSensorTask1</Key>
+      <Value>Vyberte pec ze seznamu zařízení</Value>
+    </Record>
+    <Record>
+      <Key>4,5ConfigureGasSensorTask2</Key>
+      <Value>Nakonfigurujte druhou konzolu na &apos;Tlak&apos;</Value>
+    </Record>
+    <Record>
+      <Key>4.5PickUpMiningBelt</Key>
+      <Value>Vezměte hornický opasek z bedny</Value>
+    </Record>
+    <Record>
+      <Key>4.5EquiptMiningbelt</Key>
+      <Value>Vybavte se hornickým opaskem.</Value>
+    </Record>
+    <Record>
+      <Key>4.5AddOxitetoFurnace</Key>
+      <Value>Přidejte 6 oxitu do pece</Value>
+      <!--Change to match tutorial-->
+    </Record>
+    <Record>
+      <Key>4.5AddVolatilestoFurnace</Key>
+      <Value>Přidejte 12 těkavých látek do pece</Value>
+      <!--Change to match tutorial-->
+    </Record>
+    <Record>
+      <Key>5AddCoppertoFurnace</Key>
+      <Value>Přidejte 50 měděné rudy do pece</Value>
+    </Record>
+    <Record>
+      <Key>4.5SmeltCopper</Key>
+      <Value>Počkejte, až se zataví měděný ingot</Value>
+    </Record>
+    <Record>
+      <Key>4.5AddGoldtoFurnace</Key>
+      <Value>Vložte 50 zlaté rudy do pece</Value>
+    </Record>
+    <Record>
+      <Key>4.5OpenFurnace</Key>
+      <Value>Vysuňte zlatý ingot</Value>
+    </Record>
+    <Record>
+      <Key>4.5SmeltGold</Key>
+      <Value>Počkejte, až se zataví zlatý slitek</Value>
+    </Record>
+    <Record>
+      <Key>4.5HowToMakeSteel</Key>
+      <Value>Podívejte se na stránku ingotu (ocel) ve Stationpedii</Value>
+    </Record>
+    <Record>
+      <Key>4.5AddIrontoFurnace</Key>
+      <Value>Přidejte 24 železa</Value>
+    </Record>
+    <Record>
+      <Key>4.5AddCoaltoFurnace</Key>
+      <Value>Přidejte 8 uhlí</Value>
+    </Record>
+    <Record>
+      <Key>4.5SmeltSteel</Key>
+      <Value>Počkejte na dokončení roztavení ocelového ingotu</Value>
+    </Record>
+    <Record>
+      <Key>4.5PickUpSteel</Key>
+      <Value>Vysuňte a vezměte ocelový ingot</Value>
+    </Record>
+    <Record>
+      <Key>4.5BuildStationBattery</Key>
+      <Value>Umístěte sadu (baterie) na zvýrazněné místo</Value>
+    </Record>
+    <Record>
+      <Key>4.5TurnBattery</Key>
+      <Value>Zapněte baterii vypínačem na straně</Value>
+    </Record>
+    <Record>
+      <Key>4.5TurnAPC1</Key>
+      <Value>Zapněte bateriovou síť APC</Value>
+    </Record>
+    <Record>
+      <Key>4.5TurnAPC</Key>
+      <Value>Zapněte hlavní napájení APC</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration22D</Key>
+      <Value>Gratulujeme - napájecí systém vaší základny je hotový! To je poslední krok praktického testování, fáze V.
+Stisknutím důležitého tlačítka &quot;Dokončit&quot; přeneste výsledky na velitelství Stationeer.</Value>
+    </Record>
+    <Record>
+      <Key>4.5OnButtonPressTaskT1</Key>
+      <Value>Pro dokončení testu stiskněte důležité tlačítko</Value>
+    </Record>
+    <Record>
+      <Key>4.5AddCoppertoFurnace</Key>
+      <Value>Přidejte 50 měděné rudy do pece</Value>
+    </Record>
+    <Record>
+      <Key>4.5TurnOffVolPump</Key>
+      <Value>Vypněte objemové čerpadlo</Value>
+    </Record>
+    <Record>
+      <Key>4.5OpenMiningbelt</Key>
+      <Value>Otevřete hornický opasek</Value>
+    </Record>
+    <Record>
+      <Key>4.5RemoveDataDisk</Key>
+      <Value>Odeberte datový disk z konzole</Value>
+    </Record>
+    <Record>
+      <Key>4.5OpenAPCTask</Key>
+      <Value>Otevřete hlavní energetickou síť APC</Value>
+    </Record>
+  </Interface>
+</Language>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Code>PT</Code>
+  <Interface>
+    <Record>
+      <Key>TutoiralHydroponicsAndFood</Key>
+      <Value>#8 Básicos de Hidroponia</Value>
+    </Record>
+    <Record>
+      <Key>TutoiralHydroponicsAndFood</Key>
+      <!--This is the description that appers in the menu-->
+      <Value>#8 Básicos de Hidroponia</Value>
+    </Record>
+    <Record>
+      <Key>6BuildTankConnecter</Key>
+      <Value>Constrói o {THING:StructureGasSensor} na área indicada.</Value>
+    </Record>
+    <Record>
+      <Key>6GetPipe</Key>
+      <Value>Apanha o {THING:ItemIronIngot}.</Value>
+    </Record>
+    <Record>
+      <Key>6BuildPipe</Key>
+      <Value>Coloca a Estrutura 1.</Value>
+    </Record>
+    <Record>
+      <Key>6GetGrowLight</Key>
+      <Value>Apanha o {THING:ItemIronIngot}.</Value>
+    </Record>
+    <Record>
+      <Key>6BuildGrowLight</Key>
+      <Value>Constrói o {THING:StructureGasSensor} na área indicada.</Value>
+    </Record>
+    <Record>
+      <Key>6GrowLightOn</Key>
+      <Value>Liga o {THING:ItemTablet}.</Value>
+    </Record>
+    <Record>
+      <Key>6GetWheat</Key>
+      <Value>Apanha o {THING:ItemIronIngot}.</Value>
+    </Record>
+    <Record>
+      <Key>6BenchOn</Key>
+      <Value>Liga o {THING:ItemTablet} com a tecla {KEY:ToggleHandPower}.</Value>
+    </Record>
+    <Record>
+      <Key>6MicrowaveOn</Key>
+      <Value>Liga o {THING:ItemTablet} com a tecla {KEY:ToggleHandPower}.</Value>
+    </Record>
+    <Record>
+      <Key>6BakeMuffin</Key>
+      <Value>Prepara um {THING:ItemMuffin}</Value>
+    </Record>
+    <Record>
+      <Key>6OnButtonPressTask</Key>
+      <Value>Pressiona o botão “alternar para Interior”.</Value>
+    </Record>
+    <Record>
+      <Key>6MicrowaveClosed</Key>
+      <Value>Liga o {THING:ItemTablet} com a tecla {KEY:ToggleHandPower}.</Value>
+    </Record>
+    <Record>
+      <Key>6MicrowaveOpened</Key>
+      <Value>Liga o {THING:ItemTablet} com a tecla {KEY:ToggleHandPower}.</Value>
+    </Record>
+    <Record>
+      <Key>6HydroponicTray</Key>
+      <Value>Hidroponia fixa</Value>
+    </Record>
+    <Record>
+      <Key>6BuildCables</Key>
+      <Value>Constrói o {THING:StructureGasSensor} na área indicada.</Value>
+    </Record>
+    <Record>
+      <Key>6GetWaterBottleFiller</Key>
+      <Value>Apanha o {THING:ItemIronIngot}.</Value>
+    </Record>
+    <Record>
+      <Key>6BuildWaterBottleFiller</Key>
+      <Value>Constrói o {THING:StructureGasSensor} na área indicada.</Value>
+    </Record>
+    <Record>
+      <Key>6GetWaterBottle</Key>
+      <Value>Apanha o {THING:ItemIronIngot}.</Value>
+    </Record>
+    <Record>
+      <Key>6GetMingBelt</Key>
+      <Value>Apanha o {THING:ItemGoldIngot} da caixa laranja.</Value>
+    </Record>
+    <Record>
+      <Key>6MIceCrusherOn</Key>
+      <Value>Liga o {THING:ItemTablet} com a tecla {KEY:ToggleHandPower}.</Value>
+    </Record>
+  </Interface>
+</Language>

@@ -1,0 +1,26 @@
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Code>PL</Code>
+  <GameTip>
+    <String>Wciśnij {KEY:HelmetSlot}, {KEY:SuitSlot}, {KEY:BackSlot}, {KEY:UniformSlot}, lub {KEY:ToolBeltSlot} aby przełączyć interakcje oraz pola na każdym przedmiocie z polami, który na sobie nosisz. Wciśnij i przytrzymaj, aby podmienić ten slot z aktywną ręką.</String>
+    <String>Press {KEY:ToggleHandPower} to toggle what you&apos;re holding in your hands on or off quickly.</String>
+    <String>Wciśnij {KEY:ToggleLight} aby szybko włączyć lub wyłączyć światło w Twoim {THING:ItemSpaceHelmet}.</String>
+    <String>Wciśnij {KEY:EmoteWave} aby spowodować, by Twoja postać pomachała innym Stationeerom.</String>
+    <String>Wciśnij {KEY:Jetpack} aby szybko przełączyć napęd odrzutowy w {THING:ItemSpacepack}.</String>
+    <String>Press {KEY:ToggleUI} to toggle the User Interface on or off to get amazing screenshots or video.</String>
+    <String>Pressing {KEY:Ascend} will make you ascend if your {THING:ItemSpacepack} is on, otherwise your character will try to jump. You can toggle the {THING:ItemSpacepack} on or off using the {KEY:Jetpack} key.</String>
+    <String>Pressing {KEY:Descend} will make you descend if your {THING:ItemSpacepack} is on. You can toggle the {THING:ItemSpacepack} on or off using the {KEY:Jetpack} key.</String>
+    <String>Pressing and releasing the {KEY:Drop} key will make you immediately drop whatever is in your hands. If you hold the {KEY:Drop} key down, it will try to throw it. The longer you hold it, the further you will throw.</String>
+    <String>Press {KEY:Chatting} to start chatting to other players. A small box will appear in the lower right of the screen with the text you write before sending.</String>
+    <String>Want to know how to make something? Insert a {THING:CartridgeElectronicReader} into a {THING:ItemTablet} and turn it on with the {KEY:ToggleHandPower} key while it&apos;s in your active hand.</String>
+    <String>Hold a {THING:ItemWeldingTorch} in one hand while turned on, and a stack of {THING:ItemIronSheets} in another in order to upgrade the build state of an {THING:StructureFrameIron}.</String>
+    <String>Use a {THING:StructureRecycler} to convert things you no longer want into usable reagents. Pass the outputted {THING:ItemReagentMix} into a {THING:StructureCentrifuge} to convert it back into ore, ready for a {THING:StructureFurnace}.</String>
+    <String>Im bardziej uszkodzony jest Twój kombinezon, tym mniej wydajnie działa.</String>
+    <String>{THING:ItemHardBackpack} może nosić więcej przedmiotów, ale nie Ciebie!</String>
+    <String>Im bardziej uszkodzony jest Twój kombinezon, tym mniej wydajnie działa.</String>
+    <String>{THING:ItemHardBackpack} może nosić więcej przedmiotów, ale nie Ciebie!</String>
+    <String>Możesz wyłączyć wszystkie otwarte na Twoim ekranie okna jednocześnie, wciskając {KEY:HideAllWindows}.</String>
+    <String>Rozszerzone podpowiedzi mogą być włączone/wyłączone w Ustawieniach.</String>
+    <String>Możesz wyłączyć wszystkie otwarte na Twoim ekranie okna jednocześnie, wciskając {KEY:HideAllWindows}.</String>
+    <String>{THING:ItemCrowbar} może zostać użyty do otwierania niezasilonych drzwi, oraz kontrolerów zasilania.</String>
+  </GameTip>
+</Language>

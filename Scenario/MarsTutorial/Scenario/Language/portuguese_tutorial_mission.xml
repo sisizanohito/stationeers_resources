@@ -1,0 +1,746 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Code>PT</Code>
+  <Interface>
+    <Record>
+      <Key>TheNewBeginningTitle</Key>
+      <Value>O Novo Começo [BETA]</Value>
+    </Record>
+    <Record>
+      <Key>TheNewBeginningDescription</Key>
+      <Value>Vamos aprender o básico, e aprender como ser o melhor Stationeer que possas ser!</Value>
+    </Record>
+    <!-- start the tutorial -->
+    <Record>
+      <Key>TutorialTheBeginningTitle</Key>
+      <Value>O Começo</Value>
+    </Record>
+    <Record> Using 
+			
+      <Key>TutorialTheBeginningDescription</Key>
+      <Value>Vamos começar. Fecha a tua Stationpedia com a tecla {KEY:Help}. Depois, equipa-te usando o botão {KEY:PrimaryAction} para apanhar itens. Pressiona {KEY:HelmetSlot}, {KEY:SuitSlot}, {KEY:BackSlot}, {KEY:UniformSlot}, ou {KEY:ToolBeltSlot} para alternar as interacções dos compartimentos da tua roupa. Mantém pressionado, para trocar aquele compartimento com a tua mão ativa. Podes também manter pressionada a tecla {KEY:MouseControl} e arrastar as peças para o compartimento correspondente.
+
+Os compartimentos do teu personagem podem ser vistos do lado esquerdo do ecrã. Por exemplo, se manteres pressionada a tecla {KEY:MouseControl} e clicares no compartimento {THING:UniformOrangeJumpSuit}, isto irá abrir um menu que poderás interagir com o item.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTheBeginningTask1</Key>
+      <Value>Fecha a {LINK:Home;Stationpedia}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTheBeginningTask2</Key>
+      <Value>Equipa o teu {THING:ItemSpaceHelmet}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTheBeginningTask3</Key>
+      <Value>Equipa o teu {THING:ItemSpacepack}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTheBeginningTask4</Key>
+      <Value>Equipa o teu {THING:ItemEvaSuit}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDontBeAToolTitle</Key>
+      <Value>Não sejas a ferramenta</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDontBeAToolDescription</Key>
+      <Value>Sabes o que dizem, não vás a lugar algum sem o teu cinto de ferramentas! Apanha-o e equipa-o.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDontBeAToolTask1</Key>
+      <Value>Equipa o teu {THING:ItemToolBelt}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialPowerUpTitle</Key>
+      <Value>Ligar Energia</Value>
+    </Record>
+    <Record>
+      <Key>TutorialPowerUpDescription</Key>
+      <Value>Boa, vamos agora ativar os sistemas do teu fato.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialPowerUpTask1</Key>
+      <Value>Apanha a {THING:ItemBatteryCellNuclear} com o botão {KEY:PrimaryAction}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialPowerUpTask2</Key>
+      <Value>Abre o teu {THING:ItemEvaSuit} com a tecla {KEY:SuitSlot}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialPowerUpTask3</Key>
+      <Value>Adiciona a {THING:ItemBatteryCellNuclear} ao compartimento da bateria.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSomethingToFilterTitle</Key>
+      <Value>Algo para filtrar</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSomethingToFilterDescription</Key>
+      <Value>Um fato requer uma {THING:ItemBatteryCellNuclear}, {THING:ItemGasFilterCarbonDioxide}, e outras coisas para proporcionar um ambiente seguro e inclusivo.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSomethingToFilterTask1</Key>
+      <Value>Apanha o {THING:ItemGasFilterCarbonDioxide} com o botão {KEY:PrimaryAction}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSomethingToFilterTask3</Key>
+      <Value>Adiciona o {THING:ItemGasFilterCarbonDioxide} ao compartimento do filtro</Value>
+    </Record>
+    <Record>
+      <Key>TutorialGasItUpTitle</Key>
+      <Value>Da-lhe gás</Value>
+    </Record>
+    <Record>
+      <Key>TutorialGasItUpDescription</Key>
+      <Value>O {THING:ItemSpacepack} requer propelente para usar os jatos, vamos usar aquele cilindro de nitrogénio que está ali.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialGasItUpTask</Key>
+      <Value>Adiciona o {THING:ItemGasCanisterNitrogen} ao compartimento do propelente.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialFeelingHotHotHotTitle</Key>
+      <Value>Quente quente quente</Value>
+    </Record>
+    <Record>
+      <Key>TutorialFeelingHotHotHotDescripton</Key>
+      <Value>Está um bocado calor neste fato! Abre o teu {THING:ItemEvaSuit} usando a tecla {KEY:SuitSlot}, depois baixa a temperatura para 20c. Baixar a temperatura do fato poderá ajudar a prolongar a bateria do teu fato, que poderá ser útil quando estiveres numa situação complicada. Irás ver as alterações refletidas na interface.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialFeelingHotHotHotTask1</Key>
+      <Value>Baixa a temperatura do teu fato.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLockItDownTitle</Key>
+      <Value>Fecha-o agora</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLockItDownDescripton</Key>
+      <Value>Hora de ir lá fora! Lembra-te de fechar o teu capacete - caso contrário a respiração será difícil. Trancar o capacete pode prevenir também a abertura acidental, evitando assim a tua exposição a atmosfera e flutuações de temperatura perigosa, vamos então trancá-lo.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLockItDownTask1</Key>
+      <Value>Fecha o teu {THING:ItemSpaceHelmet} usando {KEY:Internals}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLockItDownTask2</Key>
+      <Value>Abre o menu do {THING:ItemSpaceHelmet} usando a tecla {KEY:HelmetSlot}, e pressiona o botão Bloquear Máscara.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTheGreatOutdoorsTitle</Key>
+      <Value>O Grande Exterior</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTheGreatOutdoorsDescription</Key>
+      <Value>Vamos embarcar numa aventura! Prepara-te para alternar a {THING:StructureAirlock}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTheGreatOutdoorsTask1</Key>
+      <Value>Entra na {THING:StructureAirlock}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTheGreatOutdoorsTask2</Key>
+      <Value>Alterna a {THING:StructureAirlock} clicando no botão Cycle na consola iluminada e aguarda que finalize.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescCycleAirlock1</Key>
+      <Value>Vamos apanhar um pouco de ar não tão fresco, vamos?</Value>
+    </Record>
+    <Record>
+      <Key>TutorialAnotherDayAnotherDollarTitle</Key>
+      <Value>Mais um Dia, mais um Dólar</Value>
+    </Record>
+    <Record>
+      <Key>TutorialAnotherDayAnotherDollarDescription</Key>
+      <Value>Esse minério não vai-se minerar sozinho! Podes mover itens de um compartimento para a tua mão mantendo pressionado {KEY:InventorySelect}, e da tua mão para um compartimento mantendo pressionado o número do compartimento. Pega o teu {THING:ItemMiningBelt} da tua mochila, equipa-o mantendo pressionado o botão {KEY:ToolBeltSlot} enquanto estiver na tua mão. Equipa a tua {THING:ItemMiningDrill} e começa a cavar. Não te esqueças de a desligar antes de a guardares!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialAnotherDayAnotherDollarTask1</Key>
+      <Value>Equipa a {THING:ItemMiningDrill} do teu {THING:ItemMiningBelt}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialAnotherDayAnotherDollarTask0</Key>
+      <Value>Tenta ligar a tua Broca com a tecla {KEY:ToggleHandPower}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialAnotherDayAnotherDollarTask2</Key>
+      <Value>Minera algum {THING:ItemIronOre} do terreno</Value>
+    </Record>
+    <Record>
+      <Key>TutorialJetpackTitle</Key>
+      <Value>Acredito que posso voar</Value>
+    </Record>
+    <Record>
+      <Key>TutorialJetpackDescription</Key>
+      <Value>Ups, alguém esqueceu-se da escada! Voa para a varanda usando {KEY:Ascend} para subir e {KEY:Descend} para descer.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialJetpackTask1</Key>
+      <Value>Ativa os jatos da tua {THING:ItemSpacepack} usando {KEY:Jetpack}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialJetpackTask2</Key>
+      <Value>Entra na {THING:StructureAirlock}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialJetpackTask4</Key>
+      <Value>Alterna a {THING:StructureAirlock}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialHatHairTitle</Key>
+      <Value>Cabelo a mostra</Value>
+    </Record>
+    <Record>
+      <Key>TutorialHatHairDescription</Key>
+      <Value>Agora que estamos seguros no interior, abre novamente a tua máscara para preservar o oxigénio do teu fato!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialHatHairTask1</Key>
+      <Value>Desbloqueia o teu {THING:ItemSpaceHelmet}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialHatHairTask2</Key>
+      <Value>Abre a máscara do teu {THING:ItemSpaceHelmet}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialIsItGettingHotInHereTitle</Key>
+      <Value>Está ficando quente aqui?</Value>
+    </Record>
+    <Record>
+      <Key>TutorialIsItGettingHotInHereDescription</Key>
+      <Value>Apanha a {THING:ItemKitFurnace} do armário e coloca ali. Utiliza {KEY:QuantityModifier} para rodar.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialIsItGettingHotInHereTask1</Key>
+      <Value>Coloca a {THING:ItemKitFurnace} na área indicada.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialItsJustTheFurnaceTitle</Key>
+      <Value>É só o forno</Value>
+    </Record>
+    <Record>
+      <Key>TutorialItsJustTheFurnaceDescription</Key>
+      <Value>A única coisa aquecendo é o {THING:StructureArcFurnace}, coloca o {THING:ItemIronOre} que acabaste de minerar nele e transforma em {THING:ItemIronIngot}! Não te esqueças de o desligar depois, isto ajuda a conservar os teus recursos preciosos.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialItsJustTheFurnaceTask1</Key>
+      <Value>Pega o teu {THING:ItemIronOre} do teu {THING:ItemMiningBelt}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialItsJustTheFurnaceTask2</Key>
+      <Value>Liga o {THING:StructureArcFurnace}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialItsJustTheFurnaceTask3</Key>
+      <Value>Coloca o {THING:ItemIronOre} no {THING:StructureArcFurnace} e aguarda que funda.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialItsJustTheFurnaceTask4</Key>
+      <Value>Apanha o {THING:ItemIronIngot} usando o botão {KEY:PrimaryAction}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialItsJustTheFurnaceTask5</Key>
+      <Value>Desliga o {THING:StructureArcFurnace}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialItsJustTheFurnace1Title</Key>
+      <Value>É só o forno</Value>
+    </Record>
+    <Record>
+      <Key>TutorialItsJustTheFurnace1Description</Key>
+      <Value>Vamos ser criativos!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialItsJustTheFurnace1Task1</Key>
+      <Value>Entra na próxima sala</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAroundTitle</Key>
+      <Value>Pára de andar ás voltas</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAroundDescription</Key>
+      <Value>Coloca o teu {THING:ItemKitAutolathe} e pega na tua {THING:ItemWeldingTorch}. Finaliza a construção usando os materiais necessários. Com a opção &apos;Dicas Extendidas&apos; ativada no menu de Opções, poderás parar o cursor na estrutura e ver o que precisas para completar a próxima etapa de construção.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAroundTask1</Key>
+      <Value>Apanha o {THING:ItemKitAutolathe} do armário e coloca-o na área indicada</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAround1Title</Key>
+      <Value>Pára de andar ás voltas</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAround1Task1</Key>
+      <Value>Coloca o {THING:ItemKitAutolathe} na área indicada</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAround2Title</Key>
+      <Value>Pára de andar ás voltas</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAround2Description</Key>
+      <Value>Finalmente podemos construir! Vamos começar por criar uma {THING:ItemKitElectronicsPrinter} usando os recursos que estão no armário.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAround2Task0</Key>
+      <Value>Liga o teu {THING:StructureAutolathe}!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAround2Task1</Key>
+      <Value>Constrói o teu {THING:ItemKitAutolathe} usando a {THING:ItemWeldingTorch} do teu {THING:ItemToolBelt}, e os materiais necessários.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAround2Task2</Key>
+      <Value>Selecciona a receita {THING:ItemKitElectronicsPrinter} no {THING:StructureAutolathe}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialYouCallThatAPrinterTitle</Key>
+      <Value>Chamas a isso uma impressora?</Value>
+    </Record>
+    <Record>
+      <Key>TutorialYouCallThatAPrinterDescription</Key>
+      <Value>Boa! Agora vamos construir uma {THING:ItemKitElectronicsPrinter}. Apanha-a e segue para a próxima sala.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialYouCallThatAPrinterTask1</Key>
+      <Value>Constrói uma {THING:ItemKitElectronicsPrinter} usando materiais do armário</Value>
+    </Record>
+    <Record>
+      <Key>TutorialYouCallThatAPrinterTask2</Key>
+      <Value>Apanha a {THING:ItemKitElectronicsPrinter}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAround3Title</Key>
+      <Value>Pára de andar ás voltas</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAround3Description</Key>
+      <Value>Em frente.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAround3Task1</Key>
+      <Value>Apanha a {THING:ItemKitElectronicsPrinter}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAround3Task2</Key>
+      <Value>Entra na próxima sala</Value>
+    </Record>
+    <Record>
+      <Key>TutorialThisIsAPrinterTitle</Key>
+      <Value>Isto é uma impressora</Value>
+    </Record>
+    <Record>
+      <Key>TutorialThisIsAPrinterDescription</Key>
+      <Value>A seguir na nossa lista de coisas a fazer, vamos colocar a {THING:ItemKitElectronicsPrinter}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialThisIsAPrinterTask1</Key>
+      <Value>Coloca a {THING:ItemKitElectronicsPrinter} na área indicada</Value>
+    </Record>
+    <Record>
+      <Key>TutorialThisIsAPrinter1Title</Key>
+      <Value>Isto é uma impressora</Value>
+    </Record>
+    <Record>
+      <Key>TutorialThisIsAPrinter1Description</Key>
+      <Value>Hora de construir a {THING:ItemKitElectronicsPrinter}. Deverás encontrar os materiais necessários no armário. Após a construção, selecciona a receita {THING:ItemKitSolarPanel}. Estruturas tal como a {THING:StructureElectronicsPrinter} irão continuar a imprimir itens, consumindo os teus recursos rapidamente a não ser que a desligues, portanto não te esqueças de a desligar quando terminares!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialThisIsAPrinter1Task</Key>
+      <Value>Constrói a {THING:ItemKitElectronicsPrinter}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialThisIsAPrinter1Task0</Key>
+      <Value>Liga a impressora</Value>
+    </Record>
+    <Record>
+      <Key>TutorialThisIsAPrinter1Task2</Key>
+      <Value>Constrói o teu {THING:ItemKitSolarPanel} com os materiais proporcionados</Value>
+    </Record>
+    <Record>
+      <Key>TutorialThisIsAPrinter1Task1</Key>
+      <Value>Selecciona a receita {THING:ItemKitSolarPanel} na impressora.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSeeTheLightTitle</Key>
+      <Value>Vê a luz</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSeeTheLightDescription</Key>
+      <Value>Utiliza os materiais necessários para criar um {THING:ItemKitSolarPanel}, deverás encontrá-los no armário.  </Value>
+    </Record>
+    <Record>
+      <Key>TutorialSeeTheLightTask1</Key>
+      <Value>Adiciona os materiais para construir um {THING:ItemKitSolarPanel}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSeeTheLightTask2</Key>
+      <Value>Apanha o {THING:ItemKitSolarPanel} com o botão {KEY:PrimaryAction}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSeeTheLight1Title</Key>
+      <Value>Vê a luz</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSeeTheLight1Description</Key>
+      <Value>Seguindo em frente.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSeeTheLight1Task1</Key>
+      <Value>Entra na próxima sala</Value>
+    </Record>
+    <Record>
+      <Key>TutorialPanelForthTitle</Key>
+      <Value>Painel adiante</Value>
+    </Record>
+    <Record>
+      <Key>TutorialPanelForthDescription</Key>
+      <Value>Parece que aquela porta precisa de energia antes de continuarmos. Felizmente, onde há uma janela, há luz solar. Onde há luz solar, existe energia! Vamos colocar o {THING:ItemKitSolarPanel}. Podes usar a tua {THING:ItemWrench} para ajustar o ângulo, irá gerar mais energia quando está virado para o sol.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialPanelForthTask1</Key>
+      <Value>Coloca o {THING:StructureSolarPanel} na área indicada</Value>
+    </Record>
+    <Record>
+      <Key>TutorialPanelForthTask2</Key>
+      <Value>Constrói o {THING:StructureSolarPanel} usando materiais do armário</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDoorNeedsPowerTitle</Key>
+      <Value>Porta precisa de energia</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDoorNeedsPowerDescription</Key>
+      <Value>Vamos aguardar a porta ligar-se, e prepara-te para seguir em frente.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDoorNeedsPowerTask1</Key>
+      <Value>Abre a porta assim que tenha energia.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDoorNeedsPower1Title</Key>
+      <Value>Seguindo em frente.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDoorNeedsPower1Description</Key>
+      <Value>Hora de seguir em frente.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDoorNeedsPower1Task1</Key>
+      <Value>Entra na próxima sala</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSnackTimeTitle</Key>
+      <Value>Hora de um lanche!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSnackTimeDescription</Key>
+      <Value>Estás um pouco esfomeado? Apanha aquela {THING:ItemCerealBar} para um aperitivo saboroso. Os snacks são bons para a tua saúde, e podem ajudar a recuperares mais rápido se estiveres lesionado. </Value>
+    </Record>
+    <Record>
+      <Key>TutorialSnackTimeTask1</Key>
+      <Value>Apanha a {THING:ItemCerealBar} com o botão {KEY:PrimaryAction}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSnackTimeTask2</Key>
+      <Value>Come-a usando o botão {KEY:SecondaryAction}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialBreakOutTitle</Key>
+      <Value>Fim do intervalo</Value>
+    </Record>
+    <Record>
+      <Key>TutorialBreakOutDescription</Key>
+      <Value>Aquela porta não parece funcionar! Utiliza o teu {THING:ItemCrowbar} para forçar a sua abertura.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialBreakOutTask1</Key>
+      <Value>Pega o teu {THING:ItemCrowbar}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialBreakOutTask2</Key>
+      <Value>Força a abertura da porta e entra na próxima sala</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorkingTitle</Key>
+      <Value>Cabo, tu não funciona?</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorkingDescription</Key>
+      <Value>O conceito de consumo e produção de energia é importante! Aqui, demasiada energia foi gerada para os cabos aguentarem. Vamos limpar esta porcaria, corta aquele cabo.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorkingTask1</Key>
+      <Value>Equipa o teu {THING:ItemWireCutters} do teu Cinto de Ferramentas</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorkingTask2</Key>
+      <Value>Encontra e corta o cabo queimado.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorking1Description</Key>
+      <Value>Algo que podes usar para evitar os cabos queimar é um {THING:ItemAreaPowerControl}, também conhecido como APC. Podes encontrar um no armário - coloca-o onde estava o cabo queimado.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorking1Task1</Key>
+      <Value>Coloca o {THING:ItemAreaPowerControl}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorking2Description</Key>
+      <Value>Vamos configurar o nosso APC. Precisamos do nosso {THING:ItemCrowbar} para abri-lo, coloca uma bateria no interior depois vira o disjuntor. Agora tens um sistema de carga seguro.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorking2Task1</Key>
+      <Value>Equipa o {THING:ItemCrowbar} do teu cinto. </Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorking2Task2</Key>
+      <Value>Abre o APC usando o teu {THING:ItemCrowbar}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorking2Task3</Key>
+      <Value>Coloca a Bateria no APC.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorking2Task4</Key>
+      <Value>Liga a energia do APC.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorking2Task5</Key>
+      <Value>Fecha o APC usando o teu {THING:ItemCrowbar}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorking2Task6</Key>
+      <Value>Carrega as baterias</Value>
+    </Record>
+    <Record>
+      <Key>TutorialJustAroundTheCornerTitle</Key>
+      <Value>Ao passar da esquina</Value>
+    </Record>
+    <Record>
+      <Key>TutorialJustAroundTheCornerDescription</Key>
+      <Value>Seguindo em frente.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialJustAroundTheCornerTask1</Key>
+      <Value>Entra na próxima sala</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDoYouFeelTheFlowTitle</Key>
+      <Value>Sentes a aragem?</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDoYouFeelTheFlowDescription</Key>
+      <Value>Usando a {THING:ItemWrench} encaixa o {THING:StructureGasTankStorage} no {THING:StructureTankConnector} para ter alguma circulação de ar aqui, está a ficar um pouco abafado.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDoYouFeelTheFlowTask1</Key>
+      <Value>Encaixa o {THING:StructureTankConnector}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDoYouFeelTheFlowTask2</Key>
+      <Value>Abre a {THING:StructureValve} para deixar o ar circular.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLetsTankItUpTitle</Key>
+      <Value>Vamos encher o tanque</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLetsTankItUpDescription</Key>
+      <Value>Agora que temos circulação de ar, vamos encher este {THING:ItemGasCanisterEmpty}. Cuidado não deixes a pressão aumentar muito, costumam ocorrer explosões quando o fazem. Isto normalmente afectará as estruturas ao redor, mas estas aqui são indestrutíveis</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLetsTankItUpTask1</Key>
+      <Value>Coloca o {THING:ItemGasCanisterEmpty} </Value>
+    </Record>
+    <Record>
+      <Key>TutorialLetsTankItUpTask2</Key>
+      <Value>Ajusta o {THING:StructureActiveVent} a interior</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLetsTankItUpTask3</Key>
+      <Value>Liga o {THING:StructureActiveVent}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLetsTankItUp1Title</Key>
+      <Value>Seguindo em frente</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLetsTankItUp1Description</Key>
+      <Value>Já está quase!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLetsTankItUp1Task1</Key>
+      <Value>Entra na próxima sala</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStatusUpdatesTitle</Key>
+      <Value>Scotty, qual o teu estado?</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStatusUpdatesDescription</Key>
+      <Value>Quando tens de ir, tens de ir. Parece que a tua bateria ficou sem carga, troca-a por outra do armário!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStatusUpdatesTask1</Key>
+      <Value>Troca a bateria</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStatusUpdates1Description</Key>
+      <Value>Bom trabalho, agora parece que o teu Tanque de Ar está vazio? Passa-se algo de estranho aqui.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStatusUpdates1Task1</Key>
+      <Value>Troca o Tanque de Ar</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStatusUpdates2Description</Key>
+      <Value>Aquele filtro está cheio, adiciona um novo ao teu fato, consegues levar até três!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStatusUpdates2Task1</Key>
+      <Value>Troca o filtro</Value>
+    </Record>
+    <Record>
+      <Key>TutorialMovingOnUpTitle</Key>
+      <Value>Seguindo para cima</Value>
+    </Record>
+    <Record>
+      <Key>TutorialMovingOnUpDescription</Key>
+      <Value>Entra naquele elevador!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialMovingOnUpTask1</Key>
+      <Value>Entra no elevador e sobe ao próximo piso</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTimeToScrubTitle</Key>
+      <Value>Hora de purificar</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTimeToScrubDescription</Key>
+      <Value>As plantas requerem um ambiente muito específico para crescerem, isto incluí ar puro e fornecimento de água e luz solar.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTimeToScrubTask1</Key>
+      <Value>Liga o {THING:DynamicScrubber} para remover os poluentes da atmosfera</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWaterYaThinkAboutThatTitle</Key>
+      <Value>Água já pensaste nisso?</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWaterYaThinkAboutThatDescription</Key>
+      <Value>Vamos trocar aquele {THING:ItemGasCanisterWater} vazio por um cilindro novo e fresco.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWaterYaThinkAboutThatTask1</Key>
+      <Value>Adiciona o {THING:ItemGasCanisterWater} cheio à {THING:DynamicHydroponics}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLetItGrowTitle</Key>
+      <Value>Deixa crescer</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLetItGrowDescription</Key>
+      <Value>O problema do espaço é que não há comida. Vamos então tentar crescer alguma e ver o quanto verde os teus dedos são.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLetItGrowTask1</Key>
+      <Value>Planta o {THING:ItemTomato} na {THING:DynamicHydroponics} </Value>
+    </Record>
+    <Record>
+      <Key>TutorialLetItGrowTask2</Key>
+      <Value>Aguarda para colheres a tua colheita abundante</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSoCloseTitle</Key>
+      <Value>Tão perto</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSoCloseDescription</Key>
+      <Value>Tão perto, no entanto tão longe. Segue para a próxima sala.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSoCloseTask1</Key>
+      <Value>Segue para a próxima sala</Value>
+    </Record>
+    <Record>
+      <Key>TutorialUnderPressureTitle</Key>
+      <Value>Sobre Pressão</Value>
+    </Record>
+    <Record>
+      <Key>TutorialUnderPressureDescription</Key>
+      <Value>Hora de configurar a tua primeira {THING:StructureAirlock}. Os cabos já estão colocados para ti, só precisas colocar os objetos corretos nas áreas definidas. Podes encontrar os objetos no armário. </Value>
+    </Record>
+    <Record>
+      <Key>TutorialUnderPressureTask1</Key>
+      <Value>Coloca o {THING:StructureActiveVent}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialUnderPressureTask2</Key>
+      <Value>Coloca a {THING:StructureConsole}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialUnderPressureTask3</Key>
+      <Value>Coloca o {THING:StructureGasSensor}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialUnderPressureTask4</Key>
+      <Value>Coloca a {THING:StructureFlashingLight}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialUnderPressure1Title</Key>
+      <Value>Sobre Pressão</Value>
+    </Record>
+    <Record>
+      <Key>TutorialUnderPressure1Description</Key>
+      <Value>Boa! Agora vamos configurar o processo de alternar, introduz os componentes proporcionados e configura a consola.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialUnderPressure1Task1</Key>
+      <Value>Insere a {THING:CircuitboardAirlockControl}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialUnderPressure1Task2</Key>
+      <Value>Insere o {THING:ItemDataDisk}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialUnderPressure1Task3</Key>
+      <Value>Completa a consola aplicando o vidro</Value>
+    </Record>
+    <Record>
+      <Key>TutorialHackingTheMainframeTitle</Key>
+      <Value>Pirateando a Central</Value>
+    </Record>
+    <Record>
+      <Key>TutorialHackingTheMainframeDescription</Key>
+      <Value>Agora remove o Disco de Dados e liga a consola para programar a {THING:StructureAirlock}.
+
+Quando selecionares a Airlock certifica-te que a opção &apos;INTERIOR&apos; está para a porta interior. Poderás ver isto quando as luzes da Airlock passarem de verde a vermelho indicando qual a Airlock que estás a aplicar a opção.
+
+Assim que selecionares um dispositivo na consola, ele ficará bloqueado e sobre o seu controle, não respondendo mais ás tuas ações.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialHackingTheMainframeTask1</Key>
+      <Value>Atribui os componentes à {THING:StructureAirlock}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialBeFreeTitle</Key>
+      <Value>Sê Livre</Value>
+    </Record>
+    <Record>
+      <Key>TutorialBeFreeDescription</Key>
+      <Value>Alterna a Airlock e vamos sair daqui!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialBeFreeTask1</Key>
+      <Value>Alterna a {THING:StructureAirlock}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialCompletedDescription</Key>
+      <Value>Parabéns, o teu treino básico está completo! Vai lá para fora, Stationeer!</Value>
+    </Record>
+  </Interface>
+</Language>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Code>RU</Code>
+  <Interface>
+    <Record>
+      <Key>09BasicResearch</Key>
+      <Value>Исследования</Value>
+    </Record>
+    <Record>
+      <Key>BasicResearchDescription</Key>
+      <Value>Разблокируйте новые технологии с помощью исследовательской системы.</Value>
+    </Record>
+    <Record>
+      <Key>TheResearchMachine</Key>
+      <Value>Исследовательская Машина</Value>
+    </Record>
+    <Record>
+      <Key>TheResearchMachineDescription</Key>
+      <Value>Если исследования активированы в меню настроек мира, вам нужно будет активно открывать новые технологии методом обработки исследовательских капсул. Это делается с помощью {THING:StructureResearchMachine}. 
+
+Ваша первая задача состоит в том, чтобы построить {THING:StructureResearchMachine}. Вы найдете все, что вам нужно в красном {THING:DynamicCrate}.</Value>
+    </Record>
+    <Record>
+      <Key>TheResearchMachine1</Key>
+      <Value>Возьмите {THING:ItemKitResearchMachine} из красного {THING:DynamicCrate}.</Value>
+    </Record>
+    <Record>
+      <Key>TheResearchMachine2</Key>
+      <Value>Установите {THING:ItemKitResearchMachine} в выделенное место.</Value>
+    </Record>
+    <Record>
+      <Key>TheResearchMachineBuild</Key>
+      <Value>Сборка Исследовательской Машины</Value>
+    </Record>
+    <Record>
+      <Key>TheResearchMachineBuildeDescription</Key>
+      <Value>Как и другие машины, {THING:StructureResearchMachine} имеет несколько этапов сборки. Вам нужно будет завершить каждый этап сборки, чтобы полностью построить {THING:StructureResearchMachine}.</Value>
+    </Record>
+    <Record>
+      <Key>TheResearchMachineBuild1</Key>
+      <Value>Поднимите {THING:ItemIronSheets}.</Value>
+    </Record>
+    <Record>
+      <Key>TheResearchMachineBuild2</Key>
+      <Value>Приварите {THING:ItemIronSheets} к {THING:StructureResearchMachine} с помощью {THING:ItemWeldingTorch}.</Value>
+    </Record>
+    <Record>
+      <Key>TheResearchMachineBuild3</Key>
+      <Value>Теперь возьмите {THING:ItemElectronicParts}.</Value>
+    </Record>
+    <Record>
+      <Key>TheResearchMachineBuild4</Key>
+      <Value>Используйте {THING:ItemScrewdriver}, чтобы установить {THING:ItemElectronicParts} в {THING:StructureResearchMachine}.</Value>
+    </Record>
+    <Record>
+      <Key>TheResearchMachineBuild5</Key>
+      <Value>Завершите {THING:StructureResearchMachine} при помощи {THING:ItemScrewdriver}.</Value>
+    </Record>
+    <Record>
+      <Key>PrintingCapsules</Key>
+      <Value>Печатаем Капсулы</Value>
+    </Record>
+    <Record>
+      <Key>PrintingCapsulesDescription</Key>
+      <Value>Исследовательские капсулы являются неотъемлемой частью исследовательского процесса. Изготовьте их с помощью {THING:StructureElectronicsPrinter}, а затем добавьте их в {THING:StructureResearchMachine}, чтобы получить очки исследований. Капсулы ранжируются по уровням, которые определяют их стоимость: красный, зеленый, синий и желтый. 
+
+Более передовые технологии требуют капсул более высокого уровня. 
+
+Используйте находящийся рядом {THING:StructureElectronicsPrinter}, чтобы изготовить несколько капсул. </Value>
+    </Record>
+    <Record>
+      <Key>PrintingCapsules1</Key>
+      <Value>Включите {THING:StructureElectronicsPrinter}.</Value>
+    </Record>
+    <Record>
+      <Key>PrintingCapsules2</Key>
+      <Value>Выберите {THING:ItemResearchCapsuleRed} в меню {THING:StructureElectronicsPrinter}.</Value>
+    </Record>
+    <Record>
+      <Key>PrintingCapsules3</Key>
+      <Value>Изготовьте {THING:ItemResearchCapsuleRed}.</Value>
+    </Record>
+    <Record>
+      <Key>PrintingCapsules4</Key>
+      <Value>Выберите {THING:ItemResearchCapsule} в меню {THING:StructureElectronicsPrinter}.</Value>
+    </Record>
+    <Record>
+      <Key>PrintingCapsules5</Key>
+      <Value>Изготовьте {THING:ItemResearchCapsule}.</Value>
+    </Record>
+    <Record>
+      <Key>InsertingCapsules</Key>
+      <Value>Погрузка Капсул</Value>
+    </Record>
+    <Record>
+      <Key>InsertingCapsulesDescription</Key>
+      <Value>Теперь, когда у вас есть исследовательские капсулы, вы можете начать преобразовывать их в очки исследований.</Value>
+    </Record>
+    <Record>
+      <Key>InsertingCapsules0</Key>
+      <Value>Включите {THING:StructureResearchMachine}.</Value>
+    </Record>
+    <Record>
+      <Key>InsertingCapsules1</Key>
+      <Value>Вставьте {THING:ItemResearchCapsuleRed} в порт на задней стенке {THING:StructureResearchMachine}.</Value>
+    </Record>
+    <Record>
+      <Key>InsertingCapsules2</Key>
+      <Value>Нажмите большую зеленую кнопку на передней панели {THING:StructureResearchMachine}, чтобы начать обработку капсулы. Подождите, пока заполнится небольшой индикатор выполнения под кнопкой, это означает завершение обработки.</Value>
+    </Record>
+    <Record>
+      <Key>InsertingCapsules3</Key>
+      <Value>Когда первая капсула будет обработана, вставьте {THING:ItemResearchCapsule} в порт на задней стенке {THING:StructureResearchMachine}.</Value>
+    </Record>
+    <Record>
+      <Key>CapsuleBreakDown</Key>
+      <Value>Обработка Капсул</Value>
+    </Record>
+    <Record>
+      <Key>CapsuleBreakDownDescription</Key>
+      <Value>У каждого уровня исследовательской капсулы разное время обработки. Чем выше уровень, тем больше времени потребуется на обработку.</Value>
+    </Record>
+    <Record>
+      <Key>CapsuleBreakDown1</Key>
+      <Value>Обработайте {THING:ItemResearchCapsule} используя {THING:StructureResearchMachine}.</Value>
+    </Record>
+    <Record>
+      <Key>UnlockingResearch</Key>
+      <Value>Разблокировка исследований</Value>
+    </Record>
+    <Record>
+      <Key>UnlockingResearchDescription</Key>
+      <Value>Теперь, когда мы обработали исследовательские капсулы, мы можем распределить полученные данные на новые технологии.
+Нажмите на красный кружок на {THING:StructureResearchMachine}, чтобы открыть меню исследований.
+
+В правом верхнем углу меню вы можете увидеть свои текущие очки исследований. За каждую обработанную капсулу вы получаете одно очко данных. В левой части меню отображаются фильтры, которые можно включать или выключать, чтобы помочь найти определенные технологии для разблокировки. Сейчас на центральной панели отображаются заблокированные категории и стоимость разблокировки каждой из них.
+</Value>
+    </Record>
+    <Record>
+      <Key>UnlockingResearch2</Key>
+      <Value>Нажмите на красный кружок на {THING:StructureResearchMachine}, затем выберите категорию технологии &quot;Автоматизация&quot;. Выберите «Базовые логические контроллеры» и нажмите «подтвердить».</Value>
+    </Record>
+    <Record>
+      <Key>ItemsUnlocked</Key>
+      <Value>Разблокированные предметы</Value>
+    </Record>
+    <Record>
+      <Key>ItemsUnlockedDescription</Key>
+      <Value>Теперь, когда вы разблокировали технологию, вы можете получить доступ к новым предметам в принтере.</Value>
+    </Record>
+    <Record>
+      <Key>ItemsUnlocked1</Key>
+      <Value>Выберите {THING:CircuitboardAirControl} в меню {THING:StructureElectronicsPrinter}.</Value>
+    </Record>
+    <Record>
+      <Key>ItemsUnlocked2</Key>
+      <Value>Изготовьте {THING:CircuitboardAirControl} в {THING:StructureElectronicsPrinter}.</Value>
+    </Record>
+  </Interface>
+</Language>

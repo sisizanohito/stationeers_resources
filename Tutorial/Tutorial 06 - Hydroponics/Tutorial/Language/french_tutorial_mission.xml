@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Code>FR</Code>
+  <Interface>
+    <Record>
+      <Key>TutoiralHydroponicsAndFood</Key>
+      <Value>Culture Hydroponique, Hydratation et Nourriture</Value>
+    </Record>
+    <Record>
+      <Key>TutoiralHydroponicsAndFood</Key>
+      <!--This is the description that appers in the menu-->
+      <Value>Culture Hydroponique, Hydratation et Nourriture</Value>
+    </Record>
+    <Record>
+      <Key>TutoiralHydroponicsAndFoodSubTitle</Key>
+      <Value>Vous avez faim ? Testez votre capacité à vous nourrir sur une autre planète.</Value>
+    </Record>
+    <Record>
+      <Key>TutoiralHydroponicsAndFoodSubTitle2</Key>
+      <Value>Formation pratique : Étape VI.</Value>
+    </Record>
+    <Record>
+      <Key>TutoiralHydroponicsAndFoodDescription</Key>
+      <Value>Bienvenue Cadet. Il est temps de tester votre capacité à vous procurer de la nourriture loin, loin de chez vous.</Value>
+    </Record>
+    <Record>
+      <Key>6Narration1D2</Key>
+      <Value>Dans cette phase de test, nous allons examiner votre capacité à vous hydratez et à cultiver des aliments, puis les cuire en quelque chose de bon. Commencez par installer une station de remplissage de bouteille d’eau.</Value>
+    </Record>
+    <Record>
+      <Key>6BuildTankConnecter</Key>
+      <Value>Placer un Connecteur de Citerne portable dans la zone en surbrillance </Value>
+    </Record>
+    <Record>
+      <Key>6MoveThingArea</Key>
+      <Value>Poser la citerne portable d’eau sur le connecteur</Value>
+    </Record>
+    <Record>
+      <Key>ConnectTankToConnecter</Key>
+      <Value>Utilisez la clé à molette pour attacher la citerne au connecteur</Value>
+    </Record>
+    <Record>
+      <Key>6Narration3D</Key>
+      <Value>Les connecteurs de citerne vous permettent de connecter les citernes portables aux réseaux de tubes. Terminez le réseau de tubes en connectant des tubes aux plateaux hydroponiques.</Value>
+    </Record>
+    <Record>
+      <Key>6GetPipe</Key>
+      <Value>Ramassez les tubes dans la caisse</Value>
+    </Record>
+    <Record>
+      <Key>6BuildPipe</Key>
+      <Value>Placez le tuyau de jonction en T dans la position en surbrillance</Value>
+    </Record>
+    <Record>
+      <Key>6BuildPipept2</Key>
+      <Value>Placer le tuyau dans la position en surbrillance</Value>
+    </Record>
+    <Record>
+      <Key>6BuildPipept3</Key>
+      <Value>Placez le tuyau de jonction en T dans la zone en surbrillance</Value>
+    </Record>
+    <Record>
+      <Key>6Narration4D</Key>
+      <Value>Avant de planter quoi que ce soit, installez une lampe horticole pour que vous puissiez pousser toute la nuit, bruh.</Value>
+    </Record>
+    <Record>
+      <Key>6GetGrowLight</Key>
+      <Value>Ramassez un kit (Lampe horticole) dans la caisse</Value>
+    </Record>
+    <Record>
+      <Key>6BuildGrowLight</Key>
+      <Value>Placer la lampe horticole dans la zone en surbrilllance</Value>
+    </Record>
+    <Record>
+      <Key>6GrowLightOn</Key>
+      <Value>Allumer la lampe horticole</Value>
+    </Record>
+    <Record>
+      <Key>6Narration5D</Key>
+      <Value>Des plantes différentes requièrent des atmosphères différentes.
+Mais aujourd’hui, nous ne testons que les bases: vous avez de l’eau, de la lumière et le bon mélange de gaz, donc il est temps de semer du blé dans chacun des plateaux hydroponiques.</Value>
+    </Record>
+    <Record>
+      <Key>6GetWheat</Key>
+      <Value>Obtenez des graines de blé de la caisse</Value>
+    </Record>
+    <Record>
+      <Key>6PlantWheat</Key>
+      <Value>Planter le blé dans le plateau hydroponique</Value>
+    </Record>
+    <Record>
+      <Key>6Narration6D</Key>
+      <Value>Nous allons tester vos compétences avec les systèmes atmosphériques lors de la prochaine phase. Mais pour l’instant, attendez que le blé pousse. Nous avons ajouté un peu d’engrais pour accélérer les choses.</Value>
+    </Record>
+    <Record>
+      <Key>6WaitForWheatToGrow</Key>
+      <Value>Attendez que le blé pousse.</Value>
+    </Record>
+    <Record>
+      <Key>6Narration6D</Key>
+      <Value>Nous allons tester vos compétences avec les systèmes atmosphériques lors de la prochaine phase. Mais pour l’instant, attendez que le blé pousse. Nous avons ajouté un peu d’engrais pour accélérer les choses.</Value>
+    </Record>
+    <Record>
+      <Key>6HarvestWheat</Key>
+      <Value>Récolter 20 blé</Value>
+    </Record>
+    <Record>
+      <Key>6PutWheatInProcessor</Key>
+      <Value>Mettez le blé dans le mixeur (coté gauche de l&apos;appareil)</Value>
+    </Record>
+    <Record>
+      <Key>6BenchOn</Key>
+      <Value>Allumez la table de travail</Value>
+    </Record>
+    <Record>
+      <Key>6ReagentProcessorOn</Key>
+      <Value>Allumer le mixeur</Value>
+    </Record>
+    <Record>
+      <Key>6Narration8D</Key>
+      <Value>Dans un instant, vous aurez de la farine, vous pourrez donc cuisiner. Vous pouvez faire cuire de nombreux aliments au micro-ondes, y compris de délicieux muffins. Assurez-vous de suivre exactement la recette, car la pâtisserie est une science délicate.</Value>
+    </Record>
+    <Record>
+      <Key>6PutEggInMicrowave</Key>
+      <Value>Ajouter l&apos;oeuf dans le micro-onde</Value>
+    </Record>
+    <Record>
+      <Key>6PutMilkInMicrowave</Key>
+      <Value>Ajouter 10 ml de lait dans le micro-onde</Value>
+    </Record>
+    <Record>
+      <Key>6PutFlourInMicrowave</Key>
+      <Value>Ajouter 50 g de farine dans le micro-onde</Value>
+    </Record>
+    <Record>
+      <Key>6MicrowaveOn</Key>
+      <Value>Allumez le micro-onde</Value>
+    </Record>
+    <Record>
+      <Key>6BakeMuffin</Key>
+      <Value>Cuire un Muffin</Value>
+    </Record>
+    <Record>
+      <Key>6Narration9D</Key>
+      <Value>Vous avez cuit l’un des meilleurs muffins d’Agrizero. Profitez-en et bannissez cette faim, Cadet.</Value>
+    </Record>
+    <Record>
+      <Key>6EatMuffin</Key>
+      <Value>Manger le Muffin</Value>
+    </Record>
+    <Record>
+      <Key>6Narration10D</Key>
+      <Value>Bravo, cadet. Vous avez fait preuve d’une grande autosuffisance et de talents culinaires acceptables. Le Stationeer Command sera fier de vous. Appuyez sur le gros bouton bleu pour transmettre vos résultats.</Value>
+    </Record>
+    <Record>
+      <Key>6OnButtonPressTask</Key>
+      <Value>Appuyer sur le Gros Bouton  Bleu</Value>
+    </Record>
+    <Record>
+      <Key>6FlourCreated</Key>
+      <Value>Fabriquer de la farine</Value>
+    </Record>
+    <Record>
+      <Key>6NarrationInsert1D</Key>
+      <Value>Maintenant que vous avez une alimentation en eau, laissez pousser. Les plateaux hydroponiques sont un moyen simple et efficace de cultiver des plantes de toutes sortes. Terminez le réseau en ajoutant un autre plateau à l&apos;ensemble.</Value>
+    </Record>
+    <Record>
+      <Key>6MicrowaveClosed</Key>
+      <Value>Fermez le micro-onde</Value>
+    </Record>
+    <Record>
+      <Key>6MicrowaveOpened</Key>
+      <Value>Ouvrez la porte du micro-onde</Value>
+    </Record>
+    <Record>
+      <Key>6HydroponicTray</Key>
+      <Value>Placer le plateau hydroponique dans la zone en surbrillance</Value>
+    </Record>
+    <Record>
+      <Key>6BuildCables</Key>
+      <Value>Construisez un câble dans la zone en surbrillance</Value>
+    </Record>
+    <Record>
+      <Key>6PickUpCable</Key>
+      <Value>Ramasser la bobine de câble</Value>
+    </Record>
+    <Record>
+      <Key>6PickUpCable</Key>
+      <Value>Ramasser la bobine de câble</Value>
+    </Record>
+    <Record>
+      <Key>6PickUpItemHydroponicTray</Key>
+      <Value>Ramassez le plateau hydroponique</Value>
+    </Record>
+    <Record>
+      <Key>6GetFlour</Key>
+      <Value>Ramassez la farine dans le mixeur</Value>
+    </Record>
+    <Record>
+      <Key>6EndScreenText</Key>
+      <Value>Bon travail, cadet, vous avez démontré des compétences acceptables en culture hydroponique</Value>
+    </Record>
+    <Record>
+      <Key>6WaitForGrow</Key>
+      <Value>Attendez que le blé pousse</Value>
+    </Record>
+    <Record>
+      <Key>6GetWaterBottleFiller</Key>
+      <Value>Ramassez un Kit (Remplisseur de bouteille d’eau) dans la caisse</Value>
+    </Record>
+    <Record>
+      <Key>6BuildWaterBottleFiller</Key>
+      <Value>Placez le {THING:ItemWaterBottleFiller} dans la zone en surbrillance.</Value>
+    </Record>
+    <Record>
+      <Key>6GetWaterBottle</Key>
+      <Value>Obtenez une bouteille d&apos;eau vide de la caisse</Value>
+    </Record>
+    <Record>
+      <Key>6AddWaterbottletofiller</Key>
+      <Value>Ajouter une bouteille d&apos;eau dans le remplisseur</Value>
+    </Record>
+    <Record>
+      <Key>6GetMingBelt</Key>
+      <Value>Ramasser la ceinture de mineur dans la caisse</Value>
+    </Record>
+    <Record>
+      <Key>6AddIceToCrusher</Key>
+      <Value>Prendre la glace dans la ceinture de mineur et la mettre dans le Broyeur de glace</Value>
+    </Record>
+    <Record>
+      <Key>6MIceCrusherOn</Key>
+      <Value>Allumez le Broyeur de glace</Value>
+    </Record>
+  </Interface>
+</Language>

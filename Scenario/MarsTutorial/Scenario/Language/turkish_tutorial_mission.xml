@@ -1,0 +1,746 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Code>TR</Code>
+  <Interface>
+    <Record>
+      <Key>TheNewBeginningTitle</Key>
+      <Value>Yeni Başlangıç [BETA]</Value>
+    </Record>
+    <Record>
+      <Key>TheNewBeginningDescription</Key>
+      <Value>Bazı temel bilgileri öğrenelim ve nasıl en iyi Stationeer olabileceğinizi öğrenin!</Value>
+    </Record>
+    <!-- start the tutorial -->
+    <Record>
+      <Key>TutorialTheBeginningTitle</Key>
+      <Value>Başlangıç</Value>
+    </Record>
+    <Record> Using 
+			
+      <Key>TutorialTheBeginningDescription</Key>
+      <Value>Haydi başlayalım. {KEY:Help} tuşunu kullanarak Stationpedia&apos;nı kapat. Sonra, öğeleri almak için {KEY:PrimaryAction} tuşunu kullanarak giyin. Giymek istediğin öğeleri yuvalarına yerleştirmek için {KEY:HelmetSlot} tuşuna, {KEY:SuitSlot} tuşuna, {KEY:BackSlot} tuşuna, {KEY:UniformSlot} tuşuna veya {KEY:ToolBeltSlot} tuşuna bas. Yuvadaki ve etkin elindeki öğeleri yer değiştirmek için basılı tut. {KEY:MouseControl} tuşuna basılı tutarak ta parçaları uygun yuvalara taşıyabilirsin.
+
+Karakterin için yuvalar, ekranın sol kenarında görünmektedir. {KEY:MouseControl} tuşunu kullanmak ve {THING:UniformOrangeJumpSuit} yuvasına tıklamak bir örnektir. Bu eylem, belirli bir öğe yuvası için bir menü açacak, öğe ile etkileşimi sağlayacaktır.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTheBeginningTask1</Key>
+      <Value>{LINK:Home;Stationpedia}&apos;yı kapat</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTheBeginningTask2</Key>
+      <Value>{THING:ItemSpaceHelmet}&apos;nı donan</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTheBeginningTask3</Key>
+      <Value>{THING:ItemSpacepack}&apos;ni donan</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTheBeginningTask4</Key>
+      <Value>{THING:ItemEvaSuit}&apos;nı donan</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDontBeAToolTitle</Key>
+      <Value>Bir Alet Olmayın</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDontBeAToolDescription</Key>
+      <Value>Ne derler bilirsin, alet kemerin olmadan hiçbir yere gitme! Al ve giy.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDontBeAToolTask1</Key>
+      <Value>{THING:ItemToolBelt}&apos;ni donan</Value>
+    </Record>
+    <Record>
+      <Key>TutorialPowerUpTitle</Key>
+      <Value>Güç Açık</Value>
+    </Record>
+    <Record>
+      <Key>TutorialPowerUpDescription</Key>
+      <Value>Harika, şimdi kıyafetin üzerindeki sistemlerin çalışmasını sağla.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialPowerUpTask1</Key>
+      <Value>{KEY:PrimaryAction} tuşunu kullanarak {THING:ItemBatteryCellNuclear}&apos;ni al</Value>
+    </Record>
+    <Record>
+      <Key>TutorialPowerUpTask2</Key>
+      <Value>{KEY:SuitSlot} tuşunu kullanarak {THING:ItemEvaSuit}&apos;ni aç.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialPowerUpTask3</Key>
+      <Value>{THING:ItemBatteryCellNuclear}&apos;ni pil yuvasına yerleştir.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSomethingToFilterTitle</Key>
+      <Value>Süzülen Bir Şey</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSomethingToFilterDescription</Key>
+      <Value>Bir giysi, güvenli ve kapsayıcı bir ortam sağlamak için bir {THING:ItemBatteryCellNuclear}, {THING:ItemGasFilterCarbonDioxide} ve diğer şeylere ihtiyaç duyar.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSomethingToFilterTask1</Key>
+      <Value>{KEY:PrimaryAction} tuşunu kullanarak {THING:ItemGasFilterCarbonDioxide}&apos;ni al</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSomethingToFilterTask3</Key>
+      <Value>{THING:ItemGasFilterCarbonDioxide}&apos;ni süzme yuvana yerleştir</Value>
+    </Record>
+    <Record>
+      <Key>TutorialGasItUpTitle</Key>
+      <Value>Gazla</Value>
+    </Record>
+    <Record>
+      <Key>TutorialGasItUpDescription</Key>
+      <Value>{THING:ItemSpacepack}, jet motorunu çalıştırmak için bir iticiye ihtiyaç duyar; şuradaki azot kartuşunu kullanalım.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialGasItUpTask</Key>
+      <Value>İtici yuvasına {THING:ItemGasCanisterNitrogen} yerleştir.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialFeelingHotHotHotTitle</Key>
+      <Value>Sıcak Sıcak Sıcak Hissetmek</Value>
+    </Record>
+    <Record>
+      <Key>TutorialFeelingHotHotHotDescripton</Key>
+      <Value>Bu kıyafetin içi biraz sıcak! {KEY:SuitSlot} tuşunu kullanarak {THING:ItemEvaSuit}&apos;ni aç ve sıcaklığı 20c&apos;ye düşür. Kendini nemli hissettiğinde yapabileceğin, kıyafetin sıcaklığını düşürmek, kıyafetin pilinin ömrünü uzatmaya yardımcı olur. HUD&apos;una yansıyan bildirim değişimlerini göreceksin.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialFeelingHotHotHotTask1</Key>
+      <Value>Kıyafetinin sıcaklığını düşür.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLockItDownTitle</Key>
+      <Value>Şimdi Kilitle</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLockItDownDescripton</Key>
+      <Value>Dışarı çıkma zamanı! Başlığını kapatmayı unutma; aksi hâlde nefes almak zor olacaktır. Başlığı kilitlemek, kıyafetinin yanlışlıkla açılmasını ve kendini zararlı atmosfere ve sıcaklık dalgalanmalarına maruz kalmanı engelleyebilir; bu yüzden onu kilitleyelim.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLockItDownTask1</Key>
+      <Value>{KEY:Internals} tuşunu kullanarak {THING:ItemSpaceHelmet}&apos;nı kapat</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLockItDownTask2</Key>
+      <Value>{KEY:HelmetSlot} tuşunu kullanarak {THING:ItemSpaceHelmet} menüsünü aç ve Kaskı Kilitle tuşunu seç.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTheGreatOutdoorsTitle</Key>
+      <Value>Muhteşem Açık Hava</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTheGreatOutdoorsDescription</Key>
+      <Value>Haydi bir maceraya çıkalım! {THING:StructureAirlock}&apos;ni çevirmeye hazır ol.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTheGreatOutdoorsTask1</Key>
+      <Value>{THING:StructureAirlock}&apos;ne gir</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTheGreatOutdoorsTask2</Key>
+      <Value>Aydınlatılmış konsoldaki Çevir tuşuna tıklayarak {THING:StructureAirlock}&apos;ni çevir ve tamamlanmasını bekle.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescCycleAirlock1</Key>
+      <Value>O kadar da temiz olmayan bir hava alalım; olur mu?</Value>
+    </Record>
+    <Record>
+      <Key>TutorialAnotherDayAnotherDollarTitle</Key>
+      <Value>Başka Bir Gün, Başka Bir Dolar</Value>
+    </Record>
+    <Record>
+      <Key>TutorialAnotherDayAnotherDollarDescription</Key>
+      <Value>Bu cevherler, kendi kendilerine çıkmazlar! {KEY:InventorySelect} tuşuna basılı tutarak öğeleri, yuvalarından eline alabilir ve yuvanın numarasına basılı tutarak elinden yuvaya taşıyabilirsin. Sırt çantana bak ve {THING:ItemMiningBelt}&apos;ni çıkar; elindeyken {KEY:ToolBeltSlot} tuşuna basılı tutarak onu donan. {THING:ItemMiningDrill}&apos;nı donan ve kazmaya başla. Bırakmadan önce tekrar kapatmayı unutma!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialAnotherDayAnotherDollarTask1</Key>
+      <Value>{THING:ItemMiningBelt}&apos;nden {THING:ItemMiningDrill}&apos;nı donan</Value>
+    </Record>
+    <Record>
+      <Key>TutorialAnotherDayAnotherDollarTask0</Key>
+      <Value>{KEY:ToggleHandPower} tuşunu kullanarak Matkabını açmayı dene</Value>
+    </Record>
+    <Record>
+      <Key>TutorialAnotherDayAnotherDollarTask2</Key>
+      <Value>Yerden biraz {THING:ItemIronOre} kaz</Value>
+    </Record>
+    <Record>
+      <Key>TutorialJetpackTitle</Key>
+      <Value>Uçabileceğime İnanıyorum</Value>
+    </Record>
+    <Record>
+      <Key>TutorialJetpackDescription</Key>
+      <Value>Ah, birisi merdiveni unutmuş! Yükselmek için {KEY:Ascend} tuşunu, alçalmak için {KEY:Descend} tuşunu kullanarak balkona uç.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialJetpackTask1</Key>
+      <Value>{KEY:Jetpack} tuşunu kullanarak {THING:ItemSpacepack}&apos;ndaki roketlerini aç</Value>
+    </Record>
+    <Record>
+      <Key>TutorialJetpackTask2</Key>
+      <Value>{THING:StructureAirlock}&apos;ne gir</Value>
+    </Record>
+    <Record>
+      <Key>TutorialJetpackTask4</Key>
+      <Value>{THING:StructureAirlock}&apos;ni çevir</Value>
+    </Record>
+    <Record>
+      <Key>TutorialHatHairTitle</Key>
+      <Value>Şapka Saç</Value>
+    </Record>
+    <Record>
+      <Key>TutorialHatHairDescription</Key>
+      <Value>Artık güvenli bir şekilde içeri girdiğimizden dolayı, kıyafetinin oksijen kaynağını korumak için kaskını tekrar aç!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialHatHairTask1</Key>
+      <Value>{THING:ItemSpaceHelmet}&apos;ının kilidini aç</Value>
+    </Record>
+    <Record>
+      <Key>TutorialHatHairTask2</Key>
+      <Value>{THING:ItemSpaceHelmet} kaskını aç</Value>
+    </Record>
+    <Record>
+      <Key>TutorialIsItGettingHotInHereTitle</Key>
+      <Value>Burası Isınıyor Mu?</Value>
+    </Record>
+    <Record>
+      <Key>TutorialIsItGettingHotInHereDescription</Key>
+      <Value>Dolaptan {THING:ItemKitFurnace}&apos;ını al ve şuraya kur. Döndürmek için {KEY:QuantityModifier} tuşunu kullan.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialIsItGettingHotInHereTask1</Key>
+      <Value>{THING:ItemKitFurnace}&apos;ı vurgulanan alana yerleştir.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialItsJustTheFurnaceTitle</Key>
+      <Value>Sadece Fırın</Value>
+    </Record>
+    <Record>
+      <Key>TutorialItsJustTheFurnaceDescription</Key>
+      <Value>Isınan tek şey {THING:StructureArcFurnace}&apos;dır; az önce kazdığın {THING:ItemIronOre}&apos;ini yerleştir ve {THING:ItemIronIngot}&apos;e döndür! Daha sonra {THING:StructureArcFurnace}&apos;nı kapatmayı unutmaman, değerli kaynaklarını korumaya yardımcı olur.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialItsJustTheFurnaceTask1</Key>
+      <Value>{THING:ItemMiningBelt}&apos;ndan {THING:ItemIronOre}&apos;ni al.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialItsJustTheFurnaceTask2</Key>
+      <Value>{THING:StructureArcFurnace}&apos;ı aç</Value>
+    </Record>
+    <Record>
+      <Key>TutorialItsJustTheFurnaceTask3</Key>
+      <Value>{THING:StructureArcFurnace}&apos;ın içine {THING:ItemIronOre} yerleştir ve erimesi için bekle.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialItsJustTheFurnaceTask4</Key>
+      <Value>{KEY:PrimaryAction} tuşunu kullanarak {THING:ItemIronIngot}&apos;i al.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialItsJustTheFurnaceTask5</Key>
+      <Value>{THING:StructureArcFurnace}&apos;ı kapat.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialItsJustTheFurnace1Title</Key>
+      <Value>Sadece Fırın</Value>
+    </Record>
+    <Record>
+      <Key>TutorialItsJustTheFurnace1Description</Key>
+      <Value>Haydi yaratıcı olalım!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialItsJustTheFurnace1Task1</Key>
+      <Value>Sonraki Odaya Gir</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAroundTitle</Key>
+      <Value>Etraftaki Tornayı Durdur</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAroundDescription</Key>
+      <Value>{THING:ItemKitAutolathe}&apos;nı yerleştir ve {THING:ItemWeldingTorch}&apos;ni çıkar. İnşa etmeyi bitirmek için gerekli malzemeleri kullan. Ayarlardaki &quot;Genişletilmiş Araç İpuçları&quot; seçeneği etkin ise, inşanın sonraki aşamasının tamamlanması için neye ihtiyacın olduğunu görmek için imleci yapının üstüne tutabilirsin.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAroundTask1</Key>
+      <Value>Dolaptan {THING:ItemKitAutolathe}&apos;yı al ve vurgulanan alana yerleştir</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAround1Title</Key>
+      <Value>Etraftaki Tornayı Durdur</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAround1Task1</Key>
+      <Value>{THING:ItemKitAutolathe}&apos;yı vurgulanan alana yerleştir</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAround2Title</Key>
+      <Value>Etraftaki Tornayı Durdur</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAround2Description</Key>
+      <Value>Şimdi nihayet bina oluşturabiliriz! Dolaptan, sağlanan kaynakları kullanarak bir {THING:ItemKitElectronicsPrinter} oluşturarak başlayalım.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAround2Task0</Key>
+      <Value>{THING:StructureAutolathe}&apos;nı aç!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAround2Task1</Key>
+      <Value>{THING:ItemToolBelt}&apos;ndeki {THING:ItemWeldingTorch}&apos;ni kullanarak {THING:ItemKitAutolathe}&apos;nı inşa et.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAround2Task2</Key>
+      <Value>{THING:StructureAutolathe}&apos;daki {THING:ItemKitElectronicsPrinter} tarifini seç</Value>
+    </Record>
+    <Record>
+      <Key>TutorialYouCallThatAPrinterTitle</Key>
+      <Value>Buna Yazıcı mı diyorsun?</Value>
+    </Record>
+    <Record>
+      <Key>TutorialYouCallThatAPrinterDescription</Key>
+      <Value>Harika! Şimdi bir {THING:ItemKitElectronicsPrinter} oluşturalım. Onu al ve diğer odaya geç.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialYouCallThatAPrinterTask1</Key>
+      <Value>Dolaptaki malzemeleri kullanarak bir {THING:ItemKitElectronicsPrinter} oluştur</Value>
+    </Record>
+    <Record>
+      <Key>TutorialYouCallThatAPrinterTask2</Key>
+      <Value>{THING:ItemKitElectronicsPrinter}&apos;ı al.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAround3Title</Key>
+      <Value>Etraftaki Tornayı Durdur</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAround3Description</Key>
+      <Value>Devam ediyoruz.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAround3Task1</Key>
+      <Value>{THING:ItemKitElectronicsPrinter}&apos;ı al</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAround3Task2</Key>
+      <Value>Sonraki Odaya Gir</Value>
+    </Record>
+    <Record>
+      <Key>TutorialThisIsAPrinterTitle</Key>
+      <Value>Bu bir Yazıcı</Value>
+    </Record>
+    <Record>
+      <Key>TutorialThisIsAPrinterDescription</Key>
+      <Value>Yapılacaklar listemizdeki bir sonraki iş; bu {THING:ItemKitElectronicsPrinter}&apos;ı yere yerleştirelim.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialThisIsAPrinterTask1</Key>
+      <Value>{THING:ItemKitElectronicsPrinter}&apos;ı vurgulanan alana yerleştir.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialThisIsAPrinter1Title</Key>
+      <Value>Bu Bir Yazıcı</Value>
+    </Record>
+    <Record>
+      <Key>TutorialThisIsAPrinter1Description</Key>
+      <Value>{THING:ItemKitElectronicsPrinter}&apos;nı oluşturma zamanı. Dolapta gerekli malzemeleri bulmalısın. Bunu yaptıktan sonra, {THING:ItemKitSolarPanel} tarifini seç. {THING:StructureElectronicsPrinter}&apos;na benzer yapılar, sen tekrar kapatmazsan öğeleri yazmaya devam edecektir; çok çabuk kaynaklarını tüketeceğinden dolayı, işin bittiğinde kapatmayı unutma!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialThisIsAPrinter1Task</Key>
+      <Value>{THING:ItemKitElectronicsPrinter}&apos;ı üret</Value>
+    </Record>
+    <Record>
+      <Key>TutorialThisIsAPrinter1Task0</Key>
+      <Value>Yazıcıyı aç</Value>
+    </Record>
+    <Record>
+      <Key>TutorialThisIsAPrinter1Task2</Key>
+      <Value>Sağlanan malzemeler ile {THING:ItemKitSolarPanel}&apos;ını inşa et</Value>
+    </Record>
+    <Record>
+      <Key>TutorialThisIsAPrinter1Task1</Key>
+      <Value>Yazıcıdaki {THING:ItemKitSolarPanel} tarifini seç.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSeeTheLightTitle</Key>
+      <Value>Işığı Görmek</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSeeTheLightDescription</Key>
+      <Value>Bir {THING:ItemKitSolarPanel} üretmek için gerekli olan malzemeleri kullan; bunları dolapta bulmalısın.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSeeTheLightTask1</Key>
+      <Value>Bir {THING:ItemKitSolarPanel} inşa etmek için malzemeleri ekle</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSeeTheLightTask2</Key>
+      <Value>{KEY:PrimaryAction} tuşunu kullanarak {THING:ItemKitSolarPanel}&apos;i al</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSeeTheLight1Title</Key>
+      <Value>Işığı Görmek</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSeeTheLight1Description</Key>
+      <Value>Devam ediyoruz.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSeeTheLight1Task1</Key>
+      <Value>Sonraki Odaya Gir</Value>
+    </Record>
+    <Record>
+      <Key>TutorialPanelForthTitle</Key>
+      <Value>İleri Levhası</Value>
+    </Record>
+    <Record>
+      <Key>TutorialPanelForthDescription</Key>
+      <Value>Görünüşe göre devam etmeden önce kapının güce ihtiyacı var. Neyse ki, pencerenin olduğu yerde, güneş ışığı da vardır. Güneş ışığının olduğu yerde, enerji de vardır! şu {THING:ItemKitSolarPanel}&apos;ni yere yerleştirelim. Açıyı ayarlamak için {THING:ItemWrench}&apos;nı kullanabilirsin. Güneşe doğru döndüğünde daha fazla enerji üretecektir.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialPanelForthTask1</Key>
+      <Value>{THING:StructureSolarPanel}&apos;ni vurgulanan alana yerleştir</Value>
+    </Record>
+    <Record>
+      <Key>TutorialPanelForthTask2</Key>
+      <Value>Dolaptaki malzemeleri kullanarak {THING:StructureSolarPanel} inşa et</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDoorNeedsPowerTitle</Key>
+      <Value>Kapının Enerjiye İhtiyacı Var</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDoorNeedsPowerDescription</Key>
+      <Value>Kapıya güç gelmesini bekleyelim ve ilerlemek için hazır olalım.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDoorNeedsPowerTask1</Key>
+      <Value>Kapıyı güç geldiğinde aç.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDoorNeedsPower1Title</Key>
+      <Value>Devam ediyoruz.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDoorNeedsPower1Description</Key>
+      <Value>Devam etme zamanı.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDoorNeedsPower1Task1</Key>
+      <Value>Sonraki Odaya Gir</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSnackTimeTitle</Key>
+      <Value>Atıştırma Zamanı!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSnackTimeDescription</Key>
+      <Value>Biraz acıkmış hissediyor musun? Lezzetli bir atıştırmalık için {THING:ItemCerealBar}&apos;ını kap. Atıştırmalıklar sağlığın için iyidir ve yaralıysan daha hızlı iyileşmene yardımcı olabilir. </Value>
+    </Record>
+    <Record>
+      <Key>TutorialSnackTimeTask1</Key>
+      <Value>{KEY:PrimaryAction} tuşunu kullanarak {THING:ItemCerealBar}&apos;ını al</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSnackTimeTask2</Key>
+      <Value>{KEY:SecondaryAction} tuşunu kullanarak onu ye</Value>
+    </Record>
+    <Record>
+      <Key>TutorialBreakOutTitle</Key>
+      <Value>Kaçmak</Value>
+    </Record>
+    <Record>
+      <Key>TutorialBreakOutDescription</Key>
+      <Value>O kapı çalışmıyor gibi görünüyor! Kapıyı kanırtarak açmak için {THING:ItemCrowbar}&apos;ni kullan.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialBreakOutTask1</Key>
+      <Value>{THING:ItemCrowbar}&apos;ni al</Value>
+    </Record>
+    <Record>
+      <Key>TutorialBreakOutTask2</Key>
+      <Value>Kapıyı zorla aç ve diğer odaya gir</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorkingTitle</Key>
+      <Value>Kablo, Sen İşe Yaramıyor Musun?</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorkingDescription</Key>
+      <Value>Enerji çekimi ve üretimi kavramı önemlidir! Burada, kabloların kaldırabileceğinden çok daha fazla enerji üretilmiş. Bu dağınıklığı toparlayalım; şu kabloyu keselim.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorkingTask1</Key>
+      <Value>Alet kemerinden {THING:ItemWireCutters}&apos;ni donan</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorkingTask2</Key>
+      <Value>Arızalı kabloyu bul ve kes.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorking1Description</Key>
+      <Value>Kabloların yanmasını önlemek için kullanabileceğin şeyin ismi {THING:ItemAreaPowerControl}&apos;dir; diğer bir değişle APC. Dolapta bir tane bulabilirsin; onu arızalı kablonun yerine yerleştir.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorking1Task1</Key>
+      <Value>{THING:ItemAreaPowerControl}&apos;ni yerleştir</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorking2Description</Key>
+      <Value>Şimdi APC birimini kuralım. Açmak için {THING:ItemCrowbar}&apos;mize ihtiyacımız var; içine bir pil yerleştir ve anahtarı çevir. Artık güvenli bir şarj sistemin var.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorking2Task1</Key>
+      <Value>Alet kemerinden {THING:ItemCrowbar}&apos;ni al. </Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorking2Task2</Key>
+      <Value>{THING:ItemCrowbar}&apos;ni kullanarak APC&apos;yi aç</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorking2Task3</Key>
+      <Value>APC birimine Pili yerleştir.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorking2Task4</Key>
+      <Value>APC&apos;yi aç.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorking2Task5</Key>
+      <Value>{THING:ItemCrowbar}&apos;ni kullanarak APC&apos;yi kapat</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorking2Task6</Key>
+      <Value>Pilleri şarj et</Value>
+    </Record>
+    <Record>
+      <Key>TutorialJustAroundTheCornerTitle</Key>
+      <Value>Köşeyi Dönünce</Value>
+    </Record>
+    <Record>
+      <Key>TutorialJustAroundTheCornerDescription</Key>
+      <Value>Devam ediyoruz.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialJustAroundTheCornerTask1</Key>
+      <Value>Sonraki odaya gir</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDoYouFeelTheFlowTitle</Key>
+      <Value>Akımı Hissediyor Musun?</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDoYouFeelTheFlowDescription</Key>
+      <Value>Burada biraz hava akımı sağlamak için, bir {THING:ItemWrench} kullanarak {THING:StructureGasTankStorage}&apos;sunu {THING:StructureTankConnector}&apos;sına bağla; burası biraz havasız olmaya başladı.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDoYouFeelTheFlowTask1</Key>
+      <Value>{THING:StructureTankConnector}&apos;nı bağla</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDoYouFeelTheFlowTask2</Key>
+      <Value>Hava akımını sağlamak için {THING:StructureValve}&apos;yı aç.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLetsTankItUpTitle</Key>
+      <Value>Haydi Tanka Dolduralım</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLetsTankItUpDescription</Key>
+      <Value>Şimdi hava akıyor; bu {THING:ItemGasCanisterEmpty}&apos;nu dolduralım. Basıncın çok fazla olmamasına dikkat et; fazla basınç, patlamaya neden olma eğilimindedir. Bu patlamalar, etrafındaki yapıları doğal olarak etkileyecektir fakat buradakiler yok edilemezler</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLetsTankItUpTask1</Key>
+      <Value>{THING:ItemGasCanisterEmpty}&apos;ü yerleştir</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLetsTankItUpTask2</Key>
+      <Value>{THING:StructureActiveVent}&apos;yı içe doğru ayarla</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLetsTankItUpTask3</Key>
+      <Value>{THING:StructureActiveVent}&apos;yı Açık olarak ayarla</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLetsTankItUp1Title</Key>
+      <Value>Devam etmek</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLetsTankItUp1Description</Key>
+      <Value>Neredeyse oldu!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLetsTankItUp1Task1</Key>
+      <Value>Sonraki odaya gir</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStatusUpdatesTitle</Key>
+      <Value>Scotty, Durumun nedir?</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStatusUpdatesDescription</Key>
+      <Value>Gitmen gerektiğinde gitmelisin. Pilinin şarjı tükenmiş gibi görünüyor; dolaptan bir tane ile değiştir!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStatusUpdatesTask1</Key>
+      <Value>Pili Değiştir</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStatusUpdates1Description</Key>
+      <Value>İyi iş; AirTank&apos;ın boş gibi mi görünüyor? Burada şüpheli bir şeyler oluyor.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStatusUpdates1Task1</Key>
+      <Value>AirTank&apos;ı değiştir</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStatusUpdates2Description</Key>
+      <Value>Bu filtre tıkanmış. Yeni bir taneyi kıyafetine yerleştir; üç taneye kadar taşıyabilirsin!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStatusUpdates2Task1</Key>
+      <Value>Filtreyi değiştir</Value>
+    </Record>
+    <Record>
+      <Key>TutorialMovingOnUpTitle</Key>
+      <Value>Yukarıya Çıkmak</Value>
+    </Record>
+    <Record>
+      <Key>TutorialMovingOnUpDescription</Key>
+      <Value>Şu asansöre bin!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialMovingOnUpTask1</Key>
+      <Value>Asansöre gir ve sonraki kata çık</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTimeToScrubTitle</Key>
+      <Value>Temizleme Zamanı</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTimeToScrubDescription</Key>
+      <Value>Bitkiler, yetişmeleri için çok özel bir ortama ihtiyaç duyarlar; bu ortam sağlıklı hava, bir su kaynağı ve güneş ışığı içerir.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTimeToScrubTask1</Key>
+      <Value>Atmosferdeki kirletici maddeleri temizlemek için {THING:DynamicScrubber}&apos;ı aç</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWaterYaThinkAboutThatTitle</Key>
+      <Value>Tabii ki Su; bunun hakkında düşünüyor musun?</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWaterYaThinkAboutThatDescription</Key>
+      <Value>Bu boş {THING:ItemGasCanisterWater}, güzel bir taze kartuş ile değiştirelim.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWaterYaThinkAboutThatTask1</Key>
+      <Value>{THING:DynamicHydroponics}&apos;ye dolu{THING:ItemGasCanisterWater}&apos;u yerleştir</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLetItGrowTitle</Key>
+      <Value>Yetiştirelim</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLetItGrowDescription</Key>
+      <Value>Uzay hakkındaki bir şey, orada yiyecek olmamasıdır. Biraz yiyecek yetiştirmeye çalışalım ve bu konudaki kabiliyetimizin ne kadar iyi olduğunu görelim.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLetItGrowTask1</Key>
+      <Value>{THING:DynamicHydroponics}&apos;nin içine {THING:ItemTomato} ek </Value>
+    </Record>
+    <Record>
+      <Key>TutorialLetItGrowTask2</Key>
+      <Value>Bereketli mahsülünü hasat etmek için bekle</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSoCloseTitle</Key>
+      <Value>Çok Yakın</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSoCloseDescription</Key>
+      <Value>Çok yakın ama hâlâ var. Sonraki odaya geç.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSoCloseTask1</Key>
+      <Value>Sonraki odaya geç</Value>
+    </Record>
+    <Record>
+      <Key>TutorialUnderPressureTitle</Key>
+      <Value>Basınç Altında</Value>
+    </Record>
+    <Record>
+      <Key>TutorialUnderPressureDescription</Key>
+      <Value>İlk {THING:StructureAirlock}&apos;ni kurma zamanı. Kablolar senin için yerleştirildi; sadece, nesneleri vurgulanan doğru alanlara koyman gerekiyor. Dolapta gerekli nesneleri bulabilirsin. </Value>
+    </Record>
+    <Record>
+      <Key>TutorialUnderPressureTask1</Key>
+      <Value>{THING:StructureActiveVent}&apos;yı yerleştir</Value>
+    </Record>
+    <Record>
+      <Key>TutorialUnderPressureTask2</Key>
+      <Value>{THING:StructureConsole}&apos;u yerleştir</Value>
+    </Record>
+    <Record>
+      <Key>TutorialUnderPressureTask3</Key>
+      <Value>{THING:StructureGasSensor}&apos;nü yerleştir</Value>
+    </Record>
+    <Record>
+      <Key>TutorialUnderPressureTask4</Key>
+      <Value>{THING:StructureFlashingLight}&apos;ı yerleştir</Value>
+    </Record>
+    <Record>
+      <Key>TutorialUnderPressure1Title</Key>
+      <Value>Basınç Altında</Value>
+    </Record>
+    <Record>
+      <Key>TutorialUnderPressure1Description</Key>
+      <Value>Harika! Şimdi çevirme işlemini kuralım; sağlanan parçaları yerleştirelim ve konsolu ayarlayalım.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialUnderPressure1Task1</Key>
+      <Value>{THING:CircuitboardAirlockControl}&apos;ni yerleştir</Value>
+    </Record>
+    <Record>
+      <Key>TutorialUnderPressure1Task2</Key>
+      <Value>{THING:ItemDataDisk}&apos;ni yerleştir</Value>
+    </Record>
+    <Record>
+      <Key>TutorialUnderPressure1Task3</Key>
+      <Value>Camı yerleştirerek Konsolu tamamla</Value>
+    </Record>
+    <Record>
+      <Key>TutorialHackingTheMainframeTitle</Key>
+      <Value>Ana Bilgisayarı Heklemek</Value>
+    </Record>
+    <Record>
+      <Key>TutorialHackingTheMainframeDescription</Key>
+      <Value>{THING:StructureAirlock}&apos;ni programlamak için DataDisk&apos;i çıkar ve konsolu aç.
+\t\t\t
+\t\tHava Kilidi seçilirken, iç mekân kapısı için &quot;INTERIOR&quot; seçeneğinin seçildiğine emin ol. Bu seçenek ile uyguladığın Hava Kilidinin, Yeşilden Kırmızıya dönen bildirim ışığı görülebilir.
+\t\t\t
+\t\tBirkez konsol seçilmiş bir cihaza sahip olduğunda, onun kontrolü altında ve kilitli olacaktır; etkileşimlerinize de yanıt vermeyecektir.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialHackingTheMainframeTask1</Key>
+      <Value>{THING:StructureAirlock} bileşenlerini belirle</Value>
+    </Record>
+    <Record>
+      <Key>TutorialBeFreeTitle</Key>
+      <Value>Özgür Ol</Value>
+    </Record>
+    <Record>
+      <Key>TutorialBeFreeDescription</Key>
+      <Value>Çevrimi çalıştır ve buradan gidelim!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialBeFreeTask1</Key>
+      <Value>{THING:StructureAirlock}&apos;ni çevir</Value>
+    </Record>
+    <Record>
+      <Key>TutorialCompletedDescription</Key>
+      <Value>Tebrikler, temel eğitim tamamlandı! Çık oraya, Stationeer!</Value>
+    </Record>
+  </Interface>
+</Language>

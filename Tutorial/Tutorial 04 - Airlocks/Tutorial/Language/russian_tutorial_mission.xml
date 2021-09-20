@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Code>RU</Code>
+  <Interface>
+    <Record>
+      <Key>TutoiralAirlocks</Key>
+      <Value>Шлюзы</Value>
+    </Record>
+    <Record>
+      <Key>TutoiralAirlocksDescription</Key>
+      <!--This is the description that appears in the menu-->
+      <Value>Обновите ваши знания построения шлюзов.</Value>
+    </Record>
+    <Record>
+      <Key>TutoiralAtmosphericsSubTitle</Key>
+      <Value>Практические Тренировки: Этап IV</Value>
+    </Record>
+    <Record>
+      <Key>IntoTutoiralAirlocksDescription</Key>
+      <!--This is the intro panel at the start of the tutorial-->
+      <Value>Добро пожаловать, Кадет. Для завершения этого этапа испытаний и герметизации своей базы, мы разберёмся в конструкции основного шлюза.</Value>
+    </Record>
+    <Record>
+      <Key>4Narration1T</Key>
+      <Value>Практические Тренировки: Этап IV</Value>
+    </Record>
+    <Record>
+      <Key>4Narration1D</Key>
+      <Value>Похоже что ваш скафандр был повреждён. Поэтому прежде чем мы начнём, почините его используя клейкую ленту.</Value>
+    </Record>
+    <Record>
+      <Key>4GetDucktape</Key>
+      <Value>Возьмите клейкую ленту в активную руку из ящика</Value>
+    </Record>
+    <Record>
+      <Key>4UseDuctTape</Key>
+      <Value>Отремонтируйте скафандр.</Value>
+    </Record>
+    <Record>
+      <Key>4Narration2D</Key>
+      <Value>Приступим. Чтобы построить шлюз, начните с печати двух наборов для изготовления дверей. Вам потребуется добавить слитки из ящика в автолат.</Value>
+    </Record>
+    <Record>
+      <Key>4PutCopperIngotInAutoLathe</Key>
+      <Value>Добавьте слиток меди в автолат</Value>
+    </Record>
+    <Record>
+      <Key>4PutGoldIngotInAutoLathe</Key>
+      <Value>Добавьте слиток золота в автолат</Value>
+    </Record>
+    <Record>
+      <Key>4Narration3D</Key>
+      <Value>Теперь вы можете распечатать два набора для изготовления дверей используя многоосевую молекулярную композиционную систему, также известную как автолат. И начните изолировать себя от тоски и разочарования в космосе.</Value>
+    </Record>
+    <Record>
+      <Key>4FabricateDoor</Key>
+      <Value>Распечатайте два набора для изготовления дверей</Value>
+    </Record>
+    <Record>
+      <Key>4Narration4D</Key>
+      <Value>Протокол ODA гласит, что прежде чем вы сможете построить новые двери, вы должны удалить разрушенные.</Value>
+    </Record>
+    <Record>
+      <Key>T4Deconstruct1</Key>
+      <Value>Демонтируйте разрушенную дверь 1.</Value>
+    </Record>
+    <Record>
+      <Key>T4Deconstruct2</Key>
+      <Value>Демонтируйте разрушенную дверь 2.</Value>
+    </Record>
+    <Record>
+      <Key>4Narration5D</Key>
+      <Value>Хорошая работа! Теперь постройте композитные двери в подсвеченной области.
+Вам нужно будет посмотреть варианты постройки дверей чтобы выбрать верный.</Value>
+    </Record>
+    <Record>
+      <Key>4BuildPDoor1Tutorial</Key>
+      <Value>Разместите композитную дверь #1 в подсвеченной области</Value>
+    </Record>
+    <Record>
+      <Key>4BuildDoor2Tutorial</Key>
+      <Value>Разместите композитную дверь #2 в подсвеченной области</Value>
+    </Record>
+    <Record>
+      <Key>4BuildCornerCable1Tutorial</Key>
+      <Value>Подключите дверь #1 к логической и электрической сетям</Value>
+    </Record>
+    <Record>
+      <Key>4BuildCornerCable2Tutorial</Key>
+      <Value>Подключите дверь #2 к логической и электрической сетям</Value>
+    </Record>
+    <Record>
+      <Key>4Narration6D</Key>
+      <Value>Постройте газовый датчик, чтобы наблюдать за давлением в шлюзе. Вам понадобится заглянуть в Stationpedia для того чтобы узнать в каком устройстве можно изготовить датчик.</Value>
+    </Record>
+    <Record>
+      <Key>OnStationpediaOpen</Key>
+      <Value>Откройте Stationpedia (F1)</Value>
+    </Record>
+    <Record>
+      <Key>4PediaNavigation</Key>
+      <Value>Перейдите в &apos;Набор (Датчики)&apos;, чтобы узнать устройство для изготовления</Value>
+    </Record>
+    <Record>
+      <Key>4FabricateSensorKit</Key>
+      <Value>Изготовьте набор для изготовления датчика</Value>
+    </Record>
+    <Record>
+      <Key>4BuildGasSensorTutorial</Key>
+      <Value>Постройте {THING:StructureGasSensor} в подсвеченной области</Value>
+    </Record>
+    <Record>
+      <Key>4Narration7D</Key>
+      <Value>Для герметизации шлюза, тебе нужна активная вентиляция для циркуляции воздуха, и пассивная вентиляция чтобы дать атмосфере перейти в систему труб.</Value>
+    </Record>
+    <Record>
+      <Key>4FabricateItemPassiveVent</Key>
+      <Value>Изготовьте пассивную вентиляцию</Value>
+    </Record>
+    <Record>
+      <Key>4GetActiveVent</Key>
+      <Value>Возьмите активную вентиляцию из ящика</Value>
+    </Record>
+    <Record>
+      <Key>4BuildStructureActiveVent</Key>
+      <Value>Постройте активную вентиляционную решётку в выделенном месте внутри шлюза</Value>
+    </Record>
+    <Record>
+      <Key>4BuildStructurePassiveVent</Key>
+      <Value>Постройте пассивную вентиляционную решётку в выделенном месте на стене базы</Value>
+    </Record>
+    <Record>
+      <Key>4Narration8D</Key>
+      <Value>Подключите вентиляцию к воздуховоду, чтобы воздух из помещений перекачивался в шлюз.</Value>
+    </Record>
+    <Record>
+      <Key>4BuildPipeCorner1Tutorial</Key>
+      <Value>Добавьте трубу #1 в трубопровод</Value>
+    </Record>
+    <Record>
+      <Key>4BuildPipeCorner2Tutorial</Key>
+      <Value>Добавьте трубу #2 в трубопровод</Value>
+    </Record>
+    <Record>
+      <Key>4Narration9D</Key>
+      <Value>Консоли Норсек позволяют контролировать и отслеживать различные системы, в зависимости от их конфигурации. Считай их маленьким, простым мозгом.</Value>
+    </Record>
+    <Record>
+      <Key>4BuildConsoleTutorial</Key>
+      <Value>Постройте консоль в выделенном месте</Value>
+    </Record>
+    <Record>
+      <Key>4Narration10D</Key>
+      <Value>Печатные платы обеспечивают консоли набором различного функционала. Здесь тебе нужна шлюзовая печатная плата, и дата-диск чтобы запрограммировать ее.</Value>
+    </Record>
+    <Record>
+      <Key>4FabricateAirlcokCircuit</Key>
+      <Value>Изготовьте плату управления шлюзом</Value>
+    </Record>
+    <Record>
+      <Key>4FabricateDataDisk</Key>
+      <Value>Изготовьте дата-диск</Value>
+    </Record>
+    <Record>
+      <Key>4FinsihConsole</Key>
+      <Value>Завершите консоль листом стекла</Value>
+    </Record>
+    <Record>
+      <Key>4ConsoleOn</Key>
+      <Value>Включите консоль</Value>
+    </Record>
+    <Record>
+      <Key>4Narration11D</Key>
+      <Value>Чтобы запрограммировать шлюз, тебе потребуется дата-диск. Затем выберите элементы, с которыми должна работать консоль.
+Устройства подсвечиваются ЗЕЛЕНЫМ с КРАСНЫМ ТЕКСТОМ когда выбраны.</Value>
+    </Record>
+    <Record>
+      <Key>4PediaOpen</Key>
+      <Value>Откройте Stationpedia с помощью F1</Value>
+    </Record>
+    <Record>
+      <Key>4Narration12D</Key>
+      <Value>Теперь выбери шлюзовые двери: выбирая наружную дверь как &apos;Наружную&apos; сделает другую дверь по умолчанию &apos;Внутренней&apos;.</Value>
+    </Record>
+    <Record>
+      <Key>4GetpipeKit</Key>
+      <Value>Возьмите трубы из ящика.</Value>
+    </Record>
+    <Record>
+      <Key>4GetConsole</Key>
+      <Value>Возьмите консоль из ящика</Value>
+    </Record>
+    <Record>
+      <Key>4Narration13D</Key>
+      <Value>Когда ты успешно завершил настройку шлюза, переключатель сбоку консоли загорится зеленым. Извлеки дата-диск из консоли чтобы закрыть настройки.</Value>
+    </Record>
+    <Record>
+      <Key>4PutCircuitInConsole</Key>
+      <Value>Добавьте плату управления шлюзом в консоль.</Value>
+    </Record>
+    <Record>
+      <Key>4Narration14D</Key>
+      <Value>Шлюз готов, теперь вы можете поднять давление на базе! Включите ИБП чтобы наполнить помещение атмосферой. Система будет поддерживать давление в 100кПа.</Value>
+    </Record>
+    <Record>
+      <Key>4Narration15D</Key>
+      <Value>Когда помещение наполнится атмосферой, ваш скафандр зарегистрирует изменение внешнего давления и температуры.</Value>
+    </Record>
+    <Record>
+      <Key>4TurningOnTheOXygen</Key>
+      <Value>Подождите пока давление достигнет 92кПа</Value>
+    </Record>
+    <Record>
+      <Key>4Narration16D</Key>
+      <Value>Теперь база под давлением, ты можешь протестировать шлюз нажав &apos;Cycle to Exterior&apos; на консоли.</Value>
+    </Record>
+    <Record>
+      <Key>4OpenAirlock</Key>
+      <Value>Разгерметизировать шлюз</Value>
+    </Record>
+    <Record>
+      <Key>4Narration17D</Key>
+      <Value>Отличная работа, Кадет. Ты построил герметичную, наполненную атмосферой базу. Это последний шаг Практического Тестирования, Фазы IV. Вернись внутрь и нажми &apos;Важную&apos; кнопку чтобы отправить твои результаты в Командование Станционеров ODA.</Value>
+    </Record>
+    <Record>
+      <Key>4AirlockProggramGasSensor</Key>
+      <Value>Выделите газовый датчик</Value>
+    </Record>
+    <Record>
+      <Key>4AirlockProggramActiveVent</Key>
+      <Value>Выделите активную вентиляцию</Value>
+    </Record>
+    <Record>
+      <Key>4AirlockExternalDoor</Key>
+      <Value>Выделите внешнюю дверь как &apos;Внешнюю&apos;</Value>
+    </Record>
+    <Record>
+      <Key>4AirlockInternalDoor</Key>
+      <Value>Выделите внутреннюю дверь как &apos;Внутреннюю&apos;</Value>
+    </Record>
+    <Record>
+      <Key>4GetDataDisk2</Key>
+      <Value>Извлеките дата-диск</Value>
+    </Record>
+    <Record>
+      <Key>4FlipSwitch</Key>
+      <Value>Включите ИБП, чтобы начать повышение давления.</Value>
+    </Record>
+    <Record>
+      <Key>4FinishDoor1</Key>
+      <Value>Завершите строительство двери #1</Value>
+    </Record>
+    <Record>
+      <Key>4FinishDoor2</Key>
+      <Value>Завершите строительство двери #2</Value>
+    </Record>
+    <Record>
+      <Key>4Narration55D</Key>
+      <Value>Будучи Станционером, сперва нужно закончить дела: Заверши строительство дверей используя ресурсы из контейнера и твой встроенный, подсознательный ИИ помощник HUD из &apos;всплывающих подсказок&apos;.</Value>
+    </Record>
+    <Record>
+      <Key>4Narration56D</Key>
+      <Value>Именование предметов в сетях уменьшает путаницу: Используй Маркировщик для именования внутренней и наружной дверей в сети данных.</Value>
+    </Record>
+    <Record>
+      <Key>4GetLabeler</Key>
+      <Value>Возьмите в руку {THING:ItemLabeller} из ящика</Value>
+    </Record>
+    <Record>
+      <Key>4LabelerOn</Key>
+      <Value>Включите {THING:ItemLabeller}</Value>
+    </Record>
+    <Record>
+      <Key>4CustomName</Key>
+      <Value>Пометьте внутреннюю дверь как &apos;внутренняя дверь&apos;</Value>
+    </Record>
+    <Record>
+      <Key>4CustomName2</Key>
+      <Value>Пометьте внешнюю дверь как &apos;внешняя дверь&apos;</Value>
+    </Record>
+    <Record>
+      <Key>4PutDataDiskInConsole</Key>
+      <Value>Вставьте дата-диск в консоль</Value>
+    </Record>
+  </Interface>
+</Language>

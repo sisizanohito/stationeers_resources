@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Code>ES</Code>
+  <Interface>
+    <Record>
+      <Key>TutoiralSmelting</Key>
+      <Value>Fundición de aleaciones</Value>
+    </Record>
+    <Record>
+      <Key>TutoiralSmeltingDescription</Key>
+      <!--This is the description that appers in the menu-->
+      <Value>Mejore sus habilidades de fundición y aprenda a crear aleaciones metálicas para construcciones más ambiciosas.</Value>
+    </Record>
+    <Record>
+      <Key>TutoiralAtmosphericsSubTitle</Key>
+      <Value>Entrenamiento práctico: Etapa V</Value>
+    </Record>
+    <Record>
+      <Key>TutoiralSmleting</Key>
+      <Value>Fundición</Value>
+    </Record>
+    <Record>
+      <Key>TutoiralSmletingSubTitle</Key>
+      <Value>Entrenamiento práctico: Etapa V</Value>
+    </Record>
+    <Record>
+      <Key>TutoiralSmletingDescription</Key>
+      <Value>Bienvenido Cadete. Stationeer Command está satisfecho con tu progreso. Le han autorizado a mejorar sus habilidades. En esta fase, probaremos sus habilidades de fundición de aleaciones para crear estructuras y dispositivos más avanzados.</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration1T</Key>
+      <Value>Fundición</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration1D</Key>
+      <Value>Ha agregado muchos dispositivos a su base y se está quedando sin energía. Una batería de estación podría ayudar, permitiéndole almacenar el exceso de energía para usar en otros momentos. Estos requieren acero, por lo que primero debe construir un horno para fundir aleaciones.</Value>
+    </Record>
+    <Record>
+      <Key>4.5GetFurnace</Key>
+      <Value>Consigue el kit de la caldera de la caja</Value>
+    </Record>
+    <Record>
+      <Key>4.5BuildFurnace</Key>
+      <Value>Construir el horno en la posición destacada</Value>
+    </Record>
+    <Record>
+      <Key>4.5FinishFurnace</Key>
+      <Value>Terminar la construcción del horno</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration2D</Key>
+      <Value>Los hornos producen metales, calor y gas residual. El manual Stationeers sugiere capturar ese gas para usarlo en otro lugar, pero aún no está preparado para eso. Por lo tanto, debe bombearlo al exterior para evitar intoxicarse. Esto también le permitirá ventilar el horno más tarde.</Value>
+    </Record>
+    <Record>
+      <Key>4.5BuildPipe</Key>
+      <Value>Coloca el horno de arco en el área resaltada</Value>
+    </Record>
+    <Record>
+      <Key>4.5PickUpPipe</Key>
+      <Value>Coge la tuberia de la caja</Value>
+    </Record>
+    <Record>
+      <Key>4.5PickUpPassiveVent</Key>
+      <Value>Coge la ventilación activa de la caja</Value>
+    </Record>
+    <Record>
+      <Key>4.5BuildPassiveVent</Key>
+      <Value>Coloque el respiradero en el exterior en la posición resaltada</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration3D</Key>
+      <Value>Manejar atmósferas en rocas áridas y sin aire es parte del trabajo de un día para un Stationeer. Así que las bombas de volumen son útiles. Agregar uno a su red de tuberías actuará como una válvula para mantener la presión en el horno y le permitirá eliminar el gas residual cuando termine de fundir.</Value>
+    </Record>
+    <Record>
+      <Key>4.5BuildPump</Key>
+      <Value>Coloque la bomba de volumen en el área resaltada</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration4D</Key>
+      <Value>Dato curioso: los accidentes relacionados con hornos fueron la principal causa de desmembramiento de Stationeer el año pasado. Debe controlar su presión y temperatura en todo momento, o pueden producirse &quot;molestias&quot;. Configure consolas para que le muestren esta información junto al horno.</Value>
+    </Record>
+    <Record>
+      <Key>4.5PlaceConsole</Key>
+      <Value>Coloca la consola en la posición resaltada</Value>
+    </Record>
+    <Record>
+      <Key>4.5PutGasCircuitInConsole</Key>
+      <Value>Añadir la placa de circuito de la pantalla de gas a la consola inacabada</Value>
+    </Record>
+    <Record>
+      <Key>4.5Finishconsole</Key>
+      <Value>Completa la consola con la placa de cristal</Value>
+    </Record>
+    <Record>
+      <Key>4.5PutDataDiskInConsole</Key>
+      <Value>Inserta el disco de datos en el lateral de la consola</Value>
+    </Record>
+    <Record>
+      <Key>4.5ConsoleOn</Key>
+      <Value>Enciende la consola</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration5D</Key>
+      <Value>Para programar la consola para que muestre la temperatura del horno, cambie el modo a &apos;Temperatura&apos; haciendo clic en la configuración actualmente asignada a &apos;Presión&apos;.</Value>
+    </Record>
+    <Record>
+      <Key>4.5ConfigureGasSensorTask</Key>
+      <Value>Configura la consola en el modo &apos;Temperatura&apos;</Value>
+    </Record>
+    <Record>
+      <Key>4,5ConfigureGasSensorTask1</Key>
+      <Value>Seleccione el horno de la lista de dispositivos</Value>
+    </Record>
+    <Record>
+      <Key>4,5ConfigureGasSensorTask2</Key>
+      <Value>Configurar la segunda consola para la &apos;presión&apos;</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration6D</Key>
+      <Value>Excelente. Estás listo para fundir como nunca antes. Consulte la Stationpedia para averiguar cómo alimentar el horno.</Value>
+    </Record>
+    <Record>
+      <Key>4.5HowToMakeBattery</Key>
+      <Value>Consulta la página de el kit (batería) en la Stationpedia</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration7D</Key>
+      <Value>Excelente. Estás casi listo para fundir como nunca antes. Los hornos funcionan mejor con un suministro constante de gas, pero también puede alimentarlos con una mezcla de combustible. Debe tener mucho cuidado de agregar exactamente las cantidades de combustible correctas. Encuentra la receta y las proporciones de combustible en Stationpedia.</Value>
+    </Record>
+    <Record>
+      <Key>4.5PediaNavigation1</Key>
+      <Value>Consulte la página &apos;Horno&apos; en la Stationpedia para obtener la receta del combustible</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration8D</Key>
+      <Value>La ODA lo necesita, sirviendo al Sistema Solar lo antes posible. Así que le dejamos un suministro de oxita y volátiles para acelerar las cosas. Los encontrará almacenados en el cinturón minero en la caja.</Value>
+    </Record>
+    <Record>
+      <Key>4.5PickUpMiningBelt</Key>
+      <Value>Recoger el cinturón de minería de la caja</Value>
+    </Record>
+    <Record>
+      <Key>4.5EquiptMiningbelt</Key>
+      <Value>Equipar cinturón de minería.</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration10D</Key>
+      <Value>Los recursos no siempre vienen en la cantidad exacta que necesita, por lo que debe dividirlos. Los hielos se rompen fácilmente en tu poderoso agarre.</Value>
+    </Record>
+    <Record>
+      <Key>OpenOxiteMenu</Key>
+      <Value>Haga clic en el mineral de oxita</Value>
+    </Record>
+    <Record>
+      <Key>4.5SplitStack</Key>
+      <Value>Divida el mineral de oxite en dos pilas de (6)</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration11D</Key>
+      <Value>Encienda esta cosa. No es exactamente la &quot;mejor práctica&quot; de la AOD, pero agregar mineral directamente al horno funcionará por ahora. Debe procesar cada pieza de oxita individualmente, presionando el botón &apos;Activar&apos; varias veces. La tapa del horno se abrirá y la oxita está completamente procesada.</Value>
+    </Record>
+    <Record>
+      <Key>4.5AddOxitetoFurnace</Key>
+      <Value>Agregue 6 oxitas al horno</Value>
+      <!--Change to match tutorial-->
+    </Record>
+    <Record>
+      <Key>4.5IgnitingTheFurnace</Key>
+      <Value>Procesar oxite: presione el botón &apos;Activar&apos; hasta que se abra la tapa</Value>
+    </Record>
+    <Record>
+      <Key>4.5AddVolatilestoFurnace</Key>
+      <Value>Agregue 12 volátiles al horno</Value>
+      <!--Change to match tutorial-->
+    </Record>
+    <Record>
+      <Key>4.5IgnitingTheFurnace</Key>
+      <Value>Procesar oxite: presione el botón &apos;Activar&apos; hasta que se abra la tapa</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration12D</Key>
+      <Value>No hay atmósfera en esta habitación, por lo que no se puede escuchar el rugido del horno, pero lo ES. Así que prepare sus otros ingredientes: imprimir una batería de estación también requiere cobre y oro. Te dejamos minerales en el casillero. Nota: la temperatura y la presión más altas del horno lo convierten en una máquina de velocidad de fundición.</Value>
+    </Record>
+    <Record>
+      <Key>5AddCoppertoFurnace</Key>
+      <Value>Agregue 50 demineral de cobre al horno</Value>
+    </Record>
+    <Record>
+      <Key>4.5OpenFurnaceC</Key>
+      <Value>Tire de la palanca del horno cuando se haya terminado de fundir</Value>
+    </Record>
+    <Record>
+      <Key>4.5SmeltCopper</Key>
+      <Value>Espera que el Lingote de cobre se funda</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration13D</Key>
+      <Value>Excelente. Ahora funde un lingote de oro, alquimista espacial.</Value>
+    </Record>
+    <Record>
+      <Key>4.5AddGoldtoFurnace</Key>
+      <Value>Insertar 50 de mineral de oro en el horno</Value>
+    </Record>
+    <Record>
+      <Key>4.5OpenFurnace</Key>
+      <Value>Expulse el lingote de oro</Value>
+    </Record>
+    <Record>
+      <Key>4.5SmeltGold</Key>
+      <Value>Espera a que el lingote de oro se funda</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration14D</Key>
+      <Value>Si llegaste hasta aquí, Cadete, tus posibilidades de sobrevivir a esta prueba son más del 50%. Pero el horno mantiene la presión, incluso cuando se enfría. Entonces, a menos que quiera hacer &apos;bang&apos;, ventile el horno para reiniciarlo.</Value>
+    </Record>
+    <Record>
+      <Key>4.5TurnOnVolPump</Key>
+      <Value>Encienda la bomba de volumen para ventilar el gas</Value>
+    </Record>
+    <Record>
+      <Key>4.5VentingTheGases</Key>
+      <Value>Deje que la presión se reduzca por debajo de 99 kPa</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration15D</Key>
+      <Value>Ahora que la presión del horno se ha reducido a niveles seguros, apague la bomba de volumen y reabastezca el horno para que vuelva a funcionar. Si necesita más mineral, hay más en la segunda taquilla.</Value>
+    </Record>
+    <Record>
+      <Key>4.5VentingTheGases2</Key>
+      <Value>Encienda el horno de nuevo.</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration16D</Key>
+      <Value>Al igual que los cohetes y la planificación de fiestas, obtener las proporciones completas correctas es fundamental para la fundición de aleaciones. Consulte la Stationpedia para encontrar la mejor proporción de hierro y carbono para fundir acero, así como la presión y temperatura adecuadas.</Value>
+    </Record>
+    <Record>
+      <Key>4.5HowToMakeSteel</Key>
+      <Value>Consulte la página de el lingote de (acero) en la Stationpedia</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration17D</Key>
+      <Value>Cuando agrega carbón (carbón) y hierro del gabinete al horno, el horno automáticamente comenzará a fundir la aleación. Si expulsa el hierro antes de agregar el carbón, simplemente hará un lingote de hierro.</Value>
+    </Record>
+    <Record>
+      <Key>4.5AddIrontoFurnace</Key>
+      <Value>Añade 24 de hierro</Value>
+    </Record>
+    <Record>
+      <Key>4.5AddCoaltoFurnace</Key>
+      <Value>Añade 8 de carbón</Value>
+    </Record>
+    <Record>
+      <Key>4.5SmeltSteel</Key>
+      <Value>Espera que se funda un lingote de acero para terminar la fundición</Value>
+    </Record>
+    <Record>
+      <Key>4.5PickUpSteel</Key>
+      <Value>Expulsa y recoge el lingote de acero</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration18D</Key>
+      <Value>Bien hecho, Cadete. Ahora tiene todo lo que necesita para actualizar su sistema de energía con una batería de estación. Imprima el kit (batería) utilizando la impresora electrónica.</Value>
+    </Record>
+    <Record>
+      <Key>4.5MakeStationBattery</Key>
+      <Value>Imprime un kit (batería)</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration19D</Key>
+      <Value>Excelente. Las baterías de la estación le permiten almacenar el exceso de energía, por lo que no necesita generarla continuamente. Colóquelo junto a las otras baterías de su matriz.</Value>
+    </Record>
+    <Record>
+      <Key>4.5BuildStationBattery</Key>
+      <Value>Coloca el kit (batería) en la posición resaltada</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration20D</Key>
+      <Value>Solo para estar seguro, las baterías tienen que estar encendidas para empezar a recibir energía. El interruptor de la bateria esta en el lateral.</Value>
+    </Record>
+    <Record>
+      <Key>4.5TurnBattery</Key>
+      <Value>Enciende la batería con el interruptor lateral</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration21D</Key>
+      <Value>¡Casi ahí! Encienda el controlador de energía de área (APC) de la red de la batería para conectarlo a la red de energía principal. El APC aísla la red de la batería y garantiza un flujo de energía estable y constante en la red principal.</Value>
+    </Record>
+    <Record>
+      <Key>4.5TurnAPC1</Key>
+      <Value>Enciende la red de batería APC</Value>
+    </Record>
+    <Record>
+      <Key>4.5TurnAPC</Key>
+      <Value>Enciende la energía principal del APC</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration22D</Key>
+      <Value>¡Felicitaciones, el sistema de energía de su base está terminado!  Ese es el último paso de la Prueba Práctica, Fase V. Presione el botón &apos;Completar&apos; para transmitir sus resultados a Stationeer Command.</Value>
+    </Record>
+    <Record>
+      <Key>4.5OnButtonPressTaskT1</Key>
+      <Value>Presione el botón importante para completar la prueba</Value>
+    </Record>
+    <Record>
+      <Key>4.5AddCoppertoFurnace</Key>
+      <Value>Insertar mineral de cobre 50 en el horno</Value>
+    </Record>
+    <Record>
+      <Key>4.5TurnOffVolPump</Key>
+      <Value>Apague la bomba de volumen</Value>
+    </Record>
+    <Record>
+      <Key>4.5CloseFurnace</Key>
+      <Value>Cierre el horno con la palanca de liberación</Value>
+    </Record>
+    <Record>
+      <Key>TutoiralSmeltingEndDescription</Key>
+      <Value>Excelente trabajo, cadete: has dominado la fundición básica del acero.</Value>
+    </Record>
+    <Record>
+      <Key>4.5OpenMiningbelt</Key>
+      <Value>Abre el cinturón de minería.</Value>
+    </Record>
+    <Record>
+      <Key>4.5PediaNavigationClose</Key>
+      <Value>Cierre la Stationpedia cuando haya terminado de leer</Value>
+    </Record>
+    <Record>
+      <Key>4.5RemoveDataDisk</Key>
+      <Value>Extrae el disco de datos de la consola</Value>
+    </Record>
+    <Record>
+      <Key>4.5NarrationInsert1D</Key>
+      <Value>Tu lingote de cobre está completo. Tire de la palanca para quitar el lingote terminado.</Value>
+    </Record>
+    <Record>
+      <Key>4.5NarrationInsert2D</Key>
+      <Value>Ahora encienda la red eléctrica principal y ... deje que haya luz</Value>
+    </Record>
+    <Record>
+      <Key>4.5OpenAPCTask</Key>
+      <Value>Enciende la energía principal del APC</Value>
+    </Record>
+  </Interface>
+</Language>

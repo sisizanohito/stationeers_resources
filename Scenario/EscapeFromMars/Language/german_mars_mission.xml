@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>German</Name>
+  <Code>DE</Code>
+  <Font>font_extended</Font>
+  <Interface>
+    <Record>
+      <Key>EscapeFromMarsTitle</Key>
+      <Value>Flucht vom Mars [BETA]</Value>
+    </Record>
+    <Record>
+      <Key>EscapeFromMarsDescription</Key>
+      <Value>Mit nur einer kleinen Menge an Vorräten und mit Hilfe deines Verstands musst einen Weg finden auf dem Mars zu Überleben. Wenn alles nach Plan läuft, ist dein letztes Ziel eine Rakete zu bauen und die Atmosphäre vom Mars zu verlassen.</Value>
+    </Record>
+    <!-- Mission Stage: In Case of Emergency -->
+    <Record>
+      <Key>MarsTitleInCaseOfEmergency</Key>
+      <Value>Im Notfall...</Value>
+    </Record>
+    <Record>
+      <Key>MarsDescInCaseOfEmergency</Key>
+      <Value>Dein Anzug ist beschädigt und du musst etwas zu essen finden.</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskGetTape</Key>
+      <Value>Finde etwas {THING:ItemDuctTape}</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskGetFood</Key>
+      <Value>Finde ein {THING:ItemCerealBar}</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage1</Key>
+      <Value>Notfallplan</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage1Page1</Key>
+      <Value>SEITE 1 von 2 \n KEINE PANIK.\n\n Wenn Sie das lesen, haben Sie die Evakuierung überlebt - Herzlichen Glückwünsch. Unabhängig von Ihrer Umgebung, sollten Sie sich erstmal um das Wohlergehen von Ihnen und Ihrer Crew kümmern. Versichern Sie sich, dass Ihr Anzug bei voller Integrität ist. Da es keinen Hinweis darauf gibt in welcher Umgebung sie sich befinden, ist die Sicherstellung einer Luftzufuhr entscheidend.</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage1Page2</Key>
+      <Value>SEITE 2 von 2 \n Wenn Sie sich in der nähe einer intakten Rettungskapsel mit angebrachter Versorgungskiste befinden, sollten Sie die wichtigsten Vorräte bis zur Evakuierung haben. Wenn nicht, sollten Sie nach Überlebenden suchen. Sie sollten die überlebenswichtigsten Vorräte wie Essen, Batterien, Hilfsmittel wie Panzerband und tragbare Überlebensausrüstung entweder einsammeln oder sich ihre Orte notieren. \n</Value>
+    </Record>
+    <!-- Mission Stage: Aquire Raw Materials -->
+    <Record>
+      <Key>MarsTitleRawMaterials</Key>
+      <Value>Betteln, graben und stehlen</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage2</Key>
+      <Value>Rohmaterialien</Value>
+    </Record>
+    <Record>
+      <Key>MarsDescRawMaterials</Key>
+      <Value>Finden Sie einen Weg, um die grundlegenden Materialien herzustellen, die Sie benötigen, um die Fertigung in Gang zu bringen.</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskGetIronIngots</Key>
+      <Value>Einen {THING:ItemIronIngot} erhalten</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskGetCopperIngots</Key>
+      <Value>Holen Sie sich ein {THING:ItemCopperIngot}</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskGetGoldIngots</Key>
+      <Value>Einen {THING:ItemGoldIngot} erhalten</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage2Page1</Key>
+      <Value>SEITE 1 von 5 \n BETTELN, GRABEN oder STEHLEN \n\n Zum Glück haben die Herstellungsgeräte zugriff auf alle Rezepte welche Sie in Ihrer Situation benötigen. Unglücklicherweise benötigen die Geräte Rohmaterialen. Diese könnten je nach Situation aus verschiedenen Quellen stammen:</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage2Page2</Key>
+      <Value>SEITE 2 von 5 \n PLÜNDEREN \n\n Wenn Ihr Schiff noch weitgehend intakt ist, können Sie möglicherweise Materialien in einer bearbeiteten Form finden. Entweder bereits in einer Fertigungsmaschine oder in der Nähe.</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage2Page3</Key>
+      <Value>SEITE 3 von 5 \n DEMONTIEREN \n\n Wenn Sie einen Winkelschleifer finden oder herstellen können, sollten Sie in der Lage sein einige der Schiffswracksteile zu demontieren. Ein Verwerter kann verwendet werden um diese in ein Reagenzgemisch zu zerlegen und eine Zentrifuge wird sie aufteilen, so dass sie wieder zu verwendbaren Materialien geschmolzen werden können.</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage2Page4</Key>
+      <Value>PAGE 4 von 5 \n AUSGRABEN \n\n Sehr stark von Ihrer Umgebung abhängig, wurden einige Erkundungsschiffe mit einer Bergwerksausrüstung ausgestattet. Wenn Sie das Glück haben, sich irgendwo mit einer Fülle an Bodenschätzen zu finden, ist dies sicherlich eine brauchbare Option.</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage2Page5</Key>
+      <Value>SEITE 5 von 5 \n SCHMELZEN \n\n Der einfachste Weg Rohmaterialien in bearbeitungsfertige Barren umzuwandeln, besteht darin, einen Lichtbogenofen zu verwenden und ihn mit etwas Strom zu versorgen. Wenn Sie nur über begrenzte Ressourcen verfügen, sollte dies wahrscheinlich Ihre erste Investition sein. Wenn Sie nicht genügend Material plündern können, ist dies eine Voraussetzung, um sicherzustellen, dass Sie mehr produzieren können.</Value>
+    </Record>
+    <!-- Mission Stage: Setup Manufacturing -->
+    <Record>
+      <Key>MarsTitleSetupManufacturing</Key>
+      <Value>Die Produktionsmittel herstellen</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage3</Key>
+      <Value>Produktion 101</Value>
+    </Record>
+    <Record>
+      <Key>MarsDescSetupManufacturing</Key>
+      <Value>Um alles herzustellen was wir brauchen, sollten wir mit einem {THING:ItemKitHydraulicPipeBender} und einem {THING:ItemKitElectronicsPrinter} beginnen.</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskManufactureHPB</Key>
+      <Value>{THING:ItemKitHydraulicPipeBender} herstellen</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskManufactureEP</Key>
+      <Value>{THING:ItemKitElectronicsPrinter} herstellen</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage3Page1</Key>
+      <Value>Seite 1 von 5 \n Herstellung \n Obwohl es sehr wahrscheinlich ist, dass bereits Rettungsmaßnahmen durchgeführt werden, kann es einige Zeit dauern, bis diese Sie erreichen können. Es wäre angebracht, einen längeren Aufenthalt zu planen. Sie werden einige grundlegende Fertigungsinfrastrukturen einrichten müssen. Dazu sollten sie mit der Drehmaschine beginnen, denn diese ermöglicht ihnen komplexere Maschinen zu bauen.</Value>
+    </Record>
+    <!-- Mission Stage: Food Supply -->
+    <Record>
+      <Key>MarsTitleFoodSupply</Key>
+      <Value>Eine zuverlässige Nahrungsquelle</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage4</Key>
+      <Value>Leitfaden der Gartenarbeit</Value>
+    </Record>
+    <Record>
+      <Key>MarsDescFoodSupply</Key>
+      <Value>Wir wissen nicht, wie lange du hier überleben musst. Wir sollten für alle Fälle eine erneuerbare Nahrungsquelle vorbereiten.</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskPrepareAtmos</Key>
+      <Value>Erstellen Sie einen unter Druck stehenden Raum mit einer ausreichenden Atmosphäre, um Kartoffeln anzubauen.</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskGrowPotato</Key>
+      <Value>Erhalten ein{THING:ItemPotato}</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage4Page1</Key>
+      <Value>SEITE 1 von 2 \n KLEINER GRÜNER DAUMEN \n Das Minimum das Sie für den Anbau von Getreide benötigen, ist eine Hydrokultur Station oder eine tragbare Hydrokultur. Diese muss mit einer Wasserquelle versorgt werden und in einer Atmosphäre von mindestens 20kPa, etwa 20 bis 25 Grad Celsius und mit einer geringen Menge Kohlendioxid gelagert werden.</Value>
+    </Record>
+    <!-- Mission Stage: Spawn Mothership & Engine -->
+    <Record>
+      <Key>MarsTitleCreateRocket</Key>
+      <Value>Baue eine Rakete</Value>
+    </Record>
+    <Record>
+      <Key>MarsDescCreateRocket</Key>
+      <Value>Baue eine Rakete, indem du eine {THING:StructureLaunchPad} baust, und die benötigten Module hinzufügst.</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskBuildLaunchPad</Key>
+      <Value>Baue eine Landeplattform</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskBuildEngine</Key>
+      <Value>Baue ein Raketentriebwerk</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskBuildFuelTank</Key>
+      <Value>Baue einen Raketentreibstofftank</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskBuildCommand</Key>
+      <Value>Baue das Raketen-Kommandomodul</Value>
+    </Record>
+    <Record>
+      <Key>MarsTitleLaunchRocket</Key>
+      <Value>Die Rakete starten</Value>
+    </Record>
+    <Record>
+      <Key>MarsDescLaunchRocket</Key>
+      <Value>Nachdem du deine neugebaute Rakete betankt hast, kannst du zurück zur Zivilisation fliegen.</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskLaunchMothership</Key>
+      <Value>Starte die Rakete</Value>
+    </Record>
+  </Interface>
+</Language>

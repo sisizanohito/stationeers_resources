@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Code>CS</Code>
+  <Interface>
+    <Record>
+      <Key>Tutorial10-CircuitLogicSolarTracking</Key>
+      <Value>ADV Logika obvodu - Solární sledování</Value>
+    </Record>
+    <Record>
+      <Key>CircuitLogicSolarTrackingDescription</Key>
+      <Value>Automatizujte solární panely pomocí logiky obvodu.</Value>
+    </Record>
+    <Record>
+      <Key>MoveToArea</Key>
+      <Value>Přesuňte se do oblasti</Value>
+    </Record>
+    <Record>
+      <Key>MoveToAreaDescription</Key>
+      <Value>Sjeďte výtahem dolů k hlavnímu centru a sledujte osvětlenou chodbu do výukové oblasti.</Value>
+    </Record>
+    <Record>
+      <Key>MoveToAreaTask1</Key>
+      <Value>Synchronizujte přechodovou komoru do výukové oblasti.</Value>
+    </Record>
+    <Record>
+      <Key>ConsoleManuallControl</Key>
+      <Value>Ovládání solární konzole</Value>
+    </Record>
+    <Record>
+      <Key>ConsoleManuallControlDescription</Key>
+      <Value>Vyrovnání solárních panelů může být časově náročný úkol. Chcete-li úlohu urychlit, propojte solární panely dohromady a připojte je k ovládací konzoli, abyste mohli ručně upravit jejich polohu najednou. Vše, co potřebujete, je v bedně.</Value>
+    </Record>
+    <Record>
+      <Key>ConsoleManuallControl1</Key>
+      <Value>Dokončete síť umístěním {THING:StructureCableStraight} na zvýrazněné místo.</Value>
+    </Record>
+    <Record>
+      <Key>ConsoleManuallControl2</Key>
+      <Value>Umístěte {THING:StructureConsole} na zvýrazněné místo.</Value>
+    </Record>
+    <Record>
+      <Key>ConsoleManualControlSetup</Key>
+      <Value>Ruční nastavení ovládání konzole</Value>
+    </Record>
+    <Record>
+      <Key>ConsoleManualControlSetUpDescription</Key>
+      <Value>Stejně jako při nastavování přechodové komory musíte naprogramovat řídicí obvod solárního panelu pomocí {THING:CircuitboardSolarControl}.</Value>
+    </Record>
+    <Record>
+      <Key>ConsoleManualControlSetupTask1</Key>
+      <Value>Vložte {THING:CircuitboardSolarControl} do {THING:StructureConsole}.</Value>
+    </Record>
+    <Record>
+      <Key>ConsoleManualControlSetupTask2</Key>
+      <Value>Připojte {THING:ItemGlassSheets} k {THING:StructureConsole}.</Value>
+    </Record>
+    <Record>
+      <Key>ConsoleManualControlSetupTask3</Key>
+      <Value>Vložte {THING:ItemDataDisk} do {THING:StructureConsole}.</Value>
+    </Record>
+    <Record>
+      <Key>ConsoleManualControlSetUpDescription2</Key>
+      <Value>Zapněte konzoli a vyberte čtyři zobrazené solární panely.
+            
+Po dokončení vyjměte datový disk, nyní můžete upravit horizontální a vertikální úhel všech připojených solárních panelů a monitorovat výstupní výkon</Value>
+    </Record>
+    <Record>
+      <Key>ConsoleManualControlSetupTask4</Key>
+      <Value>Zapněte {THING:StructureConsole} a vyberte zobrazené solární panely.</Value>
+    </Record>
+    <Record>
+      <Key>ConsoleManualControlSetupTask5</Key>
+      <Value>Odeberte {THING:ItemDataDisk} z {THING:StructureConsole}.</Value>
+    </Record>
+    <Record>
+      <Key>DaylightSensors</Key>
+      <Value>Nastavení senzorů</Value>
+    </Record>
+    <Record>
+      <Key>DaylightSensorsDescription</Key>
+      <Value>Automatizace solárního sledování maximalizuje energii produkovanou solárními panely a znamená, že je nemusíte ručně upravovat tak, aby směřovaly ke slunci.
+            
+Prvním krokem je umístění senzorů denního světla. Jeden změří horizontální úhel slunce, zatímco druhý změří vertikální úhel. To zajistí úplné denní sledování na jakékoli planetě.</Value>
+    </Record>
+    <Record>
+      <Key>PickUpDaylightSensor</Key>
+      <Value>Vezměte z bedny jednotky {THING:ItemKitSensor}</Value>
+    </Record>
+    <Record>
+      <Key>DaylightSensor1</Key>
+      <Value>Umístěte {THING:StructureDaylightSensor} na zvýrazněné místo.</Value>
+    </Record>
+    <Record>
+      <Key>SolarMemory</Key>
+      <Value>Paměťový modul</Value>
+    </Record>
+    <Record>
+      <Key>SolarMemoryDescription</Key>
+      <Value>Paměť se používá k ukládání dat s hodnotami nastavenými ručně pomocí šroubováku. Budeme potřebovat pět paměťových modulů pro uložení dat potřebných pro obvod.</Value>
+    </Record>
+    <Record>
+      <Key>PickUpMemory</Key>
+      <Value>Vezměte {THING:ItemKitLogicMemory} jednotky z nedaleké bedny.</Value>
+    </Record>
+    <Record>
+      <Key>StructureLogicMemory</Key>
+      <Value>Umístěte jednotky {THING:StructureLogicMemory} na jejich zvýrazněné pozice.</Value>
+    </Record>
+    <Record>
+      <Key>SetMemory</Key>
+      <Value>Nastavení paměti</Value>
+    </Record>
+    <Record>
+      <Key>SetMemoryDescription</Key>
+      <Value>Nyní, když máte jednotku {THING:StructureLogicMemory} na místě a nastavený solární sledovací systém, musíte nastavit specifické hodnoty v {THING:StructureLogicMemory} pomocí {THING:ItemScrewdriver}. Hodnoty závisí na poloze a rotaci {THING:StructureDaylightSensor} a solárních panelů.
+Senzory denního světla mají 3 režimy: výchozí, horizontální a vertikální. Každý režim mění výstupní solární úhel. V tomto případě musíme nastavit senzor na horizontální, což je režim 1. K tomu nastavte modul horizontální paměti na hodnotu 1 a logický zapisovač tuto hodnotu zapíše do senzoru. </Value>
+    </Record>
+    <Record>
+      <Key>SetMemoryDescription2</Key>
+      <Value>Nyní musíme nastavit horizontální posun, abychom opravili polohy a rotace solárního panelu a senzorů denního světla. Pokud je váš solární senzor v úhlu 90 stupňů k vašim solárním panelům, posun upraví údaje o solárním úhlu tak, aby solární panely směřovaly ke slunci.
+Tuto hodnotu použijeme na horizontální matematickou jednotku 2, když ji přidáme k výstupní hodnotě z horizontální matematické jednotky 1.</Value>
+    </Record>
+    <Record>
+      <Key>SetMemoryDescription3</Key>
+      <Value>Protože solární senzory poskytují zápornou hodnotu, musíte proměnit zápornou hodnotu na pozitivní. Za tímto účelem vynásobte hodnotu invertní paměti proti hodnotě slunečního senzoru pomocí horizontální matematiky 1.</Value>
+    </Record>
+    <Record>
+      <Key>SetMemoryDescription4</Key>
+      <Value>Nakonec zkalibrujte vertikální polohu solárního panelu.
+Chcete-li to provést, vezměte vertikální procento solárního úhlu z vertikální matematiky 1 a přidejte 50% pomocí přidání paměti ve vertikální matematice 2. Tím se vytvoří 50% horizontální nulový bod solárního panelu (plochý, obrácený směrem nahoru).
+            
+            </Value>
+    </Record>
+    <Record>
+      <Key>SetMemoryDescription5</Key>
+      <Value>Svislá osa solárních panelů se měří v procentech, zatímco senzory vydávají údaje o solárních úhlech ve stupních od 0 - 160.
+            
+Aby byly solární panely kompatibilní se senzory, používáme vertikální logiku matematiky 1 k rozdělení dat senzoru o 1.6, čímž převedeme stupeň na procenta.
+            
+            </Value>
+    </Record>
+    <Record>
+      <Key>SetMemory0</Key>
+      <Value>Nastavte paměť horizontálního režimu na hodnotu 1</Value>
+    </Record>
+    <Record>
+      <Key>SetMemory1</Key>
+      <Value>Nastavte paměť posunu na hodnotu -90</Value>
+    </Record>
+    <Record>
+      <Key>SetMemory2</Key>
+      <Value>Nastavte invertní paměť na hodnotu -1</Value>
+    </Record>
+    <Record>
+      <Key>SetMemory3</Key>
+      <Value>Nastavte přidat paměť na hodnotu 50</Value>
+    </Record>
+    <Record>
+      <Key>SetMemory4</Key>
+      <Value>Nastavte paměť náklonu na hodnotu 1.6</Value>
+    </Record>
+    <Record>
+      <Key>SetupHorizontalSensor</Key>
+      <Value>Nastavení horizontálního senzoru</Value>
+    </Record>
+    <Record>
+      <Key>SetupHorizontalSensorDescription</Key>
+      <Value>Zapisovač logiky nám umožňuje zapsat danou hodnotu do určitých typů logiky na zařízení. 
+\t\t\t
+Poznámka: Zapisovač logiky musíte umístit tak, aby se výstupní datová zásuvka připojovala k zařízení, do kterého zapisujete, protože některá data logických obvodů proudí specifickým směrem. Navrhněte obvody odpovídajícím způsobem.
+
+    </Value>
+    </Record>
+    <Record>
+      <Key>SetupLogicWritter</Key>
+      <Value>Nastavení zapisovače logiky</Value>
+    </Record>
+    <Record>
+      <Key>SetupLogicWritterDescription</Key>
+      <Value>Musíme nastavit horizontální senzor do horizontálního režimu. K tomu použijeme {THING:StructureLogicWriter} k nastavení režimu na senzoru čtením hodnoty z {THING:StructureLogicMemory}</Value>
+    </Record>
+    <Record>
+      <Key>SetupLogicWritter1</Key>
+      <Value>Zapněte {THING:StructureLogicWriter}.</Value>
+    </Record>
+    <Record>
+      <Key>SetupLogicWritter2</Key>
+      <Value>Pomocí {THING:ItemScrewdriver} nastavte vstup {THING:StructureLogicWriter} do paměti horizontálního režimu.</Value>
+    </Record>
+    <Record>
+      <Key>SetupLogicWritter3</Key>
+      <Value>Nastavte výstup {THING:StructureLogicWriter} na horizontální senzor denního světla.</Value>
+    </Record>
+    <Record>
+      <Key>SetupLogicWritter4</Key>
+      <Value>Nastavte {THING:StructureLogicWriter} pro zápis do logické hodnoty senzoru nazvané Režim.</Value>
+    </Record>
+    <Record>
+      <Key>PickUpLogicProcessor</Key>
+      <Value>Vezměte některé jednotky {THING:ItemKitLogicProcessor} z nedaleké bedny.</Value>
+    </Record>
+    <Record>
+      <Key>LogicWriter1</Key>
+      <Value>Umístěte {THING:StructureLogicWriter} na zvýrazněné místo.</Value>
+    </Record>
+    <Record>
+      <Key>LogicReadersSetup</Key>
+      <Value>Nastavení čteček logiky</Value>
+    </Record>
+    <Record>
+      <Key>LogicReaderSetupDescription</Key>
+      <Value>Čtečka logiky dělá přesně to, jak zní: čte logiku. Použijeme je ke čtení solárního úhlu z každého senzoru.</Value>
+    </Record>
+    <Record>
+      <Key>LogicReader1</Key>
+      <Value>Umístěte {THING:StructureLogicReader} na zvýrazněné místo.</Value>
+    </Record>
+    <Record>
+      <Key>LogicReaderLogicSetup</Key>
+      <Value>Nastavení čtečky logiky</Value>
+    </Record>
+    <Record>
+      <Key>LogicReaderLogicSetupDescription</Key>
+      <Value>Nyní musíme nastavit naše nově umístěné čtečky logiky. Stejně jako u zapisovače logiky, musíme nastavit vstupy.</Value>
+    </Record>
+    <Record>
+      <Key>LogicReaderLogicSetup1</Key>
+      <Value>Nastavte vstup horizontální logické čtečky 1 na horizontální denní světelný senzor.</Value>
+    </Record>
+    <Record>
+      <Key>LogicReaderLogicSetup2</Key>
+      <Value>Nastavte logickou hodnotu na solární úhel.</Value>
+    </Record>
+    <Record>
+      <Key>LogicReaderLogicSetup3</Key>
+      <Value>Nastavte vertikální logickou čtečku 1 na vertikální denní světelný senzor.</Value>
+    </Record>
+    <Record>
+      <Key>LogicReaderLogicSetup4</Key>
+      <Value>Nastavte logickou hodnotu na solární úhel.</Value>
+    </Record>
+    <Record>
+      <Key>VerticalLogicProcessors</Key>
+      <Value>Logické procesory.</Value>
+    </Record>
+    <Record>
+      <Key>VerticalLogicProcessorsDescription</Key>
+      <Value>Nyní musíme provést některé matematické hodnoty přečtené v {THING:StructureLogicReader} a {THING:StructureLogicMemory}. Začněte s vertikálním datovým modulem obvodu.
+            
+První {THING:StructureLogicMath} rozdělí data {THING:StructureLogicReader} o 1.5 pomocí {THING:StructureLogicMemory}.
+  
+Další {THING:StructureLogicMath} přečte vstup našeho prvního {THING:StructureLogicMath} a přidá 50 pomocí {THING:StructureLogicMemory} pojmenovaného posun.</Value>
+    </Record>
+    <Record>
+      <Key>PlaceLogicMath</Key>
+      <Value>Umístěte první {THING:StructureLogicMath} na zvýrazněné místo.</Value>
+    </Record>
+    <Record>
+      <Key>PlaceLogicMath1</Key>
+      <Value>Umístěte další {THING:StructureLogicMath} na zvýrazněné místo.</Value>
+    </Record>
+    <Record>
+      <Key>LogicMathVertical</Key>
+      <Value>Vertikální nastavení matematické logiky.</Value>
+    </Record>
+    <Record>
+      <Key>LogicMathVerticalDescription</Key>
+      <Value>Nastavení matematických procesorů je jedním z nejdůležitějších kroků při vytváření logického obvodu, protože zpracovává všechny výpočty potřebné pro většinu úkolů.</Value>
+    </Record>
+    <Record>
+      <Key>LogicMathVertical1</Key>
+      <Value>Zapněte vertikální matematickou jednotku 1.</Value>
+    </Record>
+    <Record>
+      <Key>LogicMathVertical2</Key>
+      <Value>Nastavte vstup 1 na vertikální matematické jednotce 1 pro čtení vertikální čtečky logiky 1.</Value>
+    </Record>
+    <Record>
+      <Key>LogicMathVertical3</Key>
+      <Value>Nastavte vstup 2 na vertikální matematické jednotce 1 pro čtení paměti naklonění.</Value>
+    </Record>
+    <Record>
+      <Key>LogicMathVertical4</Key>
+      <Value>Nastavte typ matematické operace na vertikální matematické jednotce 1 na &apos;Rozdělit&apos;.</Value>
+    </Record>
+    <Record>
+      <Key>LogicMathVertical5</Key>
+      <Value>Zapněte vertikální matematickou jednotku 2.</Value>
+    </Record>
+    <Record>
+      <Key>LogicMathVertical6</Key>
+      <Value>Nastavte vstup 1 na vertikální matematické jednotce 2 na čtení vertikální matematické jednotky 1.</Value>
+    </Record>
+    <Record>
+      <Key>LogicMathVertical7</Key>
+      <Value>Nastavte vstup 2 na vertikální matematické jednotce 2 pro čtení Přidat paměť.</Value>
+    </Record>
+    <Record>
+      <Key>LogicMathVertical8</Key>
+      <Value>Nastavte typ matematické operace na vertikální matematické jednotce 2 na &apos;Přidat&apos;.</Value>
+    </Record>
+    <Record>
+      <Key>VerticalBatchWriter</Key>
+      <Value>Vertikální dávkový zapisovač</Value>
+    </Record>
+    <Record>
+      <Key>VerticalBatchWriterDescription</Key>
+      <Value>Dávkový zapisovač zapisuje na všechna připojená zařízení daného typu. Tímto způsobem zapište nově vypočítanou vertikální hodnotu na solární panely.</Value>
+    </Record>
+    <Record>
+      <Key>VerticalBatchWritterSetup</Key>
+      <Value>Nastavení vertikálního dávkového zapisovače</Value>
+    </Record>
+    <Record>
+      <Key>VerticalBatchWritterSetupDescription</Key>
+      <Value>Stejně jako ostatní obvody je třeba nastavit {THING:StructureLogicBatchWriter}, aby se hodnoty odesílaly na solární panely.</Value>
+    </Record>
+    <Record>
+      <Key>VerticalBatchWritterSetup1</Key>
+      <Value>Nastavte vstup {THING:StructureLogicBatchWriter} tak, aby se četla hodnota vertikální matematické jednotky 2.</Value>
+    </Record>
+    <Record>
+      <Key>VerticalBatchWritterSetup2</Key>
+      <Value>Nastavte výstupní data tak, aby se zapisovala do {THING:StructureSolarPanelDual}.</Value>
+    </Record>
+    <Record>
+      <Key>VerticalBatchWritterSetup3</Key>
+      <Value>Nastavte typ logiky na {THING:StructureLogicBatchWriter} na vertikální.</Value>
+    </Record>
+    <Record>
+      <Key>VerticalBatchWritterSetup4</Key>
+      <Value>Zapněte {THING:StructureLogicBatchWriter}.</Value>
+    </Record>
+    <Record>
+      <Key>PickUpLogicInputOutput</Key>
+      <Value>Vezměte{THING:ItemKitLogicInputOutput} z bedny.</Value>
+    </Record>
+    <Record>
+      <Key>BatchWriter1</Key>
+      <Value>Umístěte {THING:StructureLogicBatchWriter} na zvýrazněné místo.</Value>
+    </Record>
+    <Record>
+      <Key>HorizontalLogicProcessorSetUp</Key>
+      <Value>Horizontální logické procesory</Value>
+    </Record>
+    <Record>
+      <Key>HorizontalLogicProcessorSetUpDescription</Key>
+      <Value>Stejně jako vertikální modul obvodu musíme provést výpočty horizontálních vstupních dat. 
+\t\t\t
+Nejprve převeďte zápornou hodnotu horizontálních dat solárního úhlu vynásobením -1. Chcete-li to provést, přečtěte si data z čtečky logiky pomocí {THING:StructureLogicMath} a vynásobte jej pomocí {THING:StructureLogicMemory} označeného Převést.
+            
+Dalším krokem je vyrovnání dat dodaných zařízením {THING:StructureDaylightSensor}. V tomto případě musíme data upravit o -90. To provedete načtením výstupní hodnoty {THING:StructureLogicMath} a přidáním do {THING:StructureLogicMemory} označeného Posun.
+
+            </Value>
+    </Record>
+    <Record>
+      <Key>PlaceLogicMath2</Key>
+      <Value>Umístěte první {THING:StructureLogicMath} na zvýrazněné místo.</Value>
+    </Record>
+    <Record>
+      <Key>PlaceLogicMath3</Key>
+      <Value>Umístěte druhý {THING:StructureLogicMath} na zvýrazněné místo.</Value>
+    </Record>
+    <Record>
+      <Key>HorizontalLogicProcessorSetUp1</Key>
+      <Value>Zapněte horizontální matematickou jednotku 1.</Value>
+    </Record>
+    <Record>
+      <Key>HorizontalLogicProcessorSetUp2</Key>
+      <Value>Nastavte vstup 1 na horizontální matematické jednotce 1 na horizontální čtečku logiky 1.</Value>
+    </Record>
+    <Record>
+      <Key>HorizontalLogicProcessorSetUp3</Key>
+      <Value>Nastavte vstup 2 na horizontální matematické jednotce 1 na invertovat paměť.</Value>
+    </Record>
+    <Record>
+      <Key>HorizontalLogicProcessorSetUp4</Key>
+      <Value>Nastavte typ matematické operace na horizontální matematické jednotce 1 na &apos;Násobit&apos;.</Value>
+    </Record>
+    <Record>
+      <Key>HorizontalLogicProcessorSetUp5</Key>
+      <Value>Zapněte horizontální matematickou jednotku 2.</Value>
+    </Record>
+    <Record>
+      <Key>HorizontalLogicProcessorSetUp6</Key>
+      <Value>Nastavte vstup 1 na horizontální matematickou jednotku 2 na horizontální matematickou jednotku 1.</Value>
+    </Record>
+    <Record>
+      <Key>HorizontalLogicProcessorSetUp7</Key>
+      <Value>Nastavte vstup 2 na horizontální matematické jednotce 2 na posun paměti.</Value>
+    </Record>
+    <Record>
+      <Key>HorizontalLogicProcessorSetUp8</Key>
+      <Value>Nastavte typ matematické operace na horizontální matematické jednotce 2 na &apos;Přidat&apos;.</Value>
+    </Record>
+    <Record>
+      <Key>HorizontalBatchWriter</Key>
+      <Value>Horizontální dávkový zapisovač</Value>
+    </Record>
+    <Record>
+      <Key>HorizontalBatchWriterDescription</Key>
+      <Value>Dávkový zapisovač zapisuje na všechna připojená zařízení daného typu. Použijeme to pro zápis nově vypočtené horizontální hodnoty na solární panely.</Value>
+    </Record>
+    <Record>
+      <Key>BatchWriter2</Key>
+      <Value>Umístěte {THING:StructureLogicBatchWriter} na zvýrazněné místo.</Value>
+    </Record>
+    <Record>
+      <Key>HorizontalBatchWritterSetup1</Key>
+      <Value>Nastavte vstup horizontálního dávkového zapisovače na horizontální matematickou jednotku 2</Value>
+    </Record>
+    <Record>
+      <Key>HorizontalBatchWritterSetup2</Key>
+      <Value>Nastavte výstupní data pro zápis na {THING:StructureSolarPanelDual}</Value>
+    </Record>
+    <Record>
+      <Key>HorizontalBatchWritterSetup3</Key>
+      <Value>Nastavte typ logiky na {THING:StructureLogicBatchWriter} na Horizontální.</Value>
+    </Record>
+    <Record>
+      <Key>HorizontalBatchWritterSetup4</Key>
+      <Value>Zapněte {THING:StructureLogicBatchWriter}.</Value>
+    </Record>
+    <Record>
+      <Key>SleepMode</Key>
+      <Value>Modul režimu spánku</Value>
+    </Record>
+    <Record>
+      <Key>SleepModeDescription</Key>
+      <Value>Nyní máme solární sledovací obvod, který bude sledovat sluneční světlo po celý den.
+\t\t\t
+Ale co noc? Za tímto účelem nastavíme další modul, který bude fungovat jako režim spánku. Pokud jsou senzory denního světla neaktivní nebo nepřijímají denní světlo, solární panely se vrátí do výchozí polohy. Abychom to mohli udělat, musíme použít jednotky {THING:StructureLogicReader} ke čtení aktivního stavu na každém {THING:StructureDaylightSensor}.
+            
+            </Value>
+    </Record>
+    <Record>
+      <Key>LogicSelect1</Key>
+      <Value>Umístěte první {THING:StructureLogicSelect} na zvýrazněné místo.</Value>
+    </Record>
+    <Record>
+      <Key>LogicSelect2</Key>
+      <Value>Umístěte další {THING:StructureLogicSelect} na zvýrazněné místo.</Value>
+    </Record>
+    <Record>
+      <Key>SleepModeSetup</Key>
+      <Value>Nastavení režimu spánku</Value>
+    </Record>
+    <Record>
+      <Key>SleepModeSetupDescription</Key>
+      <Value>Nyní si musíme přečíst aktivní stav solárních senzorů. To nám řekne, zda je den nebo noc.</Value>
+    </Record>
+    <Record>
+      <Key>SleepModeSetupTask1</Key>
+      <Value>Nastavte vstupní zařízení ve vertikální čtečce logiky 2 na senzor vertikálního denního světla</Value>
+    </Record>
+    <Record>
+      <Key>SleepModeSetupTask2</Key>
+      <Value>Nastavte typ logiky na Aktivovat.</Value>
+    </Record>
+    <Record>
+      <Key>SleepModeSetupTask3</Key>
+      <Value>Nastavte vstupní zařízení v horizontální logické čtečce 2 na horizontální denní světelný senzor</Value>
+    </Record>
+    <Record>
+      <Key>SleepModeSetupTask4</Key>
+      <Value>Nastavte typ logiky na Aktivovat.</Value>
+    </Record>
+    <Record>
+      <Key>SleepModePart2</Key>
+      <Value>Režim spánku část 2</Value>
+    </Record>
+    <Record>
+      <Key>SleepModePart2Description</Key>
+      <Value>Dále použijte jednotky {THING:StructureLogicSelect} ke čtení nově umístěných jednotek {THING:StructureLogicReader} a zvolte, zda chcete použít výstupy z {THING:StructureLogicMath} nebo hodnoty posunu z {THING:StructureLogicMemory}.
+
+Nakonec změňte vstupní hodnotu na každé {THING:StructureLogicBatchWriter} pro použití výstupních dat z každého {THING:StructureLogicSelect}.</Value>
+    </Record>
+    <Record>
+      <Key>SleepModePart2Task1</Key>
+      <Value>Na voliči vertikální logiky nastavte vstup pro výběr na vertikální čtečku logiky 2.</Value>
+    </Record>
+    <Record>
+      <Key>SleepModePart2Task2</Key>
+      <Value>Na vertikálním voliči logiky nastavte vstup 1 pro přidání paměti.</Value>
+    </Record>
+    <Record>
+      <Key>SleepModePart2Task3</Key>
+      <Value>Nastavte konečný vstup na vertikální matematickou jednotku 2.</Value>
+    </Record>
+    <Record>
+      <Key>SleepModePart2Task4</Key>
+      <Value>Zapněte vertikální volič logiky.</Value>
+    </Record>
+    <Record>
+      <Key>SleepModePart2Task5</Key>
+      <Value>Na voliči horizontální logiky nastavte vstup pro výběr na horizontální čtečku logiky 2.</Value>
+    </Record>
+    <Record>
+      <Key>SleepModePart2Task6</Key>
+      <Value>V horizontálním voliči logiky nastavte vstup 1 na posunovou paměť.</Value>
+    </Record>
+    <Record>
+      <Key>SleepModePart2Task7</Key>
+      <Value>Nastavte konečný vstup do horizontální matematické jednotky 2.</Value>
+    </Record>
+    <Record>
+      <Key>SleepModePart2Task8</Key>
+      <Value>Zapněte horizontální volič logiky.</Value>
+    </Record>
+    <Record>
+      <Key>FinalStage</Key>
+      <Value>Závěrečná fáze</Value>
+    </Record>
+    <Record>
+      <Key>FinalStageDescription</Key>
+      <Value>Chcete-li, aby režim spánku fungoval, přiřaďte vstup dávkového zapisovatele tak, aby používal jednotky pro výběr logiky. Postupujte stejným způsobem, jako byste změnili jakýkoli jiný vstup: změňte vstupní zařízení každého dávkového zapisovatele na odpovídající jednotku pro výběr logiky.</Value>
+    </Record>
+    <Record>
+      <Key>FinalStage1</Key>
+      <Value>Nastavte vstupní zařízení na horizontálním dávkovém zapisovači na horizontální volič logiky.</Value>
+    </Record>
+    <Record>
+      <Key>FinalStage2</Key>
+      <Value>Nastavte vstupní zařízení na vertikálním dávkovém zapisovači na vertikální volič logiky.</Value>
+    </Record>
+    <Record>
+      <Key>TurnOnReader</Key>
+      <Value>Zapněte čtečku logiky.</Value>
+    </Record>
+  </Interface>
+</Language>

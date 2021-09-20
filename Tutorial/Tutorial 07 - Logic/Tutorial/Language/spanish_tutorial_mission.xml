@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Code>ES</Code>
+  <Interface>
+    <Record>
+      <Key>TutoiralLogic</Key>
+      <Value>Logica</Value>
+    </Record>
+    <Record>
+      <Key>TutoiralLogicSubTitle</Key>
+      <Value>Entrenamiento práctico: Fase III</Value>
+    </Record>
+    <Record>
+      <Key>8ConstructLever</Key>
+      <Value>Coloca la válvula en la posición resaltada</Value>
+    </Record>
+    <Record>
+      <Key>8ConstructCable</Key>
+      <Value>Coloca la válvula en la posición resaltada</Value>
+    </Record>
+    <Record>
+      <Key>8ConstructCable2</Key>
+      <Value>Completa la red de tuberias de oxígeno</Value>
+    </Record>
+    <Record>
+      <Key>8ConstructReader</Key>
+      <Value>Coloque la tubería en la posición resaltada</Value>
+    </Record>
+    <Record>
+      <Key>8ConstructWriter</Key>
+      <Value>Coloque la tubería en la posición resaltada</Value>
+    </Record>&gt;
+		
+    <Record>
+      <Key>8TurnOnReader</Key>
+      <Value>Enciende el lector lógico.</Value>
+    </Record>
+    <Record>
+      <Key>8TurnOnWriter</Key>
+      <Value>Enciende el lector lógico.</Value>
+    </Record>
+    <Record>
+      <Key>8ConstructCable2</Key>
+      <Value>Completa la red de tuberias de oxígeno</Value>
+    </Record>
+    <Record>
+      <Key>8TurnOffWriter</Key>
+      <Value>Enciende el lector lógico.</Value>
+    </Record>
+    <Record>
+      <Key>8TurnOffReader</Key>
+      <Value>Enciende el lector lógico.</Value>
+    </Record>
+    <Record>
+      <Key>8ConstructBatchWriter</Key>
+      <Value>Coloque la tubería en la posición resaltada</Value>
+    </Record>
+    <Record>
+      <Key>8TurnOnBatchWriter</Key>
+      <Value>Enciende la batería</Value>
+    </Record>
+    <Record>
+      <Key>8TurnOffBatchWriter</Key>
+      <Value>Enciende la batería</Value>
+    </Record>
+  </Interface>
+</Language>

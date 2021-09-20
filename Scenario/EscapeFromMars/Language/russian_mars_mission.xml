@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Russian</Name>
+  <Code>RU</Code>
+  <Font>font_russian</Font>
+  <Interface>
+    <Record>
+      <Key>EscapeFromMarsTitle</Key>
+      <Value>Побег с Марса [BETA]</Value>
+    </Record>
+    <Record>
+      <Key>EscapeFromMarsDescription</Key>
+      <Value>Имея лишь скудное количество припасов, вы должны использовать свое остроумие и дух, чтобы найти способ выжить на Марсе.  Все, что идет по плану, в конечном итоге приведет к созданию ракеты, способной покинуть атмосферу Марса.</Value>
+    </Record>
+    <!-- Mission Stage: In Case of Emergency -->
+    <Record>
+      <Key>MarsTitleInCaseOfEmergency</Key>
+      <Value>В случае черезвычайного происшествия...</Value>
+    </Record>
+    <Record>
+      <Key>MarsDescInCaseOfEmergency</Key>
+      <Value>Ваш костюм поврежден и вам следует найти еды.</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskGetTape</Key>
+      <Value>Найдите немного {THING:ItemDuctTape}</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskGetFood</Key>
+      <Value>Найдите {THING:ItemCerealBar}</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage1</Key>
+      <Value>АВАРИЙНОЕ РУКОВОДСТВО</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage1Page1</Key>
+      <Value>Страница 1 из 2 \nЕсли вы читаете это, вы пережили эвакуацию - поздравляю. Независимо от вашего окружения, ваша задача - проверить здоровье себя и окружающих. Обязательно проверьте целостность костюма и крайне важно защитить любой имеющийся у вас запас воздуха.</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage1Page2</Key>
+      <Value>Страница 2 из 2 \nЕсли вы находитесь рядом с исправной спасательной капсулой и прикреплённым ящиком с припасами, у вас должны быть некоторые важные припасы, которые помогут вам в ожидании спасения. Если нет, то ищите выживших.  Вы должны обязательно отметить местонахождение или собрать любые припасы, которые будут иметь первостепенное значение для вашего выживания, такие как еда, аккумуляторы, вспомогательные материалы, такие как клейкая лента и портативное оборудование для выживания. \n</Value>
+    </Record>
+    <!-- Mission Stage: Aquire Raw Materials -->
+    <Record>
+      <Key>MarsTitleRawMaterials</Key>
+      <Value>Копай, Ломай, Грабь</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage2</Key>
+      <Value>СЫРЬЕ</Value>
+    </Record>
+    <Record>
+      <Key>MarsDescRawMaterials</Key>
+      <Value>Найдите способ производства основных материалов, необходимых для начала производства.</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskGetIronIngots</Key>
+      <Value>Получите {THING:ItemIronIngot}</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskGetCopperIngots</Key>
+      <Value>Получите {THING:ItemCopperIngot}</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskGetGoldIngots</Key>
+      <Value>Получите {THING:ItemGoldIngot}</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage2Page1</Key>
+      <Value>Страница 1 из 5 \nК счастью, наши производственные инструменты знают все рецепты, которые понадобяться вам в вашей ситуации, но для этого им нужно сырье. Их можно найти в разных местах в зависимости от вашей ситуации:</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage2Page2</Key>
+      <Value>Страница 2 из 5 \nЕсли ваш корабль не поврежден, вы можете найти материалы в переработанном виде внутри производственных машин или рядом с ними.</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage2Page3</Key>
+      <Value>Страница 3 из 5 \nЕсли вам удастся найти или изготовить болгарку, ее можно использовать для демонтажа корабельных обломков. Утилизатор можно использовать для разделения их на смесь компонентов, а центрифуга разделит так, чтобы можно было переплавить их в материалы.</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage2Page4</Key>
+      <Value>Страница 4 из 5 \nОсмотритесь вокруг, некоторые исследовательские суда были оснащены горным оборудованием. Если повезет оказаться рядом с залежами руды, это поможет выжить.</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage2Page5</Key>
+      <Value>Страница 5 из 5 \nСамый простой способ превращения сырья в слитки, готовые к производству - это использование дуговой печи и обеспечение ее электричеством. Если вы ограничены в ресурсах, это первое во что нужно вложениться.</Value>
+    </Record>
+    <!-- Mission Stage: Setup Manufacturing -->
+    <Record>
+      <Key>MarsTitleSetupManufacturing</Key>
+      <Value>Получение средств производства</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage3</Key>
+      <Value>ПРОИЗВОДСТВО 101</Value>
+    </Record>
+    <Record>
+      <Key>MarsDescSetupManufacturing</Key>
+      <Value>Чтобы изготовить все, что нам нужно, мы должны начать с {THING:ItemKitHydraulicPipeBender} и {THING:ItemKitElectronicsPrinter}.</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskManufactureHPB</Key>
+      <Value>Создайте {THING:ItemKitHydraulicPipeBender}</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskManufactureEP</Key>
+      <Value>Создайте {THING:ItemKitElectronicsPrinter}</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage3Page1</Key>
+      <Value>Страница 1 из 5 \nВесьма вероятно, что спасательные работы уже ведутся, но может пройти некоторое время, прежде чем с вами смогут связаться. Было бы целесообразно планировать более длительное пребывание. Вам необходимо настроить базовую производственную инфраструктуру.</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage3Page2</Key>
+      <Value>Страница 2 из 5 \nНадеемся, что к этому моменту вы нашли несколько батарей и средства для их зарядки. Самый простой способ подачи питания в сеть - это подключение батарей к источнику бесперебойного питания UPS. Однако для обеспечения массового производства, вам понадобится следущее:</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage3Page3</Key>
+      <Value>Страница 3 из 5 \nТвердотопливный генератор \nОн будет генерировать энергию путем сжигания ископаемых углеводородов. Комплект может быть изготовлен на принтере электроники или фабрикаторе.</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage3Page4</Key>
+      <Value>Страница 4 из 5 \nГазовый генеторатор \nПроизводит энергию путем сжигания топлива. Чистое топливо приведет к большей выходной мощности, но нужно будет тщательно контролировать количество подаваемого топлива и использовать трансформатор для ограничения выходной мощности.</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage3Page5</Key>
+      <Value>Страница 5 из 5 \nСолнечные панели. После размещения необходимо накрыть их листом стекла и они начнут генерировать небольшое количество энергии в течение дня. Используя гаечный ключ можно отрегулировать вертикальный и горизонтальный угол, повернуться лицом к солнцу.</Value>
+    </Record>
+    <!-- Mission Stage: Food Supply -->
+    <Record>
+      <Key>MarsTitleFoodSupply</Key>
+      <Value>Надежный источник питания</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage4</Key>
+      <Value>САДОВОДСТВО</Value>
+    </Record>
+    <Record>
+      <Key>MarsDescFoodSupply</Key>
+      <Value>Мы не знаем, как долго вам нужно выживать здесь.  На всякий случай мы должны приготовить возобновляемый источник пищи.</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskPrepareAtmos</Key>
+      <Value>Создайте герметичную комнату с атмосферой, достаточной для выращивания картофеля.</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskGrowPotato</Key>
+      <Value>Вырастить {THING:ItemPotato} до зрелости.</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage4Page1</Key>
+      <Value>Страница 1 из 2 \nМинимум, который понадобится для выращивания сельскохоз культур - это гидропонная установка или переносная гидропоника.  Они должны быть обеспечены водой и помещены в атмосферу, минимум ~20кПа, примерно 20-25 градусов Цельсия и содержащую небольшое количество СО2.</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage4Page2</Key>
+      <Value>Страница 2 из 2 \nСамое сложное - получить несколько семян для старта. Каждая спасательная капсула содержит ящик снабжения с небольшим количеством семян - защита их имеет решающее значение.</Value>
+    </Record>
+    <!-- Mission Stage: Spawn Mothership & Engine -->
+    <Record>
+      <Key>MarsTitleCreateRocket</Key>
+      <Value>Создание Ракеты</Value>
+    </Record>
+    <Record>
+      <Key>MarsDescCreateRocket</Key>
+      <Value>Создайте ракету, создав {THING:StructureLaunchPad} и прикрепляя к ней необходимые модули.</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskBuildLaunchPad</Key>
+      <Value>Построить Ракетную Стартовую Площадку</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskBuildEngine</Key>
+      <Value>Сконструировать Ракетный Двигатель</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskBuildFuelTank</Key>
+      <Value>Построить ракетный топливныйбак</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskBuildCommand</Key>
+      <Value>Построить ракетный командный модуль</Value>
+    </Record>
+    <Record>
+      <Key>MarsTitleLaunchRocket</Key>
+      <Value>Запуск ракеты</Value>
+    </Record>
+    <Record>
+      <Key>MarsDescLaunchRocket</Key>
+      <Value>Заправив свою недавно построенную ракету, вы сможете, наконец, вернуться к цивилизации.</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskLaunchMothership</Key>
+      <Value>Запуск ракеты</Value>
+    </Record>
+  </Interface>
+</Language>

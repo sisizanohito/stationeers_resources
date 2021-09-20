@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Code>KN</Code>
+  <Interface>
+    <Record>
+      <Key>TutoiralHydroponicsAndFood</Key>
+      <Value>基本 水耕栽培</Value>
+    </Record>
+    <Record>
+      <Key>TutoiralHydroponicsAndFood</Key>
+      <!--This is the description that appers in the menu-->
+      <Value>基本 水耕栽培</Value>
+    </Record>
+    <Record>
+      <Key>6BuildTankConnecter</Key>
+      <Value>ハイライトされた位置に {THING:StructureGasSensor} を建てる。</Value>
+    </Record>
+    <Record>
+      <Key>6GetPipe</Key>
+      <Value>{THING:ItemIronSheets} を拾う。</Value>
+    </Record>
+    <Record>
+      <Key>6GetGrowLight</Key>
+      <Value>{THING:ItemIronSheets} を拾う。</Value>
+    </Record>
+    <Record>
+      <Key>6BuildGrowLight</Key>
+      <Value>ハイライトされた位置に {THING:StructureGasSensor} を建てる。</Value>
+    </Record>
+    <Record>
+      <Key>6GrowLightOn</Key>
+      <Value>{THING:ItemTablet} の電源を入れる。</Value>
+    </Record>
+    <Record>
+      <Key>6GetWheat</Key>
+      <Value>{THING:ItemIronSheets} を拾う。</Value>
+    </Record>
+    <Record>
+      <Key>6BakeMuffin</Key>
+      <Value>{THING:ItemMuffin}を焼く</Value>
+    </Record>
+    <Record>
+      <Key>6MicrowaveClosed</Key>
+      <Value>アラートを閉じる</Value>
+    </Record>
+    <Record>
+      <Key>6MicrowaveOpened</Key>
+      <Value>{THING:ApplianceMicrowave}を開く</Value>
+    </Record>
+    <Record>
+      <Key>6HydroponicTray</Key>
+      <Value>基本 水耕栽培</Value>
+    </Record>
+    <Record>
+      <Key>6BuildCables</Key>
+      <Value>ハイライトされた位置に {THING:StructureGasSensor} を建てる。</Value>
+    </Record>
+    <Record>
+      <Key>6GetWaterBottleFiller</Key>
+      <Value>{THING:ItemIronSheets} を拾う。</Value>
+    </Record>
+    <Record>
+      <Key>6BuildWaterBottleFiller</Key>
+      <Value>ハイライトされた位置に {THING:StructureGasMixer} を建てる。</Value>
+    </Record>
+    <Record>
+      <Key>6GetWaterBottle</Key>
+      <Value>{THING:ItemIronSheets} を拾う。</Value>
+    </Record>
+    <Record>
+      <Key>6GetMingBelt</Key>
+      <Value>オレンジ色のクレートから {THING:ItemGoldIngot} を取り出す。</Value>
+    </Record>
+  </Interface>
+</Language>

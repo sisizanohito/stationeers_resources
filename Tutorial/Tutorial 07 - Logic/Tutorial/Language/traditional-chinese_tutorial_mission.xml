@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Code>TW</Code>
+  <Interface>
+    <Record>
+      <Key>TutoiralLogic</Key>
+      <Value>邏輯運用</Value>
+    </Record>
+    <Record>
+      <Key>8ConstructLever</Key>
+      <Value>Place valve in highlighted position</Value>
+    </Record>
+    <Record>
+      <Key>8ConstructCable</Key>
+      <Value>Place valve in highlighted position</Value>
+    </Record>
+    <Record>
+      <Key>8ConstructReader</Key>
+      <Value>Place valve in highlighted position</Value>
+    </Record>
+    <Record>
+      <Key>8ConstructWriter</Key>
+      <Value>Place valve in highlighted position</Value>
+    </Record>&gt;
+		
+    <Record>
+      <Key>8TurnOnReader</Key>
+      <Value>Turn on ice crusher</Value>
+    </Record>
+    <Record>
+      <Key>8TurnOnWriter</Key>
+      <Value>Turn on ice crusher</Value>
+    </Record>
+    <Record>
+      <Key>8TurnOffWriter</Key>
+      <Value>Turn on ice crusher</Value>
+    </Record>
+    <Record>
+      <Key>8TurnOffReader</Key>
+      <Value>Turn on ice crusher</Value>
+    </Record>
+    <Record>
+      <Key>8ConstructBatchWriter</Key>
+      <Value>Place valve in highlighted position</Value>
+    </Record>
+    <Record>
+      <Key>8TurnOnBatchWriter</Key>
+      <Value>Turn on battery APC</Value>
+    </Record>
+    <Record>
+      <Key>8TurnOffBatchWriter</Key>
+      <Value>Turn on battery APC</Value>
+    </Record>
+  </Interface>
+</Language>

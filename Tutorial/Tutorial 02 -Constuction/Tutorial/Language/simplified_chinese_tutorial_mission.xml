@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Code>CN</Code>
+  <Interface>
+    <Record>
+      <Key>TutoiralConstruction</Key>
+      <Value>建造</Value>
+    </Record>
+    <Record>
+      <Key>TutoiralConstructionSubTitle</Key>
+      <Value>实践培训：阶段一</Value>
+    </Record>
+    <Record>
+      <Key>2Narration1T</Key>
+      <Value>实践培训：阶段一</Value>
+    </Record>
+    <Record>
+      <Key>2Narration2T</Key>
+      <Value>拆除</Value>
+    </Record>
+    <Record>
+      <Key>2Narration3D</Key>
+      <Value>确保这个基地是整洁的，为了后面的新人 - 完成基本墙壁的建造。
+从铁框架开始。</Value>
+    </Record>
+    <Record>
+      <Key>BuildFramesTutorial2N1</Key>
+      <Value>在高亮位置处搭建框架</Value>
+    </Record>
+    <Record>
+      <Key>2Narration5T</Key>
+      <Value>拆卸自动车床</Value>
+    </Record>
+    <Record>
+      <Key>2Narration6T</Key>
+      <Value>搭建自动车床</Value>
+    </Record>
+    <Record>
+      <Key>2Narration12T</Key>
+      <Value>通电</Value>
+    </Record>
+    <Record>
+      <Key>2GetBatt</Key>
+      <Value>从箱子拿走电池</Value>
+    </Record>
+    <Record>
+      <Key>2GetCoal</Key>
+      <Value>从箱子拿走煤炭</Value>
+    </Record>
+    <Record>
+      <Key>2PediaOpen</Key>
+      <Value>打开Stationpedia</Value>
+    </Record>
+    <Record>
+      <Key>2PediaNavigation</Key>
+      <Value>翻到 区域电源控制 页面。</Value>
+    </Record>
+    <Record>
+      <Key>2GettingHelpClose</Key>
+      <Value>关闭Stationpedia</Value>
+    </Record>
+    <Record>
+      <Key>2GetCableHCoil</Key>
+      <Value>从箱子拿走高压电缆。</Value>
+    </Record>
+    <Record>
+      <Key>2GetFrames</Key>
+      <Value>从箱子拿走铁框架。</Value>
+    </Record>
+  </Interface>
+</Language>

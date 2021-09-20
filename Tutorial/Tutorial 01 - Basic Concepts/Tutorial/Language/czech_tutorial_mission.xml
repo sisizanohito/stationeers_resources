@@ -1,0 +1,656 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Code>CS</Code>
+  <Interface>
+    <Record>
+      <Key>BasicConcepts</Key>
+      <Value>Základní dovednosti</Value>
+    </Record>
+    <Record>
+      <Key>MBasicConceptsDescription</Key>
+      <Value>Než vás nasadíme do sluneční soustavy, otestujeme vaše základní dovednosti.</Value>
+    </Record>
+    <Record>
+      <Key>BasicConceptsSubTitle</Key>
+      <Value>Praktický výcvik: Fáze I</Value>
+    </Record>
+    <Record>
+      <Key>IntroClose</Key>
+      <Value>Zavřete instruktážní misi</Value>
+    </Record>
+    <Record>
+      <Key>WelcomeRecuit</Key>
+      <Value>Vítejte kadete</Value>
+    </Record>
+    <Record>
+      <Key>BasicConceptsDescription</Key>
+      <Value>Vítejte na Měsíční výcvikové základně, kadete. ODA schválila vaši žádost, takže pojďme zvýšit vaše šance na přežití při nasazení v Sluneční soustavě. 
+Vstupte do výcvikové základny přes přechodovou komoru před vámi.</Value>
+    </Record>
+    <Record>
+      <Key>WelcomeRecuitDisc</Key>
+      <Value>Vstupte do přechodové komory výcvikové základny.</Value>
+    </Record>
+    <Record>
+      <Key>ControlMovementDisc</Key>
+      <Value>pohyb</Value>
+    </Record>
+    <Record>
+      <Key>Narration1T</Key>
+      <Value>Vítejte kadete</Value>
+    </Record>
+    <Record>
+      <Key>Narration1D</Key>
+      <Value>Samotná práce a stavba v nebezpečných podmínkách, daleko od domova, potřebuje mnoho speciálních dovedností. Jsme tu, abychom se ujistili, že uchopíte základy. Vstupte do výcvikové základny přes přechodovou komoru před vámi.</Value>
+    </Record>
+    <Record>
+      <Key>EnterAreaT1</Key>
+      <Value>Vstupte do přechodové komory.</Value>
+    </Record>
+    <Record>
+      <Key>ControlLeftClickDisc</Key>
+      <Value>interakce</Value>
+    </Record>
+    <Record>
+      <Key>Narration2T</Key>
+      <Value>Ovládací prvky přechodové komory</Value>
+    </Record>
+    <Record>
+      <Key>Narration2D</Key>
+      <Value>Pracovat a stavět v nebezpečných podmínkách daleko od domova nutí Stationeera zvládat mnoho speciálních dovedností. Také potřebu mačkat tlačítka.
+Pro vstup do základny stiskněte &apos;Synchronizovat do interiéru&apos;.</Value>
+    </Record>
+    <Record>
+      <Key>TrainingBaseDisc</Key>
+      <Value>Vstupte do výcvikové základny.</Value>
+    </Record>
+    <Record>
+      <Key>OpenAirlock</Key>
+      <Value>Synchronizujte přechodovou komoru použitím konzole.</Value>
+    </Record>
+    <Record>
+      <Key>ExitAreaT1</Key>
+      <Value>Vstupte do výcvikové oblasti.</Value>
+    </Record>
+    <Record>
+      <Key>Narration3T</Key>
+      <Value>Protokoly</Value>
+    </Record>
+    <Record>
+      <Key>Narration3D</Key>
+      <Value>Předtím, než se původní příručka Stationeerů zhroutila do singularity, vytvořila centrální protokol Stationeers: Kadeti mají DVĚ ruce, ale měli by najednou dělat pouze JEDNU věc.</Value>
+    </Record>
+    <Record>
+      <Key>PickUpControlsDisc</Key>
+      <Value>interakce</Value>
+    </Record>
+    <Record>
+      <Key>SwapControlsDisc</Key>
+      <Value>vymění ruce</Value>
+    </Record>
+    <Record>
+      <Key>Co-OrdinationDisc</Key>
+      <Value>Vyzkoušejte si svoji koordinaci výměnou předmětů mezi rukama.</Value>
+    </Record>
+    <Record>
+      <Key>PickUpT1</Key>
+      <Value>Vezměte svářečku z bedny.</Value>
+    </Record>
+    <Record>
+      <Key>SwapHandsT1</Key>
+      <Value>Vyměňte si ruce.</Value>
+    </Record>
+    <Record>
+      <Key>PickUpT1 1</Key>
+      <Value>Vezměte kleště z bedny.</Value>
+    </Record>
+    <Record>
+      <Key>SwapHandsT1 2</Key>
+      <Value>Vyměňte si ruce ... znovu.</Value>
+    </Record>
+    <Record>
+      <Key>Narration4T</Key>
+      <Value>Svářečka.</Value>
+    </Record>
+    <Record>
+      <Key>Narration4D</Key>
+      <Value>Mohl jste být žonglér, ale přihlásil jste se jako Stationeer, takže místo toho budete žonglovat s nářadím. Hodně z nich. Mnoho z nich musí být nejprve aktivováno {KEY:SecondaryAction}.</Value>
+    </Record>
+    <Record>
+      <Key>ActiveWilderDisc</Key>
+      <Value>Aktivujte svářečku</Value>
+    </Record>
+    <Record>
+      <Key>TurnOnControls</Key>
+      <Value>zapne</Value>
+    </Record>
+    <Record>
+      <Key>TurnOnControlsDisc</Key>
+      <Value>zapne svářečku</Value>
+    </Record>
+    <Record>
+      <Key>WeilderOn</Key>
+      <Value>Zapněte svářečku.</Value>
+    </Record>
+    <Record>
+      <Key>WeilderOff</Key>
+      <Value>Vypněte svářečku.</Value>
+    </Record>
+    <Record>
+      <Key>Narration5T</Key>
+      <Value>Nechejte to být</Value>
+    </Record>
+    <Record>
+      <Key>Narration5D</Key>
+      <Value>Vaše ruce zatím fungují, a to je dobře, protože je budete potřebovat. Vyzkoušejte si tedy upuštění nebo hození.
+Stisknutím {KEY:Drop} předměty upustíte nebo podržením {KEY:Drop} je hodíte.</Value>
+    </Record>
+    <Record>
+      <Key>DropItemT1 1</Key>
+      <Value>Upusťte nástroj z pravé ruky</Value>
+    </Record>
+    <Record>
+      <Key>DropWireCutters</Key>
+      <Value>Upusťte nebo hoďte nástrojem z pravé ruky.</Value>
+    </Record>
+    <Record>
+      <Key>ThrowControls</Key>
+      <Value>Držet {KEY:Drop}</Value>
+    </Record>
+    <Record>
+      <Key>ThrowControlsDisc</Key>
+      <Value>hodí předmět</Value>
+    </Record>
+    <Record>
+      <Key>DropControlsDisc</Key>
+      <Value>upustí předmět</Value>
+    </Record>
+    <Record>
+      <Key>PrecisionPLaceT1 1</Key>
+      <Value>Přesně umístěte nástroj na stůl pomocí {KEY:PrecisionPlace}</Value>
+    </Record>
+    <Record>
+      <Key>Narration6T</Key>
+      <Value>Svářečka.</Value>
+    </Record>
+    <Record>
+      <Key>Narration6D</Key>
+      <Value>Někdy budete muset předměty odkládat opatrněji, protože jsou majetkem ODA. Zkuste to pomocí {KEY:PrecisionPlace} a zkontrolujte, zda klouby obleku fungují hladce.</Value>
+    </Record>
+    <Record>
+      <Key>PrecisionPlaceControlsDisc</Key>
+      <Value>režim přesného umístění</Value>
+    </Record>
+    <Record>
+      <Key>PrecisionPlaceControlsPlaceDisc</Key>
+      <Value>umístí předmět</Value>
+    </Record>
+    <Record>
+      <Key>PrecisionPlace</Key>
+      <Value>Umístěte svářečku na stůl pomocí &apos;Přesného umístění&apos;.</Value>
+    </Record>
+    <Record>
+      <Key>Narration7T</Key>
+      <Value>Systémy inventáře</Value>
+    </Record>
+    <Record>
+      <Key>Narration7D</Key>
+      <Value>Nemůžeme vás naučit všechno, ale můžeme zajistit vaše minimální znalosti: přežití ve sluneční soustavě je na vás.
+Pro přístup k inventáři podržte {KEY:MouseControl} a pak klikněte na jeho panel.</Value>
+    </Record>
+    <Record>
+      <Key>OpenToolControlsDisc</Key>
+      <Value>povolí kurzor myši</Value>
+    </Record>
+    <Record>
+      <Key>OpenToolbeltT1Disc</Key>
+      <Value>Otevřete opasek pro přístup k nářadí.</Value>
+    </Record>
+    <Record>
+      <Key>OpenBackControlsDisc</Key>
+      <Value>otevře vybavené sloty</Value>
+    </Record>
+    <Record>
+      <Key>GettingTheBelt</Key>
+      <Value>Otevřete opasek na nářadí.</Value>
+    </Record>
+    <Record>
+      <Key>Narration8T</Key>
+      <Value>Okna uživatelského rozhraní</Value>
+    </Record>
+    <Record>
+      <Key>Narration8D</Key>
+      <Value>Jako Stationeer, nikdy není jen &apos;jedna cesta&apos; k dosažení cíle: jak vyřešíte problém, je jen na vás.
+To platí i pro váš oblek - zkuste otevřít inventář pomocí číselných kláves.</Value>
+    </Record>
+    <Record>
+      <Key>OpenBackPackDisc</Key>
+      <Value>Otevřete opasek na nářadí</Value>
+    </Record>
+    <Record>
+      <Key>OpenBackPack</Key>
+      <Value>Otevřete batoh.</Value>
+    </Record>
+    <Record>
+      <Key>Narration9T</Key>
+      <Value>Navigace v inventáři.</Value>
+    </Record>
+    <Record>
+      <Key>Narration9D</Key>
+      <Value>Vědět, kde něco je a jak to rychle získat, je rozhodující: Správa zásob zachraňuje životy. Začněte přetažením předmětu z inventáře do ruky.</Value>
+    </Record>
+    <Record>
+      <Key>HoldMiningBeltT1Disc</Key>
+      <Value>Přetáhněte hornický opasek z batohu do levé ruky</Value>
+    </Record>
+    <Record>
+      <Key>PickUpT1 2</Key>
+      <Value>Přetáhněte hornický opasek z batohu do levé ruky.</Value>
+    </Record>
+    <Record>
+      <Key>AltDragControls</Key>
+      <Value>{KEY:MouseControl} + táhnout</Value>
+    </Record>
+    <Record>
+      <Key>AltDragControlsDisc</Key>
+      <Value>interaguje s inventářem</Value>
+    </Record>
+    <Record>
+      <Key>DropT1 2</Key>
+      <Value>Upusťte nebo hoďte hornický opasek.</Value>
+    </Record>
+    <Record>
+      <Key>Narration10T</Key>
+      <Value>Přetažení v inventáři</Value>
+    </Record>
+    <Record>
+      <Key>Narration10D</Key>
+      <Value>Jako Stationeer budete hodně zvedat věci. V sluneční soustavě je nepořádek. Tak to prostě je.
+Zkuste přetáhnout předměty z okolí přímo do inventáře.</Value>
+    </Record>
+    <Record>
+      <Key>DragFromWorldT1Disc</Key>
+      <Value>Přetáhněte hornický opasek ze země do batohu</Value>
+    </Record>
+    <Record>
+      <Key>AltClickControlsDisc</Key>
+      <Value>Interakce s myší</Value>
+    </Record>
+    <Record>
+      <Key>OpenMaskControlsDisc</Key>
+      <Value>otevře přilbu</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaToggleControlsDisc</Key>
+      <Value>otevře Stationpedii</Value>
+    </Record>
+    <Record>
+      <Key>QucikEquiptControls</Key>
+      <Value>Rolovací kolečko</Value>
+    </Record>
+    <Record>
+      <Key>QucikEquiptControlsDisc</Key>
+      <Value>vybere slot inventáře</Value>
+    </Record>
+    <Record>
+      <Key>QuickSelectItemControlsDisc</Key>
+      <Value>interaguje s inventářem</Value>
+    </Record>
+    <Record>
+      <Key>DoubleClickingControlsDisc</Key>
+      <Value>Interakce s inventářem</Value>
+    </Record>
+    <Record>
+      <Key>SecondaryActionControls</Key>
+      <Value>(Držet) {KEY:SecondaryAction}</Value>
+    </Record>
+    <Record>
+      <Key>SecondaryActionControlsDisc</Key>
+      <Value>sekundární akce</Value>
+    </Record>
+    <Record>
+      <Key>ControlLeftClickBuildDisc</Key>
+      <Value>sestaví konstrukci</Value>
+    </Record>
+    <Record>
+      <Key>BuildControlsDisc</Key>
+      <Value>vstoupí do režimu stavby</Value>
+    </Record>
+    <Record>
+      <Key>UseItemControls</Key>
+      <Value>Podržte {KEY:SecondaryAction}</Value>
+    </Record>
+    <Record>
+      <Key>UseItemControlsDisc</Key>
+      <Value>Aktivujte předmět</Value>
+    </Record>
+    <Record>
+      <Key>UsePrimeControls</Key>
+      <Value>Držet {KEY:PrimaryAction}</Value>
+    </Record>
+    <Record>
+      <Key>UsePrimeControlsDisc</Key>
+      <Value>Použijte předmět</Value>
+    </Record>
+    <Record>
+      <Key>JetpackInsert</Key>
+      <Value>Přetáhněte hornický opasek ze země do batohu.</Value>
+    </Record>
+    <Record>
+      <Key>Narration11T</Key>
+      <Value>Klávesové zkratky</Value>
+    </Record>
+    <Record>
+      <Key>Narration11D</Key>
+      <Value>Dokud Asura Biomedia nevyšlechtí čtyřrukého Stationeera, jste uvíznutý oběma rukama. Existuje ale rychlý způsoby, jak do nich přesunout předměty.
+Pomocí KOLEČKA MYŠI vyberte předmět v otevřeném okně uživatelského rozhraní a stisknutím {KEY:InventorySelect} ho přesuňte.</Value>
+    </Record>
+    <Record>
+      <Key>RoadFlareT1Disc</Key>
+      <Value>Pomocí &apos;klávesových zkratek&apos; vezměte světlici</Value>
+    </Record>
+    <Record>
+      <Key>GetRoadFlare</Key>
+      <Value>Přesuňte světlici z batohu do levé ruky.</Value>
+    </Record>
+    <Record>
+      <Key>LightFlare</Key>
+      <Value>Aktivujte silniční světlici pomocí &apos;Sekundární akce&apos;.</Value>
+    </Record>
+    <Record>
+      <Key>DropT1 3</Key>
+      <Value>Upusťte světlici pomocí {KEY:Drop}</Value>
+    </Record>
+    <Record>
+      <Key>Narration12T</Key>
+      <Value>Předměty v předmětech</Value>
+    </Record>
+    <Record>
+      <Key>Narration12D</Key>
+      <Value>Vybavení Stationeerů je navrženo pro trvanlivost a snadnou výrobu, ne krásný vzhled.
+Mnoho z nich, stejně jako elektrické nářadí, obsahují baterie nebo kanystry na plyn.</Value>
+    </Record>
+    <Record>
+      <Key>ChildOnSlotOpenDisc</Key>
+      <Value>Otevřete hornický opasek v batohu.</Value>
+    </Record>
+    <Record>
+      <Key>OpeningTheMininngBelt</Key>
+      <Value>Otevřete hornický opasek.</Value>
+    </Record>
+    <Record>
+      <Key>Narration13T</Key>
+      <Value>Vložte baterie</Value>
+    </Record>
+    <Record>
+      <Key>Narration13D</Key>
+      <Value>Všechno něco stojí a daleko od domova musíte své zdroje pečlivě opatrovat.
+U mnoha zařízení lze zdroje, jako jsou baterie a palivo, vyjmout a doplnit.</Value>
+    </Record>
+    <Record>
+      <Key>ReplaceBattT1Disc</Key>
+      <Value>Vložte baterii z bedny do těžebního vrtáku</Value>
+    </Record>
+    <Record>
+      <Key>ChangePowerCell</Key>
+      <Value>Vložte baterii z bedny do těžebního vrtáku.</Value>
+    </Record>
+    <Record>
+      <Key>Narration14T</Key>
+      <Value>Sloučení stohu</Value>
+    </Record>
+    <Record>
+      <Key>Narration14D</Key>
+      <Value>Říkají tomu &apos;vesmír&apos;, ale nenechte se zmást: prostoru nikdy není dost. Naštěstí lze mnoho předmětů spojit do stohu.</Value>
+    </Record>
+    <Record>
+      <Key>MergeFramesT1Disc</Key>
+      <Value>Slučte rámy přetažením jednoho stohu na druhý.</Value>
+    </Record>
+    <Record>
+      <Key>Merege de frames</Key>
+      <Value>Spojte dva stohy železných rámů v bedně.</Value>
+    </Record>
+    <Record>
+      <Key>Narration15T</Key>
+      <Value>Zavřete uživatelské rozhraní pomocí {KEY:HideAllWindows}</Value>
+    </Record>
+    <Record>
+      <Key>Narration15D</Key>
+      <Value>Chcete-li zavřít okna inventáře, klikněte na X nebo stisknutím {KEY:HideAllWindows} zavřete všechna okna.</Value>
+    </Record>
+    <Record>
+      <Key>CloseAllUIT1Disc</Key>
+      <Value>Zavře všechna otevřená okna uživatelského rozhraní</Value>
+    </Record>
+    <Record>
+      <Key>CloseUITask</Key>
+      <Value>Zavřete všechna otevřená okna uživatelského rozhraní.</Value>
+    </Record>
+    <Record>
+      <Key>ControlCloseUIDisc</Key>
+      <Value>zavře všechna otevřená okna uživatelského rozhraní</Value>
+    </Record>
+    <Record>
+      <Key>Narration16T</Key>
+      <Value>Sekce B</Value>
+    </Record>
+    <Record>
+      <Key>Narration16D</Key>
+      <Value>Hodnotící komise ODA je spokojena, že nejste pro sebe bezprostřední hrozbou. Dobrá práce, kadete.
+Přesuňte se do další oblasti výcvikové základny pro část II - přezkoumání základů výstavby.</Value>
+    </Record>
+    <Record>
+      <Key>EnterAreaT1Disc</Key>
+      <Value>Přejděte do sekce B výcvikového zařízení.</Value>
+    </Record>
+    <Record>
+      <Key>EnterAreaT3</Key>
+      <Value>Vstupte do další přechodové komory.</Value>
+    </Record>
+    <Record>
+      <Key>Narration17T</Key>
+      <Value>Sekce B</Value>
+    </Record>
+    <Record>
+      <Key>ControlJetpackToggleDisc</Key>
+      <Value>zapne napájení jetpacku</Value>
+    </Record>
+    <Record>
+      <Key>ControlJetpackAsendMovementDisc</Key>
+      <Value>stoupat</Value>
+    </Record>
+    <Record>
+      <Key>ControlJetpackDesendMovementDisc</Key>
+      <Value>klesat</Value>
+    </Record>
+    <Record>
+      <Key>Narration17D</Key>
+      <Value>V této fázi výcviku si buď osvojíte základní stavební dovednosti, nebo vám dojde vzduch.
+Konstrukční plocha je příliš vysoko na to, abyste dosáhli, takže si vyzkoušíte jetpack.</Value>
+    </Record>
+    <Record>
+      <Key>Narration18T</Key>
+      <Value>Rámy</Value>
+    </Record>
+    <Record>
+      <Key>Narration18D</Key>
+      <Value>Jednoduchá stavba a snadné natlakování, to železné rámy jsou základem jakékoli konstrukce Stationeera.
+Vezměte si rámy a pravým tlačítkem přejděte do režimu stavby, poté levým tlačítkem je umístěte.</Value>
+    </Record>
+    <Record>
+      <Key>BuildTheFrames</Key>
+      <Value>Použijte železné plechy a svářečku k dokončení rámů</Value>
+    </Record>
+    <Record>
+      <Key>Narration19T</Key>
+      <Value>Rámy</Value>
+    </Record>
+    <Record>
+      <Key>Narration19D</Key>
+      <Value>Většina konstrukcí Stationeerů má několik fází. Dokončete rámy a proveďte jejich vzduchotěsné svaření pomocí železných plechů.
+V aktivní ruce budete potřebovat svářečku, v druhé železné plechy.</Value>
+    </Record>
+    <Record>
+      <Key>PickUpT1 9</Key>
+      <Value>Vezměte železné rámy z bedny.</Value>
+    </Record>
+    <Record>
+      <Key>BuildFrameT1Disc</Key>
+      <Value>Dokončete nedokončenou střechu pomocí železných plechů.</Value>
+    </Record>
+    <Record>
+      <Key>IronFrameBuildTaskT1</Key>
+      <Value>Postavte rám č. 1 na zvýrazněné místo.</Value>
+    </Record>
+    <Record>
+      <Key>IronFrameBuildTaskT2</Key>
+      <Value>Postavte rám č. 2 na zvýrazněné místo.</Value>
+    </Record>
+    <Record>
+      <Key>PickUpT1 4</Key>
+      <Value>Vezměte železné plechy z bedny.</Value>
+    </Record>
+    <Record>
+      <Key>UsePrimeControlsBuildDisc</Key>
+      <Value>sestaví</Value>
+    </Record>
+    <Record>
+      <Key>FinsihFramesT1Disc</Key>
+      <Value>Vezměte svářečku a ocelové plechy z bedny a dokončete výcvikovou základnu.</Value>
+    </Record>
+    <Record>
+      <Key>FillingWithAirT1Disc</Key>
+      <Value>Naplňte základnu dýchatelnou atmosférou.</Value>
+    </Record>
+    <Record>
+      <Key>OpenTheAPCPanel</Key>
+      <Value>Otevřete RNO páčidlem z bedny.</Value>
+    </Record>
+    <Record>
+      <Key>TurnOnAPC</Key>
+      <Value>Zapněte RNO.</Value>
+    </Record>
+    <Record>
+      <Key>TurningOnTheOXygen</Key>
+      <Value>Počkejte, až vnější tlak dosáhne 60 kPa.</Value>
+    </Record>
+    <Record>
+      <Key>OpenHelmT1Disc</Key>
+      <Value>Otevře přilbu.</Value>
+    </Record>
+    <Record>
+      <Key>OpenHelmT1Task</Key>
+      <Value>Odemkněte přilbu.</Value>
+    </Record>
+    <Record>
+      <Key>OpenHelmT2Task</Key>
+      <Value>Otevřete přilbu.</Value>
+    </Record>
+    <Record>
+      <Key>Narration20T</Key>
+      <Value>Rámy</Value>
+    </Record>
+    <Record>
+      <Key>FinishFrameT1</Key>
+      <Value>Dokončete rám: železné plechy + svářečka (aktivní ruka).</Value>
+    </Record>
+    <Record>
+      <Key>Narration20D</Key>
+      <Value>Základna je nyní vzduchotěsná, takže můžete přidat atmosféru. Zapnutím regulátoru napěťového okruhu (RNO) se spustí aktivní ventilace a začne proudit vzduch do místnosti.
+Sledujte vnější tlak na vašem stavovém panelu.</Value>
+    </Record>
+    <Record>
+      <Key>Narration21T</Key>
+      <Value>Závěrečná fáze</Value>
+    </Record>
+    <Record>
+      <Key>Narration21D</Key>
+      <Value>Dobře, kadete, téměř jste dokončili fázi I. praktického výcviku Stationeers.
+Pokud se chcete dozvědět více, podívejte se do Stationpedie stisknutím {KEY:Help}.</Value>
+    </Record>
+    <Record>
+      <Key>Narration22T</Key>
+      <Value>Závěrečná fáze</Value>
+    </Record>
+    <Record>
+      <Key>Narration22D</Key>
+      <Value>Dobře kadete, téměř jste dokončil fázi I. praktického výcviku Stationeera.
+Pokud se chcete dozvědět více, podívejte se do Stationpedie stisknutím {KEY:Help} a po přečtení ji zavřete. Brzy budete provádět další výcvik, ale zatím se tu chovejte jako doma. 
+Sundejte si oblek a umístěte jej do stojanu na oblek.</Value>
+    </Record>
+    <Record>
+      <Key>GettingHelp</Key>
+      <Value>Otevřete Stationpedii a přejděte na kartu &apos;Osobní&apos;.</Value>
+    </Record>
+    <Record>
+      <Key>GettingHelpClose</Key>
+      <Value>Zavřete Stationpedii.</Value>
+    </Record>
+    <Record>
+      <Key>Narration23T</Key>
+      <Value>Závěrečná fáze</Value>
+    </Record>
+    <Record>
+      <Key>Narration23D</Key>
+      <Value>Výborně, kadete. To byl poslední krok fáze I. ODA se ulevilo, že jste přežil tak dlouho.
+Stisknutím modrého tlačítka &apos;Dokončit&apos; přenesete výsledky na velitelství Stationeer.</Value>
+    </Record>
+    <Record>
+      <Key>HangUpSuitT1Disc</Key>
+      <Value>Přetáhněte oblek do stojanu na oblek.</Value>
+    </Record>
+    <Record>
+      <Key>HangHelm</Key>
+      <Value>Přetáhněte vesmírnou přilbu do stojanu na oblek.</Value>
+    </Record>
+    <Record>
+      <Key>HangSuit</Key>
+      <Value>Přetáhněte oblek do stojanu na oblek.</Value>
+    </Record>
+    <Record>
+      <Key>HangPack</Key>
+      <Value>Přetáhněte batoh do stojanu na oblek.</Value>
+    </Record>
+    <Record>
+      <Key>JetpackOn</Key>
+      <Value>Zapněte jetpack.</Value>
+    </Record>
+    <Record>
+      <Key>JetpackOff</Key>
+      <Value>Vypněte jetpack.</Value>
+    </Record>
+    <Record>
+      <Key>JetpackT1Disc</Key>
+      <Value>Otestujte si ovládací prvky jetpacku.</Value>
+    </Record>
+    <Record>
+      <Key>PickUpT1 6</Key>
+      <Value>Vezměte svářečku ze stolu</Value>
+    </Record>
+    <Record>
+      <Key>FillOutPaperworkT1Disc</Key>
+      <Value>Stisknutím velkého modrého tlačítka odešlete výsledky.</Value>
+    </Record>
+    <Record>
+      <Key>OnButtonPressTaskT1</Key>
+      <Value>Stiskněte tlačítko &apos;Potvrdit&apos; pro ukončení výcviku.</Value>
+    </Record>
+    <Record>
+      <Key>UIBasicsEndDescription</Key>
+      <Value>Gratulujeme. Vaše výsledky obdrželo velitelství Stationeer z Offworld Development Agency.</Value>
+    </Record>
+    <Record>
+      <Key>Dropflare</Key>
+      <Value>Upusťte světlici z pravé ruky.</Value>
+    </Record>
+    <Record>
+      <Key>NarrationClose</Key>
+      <Value>Zavřete panel popisu</Value>
+    </Record>
+    <Record>
+      <Key>1DrinkWater</Key>
+      <Value>Pijte vodu</Value>
+    </Record>
+  </Interface>
+</Language>

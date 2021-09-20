@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Code>CN</Code>
+  <Interface>
+    <Record>
+      <Key>Tutorial10-CircuitLogicSolarTracking</Key>
+      <Value>高级 电路逻辑 - 太阳追踪</Value>
+    </Record>
+    <Record>
+      <Key>CircuitLogicSolarTrackingDescription</Key>
+      <Value>构建逻辑电路对太阳能电池板实现自动化。</Value>
+    </Record>
+    <Record>
+      <Key>MoveToArea</Key>
+      <Value>移动到区域</Value>
+    </Record>
+    <Record>
+      <Key>MoveToAreaDescription</Key>
+      <Value>乘坐电梯下到主控室，然后沿着走廊前往教程区域。</Value>
+    </Record>
+    <Record>
+      <Key>MoveToAreaTask1</Key>
+      <Value>平衡气闸的气压然后进入教程区域。</Value>
+    </Record>
+    <Record>
+      <Key>ConsoleManuallControl</Key>
+      <Value>太阳能控制台控制</Value>
+    </Record>
+    <Record>
+      <Key>ConsoleManuallControlDescription</Key>
+      <Value>让太阳能电池板对齐太阳可能是一项耗时的工作。要加快速度，请将太阳能电池板连接在一起并将其连接到控制台，这样你就可以一次性手动调整其方向。你需要的所有东西都在箱子里。</Value>
+    </Record>
+    <Record>
+      <Key>ConsoleManuallControl1</Key>
+      <Value>在高亮位置处放置另一个 {THING:StructureCableStraight}来完成这个网络。</Value>
+    </Record>
+    <Record>
+      <Key>ConsoleManuallControl2</Key>
+      <Value>在高亮位置处放置 {THING:StructureConsole}</Value>
+    </Record>
+    <Record>
+      <Key>ConsoleManualControlSetup</Key>
+      <Value>控制台手动控制设置</Value>
+    </Record>
+    <Record>
+      <Key>ConsoleManualControlSetUpDescription</Key>
+      <Value>就像设置气闸一样，您必须使用 {THING:CircuitboardSolarControl} 对太阳能电池板控制电路进行编程。</Value>
+    </Record>
+    <Record>
+      <Key>ConsoleManualControlSetupTask1</Key>
+      <Value>将 {THING:CircuitboardSolarControl} 插入 {THING:StructureConsole} 中。</Value>
+    </Record>
+    <Record>
+      <Key>ConsoleManualControlSetupTask2</Key>
+      <Value>给 {THING:StructureConsole} 安上 {THING:ItemGlassSheets}。</Value>
+    </Record>
+    <Record>
+      <Key>ConsoleManualControlSetupTask3</Key>
+      <Value>将 {THING:ItemDataDisk} 插入到 {THING:StructureConsole}。</Value>
+    </Record>
+    <Record>
+      <Key>ConsoleManualControlSetUpDescription2</Key>
+      <Value>打开控制台并选择显示的四个太阳能电池板。
+            
+移除数据磁盘后，您就可以调整所有连接的太阳能电池板的水平和垂直角度，还能看电力的输出的大小</Value>
+    </Record>
+    <Record>
+      <Key>ConsoleManualControlSetupTask4</Key>
+      <Value>打开 {THING:StructureConsole} 然后选定显示的所有太阳能电池板。</Value>
+    </Record>
+    <Record>
+      <Key>ConsoleManualControlSetupTask5</Key>
+      <Value>把{THING:ItemDataDisk}从{THING:StructureConsole}里移除。</Value>
+    </Record>
+    <Record>
+      <Key>DaylightSensors</Key>
+      <Value>设置传感器</Value>
+    </Record>
+    <Record>
+      <Key>DaylightSensorsDescription</Key>
+      <Value>自动化太阳追踪可以最大化太阳能电池板的电力产出，也意味着你不用一直手动调整它们面对太阳。
+            
+第一步是放置日光传感器。一个测量太阳的水平角度，另一个测量垂直角度。这在任何星球上都做到全日追踪。</Value>
+    </Record>
+    <Record>
+      <Key>PickUpDaylightSensor</Key>
+      <Value>从箱中拿出一个 {THING:ItemKitSensor}。</Value>
+    </Record>
+    <Record>
+      <Key>DaylightSensor1</Key>
+      <Value>在高亮位置处放置 {THING:StructureDaylightSensor}。</Value>
+    </Record>
+    <Record>
+      <Key>SolarMemory</Key>
+      <Value>内存模块</Value>
+    </Record>
+    <Record>
+      <Key>SolarMemoryDescription</Key>
+      <Value>内存用于存储数据，由螺丝刀手动设置值。我们需要五个内存模块来存储电路所需的数据。</Value>
+    </Record>
+    <Record>
+      <Key>PickUpMemory</Key>
+      <Value>从附近的箱中拿起 {THING:ItemKitLogicMemory}。</Value>
+    </Record>
+    <Record>
+      <Key>StructureLogicMemory</Key>
+      <Value>在高亮位置处放置 {THING:StructureLogicMemory}。</Value>
+    </Record>
+    <Record>
+      <Key>SetMemory</Key>
+      <Value>设置内存</Value>
+    </Record>
+    <Record>
+      <Key>SetMemoryDescription</Key>
+      <Value>到现在为止你已经将 {THING:StructureLogicMemory} 都安装好了, 这个太阳追踪系统也设置好了, 你需要用 {THING:ItemScrewdriver} 来给这些 {THING:StructureLogicMemory} 设置特定的值 . 设置的值取决于 {THING:StructureDaylightSensor} 和太阳能电池板的位置和方向.
+日光传感器有 3 种模式: Default默认, Horizontal水平, 还有Vertical垂直. 每种模式都会改变其输出的太阳角度值. 在当前情况下, 我们要设置这个传感器为Horizontal, 模式 1. 将Horizontal Memory Module水平内存模块的值设置为1, 然后逻辑写入会将此值写入传感器。</Value>
+    </Record>
+    <Record>
+      <Key>SetMemoryDescription2</Key>
+      <Value>我们现在需要设置水平偏移量，来对太阳能电池板和日光传感器的位置和方向进行校正。如果你的传感器与你的太阳能电池板的角度为90度角，这个偏移值将会调整太阳角度数据，使太阳能电池板面向太阳。
+当我们用Horizontal math unit 1加上该数值时，我们也会影响到Horizontal math unit 2的值。</Value>
+    </Record>
+    <Record>
+      <Key>SetMemoryDescription3</Key>
+      <Value>由于那个太阳传感器提供的数据为负，为了方便必须将负转换为正。要转换为正值，用Horizontal Math 1来将数据乘上Invert Memory的值</Value>
+    </Record>
+    <Record>
+      <Key>SetMemoryDescription4</Key>
+      <Value>最后，校准太阳能电池板的垂直位置。
+为此，从Vertical Math 1中获取垂直太阳角度的百分比数，然后用Vertical Math 2来加上Add Memory的值 50。这将使太阳能电池板的垂直角度设置为50%，达到水平(平面，朝上)。</Value>
+    </Record>
+    <Record>
+      <Key>SetMemoryDescription5</Key>
+      <Value>太阳能电池板的垂直轴是按百分比来测量的，而传感器则以角度为单位输出从0-160度的太阳角度数据。
+            
+为了使太阳能电池板百分比与传感器角度互相匹配，我们使用Vertical Logic Math 1将传感器的数据除以1.6，从而将角度转换为百分比数据。
+            
+            </Value>
+    </Record>
+    <Record>
+      <Key>SetMemory0</Key>
+      <Value>将 Horizontal Mode Memory 设置为 1</Value>
+    </Record>
+    <Record>
+      <Key>SetMemory1</Key>
+      <Value>将 OffSet Memory 设置为 -90</Value>
+    </Record>
+    <Record>
+      <Key>SetMemory2</Key>
+      <Value>将 Invert Memory 设置为 -1</Value>
+    </Record>
+    <Record>
+      <Key>SetMemory3</Key>
+      <Value>将 Add Memory 设置为 50</Value>
+    </Record>
+    <Record>
+      <Key>SetMemory4</Key>
+      <Value>将 Tilt Memory 的值设置为 1.6</Value>
+    </Record>
+    <Record>
+      <Key>SetupHorizontalSensor</Key>
+      <Value>水平角度传感器设置</Value>
+    </Record>
+    <Record>
+      <Key>SetupHorizontalSensorDescription</Key>
+      <Value>逻辑写入装置允许我们向设备上逻辑类型写入给定值。
+注意： 您必须将逻辑写入装置与输出数据套接字连接到要写入的设备，因为某些逻辑电路数据会流向特定方向。根据你的情况设计最佳电路。</Value>
+    </Record>
+    <Record>
+      <Key>SetupLogicWritter</Key>
+      <Value>放置一个逻辑写入</Value>
+    </Record>
+    <Record>
+      <Key>SetupLogicWritterDescription</Key>
+      <Value>我们需要将水平角度传感器设置为水平模式。为此，我们将使用 {THING:StructureLogicWriter} 通过读取 {THING:StructureLogicMemory} 中的值来设置传感器上的模式。</Value>
+    </Record>
+    <Record>
+      <Key>SetupLogicWritter1</Key>
+      <Value>打开 {THING:StructureLogicWriter}的开关。</Value>
+    </Record>
+    <Record>
+      <Key>SetupLogicWritter2</Key>
+      <Value>用{THING:ItemScrewdriver}将{THING:StructureLogicWriter}的输入设置为Horizontal Mode Memory传入的数据。</Value>
+    </Record>
+    <Record>
+      <Key>SetupLogicWritter3</Key>
+      <Value>将 {THING:StructureLogicWriter} 输出设置为Horizontal Day Light Sensor。</Value>
+    </Record>
+    <Record>
+      <Key>SetupLogicWritter4</Key>
+      <Value>将 {THING:StructureLogicWriter} 的写入设置为Mode 这是传感器里一个逻辑值类型。</Value>
+    </Record>
+    <Record>
+      <Key>PickUpLogicProcessor</Key>
+      <Value>从附近箱子中拿些{THING:ItemKitLogicProcessor}单元。</Value>
+    </Record>
+    <Record>
+      <Key>LogicWriter1</Key>
+      <Value>在高亮位置处放置 {THING:StructureLogicWriter}。</Value>
+    </Record>
+    <Record>
+      <Key>LogicReadersSetup</Key>
+      <Value>逻辑读取设置</Value>
+    </Record>
+    <Record>
+      <Key>LogicReaderSetupDescription</Key>
+      <Value>逻辑读取会按它的名字那样工作：读取逻辑值。我们将利用这些装置来读取每个传感器的太阳角度。</Value>
+    </Record>
+    <Record>
+      <Key>LogicReader1</Key>
+      <Value>在高亮位置处放置 {THING:StructureLogicReader}。</Value>
+    </Record>
+    <Record>
+      <Key>LogicReaderLogicSetup</Key>
+      <Value>逻辑读取设置</Value>
+    </Record>
+    <Record>
+      <Key>LogicReaderLogicSetupDescription</Key>
+      <Value>我们现在需要设置我们刚刚放置的逻辑读取。与逻辑写入一样，我们需要设置输入的值。</Value>
+    </Record>
+    <Record>
+      <Key>LogicReaderLogicSetup1</Key>
+      <Value>将 Horizontal Logic Reader 1的输入设置为Horizontal Day Light Sensor.</Value>
+    </Record>
+    <Record>
+      <Key>LogicReaderLogicSetup2</Key>
+      <Value>将要读取的逻辑值设置为Solar angle(太阳角度)。</Value>
+    </Record>
+    <Record>
+      <Key>LogicReaderLogicSetup3</Key>
+      <Value>将Vertical Logic Reader 1的输入设置为Vertical Day Light Sensor.</Value>
+    </Record>
+    <Record>
+      <Key>LogicReaderLogicSetup4</Key>
+      <Value>将要读取的逻辑值设置为Solar angle(太阳角度)。</Value>
+    </Record>
+    <Record>
+      <Key>VerticalLogicProcessors</Key>
+      <Value>逻辑处理器。</Value>
+    </Record>
+    <Record>
+      <Key>VerticalLogicProcessorsDescription</Key>
+      <Value>我们现在需要对 {THING:StructureLogicReader} 和 {THING:StructureLogicMemory} 中的数据进行一些数学运算. 从电路中的垂直数据模块开始.
+            
+这第一个 {THING:StructureLogicMath} 会用 {THING:StructureLogicReader} 得到的数据除以{THING:StructureLogicMemory}中的数据也就是1.6.
+  
+第二个 {THING:StructureLogicMath} 会读取我们第一个 {THING:StructureLogicMath} 的值然后加上我们命名为 offset 的{THING:StructureLogicMemory} 中的值50.</Value>
+    </Record>
+    <Record>
+      <Key>PlaceLogicMath</Key>
+      <Value>在高亮位置处放置第一个 {THING:StructureLogicMath}。</Value>
+    </Record>
+    <Record>
+      <Key>PlaceLogicMath1</Key>
+      <Value>在高亮位置处放置第二个 {THING:StructureLogicMath}。</Value>
+    </Record>
+    <Record>
+      <Key>LogicMathVertical</Key>
+      <Value>Logic Math Vertical设置。</Value>
+    </Record>
+    <Record>
+      <Key>LogicMathVerticalDescription</Key>
+      <Value>设置数学处理器是创建逻辑电路中最重要的步骤之一，因为它承担着大多数任务所需的所有运算。</Value>
+    </Record>
+    <Record>
+      <Key>LogicMathVertical1</Key>
+      <Value>打开 Vertical Math Unit 1.</Value>
+    </Record>
+    <Record>
+      <Key>LogicMathVertical2</Key>
+      <Value>在Vertical Math Unit 1 输入 1 设置为读取 Vertical Logic Reader 1的值.</Value>
+    </Record>
+    <Record>
+      <Key>LogicMathVertical3</Key>
+      <Value>在Vertical Math Unit 1上的输入 2 设置读取Tilt Memory。</Value>
+    </Record>
+    <Record>
+      <Key>LogicMathVertical4</Key>
+      <Value>设置Vertical Math Unit 1的运算类型为 &apos;Divide&apos; (除)</Value>
+    </Record>
+    <Record>
+      <Key>LogicMathVertical5</Key>
+      <Value>打开 Vertical Math Unit 2.</Value>
+    </Record>
+    <Record>
+      <Key>LogicMathVertical6</Key>
+      <Value>设置Vertical Math Unit 2的输入 1为Vertical Math Unit 1来读取其的值。</Value>
+    </Record>
+    <Record>
+      <Key>LogicMathVertical7</Key>
+      <Value>设置 Vertical Math Unit 2 的输入2 为读取Add Memory。</Value>
+    </Record>
+    <Record>
+      <Key>LogicMathVertical8</Key>
+      <Value>设置Vertical Math Unit 2的运算类型为 &apos;Add&apos; (加).</Value>
+    </Record>
+    <Record>
+      <Key>VerticalBatchWriter</Key>
+      <Value>垂直批处理写入装置</Value>
+    </Record>
+    <Record>
+      <Key>VerticalBatchWriterDescription</Key>
+      <Value>批量写入能对所有连接设备中的给定类型值进行写入操作。使用此装置将计算所得的垂直角度值写入太阳能电池板。</Value>
+    </Record>
+    <Record>
+      <Key>VerticalBatchWritterSetup</Key>
+      <Value>设置垂直批处理写入</Value>
+    </Record>
+    <Record>
+      <Key>VerticalBatchWritterSetupDescription</Key>
+      <Value>与其他电路一样，你需要对 {THING:StructureLogicBatchWriter} 设置后才能将值写入到太阳能电池板。</Value>
+    </Record>
+    <Record>
+      <Key>VerticalBatchWritterSetup1</Key>
+      <Value>设置 {THING:StructureLogicBatchWriter} 的输入读取Vertical Math Unit 2的值.</Value>
+    </Record>
+    <Record>
+      <Key>VerticalBatchWritterSetup2</Key>
+      <Value>将输出设置为写入 {THING:StructureSolarPanelDual}</Value>
+    </Record>
+    <Record>
+      <Key>VerticalBatchWritterSetup3</Key>
+      <Value>将 {THING:StructureLogicBatchWriter} 上的逻辑值类型设置为 Vertical，来写入太阳能板的垂直角度。</Value>
+    </Record>
+    <Record>
+      <Key>VerticalBatchWritterSetup4</Key>
+      <Value>打开 {THING:StructureLogicBatchWriter}的开关。</Value>
+    </Record>
+    <Record>
+      <Key>PickUpLogicInputOutput</Key>
+      <Value>从附近箱子中拿出一个 {THING:ItemKitLogicInputOutput}。</Value>
+    </Record>
+    <Record>
+      <Key>BatchWriter1</Key>
+      <Value>在高亮位置处放置一个 {THING:StructureLogicBatchWriter}。</Value>
+    </Record>
+    <Record>
+      <Key>HorizontalLogicProcessorSetUp</Key>
+      <Value>水平逻辑处理器</Value>
+    </Record>
+    <Record>
+      <Key>HorizontalLogicProcessorSetUpDescription</Key>
+      <Value>与垂直模块电路那样，我们也需要对水平模块电路中的输入值进行一些数值运算。
+			
+首先, 对传感器获得的水平太阳角度的数据乘个-1变成正数. 为此, 用 {THING:StructureLogicMath} 来读取逻辑读取中的数据然后乘上我们命名为 Invert的 {THING:StructureLogicMemory} 中设置的值-1.
+            
+下一步是偏移 {THING:StructureDaylightSensor} 中的数据.  在这一步中，我们用-90来作为数据调整. 用 {THING:StructureLogicMath} 来读取传感器的数据然后加上我们命名为Offset的 {THING:StructureLogicMemory} 中的值.
+
+            </Value>
+    </Record>
+    <Record>
+      <Key>PlaceLogicMath2</Key>
+      <Value>在高亮位置处放置第一个 {THING:StructureLogicMath}。</Value>
+    </Record>
+    <Record>
+      <Key>PlaceLogicMath3</Key>
+      <Value>在高亮位置处放置第二个 {THING:StructureLogicMath}。</Value>
+    </Record>
+    <Record>
+      <Key>HorizontalLogicProcessorSetUp1</Key>
+      <Value>打开 Horizontal Math Unit 1.</Value>
+    </Record>
+    <Record>
+      <Key>HorizontalLogicProcessorSetUp2</Key>
+      <Value>设置Horizontal Math Unit 1的输入1为Horizontal Logic Reader 1.</Value>
+    </Record>
+    <Record>
+      <Key>HorizontalLogicProcessorSetUp3</Key>
+      <Value>设置 Horizontal Math Unit 1的输入2为Invert Memory.</Value>
+    </Record>
+    <Record>
+      <Key>HorizontalLogicProcessorSetUp4</Key>
+      <Value>设置Horizontal Math Unit 1的运算类型为 &apos;multiply&apos;(乘).</Value>
+    </Record>
+    <Record>
+      <Key>HorizontalLogicProcessorSetUp5</Key>
+      <Value>打开 Horizontal Math Unit 2.</Value>
+    </Record>
+    <Record>
+      <Key>HorizontalLogicProcessorSetUp6</Key>
+      <Value>设置Horizontal Math Unit 2的输入1为Horizontal Math Unit 1.</Value>
+    </Record>
+    <Record>
+      <Key>HorizontalLogicProcessorSetUp7</Key>
+      <Value>设置 Horizontal Math Unit 2 的输入2为OffSet Memory.</Value>
+    </Record>
+    <Record>
+      <Key>HorizontalLogicProcessorSetUp8</Key>
+      <Value>将Horizontal Math Unit 2上的数学操作类型设置为 &apos;Add&apos;。</Value>
+    </Record>
+    <Record>
+      <Key>HorizontalBatchWriter</Key>
+      <Value>水平批量写入</Value>
+    </Record>
+    <Record>
+      <Key>HorizontalBatchWriterDescription</Key>
+      <Value>批量写入能对所有连接设备中的给定类型值进行写入操作。使用此装置将计算所得的水平角度值写入太阳能电池板。</Value>
+    </Record>
+    <Record>
+      <Key>BatchWriter2</Key>
+      <Value>在高亮位置处放置一个{THING:StructureLogicBatchWriter}。</Value>
+    </Record>
+    <Record>
+      <Key>HorizontalBatchWritterSetup1</Key>
+      <Value>设置Horizontal Batch Writer的输入为Horizontal Math Unit 2</Value>
+    </Record>
+    <Record>
+      <Key>HorizontalBatchWritterSetup2</Key>
+      <Value>将输出数据设置为写入 {THING:StructureSolarPanelDual}</Value>
+    </Record>
+    <Record>
+      <Key>HorizontalBatchWritterSetup3</Key>
+      <Value>将 {THING:StructureLogicBatchWriter} 上的逻辑值类型设置为 Horizontal，来写入太阳能板的水平角度。</Value>
+    </Record>
+    <Record>
+      <Key>HorizontalBatchWritterSetup4</Key>
+      <Value>打开 {THING:StructureLogicBatchWriter}的开关。</Value>
+    </Record>
+    <Record>
+      <Key>SleepMode</Key>
+      <Value>休眠模式</Value>
+    </Record>
+    <Record>
+      <Key>SleepModeDescription</Key>
+      <Value>现在我们拥有了一个可整日追踪太阳轨迹的太阳追踪电路.
+			
+但是夜晚怎么办? 所以, 我们要搭建另一个模块让整个电路进入休眠模式。 当传感器关闭了或是没有接收到阳光时, 这些太阳能电池板的角度将会重置为一个初始值. 所以我们要用到 {THING:StructureLogicReader} 来读取每个 {THING:StructureDaylightSensor} 的阳光接收状态 .
+            
+            </Value>
+    </Record>
+    <Record>
+      <Key>LogicSelect1</Key>
+      <Value>在高亮位置处建放置第一个 {THING:StructureLogicSelect}。</Value>
+    </Record>
+    <Record>
+      <Key>LogicSelect2</Key>
+      <Value>在高亮位置处放置第二个 {THING:StructureLogicSelect}。</Value>
+    </Record>
+    <Record>
+      <Key>SleepModeSetup</Key>
+      <Value>休眠模式安装</Value>
+    </Record>
+    <Record>
+      <Key>SleepModeSetupDescription</Key>
+      <Value>现在我们需要读取传感器的状态. 这会告诉我们是在白天还是晚上。</Value>
+    </Record>
+    <Record>
+      <Key>SleepModeSetupTask1</Key>
+      <Value>将Vertical Logic Reader 2 上的输入设备设置为Vertical Day Light Sensor</Value>
+    </Record>
+    <Record>
+      <Key>SleepModeSetupTask2</Key>
+      <Value>将逻辑类型设置为Activate(激活)。</Value>
+    </Record>
+    <Record>
+      <Key>SleepModeSetupTask3</Key>
+      <Value>将Horizontal Logic Reader 2 上的输入设备设置为Horizontal Day Light Sensor</Value>
+    </Record>
+    <Record>
+      <Key>SleepModeSetupTask4</Key>
+      <Value>将逻辑类型设置为Activate(激活)。</Value>
+    </Record>
+    <Record>
+      <Key>SleepModePart2</Key>
+      <Value>睡眠模式2</Value>
+    </Record>
+    <Record>
+      <Key>SleepModePart2Description</Key>
+      <Value>接下来，用 {THING:StructureLogicSelect} 单元去读取刚刚放置的 {THING:StructureLogicReader} 的数据，然后看你是要用 {THING:StructureLogicMath} 的输出数据还是用 {THING:StructureLogicMemory} 的偏移值了.
+
+最后, 把每个 {THING:StructureLogicBatchWriter} 的输入数据改为相应的 {THING:StructureLogicSelect} 的输出数据。</Value>
+    </Record>
+    <Record>
+      <Key>SleepModePart2Task1</Key>
+      <Value>在Vertical Logic Selector上，将输入设置为Vertical Logic Reader 2。</Value>
+    </Record>
+    <Record>
+      <Key>SleepModePart2Task2</Key>
+      <Value>在Vertical Logic Selector上，将输入 1 设置为Add Memory。</Value>
+    </Record>
+    <Record>
+      <Key>SleepModePart2Task3</Key>
+      <Value>将剩下的输入设置为Vertical Math Unit 2。</Value>
+    </Record>
+    <Record>
+      <Key>SleepModePart2Task4</Key>
+      <Value>打开Vertical Logic Selector。</Value>
+    </Record>
+    <Record>
+      <Key>SleepModePart2Task5</Key>
+      <Value>在Horizontal Logic Selector上，将输入设置为Horizontal Logic Selector 2。</Value>
+    </Record>
+    <Record>
+      <Key>SleepModePart2Task6</Key>
+      <Value>在Horizontal Logic Selector上，将输入 1 设置为Horizontal Logic Selector。</Value>
+    </Record>
+    <Record>
+      <Key>SleepModePart2Task7</Key>
+      <Value>将剩下的输入设置为Horizontal Math Unit 2。</Value>
+    </Record>
+    <Record>
+      <Key>SleepModePart2Task8</Key>
+      <Value>打开Horizontal Logic Selector。</Value>
+    </Record>
+    <Record>
+      <Key>FinalStage</Key>
+      <Value>最后一步</Value>
+    </Record>
+    <Record>
+      <Key>FinalStageDescription</Key>
+      <Value>若要使休眠模式正常工作，请重新设置 批量写入 的输入为那个逻辑选择单元。像更改任何其他逻辑部件的输入一样：将每个批量写入的输入设备更改为相应的逻辑选择单元。</Value>
+    </Record>
+    <Record>
+      <Key>FinalStage1</Key>
+      <Value>设置Horizontal Batch Writer的输入设备为Horizontal Logic Selector.</Value>
+    </Record>
+    <Record>
+      <Key>FinalStage2</Key>
+      <Value>设置Vertical Batch Writer的输入设备为Vertical Logic Selector.</Value>
+    </Record>
+    <Record>
+      <Key>TurnOnReader</Key>
+      <Value>打开这个逻辑读取的开关。</Value>
+    </Record>
+  </Interface>
+</Language>

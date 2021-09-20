@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Code>RU</Code>
+  <Interface>
+    <Record>
+      <Key>TutoiralFabrication</Key>
+      <Value>Добыча + Производство</Value>
+    </Record>
+    <Record>
+      <Key>TutoiralFabricationDescription</Key>
+      <Value>Изучите основы добычи полезных ископаемых и производства.</Value>
+    </Record>
+    <Record>
+      <Key>TutoiralFabricationSubTitle</Key>
+      <Value>Практические Тренировки: Этап III</Value>
+    </Record>
+    <Record>
+      <Key>IntoTutoiralFabricationDescription</Key>
+      <Value>Добро пожаловать, Кадет.
+Как Стационер, дислоцирующийся далеко от Земли, у вас есть выбор: выковать свои собственные ресурсы из местных материалов или погибнуть.
+Базовые знания о добыче и производстве имеют важное значение. Отремонтируйте Тестовую Лунную Базу, чтобы доказать своё мастерство.</Value>
+    </Record>
+    <Record>
+      <Key>3Narration1T</Key>
+      <Value>Практические Тренировки: Этап III</Value>
+    </Record>
+    <Record>
+      <Key>3Narration1D</Key>
+      <Value>Дизайн часто работает задом наперед: для ремонта тестовой базы тебе потребуются компоненты, для которых тебе потребуется гидравлический трубосгибатель ... для изготовления которого тебе потребуются ресурсы.
+Так что давай отследим местоположение руды с помощью твоего планшета.</Value>
+    </Record>
+    <Record>
+      <Key>3GetTablet</Key>
+      <Value>Возьмите планшет из ящика.</Value>
+    </Record>
+    <Record>
+      <Key>3Narration2T</Key>
+      <Value>Практические Тренировки: Этап III</Value>
+    </Record>
+    <Record>
+      <Key>3Narration2D</Key>
+      <Value>Планшет Ксиго &apos;Пад&apos; выполняет широкий спектр функций. С вставленным картриджем навигации, он поможет вам проложить путь к локальным маячкам.</Value>
+    </Record>
+    <Record>
+      <Key>2PutCartInTablet</Key>
+      <Value>Вставьте картридж навигатор из контейнера в планшет.</Value>
+    </Record>
+    <Record>
+      <Key>3TabletOn</Key>
+      <Value>Включите планшет.</Value>
+    </Record>
+    <Record>
+      <Key>3Narration3D</Key>
+      <Value>Поиск руды для постройки базы занимает время. Чтобы облегчить задачу, мы разместили маячок возле железного месторождения неподалеку. Используй планшет чтобы добраться до маячка, потом приступай к добыче руды.</Value>
+    </Record>
+    <Record>
+      <Key>3EnterAreaT1</Key>
+      <Value>Доберитесь до маяка</Value>
+    </Record>
+    <Record>
+      <Key>3Narration4D</Key>
+      <Value>Трехконусный, роторный шахтерский бур &apos;Топо&apos; живет у тебя в шахтерском поясе. Работая одинаково хорошо как в вакууме, так и в атмосфере, его коронки из цементированного карбида повышают устойчивость, срок службы подшипников и уменьшает вероятность сколов.
+Используй по назначению.</Value>
+    </Record>
+    <Record>
+      <Key>3GetMDrill</Key>
+      <Value>Возьмите в руку бур из пояса шахтёра в рюкзаке</Value>
+    </Record>
+    <Record>
+      <Key>3MDrillOn</Key>
+      <Value>Включите бур</Value>
+    </Record>
+    <Record>
+      <Key>3GetIronOre</Key>
+      <Value>Добудьте 30 кусков железной руды</Value>
+    </Record>
+    <Record>
+      <Key>3Narration5D</Key>
+      <Value>Теперь в вашем поясе шахтёра достаточно железной руды.
+Несите её обратно на базу и приступим к плавке!</Value>
+    </Record>
+    <Record>
+      <Key>3EnterAreaT2</Key>
+      <Value>Вернитесь на базу</Value>
+    </Record>
+    <Record>
+      <Key>3Narration6D</Key>
+      <Value>Прежде чем её можно будет использовать для строительства, сырую руду требуется переплавить в чистые слитки. Для этой цели, самым простым решением является дуговая печь.
+Возьмите набор для изготовления из ящика и поместите его в подсвеченной области.</Value>
+    </Record>
+    <Record>
+      <Key>3GetArcFurnaceKit</Key>
+      <Value>Достаньте из ящика набор для изготовления дуговой печи</Value>
+    </Record>
+    <Record>
+      <Key>3BuildArcFurnaceTutorial</Key>
+      <Value>Разместите дуговую печь в подсвеченной области</Value>
+    </Record>
+    <Record>
+      <Key>3BuildHeavyCableTutorial</Key>
+      <Value>Подключите питание к дуговой печи используя моток силового кабеля из пояса.</Value>
+    </Record>
+    <Record>
+      <Key>3Narration7D</Key>
+      <Value>Дуговая печь не будет работать при достаточно высоких температурах для создания сложных сплавов, но подойдёт для переплавки обычной руды.
+Добавьте вашу железную руду в дуговую печь.</Value>
+    </Record>
+    <Record>
+      <Key>3ArcFurnaceOn</Key>
+      <Value>Включите дуговую печь</Value>
+    </Record>
+    <Record>
+      <Key>3PutOreInFurnace</Key>
+      <Value>Добавьте железную руду в дуговую печь</Value>
+    </Record>
+    <Record>
+      <Key>3ArcFurnaceActive</Key>
+      <Value>Активируйте дуговую печь</Value>
+    </Record>
+    <Record>
+      <Key>3Narration8D</Key>
+      <Value>Простая, быстрая и достаточно эффективная дуговая печь также создает побочные газы, которые можно отфильтровать и использовать для других целей.
+Однако прямо сейчас вам нужны только слитки - кстати, они почти готовы.</Value>
+    </Record>
+    <Record>
+      <Key>2GetIronIngot</Key>
+      <Value>Поднимите слиток позади дуговой печи</Value>
+    </Record>
+    <Record>
+      <Key>3PutIronIngotInAutoLathe</Key>
+      <Value>Добавьте слиток в автолат</Value>
+    </Record>
+    <Record>
+      <Key>3Narration9D</Key>
+      <Value>Гидравлический трубосгибатель создает трубы, а так же атмосферные устройства и некоторые портативные структуры. Чтобы построить его в Автолате тебе потребуется железо, медь и золото.
+Другие необходимые слитки находятся в контейнере.</Value>
+    </Record>
+    <Record>
+      <Key>3GetCopperIngot</Key>
+      <Value>Возьмите слиток меди из ящика.</Value>
+    </Record>
+    <Record>
+      <Key>3PutCopperIngotInAutoLathe</Key>
+      <Value>Добавьте слиток меди в автолат</Value>
+    </Record>
+    <Record>
+      <Key>3GetGoldIngot</Key>
+      <Value>Возьмите слиток золота из ящика.</Value>
+    </Record>
+    <Record>
+      <Key>3PutGoldIngotInAutoLathe</Key>
+      <Value>Добавьте слиток золота в автолат</Value>
+    </Record>
+    <Record>
+      <Key>3Narration10D</Key>
+      <Value>Автолат это многоосевой композитный инструмент. Он изготавливает широкий диапазон структур и наборов для устройств, включая простой гидравлический трубосгибатель. Нажми на кнопку спереди для поиска и выбора рецептов.</Value>
+    </Record>
+    <Record>
+      <Key>3AutoLatheOn</Key>
+      <Value>Включите автолат</Value>
+    </Record>
+    <Record>
+      <Key>3PipebenderHash</Key>
+      <Value>Выберите рецепт набора для изготовления гидравлического сгибателя труб используя функцию поиска.</Value>
+    </Record>
+    <Record>
+      <Key>3FabricatePipeBender</Key>
+      <Value>Распечатайте набор для изготовления гидравлического сгибателя труб</Value>
+    </Record>
+    <Record>
+      <Key>3GetPipeBender</Key>
+      <Value>Подберите набор для изготовления гидравлического сгибателя труб</Value>
+    </Record>
+    <Record>
+      <Key>3BuildPipebenderTutorial</Key>
+      <Value>Разместите гидравлический сгибатель труб в подсвеченной области</Value>
+    </Record>
+    <Record>
+      <Key>3Narration11D</Key>
+      <Value>На всё требуется время: как и автолат, гидравлический сгибатель труб строится за несколько этапов.
+Следуйте подсказкам чтобы завершить строительство.</Value>
+    </Record>
+    <Record>
+      <Key>3FinishPipeBender</Key>
+      <Value>Доделайте сгибатель труб с помощью ресурсов из ящика</Value>
+    </Record>
+    <Record>
+      <Key>3PipeBenderOn</Key>
+      <Value>Включите трубогибочную машину.</Value>
+    </Record>
+    <Record>
+      <Key>3Narration12D</Key>
+      <Value>Универсальность - хорошее качество. Срочно нужны слитки? Производственные станки также оснащены хранилищем ресурсов.
+Извлеките их из автолата потянув рычаг, а затем добавьте их в другой станок.</Value>
+    </Record>
+    <Record>
+      <Key>3OpenAutoLathe</Key>
+      <Value>Потяните рычаг автолата для извлечения слитков</Value>
+    </Record>
+    <Record>
+      <Key>3PutIronIngotInPipeBender</Key>
+      <Value>Поместите слиток железа в сгибатель труб</Value>
+    </Record>
+    <Record>
+      <Key>3PutCopperIngotInPipeBender</Key>
+      <Value>Поместите слиток меди в сгибатель труб</Value>
+    </Record>
+    <Record>
+      <Key>3PutGoldIngotInPipeBender</Key>
+      <Value>Поместите слиток золота в сгибатель труб</Value>
+    </Record>
+    <Record>
+      <Key>3Narration13D</Key>
+      <Value>Активные вентиляции являются критически важными компонентами шлюза: теперь ты можешь изготовить их с помощью гидравлического трубосгибателя!</Value>
+    </Record>
+    <Record>
+      <Key>3ActiveVentHash</Key>
+      <Value>Выберите активную вентиляцию в сгибателе труб</Value>
+    </Record>
+    <Record>
+      <Key>3FabricateActiveVent</Key>
+      <Value>Изготовьте активную вентиляцию используя сгибатель труб</Value>
+    </Record>
+    <Record>
+      <Key>3PipeBenderOff</Key>
+      <Value>Выключите сгибатель труб когда изготовление завершится</Value>
+    </Record>
+    <Record>
+      <Key>3GetItemActiveVent</Key>
+      <Value>Поднимите активную вентиляцию</Value>
+    </Record>
+    <Record>
+      <Key>3Narration14D</Key>
+      <Value>Хорошая работа, Кадет. Вы создали полную производственную систему.
+Это последний шаг Практического Тестирования Фазы III. Нажмите кнопку &apos;Завершить&apos; для того, чтобы отправить ваши результаты в Командный Пункт Стационеров.</Value>
+    </Record>
+    <Record>
+      <Key>3OnButtonPressTaskT1</Key>
+      <Value>Нажмите кнопку передачи данных, чтобы завершить тест.</Value>
+    </Record>
+    <Record>
+      <!--Equip Mining belt-->
+      <Key>3Narration15D</Key>
+      <Value>Твой шахтерский пояс выполняет две вещи: он держит твои шахтерские инструменты, и хранит добытую тобой руду.
+Когда он снаряжен в &apos;поясном&apos; слоте, любая добытая руда складывается в него автоматически.</Value>
+    </Record>
+    <Record>
+      <Key>2EquiptMiningbelt</Key>
+      <Value>Наденьте {THING:ItemMiningBelt}</Value>
+    </Record>
+    <Record>
+      <!--Equip Tool belt-->
+      <Key>3Narration16D</Key>
+      <Value>Вот и всё, на данный момент вы закончили добычу, так что переключитесь обратно на пояс инструментов - в скоре он вам понадобится.</Value>
+    </Record>
+    <Record>
+      <Key>2EquiptToolbelt</Key>
+      <Value>Наденьте пояс инструментов.</Value>
+    </Record>
+  </Interface>
+</Language>

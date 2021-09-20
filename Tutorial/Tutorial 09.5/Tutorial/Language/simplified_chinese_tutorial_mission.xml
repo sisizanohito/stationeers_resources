@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Code>CN</Code>
+  <Interface>
+    <Record>
+      <Key>Tutorial-BasicRocketry</Key>
+      <Value>基础火箭</Value>
+    </Record>
+    <Record>
+      <Key>LaunchPlatforms</Key>
+      <Value>火箭学入门</Value>
+    </Record>
+    <Record>
+      <Key>LaunchPlatformsDescription</Key>
+      <Value>在能发射火箭之前，你要建个发射台.</Value>
+    </Record>
+    <Record>
+      <Key>LaunchPlatformsTask1</Key>
+      <Value>沿着路走到发射场然后拿走在白色箱上面的{THING:ItemKitStructureLaunchPad}.</Value>
+    </Record>
+    <Record>
+      <Key>LaunchPlatformsTask2</Key>
+      <Value>在高亮位置处建造 {THING:StructureLaunchPad}.</Value>
+    </Record>
+    <Record>
+      <Key>LaunchPlatforms2</Key>
+      <Value>建造发射平台</Value>
+    </Record>
+    <Record>
+      <Key>LaunchPlatformsDescription2</Key>
+      <Value>{THING:StructureLaunchPad} 是火箭的主要充电点, 并且连接着所有的火箭模块.</Value>
+    </Record>
+    <Record>
+      <Key>WeildSteelPlatesL</Key>
+      <Value>把 {THING:ItemSteelSheets} 焊接到 {THING:StructureLaunchPad} 上。</Value>
+    </Record>
+    <Record>
+      <Key>ElectronicsL</Key>
+      <Value>给 {THING:StructureLaunchPad} 装上电子元件.</Value>
+    </Record>
+    <Record>
+      <Key>RocketEngines</Key>
+      <Value>火箭引擎</Value>
+    </Record>
+    <Record>
+      <Key>RocketEnginesDescription</Key>
+      <Value>建火箭的下一步就是安装 {THING:StructureModularRocketEngine01}. 这个东西能把燃料转变成推力, 能让火箭起飞和逃离行星的引力范围.</Value>
+    </Record>
+    <Record>
+      <Key>RocketEnginesTask1</Key>
+      <Value>从左边箱子拿出一个{THING:ItemKitStructureModularRocketEngine01}。</Value>
+    </Record>
+    <Record>
+      <Key>RocketEnginesTask2</Key>
+      <Value>在高亮位置处建造 {THING:StructureModularRocketEngine01}。</Value>
+    </Record>
+    <Record>
+      <Key>RocketEngines2</Key>
+      <Value>火箭工程学 101</Value>
+    </Record>
+    <Record>
+      <Key>RocketEngines2Description</Key>
+      <Value>与人们普遍的看法相反，造个火箭引擎简单的就像把大象装进冰箱一样. 你只需要一些钢板，塑料还有电子元件.</Value>
+    </Record>
+    <Record>
+      <Key>RocketEngines2Task1</Key>
+      <Value>把 {THING:ItemSteelSheets} 焊接到 {THING:StructureModularRocketEngine01} 上。</Value>
+    </Record>
+    <Record>
+      <Key>RocketEngines2Task2</Key>
+      <Value>把这些{THING:ItemPlasticSheets}焊接到{THING:StructureModularRocketEngine01} 上。</Value>
+    </Record>
+    <Record>
+      <Key>RocketEngines2Task3</Key>
+      <Value>给{THING:StructureModularRocketEngine01} 安上 {THING:ItemElectronicParts}。</Value>
+    </Record>
+    <Record>
+      <Key>FuelTanks</Key>
+      <Value>燃料箱</Value>
+    </Record>
+    <Record>
+      <Key>FuelTanksDescription</Key>
+      <Value>燃料箱就是火箭的下一个部件了。你想火箭多带燃料那就多建几个燃料箱。也可以让你带更多的货物。</Value>
+    </Record>
+    <Record>
+      <Key>FuelTanksTask1</Key>
+      <Value>从左边的箱中拿出 {THING:ItemKitStructureModularRocketFueltank01}。</Value>
+    </Record>
+    <Record>
+      <Key>FuelTanksTask2</Key>
+      <Value>在高亮位置处建造 {THING:StructureModularRocketFueltank01}</Value>
+    </Record>
+    <Record>
+      <Key>FuelTanks2</Key>
+      <Value>燃料箱</Value>
+    </Record>
+    <Record>
+      <Key>FuelTanks2Task1</Key>
+      <Value>将 {THING:ItemKitTank} 安装到 {THING:StructureModularRocketFueltank01}</Value>
+    </Record>
+    <Record>
+      <Key>FuelTanks2Task2</Key>
+      <Value>把 {THING:ItemSteelSheets} 焊接到 {THING:StructureModularRocketFueltank01} 上。</Value>
+    </Record>
+    <Record>
+      <Key>FuelTanks2Task3</Key>
+      <Value>给 {THING:StructureModularRocketFueltank01} 安上 {THING:ItemElectronicParts}。</Value>
+    </Record>
+    <Record>
+      <Key>CargoModule</Key>
+      <Value>货舱模块</Value>
+    </Record>
+    <Record>
+      <Key>CargoModuleTask1</Key>
+      <Value>从左边箱中拿出{THING:ItemKitStructureModularRocketCargo01}</Value>
+    </Record>
+    <Record>
+      <Key>CargoModuleTask2</Key>
+      <Value>在高亮位置处建造 {THING:StructureModularRocketCargo01}</Value>
+    </Record>
+    <Record>
+      <Key>CargoModule2</Key>
+      <Value>建造货舱</Value>
+    </Record>
+    <Record>
+      <Key>CargoModule2Task1</Key>
+      <Value>把这些 {THING:ItemSteelSheets} 焊接到 {THING:StructureModularRocketCargo01} 上。</Value>
+    </Record>
+    <Record>
+      <Key>CargoModule2Task2</Key>
+      <Value>把这些 {THING:ItemPlasticSheets} 焊接到 {THING:StructureModularRocketCargo01} 上</Value>
+    </Record>
+    <Record>
+      <Key>CargoModule2Task3</Key>
+      <Value>给 {THING:StructureModularRocketCargo01} 安上 {THING:ItemElectronicParts}。</Value>
+    </Record>
+    <Record>
+      <Key>CommandMod</Key>
+      <Value>指令舱</Value>
+    </Record>
+    <Record>
+      <Key>CommandModTask1</Key>
+      <Value>从左边白色箱中拿出{THING:ItemKitStructureModularRocketCommand01}</Value>
+    </Record>
+    <Record>
+      <Key>CommandModTask2</Key>
+      <Value>在高亮位置处放置 {THING:StructureModularRocketCommand01}。</Value>
+    </Record>
+    <Record>
+      <Key>CommandMod2Task1</Key>
+      <Value>把这些 {THING:ItemSteelSheets} 焊接到 {THING:StructureModularRocketCommand01} 上</Value>
+    </Record>
+    <Record>
+      <Key>CommandMod2Task2</Key>
+      <Value>把这些 {THING:ItemPlasticSheets} 焊接到 {THING:StructureModularRocketCommand01} 上。</Value>
+    </Record>
+    <Record>
+      <Key>CommandMod2Task3</Key>
+      <Value>给 {THING:StructureModularRocketCommand01} 安上 {THING:ItemElectronicParts}</Value>
+    </Record>
+    <Record>
+      <Key>FuelUp</Key>
+      <Value>加满燃料</Value>
+    </Record>
+    <Record>
+      <Key>FuelUpStraight</Key>
+      <Value>在高亮位置处搭建{THING:StructureInsulatedPipeStraight}</Value>
+    </Record>
+    <Record>
+      <Key>FuelUpCorner</Key>
+      <Value>在高亮位置处放置 {THING:StructureInsulatedPipeCorner}</Value>
+    </Record>
+    <Record>
+      <Key>NoPower</Key>
+      <Value>无电力</Value>
+    </Record>
+    <Record>
+      <Key>NoPower1</Key>
+      <Value>打开 {THING:StructureAreaPowerControl}</Value>
+    </Record>
+    <Record>
+      <Key>SettingTheDestination</Key>
+      <Value>设置目的地</Value>
+    </Record>
+    <Record>
+      <Key>SettingTheDestination1</Key>
+      <Value>打开Stationpedia</Value>
+    </Record>
+    <Record>
+      <Key>SettingTheDestination3</Key>
+      <Value>从左边箱中拿出 {THING:ItemLabeller}。</Value>
+    </Record>
+    <Record>
+      <Key>SettingTheDestination4</Key>
+      <Value>用 {THING:ItemLabeller} 设置 {THING:StructureLogicMemory} 的值为土卫一的坐标: -712314497.</Value>
+    </Record>
+    <Record>
+      <Key>SettingTheDestination5</Key>
+      <Value>用{THING:ItemScrewdriver}设置{THING:StructureLogicWriter}的输入值为{THING:StructureLogicMemory}</Value>
+    </Record>
+    <Record>
+      <Key>SettingTheDestination6</Key>
+      <Value>用{THING:ItemScrewdriver}将{THING:StructureLogicWriter}的输出设置为{THING:StructureLaunchPad} </Value>
+    </Record>
+    <Record>
+      <Key>SettingTheDestination7</Key>
+      <Value>用 {THING:ItemScrewdriver} 将{THING:StructureLogicWriter}的逻辑类型设置为 &quot;Setting&quot;</Value>
+    </Record>
+    <Record>
+      <Key>SettingTheDestination8</Key>
+      <Value>最后, 打开 {THING:StructureLogicWriter} 的开关。再次确认之前的步骤是否正确,</Value>
+    </Record>
+    <Record>
+      <Key>LaunchRocket</Key>
+      <Value>发射时间</Value>
+    </Record>
+    <Record>
+      <Key>LaunchRocketTask1</Key>
+      <Value>发射火箭</Value>
+    </Record>
+  </Interface>
+</Language>

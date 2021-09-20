@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Polish</Name>
+  <Code>PL</Code>
+  <Font>font_russian</Font>
+  <Interface>
+    <Record>
+      <Key>TutorialTitleWearSpacesuit</Key>
+      <Value>Ubieranie Skafandra</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskWearHelmet</Key>
+      <Value>Załóż {THING:ItemSpaceHelmet}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskWearSuit</Key>
+      <Value>Załóż {THING:ItemEvaSuit}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskWearJetpack</Key>
+      <Value>Załóż {THING:ItemSpacepack}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescPickupHelmet</Key>
+      <Value>Znajdź {THING:ItemSpaceHelmet} i umieść go w swoim slocie {SLOT:LeftHand} lub {SLOT:RightHand} poprzez wciśnięcie {KEY:PrimaryAction} nad zielonym znacznikiem interakcji który zobaczysz, patrząc na niego. Aby uzyskać więcej informacji, przeczytaj sekcję {LINK:InventoryPage;Ekwipunek} w {LINK:Home;Stationpedii}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescWearHelmet</Key>
+      <Value>Masz dwa sposoby na wejście w interakcję ze swoim {LINK:InventoryPage;ekwipunkiem}: skróty klawiszowe, oraz mysz. Oba mają swoje zalety i wady.
+      
+Przytrzymaj {KEY:MouseControl} aby aktywować kursor myszy i przeciągnij {THING:ItemSpaceHelmet} do slotu {SLOT:Helmet}. Lub przytrzymaj {KEY:HelmetSlot} dopóki twój {THING:ItemSpaceHelmet} nie przeniesie się do slotu {SLOT:Helmet}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescPickupSuit</Key>
+      <Value>Znajdź {THING:ItemEvaSuit} i włóż go do {SLOT:LeftHand} lub {SLOT:RightHand}. Tym razem spróbuj przeciągnąć {THING:ItemEvaSuit} bezpośrednio do slotu {SLOT:Suit}, jest to o wiele szybsze. Przytrzymaj {KEY:MouseControl} i najedź kursorem na {THING:ItemEvaSuit}, następnie przytrzymaj {KEY:PrimaryAction} i przeciągnij do {SLOT:Suit}.
+      </Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescWearSuit</Key>
+      <Value>Przytrzymaj {KEY:SuitSlot}, albo przytrzymaj {KEY:MouseControl}, aby użyć kursora w celu założenia {THING:ItemEvaSuit} do slotu {SLOT:Suit}. </Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescPickupJetpack</Key>
+      <Value>Znajdź {THING:ItemSpacepack} i umieść go w swoim slocie {SLOT:LeftHand} lub {SLOT:RightHand} poprzez wciśnięcie {KEY:PrimaryAction} nad zielonym znacznikiem interakcji który zobaczysz, patrząc na niego.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescWearJetpack</Key>
+      <Value>Wciśnij i przytrzymaj przycisk {KEY:BackSlot}, lub naciśnij i przytrzymaj {KEY:MouseControl} aby przywołać kursor myszy, w celu ubrania {THING:ItemSpacepack} do slotu {SLOT:Back}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTitlePowerSuit</Key>
+      <Value>Zasilanie Skafandra</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescPowerSuit</Key>
+      <Value>Znajdź {THING:ItemBatteryCellLarge} i umieść ją w swoim slocie {SLOT:LeftHand} lub {SLOT:RightHand} poprzez spojrzenie na nią i wciśnięcie {KEY:PrimaryAction}. Możesz również przeciągnąć {THING:ItemBatteryCellLarge} bezpośrednio do {THING:ItemEvaSuit}, aby zaoszczędzić czas.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescPowerSuit2</Key>
+      <Value>Otwórz swój {THING:ItemEvaSuit} poprzez naciśnięcie {KEY:SuitSlot}, lub przytrzymując {KEY:MouseControl} i naciskając na slot {SLOT:Suit}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskLifesupportSuit1</Key>
+      <Value>Podnieś {THING:ItemBatteryCellLarge}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskLifesupportSuit2</Key>
+      <Value>Otwórz okno {THING:ItemEvaSuit}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskLifesupportSuit4</Key>
+      <Value>Wyposaż {THING:ItemBatteryCellLarge} do swojego {THING:ItemEvaSuit} </Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescLifesupport2</Key>
+      <Value>{COLORRED:Musisz ubrać {THING:ItemEvaSuit}, aby kontynuować. Włóż go z powrotem.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTitleSuitFilter</Key>
+      <Value>Wyposażenie Filtra</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescFilter1</Key>
+      <Value>Znajdź {THING:ItemGasFilterCarbonDioxide} i umieść go w swoim slocie {SLOT:LeftHand} lub {SLOT:RightHand} poprzez wciśnięcie {KEY:PrimaryAction}. Znów, możesz po prostu przeciągnąć {THING:ItemGasFilterCarbonDioxide} ze świata do {THING:ItemEvaSuit} aby zaoszczędzić czas. Ten filtr usuwa {GAS:CarbonDioxide} z Twojego {THING:ItemEvaSuit}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTitleGetTools</Key>
+      <Value>Zdobywanie narzędzi budowlanych</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescGetTools1</Key>
+      <Value>Teraz musimy wyjść ze stacji, aby dokonać napraw. Wyrzuć rzeczy, jeżeli masz jakiekolwiek w swoich dłoniach, używając {KEY:Drop}, dzięki czemu będziemy mogli podnieść inne rzeczy. Pamiętaj, że możesz użyć {KEY:MouseControl} aby uruchomić kursor dla zarządzania {LINK:InventoryPage;ekwipunkiem}, oraz, że możesz zmienić {COLORYELLOW:Active Hand} poprzez wciśnięcie przycisku {KEYS:SwapHands}.
+
+Dobre zarządzanie swoim {LINK:InventoryPage;ekwipunkiem} wymaga umiejętności i praktyki; myśl ostrożnie nad tym, co zabierasz za sobą gdy wychodzisz na zewnątrz i planuj naprzód. Zapomnienie o uzupełnieniu {THING:ItemGasCanisterOxygen} lub {THING:ItemBatteryCellLarge} może być katastrofalne. Łatwo jest się zgubić. Bądź ostrożny!
+      </Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescGetTools2</Key>
+      <Value>Podnieś {THING:ItemToolBelt} i przydziel do slotu na {SLOT:Belt} poprzez przytrzymanie klawisza {KEY:ToolBeltSlot}, lub przeciągnięcie w miejsce slotu podczas trzymania {KEY:MouseControl}. Twój slot {SLOT:Belt} pozwala Tobie na posiadanie pasków które zawierają różne narzędzia.
+      
+{THING:ItemMiningBelt} posiada specjalne sloty {LINK:OrePage;rudy} które automatycznie się uzupełniają rudą w momencie gdy, na przykład, używasz {THING:ItemMiningDrill}. Możesz przeczytać o tym więcej w sekcji {LINK:MiningPage;Górnictwo}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskGetTools1</Key>
+      <Value>Upuść {THING:ItemTablet}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTitleGoInAirlock</Key>
+      <Value>Wyjście w kosmos</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskGoInAirlock1</Key>
+      <Value>Zamknij wizjer swojego {THING:ItemSpaceHelmet}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTitleCycleAirlock</Key>
+      <Value>Używanie śluzy</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskCycleAirlock1</Key>
+      <Value>Przełącz śluzę</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTitleRepairCable</Key>
+      <Value>Napraw uszkodzony kabel</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescRepairCable1</Key>
+      <Value>{THING:StructureCableStraight} może przenosić zarazem {COLORYELLOW:Data} oraz {COLORYELLOW:Power}, ale mogą się uszkodzić jeżeli przepłynie więcej mocy, niż jest to zalecane.  Jest tutaj gdzieś uszkodzony {THING:StructureCableJunction} pod {THING:StructureAirlock}, z której wyszedłeś, znajdź go i usuń za pomocą {THING:ItemWireCutters} wyjętego z Twojego {THING:ItemToolBelt}.
+      
+Pamiętaj że istnieją dwa sposoby aby wejść w interakcję z twoim ekwipunkiem {LINK:InventoryPage;ekwipunkiem}. Możesz wcisnąć i przytrzymać {KEY:MouseControl} aby uaktywnić kursor, potem przeciągnąć i upuścić, lub otworzyć rzeczy za pomocą myszy. Dla szybkiej kontroli, naciśnij {KEY:ToolBeltSlot} aby otworzyć slot {SLOT:Belt}. Naciśnij {KEY:InventorySelect} aby zamienić podświetlony slot z Twoimi dłońmi.
+
+Jeżeli masz zbyt wiele otwartych okien, możesz zamknąć je wszystkie naraz używając {KEY:HideAllWindows}, natomiast otworzyć poszczególne okna możesz, naciskając odpowiadający im przycisk slotu, lub możesz nacisnąć na slot samemu, podczas gdy za pomocą {KEY:MouseControl} aktywowałeś(aś) kursor.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskRepairCable1</Key>
+      <Value>Wyposaż swój {THING:ItemWireCutters}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskRepairCable2</Key>
+      <Value>Usuń {THING:StructureCableJunctionBurnt}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskRepairCable3</Key>
+      <Value>Wyposaż {THING:ItemCableCoil}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescRepairCable2</Key>
+      <Value>Spójrz na {THING:StructureCableJunctionBurnt} trzymając {THING:ItemWireCutters} w aktywnej ręce. Zobaczysz {COLORYELLOW:żółte} obramowanie dookoła niego. Przytrzymaj {KEY:PrimaryAction} aby usunąć {THING:StructureCableJunctionBurnt}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTitleFinishFrame</Key>
+      <Value>Dokończ spawanie ramy</Value>
+    </Record>
+  </Interface>
+</Language>

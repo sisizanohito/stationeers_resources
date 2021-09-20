@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Code>FI</Code>
+  <Interface>
+    <Record>
+      <Key>8ConstructLever</Key>
+      <Value>Laita {THING:ItemToolBelt} {SLOT:Belt} lokeroon</Value>
+    </Record>
+    <Record>
+      <Key>8ConstructCable</Key>
+      <Value>Laita {THING:ItemToolBelt} {SLOT:Belt} lokeroon</Value>
+    </Record>
+    <Record>
+      <Key>8ConstructReader</Key>
+      <Value>Laita {THING:ItemToolBelt} {SLOT:Belt} lokeroon</Value>
+    </Record>
+    <Record>
+      <Key>8ConstructWriter</Key>
+      <Value>Laita {THING:ItemToolBelt} {SLOT:Belt} lokeroon</Value>
+    </Record>&gt;
+		
+    <Record>
+      <Key>8TurnOnReader</Key>
+      <Value>Pudota uuni {COLORGREEN:Tasolle}</Value>
+    </Record>
+    <Record>
+      <Key>8TurnOnWriter</Key>
+      <Value>Pudota uuni {COLORGREEN:Tasolle}</Value>
+    </Record>
+    <Record>
+      <Key>8TurnOffWriter</Key>
+      <Value>Pudota uuni {COLORGREEN:Tasolle}</Value>
+    </Record>
+    <Record>
+      <Key>8TurnOffReader</Key>
+      <Value>Pudota uuni {COLORGREEN:Tasolle}</Value>
+    </Record>
+    <Record>
+      <Key>8ConstructBatchWriter</Key>
+      <Value>Laita {THING:ItemToolBelt} {SLOT:Belt} lokeroon</Value>
+    </Record>
+    <Record>
+      <Key>8TurnOnBatchWriter</Key>
+      <Value>Pudota uuni {COLORGREEN:Tasolle}</Value>
+    </Record>
+  </Interface>
+</Language>

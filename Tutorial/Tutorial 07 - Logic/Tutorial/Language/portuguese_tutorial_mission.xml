@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Code>PT</Code>
+  <Interface>
+    <Record>
+      <Key>8ConstructLever</Key>
+      <Value>Constrói o {THING:StructureGasSensor} na área indicada.</Value>
+    </Record>
+    <Record>
+      <Key>8ConstructCable</Key>
+      <Value>Constrói o {THING:StructureGasSensor} na área indicada.</Value>
+    </Record>
+    <Record>
+      <Key>8ConstructReader</Key>
+      <Value>Constrói o {THING:StructureGasSensor} na área indicada.</Value>
+    </Record>
+    <Record>
+      <Key>8ConstructWriter</Key>
+      <Value>Constrói o {THING:StructureGasSensor} na área indicada.</Value>
+    </Record>&gt;
+		
+    <Record>
+      <Key>8TurnOnReader</Key>
+      <Value>Liga o {THING:ItemTablet} com a tecla {KEY:ToggleHandPower}.</Value>
+    </Record>
+    <Record>
+      <Key>8TurnOnWriter</Key>
+      <Value>Liga o {THING:ItemTablet} com a tecla {KEY:ToggleHandPower}.</Value>
+    </Record>
+    <Record>
+      <Key>8TurnOffWriter</Key>
+      <Value>Liga o {THING:ItemTablet} com a tecla {KEY:ToggleHandPower}.</Value>
+    </Record>
+    <Record>
+      <Key>8TurnOffReader</Key>
+      <Value>Liga o {THING:ItemTablet} com a tecla {KEY:ToggleHandPower}.</Value>
+    </Record>
+    <Record>
+      <Key>8ConstructBatchWriter</Key>
+      <Value>Constrói o {THING:StructureGasSensor} na área indicada.</Value>
+    </Record>
+    <Record>
+      <Key>8TurnOnBatchWriter</Key>
+      <Value>Liga o {THING:ItemTablet} com a tecla {KEY:ToggleHandPower}.</Value>
+    </Record>
+  </Interface>
+</Language>

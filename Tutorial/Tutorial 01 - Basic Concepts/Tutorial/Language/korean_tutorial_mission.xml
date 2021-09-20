@@ -1,0 +1,616 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Code>KO</Code>
+  <Interface>
+    <Record>
+      <Key>BasicConcepts</Key>
+      <Value>일반 기술</Value>
+    </Record>
+    <Record>
+      <Key>MBasicConceptsDescription</Key>
+      <Value>달 훈련소에 오신것을 환영합니다, 훈련생님.
+솔라 시스템 및 그 외 지역에 배치된 수천 명의 스테이션맨 중 한명이 되기 위해 실습 교육을 이수하세요.</Value>
+    </Record>
+    <Record>
+      <Key>BasicConceptsSubTitle</Key>
+      <Value>실용적인 훈련 : 스테이지 1</Value>
+    </Record>
+    <Record>
+      <Key>IntroClose</Key>
+      <Value>임무 전달 닫기</Value>
+    </Record>
+    <Record>
+      <Key>WelcomeRecuit</Key>
+      <Value>후보생님 환영합니다</Value>
+    </Record>
+    <Record>
+      <Key>BasicConceptsDescription</Key>
+      <Value>달 훈련소에 온 걸 환영합니다, 훈련생님.
+솔라 시스템 및 그 외 지역에 배치된 수천 명의 스테이션맨 중 한명이 되기 위해 실습 교육을 이수하세요.</Value>
+    </Record>
+    <Record>
+      <Key>WelcomeRecuitDisc</Key>
+      <Value>훈련소 안으로 들어가십시오.</Value>
+    </Record>
+    <Record>
+      <Key>ControlMovementDisc</Key>
+      <Value>움직이기</Value>
+    </Record>
+    <Record>
+      <Key>Narration1T</Key>
+      <Value>후보생님 환영합니다.</Value>
+    </Record>
+    <Record>
+      <Key>Narration1D</Key>
+      <Value>우주라는 위험한 조건하에서 일하고 건설하기 위해, 많은 특별한 기술을 필요로 합니다. 전방에 있는 에어록을 통해 훈련소로 들어가세요.</Value>
+    </Record>
+    <Record>
+      <Key>EnterAreaT1</Key>
+      <Value>에어락으로 들어가세요.</Value>
+    </Record>
+    <Record>
+      <Key>ControlLeftClickDisc</Key>
+      <Value>상호 작용</Value>
+    </Record>
+    <Record>
+      <Key>Narration2T</Key>
+      <Value>에어락 조작</Value>
+    </Record>
+    <Record>
+      <Key>Narration2D</Key>
+      <Value>에어락으로 들어가려면, &apos;주거 상태로 변경&apos;을 클릭하세요.</Value>
+    </Record>
+    <Record>
+      <Key>TrainingBaseDisc</Key>
+      <Value>훈련소로 들어가세요.</Value>
+    </Record>
+    <Record>
+      <Key>OpenAirlock</Key>
+      <Value>콘솔을 사용하여 에어락 상태를 변경하세요.</Value>
+    </Record>
+    <Record>
+      <Key>ExitAreaT1</Key>
+      <Value>시험 구역으로 들어가세요.</Value>
+    </Record>
+    <Record>
+      <Key>Narration3T</Key>
+      <Value>프로토콜</Value>
+    </Record>
+    <Record>
+      <Key>Narration3D</Key>
+      <Value>사고가 발생할 수도 있기때문에, 스테이셔니어의 핸드북에는 다음과 같은 프로토콜이 존재합니다.
+훈련생들은 두 손을 가지고 있지만 한번에 한가지 일만 가능합니다.</Value>
+    </Record>
+    <Record>
+      <Key>PickUpControlsDisc</Key>
+      <Value>상호작용</Value>
+    </Record>
+    <Record>
+      <Key>SwapControlsDisc</Key>
+      <Value>손 교체</Value>
+    </Record>
+    <Record>
+      <Key>Co-OrdinationDisc</Key>
+      <Value>손에 들고있는 아이템들을 변경해가면서 교체 상태를 확인하세요.</Value>
+    </Record>
+    <Record>
+      <Key>PickUpT1</Key>
+      <Value>상자에서 용접 토치를 주우세요.</Value>
+    </Record>
+    <Record>
+      <Key>SwapHandsT1</Key>
+      <Value>손 교체</Value>
+    </Record>
+    <Record>
+      <Key>PickUpT1 1</Key>
+      <Value>상자에서 와이어커터를 꺼내세요.</Value>
+    </Record>
+    <Record>
+      <Key>SwapHandsT1 2</Key>
+      <Value>손을 한번더 교체하세요.</Value>
+    </Record>
+    <Record>
+      <Key>Narration4T</Key>
+      <Value>용접공</Value>
+    </Record>
+    <Record>
+      <Key>Narration4D</Key>
+      <Value>도구들 중 상당수는 &apos;O&apos;키 또는 우클릭을 눌러 먼저 활성화해야합니다.</Value>
+    </Record>
+    <Record>
+      <Key>ActiveWilderDisc</Key>
+      <Value>용접 토치를 활성화하세요.</Value>
+    </Record>
+    <Record>
+      <Key>TurnOnControls</Key>
+      <Value>전원을 켜세요.</Value>
+    </Record>
+    <Record>
+      <Key>TurnOnControlsDisc</Key>
+      <Value>용접 토치의 전원을 켜세요.</Value>
+    </Record>
+    <Record>
+      <Key>WeilderOn</Key>
+      <Value>용접 토치를 켜세요.</Value>
+    </Record>
+    <Record>
+      <Key>WeilderOff</Key>
+      <Value>용접 토치를 끄세요.</Value>
+    </Record>
+    <Record>
+      <Key>Narration5T</Key>
+      <Value>갑시다.</Value>
+    </Record>
+    <Record>
+      <Key>Narration5D</Key>
+      <Value>아이템을 버리려면 Q를 한번 누르고, 아이템을 던지려면 Q를 꾹 누르세요.</Value>
+    </Record>
+    <Record>
+      <Key>DropItemT1 1</Key>
+      <Value>오른손에 있는것 버리기</Value>
+    </Record>
+    <Record>
+      <Key>DropWireCutters</Key>
+      <Value>오른손에 도구를 떨구거나 던지세요.</Value>
+    </Record>
+    <Record>
+      <Key>ThrowControls</Key>
+      <Value>{KEY:Drop} 꾹 누르기</Value>
+    </Record>
+    <Record>
+      <Key>ThrowControlsDisc</Key>
+      <Value>아이템 던지기</Value>
+    </Record>
+    <Record>
+      <Key>DropControlsDisc</Key>
+      <Value>아이템 버리기</Value>
+    </Record>
+    <Record>
+      <Key>PrecisionPLaceT1 1</Key>
+      <Value>&apos;T&apos;키를 사용하여 도구를 테이블 위에 정밀하게 배치할 수 있습니다.</Value>
+    </Record>
+    <Record>
+      <Key>Narration6T</Key>
+      <Value>용접기</Value>
+    </Record>
+    <Record>
+      <Key>Narration6D</Key>
+      <Value>가끔, 무언가를 더 조심히 내려놔야 할 때가 있을거에요. 그럴때는 &apos;T&apos;를 사용해보고, 슈트의 조인트가 부드럽게 작동하는지 확인하세요.</Value>
+    </Record>
+    <Record>
+      <Key>PrecisionPlaceControlsDisc</Key>
+      <Value>정밀 배치 모드</Value>
+    </Record>
+    <Record>
+      <Key>PrecisionPlaceControlsPlaceDisc</Key>
+      <Value>아이템 배치</Value>
+    </Record>
+    <Record>
+      <Key>PrecisionPlace</Key>
+      <Value>&apos;정밀 배치&apos;를 이용하여 용접 토치를 테이블 위에 올려놓으세요.</Value>
+    </Record>
+    <Record>
+      <Key>Narration7T</Key>
+      <Value>인벤토리 시스템</Value>
+    </Record>
+    <Record>
+      <Key>OpenToolControlsDisc</Key>
+      <Value>마우스 커서 사용</Value>
+    </Record>
+    <Record>
+      <Key>OpenToolbeltT1Disc</Key>
+      <Value>도구 벨트를 열어 도구에 접근하세요.</Value>
+    </Record>
+    <Record>
+      <Key>OpenBackControlsDisc</Key>
+      <Value>장착된 슬롯 열기</Value>
+    </Record>
+    <Record>
+      <Key>GettingTheBelt</Key>
+      <Value>도구 벨트 열기</Value>
+    </Record>
+    <Record>
+      <Key>Narration8T</Key>
+      <Value>UI 창</Value>
+    </Record>
+    <Record>
+      <Key>Narration8D</Key>
+      <Value>스테이셔니어로서 목표를 달성하는 방법에는 여러가지 방법이 있습니다. 숫자 키로도 인벤토리를 여는것이 가능합니다.</Value>
+    </Record>
+    <Record>
+      <Key>OpenBackPackDisc</Key>
+      <Value>도구 벨트 열기</Value>
+    </Record>
+    <Record>
+      <Key>OpenBackPack</Key>
+      <Value>가방을 엽니다.</Value>
+    </Record>
+    <Record>
+      <Key>Narration9T</Key>
+      <Value>인벤토리 내비게이션</Value>
+    </Record>
+    <Record>
+      <Key>Narration9D</Key>
+      <Value>물건을 옮기는 방법은 여러가지가 있습니다. 먼저 인벤토리의 아이템을 손으로 끌어다 놓으세요.</Value>
+    </Record>
+    <Record>
+      <Key>HoldMiningBeltT1Disc</Key>
+      <Value>채굴용 벨트를 배낭에서 왼손으로 드래그하세요.</Value>
+    </Record>
+    <Record>
+      <Key>PickUpT1 2</Key>
+      <Value>채굴용 벨트를 배낭에서 왼손으로 드래그하세요.</Value>
+    </Record>
+    <Record>
+      <Key>AltDragControls</Key>
+      <Value>{KEY:MouseControl} + 드래그</Value>
+    </Record>
+    <Record>
+      <Key>AltDragControlsDisc</Key>
+      <Value>인벤토리와 상호 작용합니다.</Value>
+    </Record>
+    <Record>
+      <Key>DropT1 2</Key>
+      <Value>채굴 벨트를 버리거나 던지세요.</Value>
+    </Record>
+    <Record>
+      <Key>Narration10T</Key>
+      <Value>인벤토리 드래그</Value>
+    </Record>
+    <Record>
+      <Key>DragFromWorldT1Disc</Key>
+      <Value>채굴용 벨트를 배낭에서 땅으로 드래그하세요.</Value>
+    </Record>
+    <Record>
+      <Key>AltClickControlsDisc</Key>
+      <Value>마우스로 상호작용</Value>
+    </Record>
+    <Record>
+      <Key>OpenMaskControlsDisc</Key>
+      <Value>헬멧 열기</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaToggleControlsDisc</Key>
+      <Value>도움말 활성화하기</Value>
+    </Record>
+    <Record>
+      <Key>QucikEquiptControls</Key>
+      <Value>스크롤 휠</Value>
+    </Record>
+    <Record>
+      <Key>QucikEquiptControlsDisc</Key>
+      <Value>인벤토리 슬롯 선택</Value>
+    </Record>
+    <Record>
+      <Key>QuickSelectItemControlsDisc</Key>
+      <Value>인벤토리와 상호작용</Value>
+    </Record>
+    <Record>
+      <Key>DoubleClickingControlsDisc</Key>
+      <Value>인벤토리와 상호작용</Value>
+    </Record>
+    <Record>
+      <Key>SecondaryActionControls</Key>
+      <Value>{KEY:SecondaryAction}키를 꾹누르기</Value>
+    </Record>
+    <Record>
+      <Key>SecondaryActionControlsDisc</Key>
+      <Value>보조 행동</Value>
+    </Record>
+    <Record>
+      <Key>ControlLeftClickBuildDisc</Key>
+      <Value>구조물을 건축합니다.</Value>
+    </Record>
+    <Record>
+      <Key>BuildControlsDisc</Key>
+      <Value>빌드 모드로 들어갑니다.</Value>
+    </Record>
+    <Record>
+      <Key>UseItemControls</Key>
+      <Value>{KEY:SecondaryAction}키를 꾹 누르기</Value>
+    </Record>
+    <Record>
+      <Key>UseItemControlsDisc</Key>
+      <Value>아이템 활성화</Value>
+    </Record>
+    <Record>
+      <Key>UsePrimeControls</Key>
+      <Value>{KEY:PrimaryAction}키를 꾹 누르기</Value>
+    </Record>
+    <Record>
+      <Key>UsePrimeControlsDisc</Key>
+      <Value>아이템 사용</Value>
+    </Record>
+    <Record>
+      <Key>JetpackInsert</Key>
+      <Value>채굴용 벨트를 땅에서 가방으로 드래그하세요.</Value>
+    </Record>
+    <Record>
+      <Key>Narration11T</Key>
+      <Value>단축키</Value>
+    </Record>
+    <Record>
+      <Key>RoadFlareT1Disc</Key>
+      <Value>&apos;단축 키&apos;를 이용해 로드플레어 장착</Value>
+    </Record>
+    <Record>
+      <Key>GetRoadFlare</Key>
+      <Value>로드 플레어를 배낭에서 왼손으로 이동시키세요.</Value>
+    </Record>
+    <Record>
+      <Key>LightFlare</Key>
+      <Value>로드 플레어를 보조 행동을 이용해 활성화하세요.</Value>
+    </Record>
+    <Record>
+      <Key>DropT1 3</Key>
+      <Value>로드플레어를 &apos;Q&apos;로 버리기</Value>
+    </Record>
+    <Record>
+      <Key>Narration12T</Key>
+      <Value>아이템 안의 아이템</Value>
+    </Record>
+    <Record>
+      <Key>ChildOnSlotOpenDisc</Key>
+      <Value>채굴용 벨트를 배낭에서 엽니다.</Value>
+    </Record>
+    <Record>
+      <Key>OpeningTheMininngBelt</Key>
+      <Value>채굴용 벨트 열기</Value>
+    </Record>
+    <Record>
+      <Key>Narration13T</Key>
+      <Value>배터리 넣기</Value>
+    </Record>
+    <Record>
+      <Key>ReplaceBattT1Disc</Key>
+      <Value>상자에서 배터리를 꺼내 채굴용 벨트에 추가하세요.</Value>
+    </Record>
+    <Record>
+      <Key>ChangePowerCell</Key>
+      <Value>상자에서 배터리를 꺼내 채굴용 벨트에 추가하세요.</Value>
+    </Record>
+    <Record>
+      <Key>Narration14T</Key>
+      <Value>스택 합치기</Value>
+    </Record>
+    <Record>
+      <Key>MergeFramesT1Disc</Key>
+      <Value>한 스택을, 다른 스택으로 드래그하여 합칠 수 있습니다.</Value>
+    </Record>
+    <Record>
+      <Key>Merege de frames</Key>
+      <Value>상자에 두 철제 프레임의 스택을 합칩니다.</Value>
+    </Record>
+    <Record>
+      <Key>Narration15T</Key>
+      <Value>`키를 눌러 UI 닫기</Value>
+    </Record>
+    <Record>
+      <Key>Narration15D</Key>
+      <Value>인벤토리 창을 닫으려면 X를 클릭하거나 `키를 눌러 모든 창을 닫을 수 있습니다.</Value>
+    </Record>
+    <Record>
+      <Key>CloseAllUIT1Disc</Key>
+      <Value>열려져 있는 모든 창 닫기</Value>
+    </Record>
+    <Record>
+      <Key>CloseUITask</Key>
+      <Value>열려져 있는 모든 창 닫기</Value>
+    </Record>
+    <Record>
+      <Key>ControlCloseUIDisc</Key>
+      <Value>열려져 있는 모든 창 닫기</Value>
+    </Record>
+    <Record>
+      <Key>Narration16T</Key>
+      <Value>섹션 B</Value>
+    </Record>
+    <Record>
+      <Key>Narration16D</Key>
+      <Value>잘하셨어요, 훈련생님.
+훈련소의 다음 구역으로 이동하여 건축의 기초를 검토하세요.</Value>
+    </Record>
+    <Record>
+      <Key>EnterAreaT1Disc</Key>
+      <Value>훈련소의 섹션 B로 이동하세요.</Value>
+    </Record>
+    <Record>
+      <Key>EnterAreaT3</Key>
+      <Value>다음 에어록으로 들어가세요.</Value>
+    </Record>
+    <Record>
+      <Key>Narration17T</Key>
+      <Value>섹션 B</Value>
+    </Record>
+    <Record>
+      <Key>ControlJetpackToggleDisc</Key>
+      <Value>제트팩 전원을 켜세요.</Value>
+    </Record>
+    <Record>
+      <Key>ControlJetpackAsendMovementDisc</Key>
+      <Value>상승</Value>
+    </Record>
+    <Record>
+      <Key>ControlJetpackDesendMovementDisc</Key>
+      <Value>하강</Value>
+    </Record>
+    <Record>
+      <Key>Narration17D</Key>
+      <Value>이 시험 단계를 완료하려면 기본적인 건축 기술을 보여줘야합니다.
+건설 구역이 높기때문에 제트팩을 사용해야 합니다.</Value>
+    </Record>
+    <Record>
+      <Key>Narration18T</Key>
+      <Value>틀</Value>
+    </Record>
+    <Record>
+      <Key>Narration18D</Key>
+      <Value>틀은 모든 건축물의 기초가 됩니다.
+틀을 줍고, 우클릭으로 건축 모드에 들어가세요, 그리고 좌클릭으로 배치하세요.</Value>
+    </Record>
+    <Record>
+      <Key>BuildTheFrames</Key>
+      <Value>철판과 용접기를 이용하여 틀을 완성하세요.</Value>
+    </Record>
+    <Record>
+      <Key>Narration19T</Key>
+      <Value>틀</Value>
+    </Record>
+    <Record>
+      <Key>Narration19D</Key>
+      <Value>철판을 새틀에 용접하여 베이스를 완성합니다.
+한 손에는 용접기를, 다른 한손에는 철판을 들고있어야 합니다.</Value>
+    </Record>
+    <Record>
+      <Key>PickUpT1 9</Key>
+      <Value>철 틀을 상자에서 꺼내세요.</Value>
+    </Record>
+    <Record>
+      <Key>BuildFrameT1Disc</Key>
+      <Value>철판을 사용하여 미완성 된 지붕을 완성하세요.</Value>
+    </Record>
+    <Record>
+      <Key>IronFrameBuildTaskT1</Key>
+      <Value>위의 강조 표시된 지점에서 틀 #1을(를) 빌드하세요.</Value>
+    </Record>
+    <Record>
+      <Key>IronFrameBuildTaskT2</Key>
+      <Value>위의 강조 표시된 지점에서 틀 #2을(를) 빌드하세요.</Value>
+    </Record>
+    <Record>
+      <Key>PickUpT1 4</Key>
+      <Value>철 판을 상자에서 꺼내세요.</Value>
+    </Record>
+    <Record>
+      <Key>UsePrimeControlsBuildDisc</Key>
+      <Value>건설</Value>
+    </Record>
+    <Record>
+      <Key>FinsihFramesT1Disc</Key>
+      <Value>용접기와 강철판을 상자에서 장착하고 훈련소를 완성하세요.</Value>
+    </Record>
+    <Record>
+      <Key>FillingWithAirT1Disc</Key>
+      <Value>기지에서 숨을 쉴 수 있게 공기를 채우세요.</Value>
+    </Record>
+    <Record>
+      <Key>OpenTheAPCPanel</Key>
+      <Value>APC를 빠루로 여세요.</Value>
+    </Record>
+    <Record>
+      <Key>TurnOnAPC</Key>
+      <Value>APC를 켜세요.</Value>
+    </Record>
+    <Record>
+      <Key>TurningOnTheOXygen</Key>
+      <Value>외부 압력이 60kPa에 도달할 때까지 기다리세요.</Value>
+    </Record>
+    <Record>
+      <Key>OpenHelmT1Disc</Key>
+      <Value>슈트 헬멧을 여세요.</Value>
+    </Record>
+    <Record>
+      <Key>OpenHelmT1Task</Key>
+      <Value>헬멧의 잠금을 해제하세요.</Value>
+    </Record>
+    <Record>
+      <Key>OpenHelmT2Task</Key>
+      <Value>헬멧을 여세요.</Value>
+    </Record>
+    <Record>
+      <Key>Narration20T</Key>
+      <Value>틀</Value>
+    </Record>
+    <Record>
+      <Key>FinishFrameT1</Key>
+      <Value>틀 완성: 철판 + 용접 토치(현재 손)</Value>
+    </Record>
+    <Record>
+      <Key>Narration21T</Key>
+      <Value>마지막 단계</Value>
+    </Record>
+    <Record>
+      <Key>Narration21D</Key>
+      <Value>기본적인 능력 시험이 거의 끝났습니다, 훈련생님.
+이 기술들을 검토하려면 F1을 눌러 도움말 메뉴를 연 후 기본 컨트롤 페이지에 들어가세요.</Value>
+    </Record>
+    <Record>
+      <Key>Narration22T</Key>
+      <Value>마지막 단계</Value>
+    </Record>
+    <Record>
+      <Key>Narration22D</Key>
+      <Value>곧 더 많은 시험을 봐야하니 푹 쉬시길 바랍니다.
+슈트를 벗고 보관함에 넣어두세요.</Value>
+    </Record>
+    <Record>
+      <Key>GettingHelp</Key>
+      <Value>도움말을 열고, &apos;시작하기&apos;로 이동하세요.</Value>
+    </Record>
+    <Record>
+      <Key>GettingHelpClose</Key>
+      <Value>{LINK:Home;Stationpedia}를 닫으세요.</Value>
+    </Record>
+    <Record>
+      <Key>Narration23T</Key>
+      <Value>마지막 단계</Value>
+    </Record>
+    <Record>
+      <Key>Narration23D</Key>
+      <Value>훌륭합니다, 훈련생님! 이것이 실기 테스트 1 단계의 마지막 단계입니다.
+주황색의 &apos;완료&apos; 버튼을 눌러 결과를 스테이셔니어 커맨드로 전송하세요.</Value>
+    </Record>
+    <Record>
+      <Key>HangUpSuitT1Disc</Key>
+      <Value>슈트를 보관함으로 드래그하세요.</Value>
+    </Record>
+    <Record>
+      <Key>HangHelm</Key>
+      <Value>우주복 헬멧을 보관함에 드래그하세요.</Value>
+    </Record>
+    <Record>
+      <Key>HangSuit</Key>
+      <Value>슈트를 보관함에 드래그하세요.</Value>
+    </Record>
+    <Record>
+      <Key>HangPack</Key>
+      <Value>가방을 슈트 보관함에 드래그하세요.</Value>
+    </Record>
+    <Record>
+      <Key>JetpackOn</Key>
+      <Value>제트팩을 켜세요.</Value>
+    </Record>
+    <Record>
+      <Key>JetpackOff</Key>
+      <Value>제트팩을 끄세요.</Value>
+    </Record>
+    <Record>
+      <Key>JetpackT1Disc</Key>
+      <Value>제트팩 조작을 테스트합니다.</Value>
+    </Record>
+    <Record>
+      <Key>PickUpT1 6</Key>
+      <Value>용접기를 테이블에서 주우세요.</Value>
+    </Record>
+    <Record>
+      <Key>FillOutPaperworkT1Disc</Key>
+      <Value>결과를 전송하려면 큰 파란 버튼을 클릭하세요.</Value>
+    </Record>
+    <Record>
+      <Key>OnButtonPressTaskT1</Key>
+      <Value>시험을 종료하려면 &apos;확인&apos; 버튼을 눌러주세요.</Value>
+    </Record>
+    <Record>
+      <Key>UIBasicsEndDescription</Key>
+      <Value>축하합니다. 귀하의 결과는 오프월드 개발 기관의 스테이셔니어 커맨드에 전송되었습니다.</Value>
+    </Record>
+    <Record>
+      <Key>Dropflare</Key>
+      <Value>오른손에 도구를 떨구거나 던지세요.</Value>
+    </Record>
+    <Record>
+      <Key>NarrationClose</Key>
+      <Value>{LINK:Home;Stationpedia}를 닫으세요.</Value>
+    </Record>
+  </Interface>
+</Language>

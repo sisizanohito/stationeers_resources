@@ -1,0 +1,27 @@
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Code>FI</Code>
+  <GameTip>
+    <String>Paina {KEY:HelmetSlot}, {KEY:SuitSlot}, {KEY:BackSlot}, {KEY:UniformSlot} tai {KEY:ToolBeltSlot} selataksesi minkä tahansa varustettuna olevan esineen toimintoja ja lokeroita. Paina ja pidä pohjassa siirtyäksesi lokeron ja aktiivisen käden välillä.</String>
+    <String>Paina {KEY:ToggleHandPower} kytkeäksesi nopeasti päälle ja pois sen, mitä sinulla on kädessäsi.</String>
+    <String>Paina {KEY:ToggleLight} kytkeäksesi {THING:ItemSpaceHelmet} valot päälle tai pois nopeasti.</String>
+    <String>Paina {KEY:EmoteWave} vilkuttaaksesi muille Stationeereille.</String>
+    <String>Paina {KEY:Jetpack} kytkeäksesi {THING:ItemSpacepack} rakettimoottorit päälle ja pois nopeasti.</String>
+    <String>Paina {KEY:ToggleUI} kytkeäksesi käyttölittymän päälle ja pois jotta voit ottaa hämmästyttäviä kuvankaappauksia tai videoita.</String>
+    <String>Painamalla {KEY:Ascend} näppäintä nouset ilmaan jos {THING:ItemSpacepack} rakettimoottorit ovat päällä, muuten hahmosi yrittää hypätä. Voit kytkeä {THING:ItemSpacepack} rakettimoottorit päälle tai pois painamalla {KEY:Jetpack} näppäintä.</String>
+    <String>Painamalla {KEY:Descend} näppäintä laskeudut jos {THING:ItemSpacepack} rakettimoottorit ovat päällä. Voit kytkeä {THING:ItemSpacepack} rakettimoottorit päälle tai pois painamalla {KEY:Jetpack} näppäintä.</String>
+    <String>Painamalla {KEY:Drop} näppäintä pudotat kädessäsi olevan esineen. Jos pidät {KEY:Drop} näppäintä pohjassa, heität esineen. Mitä pidempään pidät näppäintä pohjassa, sitä pidemmälle heität esineen.</String>
+    <String>Paina {KEY:Internals} avataksesi tai sulkeaksesi nopeasti {THING:ItemSpaceHelmet}.</String>
+    <String>Paina {KEY:Chatting} aloittaaksesi chatin muiden pelaajien kanssa. Oikeaan alakulmaan ilmestyy pieni laatikko, johon voit kirjoittaa viestisi.</String>
+    <String>Haluatko tietää miten jotain valmistetaan? Laita {THING:CartridgeElectronicReader} {THING:ItemTablet} ja kytke se päälle {KEY:ToggleHandPower} näppäimellä kun se on aktiivisessa kädessäsi.</String>
+    <String>Pidä {COLORGREEN:Hitsauspoltin} päälle kytkettynä yhdessä kädessä ja {COLORGREEN:Rautalevyjä} toisessa kädessä päivittääksesi {COLORGREEN:Rautarungon} rakennustasoa.</String>
+    <String>Kun muutat pelissä määriä, pidä pohjassa {KEY:QuantityModifier} käyttääksesi pienempiä askelmia.</String>
+    <String>Käytä {COLORGREEN:Varustepakkaus (Logiikka I/O:ta)} luodaaksesi {COLORGREEN:Logiikkalukijan} tai {COLORGREEN:Logiikkakirjoittimen}. Lukijat lukevat arvoja laitteista, kirjoittimet antavat sinun muuttaa näitä arvoja. Yhdistettynä matematiikkaprosessoriin voit luoda erittäin monimutkaisia automatisoituja järjestelmiä.</String>
+    <String>Käytä {COLORGREEN:Varustepakkaus (Logiikka I/O:ta)} luodaaksesi &amp;lt;color=green&amp;gt;Erälukijan&amp;lt;/color&amp;gt; tai &amp;lt;color=green&amp;gt;Eräkirjoittajan&amp;lt;/color&amp;gt;. Lukijat antavat sinun lukea arvoja kokonaisesta ryhmästä laitteita, kirjoittajat antavat sinun muuttaa arvoja kaikista ryhmässä olevista laitteista.</String>
+    <String>Käytä &amp;lt;color=green&amp;gt;Kierrättäjää&amp;lt;/color&amp;gt; muuntaaksesi esineet mitä et enää halua {COLORGREEN:Reagenssimassaksi}. Laita massa {COLORGREEN:Linkoon} muuntaaksesi sen takaisin malmiksi, valmiina {COLORGREEN:Sulatusuunia} varten.</String>
+    <String>Käytä {COLORGREEN:Hydraulista Putkentaivuttajaa} valmistaaksesi ilmastoon liittyviä laitteita, kuten {COLORGREEN:Varustepakkaus (Ilmastolaite)} mikä antaa sinun rakentaa muita laitteitä kuten {COLORGREEN:Ilmastointilaite} tai {COLORGREEN:Suodattajaa}.</String>
+    <String>Käytä &amp;lt;color=green&amp;gt;Kierrättäjää&amp;lt;/color&amp;gt; muuntaaksesi esineet mitä et enää halua {COLORGREEN:Reagenssimassaksi}. Laita massa {COLORGREEN:Linkoon} muuntaaksesi sen takaisin malmiksi, valmiina {COLORGREEN:Sulatusuunia} varten.</String>
+    <String>Mitä enemmän pukusi vahingoittuu, sitä vähemmän tehokkaasti se toimii.</String>
+    <String>Mitä enemmän pukusi vahingoittuu, sitä vähemmän tehokkaasti se toimii.</String>
+    <String>Kyllästyttääkö suodattimien vaihto? Keskitason suodattimet kestävät viisi- ja raskaat suodattimet kaksikymmentä kertaa kauemmin - mutta ovat kalliimpia valmistaa.</String>
+  </GameTip>
+</Language>

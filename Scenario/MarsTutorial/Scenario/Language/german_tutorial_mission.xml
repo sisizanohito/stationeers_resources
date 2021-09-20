@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Code>DE</Code>
+  <Interface>
+    <Record>
+      <Key>TheNewBeginningTitle</Key>
+      <Value>Ein neuer Anfang [BETA]</Value>
+    </Record>
+    <Record>
+      <Key>TheNewBeginningDescription</Key>
+      <Value>Lassen Sie uns einige Grundlagen lernen, und wie Sie der beste Stationeer werden, der Sie sein können!</Value>
+    </Record>
+    <!-- start the tutorial -->
+    <Record>
+      <Key>TutorialTheBeginningTitle</Key>
+      <Value>Der Anfang</Value>
+    </Record>
+    <Record> Using 
+			
+      <Key>TutorialTheBeginningDescription</Key>
+      <Value>Fangen wir an. Schließen Sie Ihre Stationpedia mit {KEY:Help}. Als Nächstes können Sie mit {KEY:PrimaryAction} Gegenstände aufheben. Drücken Sie die Taste {KEY:HelmetSlot}, {KEY:SuitSlot}, {KEY:BackSlot}, {KEY:UniformSlot} oder {KEY:ToolBeltSlot}, um zwischen Interaktionen und Inventar für jeden Ausrüstungsgegenstand, den Sie tragen, umzuschalten. Drücken und halten Sie die Taste umd Die Ausrüstung mit der in ihrer Aktiven Hand zu wechseln. Sie können auch die Option {KEY:MouseControl} halten und die Teile in den entsprechenden Ausrüstungsplatz ziehen.
+
+Die Ausrüstungsplätze für Ihren Charakter sehen Sie auf der linken Seite des Bildschirms. Sie können zum Bespiel die Taste {KEY:MouseControl} verwenden und auf {THING:UniformOrangeJumpSuit} klicken. Dadurch wird ein Menü für die angelegte Ausrüstung geöffnet, was interaktionen mit diesem zu lässt.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTheBeginningTask1</Key>
+      <Value>{LINK:Home;Stationpedia} schließen. ({KEY:Help})</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTheBeginningTask2</Key>
+      <Value>{THING:ItemSpaceHelmet} ausrüsten.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTheBeginningTask3</Key>
+      <Value>{THING:ItemSpacepack} ausrüsten.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTheBeginningTask4</Key>
+      <Value>{THING:ItemEvaSuit} ausrüsten.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDontBeAToolTitle</Key>
+      <Value>Sei kein Werkzeug</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDontBeAToolDescription</Key>
+      <Value>Sie wissen, was sie sagen, gehen Sie nirgendwo ohne Ihren Werkzeuggürtel hin! Heben Sie ihn auf und legen Sie ihn an.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDontBeAToolTask1</Key>
+      <Value>{THING:ItemToolBelt} ausrüsten.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialPowerUpDescription</Key>
+      <Value>Großartig, jetzt können Sie die Systeme auf Ihrem Anzug zum Laufen bringen.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialPowerUpTask1</Key>
+      <Value>Nehmen Sie {THING:ItemBatteryCellNuclear} mit {KEY:PrimaryAction}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialPowerUpTask2</Key>
+      <Value>Öffnen Sie ihren {THING:ItemEvaSuit} mit {KEY:SuitSlot}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialPowerUpTask3</Key>
+      <Value>Legen Sie die {THING:ItemBatteryCellNuclear} in das {Slot:Battery}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSomethingToFilterTitle</Key>
+      <Value>Etwas zu filtern</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSomethingToFilterDescription</Key>
+      <Value>Ein Anzug erfordert {THING: ItemBatteryCellNuclear}, {THING: ItemGasFilterCarbonDioxide} und andere Dinge, um eine sichere und integrative Umgebung zu schaffen.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSomethingToFilterTask1</Key>
+      <Value>Nehmen Sie {THING:ItemGasFilterCarbonDioxide} mit {KEY:PrimaryAction}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSomethingToFilterTask3</Key>
+      <Value>Legen Sie die {THING:ItemGasFilterCarbonDioxide} in einen {Slot:Filter}-Slot.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialGasItUpDescription</Key>
+      <Value>Der {THING:ItemSpacepack} benötigt ein Treibmittel, um die Schubdüsen zu verwenden, nehmen wir einfach die {THING:ItemGasCanisterNitrogen} da drüben.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialGasItUpTask</Key>
+      <Value>Legen Sie die {THING:ItemGasCanisterNitrogen} in den {SLOT:Propellent} ihres {THING:ItemSpacepack}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialFeelingHotHotHotTitle</Key>
+      <Value>Heiß Heiß Heiß</Value>
+    </Record>
+    <Record>
+      <Key>TutorialFeelingHotHotHotDescripton</Key>
+      <Value>Es ist ein bisschen heiß in diesem Anzug! Öffnen Sie Ihren {THING:ItemEvaSuit} mit {KEY:SuitSlot} und drehen Sie die Temperatur auf 20°C. Niedrigere Anzugtemperaturen können dazu beitragen, die Lebensdauer der Batterie Ihres Anzugs zu verlängern, was praktisch sein kann, wenn Sie sich in einer heiklen Situation befinden. Die Änderungen sind in ihrem Heads Up-Display ersichtlich.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialFeelingHotHotHotTask1</Key>
+      <Value>Anzugtemperatur verringern</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLockItDownDescripton</Key>
+      <Value>Zeit, nach draußen zu gehen! Denken Sie daran, Ihren Helm zu schließen - das Atmen wird sonst schwierig sein. Das Sperren des Helms kann verhindern, dass Ihr Anzug versehentlich geöffnet wird und Sie sich schädlichen Gasen, Drücken oder Temperaturschwankungen aussetzen, also machen wir das besser.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLockItDownTask1</Key>
+      <Value>Schließen des {THING:ItemSpaceHelmet} mit {KEY:Internals}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLockItDownTask2</Key>
+      <Value>Öffnen Sie das {THING:ItemSpaceHelmet}-Menü mit der Taste {KEY:HelmetSlot}, und wählen Sie die Schaltfläche {COLLORED:Schließen Mask} aus.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTheGreatOutdoorsTitle</Key>
+      <Value>Die unendlichen Weiten...</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTheGreatOutdoorsDescription</Key>
+      <Value>Lassen Sie uns auf ein Abenteuer gehen! Bereiten Sie sich darauf vor, den Zyklus der {THING:StructureAirlock} zu durchlaufen.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTheGreatOutdoorsTask1</Key>
+      <Value>Die {THING:StructureAirlock} betreten</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTheGreatOutdoorsTask2</Key>
+      <Value>Zirkulieren Sie die {THING:StructureAirlock} mit der Schaltfläche &quot;Cycle&quot; auf der beleuchteten Konsole und warten Sie, bis diese abgeschlossen ist.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialAnotherDayAnotherDollarTitle</Key>
+      <Value>Ein neuer Tag, ein neuer Credit</Value>
+    </Record>
+    <Record>
+      <Key>TutorialItsJustTheFurnaceTask3</Key>
+      <Value>Platziere das {THING:ItemIronOre} im {THING:StructureArcFurnace} und warte bis es schmilzt.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialItsJustTheFurnace1Task1</Key>
+      <Value>Begib dich in den nächsten Raum</Value>
+    </Record>
+    <Record>
+      <Key>TutorialBreakOutTask1</Key>
+      <Value>Nimm dein {THING:ItemCrowbar}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorking1Description</Key>
+      <Value>Etwas, das du verwenden kannst, um das Durchbrennen von Kabeln zu verhindern, ist eine {THING:ItemAreaPowerControl}, auch bekannt als ESV. Du findest eine im Spind – platziere sie dort, wo der Drahtbruch war.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorking2Description</Key>
+      <Value>Lass uns nun die ESV-Einheit einrichten. Wir brauchen unser {THING:ItemCrowbar}, um sie zu öffnen, eine Batterie hineinzulegen und dann den Schalter umzulegen. Jetzt hast du ein sicheres Ladesystem.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorking2Task2</Key>
+      <Value>Öffne die ESV mit deinem {THING:ItemCrowbar}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorking2Task3</Key>
+      <Value>Setze die Batterie in die ESV ein.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorking2Task4</Key>
+      <Value>Schalte die ESV ein.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorking2Task5</Key>
+      <Value>Schließe die ESV mit deinem {THING:ItemCrowbar}</Value>
+    </Record>
+  </Interface>
+</Language>

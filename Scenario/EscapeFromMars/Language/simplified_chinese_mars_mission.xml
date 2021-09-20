@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Simplified Chinese</Name>
+  <Code>CN</Code>
+  <Font>font_cjk</Font>
+  <Interface>
+    <Record>
+      <Key>EscapeFromMarsTitle</Key>
+      <Value>逃离火星 [beta]</Value>
+    </Record>
+    <Record>
+      <Key>EscapeFromMarsDescription</Key>
+      <Value>用于测试：初始情况下你只有少量的物资，所以你必须充分利用你的头脑，在火星上立足。  你所做的每一步都最好要有个计划，最后建造一枚能离开火星大气的火箭。</Value>
+    </Record>
+    <!-- Mission Stage: In Case of Emergency -->
+    <Record>
+      <Key>MarsTitleInCaseOfEmergency</Key>
+      <Value>在紧急情况下...</Value>
+    </Record>
+    <Record>
+      <Key>MarsDescInCaseOfEmergency</Key>
+      <Value>你的宇航服坏了, 你需要找一些食物。</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskGetTape</Key>
+      <Value>寻找一些{THING:ItemDuctTape}</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskGetFood</Key>
+      <Value>寻找{THING:ItemCerealBar}</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage1</Key>
+      <Value>应急指南</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage1Page1</Key>
+      <Value>第1/2页\n停止恐慌。\n\n如果你在阅读这个，说明你已经从这次疏散中存活下来了 - 恭喜你.  无论你所处的环境如何，你的首要任务是先检查你自身的身体状况以及周围的情况。  请确保太空服的完整性，这是至关重要的，因为没人会告诉你所处的环境如何，况且这能够保证你的空气供应。</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage1Page2</Key>
+      <Value>第2/2页 \n如果你在一个有补给箱的完整逃生舱附近, 你应该有了一些关键性的物资来帮助你等待救援。如果没有, 那就去找。  你一定要记下那些任何对你的生存起关键性作用的物资的位置或是直接收集起来，比如食物、电池、实用材料像胶带和便携式求生设备。\n</Value>
+    </Record>
+    <!-- Mission Stage: Aquire Raw Materials -->
+    <Record>
+      <Key>MarsTitleRawMaterials</Key>
+      <Value>乞讨，挖掘和偷窃</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage2</Key>
+      <Value>原材料</Value>
+    </Record>
+    <Record>
+      <Key>MarsDescRawMaterials</Key>
+      <Value>找到一种方法来生产制造所需的基本材料。</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskGetIronIngots</Key>
+      <Value>获取一个 {THING:ItemIronIngot}</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskGetCopperIngots</Key>
+      <Value>获取一个 {THING:ItemCopperIngot}</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskGetGoldIngots</Key>
+      <Value>获取一个{THING:ItemGoldIngot}</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage2Page1</Key>
+      <Value>第1/5页 \n乞讨，钻地或偷窃\n\n好消息是，我们的制造工具已经知晓所有配方，这些配方根据你的情况可能会派上用场。  坏消息是，这些配方都需要原材料。  根据你的情况，所需的这些原材料可能有好几种来源：</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage2Page2</Key>
+      <Value>第2/5页 \n拾荒\n\n如果你的飞船大部分还是完好的，你可能可以从中找到加工过的材料，不在那些制造设备里面就在附近的某个地方存储着。</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage2Page3</Key>
+      <Value>第3/5页 \n拆除\n\n如果你能找到或制造一个角磨机，你能够用它来拆除掉飞船的残骸。  回收器可以用来把它们分解成其组成材料混合物，然后再用离心机将它们分离出来，这样它们就可以被重新熔炼成可用的材料。</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage2Page4</Key>
+      <Value>第4/5页 \n挖掘\n\n所谓靠山吃山，靠水吃水，你要适应你所处的环境并利用它们所产生的资源，某些勘探飞船会配备基本的采矿设备。  如果你有幸找到一个矿产资源丰富的地方，那么这就是一个可独立发展的选择。</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage2Page5</Key>
+      <Value>第5/5页\n熔炼\n\n将原材料转化为精炼锭块制造物品的最直接的方式是使用电弧炉，记得为其提供一点电力。  如果你的资源有限，比如没有收集到很多材料，那这很可能会是你的第一笔投资。无论如何这都会是一个你基地必备的设备，能确保你能够可持续发展。</Value>
+    </Record>
+    <!-- Mission Stage: Setup Manufacturing -->
+    <Record>
+      <Key>MarsTitleSetupManufacturing</Key>
+      <Value>掌握生产方法</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage3</Key>
+      <Value>101 工厂</Value>
+    </Record>
+    <Record>
+      <Key>MarsDescSetupManufacturing</Key>
+      <Value>为了制造我们需要的一切, 我们应该从一个 {THING:ItemKitHydraulicPipeBender} 和一个 {THING:ItemKitElectronicsPrinter}。</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskManufactureHPB</Key>
+      <Value>制造 {THING:ItemKitHydraulicPipeBender}</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskManufactureEP</Key>
+      <Value>制造 {THING:ItemKitElectronicsPrinter}</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage3Page1</Key>
+      <Value>第1/5页\n制造物品 \n虽然救援工作很可能已经在进行，但他们可能还需要一段时间才能到达你那里。  延长你的存活时间是有很意义的。  你需要建立一些基本的基础制造设施。  自动车床是一个正常的出发点，这能让你建造更多的特定任务的制造设备。</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage3Page2</Key>
+      <Value>第2/5页 \n给人充电 \n\n希望到目前为止你已经获得了一些电池，还有充电的途径。  向一个网络供电的最简单方法是将电池放到区域电源控制单元里。  然而，为了提供熔炼和批量制造所需的电力，你需要一些更方便的东西。  解决这个问题的最佳方法取决于你当前的情况，有很多选择；</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage3Page3</Key>
+      <Value>第3/5页 \n固体燃料发电机 \n这将通过燃烧固体形式的碳氢化合物来发电。  该套件可以在电子打印机或装配机中制造。</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage3Page4</Key>
+      <Value>第4/5页 \n气体发电机 \n从氢/氧燃料混合物的燃烧过程中提取能量。  燃料完全燃烧能产生更大的电力输出，但是你需要小心地控制所输入的燃料量，并尽量使用变压器来限制电力输出，否则你会受到电缆过载的困扰。</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage3Page5</Key>
+      <Value>第5/5页 \n太阳能电池板 \n太阳能电池板。  安放后，你还需要用一块玻璃板来完成建造 - 但一旦完成，它将在整个白天产生电力，不多，但够用。  你可以用你的扳手调整垂直和水平的角度来尝试让它对着太阳，但从长远来看，你可能会想用一些逻辑电路加上日光传感器来实现太阳能电池板的太阳追踪。</Value>
+    </Record>
+    <!-- Mission Stage: Food Supply -->
+    <Record>
+      <Key>MarsTitleFoodSupply</Key>
+      <Value>可靠的食物来源</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage4</Key>
+      <Value>种植入门</Value>
+    </Record>
+    <Record>
+      <Key>MarsDescFoodSupply</Key>
+      <Value>我们不知道你需要在这里生存多久。 我们应该准备一种可再生的食物来源以防万一。</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskPrepareAtmos</Key>
+      <Value>创建一个加压的房间, 其空气足以种植土豆。</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskGrowPotato</Key>
+      <Value>培育{THING:ItemPotato}到成熟。</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage4Page1</Key>
+      <Value>第1/2页 \n园艺新手\n要能种植作物的最基本要求就是要有一个水培托盘或是便携式水培盆。  这将需要水源供应，并放置在至少约20kpa，20-25摄氏度，并且含有少量二氧化碳的大气环境中。</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage4Page2</Key>
+      <Value>第2/2页\n万事开头难，最难的部分就是获得种子。  每一个逃生舱都有一个物资供给箱，里面有一定数量的种子让你开始种植——如何保护这些种子就变得很重要了。  如果你是从逃生舱中分离出来的，并且能找到一个追踪记忆卡，你可以用它来追踪逃生舱的信标。</Value>
+    </Record>
+    <!-- Mission Stage: Spawn Mothership & Engine -->
+    <Record>
+      <Key>MarsTitleCreateRocket</Key>
+      <Value>建造一艘火箭</Value>
+    </Record>
+    <Record>
+      <Key>MarsDescCreateRocket</Key>
+      <Value>通过制作一个 {THING:StructureLaunchPad} 并将所需的模块附加到它上面来建造一个火箭。</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskBuildLaunchPad</Key>
+      <Value>建造火箭发射台</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskBuildEngine</Key>
+      <Value>建造火箭引擎</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskBuildFuelTank</Key>
+      <Value>建造火箭燃料箱</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskBuildCommand</Key>
+      <Value>构建火箭指挥舱</Value>
+    </Record>
+    <Record>
+      <Key>MarsTitleLaunchRocket</Key>
+      <Value>发射火箭</Value>
+    </Record>
+    <Record>
+      <Key>MarsDescLaunchRocket</Key>
+      <Value>在为你新建造的火箭添加燃料后，你终于可以返回文明社会了。</Value>
+    </Record>
+    <Record>
+      <Key>MarsTaskLaunchMothership</Key>
+      <Value>发射火箭</Value>
+    </Record>
+  </Interface>
+</Language>

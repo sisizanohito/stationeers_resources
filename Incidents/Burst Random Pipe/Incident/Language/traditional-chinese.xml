@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Traditional Chinese</Name>
+  <Code>TW</Code>
+  <Font>font_cjk</Font>
+  <Interface>
+    <Record>
+      <Key>Incident_BrokenPipe_Title</Key>
+      <Value>損壞管線</Value>
+    </Record>
+    <Record>
+      <Key>Incident_BrokenPipe</Key>
+      <Value>警告，管道壓力增加將會增加。</Value>
+    </Record>
+  </Interface>
+</Language>

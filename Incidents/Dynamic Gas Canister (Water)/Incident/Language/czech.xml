@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Czech</Name>
+  <Code>CS</Code>
+  <Font>font_russian</Font>
+  <Interface>
+    <Record>
+      <Key>Incident_Supply_Dynamic_Canister_Fuel_Title</Key>
+      <Value>Dynamický kanystr na plyn (palivo)</Value>
+    </Record>
+    <Record>
+      <Key>Incident_Supply_Dynamic_Canister_Fuel</Key>
+      <Value>Satelity naznačují, že kanystr spadl poblíž, váš maják by vám měl ukázat cestu.</Value>
+    </Record>
+  </Interface>
+</Language>

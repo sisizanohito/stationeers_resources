@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Russian</Name>
+  <Code>RU</Code>
+  <Font>font_russian</Font>
+  <Interface>
+    <Record>
+      <Key>TutorialTitleWearSpacesuit</Key>
+      <Value>Надеваем скафандр</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskWearHelmet</Key>
+      <Value>Наденьте {THING:ItemSpaceHelmet}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskWearSuit</Key>
+      <Value>Наденьте {THING:ItemEvaSuit}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskWearJetpack</Key>
+      <Value>Наденьте {THING:ItemSpacepack}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescPickupHelmet</Key>
+      <Value>Найдите {THING:ItemSpaceHelmet} и положите его в {SLOT:LeftHand} или в {SLOT:RightHand}, кликая {KEY:PrimaryAction} на зеленую область, которая появляется, когда вы смотрите на предмет. Чтобы получить больше информации, прочитайте {LINK:InventoryPage;Inventory} в {LINK:Home;Stationpedia}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescWearHelmet</Key>
+      <Value>У вас есть два способа взаимодействия с вашим {LINK:InventoryPage;инвентарём}: горячие клавиши и мышь. Оба метода имеют свои преимущества и недостатки.
+      
+Нажмите и удерживайте {KEY:MouseControl} чтобы вызвать курсор мыши и с его помощью перетащите {THING:ItemSpaceHelmet} в ваш слот {SLOT:Helmet}. Или нажмите и держите {KEY:HelmetSlot} до тех пор пока {THING:ItemSpaceHelmet} не переместится в слот {SLOT:Helmet}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescPickupSuit</Key>
+      <Value>Найдите {THING:ItemEvaSuit} и положите в {SLOT:LeftHand} или {SLOT:RightHand}. В этот раз можете попробовать перетащить {THING:ItemEvaSuit} прямо в ваш {SLOT:Suit} слот, это намного быстрей. Удерживаете {KEY:MouseControl} и перетаскиваете курсор мыши на{THING:ItemEvaSuit}, удерживаете {KEY:PrimaryAction} и перетаскиваете в {SLOT:Suit}.
+      </Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescWearSuit</Key>
+      <Value>Удерживайте кнопку {KEY:SuitSlot}, чтобы экипировать {THING:ItemEvaSuit} в нужный слот.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescPickupJetpack</Key>
+      <Value>Найдите {THING:ItemSpacepack} и возьмите его в {SLOT:LeftHand} или {SLOT:RightHand}, щелкнув {KEY:PrimaryAction} над зеленым интерактивным элементом, когда смотрите на него.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescWearJetpack</Key>
+      <Value>Удерживайте кнопку {KEY:BackSlot}, чтобы экипировать {THING:ItemSpacepack} в нужный слот.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTitlePowerSuit</Key>
+      <Value>Запитываем скафандр</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescPowerSuit</Key>
+      <Value>Найдите {THING:ItemBatteryCellLarge} и возьмите ее в {SLOT:LeftHand} или {SLOT:RightHand}, смотря на нее нажмите {KEY:PrimaryAction}. Вы можете перетащить {THING:ItemBatteryCellLarge} в {THING:ItemEvaSuit}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescPowerSuit2</Key>
+      <Value>Откройте {THING:ItemEvaSuit}, нажав клавишу {KEY:SuitSlot} или удерживая {KEY:MouseControl}, и щелкните на слоте {SLOT:Suit}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskLifesupportSuit1</Key>
+      <Value>Возьмите высокоёмкий аккумулятор</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskLifesupportSuit2</Key>
+      <Value>Откройте окно содержимого скафандра</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskLifesupportSuit4</Key>
+      <Value>Поместите аккумулятор в выделенную ячейку</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescLifesupport1</Key>
+      <Value>Вы можете взаимодействовать со {SLOT:Suit}, однократно нажимая на кнопку {KEY:SuitSlot} или удерживая {KEY:MouseControl} и щёлкая на слот {SLOT:Suit}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescLifesupport2</Key>
+      <Value>{COLORRED:Вам нужно надеть {THING:ItemEvaSuit}, чтобы продолжить. Пожалуйста, наденьте его.}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescLifesupport4</Key>
+      <Value>Нажмите {KEY:InventorySelect}, когда аккумулятор находится в вашей активной руке, чтобы поместить его в ячейку жизнеобеспечения. Вы можете нажать кнопку {KEY:SwapHands}, чтобы поменять активную руку.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTitleSuitFilter</Key>
+      <Value>Устанавливаем фильтр</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescFilter1</Key>
+      <Value>Найдите {THING:ItemGasFilterCarbonDioxide} и возьмите его в {SLOT:LeftHand} или {SLOT:RightHand}, взглянув на него нажмите {KEY:PrimaryAction}. Вы можете просто перетащить {THING:ItemGasFilterCarbonDioxide} с земли в {THING:ItemEvaSuit}. Этот фильтр удаляет {GAS:CarbonDioxide} из вашего {THING:ItemEvaSuit} в балон с отходами.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskFilter1</Key>
+      <Value>Возьмите {THING:ItemGasFilterCarbonDioxide}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskFilter2</Key>
+      <Value>Откройте окно содержимого скафандра</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskFilter4</Key>
+      <Value>Поместите {THING:ItemGasFilterCarbonDioxide} в выделенную ячейку {THING:ItemEvaSuit}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescFilter2</Key>
+      <Value>Вы можете взаимодействовать со {SLOT:Suit}, однократно нажимая на кнопку {KEY:SuitSlot} или удерживая {KEY:MouseControl} и щёлкая на слот {SLOT:Suit}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescFilter3</Key>
+      <Value>Вы можете выбирать ячейки в инвентаре скафандра используя {COLORRED:колесо мыши}. Выберите ячейку для фильтра, чтобы продолжить.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescFilter4</Key>
+      <Value>Нажмите {KEY:InventorySelect}, когда фильтр находится в вашей активной руке, чтобы поместить его в ячейку для фильтра. Вы можете нажать кнопку {KEY:SwapHands}, чтобы поменять активную руку.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTitleGetTools</Key>
+      <Value>Собираем стрительную экипировку</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescGetTools1</Key>
+      <Value>Сейчас нам нужно выйти за пределы станции, чтобы сделать ремонт. Бросьте что-нибудь из ваших рук, используя клавишу {KEY:Drop}, тогда мы сможем поднять другие предметы. Помните, что можно использовать {KEY:MouseControl}, чтобы включить мышь для управления {LINK:InventoryPage;inventory}, еще вы можете изменить {COLORYELLOW:Active Hand}, нажав клавишу {KEYS:SwapHands}.
+
+Управление {LINK:InventoryPage;inventory} требует практики; тщательно продумывайте, что вы берете с собой. Забыть заполненный {THING:ItemGasCanisterOxygen} или {THING:ItemBatteryCellLarge} может быть смертельно опасно. Также легко потеряться. Будьте осторожены!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescGetTools2</Key>
+      <Value>Подберите {THING:ItemToolBelt} и назначьте его в слот {SLOT:Belt}, удерживая клавишу {KEY:ToolBeltSlot}, или перетащите его в слот, нажимая и удерживая {KEY:MouseControl}. Ваш слот {SLOT: Belt} позволяет вам носить пояса, которые могут содержать добычу руды и другие инструменты.
+      
+{THING:ItemMiningBelt} имеет специализированные слоты {LINK:OrePage;Ore}, которые автоматически заполняются рудой, при использовании {THING:ItemMiningDrill}. Узнайте больше о {LINK:MiningPage;Mining}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskGetTools1</Key>
+      <Value>Бросьте {THING:ItemTablet}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskGetTools2</Key>
+      <Value>Наденьте {THING:ItemToolBelt} в слот для пояса</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskGetTools3</Key>
+      <Value>Возьмите {THING:ItemSteelSheets} в {SLOT:LeftHand} или {SLOT:RightHand} слот</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTitleGoInAirlock</Key>
+      <Value>Отправляемся в космос</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescGoInAirlock1</Key>
+      <Value>Пройдите через {THING:StructureAirlock} и убедитесь, что ваш {THING:ItemEvaSuit} и {THING:ItemSpaceHelmet} надеты. Нажимайте {KEY:HelmetSlot} пока вы не увидите меню доступных действий, прокрутите на опцию &quot;Закрыть&quot; и нажмите {KEY:InventorySelect} чтобы опустить забрало.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskGoInAirlock1</Key>
+      <Value>Закройте забрало шлема</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskGoInAirlock2</Key>
+      <Value>Пройдите через {THING:StructureAirlock} в желтую комнату</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTitleCycleAirlock</Key>
+      <Value>Разгерметизируйте шлюз</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescCycleAirlock1</Key>
+      <Value>Вы можете разгерметизировать/загерметизировать шлюз используя {THING:StructureConsole} или панель с клавишами на любой из дверей шлюза. После разгерметизации вы сможете выйти в космос.
+
+{THING:CircuitboardAirlockControl} в консоли управляет активными вентиляциями и другими устройствами, чтобы разгерметизировать шлюз.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskCycleAirlock1</Key>
+      <Value>Разгерметизируйте шлюз</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTitleRepairCable</Key>
+      <Value>Замените сгоревший кабель</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescRepairCable1</Key>
+      <Value>{THING:StructureCableStraight} может передавать как {COLORYELLOW:Data}, так и {COLORYELLOW:Power}, но он сгорит, если через него будет подано больше энергии, чем рассчитано. Где-то под {THING:StructureAirlock}, из которого вы только что вышли, есть поврежденный {THING:StructureCableJunction}, найдите его и заменте, используя {THING:ItemWireCutters} из вашего {THING:ItemToolBelt}.
+      
+Помните, что есть два способа взаимодействия с вашим {LINK: InventoryPage; инвентарь}. Вы можете нажать и удерживать {KEY: MouseControl}, чтобы включить курсор мыши, а затем перетащить или открыть объекты мышью. Для быстрого управления нажмите {KEY: ToolBeltSlot}, чтобы открыть слот {SLOT: Belt}. Нажмите {KEY: InventorySelect}, чтобы поменять выделенный элемент внутреннего слота и предмет в своих руках.
+
+Если у вас слишком много открытых окон, вы можете закрыть их все сразу, используя {KEY: HideAllWindows}, вы можете переключать отдельное окно с помощью горячей клавиши слота или можено щелкнуть на сам слот, пока мышь включена с помощью { KEY: MouseControl}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskRepairCable1</Key>
+      <Value>Возьмите {THING:ItemWireCutters}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskRepairCable2</Key>
+      <Value>Обрежьте {THING:StructureCableJunctionBurnt}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskRepairCable3</Key>
+      <Value>Возьмите {THING:ItemCableCoil}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskRepairCable4</Key>
+      <Value>Замените обрезанный кабель на новый, используя {THING:ItemCableCoil}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescRepairCable2</Key>
+      <Value>Посмотрите на {THING:StructureCableJunctionBurnt}, держа {THING:ItemWireCutters} в вашей активной руке. Вы увидите {COLORYELLOW:желтый} прямоугольник вокруг него. Нажмите и держите {KEY:PrimaryAction}, чтобы срезать {THING:StructureCableJunctionBurnt}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescRepairCable3</Key>
+      <Value>Теперь вам нужно установить 3-конечный кабель. Положите {THING:ItemCableCoil} в вашу правую руку из вашего пояса. Помните, что клавиша {KEY:InventorySelect} позволяет взаимодействовать с ячейками и доступными действиями предмета. Клавиша {KEY:ToolBeltSlot} позволяет вам открывать и закрывать окно содержимого пояса.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescRepairCable4</Key>
+      <Value>С {THING:ItemCableCoil} в вашей {COLORYELLOW:Active Hand} нажмите {KEY:SecondaryAction}, чтобы вызвать курсор {LINK:ConstructionPage;construction}.
+
+Используйте {COLORRED:колесо мыши}, чтобы сменить вид кабеля, выбрав вариант {THING:StructureCableJunction}.
+
+План размещения содержит важную информацию о подключении, маленькие плюсики указывают, что элемент подключается к существующей кабельной сети. Убедитесь, что ваши линии соединяютя верно.
+
+Нажмите {KEY:QuantityModifier}, и объект попытается установить наилучшее соединение, также вы можете использовать пользовательские клавиши поворота.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTitleFinishFrame</Key>
+      <Value>Завершите сварку каркаса</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescFinishFrame</Key>
+      <Value>Для некоторых действий требуется наличие предметов в обеих руках. Чтобы сварить {THING:StructureFrame} в вашей активной руке должна быть {THING:ItemWeldingTorch}, и {THING:ItemSteelSheets} должен быть в другой руке. Клавиша быстрого влючения, {KEY:ToggleHandPower}, автоматически включает/выключает питание любого предмета в вашей активной руке, так же вы можете сделать это через меню взаимодействий.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskFinishFrame1</Key>
+      <Value>Сварите {THING:StructureFrame}, чтобы завершить обучение</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTitleTablet</Key>
+      <Value>Взаимодействие с предметами в руках</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescTablet1</Key>
+      <Value>Возьмите {THING:ItemTablet} и {THING:ItemBatteryCellLarge} в свою {SLOT:LeftHand} или {SLOT:RightHand}, гляньте на них и нажмите {KEY:PrimaryAction}. Вы можете переключить активную руку, нажав клавишу {KEY:SwapHands}. Это позволит вам положить один предмет в каждую руку. Сделайте это для продолжения обучения.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescTablet2</Key>
+      <Value>Вы можете взаимодействовать с предметом в вашей активной руке, нажав {KEY:ActiveHandSlot} или щелкнув по ней. Откроется окно {LINK:InventoryPage;inventory} для текущей руки. Вы можете поменять свою активную руку с помощью клавиши {KEY:SwapHands}. Выберите {THING:ItemTablet} в качестве активной руки и откройте меню содержимого планшета, чтобы продолжить обучение.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescTablet4</Key>
+      <Value>Теперь поменяйте свою активную руку при помощи клавиши {KEY:SwapHands}, так чтобы {THING:ItemBatteryCellLarge} оказался в вашей активной руке. Меню содержимого планшета должно быть открыто в одной руке, и рука с аккумулятором должна быть выбрана как активная рука. Затем нажмите клавишу {KEY:InventorySelect}, чтобы установить аккумулятор в ячейку для батареи.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskTablet1</Key>
+      <Value>Возьмите {THING:ItemTablet}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskTablet2</Key>
+      <Value>Возьмите {THING:ItemBatteryCellLarge}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskTablet3</Key>
+      <Value>Откройте меню содержимого планшета</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskTablet5</Key>
+      <Value>Установите {THING:ItemBatteryCellLarge} в {THING:ItemTablet}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTitleUseReader</Key>
+      <Value>Использование электронного справочника</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescUseReader1</Key>
+      <Value>В {THING:ItemTablet} можно установить различные картриджи, для выполнения различных задач. Включите {THING:ItemTablet} при помощи клавиши {KEY:ToggleHandPower} или через меню взаимодействий при помощи клавиши {KEY:ActiveHandSlot}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescUseReader2</Key>
+      <Value>В {THING:ItemTablet} вставлен {THING:CartridgeElectronicReader}. Он показывает рецепты для всех предметов в игре и устройство, на котором можно произвести этот предмет. Найдите {COLORYELLOW:рецепт #VAR1#}, который подскажет вам как пригтовить {THING:ItemMuffin} используя {COLORRED:колесо мыши} для переключения между рецептами.
+
+Используя различные картриджи вы получите доступ ко многим полезным функциям, например {THING:CartridgeNetworkAnalyser} позволит вам просматривать состояние ваших проводных сетей, а {THING:CartridgeAtmosAnalyser} покажет вам информацию об атмосфере в предметах, трубах и окружающей среде.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskUseReader1</Key>
+      <Value>Включите {THING:ItemTablet}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskUseReader2</Key>
+      <Value>Найдите {COLORYELLOW:рецепт #VAR1#}, чтобы сделать {THING:ItemMuffin}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTitleBakeMuffin</Key>
+      <Value>Испеките {THING:ItemMuffin}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescBakeMuffin1</Key>
+      <Value>Некоторые устройства должны быть установлены на {THING:StructureBench}, чтобы они могли работать. Подберите {THING:ApplianceMicrowave} и подойдите к {THING:StructureBench}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescBakeMuffin2</Key>
+      <Value>Нажмите клавишу {KEY:Drop}, чтобы бросить микроволновку на {THING:StructureBench}. Пробуйте сделать это пока {THING:ApplianceMicrowave} не окажется на столе.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescBakeMuffin3</Key>
+      <Value>Держа в руках разводной ключ посмотрите на микроволновку. Смотрите на боковую сторону, а не на дверь, чтобы убедиться что вы прицелились непосредственно в микроволновку, а не пытаетесь открыть её. Когда вы увидите {COLORYELLOW:желтый куб} зажмите {COLORRED:левую кнопку мыши}, чтобы установить микроволновку на {THING:StructureBench}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescBakeMuffin4</Key>
+      <Value>Посмотрите на дверцу {THING:ApplianceMicrowave}. Нажмите {KEY:PrimaryAction}, чтобы открыть дверь и положить ингредиенты внутрь.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescBakeMuffin5</Key>
+      <Value>Подберите необходимые ингредиенты из списка и посмотрите внутрь {THING:ApplianceMicrowave} с ними в активной руке. Можно нажать {KEY:PrimaryAction} несколько раз, чтобы добавить больше, пока не будет достаточно. Не добавляйте больше чем указано в рецепте. Вам нужно сделать это дважды для некоторых блюд.
+      
+Если вы добавили слишком много, бросьте то, что вы держите прямо сейчас, нажимая {KEY:Drop}, и потом посмотрите в {THING:ApplianceMicrowave} с открытой дверцей, чтобы можно было совершить действие &quot;{COLORYELLOW:Очистить}&quot;, чтобы начать готовить снова.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescBakeMuffin6</Key>
+      <Value>Теперь включите микроволновку, нажав кнопку на ней. Устройство начнет готовить по вашему рецепту. Если рецепт верен, то у вас получится {THING:ItemMuffin}. Если вы ошиблись, микроволновка будет пустой.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDescBakeMuffin7</Key>
+      <Value>Откройте ваш {THING:ItemSpacepack}, нажав на клавишу {KEY:BackSlot}. Выделите ячейку с разводным ключом, используя {COLORRED:колесо мыши} и нажав клавишу {KEY:InventorySelect}, чтобы взять его в руку.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskBakeMuffin1</Key>
+      <Value>Возьмите {THING:ApplianceMicrowave}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskBakeMuffin2</Key>
+      <Value>Положите её на {THING:StructureBench}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskBakeMuffin3</Key>
+      <Value>Прикрутите {THING:ApplianceMicrowave} разводным ключом</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskBakeMuffin11</Key>
+      <Value>Возьмите {THING:ItemWrench} из ранца</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskBakeMuffin4</Key>
+      <Value>Добавьте {COLORYELLOW:50 г} муки в микроволновку</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskBakeMuffin5</Key>
+      <Value>Добавьте {COLORYELLOW:одно} {THING:ItemEgg} в микроволновку</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskBakeMuffin6</Key>
+      <Value>Добавьте {COLORYELLOW:10мл} {THING:ItemMilk} в микроволновку</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskBakeMuffin7</Key>
+      <Value>Откройте {THING:ApplianceMicrowave}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskBakeMuffin8</Key>
+      <Value>Испеките {THING:ItemMuffin}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskBakeMuffin9</Key>
+      <Value>Закройте дверцу {THING:ApplianceMicrowave}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTaskBakeMuffin10</Key>
+      <Value>Включите {THING:ApplianceMicrowave}</Value>
+    </Record>
+  </Interface>
+</Language>
