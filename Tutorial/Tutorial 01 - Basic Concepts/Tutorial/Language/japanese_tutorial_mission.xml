@@ -7,6 +7,10 @@
       <Value>エアロックに入る</Value>
     </Record>
     <Record>
+      <Key>ControlMovementDisc</Key>
+      <Value>移動</Value>
+    </Record>
+    <Record>
       <Key>EnterAreaT1</Key>
       <Value>エアロックに入る</Value>
     </Record>
