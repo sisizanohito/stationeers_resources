@@ -6311,6 +6311,10 @@
       <Value>エウロパ</Value>
     </Record>
     <Record>
+      <Key>NewWorldAreaMimas</Key>
+      <Value>ミマス</Value>
+    </Record>
+    <Record>
       <Key>SettingsTitleAudioAlerts</Key>
       <Value>音声通知</Value>
     </Record>
