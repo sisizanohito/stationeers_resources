@@ -4286,14 +4286,6 @@
       <Key>ItemKitHorizontalAutoMiner</Key>
       <Value>Motor de Foguete</Value>
     </RecordThing>
-    <RecordThing>
-      <Key>ItemKitInteriorDoors</Key>
-      <Value>Kit (Porta Blindada)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemKitPowerTransmitterOmni</Key>
-      <Value>Kit (Transmissor lógico)</Value>
-    </RecordThing>
   </Things>
   <Slots>
     <Record>

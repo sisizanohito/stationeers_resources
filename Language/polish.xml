@@ -3811,14 +3811,6 @@
       <Key>ItemKitHorizontalAutoMiner</Key>
       <Value>Silnik Rakietowy (Duzy)</Value>
     </RecordThing>
-    <RecordThing>
-      <Key>ItemKitInteriorDoors</Key>
-      <Value>Zestaw (Drzwi Pancerne)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemKitPowerTransmitterOmni</Key>
-      <Value>Zestaw (Logic Unit)</Value>
-    </RecordThing>
   </Things>
   <Slots>
     <Record>

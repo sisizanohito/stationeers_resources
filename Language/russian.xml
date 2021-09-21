@@ -5313,7 +5313,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureUnpoweredHatch</Key>
-      <Value>Исследовательская машина</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPowerTransmitterOmni</Key>

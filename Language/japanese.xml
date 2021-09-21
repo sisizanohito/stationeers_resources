@@ -4285,11 +4285,11 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitInteriorDoors</Key>
-      <Value>キット (対爆ドア)</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPowerTransmitterOmni</Key>
-      <Value>キット (ロジックトランスミッター)</Value>
+      <Value/>
     </RecordThing>
   </Things>
   <Slots>
