@@ -4551,15 +4551,15 @@
     </Record>
     <Record>
       <Key>LiquidCanister</Key>
-      <Value>ダートキャニスター</Value>
+      <Value>液体キャニスター</Value>
     </Record>
     <Record>
       <Key>HandSlot</Key>
-      <Value>左手</Value>
+      <Value>手</Value>
     </Record>
     <Record>
       <Key>BottleSlot</Key>
-      <Value>携帯スロット</Value>
+      <Value>水筒スロット</Value>
     </Record>
   </Slots>
   <Interactables>
@@ -7008,7 +7008,7 @@
     </Record>
     <Record>
       <Key>AtmopshericsCategoryKey</Key>
-      <Value>大気</Value>
+      <Value>空調</Value>
     </Record>
     <Record>
       <Key>ConstructionKitsCategoryKey</Key>
@@ -7020,11 +7020,11 @@
     </Record>
     <Record>
       <Key>StationpediaTitle</Key>
-      <Value>Stationeers</Value>
+      <Value>ステーションペディア</Value>
     </Record>
     <Record>
       <Key>StationpediaSearch</Key>
-      <Value>研究</Value>
+      <Value>検索</Value>
     </Record>
     <Record>
       <Key>StationpediaConstructWith</Key>
@@ -7044,7 +7044,7 @@
     </Record>
     <Record>
       <Key>StationpediaBuildStates</Key>
-      <Value>Stationeersを終了</Value>
+      <Value>建造状況</Value>
     </Record>
     <Record>
       <Key>StationpediaMachineVersion</Key>
@@ -7052,7 +7052,7 @@
     </Record>
     <Record>
       <Key>StationpediaFoundIn</Key>
-      <Value>サウンドFX</Value>
+      <Value>見つかりました</Value>
     </Record>
     <Record>
       <Key>StationpediaConstructionOptions</Key>

@@ -8,7 +8,7 @@
     </Record>
     <Record>
       <Key>TheResearchMachine1</Key>
-      <Value>赤い {THING:DynamicCrate} から {THING:ItemKitResearchMachine} を取り出す。</Value>
+      <Value>赤い {THING:DynamicCrate} から {THING:ItemKitResearchMachine} を拾う。</Value>
     </Record>
     <Record>
       <Key>TheResearchMachine2</Key>

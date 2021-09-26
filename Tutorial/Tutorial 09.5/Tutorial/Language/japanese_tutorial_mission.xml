@@ -20,7 +20,7 @@
     </Record>
     <Record>
       <Key>RocketEnginesTask1</Key>
-      <Value>クレートから {THING:ItemKitCompositeFloorGrating} を取り出す。</Value>
+      <Value>左の荷箱から {THING:ItemKitStructureModularRocketEngine01} を拾う。</Value>
     </Record>
     <Record>
       <Key>RocketEnginesTask2</Key>
@@ -40,7 +40,7 @@
     </Record>
     <Record>
       <Key>FuelTanksTask1</Key>
-      <Value>クレートから {THING:ItemKitSensor} を取り出す。</Value>
+      <Value>左の荷箱から {THING:ItemKitStructureModularRocketFueltank01} を拾う。</Value>
     </Record>
     <Record>
       <Key>FuelTanksTask2</Key>
@@ -60,7 +60,7 @@
     </Record>
     <Record>
       <Key>CargoModuleTask1</Key>
-      <Value>クレートから {THING:ItemLabeller} を取り出す。</Value>
+      <Value>左手の荷箱から {THING:ItemKitStructureModularRocketCargo01} を拾う</Value>
     </Record>
     <Record>
       <Key>CargoModuleTask2</Key>
@@ -80,7 +80,7 @@
     </Record>
     <Record>
       <Key>CommandModTask1</Key>
-      <Value>クレートから {THING:ItemLabeller} を取り出す。</Value>
+      <Value>左の白い荷箱から {THING:ItemKitStructureModularRocketCommand01} を拾う</Value>
     </Record>
     <Record>
       <Key>CommandModTask2</Key>

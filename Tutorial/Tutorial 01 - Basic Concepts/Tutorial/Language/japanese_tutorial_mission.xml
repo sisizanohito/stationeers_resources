@@ -40,7 +40,7 @@
     </Record>
     <Record>
       <Key>GettingHelpClose</Key>
-      <Value>{THING:StructureFrame}を溶接する</Value>
+      <Value>ステーションペディアを閉じる</Value>
     </Record>
     <Record>
       <Key>NarrationClose</Key>

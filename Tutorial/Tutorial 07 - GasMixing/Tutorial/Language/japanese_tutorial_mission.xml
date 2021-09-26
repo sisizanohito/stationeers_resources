@@ -76,7 +76,7 @@
     </Record>
     <Record>
       <Key>7GetTankConnector</Key>
-      <Value>{THING:ItemIronSheets} を拾う。</Value>
+      <Value>荷箱からタンク格納容器を取る</Value>
     </Record>
     <Record>
       <Key>7BuildTankConnector</Key>
