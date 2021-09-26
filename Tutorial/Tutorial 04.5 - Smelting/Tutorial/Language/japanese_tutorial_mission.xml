@@ -4,7 +4,7 @@
   <Interface>
     <Record>
       <Key>4.5GetFurnace</Key>
-      <Value>{THING:ItemIronSheets} を拾う。</Value>
+      <Value>クレートから炉キットを取る</Value>
     </Record>
     <Record>
       <Key>4.5BuildFurnace</Key>
@@ -20,11 +20,11 @@
     </Record>
     <Record>
       <Key>4.5PickUpPipe</Key>
-      <Value>{THING:ItemIronSheets} を拾う。</Value>
+      <Value>クレートからパイプを取る</Value>
     </Record>
     <Record>
       <Key>4.5PickUpPassiveVent</Key>
-      <Value>{THING:ItemIronSheets} を拾う。</Value>
+      <Value>クレートからパッシブベントを取る</Value>
     </Record>
     <Record>
       <Key>4.5BuildPassiveVent</Key>
@@ -44,7 +44,7 @@
     </Record>
     <Record>
       <Key>4.5PickUpMiningBelt</Key>
-      <Value>オレンジ色のクレートから {THING:ItemGoldIngot} を取り出す。</Value>
+      <Value>クレートから採掘用ベルトを取る</Value>
     </Record>
     <Record>
       <Key>4.5EquiptMiningbelt</Key>

@@ -10,9 +10,7 @@
     <StationpediaPage>
       <Key>ClothingPage</Key>
       <Title>衣服</Title>
-      <Text>衣服スロットに入れることで着用できるアイテムです。
-      
-{HEADER:衣服のリスト}
+      <Text>スロットに入れることで着用できるアイテムです。
 {LIST_OF_CLOTHING}
       </Text>
     </StationpediaPage>
