@@ -21,7 +21,7 @@
     </Record>
     <Record>
       <Key>6GetGrowLight</Key>
-      <Value>{THING:ItemIronSheets} を拾う。</Value>
+      <Value>荷箱から植生用ライトを取る</Value>
     </Record>
     <Record>
       <Key>6BuildGrowLight</Key>
@@ -33,7 +33,7 @@
     </Record>
     <Record>
       <Key>6GetWheat</Key>
-      <Value>{THING:ItemIronSheets} を拾う。</Value>
+      <Value>荷箱から小麦の種を取る</Value>
     </Record>
     <Record>
       <Key>6BakeMuffin</Key>
@@ -57,7 +57,7 @@
     </Record>
     <Record>
       <Key>6GetWaterBottleFiller</Key>
-      <Value>{THING:ItemIronSheets} を拾う。</Value>
+      <Value>荷箱から水筒充填装置を取る</Value>
     </Record>
     <Record>
       <Key>6BuildWaterBottleFiller</Key>

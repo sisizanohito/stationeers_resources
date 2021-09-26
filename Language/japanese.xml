@@ -4249,8 +4249,20 @@
       <Value>複合材ドア</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureGrowLight</Key>
+      <Value>植生用ライト</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitPipeLiquid</Key>
       <Value>キット (液体パイプ)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWaterBottleFiller</Key>
+      <Value>水筒充填装置</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureWaterBottleFiller</Key>
+      <Value>水筒充填装置</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureRocketModuleMiningJunk</Key>
@@ -4258,6 +4270,10 @@
     <RecordThing>
       <Key>ItemKitFridgeBig</Key>
       <Value>キット (モジュラーロケットカーゴ)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>SeedBag_Wheet</Key>
+      <Value>小麦の種</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAdvancedComposter</Key>
@@ -5019,7 +5035,7 @@
     </Record>
     <Record>
       <Key>KitCategory</Key>
-      <Value>建造物</Value>
+      <Value>建造物キット</Value>
     </Record>
     <Record>
       <Key>PersonalSuits</Key>
@@ -6068,7 +6084,7 @@
     </Record>
     <Record>
       <Key>SettingsHungerRate</Key>
-      <Value>空腹レート</Value>
+      <Value>満腹度/水分</Value>
     </Record>
     <Record>
       <Key>JoinWorldSortBy</Key>
@@ -7068,11 +7084,11 @@
     </Record>
     <Record>
       <Key>StationpediaNutrition</Key>
-      <Value>発火点:</Value>
+      <Value>栄養:</Value>
     </Record>
     <Record>
       <Key>SettingsSmoothTerrain</Key>
-      <Value>環境</Value>
+      <Value>滑らかな地形</Value>
     </Record>
   </Interface>
   <Colors>
