@@ -6988,15 +6988,15 @@
     </Record>
     <Record>
       <Key>HandToolsCategoryKey</Key>
-      <Value>ツール</Value>
+      <Value>手持ちツール</Value>
     </Record>
     <Record>
       <Key>OrganicsCategoryKey</Key>
-      <Value>オーガニック</Value>
+      <Value>有機物・食品</Value>
     </Record>
     <Record>
       <Key>LogicCategoryKey</Key>
-      <Value>デバイス無し</Value>
+      <Value>ロジックデバイス</Value>
     </Record>
     <Record>
       <Key>PowerCategoryKey</Key>
