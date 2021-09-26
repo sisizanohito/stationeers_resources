@@ -8,7 +8,7 @@
     </Record>
     <Record>
       <Key>3GetTablet</Key>
-      <Value>{THING:ItemIronSheets} を拾う。</Value>
+      <Value>クレートからタブレットを取る。</Value>
     </Record>
     <Record>
       <Key>3TabletOn</Key>
@@ -16,7 +16,7 @@
     </Record>
     <Record>
       <Key>3GetArcFurnaceKit</Key>
-      <Value>{THING:ItemIronSheets} を拾う。</Value>
+      <Value>クレートからアーク炉を取る。</Value>
     </Record>
     <Record>
       <Key>3BuildArcFurnaceTutorial</Key>
@@ -24,7 +24,7 @@
     </Record>
     <Record>
       <Key>3GetCopperIngot</Key>
-      <Value>オレンジ色のクレートから {THING:ItemCopperIngot} を取り出す。</Value>
+      <Value>クレートから銅インゴットを拾う。</Value>
     </Record>
     <Record>
       <Key>3GetGoldIngot</Key>

@@ -20,11 +20,11 @@
     </Record>
     <Record>
       <Key>2GetBatt</Key>
-      <Value>{THING:ItemIronSheets} を拾う。</Value>
+      <Value>クレートからバッテリーを取る</Value>
     </Record>
     <Record>
       <Key>2GetCoal</Key>
-      <Value>{THING:ItemIronSheets} を拾う。</Value>
+      <Value>クレートから石炭を取る</Value>
     </Record>
     <Record>
       <Key>2GettingHelpClose</Key>
@@ -32,11 +32,11 @@
     </Record>
     <Record>
       <Key>2GetCableHCoil</Key>
-      <Value>{THING:ItemIronSheets} を拾う。</Value>
+      <Value>クレートからヘビーケーブルを取る。</Value>
     </Record>
     <Record>
       <Key>2GetFrames</Key>
-      <Value>{THING:ItemIronSheets} を拾う。</Value>
+      <Value>クレートから鉄フレームを取る。</Value>
     </Record>
   </Interface>
 </Language>

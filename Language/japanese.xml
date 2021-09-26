@@ -428,7 +428,7 @@
     </Record>
     <Record>
       <Key>ForceFeed</Key>
-      <Value>開ける(強制)</Value>
+      <Value>給餌(強制)</Value>
     </Record>
   </Actions>
   <Things>
@@ -3254,7 +3254,7 @@
     </RecordThing>
     <RecordThing>
       <Key>MotherboardProgrammableChip</Key>
-      <Value>ICエディタ</Value>
+      <Value>ICエディタマザーボード</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLogicCircuit</Key>
@@ -4998,6 +4998,10 @@
     <Record>
       <Key>Button17</Key>
       <Value>ボタン17</Value>
+    </Record>
+    <Record>
+      <Key>ProgrammableChip</Key>
+      <Value>プログラマブルチップ</Value>
     </Record>
     <Record>
       <Key>Motherboard</Key>

@@ -31,7 +31,7 @@
     <!-- Mission Stage: Spawn Mothership & Engine -->
     <Record>
       <Key>MarsTitleCreateRocket</Key>
-      <Value>マザーシップの作成</Value>
+      <Value>ロケットの作成</Value>
     </Record>
   </Interface>
 </Language>
