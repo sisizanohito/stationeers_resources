@@ -4957,47 +4957,51 @@
     </Record>
     <Record>
       <Key>Button7</Key>
-      <Value>ボタン4</Value>
+      <Value>ボタン7</Value>
     </Record>
     <Record>
       <Key>Button8</Key>
-      <Value>ボタン4</Value>
+      <Value>ボタン8</Value>
     </Record>
     <Record>
       <Key>Button9</Key>
-      <Value>ボタン4</Value>
+      <Value>ボタン9</Value>
     </Record>
     <Record>
       <Key>Button10</Key>
-      <Value>ボタン1</Value>
+      <Value>ボタン10</Value>
     </Record>
     <Record>
       <Key>Button11</Key>
-      <Value>ボタン1</Value>
+      <Value>ボタン11</Value>
     </Record>
     <Record>
       <Key>Button12</Key>
-      <Value>ボタン1</Value>
+      <Value>ボタン12</Value>
     </Record>
     <Record>
       <Key>Button13</Key>
-      <Value>ボタン1</Value>
+      <Value>ボタン13</Value>
     </Record>
     <Record>
       <Key>Button14</Key>
-      <Value>ボタン1</Value>
+      <Value>ボタン14</Value>
     </Record>
     <Record>
       <Key>Button15</Key>
-      <Value>ボタン1</Value>
+      <Value>ボタン15</Value>
     </Record>
     <Record>
       <Key>Button16</Key>
-      <Value>ボタン1</Value>
+      <Value>ボタン16</Value>
     </Record>
     <Record>
       <Key>Button17</Key>
-      <Value>ボタン1</Value>
+      <Value>ボタン17</Value>
+    </Record>
+    <Record>
+      <Key>Motherboard</Key>
+      <Value>マザーボード</Value>
     </Record>
   </Interactables>
   <Interface>

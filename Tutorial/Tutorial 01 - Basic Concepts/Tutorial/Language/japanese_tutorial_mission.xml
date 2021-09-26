@@ -4,7 +4,7 @@
   <Interface>
     <Record>
       <Key>WelcomeRecuitDisc</Key>
-      <Value>エアロックに入る</Value>
+      <Value>訓練基地へ向かう。</Value>
     </Record>
     <Record>
       <Key>ControlMovementDisc</Key>
@@ -16,19 +16,19 @@
     </Record>
     <Record>
       <Key>PickUpT1</Key>
-      <Value>クレートから {THING:ItemLabeller} を取り出す。</Value>
+      <Value>クレートから溶接トーチを取り出す</Value>
     </Record>
     <Record>
       <Key>AltClickControlsDisc</Key>
-      <Value>手に持ったアイテムをインタラクトする</Value>
+      <Value>マウスでインタラクトする</Value>
     </Record>
     <Record>
       <Key>QuickSelectItemControlsDisc</Key>
-      <Value>手に持ったアイテムをインタラクトする</Value>
+      <Value>インベントリでインタラクトする</Value>
     </Record>
     <Record>
       <Key>DoubleClickingControlsDisc</Key>
-      <Value>手に持ったアイテムをインタラクトする</Value>
+      <Value>インベントリでインタラクトする</Value>
     </Record>
     <Record>
       <Key>PickUpT1 9</Key>
