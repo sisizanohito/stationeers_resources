@@ -3842,7 +3842,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemSensorProcessingUnitOreScanner</Key>
-      <Value>カードリッジ (鉱石スキャナー)</Value>
+      <Value>センサープロセッシングユニット(鉱石スキャナー)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureBatteryChargerSmall</Key>
@@ -4547,7 +4547,7 @@
     </Record>
     <Record>
       <Key>SensorProcessingUnit</Key>
-      <Value>処理中</Value>
+      <Value>センサープロセッシングユニット</Value>
     </Record>
     <Record>
       <Key>LiquidCanister</Key>
@@ -6384,7 +6384,7 @@
     </Record>
     <Record>
       <Key>ConnectionInput2</Key>
-      <Value>入力</Value>
+      <Value>入力2</Value>
     </Record>
     <Record>
       <Key>ConnectionOutput</Key>
@@ -6392,7 +6392,7 @@
     </Record>
     <Record>
       <Key>ConnectionOutput2</Key>
-      <Value>出力</Value>
+      <Value>出力2</Value>
     </Record>
     <Record>
       <Key>ConnectionWaste</Key>
@@ -6912,7 +6912,7 @@
     </Record>
     <Record>
       <Key>SettingsServerAdminPassword</Key>
-      <Value>サーバーパスワードが間違っています。</Value>
+      <Value>サーバー管理者パスワード</Value>
     </Record>
     <Record>
       <Key>ScoreboardPlayer</Key>
@@ -6924,7 +6924,7 @@
     </Record>
     <Record>
       <Key>TutorialCompleteNextTutorial</Key>
-      <Value>チュートリアル</Value>
+      <Value>次のチュートリアル</Value>
     </Record>
     <Record>
       <Key>SettingsMineableRenderDistance</Key>
@@ -6956,11 +6956,11 @@
     </Record>
     <Record>
       <Key>ControlMouseScrollDisc</Key>
-      <Value>シナリオを選択</Value>
+      <Value>アイテムを選択</Value>
     </Record>
     <Record>
       <Key>ControlSecondaryEatDisc</Key>
-      <Value>地球</Value>
+      <Value>食べる</Value>
     </Record>
     <Record>
       <Key>HelmetString</Key>
@@ -7016,7 +7016,7 @@
     </Record>
     <Record>
       <Key>PressureKeySPDA</Key>
-      <Value>タンク圧力</Value>
+      <Value>最大圧力:</Value>
     </Record>
     <Record>
       <Key>StationpediaTitle</Key>
@@ -7027,20 +7027,12 @@
       <Value>検索</Value>
     </Record>
     <Record>
-      <Key>StationpediaConstructWith</Key>
-      <Value>建造物</Value>
-    </Record>
-    <Record>
       <Key>StationpediaFlashpointHeader</Key>
       <Value>引火点:</Value>
     </Record>
     <Record>
       <Key>StationpediaAutoIgniteHeader</Key>
       <Value>発火点:</Value>
-    </Record>
-    <Record>
-      <Key>StationpediaConstructedFrom</Key>
-      <Value>建造物</Value>
     </Record>
     <Record>
       <Key>StationpediaBuildStates</Key>

@@ -44,7 +44,7 @@
     </Record>
     <Record>
       <Key>NarrationClose</Key>
-      <Value>{THING:StructureFrame}を溶接する</Value>
+      <Value>ナレーションパネルを閉じる</Value>
     </Record>
   </Interface>
 </Language>
