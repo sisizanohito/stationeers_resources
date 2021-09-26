@@ -8,7 +8,7 @@
     <String>{KEY:Jetpack}を押すことで{THING:ItemSpacepack}のオンオフが素早く行えます。</String>
     <String>{KEY:ToggleUI}を押すとユーザーインターフェースのオン/オフができ、スクリーンショットやビデオを撮れます。</String>
     <String>{THING:ItemSpacepack}がオンのとき、{KEY:Ascend}キーを押して上昇します。{KEY:Descend}を押すと下降します。</String>
-    <String>{THING:ItemSpacepack}が有効になっていれば{KEY:Descend}を押したとき下降します。{KEY:Jetpack}キーによって{THING:ItemSpacepack}のオンオフを切り替えられます。</String>
+    <String>{KEY:InventorySelect} を押すと、インベントリスロットとアクティブハンドの間で交換ができます。</String>
     <String>{KEY:Drop}キーを押して話すことで手に持ったアイテムをその場に捨てます。{KEY:Drop}キーを長押しすると、投げようとします。押し続ける時間が長いほど遠くに投げます。</String>
     <String>{KEY:Internals}を押すと素早く{THING:ItemSpaceHelmet}の開閉が出来ます。</String>
     <String>{KEY:Chatting}を押すと他のプレイヤーとチャットが出来ます。画面左下の小さな箱に送信するテキストを入力します。</String>
@@ -22,7 +22,7 @@
     <String>{THING:StructureRecycler}を使って不要になった材料を変換しましょう。出力された{THING:ItemReagentMix}を{THING:StructureCentrifuge}に入れることで{THING:StructureFurnace}に使える鉱石にまで戻せます。</String>
     <String>スーツが損傷するほど、機能の効率が落ちます。</String>
     <String>最初の{THING:ItemEvaSuit}や{THING:ItemSpaceHelmet}は高温環境下では炎上します。危険な環境では{THING:ItemHardSuit}を使いましょう。</String>
-    <String>最初の{THING:ItemEvaSuit}や{THING:ItemSpaceHelmet}は高温環境下では炎上します。危険な環境では{THING:ItemHardSuit}を使いましょう。</String>
+    <String>スーツの出す警告に注意すれば、災害を防ぐのに役立つでしょう。</String>
     <String>{THING:ItemHardBackpack}はより多くのものを運べます。君自身は運べないけどね！</String>
     <String>スーツが損傷するほど、機能の効率が落ちます。</String>
     <String>{THING:ItemHardBackpack}はより多くのものを運べます。君自身は運べないけどね！</String>
