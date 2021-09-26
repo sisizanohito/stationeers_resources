@@ -32,7 +32,7 @@
     </Record>
     <Record>
       <Key>7GetPipeRadiator</Key>
-      <Value>{THING:ItemIronSheets} を拾う。</Value>
+      <Value>荷箱からパイプ放熱器を取る</Value>
     </Record>
     <Record>
       <Key>7BuildPipeRadiator</Key>
@@ -40,7 +40,7 @@
     </Record>
     <Record>
       <Key>7GetIceCrusher</Key>
-      <Value>{THING:ItemIronSheets} を拾う。</Value>
+      <Value>荷箱から砕氷機を取る</Value>
     </Record>
     <Record>
       <Key>7BuildIceCrusher</Key>
@@ -48,11 +48,11 @@
     </Record>
     <Record>
       <Key>7GetMiningBelt</Key>
-      <Value>オレンジ色のクレートから {THING:ItemGoldIngot} を取り出す。</Value>
+      <Value>荷箱から採掘ベルトを取る</Value>
     </Record>
     <Record>
       <Key>7GetGasMixer</Key>
-      <Value>{THING:ItemIronSheets} を拾う。</Value>
+      <Value>荷箱から気体混合器を取る</Value>
     </Record>
     <Record>
       <Key>7BuildGasMixer</Key>
@@ -60,7 +60,7 @@
     </Record>
     <Record>
       <Key>7GetRegulator</Key>
-      <Value>{THING:ItemIronSheets} を拾う。</Value>
+      <Value>荷箱から圧力調整弁を取る</Value>
     </Record>
     <Record>
       <Key>7BuildRegulator</Key>
@@ -68,7 +68,7 @@
     </Record>
     <Record>
       <Key>7GetValve</Key>
-      <Value>{THING:ItemIronSheets} を拾う。</Value>
+      <Value>荷箱からパイプ弁を取る</Value>
     </Record>
     <Record>
       <Key>7BuildValve</Key>
