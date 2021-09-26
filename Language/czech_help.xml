@@ -46,6 +46,19 @@
       </Text>
     </StationpediaPage>
     <StationpediaPage>
+      <Key>ConstructionPage</Key>
+      <Title>Konstrukce</Title>
+      <DisplayFilter>Guides</DisplayFilter>
+      <Text>{HEADER:Začínáme}
+Obvykle budete používat {LINK:KitPage;sady} k zahájení konstrukcí a poté dokončovat pomocí {LINK:ToolPage;nástrojů} a {LINK:ResourcePage;zdrojů}. Věnujte zvýšenou pozornost tomu, kolik sad je zapotřebí k vytvoření vybrané konstrukce, protože některé mohou vyžadovat více než jednu. U některých sad budete mít více druhů konstrukcí, které lze měnit pomocí {COLORRED:kolečka myši} na požadovanou variantu.
+
+{HEADER:Fáze konstrukce}
+Některé konstrukce mají více stupňů výstavby, a proto budou vyžadovat postupné dokončování. Popis vám poradí, co zrovna potřebujete k dokončení daného stupně. Někdy budete muset použít k dokončení stupně dva předměty, každý v jedné ruce. Některé nástroje bude nutné nejprve zapnout, což provedete držením v aktivní ruce a stisknutím klávesy {KEY:ToggleHandPower}.
+
+{HEADER:Tipy}
+Pohledem na neúplnou konstrukci získáte informace o tom, co všechno musíte udělat pro její dokončení. Pokud naopak chcete nějakou konstrukci rozebrat a držíte v ruce nesprávný {LINK:ToolPage;nástroj}, zobrazí se popisek se správným nástrojem.</Text>
+    </StationpediaPage>
+    <StationpediaPage>
       <Key>ReagentPage</Key>
       <Title>Činidla</Title>
       <Text>Tohle jsou chemická množství určitých typů.
@@ -118,11 +131,52 @@
 {LIST_OF_APPLIANCES}</Text>
     </StationpediaPage>
     <StationpediaPage>
+      <Key>RocketShuttleModulesHelpPage</Key>
+      <Title>Raketoplán</Title>
+      <DisplayFilter>Guides</DisplayFilter>
+      <Text>{HEADER:Modulární raketový náklad}
+
+{THING:StructureModularRocketCargo01} má kapacitu pro dvě bedny s deseti sloty. Na raketě můžete mít více nákladových modulů. Raketa může zvednout celkem až sedm modulů.
+
+{HEADER:Raketový velitelský modul}
+
+{THING:StructureModularRocketCommand01} musí být umístěna na vrcholu rakety. Posoudí připravenost rakety k letu. Jakmile jsou splněny všechny podmínky, může být raketa vypuštěna, když všichni hráči sedí v modulu stisknutím tlačítka &quot;Spuštění&quot; na konzoli.
+
+Pro spuštění musí být splněny následující podmínky:
+
+Palivo plné;
+Poměr směsi paliva správný;
+Všichni hráči sedící;
+Napájení do odpalovací rampy;
+Plně postavená raketa
+
+Konzole {THING:StructureModularRocketCommand01} zobrazuje aktuální stav těchto podmínek. Nevyžaduje atmosféru pro zvednutí - atmosféra vašeho obleku je dostatečná.
+
+{HEADER:Modulární raketový motor}
+
+{THING:StructureModularRocketEngine01} je schopen zvednout až sedm modulů (včetně sebe).
+
+{HEADER:Modulární raketová palivová nádrž}
+
+{THING:StructureModularRocketFueltank01} vyžaduje směs 2 : 1 {GAS:Volatiles} a {GAS:Oxygen}. Pokud směs překročí tyto proporce nebo umístíte do nádrže jiné plyny, konzole {THING:StructureModularRocketCommand01} zobrazí chybu &quot;Neplatný&quot;.
+
+          </Text>
+    </StationpediaPage>
+    <StationpediaPage>
       <Key>RocketShuttlePage</Key>
       <Title>Raketoplán</Title>
       <Text>Tyto raketové moduly se používají k cestování mezi světy a vyžadují {THING:StructureLaunchPad}.
 {HEADER:Seznam raketových modulů}
 {LIST_OF_ROCKET_SHUTTLE}</Text>
+    </StationpediaPage>
+    <StationpediaPage>
+      <Key>WeatherPage</Key>
+      <Title>Počasí</Title>
+      <DisplayFilter>Guides</DisplayFilter>
+      <Text>Planety sluneční soustavy nejsou tak klidné, jak se může zdát. Po sedmi dnech v jakémkoli světě s atmosférou se nevyzpytatelné síly přírody dostanou do akce - zasáhnou neopatrné Stationeery vánicemi, prachovými bouřkami a sopečnou činností.
+ODA proto doporučuje, aby čerstvě nasazení Stationeerové vytvořili vzduchotěsnou základnu do 7 dnů od přistání.
+Jakékoliv pohyblivé předměty ponechané venku v bouři - na Marsu, Loulanu, Vulkánu nebo Evropě - riskují, že budou odváty daleko, daleko, včetně vašeho přistávacího modulu.
+Stejně tak si pamatujte, že solární panely jsou křehké a může se rozbít jejich sklo nebo občas dokonce zničit dostatečně zuřivou bouří. Během bouří se také drasticky snižuje jejich výkon.</Text>
     </StationpediaPage>
     <!--
     ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -192,6 +246,24 @@ Tlak taveniny {0}</Text>
     <StationpediaPage>
       <Key>GasPageFlamableTemplate</Key>
       <Text>Limit hořlavosti {0} až {1}</Text>
+    </StationpediaPage>
+    <StationpediaPage>
+      <Key>NutritionPage</Key>
+      <Title>Stationeerové nakonec dostanou hlad, ale ne všechno jídlo je stvořeno stejně. Míra hladu se také liší v závislosti na nastavení a obtížnosti. Stravování spotřebuje pouze tu část položky, která je adekvátní k obnovení hladu na 100%.
+
+Stationeerové obdrží po příjezdu do nového světa zásoby potravin, například &lt;color=#0080FFFF&gt;{LINK:Agrizero;Agrizero}&lt;/color&gt; {THING:ItemCerealBar} v jejich přistávacím modulu. Když jsou vyčerpány, musíte najít nové zdroje obživy.
+
+Konzumace syrových surovin uspokojí hlad méně než jídla, tj. Nahradí menší část vašeho hladu. Základní prvky jídla se vytvářejí pomocí systémů &lt;color=#0080FFFF&gt;{LINK:OrganicsPage;hydroponie}&lt;/color&gt;. Ty mohou být zpracovány na přísady receptů pomocí {THING:ApplianceReagentProcessor}, poté přeměněny na jídla pomocí {THING:ApplianceMicrowave}.
+
+Míru hladu lze upravit v hlavní nabídce nastavení nastavením posuvníku Hlad / Hydratace.</Title>
+      <DisplayFilter>Guides</DisplayFilter>
+      <Text>Stationeerové nakonec dostanou hlad, ale ne všechno jídlo je stvořeno stejně. Míra hladu se také liší v závislosti na nastavení a obtížnosti. Stravování spotřebuje pouze tu část položky, která je adekvátní k obnovení hladu na 100%.
+
+Stationeerové obdrží po příjezdu do nového světa zásoby potravin, například &lt;color=#0080FFFF&gt;{LINK:Agrizero;Agrizero}&lt;/color&gt; {THING:ItemCerealBar} v jejich přistávacím modulu. Když jsou vyčerpány, musíte najít nové zdroje obživy.
+
+Konzumace syrových surovin uspokojí hlad méně než jídla, tj. Nahradí menší část vašeho hladu. Základní prvky jídla se vytvářejí pomocí systémů &lt;color=#0080FFFF&gt;{LINK:OrganicsPage;hydroponie}&lt;/color&gt;. Ty mohou být zpracovány na přísady receptů pomocí {THING:ApplianceReagentProcessor}, poté přeměněny na jídla pomocí {THING:ApplianceMicrowave}.
+
+Míru hladu lze upravit v hlavní nabídce nastavení nastavením posuvníku Hlad / Hydratace.</Text>
     </StationpediaPage>
   </HelpPage>
 </Language>

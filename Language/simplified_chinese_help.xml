@@ -49,7 +49,7 @@
     <StationpediaPage>
       <Key>ConstructionPage</Key>
       <Title>搭建</Title>
-      <DisplayFilter>指南</DisplayFilter>
+      <DisplayFilter>Guides</DisplayFilter>
       <Text>{HEADER:开始}
 通常，您可以使用 {LINK:KitPage;套件} 来开始初始化蓝图，然后使用各种{LINK:ToolPage;工具}和{LINK:ResourcePage;资源}来完成建造。 请密切注意需要多少套件来构造所选设备，因为某些设备需要使用多个数量的资源。 对于某些套件，您将有多种选择来建造想要的类型，使用{COLORRED:Scroll Wheel}来切换当前的类型。
 
@@ -134,7 +134,7 @@
     <StationpediaPage>
       <Key>RocketShuttleModulesHelpPage</Key>
       <Title>火箭模块</Title>
-      <DisplayFilter>指南</DisplayFilter>
+      <DisplayFilter>Guides</DisplayFilter>
       <Text>{HEADER:模块化火箭货舱}
 
 {THING:StructureModularRocketCargo01} 有2排10格的格子存储物品. 你可以在你的火箭上安装多个货舱模块. 火箭总共最多支持发射7个模块.
@@ -174,7 +174,7 @@
     <StationpediaPage>
       <Key>WeatherPage</Key>
       <Title>天气</Title>
-      <DisplayFilter>指南</DisplayFilter>
+      <DisplayFilter>Guides</DisplayFilter>
       <Text>太阳系的行星并不像它们看起来那样平静。在任何有大气层的世界上停留7天后，不可捉摸的自然力量就会开始行动--用暴风雪、沙尘暴和火山事件来打击不小心的驻扎者。
 因此，官方发展援助建议新部署的Stationeers在着陆后7天内建立一个密封的基地。
 任何在风暴中留在外面的动态物体——在火星、楼兰、火神或木卫二上——都有被吹到很远很远的危险，包括你的着陆器。
@@ -250,7 +250,7 @@ Stationeers在到达一个新的世界时，会在他们的着陆器中收到诸
 吃原材料比吃正餐更能满足你的饥饿感，也就是说，你的饥饿感所占的比例会更小。食物的基本元素是通过&lt;color=#0080FFFF&gt;{LINK:OrganicsPage;hydroponics}&lt;/color&gt;系统制造的。这些可以用{THING:ApplianceReagentProcessor}加工成食谱配料，然后用{THING:ApplianceMicrowave}加工成食物。
 
 你的饥饿率可以在主设置菜单中通过调整饥饿/补水率滑块进行调整设置。</Title>
-      <DisplayFilter>指南</DisplayFilter>
+      <DisplayFilter>Guides</DisplayFilter>
       <Text>Stationeers最终会饿，但不是所有的食物都是一样的。另外，你的饥饿率根据设置和难度的不同而不同。吃东西只会消耗物品中足以使你的饥饿感恢复到100%的部分。
 
 Stationeers在到达一个新的世界时，会在他们的着陆器中收到诸如&lt;color=#0080FFFF&gt;{LINK:Agrizero;Agrizero}&lt;/color&gt;{THING:ItemCerealBar}之类的食物供应。当这些东西用完后，你必须找到新的食物来源。
@@ -262,7 +262,7 @@ Stationeers在到达一个新的世界时，会在他们的着陆器中收到诸
     <StationpediaPage>
       <Key>EVAPage</Key>
       <Title>EVA防护服</Title>
-      <DisplayFilter>指南</DisplayFilter>
+      <DisplayFilter>Guides</DisplayFilter>
       <Text>你的宇航服为你提供了一个可移动的大气层，有可调整的压力和空调（温度）设置，以及一个警告系统，如果宇航服内的大气变得危险，它将提醒你。它的功能与合适的头盔以及合适的气罐和太空服各个插槽中的过滤器结合起来才能正常运作。这些都需要定期更换，也可以使用{THING:StructureSuitStorage}进行充电（或耗尽）。
 
 有几个宇航服，包括{THING:ItemEvaSuit}和更耐压和耐温的{THING:ItemHardSuit}。

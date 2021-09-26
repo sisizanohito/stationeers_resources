@@ -46,7 +46,7 @@
     <StationpediaPage>
       <Key>ConstructionPage</Key>
       <Title>Építkezés</Title>
-      <DisplayFilter>Útmutatók</DisplayFilter>
+      <DisplayFilter>Guides</DisplayFilter>
       <Text>{HEADER:Első lépések}
 A legtöbb dolog megépítéséhez {LINK:KitPage;készleteket} fogsz használni. {LINK:ToolPage;Eszközök} ls {LINK:ResourcePage;nyersanyagok} használatával tudod befejezni őket. Figyelj arra, hogy hány készletet használsz el, mert néhány dolog megépítéséhez nem csak egyre lesz szükséged. Néhány készlet többféleképpen is elkészíthető, az opciókhoz használd a {COLORRED:Scroll Wheel} gombot.
 
@@ -131,7 +131,7 @@ Ha közvetlenül ránézel az építés alatt levő tárgyra, a befejezéshez sz
     <StationpediaPage>
       <Key>RocketShuttleModulesHelpPage</Key>
       <Title>Űrsikló modulok</Title>
-      <DisplayFilter>Útmutatók</DisplayFilter>
+      <DisplayFilter>Guides</DisplayFilter>
       <Text>{HEADER:Moduláris rakéta tehermodul}
 
 A {THING:StructureModularRocketCargo01} két láda tárolására képes. Egyszerre több modul is lehet a rakétán. A rakétához összesen hét modul köthető.
@@ -171,7 +171,7 @@ A {THING:StructureModularRocketFueltank01} egy 2 az 1-hez {GAS:Volatiles}-{GAS:O
     <StationpediaPage>
       <Key>WeatherPage</Key>
       <Title>Időjárás</Title>
-      <DisplayFilter>Útmutatók</DisplayFilter>
+      <DisplayFilter>Guides</DisplayFilter>
       <Text>A Naprendszer bolygói nem olyan nyugisak, mint amilyennek tűnhetnek. Bármely, atmoszférával rendelkező bolygón az első hét nap után lecsapnak a természet erői - megkeserítve a stationeerek életét hó- és porviharokkal, valamint egyéb vulkanikus eseményekkel.
 Ezek miatt is ajánlja az FFÜ a frissen bevetett stationeereknek egy légmentes bázis építésének kivitelezését a landolás utáni első hét napban. Bármilyen mozgatható tárgy a viharban való kintfelejtésével - a Marson, Loulanon, Vulcanon vagy Europan - felmerülhet a kockázata annak, hogy azok nagyon, nagyon messze kavarodnak el - beleértve a leszállóegységed.
 Emellett ügyelj arra, hogy a napelemek törékenyek, az üveglap bennük eltörhet, vagy akár el is pusztulhatnak egy erősebb viharban. Viharos időben a tejesítményük is jelentősen lecsökken.
@@ -241,7 +241,7 @@ Olvadási nyomás {0}</Text>
 Minden stationeer kap induláskor élelemellátmányt, mint a &lt;color=#0080FFFF&gt;{LINK:Agrizero;Agrizero}&lt;/color&gt; {THING:ItemCerealBar}, melyet a leszállóegységben talál meg. Ha ezek elfogynak, máshogy kell megoldanod az élelemellátást.
 
 Az alapanyagok nyersen kevésbé táplálnak, mint az elkészített ételek, azaz kevesebb részét töltik vissza a tápláltságnak. Az alapvető élelmiszerek a &lt;color=#0080FFFF&gt;{LINK:OrganicsPage;hidroponikával}&lt;/color&gt; állíthatóak elő. Ezeket {THING:ApplianceReagentProcessor} segítségével dolgozhatod fel, majd a {THING:ApplianceMicrowave} segítségével készítheted el ételnek.</Title>
-      <DisplayFilter>Útmutatók</DisplayFilter>
+      <DisplayFilter>Guides</DisplayFilter>
       <Text>A stationeerek, mint mindenki, megéhezhetnek. A különböző ételek mind máshogy készülnek. Az éhezés mértéke függ a beállításaidtól és a nehézségtől. Az élelem elfogyasztásásakor annak csak annyi része fog elfogyni, amennyi a tápláltságod 100%-os elréséhez szükséges.
 
 Minden stationeer kap induláskor élelemellátmányt, mint a &lt;color=#0080FFFF&gt;{LINK:Agrizero;Agrizero}&lt;/color&gt; {THING:ItemCerealBar}, melyet a leszállóegységben talál meg. Ha ezek elfogynak, máshogy kell megoldanod az élelemellátást.

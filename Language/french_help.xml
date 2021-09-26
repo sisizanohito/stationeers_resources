@@ -127,9 +127,50 @@ Certains minerais fondent lorsqu&apos;ils sont exposés au soleil ou à la chale
 </Text>
     </StationpediaPage>
     <StationpediaPage>
+      <Key>RocketShuttleModulesHelpPage</Key>
+      <Title>Modules de navette fusée</Title>
+      <DisplayFilter>Guides</DisplayFilter>
+      <Text>{HEADER:Modular Rocket Cargo}
+
+Le {THING:StructureModularRocketCargo01} a une capacité de deux caisses de dix emplacements. Vous pouvez avoir plusieurs modules de cargaison sur votre fusée. La fusée peut soulever jusqu&apos;à sept modules au total.
+
+{HEADER:Modular Rocket Command}
+
+La {THING:StructureModularRocketCommand01} doit être placée sur le dessus de la fusée. Elle évaluera l&apos;état de préparation de la fusée pour le vol. Une fois que toutes les conditions sont remplies, la fusée peut être lancée lorsque tous les joueurs sont assis dans le module en appuyant sur &apos; IGNITION &apos; sur la console.
+
+Les conditions suivantes doivent être remplies pour le lancement:
+
+Carburant plein
+Rapport de mélange de carburant correct
+Tous les joueurs assis
+Alimentation fournie à la rampe de lancement
+Fusée entièrement construite
+
+La console {THING: StructureModularRocketCommand01} affiche l&apos;état actuel de ces conditions. Pas d&apos;exigence d’atmosphère pour le décollage - l&apos;atmosphère de votre combinaison est suffisante.
+
+{HEADER:Modular Rocket Engine}
+
+Le {THING: StructureModularRocketEngine01} est capable de soulever jusqu&apos;à sept modules (y compris lui-même).
+
+{HEADER:Modular Rocket Fuel Tank}
+
+Le {THING:StructureModularRocketFueltank01} nécessite un mélange de 2:1 de {GAS:Volatiles} et {GAS:Oxygen}. Si le mélange dépasse ces proportions, ou si vous placez un autre gaz dans le réservoir, la console {THING:StructureModularRocketCommand01} affichera une &apos;Invalid error&apos;.
+
+          </Text>
+    </StationpediaPage>
+    <StationpediaPage>
       <Key>RocketShuttlePage</Key>
       <Title>Capsule de fusée</Title>
       <Text>Ce sont les modules de navette, utilisés pour voyager entre les mondes. {THING:StructureLaunchPad} est requis.</Text>
+    </StationpediaPage>
+    <StationpediaPage>
+      <Key>WeatherPage</Key>
+      <Title>Météo</Title>
+      <DisplayFilter>Guides</DisplayFilter>
+      <Text>Les planètes du système solaire ne sont pas aussi calmes qu’elles peuvent paraître. Après sept jours sur n’importe quel monde avec une atmosphère, les forces insondables de la nature se balancent dans l’action - frappant stationeers imprudents avec des blizzards, des tempêtes de poussière et des événements volcaniques.
+À ce titre, l’ODA recommande que les stationnaires fraîchement déployés créent une base hermétique dans les 7 jours suivant l’atterrissage.
+Tous les objets dynamiques laissés à l’extérieur dans une tempête – sur Mars, Loulan, Vulcain ou Europa – risque d’être soufflé loin, très loin, y compris votre atterrisseur.
+De même, sachez que les panneaux solaires sont fragiles et peuvent avoir leur verre brisé, ou parfois même être détruit par une tempête suffisamment féroce. Pendant les tempêtes, leur production est également considérablement réduite.      </Text>
     </StationpediaPage>
     <!--
     ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -189,6 +230,50 @@ Pression de fusion {0}</Text>
     <StationpediaPage>
       <Key>GasPageFlamableTemplate</Key>
       <Text>Limite d&apos;embrassement {0} à {1}</Text>
+    </StationpediaPage>
+    <StationpediaPage>
+      <Key>NutritionPage</Key>
+      <Title>Les stationnaires finissent par avoir faim, mais tous les aliments ne sont pas égaux. Votre taux de faim varie en fonction des paramètres de difficulté. Manger ne consommera que la quantité adéquate pour restaurer votre faim à 100%.
+
+Tous les Stationeers reçoivent un approvisionnement de {THING:ItemCerealBar} &lt;color=#0080FFFF&gt;{LINK:Agrizero;Agrizero}&lt;/color&gt;, dans leurs approvisionnements d’atterrisseur au début d’un nouveau monde. Quand ils sont épuisés, vous devez trouver de nouvelles sources de subsistance.
+
+Manger des ingrédients crus satisfera la faim moins que les repas, c’est-à-dire remplacera une plus petite proportion de votre faim. Les aliments de base sont créés à l’aide de système &lt;color=#0080FFFF&gt;{LINK:OrganicsPage;hydroponics}&lt;/color&gt;. Ceux-ci peuvent être transformés en ingrédients pour vos recettes à l’aide du {THING:ApplianceReagentProcessor), puis transformés en repas à l’aide d’un {THING:ApplianceMicrowave}.
+
+Votre taux de faim peut être réglé dans les paramètres du jeu, en ajustant le curseur du taux de faim / soif.</Title>
+      <DisplayFilter>Guides</DisplayFilter>
+      <Text>Les stationnaires finissent par avoir faim, mais tous les aliments ne sont pas égaux. Votre taux de faim varie en fonction des paramètres de difficulté. Manger ne consommera que la quantité adéquate pour restaurer votre faim à 100%.
+
+Tous les Stationeers reçoivent un approvisionnement de {THING:ItemCerealBar} &lt;color=#0080FFFF&gt;{LINK:Agrizero;Agrizero}&lt;/color&gt;, dans leurs approvisionnements d’atterrisseur au début d’un nouveau monde. Quand ils sont épuisés, vous devez trouver de nouvelles sources de subsistance.
+
+Manger des ingrédients crus satisfera la faim moins que les repas, c’est-à-dire remplacera une plus petite proportion de votre faim. Les aliments de base sont créés à l’aide de système &lt;color=#0080FFFF&gt;{LINK:OrganicsPage;hydroponics}&lt;/color&gt;. Ceux-ci peuvent être transformés en ingrédients pour vos recettes à l’aide du {THING:ApplianceReagentProcessor), puis transformés en repas à l’aide d’un {THING:ApplianceMicrowave}.
+
+Votre taux de faim peut être réglé dans les paramètres du jeu, en ajustant le curseur du taux de faim / soif.</Text>
+    </StationpediaPage>
+    <StationpediaPage>
+      <Key>EVAPage</Key>
+      <Title>Combinaison EVA</Title>
+      <DisplayFilter>Guides</DisplayFilter>
+      <Text>Votre combinaison vous offre une atmosphère portable, avec des réglages de pression et de température, ainsi qu’un système d’avertissement qui vous avertira si l’atmosphère à l’intérieur de la combinaison devient dangereux. Elle fonctionne en conjonction avec un casque approprié, ainsi que des cartouches de gaz et des filtres dans les différents emplacements de la combinaison. Ceux-ci devront être changés régulièrement, et peuvent également être rechargés (ou vidés) en utilisant déposant la combinaison dans un {THING:StructureSuitStorage}.
+
+Il existe plusieurs combinaisons, y compris la {THING:ItemEvaSuit} et le modèle le plus résistant à la pression et à la température la {THING:ItemHardSuit}.
+
+Différentes données de votre combinaison sont en bas à droite de l’écran. Appuyer sur la touche numérique 2, cela fera apparaître un panneau montrant ses emplacements et ses paramètres. Ceux-ci comprennent :
+
+- A/C Marche/Arrêt (Climatisation marche/arrêt)
+- Filtres activés/désactivés
+- Air On / Off
+- Pression Monter/Descendre (avec une plage de 0kPA à 202kPa, ou de 0 à 2 atmosphères terrestres)
+- Température Monter/Descendre (avec une plage de 0 °C à 60 °C)
+
+Les combinaisons contiennent de 6 à 8 emplacements :
+- Réservoir d’air (x1) - insérer une Bouteille de Gaz ou une Bouteille de Gaz (Evoluée) contenant un mélange de gaz respirable, par exemple de l&apos;oxygène ou azote/oxygène 35/65.
+- Réservoir à déchets (x1) - collecte les gaz évacués par les filtres.
+- Système de survie (x1) - contient une pile qui alimente votre combinaison : la lumière, le chauffage, etc.
+- Filtres (x3) - nécessite au moins un filtre de CO2 (si vous êtes humain), en fonction de votre mélange de gaz respirable. Notez qu’une {THING:ItemHardSuit} a 4 emplacements de filtre.
+- IC - {THING:ItemHardSuit} uniquement.
+
+Pression : doit être réglée à 50-100 KPa (0,5 à 1 atmosphère terrestre). Les humains dans le jeu tolèrent jusqu’à ~250 kPa et peuvent survivre jusqu’à ~300 kPA.
+</Text>
     </StationpediaPage>
   </HelpPage>
 </Language>
