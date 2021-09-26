@@ -28,7 +28,7 @@
     </Record>
     <Record>
       <Key>3GetGoldIngot</Key>
-      <Value>オレンジ色のクレートから {THING:ItemGoldIngot} を取り出す。</Value>
+      <Value>クレートから金インゴットを拾う。</Value>
     </Record>
     <Record>
       <Key>3GetPipeBender</Key>
