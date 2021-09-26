@@ -12,7 +12,7 @@
     </Record>
     <Record>
       <Key>3TabletOn</Key>
-      <Value>{THING:ItemTablet} の電源を入れる。</Value>
+      <Value>タブレットの電源を入れる。</Value>
     </Record>
     <Record>
       <Key>3GetArcFurnaceKit</Key>
