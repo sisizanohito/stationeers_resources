@@ -2,7 +2,7 @@
   <Code>KN</Code>
   <GameTip>
     <String>{KEY:HelmetSlot}、{KEY:SuitSlot}、{KEY:BackSlot}、{KEY:UniformSlot}、または{KEY:ToolBeltSlot}を押すとインタラクトと装備のスロットを切り替えます。長押しすることでアクティブな手のアイテムと切り替えます。</String>
-    <String>{KEY:ToggleHandPower}を押ことで手に持ったアイテムのオンオフが素早く行えます。</String>
+    <String>{KEY:ToggleHandPower}か{KEY:SecondaryAction}を押ことで手に持ったアイテム電源のオンオフが素早く行えます。</String>
     <String>{KEY:ToggleLight}を押すことで{THING:ItemSpaceHelmet}のライトのオンオフが素早く行えます。</String>
     <String>{KEY:EmoteWave}で他のStationeerに手を振れます。</String>
     <String>{KEY:Jetpack}を押すことで{THING:ItemSpacepack}のオンオフが素早く行えます。</String>
