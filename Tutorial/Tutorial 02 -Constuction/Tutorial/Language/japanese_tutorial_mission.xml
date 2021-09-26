@@ -20,11 +20,11 @@
     </Record>
     <Record>
       <Key>2GetBatt</Key>
-      <Value>クレートからバッテリーを取る</Value>
+      <Value>荷箱からバッテリーを取る</Value>
     </Record>
     <Record>
       <Key>2GetCoal</Key>
-      <Value>クレートから石炭を取る</Value>
+      <Value>荷箱から石炭を取る</Value>
     </Record>
     <Record>
       <Key>2GettingHelpClose</Key>
@@ -32,11 +32,11 @@
     </Record>
     <Record>
       <Key>2GetCableHCoil</Key>
-      <Value>クレートからヘビーケーブルを取る。</Value>
+      <Value>荷箱からヘビーケーブルを取る。</Value>
     </Record>
     <Record>
       <Key>2GetFrames</Key>
-      <Value>クレートから鉄フレームを取る。</Value>
+      <Value>荷箱から鉄フレームを取る。</Value>
     </Record>
   </Interface>
 </Language>

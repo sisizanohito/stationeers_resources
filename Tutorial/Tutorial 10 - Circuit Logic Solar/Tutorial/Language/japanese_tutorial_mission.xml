@@ -36,7 +36,7 @@
     </Record>
     <Record>
       <Key>PickUpDaylightSensor</Key>
-      <Value>クレートから {THING:ItemKitSensor} を取り出す。</Value>
+      <Value>荷箱から {THING:ItemKitSensor} を拾う</Value>
     </Record>
     <Record>
       <Key>DaylightSensor1</Key>
@@ -44,7 +44,7 @@
     </Record>
     <Record>
       <Key>PickUpMemory</Key>
-      <Value>近くのクレートから {THING:ItemKitLogicMemory} ユニットを取り出す。</Value>
+      <Value>近くの荷箱から {THING:ItemKitLogicMemory} ユニットを拾う。</Value>
     </Record>
     <Record>
       <Key>StructureLogicMemory</Key>
@@ -61,7 +61,7 @@
     </Record>
     <Record>
       <Key>PickUpLogicProcessor</Key>
-      <Value>近くのクレートから {THING:ItemKitLogicProcessor} ユニットを取り出す。</Value>
+      <Value>近くの荷箱から {THING:ItemKitLogicProcessor} ユニットを拾う。</Value>
     </Record>
     <Record>
       <Key>LogicWriter1</Key>
@@ -85,7 +85,7 @@
     </Record>
     <Record>
       <Key>PickUpLogicInputOutput</Key>
-      <Value>クレートから {THING:ItemKitLogicInputOutput} を取り出す。</Value>
+      <Value>荷箱から {THING:ItemKitLogicInputOutput} を拾う。</Value>
     </Record>
     <Record>
       <Key>BatchWriter1</Key>

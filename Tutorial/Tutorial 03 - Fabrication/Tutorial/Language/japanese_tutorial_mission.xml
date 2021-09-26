@@ -8,7 +8,7 @@
     </Record>
     <Record>
       <Key>3GetTablet</Key>
-      <Value>クレートからタブレットを取る。</Value>
+      <Value>荷箱からタブレットを取る。</Value>
     </Record>
     <Record>
       <Key>3TabletOn</Key>
@@ -16,7 +16,7 @@
     </Record>
     <Record>
       <Key>3GetArcFurnaceKit</Key>
-      <Value>クレートからアーク炉を取る。</Value>
+      <Value>荷箱からアーク炉を取る。</Value>
     </Record>
     <Record>
       <Key>3BuildArcFurnaceTutorial</Key>
@@ -24,11 +24,11 @@
     </Record>
     <Record>
       <Key>3GetCopperIngot</Key>
-      <Value>クレートから銅インゴットを拾う。</Value>
+      <Value>荷箱から銅インゴットを拾う。</Value>
     </Record>
     <Record>
       <Key>3GetGoldIngot</Key>
-      <Value>クレートから金インゴットを拾う。</Value>
+      <Value>荷箱から金インゴットを拾う。</Value>
     </Record>
     <Record>
       <Key>3GetPipeBender</Key>

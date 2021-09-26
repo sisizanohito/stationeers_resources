@@ -20,7 +20,7 @@
     </Record>
     <Record>
       <Key>4GetActiveVent</Key>
-      <Value>クレートからアクティブベントを取る</Value>
+      <Value>荷箱からアクティブベントを取る</Value>
     </Record>
     <Record>
       <Key>4BuildStructureActiveVent</Key>
@@ -40,11 +40,11 @@
     </Record>
     <Record>
       <Key>4GetpipeKit</Key>
-      <Value>クレートからパイプを取る。</Value>
+      <Value>荷箱からパイプを取る。</Value>
     </Record>
     <Record>
       <Key>4GetConsole</Key>
-      <Value>クレートから端末を取る</Value>
+      <Value>荷箱から端末を取る</Value>
     </Record>
     <Record>
       <Key>4OpenAirlock</Key>
@@ -60,7 +60,7 @@
     </Record>
     <Record>
       <Key>4GetLabeler</Key>
-      <Value>クレートからラベラーを装備する</Value>
+      <Value>荷箱からラベラーを装備する</Value>
     </Record>
     <Record>
       <Key>4LabelerOn</Key>

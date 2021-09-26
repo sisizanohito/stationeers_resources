@@ -4249,6 +4249,10 @@
       <Value>複合材ドア</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemKitPipeLiquid</Key>
+      <Value>キット (液体パイプ)</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureRocketModuleMiningJunk</Key>
     </RecordThing>
     <RecordThing>
@@ -5023,7 +5027,7 @@
     </Record>
     <Record>
       <Key>LightCategory</Key>
-      <Value>明るさ</Value>
+      <Value>照明</Value>
     </Record>
     <Record>
       <Key>PersonalBackpacks</Key>
@@ -5031,7 +5035,7 @@
     </Record>
     <Record>
       <Key>OrganicsCategory</Key>
-      <Value>オーガニック</Value>
+      <Value>有機物</Value>
     </Record>
     <Record>
       <Key>GasesHeader</Key>
@@ -5051,11 +5055,11 @@
     </Record>
     <Record>
       <Key>ControlSystemAtmos</Key>
-      <Value>コントロールシステム</Value>
+      <Value>制御システム</Value>
     </Record>
     <Record>
       <Key>ApplianceCategory</Key>
-      <Value>外観</Value>
+      <Value>小型機器</Value>
     </Record>
     <Record>
       <Key>AirContitioningAtmos</Key>
@@ -5063,7 +5067,7 @@
     </Record>
     <Record>
       <Key>AtmosDevices</Key>
-      <Value>大気</Value>
+      <Value>空調機器</Value>
     </Record>
     <Record>
       <Key>FireArm</Key>
@@ -7052,7 +7056,7 @@
     </Record>
     <Record>
       <Key>LogicTypeTime</Key>
-      <Value>時間:</Value>
+      <Value>時間</Value>
     </Record>
     <Record>
       <Key>Volume</Key>

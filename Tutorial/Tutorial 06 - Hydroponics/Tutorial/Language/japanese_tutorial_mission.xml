@@ -17,7 +17,7 @@
     </Record>
     <Record>
       <Key>6GetPipe</Key>
-      <Value>{THING:ItemIronSheets} を拾う。</Value>
+      <Value>荷箱から液体パイプを取る</Value>
     </Record>
     <Record>
       <Key>6GetGrowLight</Key>
