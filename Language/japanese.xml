@@ -6307,14 +6307,6 @@
       <Value>他に書き込み可能なデバイスがネットワークにありません</Value>
     </Record>
     <Record>
-      <Key>ChangeSettingTo</Key>
-      <Value>{0}に変更</Value>
-    </Record>
-    <Record>
-      <Key>ChangeSettingToAll</Key>
-      <Value>全て{0}に変更</Value>
-    </Record>
-    <Record>
       <Key>HoldForPreviousObject</Key>
       <Value>{KEY:QuantityModifier}を長押しで前回の物</Value>
     </Record>
@@ -6920,7 +6912,7 @@
     </Record>
     <Record>
       <Key>ScoreboardTime</Key>
-      <Value>時間:</Value>
+      <Value>プレイ時間</Value>
     </Record>
     <Record>
       <Key>TutorialCompleteNextTutorial</Key>
@@ -6928,19 +6920,19 @@
     </Record>
     <Record>
       <Key>SettingsMineableRenderDistance</Key>
-      <Value>物体レンダリング距離</Value>
+      <Value>鉱物の描写距離</Value>
     </Record>
     <Record>
       <Key>ControlPrimaryClickDisc</Key>
-      <Value>インターフェース</Value>
+      <Value>インタラクト</Value>
     </Record>
     <Record>
       <Key>ControlHoldPrimaryClickConstructDisc</Key>
-      <Value>建造物</Value>
+      <Value>組み立て</Value>
     </Record>
     <Record>
       <Key>ControlHoldPrimaryClickDeconstructDisc</Key>
-      <Value>建造物</Value>
+      <Value>解体</Value>
     </Record>
     <Record>
       <Key>ControlHoldPrimaryClickPlantDisc</Key>
@@ -6948,11 +6940,7 @@
     </Record>
     <Record>
       <Key>ControlMouseDragDisc</Key>
-      <Value>反射</Value>
-    </Record>
-    <Record>
-      <Key>ControlAutoRotate</Key>
-      <Value>{KEY:QuantityModifier}を長押しで前回の物</Value>
+      <Value>選択範囲を移動</Value>
     </Record>
     <Record>
       <Key>ControlMouseScrollDisc</Key>
@@ -6972,7 +6960,7 @@
     </Record>
     <Record>
       <Key>AdvancedTutorialButton</Key>
-      <Value>アドバンスド</Value>
+      <Value>レガシー/アドバンスド</Value>
     </Record>
     <Record>
       <Key>TravelCategoryKey</Key>
@@ -6980,11 +6968,11 @@
     </Record>
     <Record>
       <Key>FurnitureCategoryKey</Key>
-      <Value>画像</Value>
+      <Value>家具</Value>
     </Record>
     <Record>
       <Key>WeatherCategoryKey</Key>
-      <Value>天候のクオリティ</Value>
+      <Value>天候</Value>
     </Record>
     <Record>
       <Key>HandToolsCategoryKey</Key>
@@ -7012,7 +7000,7 @@
     </Record>
     <Record>
       <Key>ConstructionKitsCategoryKey</Key>
-      <Value>建造物</Value>
+      <Value>建造物キット</Value>
     </Record>
     <Record>
       <Key>PressureKeySPDA</Key>
