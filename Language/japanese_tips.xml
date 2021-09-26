@@ -26,7 +26,7 @@
     <String>{THING:ItemHardBackpack}はより多くのものを運べます。君自身は運べないけどね！</String>
     <String>スーツが損傷するほど、機能の効率が落ちます。</String>
     <String>{THING:ItemHardBackpack}はより多くのものを運べます。君自身は運べないけどね！</String>
-    <String>{KEY:HideAllWindows}を押すことで全ての開いた画面を閉じることが出来ます。</String>
+    <String>{THING:StructureHarvie} を使用すると、植え付け、栽培、収穫を完全に自動化することができます。</String>
     <String>ツールチップは設定からオンオフ出来ます。</String>
     <String>{KEY:HideAllWindows}を押すことで全ての開いた画面を閉じることが出来ます。</String>
     <String>{THING:ItemCrowbar}は電力の通っていないドアや操作盤を開けます。</String>
