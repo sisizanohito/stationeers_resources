@@ -1046,7 +1046,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAtmospherics</Key>
-      <Value>キット (Atmospherics)</Value>
+      <Value>キット (空調)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitBattery</Key>
@@ -7076,11 +7076,11 @@
     </Record>
     <Record>
       <Key>Volume</Key>
-      <Value>主音量</Value>
+      <Value>ボリューム</Value>
     </Record>
     <Record>
       <Key>StationpediaMaxPressure</Key>
-      <Value>タンク圧力</Value>
+      <Value>最大圧力:</Value>
     </Record>
     <Record>
       <Key>StationpediaNutrition</Key>

@@ -65,11 +65,11 @@
     </Record>
     <Record>
       <Key>6GetWaterBottle</Key>
-      <Value>{THING:ItemIronSheets} を拾う。</Value>
+      <Value>荷箱から空の水筒を取る</Value>
     </Record>
     <Record>
       <Key>6GetMingBelt</Key>
-      <Value>オレンジ色のクレートから {THING:ItemGoldIngot} を取り出す。</Value>
+      <Value>荷箱から採掘用ベルトを取る</Value>
     </Record>
   </Interface>
 </Language>

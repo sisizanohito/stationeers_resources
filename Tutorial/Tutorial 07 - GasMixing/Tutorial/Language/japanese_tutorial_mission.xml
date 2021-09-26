@@ -4,11 +4,11 @@
   <Interface>
     <Record>
       <Key>7GetActiveVent</Key>
-      <Value>{THING:ItemIronSheets} を拾う。</Value>
+      <Value>荷箱からアクティブベントを取る</Value>
     </Record>
     <Record>
       <Key>7GetAtmospherics</Key>
-      <Value>{THING:ItemIronSheets} を拾う。</Value>
+      <Value>荷箱から空調キットを取る</Value>
     </Record>
     <Record>
       <Key>7BuildAtmospherics</Key>
@@ -16,11 +16,11 @@
     </Record>
     <Record>
       <Key>7GetPipeKit</Key>
-      <Value>{THING:ItemIronSheets} を拾う。</Value>
+      <Value>荷箱からパイプを取る</Value>
     </Record>
     <Record>
       <Key>7GetPipeKitW</Key>
-      <Value>{THING:ItemIronSheets} を拾う。</Value>
+      <Value>荷箱から2つめのパイプキットを取る</Value>
     </Record>
     <Record>
       <Key>7BuildPipeW</Key>
@@ -28,7 +28,7 @@
     </Record>
     <Record>
       <Key>7GetFilter</Key>
-      <Value>{THING:ItemIronSheets} を拾う。</Value>
+      <Value>荷箱から酸素フィルターを取る</Value>
     </Record>
     <Record>
       <Key>7GetPipeRadiator</Key>
