@@ -6,7 +6,7 @@
     <String>{KEY:ToggleLight}を押すことで{THING:ItemSpaceHelmet}のライトのオンオフが素早く行えます。</String>
     <String>{KEY:EmoteWave}で他のStationeerに手を振れます。</String>
     <String>{KEY:Jetpack}を押すことで{THING:ItemSpacepack}のオンオフが素早く行えます。</String>
-    <String>{KEY:ToggleUI}を押すとユーザーインターフェースのオンオフができ、ステキなスクリーンショットやビデオを撮れます。</String>
+    <String>{KEY:ToggleUI}を押すとユーザーインターフェースのオン/オフができ、スクリーンショットやビデオを撮れます。</String>
     <String>{THING:ItemSpacepack}が有効になっていれば{KEY:Ascend}を押したとき上昇し、そうでなければキャラクターはジャンプしようとします。{KEY:Jetpack}キーによって{THING:ItemSpacepack}のオンオフを切り替えられます。</String>
     <String>{THING:ItemSpacepack}が有効になっていれば{KEY:Descend}を押したとき下降します。{KEY:Jetpack}キーによって{THING:ItemSpacepack}のオンオフを切り替えられます。</String>
     <String>{KEY:Drop}キーを押して話すことで手に持ったアイテムをその場に捨てます。{KEY:Drop}キーを長押しすると、投げようとします。押し続ける時間が長いほど遠くに投げます。</String>

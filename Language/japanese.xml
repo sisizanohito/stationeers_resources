@@ -3445,10 +3445,6 @@
       <Value>コーヒーマグカップ</Value>
     </RecordThing>
     <RecordThing>
-      <Key>Robot</Key>
-      <Value>ロボット</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>StructureLogicTransmitter</Key>
       <Value>ロジック トランスミッター</Value>
     </RecordThing>
@@ -3547,10 +3543,6 @@
     <RecordThing>
       <Key>ItemJetpackBasic</Key>
       <Value>ベーシックジェットパック</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureRTGSurvival</Key>
-      <Value>RTG装置</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemEmergencyHelmet</Key>
@@ -4309,7 +4301,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitInteriorDoors</Key>
-      <Value/>
+      <Value>キット (室内ドア)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPowerTransmitterOmni</Key>
