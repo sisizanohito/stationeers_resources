@@ -870,7 +870,7 @@ You can refill a {THING:ItemGasCanisterWater} by attaching it to the tank's stri
     </RecordThing>
     <RecordThing>
       <Key>DynamicLiquidCanisterEmpty</Key>
-      <Value>Portable Liquid Tank (Empty)</Value>
+      <Value>Portable Liquid Tank</Value>
       <Description>This portable tank stores liquid, and liquid only. You can bolt one to a {THING:ItemTankConnectorLiquid} using a {THING:ItemWrench}, then connect it to a pipe network to refill it. You can refill a {THING:ItemGasCanisterWater} by attaching it to the tank's striped section. Or you could use a {THING:ItemWrench} to attach it to a rocket and take it somewhere distant and dry, then feel good about yourself.</Description>
     </RecordThing>
     <RecordThing>
@@ -1154,7 +1154,7 @@ Careful not to pressurize beyond 10MPa, or it may go 'bang'.</Descript
     </RecordThing>
     <RecordThing>
       <Key>ItemLiquidCanisterEmpty</Key>
-      <Value>Liquid Canister (Empty)</Value>
+      <Value>Liquid Canister</Value>
       <Description>Holds water, if you have some.</Description>
     </RecordThing>
     <RecordThing>
@@ -3620,7 +3620,7 @@ Insert a cartridge or color scanner into the tablet, then press the activate but
     <RecordThing>
       <Key>StructureUnloader</Key>
       <Value>Unloader</Value>
-      <Description>The &lt;color=#0080FFFF&gt;{LINK:Xigo;Xigo}&lt;/color&gt; Re:Gurge is a handy unit for unloading any items inserted into it, and feeding them into a chute network. For instance, if you add a full {THING:ItemMiningBelt}, the Re:Gurge will empty the belt of its contents, insert them to the chute network, then eject the belt itself.
+      <Description>The &lt;color=#0080FFFF&gt;{LINK:Xigo;Xigo}&lt;/color&gt; Re:Gurge is a handy unit for unloading any items inserted into it, and feeding them into a chute network. For instance, if you add a full {THING:ItemMiningBelt}, the Re:Gurge will empty a mining belt of its contents, insert them into the chute network, then insert the mining belt itself. A {THING:StructureSorter} is recommended to reclaim the mining belt.
 
 Output = 0 exporting the main item
 Output = 1 exporting items inside and eventually the main item.</Description>
@@ -3791,7 +3791,7 @@ Output = 1 exporting items inside and eventually the main item.</Description>
     <RecordThing>
       <Key>ItemHardBackpack</Key>
       <Value>Hardsuit Backpack</Value>
-      <Description>This backpack has more storage slots than {THING:ItemHardJetpack}, but lacks a jetpack. It can be useful when you are working inside and don't need to fly around.</Description>
+      <Description>This backpack can be useful when you are working inside and don't need to fly around.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemHardJetpack</Key>
@@ -4037,8 +4037,12 @@ When connected to a {THING:StructureComputer} containing a {THING:MotherboardCom
     <RecordThing>
       <Key>Robot</Key>
       <Value>AIMeE Bot</Value>
-      <Description>Designed by - presumably drunk - &lt;color=#0080FFFF&gt;{LINK:Norsec;Norsec}&lt;/color&gt; roboticists, AIMeE (or Automated Independent Mechanical Entity) can be a &lt;color=#0080FFFF&gt;{LINK:Stationeers;Stationeer's}&lt;/color&gt; best friend, or tiresome nemesis, or both several times in the same day. Intended to unearth and retrieve ores automatically, the unit requires basic programming knowledge to operate.
+      <Description>Designed by - presumably drunk - &lt;color=#0080FFFF&gt;{LINK:Norsec;Norsec}&lt;/color&gt; roboticists, AIMeE (or Automated Independent Mechanical Entity) can be a &lt;color=#0080FFFF&gt;{LINK:Stationeers;Stationeer's}&lt;/color&gt; best friend, or tiresome nemesis, or both several times in the same day. 
+      
+Intended to unearth and retrieve ores automatically, the unit requires basic programming knowledge to operate, and {THING:MotherboardProgrammableChip}.
+
 AIMEe has 7 modes:
+
 RobotMode.None = 0 = Do nothing
 RobotMode.None = 1 = Follow nearest player
 RobotMode.None = 2 = Move to target in straight line
@@ -4087,6 +4091,7 @@ RobotMode.None = 6 = Automatic assigned state, shows when storage slots are full
     <RecordThing>
       <Key>ItemAstroloyIngot</Key>
       <Value>Ingot (Astroloy)</Value>
+      <Description>Due to the original Stationeer manual collapsing into a singularity, Astroloy recipes have been warped by spacetime contortions. The correct Astroloy recipe, as memorialized for all time in a series of charming plastic icons, is 1.0 Copper, 1.0 Cobalt, and 2.0 Steel.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemCobaltOre</Key>
@@ -5801,7 +5806,7 @@ The speed of heat gain or loss will depend on the liquid in question. Adding mul
     </RecordThing>
     <RecordThing>
       <Key>DynamicMKIILiquidCanisterEmpty</Key>
-      <Value>Portable Liquid Tank Mk II (Empty)</Value>
+      <Value>Portable Liquid Tank Mk II</Value>
       <Description>An empty, insulated liquid canister.</Description>
     </RecordThing>
     <RecordThing>
@@ -5918,7 +5923,7 @@ To use on yourself: put duct tape in your active hand, hold RIGHT MOUSE BUTTON t
     <RecordThing>
       <Key>StructureRocketModuleSilo</Key>
       <Value>Automated Rocket Silo Module</Value>
-      <Description>The &lt;color=#0080FFFF&gt;{LINK:ExMin;ExMin}&lt;/color&gt; autononmous silo module provides storage for &lt;color=#0080FFFF&gt;{LINK:OrePage;ores}&lt;/color&gt; collected by the {THING:StructureRocketModuleMiningOre}, &lt;color=#0080FFFF&gt;{LINK:OrePage;ices}&lt;/color&gt; collected by the {THING:StructureModularRocketIceMining} and 'space junk' salvaged by the {THING:StructureModularRocketScrapMining} . In other words, it holds 'medium-sized dry goods'.
+      <Description>The &lt;color=#0080FFFF&gt;{LINK:ExMin;ExMin}&lt;/color&gt; autononmous silo module provides storage for &lt;color=#0080FFFF&gt;{LINK:OrePage;ores}&lt;/color&gt; collected by the {THING:StructureRocketModuleMiningOre}, &lt;color=#0080FFFF&gt;{LINK:OrePage;ices}&lt;/color&gt; collected by the {THING:StructureModularRocketIceMining} and 'space junk' salvaged by the {THING:StructureModularRocketScrapMining} . In other words, it holds up to 600 'medium-sized dry goods'.
 The silo module must be connected to a mining or salvage module by a correctly placed {THING:StructureModularRocketCouplingDown} or {THING:StructureModularRocketCouplingUp}, in order for material to pass into the silo.
 The silo module must also be powered when on the launch pad. It is 'on' by default, but can be turned off with logic if needed. 
 The module can also be attached to a {THING:StructureChuteInlet} in order to connect it to &lt;color=#0080FFFF&gt;{LINK:ImportExportPage;import/export}&lt;/color&gt; networks.
@@ -12337,7 +12342,7 @@ Pollutant has a high specific heat, making it an excellent coolant.</Value>
       <Key>MoleWaterDescription</Key>
       <Value>You can obtain water by smelting or crushing {THING:ItemIce} using a {THING:StructureFurnace} or an {THING:StructureIceCrusher}, or by combusting volatiles and oxygen using the {THING:H2Combustor}.
       
-Water is used to &lt;color=#0080FFFF&gt;{LINK:OrganicPage;plants}&lt;/color&gt; in order to stay alive, and grow &lt;color=#0080FFFF&gt;{LINK:NutritionPage;drink}&lt;/color&gt;. It is also an exceptional coolant with a very high specific heat capacity.
+Water is critical for &lt;color=#0080FFFF&gt;{LINK:OrganicPage;plants}&lt;/color&gt; to stay alive, and grow &lt;color=#0080FFFF&gt;{LINK:NutritionPage;food}&lt;/color&gt;. It is also an exceptional coolant with a very high specific heat capacity.
 
 Note: Water was previously treated as a gas, but a new system for liquids is being developed, including separate pipes, tanks, pumps, etc for liquids. Water is currently the only available liquid, and does not presently change states.
 </Value>
