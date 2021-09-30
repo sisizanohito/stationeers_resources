@@ -4584,6 +4584,10 @@
       <Value>套件 (液体管道散热器)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>DynamicMKIILiquidCanisterEmpty</Key>
+      <Value>便携式储液罐 Mk II</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitDynamicMKIILiquidCanister</Key>
       <Value>套件 (便携式储液罐 Mk II)</Value>
     </RecordThing>

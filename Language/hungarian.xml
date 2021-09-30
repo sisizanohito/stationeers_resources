@@ -4544,6 +4544,10 @@
       <Value>Készlet (Folyadékradiátor)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>DynamicMKIILiquidCanisterEmpty</Key>
+      <Value>Hordozható folyadéktartály II</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitDynamicMKIILiquidCanister</Key>
       <Value>Készlet (Hordozható folyadéktartály II)</Value>
     </RecordThing>

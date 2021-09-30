@@ -4670,6 +4670,10 @@
       <Value>kit (radiador liquido)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>DynamicMKIILiquidCanisterEmpty</Key>
+      <Value>Tanque liquido portatil MK II</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitDynamicMKIILiquidCanister</Key>
       <Value>kit (Tanque liquido portatil MK II)</Value>
     </RecordThing>

@@ -4911,6 +4911,10 @@
       <Value>Kapalinový radiátor (sada)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>DynamicMKIILiquidCanisterEmpty</Key>
+      <Value>Přenosná nádrž na kapalinu</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitDynamicMKIILiquidCanister</Key>
       <Value>Přenosná nádrž na kapalinu Mk II (sada)</Value>
     </RecordThing>
