@@ -11,9 +11,9 @@
     <String>{KEY:InventorySelect} を押すと、インベントリスロットとアクティブハンドの間で交換ができます。</String>
     <String>{KEY:SwapHands}を押すとアクティブな手を切り替えます。{KEY:ActiveHandSlot}でアクティブな手の操作オプションを切り替えます。</String>
     <String>{KEY:Internals}を押すと素早く{THING:ItemSpaceHelmet}の開閉が出来ます。</String>
-    <String>{KEY:Chatting}を押すと他のプレイヤーとチャットが出来ます。画面左下の小さな箱に送信するテキストを入力します。</String>
+    <String>{KEY:RotateLeft} を押してコンストラクションカーソルを左回転、{KEY:RotateRight}で右回転、{KEY:RotateUp}で上回転、{KEY:RotateDown}で下回転、{KEY:RotateRollLeft}で左転回、{KEY:RotateRollRight}で右転回が出来ます。</String>
     <String>アイテムの制作方法が知りたい？アクティブな手に{THING:CartridgeElectronicReader}の入った{THING:ItemTablet}を持ち、{KEY:ToggleHandPower}を押して電源を入れてみましょう。</String>
-    <String>電源の入った{THING:ItemWeldingTorch}を片方の手に持ち、{THING:ItemIronSheets}をいくつかもう一方の手に持って、{THING:StructureFrameIron}の建築段階を上昇させましょう。</String>
+    <String>IC チップを使用したロジックを使うには、 {THING:MotherboardLogic} を {THING:StructureComputer} に組み込みます。同じデータネットワーク上のデバイスの状態を制御する条件とアクションを追加できます。</String>
     <String>ワールド上のボタンを押して数値を変更するとき、{KEY:QuantityModifier}を押しながらクリックすることで少量を変更出来ます。</String>
     <String>{THING:ItemKitLogicInputOutput}によって{THING:StructureLogicReader}か{THING:StructureLogicWriter}が作れます。リーダーは他の装置の値を読み取れます。ライターは装置の値を書き換えられます。計算ユニットと組み合わせると、非常に複雑な自動化システムを構築できます。</String>
     <String>{THING:ItemKitLogicInputOutput}によって{THING:StructureLogicBatchReader}や{THING:StructureLogicBatchWriter}が作れます。リーダーを使用すると、他のデバイスのグループ全体から値を読み取ることができます。ライターを使用すると、他のデバイスのグループ全体の値を変更することができます。</String>
