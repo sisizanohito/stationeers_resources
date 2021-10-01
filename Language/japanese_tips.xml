@@ -19,13 +19,13 @@
     <String>{THING:ItemKitLogicInputOutput}によって{THING:StructureLogicBatchReader}や{THING:StructureLogicBatchWriter}が作れます。リーダーを使用すると、他のデバイスのグループ全体から値を読み取ることができます。ライターを使用すると、他のデバイスのグループ全体の値を変更することができます。</String>
     <String>{THING:StructureRecycler}を使って不要になった材料を変換しましょう。出力された{THING:ItemReagentMix}を{THING:StructureCentrifuge}に入れることで{THING:StructureFurnace}に使える鉱石にまで戻せます。</String>
     <String>{THING:StructureHydraulicPipeBender}を使うことで大気に関するアイテム、{THING:ItemKitAtmospherics}を製造でき、それによって{THING:StructureAirConditioner}や{THING:StructureFiltration}といった便利なアイテムが作れます。</String>
-    <String>{THING:StructureRecycler}を使って不要になった材料を変換しましょう。出力された{THING:ItemReagentMix}を{THING:StructureCentrifuge}に入れることで{THING:StructureFurnace}に使える鉱石にまで戻せます。</String>
+    <String>スーツが損傷するほど、機能の効率が落ちます。ダクトテープはその損傷を修復できます。</String>
     <String>スーツが損傷するほど、機能の効率が落ちます。</String>
     <String>最初の{THING:ItemEvaSuit}や{THING:ItemSpaceHelmet}は高温環境下では炎上します。危険な環境では{THING:ItemHardSuit}を使いましょう。</String>
     <String>スーツの出す警告に注意すれば、災害を防ぐのに役立つでしょう。</String>
     <String>{THING:ItemHardBackpack}はより多くのものを運べます。君自身は運べないけどね！</String>
     <String>スーツが損傷するほど、機能の効率が落ちます。</String>
-    <String>{THING:ItemHardBackpack}はより多くのものを運べます。君自身は運べないけどね！</String>
+    <String>ステーションが暗いと感じたら、{THING:StructureKlaxon}か、自作のサンプラーで気分を高めましょう。</String>
     <String>{THING:StructureHarvie} を使用すると、植え付け、栽培、収穫を完全に自動化することができます。</String>
     <String>ツールチップは設定からオンオフ出来ます。</String>
     <String>{KEY:HideAllWindows}を押すことで全ての開いた画面を閉じることが出来ます。</String>
