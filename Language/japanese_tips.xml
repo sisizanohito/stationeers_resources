@@ -9,7 +9,7 @@
     <String>{KEY:ToggleUI}を押すとユーザーインターフェースのオン/オフができ、スクリーンショットやビデオを撮れます。</String>
     <String>{THING:ItemSpacepack}がオンのとき、{KEY:Ascend}キーを押して上昇します。{KEY:Descend}を押すと下降します。</String>
     <String>{KEY:InventorySelect} を押すと、インベントリスロットとアクティブハンドの間で交換ができます。</String>
-    <String>{KEY:Drop}キーを押して話すことで手に持ったアイテムをその場に捨てます。{KEY:Drop}キーを長押しすると、投げようとします。押し続ける時間が長いほど遠くに投げます。</String>
+    <String>{KEY:SwapHands}を押すとアクティブな手を切り替えます。{KEY:ActiveHandSlot}でアクティブな手の操作オプションを切り替えます。</String>
     <String>{KEY:Internals}を押すと素早く{THING:ItemSpaceHelmet}の開閉が出来ます。</String>
     <String>{KEY:Chatting}を押すと他のプレイヤーとチャットが出来ます。画面左下の小さな箱に送信するテキストを入力します。</String>
     <String>アイテムの制作方法が知りたい？アクティブな手に{THING:CartridgeElectronicReader}の入った{THING:ItemTablet}を持ち、{KEY:ToggleHandPower}を押して電源を入れてみましょう。</String>
