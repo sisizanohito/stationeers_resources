@@ -4269,7 +4269,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitFridgeBig</Key>
-      <Value>このキットは {THING:StructureFridgeBig} を作成する。</Value>
+      <Value>キット (冷蔵庫 大)</Value>
     </RecordThing>
     <RecordThing>
       <Key>SeedBag_Wheet</Key>
@@ -4277,7 +4277,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAdvancedComposter</Key>
-      <Value>キット (モジュラーロケットコマンド)</Value>
+      <Value>キット (高度なコンポスター)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitFridgeSmall</Key>
