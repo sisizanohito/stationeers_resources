@@ -7239,17 +7239,21 @@
     </Record>
     <Record>
       <Key>NewWorldMoonDesc</Key>
-      <Value>Takže jsi uvízl na Měsíci, ale není to tak špatné. Samozřejmě je to tady drsné, chladné a poněkud monotónní, ale alespoň svítí slunce! To znamená, že se sem hodí solární panely a ovladač elektřiny ... a pravděpodobně také oblouková pec.
-                                              V ostatních bednách je i trochu jídla a kyslíku, které na dlouhou dobu nestačí. Stejně jako vaše baterie.
-                                              Raději začněte přemýšlet o tom, jak přežijete. Zajímalo by mě, jestli je obtížné nakonfigurovat přechodovou komoru? A co generátor? Možná bys měl začít s těžbou rudy a začít stavět svou základnu?
-                                              Zdá se, že se tady na chvíli zdržíš.</Value>
+      <Value>
+  Jistě, je tam zima, drsně a dost jednotvárně, ale aspoň svítí slunce. Solární panel se bude hodit, stejně jako regulátor energie... a nejspíš i oblouková pec.
+  V ostatních bednách je dokonce i trochu jídla a kyslíku, i když to rozhodně nevydrží věčně. Stejně tak tvoje baterie.
+  Měl bys začít přemýšlet o tom, jak přežiješ. Jak těžké by mohlo být postavit přechodovou komoru? Generátor? Možná dokonce roztavit nějakou rudu a postavit si základnu?
+  Vypadá to, že tady nějakou dobu zůstaneš.
+  </Value>
     </Record>
     <Record>
       <Key>NewWorldSpaceDesc</Key>
-      <Value>Toto je kreativní režim Stationeers! Vytvoří jakoukoli položku, otestujte své nápady a rychle postavte bunkry.
-                                              &lt;color=red&gt;Toto je experimentální herní režim!&lt;/color&gt; Přemýšlejte o tom jako o svobodné vesmírné party, kde se mohou a budou objevovat vzrušující a neočekávané věci* ve srovnání se spolehlivější zkušeností s přežitím v blízkosti smrti.
-                                              Nenechte se odradit, pokud se náhodou vyhodíte do vzduchu, na malé kousky nebo se necháte pokousat kuřaty nebo pomalu explodujete, zatímco se unášíte sami do nekonečné prázdnoty.
-                                              *chyby</Value>
+      <Value>
+  Tohle je kreativní režim Stationeers! Vyzkoušejte si libovolný předmět, testujte nápady a stavějte bláznivé věci opravdu rychle.
+  &lt;color=red&gt;Tento režim je experimentální.&lt;/color&gt; Představte si ho jako volnou vesmírnou párty, kde se mohou dít a budou dít vzrušující a nečekané věci*, ve srovnání se spolehlivějším zážitkem blízkým smrti v režimu přežití.
+  Hlavně nebuď smutný, až se rozletí na malé, malé kousíčky nebo tě zdivočí slepice nebo pomalu exploduješ, zatímco tě unáší samotného do nekonečné prázdnoty.
+  *chyby
+  </Value>
     </Record>
     <Record>
       <Key>TextboxEnterName</Key>
@@ -7278,6 +7282,10 @@
     <Record>
       <Key>Incident_Supply</Key>
       <Value>Satelity naznačují, že bedna spadla poblíž, váš maják by vám měl ukázat cestu.</Value>
+    </Record>
+    <Record>
+      <Key>TradingNoMoneyHash</Key>
+      <Value>Nemáte dostatek peněz na dokončení transakce, ujistěte se, že vy i obchodník máte dostatek peněz na dokončení transakce.</Value>
     </Record>
     <Record>
       <Key>SomethingWentWrongTrading</Key>
@@ -7321,8 +7329,10 @@
     </Record>
     <Record>
       <Key>FurnaceChamberText</Key>
-      <Value>Tlak {0}
-                                      Teplota {1}</Value>
+      <Value>
+  Tlak {0}
+  Teplota {1}
+  </Value>
     </Record>
     <Record>
       <Key>FurnaceSmelting</Key>
@@ -7442,11 +7452,11 @@
     </Record>
     <Record>
       <Key>NewWorldMarsShortDesc</Key>
-      <Value>Pustá zaprášená červená planeta, Mars má rozmanitější terén, který může dosáhnout až k obloze, a chladnou atmosféru, která není dobrá pro dýchání, ale možná se dá na něco použít ...</Value>
+      <Value>Mars, pustá zaprášená červená planeta, se vyznačuje rozmanitějším terénem, který může sahat až do nebe, a chladnou atmosférou, která není vhodná k dýchání, ale možná by se dala k něčemu využít...</Value>
     </Record>
     <Record>
       <Key>NewWorldMoonShortDesc</Key>
-      <Value>Zatímco přítomnost uhlí není pro Zemský Měsíc typická, relativně plochý terén plný různých značných kráterů a nedostatek atmosféry může být v této šedé krajině známější. Skvělé místo pro začínající Stationeery, aby mohli začít svou cestu s menším rizikem a složitostí nabízené na exotičtějších světech</Value>
+      <Value>Přítomnost uhlí sice není pro pozemský Měsíc typická, ale relativně plochý terén plný různě velkých kráterů a absence atmosféry může být v této šedé krajině známější. Skvělá lokalita pro začínajícího Stationeera, kde může začít svou cestu, s menším množstvím nebezpečí a složitostí, které nabízejí exotičtější světy</Value>
     </Record>
     <Record>
       <Key>NewWorldSpaceShortDesc</Key>
