@@ -112,8 +112,8 @@ Prvním krokem je umístění senzorů denního světla. Jeden změří horizont
     </Record>
     <Record>
       <Key>SetMemoryDescription</Key>
-      <Value>Nyní, když máte jednotku {THING:StructureLogicMemory} na místě a nastavený solární sledovací systém, musíte nastavit specifické hodnoty v {THING:StructureLogicMemory} pomocí {THING:ItemScrewdriver}. Hodnoty závisí na poloze a rotaci {THING:StructureDaylightSensor} a solárních panelů.
-Senzory denního světla mají 3 režimy: výchozí, horizontální a vertikální. Každý režim mění výstupní solární úhel. V tomto případě musíme nastavit senzor na horizontální, což je režim 1. K tomu nastavte modul horizontální paměti na hodnotu 1 a logický zapisovač tuto hodnotu zapíše do senzoru. </Value>
+      <Value>Nyní, když máte jednotky {THING:StructureLogicMemory} na místě a nastavený systém sledování slunečního záření, je třeba nastavit konkrétní hodnoty v paměti {THING:StructureLogicMemory} pomocí nástroje {THING:ItemScrewdriver}. Tyto hodnoty závisí na poloze a natočení {THING:StructureDaylightSensor} a solárních panelů.
+Senzory denního světla mají 3 režimy: Výchozí, Horizontální a Vertikální. Každý režim mění výstupní sluneční úhel. V tomto případě musíme nastavit čidlo na Horizontální, což je režim 1. Za tímto účelem nastavte paměťový modul Horizontální na hodnotu 1 a zapisovač logiky zapíše tuto hodnotu do senzoru.</Value>
     </Record>
     <Record>
       <Key>SetMemoryDescription2</Key>
@@ -166,10 +166,10 @@ Aby byly solární panely kompatibilní se senzory, používáme vertikální lo
     <Record>
       <Key>SetupHorizontalSensorDescription</Key>
       <Value>Zapisovač logiky nám umožňuje zapsat danou hodnotu do určitých typů logiky na zařízení. 
-\t\t\t
-Poznámka: Zapisovač logiky musíte umístit tak, aby se výstupní datová zásuvka připojovala k zařízení, do kterého zapisujete, protože některá data logických obvodů proudí specifickým směrem. Navrhněte obvody odpovídajícím způsobem.
+			
+Poznámka: Zapisovač logiky musíte umístit s výstupní datovou zásuvkou připojenou k zařízení, do kterého zapisujete, protože některá data logických obvodů proudí specifickým směrem. Podle toho navrhněte obvody.
 
-    </Value>
+  </Value>
     </Record>
     <Record>
       <Key>SetupLogicWritter</Key>

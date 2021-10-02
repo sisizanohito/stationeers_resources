@@ -27,6 +27,10 @@
       <Value>Umístěte logickou čtečku na zvýrazněnou polohu</Value>
     </Record>
     <Record>
+      <Key>8Narration3D</Key>
+      <Value>Logický zapisovač je jiný. Přijímá data z logické čtečky a poté je zapisuje do daného zařízení - v tomto případě do světla.</Value>
+    </Record>
+    <Record>
       <Key>8ConstructWriter</Key>
       <Value>Umístěte zapisovač logiky na zvýrazněné místo</Value>
     </Record>&gt;
@@ -62,6 +66,10 @@
     <Record>
       <Key>8TurnOffBatchWriter</Key>
       <Value>Zapněte baterii</Value>
+    </Record>
+    <Record>
+      <Key>8Narration18D</Key>
+      <Value>Programování dveří je jednoduché. Jsou již připojeny k síti - stačí tedy nastavit původní zapisovač logiky na výstup &quot;Skleněné dveře&quot; a zapsat do proměnné &quot; Otevřít&quot; dveří.</Value>
     </Record>
   </Interface>
 </Language>
