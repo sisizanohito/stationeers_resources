@@ -7450,27 +7450,27 @@
     </Record>
     <Record>
       <Key>NewWorldSpaceShortDesc</Key>
-      <Value>I když tu není žádná gravitace nebo atmosféra, alespoň je tu hodně prostoru k budování!  Ocitnete se mezi několika asteroidy, které mohou obsahovat různé rudy a ledy, které můžete použít k přežití.</Value>
+      <Value>I když tu není žádná gravitace nebo atmosféra, alespoň je tu spousta místa na stavění!   Ocitnete se mezi několika asteroidy, které mohou obsahovat různé rudy a ledy, které můžete použít k přežití.</Value>
     </Record>
     <Record>
       <Key>NewWorldVenusShortDesc</Key>
-      <Value>Díky extrémním teplotám a ultravysokým tlakům není Venuše místem pro slabé povahy. Na naší kdysi sesterské planetě, nyní pusté skále, přežijí jen ti nejuznávanější Stationeerové. Kopejte hluboko nebo jděte domů.</Value>
+      <Value>Neustálé extrémní teploty a velmi vysoké tlaky nejsou na Venuši místem pro slabé povahy. Na naší kdysi sesterské planetě, která je dnes pustou skálou, přežijí jen ti nejzkušenější Stationeeři. Buď kopejte hluboko, nebo se vraťte domů.</Value>
     </Record>
     <Record>
       <Key>NewWorldEuropaShortDesc</Key>
-      <Value>Tání části ledu v tomto chladném světě mu konečně dodalo atmosféru, ale extrémně chladné prostředí představuje pro stationeery vážnou výzvu. Extrémní chlad způsobí, že baterie rychle ztratí energii, takže získání stálého zdroje energie a teplých poloh jsou vaše priority.</Value>
+      <Value>Tání části ledu v tomto chladném světě mu konečně dodalo atmosféru, ale extrémně chladné prostředí představuje pro Stationeery vážnou výzvu. Extrémní chlad způsobí, že baterie rychle ztrácejí energii, takže prioritou je zajistit stálý zdroj energie a teplé místo.</Value>
     </Record>
     <Record>
       <Key>NewWorldVulcanShortDesc</Key>
-      <Value>Těkavé prostředí na Vulkánu je přežitelné pro velmi málo živých organismů, ale jeho zlomený povrch a bohatá ložiska nerostů z něj činí riskantní, ale ziskový podnik pro podnikatele.</Value>
+      <Value>Nestálé prostředí na Vulkánu je životaschopné jen pro málo živých organismů, ale jeho členitý povrch a bohatá ložiska nerostných surovin z něj činí riskantní, ale výnosný podnik pro podnikavé obchodníky.</Value>
     </Record>
     <Record>
       <Key>NewWorldVulcan2ShortDesc</Key>
-      <Value>Svět roztrhaný kvůli masivním přílivovým silám od supermasivní černé díry, kterou obíhá. Vulkán nabízí malou naději pro jakýkoli organismus, který zde skončí, ale jeho zlomený povrch a bohatá ložiska nerostů z něj činí riskantní, ale ziskový podnik pro podnikatele. Dejte si pozor na hluboké trhliny, které vedou k smrtící lávě proudící pod povrchem!</Value>
+      <Value>Svět roztrhaný na kusy v důsledku mohutných přílivových sil supermasivní černé díry, kolem které obíhá. Vulkán nabízí jen malou naději pro všechny organismy, které se zde ocitnou, ale jeho členitý povrch a bohatá naleziště nerostných surovin z něj dělají riskantní, ale výnosný podnik pro podnikavé obchodníky. Pozor na hluboké trhliny, které vedou ke smrtícím proudům magmatu pod povrchem!</Value>
     </Record>
     <Record>
       <Key>NewWorldMimasShortDesc</Key>
-      <Value>Pustá skála uhnízděná pod křídlem Saturnových spektrálních prstenů. Drobná postava Mimas se odráží v extrémně nízké gravitaci a mimanteanský povrch je nasycen nárazovými krátery z cestujících prstenců. Vzdálenost od slunce poskytuje málo energie ze solárních zařízení. Buďte velmi opatrní při chůzi nebo skákání, protože můžete cestovat dlouhou cestu a získat velkou rychlost díky extrémně nízké gravitaci.</Value>
+      <Value>Pustá skála pod křídly Saturnových spektrálních prstenců. Malý vzrůst Mimasu se odráží v jeho extrémně nízké gravitaci a povrch Mimantu je posetý krátery po dopadech zbloudilých obyvatel prstence. Jeho vzdálenost od Slunce poskytuje jen málo energie ze solárních zařízení. při chůzi nebo skocích buďte velmi opatrní, protože díky extrémně nízké gravitaci můžete urazit velký kus cesty a nabrat velkou rychlost.</Value>
     </Record>
     <Record>
       <Key>SettingsTitleAudioAlerts</Key>
@@ -7606,7 +7606,7 @@
     </Record>
     <Record>
       <Key>WarningControlConflictDescription</Key>
-      <Value>Navštivte okno přiřazení ovládacích prvků a odstraňte konflikty</Value>
+      <Value>Navštivte okno pro přiřazení ovládacích prvků a vymažte konflikty</Value>
     </Record>
     <Record>
       <Key>NewWorldGameMode</Key>
@@ -7646,7 +7646,7 @@
     </Record>
     <Record>
       <Key>LogicTypePower</Key>
-      <Value>Pokud je zařízení správně napájeno, lze jej přečíst přes napájecí systém, vrací 1, když je napájeno a 0, když není</Value>
+      <Value>Lze přečíst, zda je zařízení správně napájeno nebo ne, nastavuje se prostřednictvím systému napájení, vrací 1, pokud je napájeno, a 0, pokud není</Value>
     </Record>
     <Record>
       <Key>LogicTypeOpen</Key>
@@ -7770,7 +7770,7 @@
     </Record>
     <Record>
       <Key>LogicTypeImportSlotOccupant</Key>
-      <Value>ZASTARALÉ</Value>
+      <Value>ODSTRANĚNO</Value>
     </Record>
     <Record>
       <Key>LogicTypeExportQuantity</Key>
@@ -7802,7 +7802,8 @@
     </Record>
     <Record>
       <Key>LogicTypeColor</Key>
-      <Value>Ať už je to kvůli jasnosti, bezpečnosti nebo jednoduché estetice, &lt;color=#0080FFFF&gt;{LINK:Stationeers;Stationeerové}&lt;/color&gt; mají pro své konstrukce přístup k malé duze barev. Jedná se o nastavení barev pro zařízení, představované jako celé číslo.  
+      <Value>
+  Ať už je k tomu vedou obavy o přehlednost, bezpečnost nebo prostá estetika, &lt;color=#0080FFFF&gt;{LINK:Stationeers;Stationeeři}&lt;/color&gt; mají pro své konstrukce přístup k malé duze barev. Jedná se o nastavení barev pro zařízení, reprezentované jako celé číslo.
 
 0: Modrá
 1: Šedá
@@ -7817,7 +7818,8 @@
 10: Růžová
 11: Fialová
 
-Je neochvějným univerzálním zákonem, že vše vyšší než 11 bude fialové. &lt;color=#0080FFFF&gt;{LINK:ODA;ODA}&lt;/color&gt; to nemůže změnit. Podobně bude cokoli nižší než 0 modré.</Value>
+  Je neochvějným univerzálním zákonem, že cokoli vyššího než 11 bude fialové. &lt;color=#0080FFFF&gt;{LINK:ODA;ODA}&lt;/color&gt; je bezmocná to změnit. Stejně tak cokoli nižšího než 0 bude modré.
+  </Value>
     </Record>
     <Record>
       <Key>LogicTypeElevatorSpeed</Key>
