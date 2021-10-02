@@ -7186,6 +7186,10 @@ Ne soyez pas triste lorsque vous vous faites exploser en tout petits morceaux ou
       <Value>Les satellites suggèrent qu&apos;une caisse est tombée à proximité, votre traqueur de balise devrait vous montrer le chemin.</Value>
     </Record>
     <Record>
+      <Key>TradingNoMoneyHash</Key>
+      <Value>Pas assez d’argent pour effectuer la transaction, assurez-vous que vous et le commerçant ayez assez d’argent pour terminer la transaction.</Value>
+    </Record>
+    <Record>
       <Key>SomethingWentWrongTrading</Key>
       <Value>Quelque chose s&apos;est mal déroulé durant la transaction, quelque chose de quitter le vendeur !</Value>
     </Record>
