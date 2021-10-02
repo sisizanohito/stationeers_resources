@@ -476,5 +476,42 @@ Pojídání surovin uspokojí hlad méně než jídlo, tj. nahradí menší čá
 
 Míru hladu si můžete upravit v hlavní nabídce nastavení nastavením posuvníku Míra hladu/hydratace v nastavení. Všimněte si, že posuvník hladu řídí také vaši {LINK:HydrationPage;žízeň}.</Text>
     </StationpediaPage>
+    <StationpediaPage>
+      <Key>FarmingPage</Key>
+      <Title>Pěstování potravin</Title>
+      <DisplayFilter>Guides</DisplayFilter>
+      <Text>Pro přežití na cizích světech &lt;color=#0080FFFF&gt;{LINK:ODA;ODA}&lt;/color&gt; očekává, že si všichni &lt;color=#0080FFFF&gt;{LINK:Stationeers;Stationeeři}&lt;/color&gt; zřídí životaschopné &lt;color=#0080FFFF&gt;{LINK:OrganicPage;hydroponické}&lt;/color&gt; systémy nebo se obrátí na registrované místní surovinové {LINK:TradingPage;obchodníky}.
+
+{HEADER:ZÁKLÁDÁNÍ}
+
+Při zakládání hydroponického systému budete potřebovat &lt;color=#0080FFFF&gt;{LINK:OrganicPage;semena}&lt;/color&gt;. Případně můžete vysadit samotné potraviny.
+
+Mezi běžné hydroponické vybavení Stationeerů patří:
+
+- {THING:DynamicHydroponics}
+- {THING:ItemHydroponicTray}
+- {THING:ItemKitHydroponicStation}
+- {THING:StructureHarvie}
+
+Všechny hydroponické systémy vyžadují vodu, sluneční světlo a správnou směs plynů - rostliny potřebují CO2 a produkují kyslík (s výjimkou {THING:ItemAlienMushroom}). Rostliny nebudou růst ve špatné atmosféře. Pokud rostliny nemají dostatek světla, budete muset postavit {THING:StructureGrowLight}.
+
+Váš systém bude záviset na dostupných zdrojích a čase, ale dobře navržený systém pěstování může být při dostatku času a zdrojů téměř plně automatizovaný.
+
+{HEADER:SKLÍZENÍ}
+
+Většina rostlin má několik růstových fází. V prvních fázích rostlina prochází svým životním cyklem. Během třetí fáze lze z rostliny sklízet semena. Ve čtvrté fázi rostlina přinese plody. Poté, pokud není vyčištěna, rostlina odumře.
+
+{HEADER:HNOJIVO}
+
+Hnojivo mění růstové procesy rostlin a je vytvářeno pomocí {THING:PortableComposter} a {THING:StructureAdvancedComposter} pomocí &lt;color=#0080FFFF&gt;{LINK:OrganicPage;organické}&lt;/color&gt; hmoty.
+
+Účinky hnojiva závisí na jeho složkách:
+
+- &lt;color=#0080FFFF&gt;{LINK:OrganicPage; Jídlo}&lt;/color&gt; zvyšuje individuální VÝNOS ROSTLIN až o 3 položky
+- {THING:DecayedFood} zvyšuje RYCHLOST RŮSTU rostlin až 3krát
+- {THING:ItemBiomass} zvyšuje POČET RŮSTOVÝCH CYKLŮ, po které hnojivo vydrží, na maximálně 5
+
+Účinek těchto složek závisí na jejich poměru v kompostéru při aktivaci zpracování. Hnojivo se vyrábí v poměru 1:3 mezi hnojivem a složkami. Při zpracování se uvolňuje {THING:Nitrogen} a {THING:Volatiles} a také malé množství tepla.</Text>
+    </StationpediaPage>
   </HelpPage>
 </Language>
