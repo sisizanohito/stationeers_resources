@@ -8088,6 +8088,14 @@ Je neochvějným univerzálním zákonem, že vše vyšší než 11 bude fialov�
       <Value>Vrátí náklady za palivo.</Value>
     </Record>
     <Record>
+      <Key>RocketMode</Key>
+      <Value>Vyřazené</Value>
+    </Record>
+    <Record>
+      <Key>CollectableGoods</Key>
+      <Value>Vrací 0 nebo 1 podle toho, zda aktuální raketový systém má nebo nemá možnost sbírat suroviny na planetě.</Value>
+    </Record>
+    <Record>
       <Key>LogicTypeRequestHash</Key>
       <Value>Pokud je nastaven na jedinečný identifikátor, znovu vyhledá položku zadaného typu ze zařízení</Value>
     </Record>
@@ -8157,7 +8165,7 @@ Je neochvějným univerzálním zákonem, že vše vyšší než 11 bude fialov�
     </Record>
     <Record>
       <Key>TraderInUse</Key>
-      <Value>Tento kontakt již s někým komunikuje, opakujte akci později.</Value>
+      <Value>Tento kontakt již s někým komunikuje, zkuste to brzy znovu.</Value>
     </Record>
     <Record>
       <Key>ContactNoResponse</Key>
@@ -8165,11 +8173,11 @@ Je neochvějným univerzálním zákonem, že vše vyšší než 11 bude fialov�
     </Record>
     <Record>
       <Key>ContactTradeRequestFail</Key>
-      <Value>Obchodník žádá o bezpečné přistání. K pokračování je nutná napájená přistávací rampa.</Value>
+      <Value>Obchodník žádá o bezpečné přistání. Pro pokračování je nutná napájená přistávací rampa.</Value>
     </Record>
     <Record>
       <Key>ContactTradeRequestFailInUse</Key>
-      <Value>Někdo je již v interakci s tímto obchodníkem, zkuste to později.</Value>
+      <Value>S tímto obchodníkem již někdo komunikuje, zkuste to brzy znovu.</Value>
     </Record>
     <Record>
       <Key>ContactLandingRequestFailVendingMachine</Key>
@@ -8177,7 +8185,7 @@ Je neochvějným univerzálním zákonem, že vše vyšší než 11 bude fialov�
     </Record>
     <Record>
       <Key>ContactLandingRequestFailSatellite</Key>
-      <Value>Vyskytl se problém se satelitem. Zkontrolujte, zda je připojen k síti a napájen.</Value>
+      <Value>Se satelitem je problém. Zkontrolujte, zda je připojen k síti a zda je napájen.</Value>
     </Record>
     <Record>
       <Key>ContactLandingRequestFailStorm</Key>
@@ -8189,15 +8197,11 @@ Je neochvějným univerzálním zákonem, že vše vyšší než 11 bude fialov�
     </Record>
     <Record>
       <Key>TraderElectronics</Key>
-      <Value>Technologický strom</Value>
-    </Record>
-    <Record>
-      <Key>TraderOrganics</Key>
-      <Value>Organika</Value>
+      <Value>TechTree elektronika</Value>
     </Record>
     <Record>
       <Key>TraderBasic</Key>
-      <Value>Spes&apos;mall</Value>
+      <Value>Spes&apos;mall základy</Value>
     </Record>
     <Record>
       <Key>TraderHydraulic</Key>
@@ -8205,7 +8209,7 @@ Je neochvějným univerzálním zákonem, že vše vyšší než 11 bude fialov�
     </Record>
     <Record>
       <Key>TraderOre</Key>
-      <Value>MineRite</Value>
+      <Value>MineRite rudy</Value>
     </Record>
     <Record>
       <Key>TraderMicrowave</Key>
@@ -8220,12 +8224,24 @@ Je neochvějným univerzálním zákonem, že vše vyšší než 11 bude fialov�
       <Value>Exo technologie</Value>
     </Record>
     <Record>
+      <Key>TraderPaint</Key>
+      <Value>Color Corp barvy</Value>
+    </Record>
+    <Record>
       <Key>TraderTool</Key>
       <Value>Prodejce nástrojů</Value>
     </Record>
     <Record>
+      <Key>TraderSecurity</Key>
+      <Value>Hall Corp zabezpečení</Value>
+    </Record>
+    <Record>
       <Key>TraderOther</Key>
       <Value>Koldersovo rozmanité zboží</Value>
+    </Record>
+    <Record>
+      <Key>TraderGas</Key>
+      <Value>Obchod s plynem</Value>
     </Record>
     <Record>
       <Key>ButtonContact</Key>
