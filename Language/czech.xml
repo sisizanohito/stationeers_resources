@@ -5337,7 +5337,7 @@
     </Record>
     <Record>
       <Key>DirtCanister</Key>
-      <Value>Kanystr na horninu</Value>
+      <Value>Kanystr na zeminu</Value>
     </Record>
     <Record>
       <Key>Propellent</Key>
@@ -5481,7 +5481,7 @@
     </Record>
     <Record>
       <Key>SensorProcessingUnit</Key>
-      <Value>Procesor senzoru</Value>
+      <Value>Jednotka zpracování senzorů</Value>
     </Record>
     <Record>
       <Key>LiquidCanister</Key>
@@ -5493,7 +5493,7 @@
     </Record>
     <Record>
       <Key>BottleSlot</Key>
-      <Value>Slot na láhev</Value>
+      <Value>Slot pro láhev</Value>
     </Record>
   </Slots>
   <Interactables>
