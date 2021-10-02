@@ -13,22 +13,23 @@
     <String>Stisknutím tlačítka {KEY:SwapHands} vyměníte aktivní ruku. Stisknutím {KEY:ActiveHandSlot} procházíte možnosti interakce s jakoukoli rukou, kterou máte aktivní.</String>
     <String>Stisknutím {KEY:Internals} rychle přepnete {THING:ItemSpaceHelmet} na otevřenou nebo zavřenou.</String>
     <String>Chcete-li začít chatovat s ostatními hráči, stiskněte {KEY:Chatting}.</String>
-    <String>Stisknutím {KEY:Chatting} zahájíte chatování s ostatními hráči. V pravé horní části obrazovky se objeví malé pole s textem, který jste napsali před odesláním.</String>
-    <String>Chcete vědět, jak něco udělat? Vložte {THING:CartridgeElectronicReader} do {THING:ItemTablet} a zapněte ho pomocí {KEY:ToggleHandPower}, když je v aktivní ruce.</String>
-    <String>Umístěte {THING:MotherboardLogic} do {THING:StructureComputer} a povolte logiku s IC čipem. Budete moci přidat podmínky a akce, které řídí stavy zařízení ve stejné datové síti.</String>
-    <String>Když změníte hodnotu pomocí ovládacích prvků ve hře, můžete podržením {KEY:QuantityModifier} použít přesnější hodnoty.</String>
-    <String>Pomocí {THING:ItemKitLogicInputOutput} vytvořte {THING:StructureLogicReader} nebo {THING:StructureLogicWriter}. Čtečky umožňují číst hodnoty z jiných zařízení, zapisovače umožňují měnit hodnoty na zařízeních. V kombinaci s matematickými jednotkami můžete vytvořit extrémně složité automatizované systémy.</String>
-    <String>Pomocí {THING:ItemKitLogicInputOutput} vytvořte {THING:StructureLogicBatchReader} nebo {THING:StructureLogicBatchWriter}. Čtečky umožňují číst hodnoty z celé skupiny jiných zařízení, zapisovače umožňují měnit hodnoty na celých skupinách jiných zařízení.</String>
-    <String>Pomocí {THING:StructureRecycler} převeďte věci, které již nechcete, na použitelná činidla. Předejte vydanou {THING:ItemReagentMix} do {THING:StructureCentrifuge} a převeďte ji zpět na rudu, připravenou k {THING:StructureFurnace}.</String>
-    <String>Použijte {THING:StructureHydraulicPipeBender} k výrobě atmosférických předmětů, jako je například {THING:ItemKitAtmospherics}, která umožňuje vytvářet užitečné stroje, jako je {THING:StructureAirConditioner} nebo {THING:StructureFiltration}.</String>
-    <String>Čím více bude váš oblek poškozen, tím méně efektivně bude fungovat. Lepicí páska ho může opravit.</String>
-    <String>Čím více je váš oblek poškozený, tím méně efektivně bude fungovat.</String>
+    <String>Stiskněte {KEY:RotateLeft} pro otočení konstrukčního kurzoru doleva, {KEY:RotateRight} pro otočení doprava, {KEY:RotateUp} pro otočení nahoru, {KEY:RotateDown} pro otočení dolů, {KEY:RotateRollLeft} pro otočení doleva nebo {KEY:RotateRollRight} pro otočení doprava.</String>
+    <String>Vesmír není tak prázdný, jak by se mohlo zdát.</String>
+    <String>Umístěním hromady {THING:ItemIronOre} do poháněné {THING:StructureArcFurnace} roztavíte {THING:ItemIronIngot}.</String>
+    <String>Umístěte {THING:MotherboardLogic} do {THING:StructureComputer} a povolte logiku s čipem IC. Budete moci přidávat podmínky a akce, které řídí stavy zařízení ve stejné datové síti.</String>
+    <String>Když měníte množství něčeho pomocí tlačítka ve světě, podržte při kliknutí tlačítko {KEY:QuantityModifier}, abyste použili menší přírůstky.</String>
+    <String>Použijte {THING:ItemKitLogicInputOutput} k vytvoření {THING:StructureLogicReader} nebo {THING:StructureLogicWriter}. Čtečky umožňují číst hodnoty z jiných zařízení, zapisovače umožňují měnit hodnoty na zařízeních. V kombinaci s matematickými jednotkami můžete vytvářet extrémně složité automatizované systémy.</String>
+    <String>Použijte {THING:ItemKitLogicInputOutput} k vytvoření {THING:StructureLogicBatchReader} nebo {THING:StructureLogicBatchWriter}. Čtečky umožňují číst hodnoty z celé skupiny jiných zařízení, zapisovače umožňují měnit hodnoty na celých skupinách jiných zařízení.</String>
+    <String>Pomocí nástroje {THING:StructureRecycler} přeměníte věci, které již nechcete, na použitelné činidla. Výstupní {THING:ItemReagentMix} předejte do {THING:StructureCentrifuge}, abyste jej přeměnili zpět na rudu připravenou pro {THING:StructureFurnace}.</String>
+    <String>Použijte {THING:StructureHydraulicPipeBender} k výrobě atmosférických předmětů, například {THING:ItemKitAtmospherics}, který vám umožní postavit užitečné stroje, jako je {THING:StructureAirConditioner} nebo {THING:StructureFiltration}.</String>
+    <String>Čím více je váš oblek poškozen, tím méně efektivně bude fungovat. Lepicí páska to může napravit.</String>
+    <String>Čím více je váš oblek poškozen, tím méně efektivně bude fungovat.</String>
     <String>Poté, co se původní příručka Stationeerů zhroutila do singularity, ji nahradila Stationpedie. Stisknutím klávesy {KEY:Help} ji otevřete, abyste získali pokyny ve hře.</String>
     <String>Váš začínající {THING:ItemEvaSuit} a {THING:ItemSpaceHelmet} se zapálí v horkých teplotách. Použijte {THING:ItemHardSuit} v nebezpečných prostředích.</String>
     <String>Program Stationeer byl založen Offworld Development Agency na podporu průzkumu sluneční soustavy i mimo ni.</String>
     <String>Váš začínající {THING:ItemEvaSuit} a {THING:ItemSpaceHelmet} se zapálí v horkých teplotách. Použijte {THING:ItemHardSuit} v nebezpečných prostředích.</String>
     <String>{THING:ItemHardBackpack} může nést více položek, ale nemůže nést vás!</String>
-    <String>Čím více je váš oblek poškozený, tím méně efektivně bude fungovat.</String>
+    <String>Čím více je váš oblek poškozen, tím méně efektivně bude fungovat.</String>
     <String>{THING:ItemHardBackpack} může nést více položek, ale nemůže nést vás!</String>
     <String>{THING:StructureHarvie} vám umožňuje plně automatizovat výsadbu, pěstování a sklizeň rostlin.</String>
     <String>Rozšířené popisky nástrojů lze zapnout/vypnout v nabídce nastavení.</String>
