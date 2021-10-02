@@ -6598,7 +6598,7 @@
     </Record>
     <Record>
       <Key>DialogConfirmNoticeUnsaved</Key>
-      <Value>Opravdu chcete opustit relaci bez uložení? Neuložený postup bude ztracen.</Value>
+      <Value>Jste si opravdu jisti, že chcete relaci opustit bez uložení? Veškerý neuložený postup bude ztracen.</Value>
     </Record>
     <Record>
       <Key>ButtonExit</Key>
@@ -6610,7 +6610,7 @@
     </Record>
     <Record>
       <Key>DialogConfirmNoticeClientLeaving</Key>
-      <Value>Opravdu chcete opustit relaci?</Value>
+      <Value>Jste si opravdu jisti, že chcete relaci opustit?</Value>
     </Record>
     <Record>
       <Key>SettingsPopupChat</Key>
