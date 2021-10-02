@@ -323,22 +323,23 @@ Režim rakety se nastavuje prostřednictvím hodnoty &apos;aktivovat&apos; zař�
       <Key>TravelPage</Key>
       <Title>Cestování na jiné planety</Title>
       <DisplayFilter>Guides</DisplayFilter>
-      <Text>Počkejte! Ještě mě nezavírejte! Pro start musí být splněny následující podmínky:
+      <Text>Počkejte! Ještě mě nezavírejte! Pro odpálení musí být splněny následující podmínky:
 
-- Plně postavená raketa: minimálně 3 základní moduly;
-- {THING:StructureModularRocketFueltank01} plná paliva;
-- Správný poměr palivové směsi - {GAS:Volatiles} a {GAS:Oxygen} 2 : 1;
-- Napájení {THING:StructureLaunchPad};
-- Všichni hráči usazeni v {THING:StructureModularRocketCommand01}.
+- Plně sestavená raketa: alespoň 3 základní moduly
+- Plně natankovaná {THING:StructureModularRocketFueltank01}
+- Správný poměr palivové směsi - směs 2:1 {GAS:Volatiles} a {GAS:Oxygen}.
+- Napájení {THING:StructureLaunchPad}
+- Všichni hráči sedí v {THING:StructureModularRocketCommand01}
 
-Níže jsou uvedena ID VESMÍRNÉHO CESTOVÁNÍ. Můžete je použít k cestování na konkrétní planety v kombinaci s dokončeným {LINK:RocketShuttlePage;raketoplánem} a {LINK:LogicUnitPage;logickými jednotkami}.
+Níže jsou uvedeny ID VESMÍRNÉHO CESTOVÁNÍ. Můžete je použít k cestování na konkrétní planety, pokud je zkombinujete s dokončeným {LINK:RocketShuttlePage;raketoplánem} a {LINK:LogicUnitPage;logickými jednotkami}.
+  
+Jednoduše zapište hash do proměnného nastavení na {KING:StructureLaunchPad} pomocí {KING:StructureLogicWriter} a {KING:StructureLogicMemory}. Poznámka: Kliknutím na hash jej můžete zkopírovat do schránky.
+  
 
-Jednoduše napište hash do proměnného nastavení na {THING:StructureLaunchPad} pomocí {THING:StructureLogicWriter} a {THING:StructureLogicMemory}. Poznámka: Kliknutím na hash jej zkopírujete do schránky.
-
-      {LIST}
-        {WORLD_HASHES}
-      {/LIST}
-      </Text>
+  {LIST}
+  {WORLD_HASHES}
+  {/LIST}
+  </Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>RocketShuttleModulesHelpPage</Key>
