@@ -8,32 +8,32 @@
     </Record>
     <Record>
       <Key>TutoiralLogicSubTitle</Key>
-      <Value>Praktická výuka: Fáze VIII</Value>
+      <Value>Praktický výcvik: Fáze III</Value>
     </Record>
     <Record>
       <Key>8ConstructLever</Key>
-      <Value>Postavte ventil na zvýrazněné místo</Value>
+      <Value>Použijte sadu (logický spínač) k umístění páčky do zvýrazněné polohy</Value>
     </Record>
     <Record>
       <Key>8ConstructCable</Key>
-      <Value>Postavte ventil na zvýrazněné místo</Value>
+      <Value>Umístěte kabel do zvýrazněné polohy.</Value>
     </Record>
     <Record>
       <Key>8ConstructCable2</Key>
-      <Value>Dokončete potrubní síť kyslíku</Value>
+      <Value>Připojte datový port na páce ke kabelové síti</Value>
     </Record>
     <Record>
       <Key>8ConstructReader</Key>
-      <Value>Postavte ventil na zvýrazněné místo</Value>
+      <Value>Umístěte logickou čtečku na zvýrazněnou polohu</Value>
     </Record>
     <Record>
       <Key>8ConstructWriter</Key>
-      <Value>Postavte ventil na zvýrazněné místo</Value>
+      <Value>Umístěte zapisovač logiky na zvýrazněné místo</Value>
     </Record>&gt;
 		
     <Record>
       <Key>8TurnOnReader</Key>
-      <Value>Zapněte čtečku logiky.</Value>
+      <Value>Zapněte čtečku logiky</Value>
     </Record>
     <Record>
       <Key>8TurnOnWriter</Key>
@@ -41,7 +41,7 @@
     </Record>
     <Record>
       <Key>8ConstructCable2</Key>
-      <Value>Dokončete potrubní síť kyslíku</Value>
+      <Value>Připojte datový port na páce ke kabelové síti</Value>
     </Record>
     <Record>
       <Key>8TurnOffWriter</Key>

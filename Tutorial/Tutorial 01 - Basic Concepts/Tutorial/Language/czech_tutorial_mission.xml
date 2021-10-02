@@ -12,7 +12,7 @@
     </Record>
     <Record>
       <Key>BasicConceptsSubTitle</Key>
-      <Value>Praktická výuka: Fáze I</Value>
+      <Value>Praktický výcvik: Fáze I</Value>
     </Record>
     <Record>
       <Key>IntroClose</Key>
@@ -566,7 +566,7 @@ Sledujte vnější tlak na vašem stavovém panelu.</Value>
     </Record>
     <Record>
       <Key>Narration21D</Key>
-      <Value>Dobře, kadete, už jsi téměř dokončil první fázi praktické zkoušky Stationeeru.
+      <Value>Dobře, kadete, už jsi téměř dokončil první fázi praktického výcviku Stationeerů.
 Pokud se chcete dozvědět více, nahlédněte do Stationpedie stisknutím klávesy F1.</Value>
     </Record>
     <Record>
@@ -575,9 +575,9 @@ Pokud se chcete dozvědět více, nahlédněte do Stationpedie stisknutím kláv
     </Record>
     <Record>
       <Key>Narration22D</Key>
-      <Value>Dobře kadete, téměř jste dokončil fázi I. praktické výuky Stationeera.
-Pokud se chcete dozvědět více, podívejte se do Stationpedie stisknutím {KEY:Help} a po přečtení ji zavřete. Brzy budete provádět další výuku, ale zatím se tu chovejte jako doma. 
-Sundejte si oblek a umístěte jej do stojanu na oblek.</Value>
+      <Value>Dobře, kadete, už jsi téměř dokončil první fázi praktického výcviku Stationeerů.
+Pokud se chcete dozvědět více, nahlédněte do Stationpedie stisknutím klávesy F1. Jakmile si přečtete, zavřete Stationpedii. Brzy budete provádět další testování, ale zatím se chovejte jako doma. 
+Svlékni si oblek a ulož ho do úložné skříňky.</Value>
     </Record>
     <Record>
       <Key>GettingHelp</Key>
