@@ -263,8 +263,30 @@ Hodně štěstí, kadete!
     <StationpediaPage>
       <Key>AppliancePage</Key>
       <Title>Spotřebiče</Title>
-      <Text>Jedná se o předměty, které mohou být umístěny na pracovním stole pomocí hasáku.
-{LIST_OF_APPLIANCES}</Text>
+      <Text>Jedná se o položky, které lze umístit na lavičky. Musíte je umístit na lavičku tak, že je posadíte na lavičku a použijete hasák.
+{LIST_OF_APPLIANCES}
+  </Text>
+    </StationpediaPage>
+    <StationpediaPage>
+      <Key>TravelPage</Key>
+      <Title>Cestování na jiné planety</Title>
+      <DisplayFilter>Guides</DisplayFilter>
+      <Text>Počkejte! Ještě mě nezavírejte! Pro start musí být splněny následující podmínky:
+
+- Plně postavená raketa: minimálně 3 základní moduly;
+- {THING:StructureModularRocketFueltank01} plná paliva;
+- Správný poměr palivové směsi - {GAS:Volatiles} a {GAS:Oxygen} 2 : 1;
+- Napájení {THING:StructureLaunchPad};
+- Všichni hráči usazeni v {THING:StructureModularRocketCommand01}.
+
+Níže jsou uvedena ID VESMÍRNÉHO CESTOVÁNÍ. Můžete je použít k cestování na konkrétní planety v kombinaci s dokončeným {LINK:RocketShuttlePage;raketoplánem} a {LINK:LogicUnitPage;logickými jednotkami}.
+
+Jednoduše napište hash do proměnného nastavení na {THING:StructureLaunchPad} pomocí {THING:StructureLogicWriter} a {THING:StructureLogicMemory}. Poznámka: Kliknutím na hash jej zkopírujete do schránky.
+
+      {LIST}
+        {WORLD_HASHES}
+      {/LIST}
+      </Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>RocketShuttleModulesHelpPage</Key>
