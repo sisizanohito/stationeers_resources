@@ -154,6 +154,11 @@
       <Value>Soja</Value>
       <Unit>g</Unit>
     </RecordReagent>
+    <RecordReagent>
+      <Key>Mushroom</Key>
+      <Value>Champignon</Value>
+      <Unit>g</Unit>
+    </RecordReagent>
   </Reagents>
   <Gases>
     <Record>
@@ -5902,6 +5907,10 @@
       <Value>Portes et trappes</Value>
     </Record>
     <Record>
+      <Key>ChairTableCategory</Key>
+      <Value>Chaises</Value>
+    </Record>
+    <Record>
       <Key>PersonalSuits</Key>
       <Value>Combinaison</Value>
     </Record>
@@ -6012,6 +6021,10 @@
     <Record>
       <Key>Edibles</Key>
       <Value>Comestibles</Value>
+    </Record>
+    <Record>
+      <Key>Plants</Key>
+      <Value>Plantes et graines</Value>
     </Record>
     <Record>
       <Key>AirContitioningAtmos</Key>
@@ -8612,6 +8625,10 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
       <Value>Annuler</Value>
     </Record>
     <Record>
+      <Key>ServerReadyString</Key>
+      <Value>Maintenant, le serveur peut être démarré.</Value>
+    </Record>
+    <Record>
       <Key>ScriptCommandL</Key>
       <Value>Charge la variable du dispositif et la stocke dans le registre</Value>
     </Record>
@@ -9504,6 +9521,10 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
       <Value>Affichage de l&apos;aide. : &quot;/help&quot;</Value>
     </Record>
     <Record>
+      <Key>Seedsstring</Key>
+      <Value>Graines</Value>
+    </Record>
+    <Record>
       <Key>AgrizeroDesc</Key>
       <Value>Agrizero est une entreprise de biotechnologie agricole axée sur la recherche et le déploiement hors-monde de technologies agricoles. L’objectif de l’entreprise est de fournir un réseau de &quot;bio-usines&quot; autonomes et autosuffisantes qui, à terme, alimenteront un million d’êtres humains dans l’espace.
 Émergeant des catastrophes environnementales de la fin du XXIe siècle, l’entreprise prends racine dans les initiatives chinoises d’agriculture artificielle. Elle s’est maintenant étendue aux installations de la ceinture d’astéroïdes, où l’approvisionnement en astéroïdes de glace rend l’agriculture verticale en environnement contrôlée extrêmement prometteuse.
@@ -9907,12 +9928,36 @@ Le programme Stationeers, qui est fondamentalement ouvert à toute l’humanité
       <Value>Volume maître</Value>
     </Record>
     <Record>
+      <Key>NoAudioReceiverDevices</Key>
+      <Value>Aucun récepteur audio</Value>
+    </Record>
+    <Record>
+      <Key>Speed</Key>
+      <Value>Vitesse</Value>
+    </Record>
+    <Record>
       <Key>Release</Key>
       <Value>Décédé</Value>
     </Record>
     <Record>
+      <Key>CurrentInstrument</Key>
+      <Value>Instrument sélectionné</Value>
+    </Record>
+    <Record>
       <Key>NoSoundCartridge</Key>
       <Value>Cartes</Value>
+    </Record>
+    <Record>
+      <Key>NoNote</Key>
+      <Value>Aucune note</Value>
+    </Record>
+    <Record>
+      <Key>Intensity</Key>
+      <Value>Intensité</Value>
+    </Record>
+    <Record>
+      <Key>Waveform</Key>
+      <Value>Signaux</Value>
     </Record>
     <Record>
       <Key>StationpediaMaxPressure</Key>

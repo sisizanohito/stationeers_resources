@@ -19,7 +19,7 @@
     </Record>
     <Record>
       <Key>MarsDescInCaseOfEmergency</Key>
-      <Value>Váš oblek je poškozený a musíte si najít nějaké jídlo.</Value>
+      <Value>Tvůj oblek je poškozený a ty potřebuješ najít nějaké jídlo.</Value>
     </Record>
     <Record>
       <Key>MarsTaskGetTape</Key>
@@ -35,11 +35,11 @@
     </Record>
     <Record>
       <Key>MarsTabletStage1Page1</Key>
-      <Value>STRANA 1 ze 2\nNEPROPADEJTE PANICE\nPokud tohle čtete, přežili jste evakuaci - gratulujeme. Bez ohledu na vaše prostředí je vaší první prioritou kontrola zdraví sebe a ostatních okolo vás. Ujistěte se, že jste zkontrolovali integritu obleku, protože nevíte, do jakého prostředí se dostanete a ochrana vašich zásob vzduchu může být rozhodující.</Value>
+      <Value>STRANA 1 z 2\nNepanikařte.\n\nPokud čtete tento článek, přežili jste evakuaci - gratulujeme.  Bez ohledu na prostředí je vaší prioritou zkontrolovat zdraví své i svého okolí.  Nezapomeňte také zkontrolovat neporušenost obleku, protože nelze říci, v jakém prostředí se můžete ocitnout, a ochrana jakýchkoli zásob vzduchu je pro vás zásadní.</Value>
     </Record>
     <Record>
       <Key>MarsTabletStage1Page2</Key>
-      <Value>STRANA 2 ze 2\nPokud jste poblíž nepoškozeného únikového modulu a připojené zásobovací bedny, měli byste mít nějaké důležité zásoby, které vám pomohou počkat na záchranu. Pokud ne, vyhledejte přeživší. Všímejte si umístění nebo rovnou sbírejte zásoby, které mají zásadní význam pro přežití, například jídlo, baterie, spotřební materiál jako lepící páska a přenosné vybavení pro přežití.</Value>
+      <Value>STRANA 2 z 2 \nJestliže se nacházíte v blízkosti neporušeného únikového modulu a připojené zásobovací bedny, měli byste mít k dispozici důležité zásoby, které vám pomohou při čekání na záchranu. Pokud ne, hledejte přeživší.  Měli byste si poznamenat umístění nebo shromáždit všechny zásoby, které budou pro vaše přežití nejdůležitější, jako jsou potraviny, baterie, užitkové materiály, například lepicí páska, a přenosné vybavení pro přežití. \n</Value>
     </Record>
     <!-- Mission Stage: Aquire Raw Materials -->
     <Record>
