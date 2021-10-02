@@ -5962,11 +5962,15 @@
     </Record>
     <Record>
       <Key>KitCategory</Key>
-      <Value>Konstrukce</Value>
+      <Value>Konstrukční sady</Value>
     </Record>
     <Record>
       <Key>DoorCategory</Key>
       <Value>Dveře a poklopy</Value>
+    </Record>
+    <Record>
+      <Key>ChairTableCategory</Key>
+      <Value>Židle</Value>
     </Record>
     <Record>
       <Key>PersonalSuits</Key>
@@ -6995,11 +6999,11 @@
     </Record>
     <Record>
       <Key>AlertInvalidPort</Key>
-      <Value>Hodnota portu musí být mezi 0 a 65535.</Value>
+      <Value>Hodnoty portu musí být v rozmezí 0 až 65535.</Value>
     </Record>
     <Record>
       <Key>AlertCannotUpdatePort</Key>
-      <Value>Nelze změnit port pro aktualizace, je-li spuštěn server.</Value>
+      <Value>Nelze změnit port aktualizace, když je server spuštěn.</Value>
     </Record>
     <Record>
       <Key>AlertBlankSaveName</Key>
@@ -10271,8 +10275,16 @@ Program náborů z oblasti stavebnictví, vojenského a leteckého průmyslu, v�
       <Value>Výživa</Value>
     </Record>
     <Record>
+      <Key>MoleNitrousOxideDescription</Key>
+      <Value>Oxid dusný je inertní plyn, který při vdechnutí hráče omráčí. Způsobí, že se váš {THING:ItemJetpackBasic} rozletí.</Value>
+    </Record>
+    <Record>
       <Key>SettingsSmoothTerrain</Key>
-      <Value>Terén</Value>
+      <Value>Hladký terén</Value>
+    </Record>
+    <Record>
+      <Key>SettingsVirtualizedRendering</Key>
+      <Value>Virtualizované vykreslování</Value>
     </Record>
   </Interface>
   <Colors>
