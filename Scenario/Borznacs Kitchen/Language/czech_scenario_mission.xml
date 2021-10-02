@@ -1,5 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Code>CS</Code>
-  <Interface/>
+  <Interface>
+    <Record>
+      <Key>ScenariosBorznacsKitchen</Key>
+      <Value>Borznacova kuchyně</Value>
+    </Record>
+    <Record>
+      <Key>TutoiralGasMixingSubTitle</Key>
+      <Value>Radši se pusťte do vaření</Value>
+    </Record>
+    <Record>
+      <Key>ScenariosBorznacsKitchenDescription</Key>
+      <!--Menu Disc-->
+      <Value>Poté, co byl Borznac pátý vyřazen z několika obchodních dohod se Sinotai, rozhodl se vybudovat vlastní říši a ovládnout všechny okolní měsíční základny, včetně té vaší.¶
+Byl jsi nucen pracovat jako jeho nový osobní kuchař. Tak se raději pusť do vaření.</Value>
+    </Record>
+    <Record>
+      <Key>ScenariosBorznacsKitchenIntroDescription</Key>
+      <!--Intro Panel-->
+      <Value>Borznac pátý není známý svou zdvořilostí. Poté, co byl vyřazen z několika obchodních dohod se Sinotai, rozhodl se vybudovat vlastní říši a ovládnout všechny okolní lunární základny, včetně té vaší. ¶
+Byl jsi nucen pracovat jako jeho nový osobní kuchař. Stále nevíš, co se stalo s jeho posledním kuchařem, a nechceš to zjistit. Má docela chuť k jídlu a je velmi netrpělivý. Takže se raději pusť do vaření.</Value>
+    </Record>
+    <Record>
+      <Key>CookingForYourLifeSubTitle</Key>
+      <Value>Vař jako o život!</Value>
+    </Record>
+    <Record>
+      <Key>BakedPotato1</Key>
+      <Value>Uvařte a doručte 4 pečené brambory.</Value>
+    </Record>
+    <Record>
+      <Key>FriesTask1</Key>
+      <Value>Uvařte a doručte 2 balení hranolek.</Value>
+    </Record>
+  </Interface>
 </Language>
