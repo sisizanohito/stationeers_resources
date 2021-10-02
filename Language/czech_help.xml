@@ -85,21 +85,25 @@ Zakázky  Spes&apos;mall
       <Key>ConstructionPage</Key>
       <Title>Konstrukce</Title>
       <DisplayFilter>Guides</DisplayFilter>
-      <Text>{HEADER:Začínáme}
-Obvykle budete používat {LINK:KitPage;sady} k zahájení konstrukcí a poté dokončovat pomocí {LINK:ToolPage;nástrojů} a {LINK:ResourcePage;zdrojů}. Věnujte zvýšenou pozornost tomu, kolik sad je zapotřebí k vytvoření vybrané konstrukce, protože některé mohou vyžadovat více než jednu. U některých sad budete mít více druhů konstrukcí, které lze měnit pomocí {COLORRED:kolečka myši} na požadovanou variantu.
+      <Text>{HEADER}:Začátek}
+Obvykle použijete {LINK:KitPage;sady} k zahájení stavby a poté různé {LINK:ToolPage;nástroje} a {LINK:ResourcePage;zdroje} k dokončení. Dávejte dobrý pozor na to, kolik sad je potřeba ke stavbě toho, co jste si vybrali, protože některé sady vyžadují spotřebování více než jedné z nich. U některých sad budete mít k dispozici více možností, pomocí {COLORRED:rolovacího kolečka} změňte aktuální možnost, kterou chcete postavit.
 
-{HEADER:Fáze konstrukce}
-Některé konstrukce mají více stupňů výstavby, a proto budou vyžadovat postupné dokončování. Popis vám poradí, co zrovna potřebujete k dokončení daného stupně. Někdy budete muset použít k dokončení stupně dva předměty, každý v jedné ruce. Některé nástroje bude nutné nejprve zapnout, což provedete držením v aktivní ruce a stisknutím klávesy {KEY:ToggleHandPower}.
+{HEADER:Stavy stavby}
+Některé stavby budou mít více stavů sestavení, které vyžadují k dokončení různé kombinace. Nápověda vás bude informovat o tom, jakou kombinaci potřebujete k dokončení stavby. Někdy budete k dokončení stavu stavby potřebovat dva předměty, v každé ruce jeden. Některé nástroje bude třeba nejprve zapnout, což lze provést stisknutím {KEY:ToggleHandPower}, když je máte v aktivní ruce.
 
-{HEADER:Tipy}
-Pohledem na neúplnou konstrukci získáte informace o tom, co všechno musíte udělat pro její dokončení. Pokud naopak chcete nějakou konstrukci rozebrat a držíte v ruce nesprávný {LINK:ToolPage;nástroj}, zobrazí se popisek se správným nástrojem.</Text>
+{HEADER:Popisky}
+Pokud se podíváte přímo na nedokončenou konstrukci, zobrazí se informace o tom, co je třeba udělat pro její dokončení. Pokud máš v ruce {LINK:ToolPage;nástroj} a není to ten správný {LINK:ToolPage;nástroj}, zobrazí se nápověda, která ti řekne, co bys musel použít, abys ji rozložil.
+
+{HEADER:Tlak}
+Při stavbě je důležité si uvědomit, že tlak se měří jako diferenciál. Většina konstrukcí má limit tlaku 200 kPa: pokud je rozdíl mezi vnitřkem a vnějškem větší než tato hodnota, máte problémy.
+  </Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>ReagentPage</Key>
       <Title>Činidla</Title>
-      <Text>Tohle jsou chemická množství určitých typů.
-      {LIST_OF_REAGENTS}
-      </Text>
+      <Text>Jedná se o chemická množství určitých typů. 
+  {LIST_OF_REAGENTS}
+  </Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>GasPage</Key>
