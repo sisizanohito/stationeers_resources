@@ -33,15 +33,29 @@
     <Record>
       <Key>8ConstructWriter</Key>
       <Value>Umístěte logický zapisovač na zvýrazněnou pozici</Value>
+    </Record>
+    <Record>
+      <Key>8Narration5D</Key>
+      <Value>Nyní naprogramujte logický zapisovač. 
+Nastavte vstup zapisovače (IN) na &quot;Logická čtečka&quot; a jeho výstup (VEN) na &quot;Nástěnné světlo&quot;. 
+Nakonec nastavte výstupní proměnnou (OUT VAR) na &apos;Zapnuto&apos;, aby přepínala proměnnou zapnuto/vypnuto světlo.</Value>
+    </Record>
+    <Record>
+      <Key>8LogicWritterInput1</Key>
+      <Value>Nastavte vstup logického zapisovače (IN) na &quot;Logická čtečka&quot;.</Value>
     </Record>&gt;
 		
+    <Record>
+      <Key>8Narration6D</Key>
+      <Value>Nyní jsou logická čtečka a logický zapisovač naprogramovány, takže je lze bezpečně zapnout.</Value>
+    </Record>
     <Record>
       <Key>8TurnOnReader</Key>
       <Value>Zapněte čtečku logiky</Value>
     </Record>
     <Record>
       <Key>8TurnOnWriter</Key>
-      <Value>Zapněte čtečku logiky.</Value>
+      <Value>Zapněte logický zapisovač</Value>
     </Record>
     <Record>
       <Key>8ConstructCable2</Key>
