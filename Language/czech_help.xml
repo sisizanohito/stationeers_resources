@@ -47,6 +47,41 @@
   </Text>
     </StationpediaPage>
     <StationpediaPage>
+      <Key>TradingPage</Key>
+      <Title>Obchodování</Title>
+      <DisplayFilter>Guides</DisplayFilter>
+      <Text>Obchodování je nezbytnou součástí existence &lt;color=#0080FFFF&gt;{LINK:Stationeers;Stationeerů}&lt;/color&gt; , zejména na extrémnějších světech, kde mohou mít noví kadeti zpočátku problém přežít bez pomoci.
+
+{HEADER:Začátek}
+
+Chcete-li kontaktovat obchodníka, musíte si vytvořit komunikační systém. To vyžaduje následující:
+
+- Napájený {THING:StructureVendingMachine}, který bude sloužit k ukládání a obchodování s předměty.
+- funkční {THING:StructureSatelliteDish} k vyhledávání a identifikaci potenciálních obchodníků.
+- Fungující {THING:StructureComputer} se spuštěnou {THING:MotherboardComms}.
+- Napájený {THING:StructureShuttleLandingPad}, na kterém může obchodník přistát.
+
+Po spuštění systému se na terminálu počítače zobrazí prázdná obrazovka. Upravte polohu satelitní antény, dokud nezaregistruje jednoho nebo více obchodníků. Ti se objeví na obrazovce s hodnocením od 1 do 100 %. To je síla vašeho signálu. Obchodníka lze vyvolat pouze tehdy, když je síla signálu vyšší než 95 %. Jakmile je obchodník kontaktován, následně uvede své jméno. Různí obchodníci poskytují různé kategorie položek.
+
+{HEADER:Obchodníci}
+
+Elektronika  TechTree Electronics
+Organické látky  Organicon
+Základní  Spes&apos;mall Basics
+Hydraulika  HydrauliKit
+Rudy  MineRiteOres
+Mikrovlny  Microwares
+Chemie  ChemLab
+Exotika  ExoTech
+Barvy  Color Corp Paints
+Nástroje  Tool Corp
+Bezpečnost  Hall Corp Security
+Ostatní  Kolders&apos; Assorted Goods
+Plyn  GasTrade
+Zakázky  Spes&apos;mall
+      </Text>
+    </StationpediaPage>
+    <StationpediaPage>
       <Key>ConstructionPage</Key>
       <Title>Konstrukce</Title>
       <DisplayFilter>Guides</DisplayFilter>
