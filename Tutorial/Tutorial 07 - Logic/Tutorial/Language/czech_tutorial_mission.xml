@@ -56,6 +56,10 @@
       <Value>Zapněte čtečku logiky.</Value>
     </Record>
     <Record>
+      <Key>8Narration10D</Key>
+      <Value>S vypnutým logickým zapisovačem můžete páku resetovat, aniž byste se museli vrhnout do děsivé tmy.</Value>
+    </Record>
+    <Record>
       <Key>8ConstructBatchWriter</Key>
       <Value>Postavte ventil na zvýrazněné místo</Value>
     </Record>
@@ -70,6 +74,10 @@
     <Record>
       <Key>8Narration18D</Key>
       <Value>Programování dveří je jednoduché. Jsou již připojeny k síti - stačí tedy nastavit původní zapisovač logiky na výstup &quot;Skleněné dveře&quot; a zapsat do proměnné &quot; Otevřít&quot; dveří.</Value>
+    </Record>
+    <Record>
+      <Key>8BatchWriterLogicType2</Key>
+      <Value>Nastavte proměnnou logického zapisovače (OUT VAR) na &apos;Otevřít&apos;</Value>
     </Record>
   </Interface>
 </Language>
