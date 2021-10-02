@@ -87,5 +87,35 @@ Byl jsi nucen pracovat jako jeho nový osobní kuchař. Stále nevíš, co se st
       <Value>Mám hlad, tak mi udělej pečené brambory. Ale nezapomeň, že najednou můžeš uvařit jen jednu.
 Až budou hotové, doruč mi je skrz šachtu. Nezklam mě. Můj poslední kuchař byl pomalý a hloupý. Nedopadlo to s nimi dobře.</Value>
     </Record>
+    <Record>
+      <Key>BorznacsNarration1D</Key>
+      <Value>To bylo sotva dostačující. Chci něco s chutí. Žádám - hranolky! Určitě si pamatuješ, jak se vaří?</Value>
+    </Record>
+    <Record>
+      <Key>BorznacsNarration2D</Key>
+      <Value>Mmmmm ... to bylo lepší. Teď mám chuť na sladkou svačinu. Udělej mi muffiny, nebo zažiješ můj hněv.</Value>
+    </Record>
+    <Record>
+      <Key>BorznacsNarration3D</Key>
+      <Value>Ach, všechna ta sladkost mě dostala do těstovité nálady. Ano, myslím, že nějaký chléb se bude hodit.</Value>
+    </Record>
+    <Record>
+      <Key>BorznacsNarration4D</Key>
+      <Value>Ze všeho toho jídla jsem trochu vyprahlý. Potřebuji se napít. Nějaké čerstvé mléko bude ideální. Ať je to tak!</Value>
+    </Record>
+    <Record>
+      <Key>BorznacsNarration5D</Key>
+      <Value>Ach, vedl jste si mnohem lépe než váš předchůdce. Teď něco klasického. Dýňový koláč je to, co potřebuji. Okamžitě mi ho udělejte. Otevřel jsem šachtu v místnosti se zdroji. Můžeš použít cokoliv, co tam nechal minulý kuchař.</Value>
+    </Record>
+    <Record>
+      <Key>BorznacsNarration6D</Key>
+      <Value>Vynikající. Na rozdíl od tvého imbecilního předchůdce máš možná na to, abys mi sloužil. Jednoho dne možná dokonce zvážím, že ti dám svobodu. Možná. Ale teď jsem připraven na večeři. Dokonči jídlo o třech chodech, nebo poneseš - nevýslovné následky.</Value>
+    </Record>
+    <Record>
+      <Key>BorznacWinEnd</Key>
+      <Value>Prokázal jsi, že jsi nepostradatelným služebníkem Borznaca.
+			
+Gratuluji.</Value>
+    </Record>
   </Interface>
 </Language>
