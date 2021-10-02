@@ -2241,7 +2241,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureLogicWriter</Key>
-      <Value>Zapisovač logiky</Value>
+      <Value>Logický zapisovač</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLogicSelect</Key>
@@ -3257,7 +3257,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureLogicWriterSwitch</Key>
-      <Value>Přepínač zapisovače logiky</Value>
+      <Value>Přepínač logického zapisovače</Value>
     </RecordThing>
     <RecordThing>
       <Key>MotherboardProgrammableChip</Key>
@@ -6062,7 +6062,7 @@
     </Record>
     <Record>
       <Key>LogicWriterCategory</Key>
-      <Value>Zapisovače logiky</Value>
+      <Value>Logické zapisovače</Value>
     </Record>
     <Record>
       <Key>MotherboardCategory</Key>
@@ -8013,7 +8013,7 @@
     </Record>
     <Record>
       <Key>LogicTypeForceWrite</Key>
-      <Value>Vynutí přepsání hodnoty zařízení pro zapisovač logiky</Value>
+      <Value>Přinutí přepsat hodnotu zařízení pro logický zapisovač</Value>
     </Record>
     <Record>
       <Key>LogicTypeSignalStrength</Key>
