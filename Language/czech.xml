@@ -2805,7 +2805,7 @@
     </RecordThing>
     <RecordThing>
       <Key>CartridgeGuide</Key>
-      <Value>Průvodce</Value>
+      <Value>Přiručka</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeCrossJunction4</Key>
@@ -9888,9 +9888,10 @@ Obvinění z nezákonného přemístění asteroidů, porušení bezpečnosti a 
     </Record>
     <Record>
       <Key>SinotaiDesc</Key>
-      <Value>Sinotai je jediný &apos;tradiční&apos; státní subjekt, který přežil mimozemskou politiku, ale jeho dosah a síla je až na druhém místě za samotnou &lt;color=#0080FFFF&gt;{LINK:ODA;ODA}&lt;/color&gt;. V mnoha ohledech relikvie - podřízena neuvěřitelně komplikované podnikové byrokracii vázané na Zemi - jejíž struktura umožnila Sinotai dosáhnout neuvěřitelných věcí.
-Na počátku 21. století dokázala svou sílu tím, že na Mars umístila první lidi, založila první mimozemský gigawattový energetický systém a první vesmírnou rafinérii pohonných hmot, jen málo vesmírných organizací postrádá určitý stupeň vztahu se Sinotai. V častém vtipu se říká, že bez nich není možné ve vesmíru nic udělat.
-Bez ohledu na pravdu, přístup Sinotai k mimozemskému vývoji zahrnoval metodu &apos;měkké síly&apos;, od memoranda s &lt;color=#0080FFFF&gt;{LINK:Recurso;Recurso}&lt;/color&gt; (umožňující přednostní přístup k vesmírnému výtahu Manaus) až po pochybná výhodná spojenectví s řadou obchodních skupin.</Value>
+      <Value>Sinotai je jediným &quot;tradičním&quot; státním útvarem, který přežívá v mimozemské politice, a svým rozsahem a mocí se vyrovná pouze samotnému &lt;color=#0080FFFF&gt;{LINK:ODA;ODA}&lt;/color&gt;. V mnoha ohledech je reliktem - dílčí agenturou ohromně komplikované pozemské korporátní byrokracie - a její struktura umožnila Sinotai dosáhnout neuvěřitelných věcí.
+Na počátku 21. století prokázala své schopnosti tím, že vyslala první lidi na Mars, vytvořila první mimozemský gigawattový energetický systém a první vesmírnou rafinerii pohonných hmot, a jen málokterá organizace, která se pohybuje ve vesmíru, nemá se Sinotai nějaký vztah. Běžný vtip říká, že bez nich nelze ve vesmíru nic dělat.
+Bez ohledu na to, co je na tom pravdy, Sinotai v oblasti mimozemského rozvoje uplatňuje přístup &quot;měkké síly&quot;, od memoranda o porozumění s &lt;color=#0080FFFF&gt;{LINK:Recurso;Recurso}&lt;/color&gt; (které jim zajišťuje přednostní přístup k vesmírnému výtahu v Manausu) až po nejasnější výhodná spojenectví s řadou skupin obchodníků.
+  </Value>
     </Record>
     <Record>
       <Key>TK</Key>
@@ -9898,29 +9899,32 @@ Bez ohledu na pravdu, přístup Sinotai k mimozemskému vývoji zahrnoval metodu
     </Record>
     <Record>
       <Key>TKDesc</Key>
-      <Value>Původně dodavatel obrany se specializací na hrubou sílu, vysoce výkonné zbraně, tanzanské kinetické systémy provedly rozsáhlý mírový pivot, který se stal předním konstruktérem vysokorychlostních dopravníků zboží Afrického shromáždění.
-Společnost TK, která nyní vyrábí řadu návrhů a komponentů sítí skluzů, má silné mimosvětové zastoupení v důsledku partnerství Afro-Sino v druhém případě 21. století. Společnost sídlí v ‘znovuobjevené’ čtvrti Kigamboni v Dar E Salaamu a pravidelně vstupuje do rozvojových partnerství s &lt;color=#0080FFFF&gt;{LINK:CHAC;CHAC}&lt;/color&gt;, a díky tomu se řada jejich produktů vyznačuje zřetelnou podobností.
-Koneckonců, co je to zbraň, ale ‘vysokorychlostní dopravník zboží’.</Value>
+      <Value>Tanzanská společnost Kinetic Systems, původně obranný dodavatel specializující se na zbraně s velkou silou, se v době míru změnila na předního konstruktéra vysokorychlostních dopravníků zboží v Africkém shromáždění.
+V současné době vyrábí řadu konstrukcí a komponentů žlabových sítí a díky afro-čínským partnerstvím v druhé polovině 21. století má TK silné zastoupení i mimo svět. Společnost sídlí v &quot;rekonstruované&quot; čtvrti Kigamboni v Dar E Salaamu a pravidelně uzavírá vývojová partnerství s &lt;color=#0080FFFF&gt;{LINK:CHAC;CHAC}&lt;/color&gt;, v důsledku čehož mnohé jejich výrobky vykazují výraznou podobnost.
+  Koneckonců, co jiného je zbraň než &quot;vysokorychlostní dopravník zboží&quot;.
+  </Value>
     </Record>
     <Record>
       <Key>XigoDesc</Key>
-      <Value>Průzkum 2150CE odhalil Xigo &apos;X&apos; jako jeden z nejuznávanějších symbolů na světě. Přesto jen málo účastníků dokázalo jasně popsat skutečný rozsah společnosti.
-Přesně tam, kde společnost začíná a končí, bylo předmětem nekonečných teorií, finančních studií a soudních sporů - původně webové stránky pro srovnání cen, konglomerát se rozšířil o data, distribuci a nakonec výrobu.
-Jednalo se o zdánlivě nevybíravou expanzi, která se nezaměřovala na jedno odvětví, ale na všechny - a to v tolika oblastech, že obchodní analytici do značné míry odmítli myšlenku Xigo jako jediného subjektu. Jedná se spíše o koncepční seskupení pro odvětví lidské činnosti. A i když jsou tyto statistiky - ze své podstaty - obtížně potvrditelné, nedávné odhady naznačují, že Xigo zaměstnává více než 1.5% celé lidské rasy.
-Stačí říct, že produkuje téměř všechno.</Value>
+      <Value>Průzkum 2150CE ukázal, že Xigo &quot;X&quot; je jedním z nejznámějších symbolů na světě. Přesto jen málo účastníků dokázalo jasně popsat skutečnou působnost společnosti.
+Kde přesně společnost začíná a končí, je předmětem nekonečných teorií, finančních studií a soudních sporů - původně šlo o webovou stránku pro porovnávání cen, konglomerát se rozšířil o data, pak o distribuci a nakonec o výrobu.
+Byla to zdánlivě nevybíravá expanze, zaměřená nikoli na jedno odvětví, ale na všechna - zabírající tolik oborů, že obchodní analytici většinou odmítli myšlenku Xigo jako jediného subjektu. Spíše se jedná o pojmové seskupení pro odvětví lidské činnosti. A přestože je takové statistiky - ze své podstaty - obtížné potvrdit, nedávné odhady naznačují, že Xigo zaměstnává více než 1,5 % celého lidstva.
+Stačí říct, že vyrábí téměř všechno.
+  </Value>
     </Record>
     <Record>
       <Key>StationeersDesc</Key>
-      <Value>Na počátku 22. století se Země vynořovala z katastrofy. Její zdroje erodovaly, naše populace se snížila, obnova byla duchem doby.
-Program Stationeer, který zahájila v roce 2095CE &lt;color=#0080FFFF&gt;{LINK:ODA;Offworld Development Agency}&lt;/color&gt; (ODA: Vesmírná rozvojová agentura), byl věnován jedinému ideálu: udržování lidstva namířeného ke hvězdám.
-Stationeeři jsou všechno: astronauti, inženýři a průzkumníci, nasazeni s omezeným vybavením a nástroji, vyškolení dělat více za méně. Mají za cíl přeměnit prostředí ke svému prospěchu, zajistit infrastrukturu pro lidi ve vesmíru, a to za zlomek nákladů na tradiční vesmírné programy.
-Stationeeři jsou především naším předvojem ve vesmíru, dokážou vybudovat a udržovat základny kdekoli od Měsíce po Mimas a ještě mnohem dále. Jsou školeni v přežití ve vesmíru, těžební a stavební technice, základní metalurgii, elektronice, raketové technice, hydroponii a v dalších ‘tajemných’ vědách, prostě dělají všechno, co je zapotřebí pro prosperitu a přežití.
-Jsou také proslulí tím, že nemají žádná vstupní kritéria a že neexistuje nic jako ‘typický’ Stationeer. Psychologické profilování naznačuje, že úspěšní kadeti vykazují ‘základní’ pragmatismus a cílevědomost, ale někteří z nejslavnějších Stationeerů nemají žádnou z těchto vlastností.
-Program náborů z oblasti stavebnictví, vojenského a leteckého průmyslu, vývoje softwaru, těžebních uskupení, vědeckých oborů a dokonce i náboženských řádů, je - v zásadě - otevřen celému lidstvu.</Value>
+      <Value>Na počátku 22. století se Země vzpamatovávala z kataklyzmatu. Její zdroje byly vyčerpány, populace zredukována a duchem doby byla obnova.¶
+Program Stationeers, iniciovaný &lt;color=#0080FFFF&gt;{LINK:ODA;Mimoosvětová rozvojová agentura}&lt;/color&gt; (ODA) v roce 2095CE, byl zasvěcen jedinému ideálu: udržet lidstvo nasměrované ke hvězdám.¶
+Stationeerové jsou všechno: astronauti, inženýři a průzkumníci, nasazení s omezeným vybavením a nástroji, vycvičení k tomu, aby zvládli více s menším množstvím. Jejich úkolem je využít prostředí ve svůj prospěch a zajistit lidem ve vesmíru infrastrukturu za zlomek nákladů tradičních vesmírných programů.
+Stationeeři, kteří jsou schopni vybudovat a udržovat základny kdekoli od Měsíce až po Mimas a dále, jsou naší avantgardou ve vesmíru. Vyškoleni v oblasti přežití mimo Zemi, těžebních a stavebních technik, základů metalurgie, elektroniky, raketové techniky, hydroponie a dalších &quot;tajných&quot; věd, dělají Stationeeři to, co musí, aby přežili a prosperovali.
+Jsou proslulí tím, že nemají žádná vstupní kritéria, a proto neexistuje žádný &quot;typický&quot; Stationeer. Psychologický profil naznačuje, že úspěšní kadeti vykazují &quot;základní&quot; pragmatismus a cílevědomost, ale někteří z nejslavnějších Stationeerů nemají ani jednu z těchto vlastností.
+Program Stationeers je otevřen všem lidem, a to jak z oblasti stavebního inženýrství, vojenského a leteckého průmyslu, vývoje softwaru, těžebních skupin, tak i z vědeckých oborů a dokonce i náboženských řádů.
+  </Value>
     </Record>
     <Record>
       <Key>ControlMouseControlDisc</Key>
-      <Value>aktivuje ovládání myší</Value>
+      <Value>Aktivuje ovládání myší</Value>
     </Record>
     <Record>
       <Key>ControlMouseDrag</Key>
@@ -9928,11 +9932,11 @@ Program náborů z oblasti stavebnictví, vojenského a leteckého průmyslu, v�
     </Record>
     <Record>
       <Key>ControlMouseDragDisc</Key>
-      <Value>přesune vybrané</Value>
+      <Value>Přesune vybrané</Value>
     </Record>
     <Record>
       <Key>ControlSecondaryActionBuildModeDisc</Key>
-      <Value>zapne režim stavby</Value>
+      <Value>Zapne režim stavby</Value>
     </Record>
     <Record>
       <Key>ControlScrollWheelSelectDisc</Key>
@@ -9940,7 +9944,7 @@ Program náborů z oblasti stavebnictví, vojenského a leteckého průmyslu, v�
     </Record>
     <Record>
       <Key>ControlAutoRotateDisc</Key>
-      <Value>automatické otočení</Value>
+      <Value>Automatické otáčení</Value>
     </Record>
     <Record>
       <Key>ControlMouseScroll</Key>
@@ -9948,11 +9952,11 @@ Program náborů z oblasti stavebnictví, vojenského a leteckého průmyslu, v�
     </Record>
     <Record>
       <Key>ControlMouseScrollDisc</Key>
-      <Value>vybere položku</Value>
+      <Value>Vybere položku</Value>
     </Record>
     <Record>
       <Key>ControlTurnOnDisc</Key>
-      <Value>zapne</Value>
+      <Value>Zapne</Value>
     </Record>
     <Record>
       <Key>ControlQuickMove</Key>
@@ -9960,7 +9964,7 @@ Program náborů z oblasti stavebnictví, vojenského a leteckého průmyslu, v�
     </Record>
     <Record>
       <Key>ControlQuickMoveDisc</Key>
-      <Value>rychle přesune předměty</Value>
+      <Value>Rychle přesune předměty</Value>
     </Record>
     <Record>
       <Key>WeatherEventsField</Key>
@@ -9972,7 +9976,7 @@ Program náborů z oblasti stavebnictví, vojenského a leteckého průmyslu, v�
     </Record>
     <Record>
       <Key>ControlMineDisc</Key>
-      <Value>vytěží rudu</Value>
+      <Value>Vytěží rudu</Value>
     </Record>
     <Record>
       <Key>ControlSecondaryEatDisc</Key>
@@ -9996,7 +10000,7 @@ Program náborů z oblasti stavebnictví, vojenského a leteckého průmyslu, v�
     </Record>
     <Record>
       <Key>FixedWeatherEventMissing</Key>
-      <Value>Nebyl nalezen žádný meteorologický systém, a proto byl použit běžný systém počasí. Očekávejte nějaké turbulence.</Value>
+      <Value>Pro tento svět nebyl nalezen žádný systém počasí. Byl použit výchozí systém počasí. Očekávejte turbulence.</Value>
     </Record>
     <Record>
       <Key>AdvancedTutorialButton</Key>
@@ -10107,6 +10111,10 @@ Program náborů z oblasti stavebnictví, vojenského a leteckého průmyslu, v�
       <Value>Vyhledat</Value>
     </Record>
     <Record>
+      <Key>StationpediaBeginnerGuides</Key>
+      <Value>Přiručky</Value>
+    </Record>
+    <Record>
       <Key>StationpediaAdvancedGuides</Key>
       <Value>Vesmír</Value>
     </Record>
@@ -10192,15 +10200,22 @@ Program náborů z oblasti stavebnictví, vojenského a leteckého průmyslu, v�
     </Record>
     <Record>
       <Key>StationpediaConstructionOptions</Key>
-      <Value>Možnosti konstrukce</Value>
+      <Value>
+  Možnosti konstrukce</Value>
     </Record>
     <Record>
       <Key>StationpediaModeHeader</Key>
       <Value>Režim</Value>
     </Record>
     <Record>
+      <Key>StationpediaLogicHeader</Key>
+      <Value>
+  Logika</Value>
+    </Record>
+    <Record>
       <Key>StationpediaLogicSlotHeader</Key>
-      <Value>Logické sloty</Value>
+      <Value>
+        Logické sloty</Value>
     </Record>
     <Record>
       <Key>StationpediaTutorialListHeader</Key>
@@ -10233,6 +10248,10 @@ Program náborů z oblasti stavebnictví, vojenského a leteckého průmyslu, v�
     <Record>
       <Key>HydrationCritical</Key>
       <Value>Kritická hydratace</Value>
+    </Record>
+    <Record>
+      <Key>Guides</Key>
+      <Value>Přiručky</Value>
     </Record>
     <Record>
       <Key>Lore</Key>
