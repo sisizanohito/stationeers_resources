@@ -8220,24 +8220,12 @@ Je neochvějným univerzálním zákonem, že vše vyšší než 11 bude fialov�
       <Value>Exo technologie</Value>
     </Record>
     <Record>
-      <Key>TraderPaint</Key>
-      <Value>Prodejce barev</Value>
-    </Record>
-    <Record>
       <Key>TraderTool</Key>
       <Value>Prodejce nástrojů</Value>
     </Record>
     <Record>
-      <Key>TraderSecurity</Key>
-      <Value>Prodejce zabezpečení</Value>
-    </Record>
-    <Record>
       <Key>TraderOther</Key>
-      <Value>Koldersovo zboží</Value>
-    </Record>
-    <Record>
-      <Key>TraderGas</Key>
-      <Value>Plynárenský obchod</Value>
+      <Value>Koldersovo rozmanité zboží</Value>
     </Record>
     <Record>
       <Key>ButtonContact</Key>
@@ -8361,7 +8349,7 @@ Je neochvějným univerzálním zákonem, že vše vyšší než 11 bude fialov�
     </Record>
     <Record>
       <Key>PromptTravelBody</Key>
-      <Value>Opravdu chcete cestovat na mapu?</Value>
+      <Value>Jste si jisti, že chcete cestovat po mapě?</Value>
     </Record>
     <Record>
       <Key>TravelMenuNamePlaceholder</Key>
@@ -8545,7 +8533,7 @@ Je neochvějným univerzálním zákonem, že vše vyšší než 11 bude fialov�
     </Record>
     <Record>
       <Key>DialogConfirmLastSaveIsAutoSave</Key>
-      <Value>JSTE SI JISTÝ? Poslední uložení, které máte, je automatické uložení. Pokud teď neuložíte hru, můžete svůj postup ztratit.</Value>
+      <Value>JSTE SI JISTI? Poslední uložení, které máte, je automatické uložení. Pokud nyní neuložíte hru, můžete přijít o svůj postup.</Value>
     </Record>
     <Record>
       <Key>GameMenuButtonCancel</Key>
@@ -8882,6 +8870,10 @@ Je neochvějným univerzálním zákonem, že vše vyšší než 11 bude fialov�
     <Record>
       <Key>ResearchCancel</Key>
       <Value>Zrušit</Value>
+    </Record>
+    <Record>
+      <Key>ServerReadyString</Key>
+      <Value>Nyní lze spustit server.</Value>
     </Record>
     <Record>
       <Key>ScriptCommandL</Key>
@@ -9385,7 +9377,7 @@ Je neochvějným univerzálním zákonem, že vše vyšší než 11 bude fialov�
     </Record>
     <Record>
       <Key>DialogConfirmResearchUnlock</Key>
-      <Value>Chcete odemknout tento výzkum?</Value>
+      <Value>Chcete tento výzkum odemknout?</Value>
     </Record>
     <Record>
       <Key>ResearchRequirementTitle</Key>
