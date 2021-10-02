@@ -5248,6 +5248,10 @@
       <Value>Семена риса</Value>
     </RecordThing>
     <RecordThing>
+      <Key>SeedBag_Pumpkin</Key>
+      <Value>Семена тыквы</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitAdvancedComposter</Key>
       <Value>Из этого набора собирается {THING:StructureRocketModuleSilo}.</Value>
     </RecordThing>
