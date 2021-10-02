@@ -9581,7 +9581,7 @@ Je neochvějným univerzálním zákonem, že vše vyšší než 11 bude fialov�
     </Record>
     <Record>
       <Key>PlantToxic</Key>
-      <Value>{0} je poškozena kvůli vysoké {1} znečišťující látce {2} v atmosféře</Value>
+      <Value>{0} je poškozována v důsledku vysokého obsahu {1}znečišťujících látek{2} v atmosféře.</Value>
     </Record>
     <Record>
       <Key>holdhotkey</Key>
@@ -9613,7 +9613,7 @@ Je neochvějným univerzálním zákonem, že vše vyšší než 11 bude fialov�
     </Record>
     <Record>
       <Key>DeconstructToolTipText</Key>
-      <Value>{0} potřeba k rozebrání</Value>
+      <Value>{0} nutné k dekonstrukci</Value>
     </Record>
     <Record>
       <Key>SettingsDoubleClickDelay</Key>
@@ -9629,7 +9629,7 @@ Je neochvějným univerzálním zákonem, že vše vyšší než 11 bude fialov�
     </Record>
     <Record>
       <Key>ScoreboardTime</Key>
-      <Value>Herní čas</Value>
+      <Value>Hrací doba</Value>
     </Record>
     <Record>
       <Key>SettingsFirstPersonHelmet</Key>
@@ -9637,7 +9637,7 @@ Je neochvějným univerzálním zákonem, že vše vyšší než 11 bude fialov�
     </Record>
     <Record>
       <Key>SiloDeconstruct</Key>
-      <Value>Před demontáží musí být vaše silo prázdné.</Value>
+      <Value>Silo musí být před dekonstrukcí prázdné.</Value>
     </Record>
     <Record>
       <Key>PressEnterToContinue</Key>
@@ -9709,11 +9709,15 @@ Je neochvějným univerzálním zákonem, že vše vyšší než 11 bude fialov�
     </Record>
     <Record>
       <Key>ActivateExplosiveKey</Key>
-      <Value>aktivuje ovládání myší</Value>
+      <Value>Aktivovat odpočítávání</Value>
     </Record>
     <Record>
       <Key>ActivateExplosiveTooltipKey1</Key>
-      <Value>aktivuje ovládání myší</Value>
+      <Value>Aktivuje</Value>
+    </Record>
+    <Record>
+      <Key>ActivateExplosiveTooltipKey2</Key>
+      <Value>druhý časovač. Časovač nelze vypnout. Doporučuje se opatrnost.</Value>
     </Record>
     <Record>
       <Key>CommandSave</Key>
@@ -9809,52 +9813,72 @@ Je neochvějným univerzálním zákonem, že vše vyšší než 11 bude fialov�
     </Record>
     <Record>
       <Key>CommandShowStage</Key>
-      <Value>Zobrazuje aktuální fázi mise a počet fází v misi. : &quot;/showstage&quot;</Value>
+      <Value>Zobrazí aktuální fázi mise a počet fází v misi. : &quot;/showstage&quot;</Value>
     </Record>
     <Record>
       <Key>CommandFillNeeds</Key>
-      <Value>Naplňuje hlad a hydrataci hráče. : &quot;/fillneeds&quot;</Value>
+      <Value>Doplní hlad a hydrataci hráče : &quot;/fillneeds&quot;</Value>
     </Record>
     <Record>
       <Key>CommandFillHealth</Key>
-      <Value>Uzdravuje hráče. : „/fillhealth“</Value>
+      <Value>uzdraví hráče. : &quot;/fillhealth&quot;</Value>
     </Record>
     <Record>
       <Key>CommandAddGas</Key>
-      <Value>Přidává plyn nebo kapaliny do dané nádrže nebo potrubí. : &quot;/addgas [refID] [gasType 1-8] [molecount]&quot;</Value>
+      <Value>Přidá plyn nebo kapaliny do dané nádrže nebo potrubní sítě. : &quot;/addgas [refID] [gasType 1-8] [molecount]&quot;</Value>
     </Record>
     <Record>
       <Key>CommandAddGas</Key>
-      <Value>Přidává plyn nebo kapaliny do dané nádrže nebo potrubí. : &quot;/addgas [refID] [gasType 1-8] [molecount]&quot;</Value>
+      <Value>Přidá plyn nebo kapaliny do dané nádrže nebo potrubní sítě. : &quot;/addgas [refID] [gasType 1-8] [molecount]&quot;</Value>
+    </Record>
+    <Record>
+      <Key>CommandCount</Key>
+      <Value>Spočítá všechny věci zadaného typu v uloženém souboru. : &quot;/count [AllThings / Structures / DynamicThings / AnimatorThings / Pipes / Cables / Atmospheres / CableNetworks]&quot;</Value>
+    </Record>
+    <Record>
+      <Key>CommandSetDecay</Key>
+      <Value>Nastaví globální násobitel rozpadu jídla. : &quot;/setdecay 2&quot;</Value>
+    </Record>
+    <Record>
+      <Key>CommandSetContact</Key>
+      <Value>Nastavuje požadovanou výši signálu pro kontaktování obchodníka. : &quot;/setcontact 10&quot;</Value>
     </Record>
     <Record>
       <Key>CommandHelp</Key>
-      <Value>Zobrazí nabídku nápovědy. : &quot;/Pomoc&quot;</Value>
+      <Value>Zobrazí seznam příkazů. : &quot;/help&quot;</Value>
+    </Record>
+    <Record>
+      <Key>Seedsstring</Key>
+      <Value>Semínka</Value>
     </Record>
     <Record>
       <Key>AgrizeroDesc</Key>
-      <Value>Agrizero je zemědělská biotechnologická firma zaměřená na výzkum a nasazení zemědělské technologie mimo svět. Cílem společnosti je poskytnout síť soběstačných, samostatných &apos;biologických továren&apos;, které nakonec nakrmí předpokládaný 1 milion lidí ve vesmíru.
-Společnost, vycházející z ekologických katastrof z konce 21. století, má kořeny v čínských iniciativách umělého zemědělství, které šetří svět, a nyní se rozšířila do zařízení v pásu asteroidů, kde díky dodávce ledových asteroidů je vertikální zemědělství a kontrolované prostředí extrémně slibné.
-Zatímco mnoho z jejich zařízení je stále ve výstavbě, Agrizero je již jedním z hlavních dodavatelů mimosvětových skupin jako &lt;color=#0080FFFF&gt;{LINK:ODA;ODA}&lt;/color&gt;, &lt;color=#0080FFFF&gt;{LINK:Sinotai;Sinotai}&lt;/color&gt; a &lt;color=#0080FFFF&gt;{LINK:ExMin;ExMin}&lt;/color&gt; prostřednictvím neustále se rozvíjející sítě obchodníků.</Value>
+      <Value>Agrizero je zemědělská biotechnologická firma zaměřená na výzkum a zavádění mimozemských zemědělských technologií. Jejím cílem je vytvořit síť soběstačných a soběstačných &quot;biotováren&quot;, které by nakonec uživily předpokládaný 1 milion lidí ve vesmíru.
+Firma vznikla na základě ekologických katastrof konce 21. století, má kořeny v čínských iniciativách na záchranu světa v oblasti umělého zemědělství a nyní se rozšířila do zařízení v pásu asteroidů, kde je díky zásobám ledových asteroidů vertikální zemědělství a zemědělství v řízeném prostředí velmi perspektivní.
+Ačkoli je mnoho jejich zařízení stále ve výstavbě, Agrizero je již nyní jedním z hlavních dodavatelů mimozemských skupin, jako jsou &lt;color=#0080FFFF&gt;{LINK:ODA;ODA}&lt;/color&gt;, &lt;color=#0080FFFF&gt;{LINK:Sinotai;Sinotai}&lt;/color&gt; a &lt;color=#0080FFFF&gt;{LINK:ExMin;ExMin}&lt;/color&gt; prostřednictvím stále se rozšiřující sítě obchodníků.
+  </Value>
     </Record>
     <Record>
       <Key>AsuraDesc</Key>
-      <Value>Společnost Asura Biomedia byla založena počátkem 22. století bilionářem Ashanem Gurwajou z Bombaje. Společnost, která se zaměřuje na ‘biotechnologii’, měla vždy ‘elastickou’ představu o tom, co přesně to znamená: vše od farmaceutik po krmivo pro domácí zvířata.
-Zázemí společnosti Gurwaja v bioinženýrských firmách staví společnost od samého začátku na nejvyšší úroveň v biologickém průmyslu a rostla přesně tak, jak to její zakladatel zamýšlel: rychle a spolehlivě, strukturovaná speciálně tak, aby pohltila všechny menší firmy.
-Téměř v polovině století se ambice společnosti Asura vyvinuly tak, aby zahrnovaly celé zdravotní systémy - nyní je největším poskytovatelem zdravotní péče na Zemi a integruje nemocnice a primární péči se zdravotnickým materiálem, farmaceutickou výrobou a maloobchodem, domácí péčí a pohřebními službami.
-Do roku 2150 bylo podnikání Asury jednoduchým návrhem, jak je zachycen v jejich slavném - ne-li neslavném - reklamním sloganu: &apos;Jsme ve vás&apos;.</Value>
+      <Value>Společnost Asura Biomedia byla založena na počátku 22. století trilionářem Ashanem Gurwaja z Bombaje. Nominálně se společnost zaměřuje na &quot;biotechnologie&quot;, ale vždy měla &quot;pružnou&quot; představu o tom, co přesně to obnáší: vše od léčiv po krmivo pro domácí zvířata.
+Gurwadžovo zázemí v bioinženýrských firmách ji od samého počátku řadilo do nejvyššího patra bio-vědeckých odvětví a společnost rostla přesně tak, jak její zakladatel zamýšlel: rychle a spolehlivě, strukturovaná speciálně tak, aby pohltila všechny menší firmy, které jí stály v cestě.
+V polovině století se ambice společnosti Asura rozšířily na celé zdravotnické systémy - nyní je největším poskytovatelem zdravotní péče na Zemi, který integruje nemocnice a primární péči se zdravotnickými potřebami, výrobou a prodejem léčiv, rezidenční péčí a pohřebními službami.
+V roce 2150 se podnikání společnosti Asura stalo jednoduchou nabídkou, kterou vystihuje její slavný - ne-li nechvalně proslulý - reklamní slogan: &quot;Jsme ve vás&quot;.
+  </Value>
     </Record>
     <Record>
       <Key>CHACDesc</Key>
-      <Value>Společnost, která byla založena v roce 2085 za účelem výroby zbraní pro vesmírné síly &lt;color=#0080FFFF&gt;{LINK:Sinotai;Sinotai}&lt;/color&gt;, je známá výrobou vysoce spolehlivých a cenově dostupných zbraní pro použití mimo svět.
-Jejich pragmatický přístup se odráží v jejich zaměření na designy vhodné pro 3D tisk a hromadnou výrobu, stejně jako ve vysokém opětovném použití komponentů napříč modely a třídami zbraní.
-Výsledkem je, že i když zbraně CHAC nevynikají v žádné konkrétní kategorii a rozhodně nikdy nebyly obviněny z velikosti, netrpí žádnými velkými neúspěchy a fungují dostatečně dobře nejznámějšími opatřeními, aby svým konstruktérům vynesly neformální titul &apos;zbrojař do sluneční soustavy&apos;.</Value>
+      <Value>Společnost byla založena v roce 2085 za účelem výroby zbraní pro &lt;color=#0080FFFF&gt;{LINK:Sinotai;Sinotai}&lt;/color&gt; vesmírné síly a je známá výrobou vysoce spolehlivých a cenově dostupných zbraní pro mimozemské použití.
+Jejich pragmatický přístup se odráží v zaměření na návrhy vhodné pro 3D tisk a sériovou výrobu, stejně jako ve vysokém počtu opakovaně používaných komponentů napříč modely a třídami zbraní.
+Výsledkem je, že ačkoli zbraně CHAC nevynikají v žádné konkrétní kategorii a rozhodně nikdy nebyly obviněny z chamtivosti, netrpí žádnými velkými nedostatky a podle většiny známých měřítek fungují dostatečně dobře na to, aby si jejich konstruktéři vysloužili neformální titul &quot;zbrojíř Sluneční soustavy&quot;.
+  </Value>
     </Record>
     <Record>
       <Key>ExMinDesc</Key>
-      <Value>Po katastrofě Sisyfos na Marsu v roce 2079 bylo &lt;color=#0080FFFF&gt;{LINK:ODA;ODA}&lt;/color&gt; oficiálně zakázáno přesouvání asteroidů. Tato radikální změna přinutila nově vzniklý vesmírný těžební průmysl přehodnotit svoji strategii, ale až do otevření vesmírného výtahu Manaus, byla těžba mimozemských zdrojů efektivně nemožná a znamenala pouze okrajovou ekonomiku.
-Společnost ExMin byla založena v roce 2095 odvěkým švýcarsko-německým těžebním konglomerátem a konsorciem jiných zájmů, byla po několik desetiletí více nápadem než komerční realitou. Vytvořena s jistotou, že vesmírný výtah nakonec dorazí, byla ExMin jedním z prvních, kdo využil nabízený přístup. Následně se stala jedním z nejmocnějších komerčních subjektů sluneční soustavy.
-S bezpečným přístupem do vesmíru se ExMin stala ústředním hráčem v toku zdrojů do vnitřního systému. Její konkurencí je hlavně brazilský těžební gigant &lt;color=#0080FFFF&gt;{LINK:Recurso;Recurso}&lt;/color&gt;, ale společnost nikdy úplně neztratila svůj náskok v mimozemské těžbě. Je synonymem kovů vzácných zemin a průkopnické těžby mimozemských zdrojů, stojící v čele vývoje v celé sluneční soustavě.</Value>
+      <Value>Po katastrofě Sisyfa na Marsu v roce 2079 bylo posunování asteroidů oficiálně zakázáno &lt;color=#0080FFFF&gt;{LINK:ODA;ODA}&lt;/color&gt;. Tato zásadní změna donutila nově vzniklý průmysl těžby vesmírných surovin přehodnotit své strategie, ale až do otevření vesmírného výtahu v Manausu byla těžba mimozemských zdrojů díky marginální ekonomice fakticky nemožná.
+Společnost ExMin, kterou v roce 2095 založil dlouholetý švýcarsko-německý těžební konglomerát a konsorcium dalších zájmů, byla po několik desetiletí spíše myšlenkou než komerční realitou. Společnost ExMin byla vytvořena s jistotou, že vesmírný výtah nakonec dorazí, a byla jednou z prvních, kdo využil přístup, který nabízel. Následně se stala jedním z nejsilnějších komerčních subjektů ve Sluneční soustavě.
+Se zajištěným přístupem do vesmíru se ExMin stal ústředním hráčem v toku zdrojů do Vnitřní soustavy. Má sice konkurenci, hlavně v podobě brazilského těžebního gigantu &lt;color=#0080FFFF&gt;{LINK:Recurso;Recurso}&lt;/color&gt;, ale společnost nikdy zcela neztratila svůj náskok v těžbě mimo Zemi. Je synonymem pro kovy vzácných zemin a průkopníkem těžby mimozemských zdrojů a stojí v čele vývoje v celé Sluneční soustavě.
+  </Value>
     </Record>
     <Record>
       <Key>GeFabrikDesc</Key>
