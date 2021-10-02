@@ -6836,7 +6836,7 @@
     </Record>
     <Record>
       <Key>PromptResetSettingsBody</Key>
-      <Value>Jste si jisti?</Value>
+      <Value>Jste si jistí?</Value>
     </Record>
     <Record>
       <Key>PromptResetSettingsConfirm</Key>
@@ -6868,7 +6868,7 @@
     </Record>
     <Record>
       <Key>PromptQuitBody</Key>
-      <Value>Opravdu chcete skončit?</Value>
+      <Value>Jste si jisti, že chcete skončit?</Value>
     </Record>
     <Record>
       <Key>PromptQuitConfirm</Key>
@@ -6892,7 +6892,7 @@
     </Record>
     <Record>
       <Key>PromptOverwriteBody</Key>
-      <Value>Opravdu chcete přepsat stávající uložený svět?</Value>
+      <Value>Jste si jisti, že chcete přepsat stávající uložený svět?</Value>
     </Record>
     <Record>
       <Key>PromptOverwriteConfirm</Key>
@@ -6916,7 +6916,7 @@
     </Record>
     <Record>
       <Key>PromptDeleteBody</Key>
-      <Value>Opravdu?</Value>
+      <Value>Jste si jistí?</Value>
     </Record>
     <Record>
       <Key>PromptDeleteConfirm</Key>
@@ -6928,7 +6928,7 @@
     </Record>
     <Record>
       <Key>PromptDebugLoadBody</Key>
-      <Value>Opravdu chcete načíst tento svět pouze s jedním znakem?</Value>
+      <Value>Jste si jisti, že chcete tento svět načíst pouze s jednou postavou?</Value>
     </Record>
     <Record>
       <Key>PromptDebugLoadConfirm</Key>
@@ -6964,7 +6964,7 @@
     </Record>
     <Record>
       <Key>AlertInvalidIP</Key>
-      <Value>Neplatná IP Adresa {0} \nZkontroluj IP adresu nebo URL jestli je platná</Value>
+      <Value>Neplatná IP adresa {0} \nZkontrolujte, zda je IP adresa nebo URL platná.</Value>
     </Record>
     <Record>
       <Key>AlertNoBackups</Key>
@@ -6980,8 +6980,10 @@
     </Record>
     <Record>
       <Key>AlertNoResponse</Key>
-      <Value>Herní server neodpovídá.
-                                              Prosím zkuste to znovu.</Value>
+      <Value>
+  Herní server neodpovídá.
+  Zkuste to prosím znovu.
+  </Value>
     </Record>
     <Record>
       <Key>AlertKicked</Key>
