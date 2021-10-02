@@ -308,6 +308,10 @@ Další {THING:StructureLogicMath} přečte vstup našeho prvního {THING:Struct
       <Value>Dávkový zapisovač zapisuje do všech připojených zařízení daného typu. Pomocí této funkce zapíšete nově vypočtenou vertikální hodnotu do solárních panelů.</Value>
     </Record>
     <Record>
+      <Key>VerticalBatchWritterSetup</Key>
+      <Value>Nastavení vertikálního dávkového zapisovače</Value>
+    </Record>
+    <Record>
       <Key>VerticalBatchWritterSetupDescription</Key>
       <Value>Stejně jako ostatní obvody je třeba nastavit {THING:StructureLogicBatchWriter}, aby se hodnoty odesílaly na solární panely.</Value>
     </Record>
@@ -395,7 +399,7 @@ Dalším krokem je vyrovnání dat dodaných zařízením {THING:StructureDaylig
     </Record>
     <Record>
       <Key>HorizontalBatchWriterDescription</Key>
-      <Value>Dávkový zapisovač zapisuje na všechna připojená zařízení daného typu. Použijeme to pro zápis nově vypočtené horizontální hodnoty na solární panely.</Value>
+      <Value>Dávkový zapisovač zapisuje do všech připojených zařízení daného typu. Budeme jej používat k zápisu nově vypočtené horizontální hodnoty do solárních panelů.</Value>
     </Record>
     <Record>
       <Key>BatchWriter2</Key>
