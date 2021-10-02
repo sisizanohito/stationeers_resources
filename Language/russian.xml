@@ -5152,6 +5152,10 @@
       <Value/>
     </RecordThing>
     <RecordThing>
+      <Key>StructureLiquidDrain</Key>
+      <Value>Слив для жидкости</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemLiquidPipeAnalyzer</Key>
       <Value/>
     </RecordThing>
@@ -5166,6 +5170,14 @@
     <RecordThing>
       <Key>ItemKitHeatExchanger</Key>
       <Value>Этот набор используется для сборки {THING:StructureAirConditioner}, {THING:StructureElectrolyzer}, {THING:StructureFiltration}, или {THING:H2Combustor}.</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureHeatExchangerLiquidtoLiquid</Key>
+      <Value>Теплообменник для жидкостей</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureHeatExchangeLiquidtoGas</Key>
+      <Value>Теплообменник для жидкостей и газов</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitHangerDoor</Key>
@@ -5192,6 +5204,10 @@
       <Value/>
     </RecordThing>
     <RecordThing>
+      <Key>DecayedFood</Key>
+      <Value>Протухшая еда</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>PassiveSpeaker</Key>
       <Value/>
     </RecordThing>
@@ -5200,12 +5216,36 @@
       <Value>Из этого набора собирается {THING:StructureSDBSilo}.</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureFridgeSmall</Key>
+      <Value>Холодильник маленький</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitVendingMachineRefrigerated</Key>
       <Value/>
     </RecordThing>
     <RecordThing>
+      <Key>SeedBag_Potato</Key>
+      <Value>Семена картофеля</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>SeedBag_Corn</Key>
       <Value>Этот набор собирается в {THING:ItemWallCooler}.</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>SeedBag_Wheet</Key>
+      <Value>Семена пшеницы</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>SeedBag_Tomato</Key>
+      <Value>Семена томатов</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>SeedBag_Soybean</Key>
+      <Value>Семена сои</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>SeedBag_Rice</Key>
+      <Value>Семена риса</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAdvancedComposter</Key>
