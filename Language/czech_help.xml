@@ -463,13 +463,18 @@ Tlak tání {0}</Text>
       <Key>NutritionPage</Key>
       <Title>Hlad a výživa</Title>
       <DisplayFilter>Guides</DisplayFilter>
-      <Text>Stationeerové nakonec dostanou hlad, ale ne všechno jídlo je stvořeno stejně. Míra hladu se také liší v závislosti na nastavení a obtížnosti. Stravování spotřebuje pouze tu část položky, která je adekvátní k obnovení hladu na 100%.
+      <Text>{HEADER:HLAD}
 
-Stationeerové obdrží po příjezdu do nového světa zásoby potravin, například &lt;color=#0080FFFF&gt;{LINK:Agrizero;Agrizero}&lt;/color&gt; {THING:ItemCerealBar} v jejich přistávacím modulu. Když jsou vyčerpány, musíte najít nové zdroje obživy.
+Stationeerové nakonec dostanou hlad, ale ne každé jídlo je stejné. Míra hladu se také liší v závislosti na nastavení a obtížnosti. Při jídle spotřebujete pouze tu část předmětu, která je adekvátní k obnovení vašeho hladu na 100 %.
 
-Konzumace syrových surovin uspokojí hlad méně než jídla, tj. Nahradí menší část vašeho hladu. Základní prvky jídla se vytvářejí pomocí systémů &lt;color=#0080FFFF&gt;{LINK:OrganicsPage;hydroponie}&lt;/color&gt;. Ty mohou být zpracovány na přísady receptů pomocí {THING:ApplianceReagentProcessor}, poté přeměněny na jídla pomocí {THING:ApplianceMicrowave}.
+Stationeerové po příletu na nový svět obdrží ve svém přistávacím modulu zásoby jídla, například &lt;color=#0080FFFF&gt;{LINK:Agrizero;Agrizero}&lt;/color&gt; {THING:ItemCerealBar}. Po jejich vyčerpání je třeba najít nové zdroje potravy - například vypěstovat si vlastní, z dodaných semen, nebo kontaktovat {LINK:TradingPage;obchodníka}. 
 
-Míru hladu lze upravit v hlavní nabídce nastavení nastavením posuvníku Hlad / Hydratace.</Text>
+
+{HEADER:VÝŽIVA}
+
+Pojídání surovin uspokojí hlad méně než jídlo, tj. nahradí menší část vašeho hladu. Základní složky potravy se vytvářejí pomocí &lt;color=#0080FFFF&gt;{LINK:OrganicPage;hydroponických}&lt;/color&gt; systémů. Ty mohou být zpracovány na složky receptů pomocí {THING:ApplianceReagentProcessor} a poté přeměněny na jídla pomocí {THING:ApplianceMicrowave} nebo {THING:StructureAutomatedOven}.
+
+Míru hladu si můžete upravit v hlavní nabídce nastavení nastavením posuvníku Míra hladu/hydratace v nastavení. Všimněte si, že posuvník hladu řídí také vaši {LINK:HydrationPage;žízeň}.</Text>
     </StationpediaPage>
   </HelpPage>
 </Language>
