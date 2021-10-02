@@ -5260,6 +5260,10 @@
       <Value>Удобрение</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureAdvancedComposter</Key>
+      <Value>Продвинутый компостер</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitAdvancedComposter</Key>
       <Value>Из этого набора собирается {THING:StructureRocketModuleSilo}.</Value>
     </RecordThing>
