@@ -10267,12 +10267,69 @@ Program náborů z oblasti stavebnictví, vojenského a leteckého průmyslu, v�
       <Value>Kazety</Value>
     </Record>
     <Record>
+      <Key>NoNote</Key>
+      <Value>Žádná poznámka</Value>
+    </Record>
+    <Record>
+      <Key>Intensity</Key>
+      <Value>Intenzita</Value>
+    </Record>
+    <Record>
+      <Key>Waveform</Key>
+      <Value>Křivka</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaBasePowerUsage</Key>
+      <Value>Základní spotřeba energie:</Value>
+    </Record>
+    <Record>
       <Key>StationpediaMaxPressure</Key>
       <Value>Maximální tlak:</Value>
     </Record>
     <Record>
+      <Key>StationpediaVolume</Key>
+      <Value>Hlasitost:</Value>
+    </Record>
+    <Record>
       <Key>StationpediaNutrition</Key>
-      <Value>Výživa</Value>
+      <Value>Výživa:</Value>
+    </Record>
+    <Record>
+      <Key>MoleOxygenDescription</Key>
+      <Value>Kyslík poskytuje energii, když se uvolňuje při hoření, a také se váže s vodíkem za vzniku vody. Vytváří ho &lt;color=#0080FFFF&gt;{LINK:OrganicPage;rostliny}&lt;/color&gt; a také při zpracování {THING:ItemOxite}. Při nízkých teplotách je vysoce hořlavý.</Value>
+    </Record>
+    <Record>
+      <Key>MoleNitrogenDescription</Key>
+      <Value>Dusík může být smíchán s kyslíkem, aby se stabilizovala jeho hořlavost, a je sám o sobě zdrojem užitečným pro vytváření dýchatelné atmosféry (zhruba 3:1 dusíku a kyslíku).</Value>
+    </Record>
+    <Record>
+      <Key>MoleCarbonDioxideDescription</Key>
+      <Value>Vydechněte to, &lt;color=#0080FFFF&gt;{LINK:OrganicPage;rostliny}&lt;/color&gt; vdechněte. Bez něj nerostou.
+  
+Oxid uhličitý má středně vysoké měrné teplo, což znamená, že je dobrým chladicím médiem pro zařízení, jako je nástěnný chladič
+{THING:StructureWallCooler}. Voda je lepší, ale obvykle má důležitější využití.</Value>
+    </Record>
+    <Record>
+      <Key>MoleVolatilesDescription</Key>
+      <Value>Těkavé látky jsou extrémně reaktivní, složité organické molekuly, které lze ve spojení s kyslíkem použít jako hořlavé palivo. Vyrábí se z {THING:ItemVolatiles}.
+  
+Kvůli nejasným a z velké části zapomenutým &lt;color=#0080FFFF&gt;{LINK:ODA;ODA}&lt;/color&gt; předpisům jsou těkavé látky někdy označovány jako &quot;H2&quot; u různých technologických předmětů. Ačkoli se však vodíku podobají, ve skutečnosti to &apos;vodík&apos; není. Při spalování těkavých látek bez katalyzátoru nevzniká voda (viz {THING:H2Combustor}). Samotné vytvářejí škodliviny a oxid uhličitý, když se spalují v následujícím poměru:
+  
+2 těkavé látky + 1 O2 -&gt; 3X + 6CO2 + teplo.</Value>
+    </Record>
+    <Record>
+      <Key>MolePollutantDescription</Key>
+      <Value>Znečišťující látky známé také jako &quot;X&quot; vznikají při tavení některých kovů. Koncentrace 0,1 mol nebo vyšší způsobí, že váš oblek bude varovat před jedem v atmosféře.
+  
+Znečišťující látka má vysoké měrné teplo, což z ní činí vynikající chladivo.</Value>
+    </Record>
+    <Record>
+      <Key>MoleWaterDescription</Key>
+      <Value>Vodu můžete získat tavením nebo drcením {THING:ItemIce} pomocí {THING:StructureFurnace} nebo {THING:StructureIceCrusher}, případně spalováním těkavých látek a kyslíku pomocí {THING:H2Combustor}.
+  
+Voda je pro &lt;color=#0080FFFF&gt;{LINK:OrganicPage;rostliny}&lt;/color&gt; rozhodující, aby zůstaly naživu a aby z ní rostlo &lt;color=#0080FFFF&gt;{LINK:NutritionPage;jídlo}&lt;/color&gt;. Je to také výjimečné chladivo s velmi vysokou měrnou tepelnou kapacitou.
+
+Poznámka: S vodou se dříve zacházelo jako s plynem, ale nyní se vyvíjí nový systém pro kapaliny, včetně samostatných potrubí, nádrží, čerpadel atd. pro kapaliny. Voda je v současné době jedinou dostupnou kapalinou a v současnosti nemění stavy.</Value>
     </Record>
     <Record>
       <Key>MoleNitrousOxideDescription</Key>
