@@ -437,17 +437,17 @@ Tlak tání {0}</Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>ReagentPageTemplate</Key>
-      <Text>{LINK:ReagentPage;Činidlo}, často použitelné, když je ve formě {LINK:IngotPage;ingotů}.
+      <Text>{LINK:ReagentPage;Činidlo}, často použitelné ve formě {LINK:IngotPage;ingotů}.
 
 
-{LIST}Unit {1}{/LIST}
+{LIST}Jednotka {1}{/LIST}
 
 
 {LIST}{2}{/LIST}</Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>GasPageTemplate</Key>
-      <Text>{LINK:GasPage;Plyn}, který se často vytváří při {LINK:SmeltingPage;tavení}.
+      <Text>{LINK:GasPage;Plyn}, často vznikající při {LINK:SmeltingPage;tavení}.
 
 
 {LIST}Specifické teplo {1}{2}{/LIST}
@@ -461,13 +461,7 @@ Tlak tání {0}</Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>NutritionPage</Key>
-      <Title>Stationeerové nakonec dostanou hlad, ale ne všechno jídlo je stvořeno stejně. Míra hladu se také liší v závislosti na nastavení a obtížnosti. Stravování spotřebuje pouze tu část položky, která je adekvátní k obnovení hladu na 100%.
-
-Stationeerové obdrží po příjezdu do nového světa zásoby potravin, například &lt;color=#0080FFFF&gt;{LINK:Agrizero;Agrizero}&lt;/color&gt; {THING:ItemCerealBar} v jejich přistávacím modulu. Když jsou vyčerpány, musíte najít nové zdroje obživy.
-
-Konzumace syrových surovin uspokojí hlad méně než jídla, tj. Nahradí menší část vašeho hladu. Základní prvky jídla se vytvářejí pomocí systémů &lt;color=#0080FFFF&gt;{LINK:OrganicsPage;hydroponie}&lt;/color&gt;. Ty mohou být zpracovány na přísady receptů pomocí {THING:ApplianceReagentProcessor}, poté přeměněny na jídla pomocí {THING:ApplianceMicrowave}.
-
-Míru hladu lze upravit v hlavní nabídce nastavení nastavením posuvníku Hlad / Hydratace.</Title>
+      <Title>Hlad a výživa</Title>
       <DisplayFilter>Guides</DisplayFilter>
       <Text>Stationeerové nakonec dostanou hlad, ale ne všechno jídlo je stvořeno stejně. Míra hladu se také liší v závislosti na nastavení a obtížnosti. Stravování spotřebuje pouze tu část položky, která je adekvátní k obnovení hladu na 100%.
 
