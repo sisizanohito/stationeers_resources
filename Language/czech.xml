@@ -7829,83 +7829,83 @@ Je neochvějným univerzálním zákonem, že vše vyšší než 11 bude fialov�
     </Record>
     <Record>
       <Key>LogicTypeRecipeHash</Key>
-      <Value>Aktuální hash receptury, kterou má zařízení produkovat</Value>
+      <Value>Aktuální hash receptu, který je zařízení nastaveno vytvořit</Value>
     </Record>
     <Record>
       <Key>LogicTypeExportSlotHash</Key>
-      <Value>ZASTARALÉ</Value>
+      <Value>ODSTRANĚNO</Value>
     </Record>
     <Record>
       <Key>LogicTypeImportSlotHash</Key>
-      <Value>ZASTARALÉ</Value>
+      <Value>ODSTRANĚNO</Value>
     </Record>
     <Record>
       <Key>LogicTypePlantHealth1</Key>
-      <Value>ZASTARALÉ</Value>
+      <Value>ODSTRANĚNO</Value>
     </Record>
     <Record>
       <Key>LogicTypePlantHealth2</Key>
-      <Value>ZASTARALÉ</Value>
+      <Value>ODSTRANĚNO</Value>
     </Record>
     <Record>
       <Key>LogicTypePlantHealth3</Key>
-      <Value>ZASTARALÉ</Value>
+      <Value>ODSTRANĚNO</Value>
     </Record>
     <Record>
       <Key>LogicTypePlantHealth4</Key>
-      <Value>ZASTARALÉ</Value>
+      <Value>ODSTRANĚNO</Value>
     </Record>
     <Record>
       <Key>LogicTypePlantGrowth1</Key>
-      <Value>ZASTARALÉ</Value>
+      <Value>ODSTRANĚNO</Value>
     </Record>
     <Record>
       <Key>LogicTypePlantGrowth2</Key>
-      <Value>ZASTARALÉ</Value>
+      <Value>ODSTRANĚNO</Value>
     </Record>
     <Record>
       <Key>LogicTypePlantGrowth3</Key>
-      <Value>ZASTARALÉ</Value>
+      <Value>ODSTRANĚNO</Value>
     </Record>
     <Record>
       <Key>LogicTypePlantGrowth4</Key>
-      <Value>ZASTARALÉ</Value>
+      <Value>ODSTRANĚNO</Value>
     </Record>
     <Record>
       <Key>LogicTypePlantEfficiency1</Key>
-      <Value>ZASTARALÉ</Value>
+      <Value>ODSTRANĚNO</Value>
     </Record>
     <Record>
       <Key>LogicTypePlantEfficiency2</Key>
-      <Value>ZASTARALÉ</Value>
+      <Value>ODSTRANĚNO</Value>
     </Record>
     <Record>
       <Key>LogicTypePlantEfficiency3</Key>
-      <Value>ZASTARALÉ</Value>
+      <Value>ODSTRANĚNO</Value>
     </Record>
     <Record>
       <Key>LogicTypePlantEfficiency4</Key>
-      <Value>ZASTARALÉ</Value>
+      <Value>ODSTRANĚNO</Value>
     </Record>
     <Record>
       <Key>LogicTypePlantHash1</Key>
-      <Value>ZASTARALÉ</Value>
+      <Value>ODSTRANĚNO</Value>
     </Record>
     <Record>
       <Key>LogicTypePlantHash2</Key>
-      <Value>ZASTARALÉ</Value>
+      <Value>ODSTRANĚNO</Value>
     </Record>
     <Record>
       <Key>LogicTypePlantHash3</Key>
-      <Value>ZASTARALÉ</Value>
+      <Value>ODSTRANĚNO</Value>
     </Record>
     <Record>
       <Key>LogicTypePlantHash4</Key>
-      <Value>ZASTARALÉ</Value>
+      <Value>ODSTRANĚNO</Value>
     </Record>
     <Record>
       <Key>LogicTypeRequestHash</Key>
-      <Value>Pokud je nastaven na jedinečný identifikátor, znovu vyhledá položku zadaného typu ze zařízení</Value>
+      <Value>Pokud je nastavena na jedinečný identifikátor, znovu vyhledá položku zadaného typu ze zařízení</Value>
     </Record>
     <Record>
       <Key>LogicTypeCompletionRatio</Key>
@@ -7941,11 +7941,11 @@ Je neochvějným univerzálním zákonem, že vše vyšší než 11 bude fialov�
     </Record>
     <Record>
       <Key>LogicTypeHarvest</Key>
-      <Value>Provádí sklízecí akci u všech strojních zařízení</Value>
+      <Value>Provádí sklizeň u všech strojů na bázi rostlin</Value>
     </Record>
     <Record>
       <Key>LogicTypeOutput</Key>
-      <Value>Operace výstupu zařízení pro třídění, jako je stohovač nebo třídič, v logickém režimu bude zařízení provádět pouze jedno opakování, když je nastaveno na nulu nebo vyšší, a pak zpět na -1 a čekat na další pokyny</Value>
+      <Value>Výstupní operace pro zařízení pro manipulaci s tříděním, jako je stohovač nebo třídič, kdy v logickém režimu zařízení provede pouze jedno opakování, pokud je nastavena nula nebo více, a poté se vrátí na -1 a čeká na další pokyny</Value>
     </Record>
     <Record>
       <Key>LogicTypePressureSetting</Key>
@@ -8081,11 +8081,11 @@ Je neochvějným univerzálním zákonem, že vše vyšší než 11 bude fialov�
     </Record>
     <Record>
       <Key>FuelInTankRemaining</Key>
-      <Value>Získá zbývající palivo uvnitř vaší raketové nádrže.</Value>
+      <Value>Zjistí zbývající palivo v palivové nádrži rakety.</Value>
     </Record>
     <Record>
       <Key>FuelReturnCost</Key>
-      <Value>Vrátí náklady za palivo.</Value>
+      <Value>Získá náklady na palivo pro návrat rakety do aktuálního světa.</Value>
     </Record>
     <Record>
       <Key>RocketMode</Key>
@@ -8097,7 +8097,7 @@ Je neochvějným univerzálním zákonem, že vše vyšší než 11 bude fialov�
     </Record>
     <Record>
       <Key>LogicTypeRequestHash</Key>
-      <Value>Pokud je nastaven na jedinečný identifikátor, znovu vyhledá položku zadaného typu ze zařízení</Value>
+      <Value>Pokud je nastavena na jedinečný identifikátor, znovu vyhledá položku zadaného typu ze zařízení</Value>
     </Record>
     <Record>
       <Key>LogicSlotTypePrefabHash</Key>
