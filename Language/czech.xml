@@ -6242,7 +6242,7 @@
     </Record>
     <Record>
       <Key>LoulanShortDesc</Key>
-      <Value>Po příjezdu si všimnete dýchatelné atmosféry, dostatečně vysokého tlaku na udržení života - ale i jeho vážného nedostatku. Tento písčitý obr se nachází v systému Gargantuan a neustále se přibližuje k černé díře. Přestože je tato planeta opuštěná a již není zelená a plná vody, má stále funkční atmosféru. Máte za úkol prohledávat pustinu pro získávání materiálů a zdrojů potřebných k přežití v této věčné poušti.</Value>
+      <Value>Po příletu na Loulan si všimnete dýchatelné atmosféry s dostatečně vysokým tlakem pro udržení života, ale jeho velkého nedostatku. Tento písečný obr se nachází v soustavě Gargantua a každým dnem se přibližuje k černé díře, která se nachází v jeho středu. Ačkoli je tato planeta opuštěná a už není zelená a plná vody, stále má funkční atmosféru a vaším úkolem je prohledat pustinu a získat materiály a zdroje potřebné k přežití na této věčné poušti.</Value>
     </Record>
     <Record>
       <Key>NewWorldAreaVenus</Key>
@@ -6254,7 +6254,7 @@
     </Record>
     <Record>
       <Key>Space</Key>
-      <Value>Pás asteroidů</Value>
+      <Value>Pásmo asteroidů</Value>
     </Record>
     <Record>
       <Key>Vulcan</Key>
@@ -6554,7 +6554,7 @@
     </Record>
     <Record>
       <Key>SaveLocationBroken</Key>
-      <Value>Nelze získat přístup k umístění uložených souborů, používáte neplatný znak? Zkuste změnit uložený adresář v Nastavení.</Value>
+      <Value>Nelze získat přístup k umístění uložených souborů, používáte neplatný znak? Zkuste změnit adresář pro ukládání v Nastavení.</Value>
     </Record>
     <Record>
       <Key>AlertButtonClose</Key>
@@ -6594,8 +6594,7 @@
     </Record>
     <Record>
       <Key>ButtoConfirmExitAsServer</Key>
-      <Value>Opravdu chcete ukončit hru bez uložení? 
-Neuložený postup bude ztracen.</Value>
+      <Value>Opravdu chcete ukončit hru bez uložení? Veškerý neuložený postup bude ztracen.</Value>
     </Record>
     <Record>
       <Key>DialogConfirmNoticeUnsaved</Key>
