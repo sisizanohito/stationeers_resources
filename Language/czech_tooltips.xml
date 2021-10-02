@@ -7,7 +7,7 @@
     </Record>
     <Record>
       <Key>StatusIconToxinDesc</Key>
-      <Value>Aktuální úroveň toxinů</Value>
+      <Value>Aktuální úroveň toxicity</Value>
     </Record>
     <Record>
       <Key>StatusIconToxinWarning</Key>
@@ -15,7 +15,7 @@
     </Record>
     <Record>
       <Key>StatusIconHydrationDesc</Key>
-      <Value>Hydratace je nízká</Value>
+      <Value>Nedostatečná hydratace</Value>
     </Record>
     <Record>
       <Key>StatusIconHydrationKey</Key>
@@ -23,7 +23,7 @@
     </Record>
     <Record>
       <Key>HydrationCaution</Key>
-      <Value>Hydratační upozornění</Value>
+      <Value>Pozor na hydrataci</Value>
     </Record>
     <Record>
       <Key>HydrationCritical</Key>
@@ -39,15 +39,15 @@
     </Record>
     <Record>
       <Key>StatusIconOxygenDesc</Key>
-      <Value>Atmosféra, kterou dýcháte, způsobuje poškození plic.</Value>
+      <Value>Atmosféra, kterou dýcháte, poškozuje vaše plíce.</Value>
     </Record>
     <Record>
       <Key>StatusIconOxygenWarning</Key>
-      <Value>Nádrž v obleku klesá a vyžaduje pozornost</Value>
+      <Value>Nádrž obleku se vyčerpává a vyžaduje pozornost</Value>
     </Record>
     <Record>
       <Key>StatusIconOxyegnCritical</Key>
-      <Value>Nádrž v obleku je kritická, vyměňte kyslíkovou nádrž</Value>
+      <Value>Nádrž obleku je kritická, vyměňte nádrž s kyslíkem</Value>
     </Record>
     <Record>
       <Key>StatusIconPressureName</Key>
@@ -75,15 +75,15 @@
     </Record>
     <Record>
       <Key>StatusIconTempuratureWarning</Key>
-      <Value>Zobrazí aktuální úroveň toxinů</Value>
+      <Value>Zobrazí aktuální úroveň toxicity</Value>
     </Record>
     <Record>
       <Key>StatusIconTempuratureCritical</Key>
-      <Value>Zobrazí aktuální úroveň toxinů</Value>
+      <Value>Zobrazí aktuální úroveň toxicity</Value>
     </Record>
     <Record>
       <Key>StatusIconLeakingName</Key>
-      <Value>Netěsnost obleku</Value>
+      <Value>Oblek prosakuje</Value>
     </Record>
     <Record>
       <Key>StatusIconPowerName</Key>
