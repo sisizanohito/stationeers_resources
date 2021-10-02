@@ -12,7 +12,7 @@
     </Record>
     <Record>
       <Key>TutoiralFabricationSubTitle</Key>
-      <Value>Praktický výcvik: Fáze III</Value>
+      <Value>Praktická výuka: Fáze III</Value>
     </Record>
     <Record>
       <Key>IntoTutoiralFabricationDescription</Key>
@@ -22,7 +22,7 @@ Základní znalosti těžby a výroby jsou zásadní. Dokažte své schopnosti a
     </Record>
     <Record>
       <Key>3Narration1T</Key>
-      <Value>Praktický výcvik: Fáze III</Value>
+      <Value>Praktická výuka: Fáze III</Value>
     </Record>
     <Record>
       <Key>3Narration1D</Key>
@@ -35,7 +35,7 @@ Najděte tedy pomocí tabletu nějakou rudu.</Value>
     </Record>
     <Record>
       <Key>3Narration2T</Key>
-      <Value>Praktický výcvik: Fáze III</Value>
+      <Value>Praktická výuka: Fáze III</Value>
     </Record>
     <Record>
       <Key>3Narration2D</Key>
@@ -232,7 +232,7 @@ Vysuňte je z autosoustruhu zatažením za páku a poté je přidejte do jiného
     <Record>
       <Key>3Narration14D</Key>
       <Value>Dobrá práce, kadete. Vytvořili jste kompletní výrobní systém.
-To byl poslední krok praktického výcviku, fáze III. Stisknutím tlačítka &apos;Dokončit&apos; přeneste výsledky na velitelství Stationeer.</Value>
+To byl poslední krok praktické výuky, fáze III. Stisknutím tlačítka &apos;Dokončit&apos; přeneste výsledky na velitelství Stationeer.</Value>
     </Record>
     <Record>
       <Key>3OnButtonPressTaskT1</Key>
