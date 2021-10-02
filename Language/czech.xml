@@ -2305,7 +2305,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureLogicBatchWriter</Key>
-      <Value>Skupinový zapisovač</Value>
+      <Value>Dávkový zapisovač</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLogicButton</Key>

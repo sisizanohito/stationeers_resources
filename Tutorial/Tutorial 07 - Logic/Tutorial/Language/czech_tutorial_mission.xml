@@ -47,7 +47,7 @@ Nakonec nastavte výstupní proměnnou (OUT VAR) na &apos;Zapnuto&apos;, aby př
     </Record>
     <Record>
       <Key>8LogicWritterInput1</Key>
-      <Value>Nastavte vstup logického zapisovače (IN) na &quot;Logická čtečka&quot;</Value>
+      <Value>Nastavte vstup logického zapisovače (DO) na &quot;Logická čtečka&quot;</Value>
     </Record>
     <Record>
       <Key>LogicWritterOutput1</Key>
@@ -81,6 +81,10 @@ Nakonec nastavte výstupní proměnnou (OUT VAR) na &apos;Zapnuto&apos;, aby př
     <Record>
       <Key>8Narration10D</Key>
       <Value>S vypnutým logickým zapisovačem můžete páku resetovat, aniž byste se museli vrhnout do děsivé tmy.</Value>
+    </Record>
+    <Record>
+      <Key>8Narration11D</Key>
+      <Value>Do sítě je třeba přidat dávkový zapisovač. Dávkové zapisovače jsou stejné jako logické zapisovače, ale mohou zapisovat na více zařízení. </Value>
     </Record>
     <Record>
       <Key>8ConstructBatchWriter</Key>
