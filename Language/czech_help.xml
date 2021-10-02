@@ -247,6 +247,58 @@ Hodně štěstí, kadete!
   </Text>
     </StationpediaPage>
     <StationpediaPage>
+      <Key>AutomatedRocketPage</Key>
+      <Title>Automatizované raketové moduly (A.R.M.)</Title>
+      <DisplayFilter>Guides</DisplayFilter>
+      <Text>Automatické rakety jsou vozidla bez posádky, která lze vyslat mimo Zemi, aby získala různé zdroje. Rakety mohou být řízeny &lt;color=#0080FFFF&gt;{LINK:LogicUnitPage;logikou}&lt;/color&gt; nebo &lt;color=#0080FFFF&gt;{LINK:LogicUnitPage;IC}&lt;/color&gt; nebo kombinací těchto systémů.
+  
+Po vypuštění automatické rakety vyhledávají planety nebo asteroidy s těžitelnými surovinami, podle toho, s jakými MODULY byly zkonstruovány. Rakety mohou být naprogramovány tak, aby vytěžily všechny dostupné zdroje a poté se přesunuly na jinou planetu nebo se vrátily domů. Jejich dolet - a tedy i množství surovin, které mohou nasbírat - je určen dostupným palivem. Pokud jim palivo dojde, jsou navždy ztraceny v prázdnotě.
+  
+
+{HEADER:MODULY}
+Automatizovaný raketový systém se skládá ze čtyř základních modulů a motoru a palivové nádrže (nádrží):
+
+* MODUL AUTOMATIZACE -{THING:StructureModularRocketAutomation} je řídicí systém, který předává data jednotlivým modulům.
+
+* MODUL TĚŽBY - provádí těžební operace. V současnosti jsou to {THING:StructureRocketModuleMiningOre}, {THING:StructureModularRocketIceMining}, {THING:StructureRocketModuleMiningJunk} a {THING:StructureModularRocketGasMining}.
+
+* SPOJKA - spojuje těžební moduly se skladovacími moduly tím, že předává materiál z jednoho do druhého. Konkrétně {THING:StructureModularRocketCouplingDown} předává suroviny do úložného modulu, který se nachází POD ním. Modul {THING:StructureModularRocketCouplingUp} předává zdroje úložnému modulu NAD ním. Bez tohoto prvku nebude raketa shromažďovat prostředky.
+
+* SKLADOVACÍ MODUL - tento modul přijímá suroviny z těžebního modulu prostřednictvím spojky a ukládá je, dokud se raketa nevrátí. V současné době sem patří {THING:StructureRocketModuleSilo} pro rudy a {THING:StructureModularRocketFueltank01} pro plyn. Skladovací moduly mohou být připojeny k &lt;color=#0080FFFF&gt;{LINK:ImportExportPage;síťi šachet}&lt;/color&gt;, ale ve výchozím nastavení jsou uzavřené. Pomocí &lt;color=#0080FFFF&gt;{LINK:LogicUnitPage;logiky}&lt;/color&gt; je nastavte na &quot;otevřené&quot;.
+
+
+{HEADER:PODMÍNKY ODPALU}
+* NAPÁJENÍ - všechny moduly rakety musí být napájeny. Všimněte si, že moduly jsou ve výchozím nastavení vytvořeny jako &apos;zapnuté&apos;, ale lze je vypnout a zapnout pomocí &lt;color=#0080FFFF&gt;{LINK:LogicUnitPage;logiky}&lt;/color&gt; spojení.
+
+* PALIVO - raketa musí mít alespoň jednu palivovou nádrž a dostatek paliva pro vzlet (alespoň 500 mols). Všimněte si, že raketa potřebuje také 500 mols na přistání A spotřebuje 5 mols za tiknutí během cestovní fáze provozu.
+
+* KONSTRUKCE - Raketa musí být správně sestavena (viz výše MODULY)
+
+* PROGRAMOVÁNÍ - Raketa se ovládá pomocí &lt;color=#0080FFFF&gt;{LINK:LogicUnitPage;IC systému}&lt;/color&gt; (viz níže)
+
+
+{HEADER:RAKETOVÉ MODULY}¶
+Režim rakety se nastavuje prostřednictvím hodnoty &apos;aktivovat&apos; zařízení. Režim určuje aktuální chování:
+
+0: Nečinnost (na základně)
+1: Odpálení
+2: Cestování
+3: Přílet
+4: Nečinný v cíli (připraven k aktivaci těžebních modulů).
+5: Návrat domů
+6: Vrácen
+7: Ztracen
+
+{HEADER:UNIKÁTNÍ RAKETOVÉ PŘÍKAZY}
+* ZŮSTATEK PALIVA V NÁDRŽI - Zjistí zbývající palivo v palivové nádrži rakety.
+* NÁKLADY PALIVA NA NÁVRAT - Zjistí náklady na palivo pro návrat rakety do aktuálního světa.
+* REŽIM RAKETY - Získá aktuální hodnotu režimu rakety (0-7).
+* SBÍRATELNÉ ZDROJE - Vrací hodnotu 0 nebo 1 podle toho, zda má aktuální raketový systém možnost sbírat zdroje na planetě.
+
+
+      </Text>
+    </StationpediaPage>
+    <StationpediaPage>
       <Key>FoodPage</Key>
       <Title>Jídlo</Title>
       <Text>Jedná se o položky, které se konzumují za účelem zajištění výživy.
