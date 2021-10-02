@@ -5679,7 +5679,7 @@
     </Record>
     <Record>
       <Key>CaptainsChair</Key>
-      <Value>Kapitánská židle</Value>
+      <Value>Kapitánské křeslo</Value>
     </Record>
     <Record>
       <Key>PassengersChair</Key>
@@ -5771,7 +5771,7 @@
     </Record>
     <Record>
       <Key>Launch</Key>
-      <Value>Spuštění</Value>
+      <Value>Spustit</Value>
     </Record>
     <Record>
       <Key>PreviousPlan</Key>
@@ -5803,11 +5803,11 @@
     </Record>
     <Record>
       <Key>Grow</Key>
-      <Value>Růst</Value>
+      <Value>Pěstovat</Value>
     </Record>
     <Record>
       <Key>LayEgg</Key>
-      <Value>Položit vejce</Value>
+      <Value>Snášení vajec</Value>
     </Record>
     <Record>
       <Key>Eat</Key>

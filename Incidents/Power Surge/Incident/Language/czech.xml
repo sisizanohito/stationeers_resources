@@ -6,11 +6,11 @@
   <Interface>
     <Record>
       <Key>Incident_ElectroMagnetic_Title</Key>
-      <Value>Přepětí</Value>
+      <Value>Přepětí v napájení</Value>
     </Record>
     <Record>
       <Key>Incident_ElectroMagnetic</Key>
-      <Value>Zdá se, že vaše baterie ztrácí energii.</Value>
+      <Value>Zdá se, že vaše baterie ztrácejí energii.</Value>
     </Record>
   </Interface>
 </Language>

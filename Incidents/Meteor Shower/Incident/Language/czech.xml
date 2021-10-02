@@ -6,11 +6,11 @@
   <Interface>
     <Record>
       <Key>Incident_MeteorInbound_Title</Key>
-      <Value>Meteoritický déšť</Value>
+      <Value>Meteorický déšť</Value>
     </Record>
     <Record>
       <Key>Incident_MeteorInbound</Key>
-      <Value>Satelitní snímky zachytily velký objekt pohybující se směrem k vašemu sektoru, přesuňte se do bezpečného prostředí.</Value>
+      <Value>Satelitní skeny zachytily velký objekt, který se pohybuje směrem k vašemu sektoru, přesuňte se do bezpečného prostředí.</Value>
     </Record>
   </Interface>
 </Language>
