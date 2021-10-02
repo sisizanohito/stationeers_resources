@@ -10244,7 +10244,7 @@ Program náborů z oblasti stavebnictví, vojenského a leteckého průmyslu, v�
     </Record>
     <Record>
       <Key>CrowbarToFlip</Key>
-      <Value>Překlopte pomocí páčidla.</Value>
+      <Value>Překlopte pomocí páčidla</Value>
     </Record>
     <Record>
       <Key>TimerPanel</Key>
@@ -10255,16 +10255,36 @@ Program náborů z oblasti stavebnictví, vojenského a leteckého průmyslu, v�
       <Value>Čas</Value>
     </Record>
     <Record>
+      <Key>Pitch</Key>
+      <Value>Hřiště</Value>
+    </Record>
+    <Record>
       <Key>Volume</Key>
-      <Value>Hlavní hlasitost</Value>
+      <Value>Hlasitost</Value>
+    </Record>
+    <Record>
+      <Key>NoAudioReceiverDevices</Key>
+      <Value>Žádné zařízení zvukového přijímače</Value>
+    </Record>
+    <Record>
+      <Key>Speed</Key>
+      <Value>Rychlost</Value>
+    </Record>
+    <Record>
+      <Key>Attack</Key>
+      <Value>Útok</Value>
     </Record>
     <Record>
       <Key>Release</Key>
-      <Value>Zesnulý</Value>
+      <Value>Uvolnění</Value>
+    </Record>
+    <Record>
+      <Key>CurrentInstrument</Key>
+      <Value>Aktuální nástroj</Value>
     </Record>
     <Record>
       <Key>NoSoundCartridge</Key>
-      <Value>Kazety</Value>
+      <Value>Žádná zvuková kazeta</Value>
     </Record>
     <Record>
       <Key>NoNote</Key>
