@@ -347,31 +347,31 @@ Jednoduše zapište hash do proměnného nastavení na {KING:StructureLaunchPad}
       <DisplayFilter>Guides</DisplayFilter>
       <Text>{HEADER:Modulární raketový náklad}
 
-{THING:StructureModularRocketCargo01} má kapacitu pro dvě bedny s deseti sloty. Na raketě můžete mít více nákladových modulů. Raketa může zvednout celkem až sedm modulů.
+{THING:StructureModularRocketCargo01} má kapacitu pro dvě desetislotové bedny. Na raketě můžete mít více nákladních modulů. Raketa může vynést celkem až sedm modulů.
 
 {HEADER:Raketový velitelský modul}
 
-{THING:StructureModularRocketCommand01} musí být umístěna na vrcholu rakety. Posoudí připravenost rakety k letu. Jakmile jsou splněny všechny podmínky, může být raketa vypuštěna, když všichni hráči sedí v modulu stisknutím tlačítka &quot;Spuštění&quot; na konzoli.
+Příkaz {THING:StructureModularRocketCommand01} musí být umístěn na vrcholu rakety. Vyhodnotí připravenost rakety k letu. Jakmile jsou splněny všechny podmínky, může být raketa odpálena, když všichni hráči sedí v modulu, stisknutím tlačítka &quot;ODPÁLIT&quot; na konzoli.
 
-Pro spuštění musí být splněny následující podmínky:
+Pro start musí být splněny následující podmínky:
 
-Palivo plné;
-Poměr směsi paliva správný;
-Všichni hráči sedící;
-Napájení do odpalovací rampy;
+Plné palivo
+správný poměr palivové směsi
+Všichni hráči sedí na svých místech
+napájení odpalovací rampy
 Plně postavená raketa
 
-Konzole {THING:StructureModularRocketCommand01} zobrazuje aktuální stav těchto podmínek. Nevyžaduje atmosféru pro zvednutí - atmosféra vašeho obleku je dostatečná.
+Konzole {THING:StructureModularRocketCommand01} zobrazuje aktuální stav těchto podmínek. Ke startu není potřeba atmosféra - atmosféra vašeho skafandru je dostačující.
 
 {HEADER:Modulární raketový motor}
 
-{THING:StructureModularRocketEngine01} je schopen zvednout až sedm modulů (včetně sebe).
+{THING:StructureModularRocketEngine01} je schopen vynést až sedm modulů (včetně sebe sama).
 
 {HEADER:Modulární raketová palivová nádrž}
 
-{THING:StructureModularRocketFueltank01} vyžaduje směs 2 : 1 {GAS:Volatiles} a {GAS:Oxygen}. Pokud směs překročí tyto proporce nebo umístíte do nádrže jiné plyny, konzole {THING:StructureModularRocketCommand01} zobrazí chybu &quot;Neplatný&quot;.
+{THING:StructureModularRocketFueltank01} vyžaduje směs 2:1 {GAS:Volatiles} a {GAS:Oxygen}. Pokud směs překročí tyto poměry nebo do nádrže umístíte jiné plyny, konzole {THING:StructureModularRocketCommand01} zobrazí chybu &quot; Neplatné&quot;.
 
-          </Text>
+  </Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>RocketShuttlePage</Key>
@@ -384,10 +384,11 @@ Konzole {THING:StructureModularRocketCommand01} zobrazuje aktuální stav těcht
       <Key>WeatherPage</Key>
       <Title>Počasí</Title>
       <DisplayFilter>Guides</DisplayFilter>
-      <Text>Planety sluneční soustavy nejsou tak klidné, jak se může zdát. Po sedmi dnech v jakémkoli světě s atmosférou se nevyzpytatelné síly přírody dostanou do akce - zasáhnou neopatrné Stationeery vánicemi, prachovými bouřkami a sopečnou činností.
-ODA proto doporučuje, aby čerstvě nasazení Stationeerové vytvořili vzduchotěsnou základnu do 7 dnů od přistání.
-Jakékoliv pohyblivé předměty ponechané venku v bouři - na Marsu, Loulanu, Vulkánu nebo Evropě - riskují, že budou odváty daleko, daleko, včetně vašeho přistávacího modulu.
-Stejně tak si pamatujte, že solární panely jsou křehké a může se rozbít jejich sklo nebo občas dokonce zničit dostatečně zuřivou bouří. Během bouří se také drasticky snižuje jejich výkon.</Text>
+      <Text>Planety sluneční soustavy nejsou tak klidné, jak by se mohlo zdát. Po sedmi dnech strávených na jakémkoli světě s atmosférou se nevyzpytatelné přírodní síly dají do pohybu a zasáhnou neopatrné Stationeery sněhovými bouřemi, písečnými bouřemi a vulkanickými událostmi.
+Proto ODA doporučuje, aby si čerstvě vyslaní Stationeeři do sedmi dnů od přistání vytvořili neprodyšnou základnu.
+Jakékoli dynamické předměty ponechané venku v bouři - na Marsu, Loulanu, Vulkánu nebo Europě - riskují, že je odnese daleko, daleko, včetně vašeho přistávacího modulu.
+Stejně tak mějte na paměti, že solární panely jsou křehké a jejich sklo se může rozbít, případně je může zničit dostatečně silná bouře. Během bouře se také drasticky sníží jejich výkon.
+  </Text>
     </StationpediaPage>
     <!--
     ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -419,8 +420,8 @@ Samovznícení {POS:300}{2}{3}{/LIST}</Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>IceMeltingTemplate</Key>
-      <Text>Teplota taveniny {1}
-Tlak taveniny {0}</Text>
+      <Text>Teplota tání {1}¶
+Tlak tání {0}</Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>ConstructedByHeaderTemplate</Key>
