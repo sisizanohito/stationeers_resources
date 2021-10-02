@@ -15,7 +15,7 @@
     </StationpediaPage>
     <StationpediaPage>
       <Key>FabricatorPage</Key>
-      <Title>Konstruktéři</Title>
+      <Title>Fabrikátory</Title>
       <Text>Jedná se o poháněné struktury, které lze použít k výrobě věcí, které ve hře potřebujete. Obvykle odebírají {LINK:IngotPage;ingoty}, které poskytují {LINK:ReagentPage;činidla}, které potřebují k výrobě věcí.
         {LIST_OF_FABRICATORS}
       </Text>
@@ -219,46 +219,46 @@ Hodně štěstí, kadete!
     <StationpediaPage>
       <Key>IngotPage</Key>
       <Title>Ingoty</Title>
-      <Text>Jedná se o položky, které jsou obvykle vyrobeny z {LINK:SmeltingPage;tavení} {LINK:OrePage;rud}.
+      <Text>Jedná se o předměty, které se obvykle vyrábějí z {LINK:SmeltingPage;tavení} {LINK:OrePage;rudy} pro použití ve {LINK:FabricatorPage;fabrikátorech}.
 
 {LIST_OF_INGOTS}
-      </Text>
+  </Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>ToolPage</Key>
       <Title>Nástroje</Title>
-      <Text>Toto jsou položky, které se vejdou do speciálního slotu a používají se pro {LINK:ConstructionPage;konstrukce} a další úkoly.
+      <Text>Jedná se o předměty, které se vejdou do slotu pro specializované nástroje a používají se pro {LINK:ConstructionPage;konstrukce} a další úkoly.
 
 {LIST_OF_TOOLS}
-      </Text>
+  </Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>ResourcePage</Key>
       <Title>Zdroje</Title>
-      <Text>Jedná se o položky, které jsou spotřebovány během {LINK:ConstructionPage;konstrukce} a dalších úkolu.
+      <Text>Jedná se o položky, které se spotřebovávají během {LINK:ConstructionPage;konstrukce} a dalších úkolů.
 {LIST_OF_RESOURCES}
-      </Text>
+  </Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>KitPage</Key>
       <Title>Sady</Title>
-      <Text>Jedná se o položky, které jsou spotřebovány během {LINK:ConstructionPage;konstrukce} a dalších úkolu.
+      <Text>Jedná se o položky, které se spotřebovávají během {LINK:ConstructionPage;konstrukce} a dalších úkolů.
 {LIST_OF_KITS}
-      </Text>
+  </Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>FoodPage</Key>
       <Title>Jídlo</Title>
-      <Text>Jedná se o položky, které se konzumují k zajištění výživy.
-        {LIST_OF_FOOD}
-      </Text>
+      <Text>Jedná se o položky, které se konzumují za účelem zajištění výživy.
+  {LIST_OF_FOOD}
+  </Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>ClothingPage</Key>
       <Title>Oblečení</Title>
-      <Text>Jedná se o položky, které mohou být nošeny entitami ve slotech.
+      <Text>Jedná se o předměty, které mohou nosit entity ve slotech.
 {LIST_OF_CLOTHING}
-      </Text>
+  </Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>AppliancePage</Key>
