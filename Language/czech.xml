@@ -5531,11 +5531,11 @@
     </Record>
     <Record>
       <Key>GrabLeftHand</Key>
-      <Value>Popadnout levou ruku</Value>
+      <Value>Uchopit levou ruku</Value>
     </Record>
     <Record>
       <Key>GrabRightHand</Key>
-      <Value>Popadnout pravou ruku</Value>
+      <Value>Uchopit pravou ruku</Value>
     </Record>
     <Record>
       <Key>GrabLeftFoot</Key>
@@ -5543,43 +5543,43 @@
     </Record>
     <Record>
       <Key>GrabRightFoot</Key>
-      <Value>Popadnout pravou nohu</Value>
+      <Value>Uchopit pravou nohu</Value>
     </Record>
     <Record>
       <Key>GrabHead</Key>
-      <Value>Popadnout hlavu</Value>
+      <Value>Uchopit hlavu</Value>
     </Record>
     <Record>
       <Key>GrabUpperArmL</Key>
-      <Value>Popadnout levou ruku</Value>
+      <Value>Uchopit levou ruku</Value>
     </Record>
     <Record>
       <Key>GrabUpperArmR</Key>
-      <Value>Popadnout pravou ruku</Value>
+      <Value>Uchopit pravou ruku</Value>
     </Record>
     <Record>
       <Key>GrabLowerArmL</Key>
-      <Value>Popadnout levou ruku</Value>
+      <Value>Uchopit levou ruku</Value>
     </Record>
     <Record>
       <Key>GrabLowerArmR</Key>
-      <Value>Popadnout pravou ruku</Value>
+      <Value>Uchopit pravou ruku</Value>
     </Record>
     <Record>
       <Key>GrabThighR</Key>
-      <Value>Popadnout pravé stehno</Value>
+      <Value>Uchopit pravé stehno</Value>
     </Record>
     <Record>
       <Key>GrabThighL</Key>
-      <Value>Popadnout levé stehno</Value>
+      <Value>Uchopit levé stehno</Value>
     </Record>
     <Record>
       <Key>GrabCalfR</Key>
-      <Value>Popadnout pravé lýtko</Value>
+      <Value>Uchopit pravé lýtko</Value>
     </Record>
     <Record>
       <Key>GrabCalfL</Key>
-      <Value>Popadnout levé lýtko</Value>
+      <Value>Uchopit levé lýtko</Value>
     </Record>
     <Record>
       <Key>Drag</Key>
@@ -5895,47 +5895,55 @@
     </Record>
     <Record>
       <Key>Button7</Key>
-      <Value>Tlačítko 4</Value>
+      <Value>Tlačítko 7</Value>
     </Record>
     <Record>
       <Key>Button8</Key>
-      <Value>Tlačítko 4</Value>
+      <Value>Tlačítko 8</Value>
     </Record>
     <Record>
       <Key>Button9</Key>
-      <Value>Tlačítko 4</Value>
+      <Value>Tlačítko 9</Value>
     </Record>
     <Record>
       <Key>Button10</Key>
-      <Value>Tlačítko 1</Value>
+      <Value>Tlačítko 10</Value>
     </Record>
     <Record>
       <Key>Button11</Key>
-      <Value>Tlačítko 1</Value>
+      <Value>Tlačítko 11</Value>
     </Record>
     <Record>
       <Key>Button12</Key>
-      <Value>Tlačítko 1</Value>
+      <Value>Tlačítko 12</Value>
     </Record>
     <Record>
       <Key>Button13</Key>
-      <Value>Tlačítko 1</Value>
+      <Value>Tlačítko 13</Value>
     </Record>
     <Record>
       <Key>Button14</Key>
-      <Value>Tlačítko 1</Value>
+      <Value>Tlačítko 14</Value>
     </Record>
     <Record>
       <Key>Button15</Key>
-      <Value>Tlačítko 1</Value>
+      <Value>Tlačítko 15</Value>
     </Record>
     <Record>
       <Key>Button16</Key>
-      <Value>Tlačítko 1</Value>
+      <Value>Tlačítko 16</Value>
     </Record>
     <Record>
       <Key>Button17</Key>
-      <Value>Tlačítko 1</Value>
+      <Value>Tlačítko 17</Value>
+    </Record>
+    <Record>
+      <Key>ProgrammableChip</Key>
+      <Value>Programovatelný čip</Value>
+    </Record>
+    <Record>
+      <Key>Motherboard</Key>
+      <Value>Základní deska</Value>
     </Record>
   </Interactables>
   <Interface>
