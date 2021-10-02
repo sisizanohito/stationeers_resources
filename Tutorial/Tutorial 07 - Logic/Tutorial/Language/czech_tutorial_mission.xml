@@ -91,6 +91,18 @@ Nakonec nastavte výstupní proměnnou (OUT VAR) na &apos;Zapnuto&apos;, aby př
       <Value>Umístěte dávkový zapisovač do zvýrazněné pozice</Value>
     </Record>
     <Record>
+      <Key>8Narration12D</Key>
+      <Value>Vyhledejte ve výstupech dávkového zapisovače &quot;Nástěnné světlo&quot;. To způsobí, že bude zapisovat do všech nástěnných světel v síti.</Value>
+    </Record>
+    <Record>
+      <Key>8BatchWriterOutput</Key>
+      <Value>Nastavte výstup dávkového zapisovače (VEN) na &quot;Nástěnné světlo&quot;.</Value>
+    </Record>
+    <Record>
+      <Key>8Narration13D</Key>
+      <Value>Nyní nastavte vstup (DO) dávkového zapisovače na hodnotu &quot;logická čtečka&quot;. Poté nastavte proměnnou, do které zapisuje (VEN VAR), na světle jako &apos;Zapnuto&apos;.</Value>
+    </Record>
+    <Record>
       <Key>8BatchWriterInput</Key>
       <Value>Nastavte vstup pro dávkový zapisovač (DO) na &quot;Logická čtečka&quot;</Value>
     </Record>
