@@ -513,5 +513,40 @@ Hnojivo mění růstové procesy rostlin a je vytvářeno pomocí {THING:Portabl
 
 Účinek těchto složek závisí na jejich poměru v kompostéru při aktivaci zpracování. Hnojivo se vyrábí v poměru 1:3 mezi hnojivem a složkami. Při zpracování se uvolňuje {THING:Nitrogen} a {THING:Volatiles} a také malé množství tepla.</Text>
     </StationpediaPage>
+    <StationpediaPage>
+      <Key>DecayPage</Key>
+      <Title>Rozklad potravin</Title>
+      <DisplayFilter>Guides</DisplayFilter>
+      <Text>Potraviny se v průběhu času rozkládají na {THING:DecayedFood}, pokud nejsou uchovávány v chladné stabilní atmosféře. Přesná rychlost rozkladu se individuálně liší podle:
+
+- TEPLOTY - Chlazení zpomalí rozklad, ale mnoho potravin se poškodí vystavením extrémně nízkému tlaku a také extrémnímu teplu. Optimální teplota je 0 kelvinů (-272 C).
+
+- TYPU POTRAVINY - Každé &lt;color=#0080FFFF&gt;{LINK:OrganicPage;jídlo}&lt;/color&gt; má své vlastní vlastnosti rozkladu. Například {THING:ItemTomatoSoup} vydrží mnohem déle než {THING:ItemTomato}.
+
+- TLAKU - Potraviny se rozkládají rychleji, když tlak klesne pod 1 atmosféru (101 kPa). Rozklad probíhá exponenciálně rychleji, jak se atmosféra blíží dokonalému vakuu. Vyšší tlaky nemají žádný vliv. 
+
+- ATMOSFÉRY - Různé plyny mohou zpomalovat a urychlovat proces rozkladu. Proces při výpočtu modifikátoru rozpadu zohledňuje příslušné poměry plynů ve smíšených atmosférách. Pro všechny potraviny platí následující poměry:
+
+&gt; Kyslík x 1,3
+&gt; Dusík x 0,6
+&gt; oxid uhličitý x 0,8
+&gt; těkavé látky x 1
+&gt; Znečišťující látka x 3
+&gt; Oxid dusný x 1,5
+&gt; Voda x 2
+&gt; Vakuum - viz TLAK (výše).</Text>
+    </StationpediaPage>
+    <StationpediaPage>
+      <Key>HydrationPage</Key>
+      <Title>Žízeň + hydratace</Title>
+      <DisplayFilter>Guides</DisplayFilter>
+      <Text>Váš průměrný Stationeer potřebuje pravidelně pít vodu. Tajemné a možná zavádějící &lt;color=#0080FFFF&gt;{LINK:ODA;ODA}&lt;/color&gt; předpisy v oblasti bezpečnosti a ochrany zdraví však Stationeerům dlouho upíraly právo na vhodné hydratační mechanizmy. Místo toho musí dělat pravidelné přestávky na pití, aby si otevřeli přilbu a nasákli vodu. To se nedoporučuje v beztlakém prostředí.
+
+Jak často pít? To je určeno úrovní obtížnosti, horkostí planety a tím, jak moc chcete hýbat svým tělem.
+
+Voda má mnoho podob. Alespoň jedna {THING:ItemWaterBottle} je dodávána Stationeerům jako součást jejich přídělů při přistání na nových planetách, přičemž další jsou v bednách. Ty je možné znovu naplnit pomocí {THING:ItemWaterBottleFiller}, které musí být sami o sobě připojené ke kapalinové potrubní síti. Samotnou síť lze naplnit pomocí {THING:StructureIceCrusher} vhodnou zásobou ledu.
+
+Rychlost žízně lze upravit v hlavní nabídce nastavení úpravou posuvníku rychlosti hladu / hydratace.</Text>
+    </StationpediaPage>
   </HelpPage>
 </Language>
