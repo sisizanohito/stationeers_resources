@@ -142,19 +142,19 @@
     </Record>
     <Record>
       <Key>MarsTaskPrepareAtmos</Key>
-      <Value>Vytvořte přetlakovou místnost s atmosférou dostatečnou pro pěstování brambor.</Value>
+      <Value>Vytvořte přetlakovou místnost s dostatečnou atmosférou pro pěstování brambor.</Value>
     </Record>
     <Record>
       <Key>MarsTaskGrowPotato</Key>
-      <Value>Pěstujte {THING:ItemPotato} do zralosti.</Value>
+      <Value>Vypěstujte {THING:ItemPotato} do zralosti.</Value>
     </Record>
     <Record>
       <Key>MarsTabletStage4Page1</Key>
-      <Value>STRANA 1 ze 2\nMALÉ ZELENÉ PALCE\nÚplné minimum, které potřebujete k pěstování plodin, je Hydroponický zásobník nebo Přenosná Hydroponie. Budete muset zajistit zdroj vody, umístění v atmosféře s alespoň ~20 kPa tlaku, teplotou okolo 20-25 stupňů Celsia a obsahující malé množství oxidu uhličitého.</Value>
+      <Value>STRANA 1 ze 2 \nMALÉ ZELENÉ PALCE\nNa pěstování plodin potřebujete minimálně hydroponický zásobník nebo přenosnou hydroponii.  Ta bude muset být zásobena zdrojem vody a umístěna v atmosféře o tlaku alespoň ~20 kpa, teplotě kolem 20-25 stupňů Celsia a s malým množstvím oxidu uhličitého.</Value>
     </Record>
     <Record>
       <Key>MarsTabletStage4Page2</Key>
-      <Value>STRANA 2 ze 2\nNejnáročnějším požadavkem je získání některých semen, abyste mohli začít. Každý únikový modul obsahuje zásobovací bednu s nominálním množstvím semen, které vám pomohou začít - jejich ochrana je klíčová. Pokud jste se oddělili od svého únikového modulu, hledejte lokalizační kazetu a použijte ji k hledání majáku.</Value>
+      <Value>STRANA 2 z 2\nNejnáročnějším požadavkem je získat semena do začátku.  Každý únikový modul obsahuje zásobní bednu s nominálním množstvím semen do začátku - jejich ochrana je klíčová.  Pokud jste se od únikového modulu oddělili, můžete pomocí sledovací kazety sledovat maják modulu, pokud jej najdete.</Value>
     </Record>
     <!-- Mission Stage: Spawn Mothership & Engine -->
     <Record>
@@ -163,7 +163,7 @@
     </Record>
     <Record>
       <Key>MarsDescCreateRocket</Key>
-      <Value>Vytvořte raketu postavením {THING:StructureLaunchPad} a připojením požadovaných modulů k ní.</Value>
+      <Value>Vytvořte raketu vytvořením {THING:StructureLaunchPad} a připojte k ní požadované moduly.</Value>
     </Record>
     <Record>
       <Key>MarsTaskBuildLaunchPad</Key>
