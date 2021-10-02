@@ -167,7 +167,7 @@
     </Record>
     <Record>
       <Key>MarsTaskBuildLaunchPad</Key>
-      <Value>Postavte raketovou startovací rampu</Value>
+      <Value>Postavte raketovou odpalovací rampu</Value>
     </Record>
     <Record>
       <Key>MarsTaskBuildEngine</Key>
@@ -175,15 +175,15 @@
     </Record>
     <Record>
       <Key>MarsTaskBuildFuelTank</Key>
-      <Value>Postavte raketovou palivovou nádrž</Value>
+      <Value>Postavte palivovou nádrž rakety</Value>
     </Record>
     <Record>
       <Key>MarsTaskBuildCommand</Key>
-      <Value>Postavte raketový velitelský modul</Value>
+      <Value>Postavte velitelský modul rakety</Value>
     </Record>
     <Record>
       <Key>MarsTitleLaunchRocket</Key>
-      <Value>Vypuštění rakety</Value>
+      <Value>Odpálení rakety</Value>
     </Record>
     <Record>
       <Key>MarsDescLaunchRocket</Key>
@@ -191,7 +191,7 @@
     </Record>
     <Record>
       <Key>MarsTaskLaunchMothership</Key>
-      <Value>Vypustit raketu</Value>
+      <Value>Odpalte raketu</Value>
     </Record>
   </Interface>
 </Language>
