@@ -9858,33 +9858,39 @@ S bezpečným přístupem do vesmíru se ExMin stala ústředním hráčem v tok
     </Record>
     <Record>
       <Key>GeFabrikDesc</Key>
-      <Value>GeFabrik, který je oficiálně známý jako Gewehrfabrik GmbH, je jednou z nejstarších a nejuznávanějších zbrojních společností na světě, která vyrábí výjimečně přesné a špičkové střelné zbraně.
-V návaznosti na kolaps evropského zbrojního průmyslu v letech 2030 vytvořila skupina nezaměstnaných ozbrojených zaměstnanců GeFabrik. Společnost, která se věnuje obnově původních konstrukčních principů, je legendou pro rozsáhlé testování, které někdy trvá až 10 let, aby bylo možné vyrábět formáty zbraní ‘ganz’.
-Společnost GeFabrik je všeobecně považována za společnost, která jednou rukou zachránila německou výrobní reputaci, aniž by dělala nic pro svůj smysl pro humor.</Value>
+      <Value>GeFabrik, oficiálně známá jako Gewehrfabrik GmbH, je jednou z nejstarších a nejuznávanějších zbrojních firem na světě, která je známá výrobou mimořádně přesných a špičkových střelných zbraní.
+Po kolapsu evropské zbrojní výroby v roce 2030 založila skupina nezaměstnaných zaměstnanců zbrojovky společnost GeFabrik. Společnost se věnuje obnově původních konstrukčních principů a je legendární rozsáhlým testováním, které někdy trvá až 10 let, aby mohla vyrábět &quot;ganz&quot; formáty zbraní.
+GeFabrik je všeobecně považována za firmu, která vlastnoručně zachránila pověst německé výroby, a přitom nijak nezlepšila její smysl pro humor.
+  </Value>
     </Record>
     <Record>
       <Key>HiiragiDesc</Key>
-      <Value>Společnost Hiiragi, kterou založil Noboru Hiiragi po hospodářské bublině z let 2110, pohltila několik významných mimosvětových aktiv a rychle se stala nejpoužívanější komunikační sítí trans-sluneční soustavy.
-Pokud jste v poslední době komunikovali s přáteli a rodinami mimo svět, proběhlo to prostřednictvím sítě Hiiragi, i když byla označena pod jednou z mnoha dětských společností. Hiiragi je také prodejcem číslo jedna pro PCD (osobní komunikační zařízení), stejně jako hluboký, i když obtížně hodnotitelný investor do pozemních telekomunikačních sítí.</Value>
+      <Value>Společnost Hiiragi Communications, kterou založil Noboru Hiiragi po ekonomické bublině v roce 2110, pohltila několik významných mimozemských aktiv a rychle se stala nejrozšířenější komunikační sítí v rámci Sluneční soustavy.
+Pokud jste v poslední době komunikovali s přáteli a rodinou mimo Zemi, bylo to prostřednictvím sítě Hiiragi, i když to bylo pod značkou jedné z mnoha dceřiných společností. Hiiragi je také jedničkou v prodeji PCD (Osobní komunikační zařízení) a hlubokým, i když těžko odhadnutelným investorem do pozemských telekomunikačních sítí.
+  </Value>
     </Record>
     <Record>
       <Key>NorsecDesc</Key>
-      <Value>Díky svým kořenům v obranném průmyslu na počátku 20. století byl Norsec (také znám jako Severní bezpečnostní systémy) jedním z prvních, kdo přijal těžbu asteroidů - jeden z jeho remorkérů byl zapojen do nechvalně proslulého Sisyfova zásahu na rodící se marťanské kolonii v Sanders.
-Norsec byl oficiálně zbaven jakéhokoli nesprávného jednání, ale když &lt;color=#0080FFFF&gt;{LINK:ODA;ODA}&lt;/color&gt; zakázala asteroidové přemístění, společnost přesunula své zaměření na infrastrukturu a výrobu.
-Orbitálně založená divize vesmírných systémů společnosti Norsec je zodpovědná za design a výrobu hlavních dopravních systémů &lt;color=#0080FFFF&gt;{LINK:ODA;ODA}&lt;/color&gt;, přičemž se také říká, že má velký zájem o &lt;color=#0080FFFF&gt;{LINK:ExMin;ExMin}&lt;/color&gt;. Společnost je také známá svou ochotou zapojit se do experimentální robotické technologie.</Value>
+      <Value>Společnost Norsec (známá také jako Northern Security Systems), která má kořeny v obranném průmyslu z počátku 20. století, byla jedním z prvních, kdo se pustil do těžby asteroidů - jeden z jejích tahačů se podílel na nechvalně proslulém Sisyfově úderu na vznikající marťanskou kolonii v Sandersu.
+Norsec byl oficiálně očištěn od jakéhokoli provinění, ale když &lt;color=#0080FFFF&gt;{LINK:ODA;ODA}&lt;/color&gt; zakázala přemisťování asteroidů, společnost se přeorientovala na infrastrukturu a výrobu.
+Divize vesmírných systémů Norsecu se sídlem na oběžné dráze je zodpovědná za návrh a výrobu hlavních dopravních systémů &lt;color=#0080FFFF&gt;{LINK:ODA;ODA}&lt;/color&gt; a zároveň se proslýchá, že má velký podíl na &lt;color=#0080FFFF&gt;{LINK:ExMin;ExMin}&lt;/color&gt;. Společnost je rovněž známá svou ochotou zapojit se do experimentálních robotických technologií.
+  </Value>
     </Record>
     <Record>
       <Key>ODADesc</Key>
-      <Value>V důsledku zemské krize se zaměření lidstva na vesmír zmenšilo. Přesto mnozí cítili, že bez ambicí mimo naši domovskou planetu by náš druh mohl slábnout.
-Offworld Development Agency (Vesmírná rozvojová agentura), vytvořená v roce 2070CE nově sestavenou Organizací spojených národů, dostala velmi specifický cíl - vést a podporovat lidský průzkum prostoru v době, kdy se vesmír vytrácel z mysli veřejnosti.
-Slavnostně otevřela program &lt;color=#0080FFFF&gt;{LINK:Stationeers;Stationeer}&lt;/color&gt; v roce 2095CE. ODA pochopila, že financování by bylo obtížné, a proto tento program koncipovala jako pomalou vesmírnou iniciativu s nízkými výdaji. Zatímco se někteří vysmívali Stationeerům jako &apos;kosmickým trosečníkům za nízkou cenu&apos;, úspěch programu je důkazem moudrosti a účelnosti vize ODA.</Value>
+      <Value>
+  Po pozemské krizi se lidstvo přestalo věnovat vesmíru. Mnozí však cítili, že bez ambicí mimo naši domovskou planetu by náš druh mohl ochabnout.
+Agentura pro rozvoj mimozemského prostoru, kterou v roce 2070 vytvořila nově přebudovaná Organizace spojených národů, měla velmi konkrétní cíl - řídit a podporovat výzkum lidského vesmíru v době, kdy se vesmír vytrácel z povědomí veřejnosti. 
+V roce 2095 slavnostně zahájila &lt;color=#0080FFFF&gt;{LINK:Stationeers;Stationeer}&lt;/color&gt; program. ODA chápala, že finanční prostředky bude obtížné získat, a proto program koncipovala jako pomalu se rozjíždějící a málo nákladnou kosmickou iniciativu. I když se někteří Stationeerům posmívali jako &quot;zlevněným vesmírným trosečníkům&quot;, úspěch programu svědčí o moudrosti a pragmatismu vize ODA.
+  </Value>
     </Record>
     <Record>
       <Key>RecursoDesc</Key>
-      <Value>Na konci 21. století se tato dlouholetá brazilská těžební skupina rozvětvila do vesmíru.
-Společnost, zaměřená především na nerostné suroviny a kovy, je možná nejlépe chápána jako rozšíření brazilské vlády - jen velmi málo politických osobností vyššího stupně v moderní Brazílii není zapojeno do jedné či druhé části tohoto průmyslového monstra.
-Zapojení do jihoamerické politiky dalo společnosti silný vliv na vesmírný výtah Manaus. Tato hluboká státní kontrola vedla k tomu, že ostatní skupiny - včetně &lt;color=#0080FFFF&gt;{LINK:ODA;ODA}&lt;/color&gt; - uplatňovaly určitou ‘flexibilitu’ vůči společnosti Recurso.
-Obvinění z nezákonného přemístění asteroidů, porušení bezpečnosti a četná porušení předpisů v oblasti obchodu se toho stěží dotkly. Obránci mezitím poukazují na to, že u soudu bylo prokázáno jen velmi málo, a Recurso je stěží samo - proto je pravdou: &apos;Ve vesmíru žijeme všichni ve skleněných domech.&apos;</Value>
+      <Value>Tato dlouholetá brazilská těžařská skupina se koncem 21. století zaměřila na vesmír.
+Tato společnost, která se zaměřuje především na těžbu nerostných surovin a kovů, je asi nejlépe chápána jako prodloužená ruka brazilské vlády - jen málokterá politická špička v současné Brazílii není zapletena do té či oné větve tohoto průmyslového gigantu.
+Díky provázanosti s jihoamerickou politikou má společnost velký vliv na vesmírný výtah v Manausu. Tato hluboká státní kontrola vedla k tomu, že ostatní skupiny - &lt;color=#0080FFFF&gt;{LINK:ODA;ODA}&lt;/color&gt; nevyjímaje - projevily vůči společnosti Recurso jistou &quot;pružnost&quot;.
+Obvinění z nelegálního přemisťování asteroidů, porušování bezpečnostních předpisů a četných obchodních přestupků se ho sotva dotkla. Obhájci mezitím poukazují na to, že u soudu bylo prokázáno jen velmi málo a že Recurso není zdaleka jediné - odtud pramení truismus: &quot;Ve vesmíru žijeme všichni ve skleněných domech.&quot;
+  </Value>
     </Record>
     <Record>
       <Key>SinotaiDesc</Key>
