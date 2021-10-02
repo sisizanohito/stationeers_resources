@@ -6788,7 +6788,7 @@
     </Record>
     <Record>
       <Key>TooltipPlacementSnapFaceNotMountableFallback</Key>
-      <Value>Jedna z těchto struktur neumožňuje montáž</Value>
+      <Value>Jedna z těchto konstrukcí neumožňuje montáž</Value>
     </Record>
     <Record>
       <Key>TooltipPlacementSnapFaceWrongFaceDynamic</Key>
@@ -6824,7 +6824,7 @@
     </Record>
     <Record>
       <Key>MenuDownloadDriverWarning</Key>
-      <Value>Mnoho uživatelů grafických karet AMD nahlásilo problémy se hrou, které byly vyřešeny aktualizací ovladačů.  &lt;b&gt;Důrazně&lt;/b&gt; doporučujeme, abyste před hraním aktualizovali.</Value>
+      <Value>Mnoho uživatelů grafických karet AMD hlásilo problémy s hrou, které byly vyřešeny aktualizací ovladačů.  Před hraním &lt;b&gt;DŮRAZNĚ&lt;/b&gt; doporučujeme provést aktualizaci.</Value>
     </Record>
     <Record>
       <Key>SettingsChatFadeTimer</Key>
@@ -6836,7 +6836,7 @@
     </Record>
     <Record>
       <Key>PromptResetSettingsBody</Key>
-      <Value>Opravdu?</Value>
+      <Value>Jste si jisti?</Value>
     </Record>
     <Record>
       <Key>PromptResetSettingsConfirm</Key>
@@ -6848,7 +6848,7 @@
     </Record>
     <Record>
       <Key>SteamErrorBody</Key>
-      <Value>Nelze se připojit ke Steamu. Zkuste restartovat Steam před spuštěním Stationeers</Value>
+      <Value>Nelze se připojit ke službě Steam.  Před opětovným spuštěním Stationeers zkuste restartovat službu Steam</Value>
     </Record>
     <Record>
       <Key>SteamErrorButton</Key>
