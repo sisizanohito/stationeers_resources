@@ -97,7 +97,7 @@
     </Record>
     <Record>
       <Key>MarsDescSetupManufacturing</Key>
-      <Value>Abyste mohli vyrobit vše, co budete potřebovat, měli byste začít s {THING:ItemKitHydraulicPipeBender} a {THING:ItemKitElectronicsPrinter}.</Value>
+      <Value>Abychom mohli vyrobit vše, co budeme potřebovat, měli bychom začít s {THING:ItemKitHydraulicPipeBender} a {THING:ItemKitElectronicsPrinter}.</Value>
     </Record>
     <Record>
       <Key>MarsTaskManufactureHPB</Key>
@@ -109,23 +109,23 @@
     </Record>
     <Record>
       <Key>MarsTabletStage3Page1</Key>
-      <Value>STRANA 1 z 5\nVÝROBA\nI když je vysoce pravděpodobné, že záchranné práce probíhají na plné obrátky, bude to nejspíše trvat nějaký čas, než se sem někdo dostane. Proto bude vhodné naplánovat delší pobyt a můžete začít výstavbou základní výrobní infrastruktury. Přirozeným výchozím bodem je autosoustruh, který vám umožní vyrobit další výrobní stroje pro konkrétní účely.</Value>
+      <Value>STRANA 1 z 5\nZPRACOVÁNÍ \nPřestože je velmi pravděpodobné, že záchranné práce již probíhají, může nějakou dobu trvat, než se k vám dostanou.  Bylo by vhodné naplánovat delší pobyt.  Budete muset vytvořit základní výrobní infrastrukturu.  Přirozeným výchozím bodem je automatický soustruh, který vám umožní sestrojit další řemeslné stroje pro konkrétní úkoly.</Value>
     </Record>
     <Record>
       <Key>MarsTabletStage3Page2</Key>
-      <Value>STRANA 2 z 5\nNAPÁJENÍ PRO OSOBU\nDoufejme, že jste v tomto okamžiku našli nějaké baterie a některé prostředky k jejich nabití. Nejjednodušší způsob napájení sítě je zapojení baterie do regulátoru napěťového okruhu. Chcete-li však poskytnout energii potřebnou pro tavení a hromadnou výrobu, budete potřebovat něco trochu pohodlnějšího. Nejlepší způsob, jak to vyřešit, závisí na vaší situaci a možnosti máte;</Value>
+      <Value>STRANA 2 z 5 \nNAPÁJENÍ PRO OSOBU \n\nDoufejme, že jste v této chvíli našli nějaké baterie a prostředky k jejich nabíjení.  Nejjednodušší způsob, jak napájet síť, je připojit baterie k řídicí jednotce napájení oblasti.  Pro zajištění energie, kterou budete potřebovat pro tavení a velkovýrobu, však budete potřebovat něco pohodlnějšího.  Nejlepší způsob řešení závisí na vaší situaci, ale mezi možnosti patří např;</Value>
     </Record>
     <Record>
       <Key>MarsTabletStage3Page3</Key>
-      <Value>STRANA 3 z 5\nGENERÁTOR NA TUHÁ PALIVA\nBude generovat energii spalováním fosilních uhlovodíků v pevné formě. Sada může být vyrobena v tiskárně elektroniky.</Value>
+      <Value>STRANA 3 z 5 \nGENERÁTOR NA TUHÁ PALIVA \nTento generátor bude vyrábět energii spalováním fosilních uhlovodíků v pevné formě.  Sadu lze vyrobit v tiskárně elektroniky nebo ve výrobním zařízení.</Value>
     </Record>
     <Record>
       <Key>MarsTabletStage3Page4</Key>
-      <Value>STRANA 4 z 5\nGENERÁTOR NA PLYN\nTím bude získána energie ze spalování v důsledku zapálení palivové směsi vodíku a kyslíku. Čisté spalování bude mít za následek větší výkon, ale budete muset pečlivě řídit přiváděné množství paliva a pravděpodobně i použít transformátor k omezení výkonu, jinak budete mít přetížené kabely.</Value>
+      <Value>STRANA 4 z 5 \nGENERÁTOR NA PLYN \nTím se získá energie ze spalování vznikajícího při zapálení směsi vodíku a kyslíku.  Čisté spalování bude mít za následek vyšší výkon, ale budete muset pečlivě řídit množství přiváděného paliva a pravděpodobně použít transformátor k omezení výkonu, jinak budete trpět přetíženými kabely.</Value>
     </Record>
     <Record>
       <Key>MarsTabletStage3Page5</Key>
-      <Value>STRANA 5 z 5\nSOLÁRNÍ PANELY\nPo umístění je musíte doplnit skleněnou tabulí - ale jakmile máte hotovo, generují během dne jmenovité množství energie. Pomocí hasáku můžete upravit vertikální i horizontální úhel, aby panel směřoval ke slunci, ale z dlouhodobého hlediska se budete chtít podívat na použití logických obvodů a senzoru denního světla pro automatizovaný provoz.</Value>
+      <Value>STRANA 5 z 5 \nSOLÁRNÍ PANELY \nSolární panely.  Po umístění je třeba je doplnit skleněnou fólií - ale jakmile to uděláte, budou během dne generovat nominální množství energie.  Pomocí klíče můžete nastavit svislý a vodorovný úhel a pokusit se je nasměrovat ke slunci, ale z dlouhodobého hlediska byste se možná měli podívat na použití logického obvodu a senzoru denního světla, který by ho sledoval za vás.</Value>
     </Record>
     <!-- Mission Stage: Food Supply -->
     <Record>
@@ -138,7 +138,7 @@
     </Record>
     <Record>
       <Key>MarsDescFoodSupply</Key>
-      <Value>Nevíme, jak dlouho tady budete muset přežít a pro každý případ byste si měl připravit obnovitelný zdroj jídla.</Value>
+      <Value>Nevíme, jak dlouho tu budete muset přežít.  Pro jistotu bychom si měli připravit obnovitelný zdroj jídla.</Value>
     </Record>
     <Record>
       <Key>MarsTaskPrepareAtmos</Key>
