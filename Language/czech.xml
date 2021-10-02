@@ -6740,7 +6740,7 @@
     </Record>
     <Record>
       <Key>SettingsExtendedTooltips</Key>
-      <Value>Rozšířené popisky</Value>
+      <Value>Rozšířené popisky nástrojů</Value>
     </Record>
     <Record>
       <Key>TooltipUpgrade2</Key>
@@ -6756,19 +6756,19 @@
     </Record>
     <Record>
       <Key>TooltipPlacementSnapGrid</Key>
-      <Value>Umístění je přichycené k mřížce.</Value>
+      <Value>Umístění je přichyceno k mřížce.</Value>
     </Record>
     <Record>
       <Key>TooltipPlacementSnapFace</Key>
-      <Value>Umístění je přichycené k plochám mřížky.</Value>
+      <Value>Umístění je přichyceno k plochám mřížky.</Value>
     </Record>
     <Record>
       <Key>TooltipPlacementSnapFaceMount</Key>
-      <Value>Umístění je přichycené k malé mřížce.</Value>
+      <Value>Umístění je přichyceno k malé mřížce.</Value>
     </Record>
     <Record>
       <Key>TooltipPlacementSnapFaceMountMissingFrame</Key>
-      <Value>Umístění je povolené pouze na {THING:StructureFrameIron} a {THING:StructureFrame}</Value>
+      <Value>Umístění je povoleno pouze na {THING:StructureFrameIron} a {THING:StructureFrame}</Value>
     </Record>
     <Record>
       <Key>TooltipPlacementSnapFaceMountMissingSupport</Key>
