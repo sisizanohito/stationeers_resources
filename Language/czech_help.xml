@@ -106,19 +106,115 @@ Při stavbě je důležité si uvědomit, že tlak se měří jako diferenciál.
   </Text>
     </StationpediaPage>
     <StationpediaPage>
+      <Key>MusicPage</Key>
+      <Title>Tvorba hudby</Title>
+      <DisplayFilter>Guides</DisplayFilter>
+      <Text>&lt;color=#0080FFFF&gt;{LINK:ODA;ODA}&lt;/color&gt; neschvaluje zvukové stopy ani jiné rušivé prvky.
+Proto si &lt;color=#0080FFFF&gt;{LINK:Stationeers;Stationeerové}&lt;/color&gt; museli vytvořit vlastní hudební doprovod k náročné práci při budování a údržbě mimozemské infrastruktury.
+Ústředním prvkem této zábavy je krokový sekvencer, který Stationeerům umožňuje sekvencovat krátké hudební vzory nebo smyčky. 
+
+{HEADER:DIY HUDBA - ZAČÁTEK}
+
+1: Připojte 8 {THING:DeviceStepUnit} k vašemu krokovému sekvenceru prostřednictvím datového portu na levé straně. 
+
+2: Označte každou krokovou jednotku a poté přiřaďte krokové jednotky 1 až 8 na krokovém sekvenceru pomocí šroubováku.
+
+3: Vyberte výstupní reproduktor (např. {THING:PassiveSpeaker}), na kterém bude sekvencer přehrávat zvuky. Ten musí být připojen k logické síti na pravé straně sekvenceru.
+
+4: Umístěte {THING:StopWatch} a pomocí {THING:StructureLogicReader} a {THING:StructureLogicWriter} zapište čas do proměnné čas na sekvenceru.
+
+5: Nastavte BPM na sekvenceru pomocí {THING:StructureLogicDial} a {THING:StructureLogicWriter} pro zápis do proměnné BPM sekvenceru. Vyšší bpm přehraje sekvenci rychleji. 
+
+6: Vložte zvukovou kazetu podle vlastního výběru a stisknutím tlačítek se šipkami umístěných nad a pod slotem pro zvukovou kazetu vyberte, kterou variantu zvuku chcete přehrát.
+
+7: Zvolte výšku přehrávaných zvuků nastavením voliče na každé z 8 krokových jednotek na požadovaný tón. U bicích představuje každá nota jiný zvuk bubnu. Zvuky si můžete vyzkoušet stisknutím tlačítka aktivace na každé krokové jednotce (při neaktivním sekvenceru).
+
+8: Udělejte si legraci s {THING:DeviceLfoVolume}.
+
+9: Nakonec aktivujte sekvencer Vibeoneer.
+  </Text>
+    </StationpediaPage>
+    <StationpediaPage>
+      <Key>TemperatureControlPage</Key>
+      <Title>Regulace teploty</Title>
+      <DisplayFilter>Guides</DisplayFilter>
+      <Text>Abychom mohli regulovat teplotu systému, musíme do něj buď přidávat teplo, a tím zvyšovat jeho teplotu, nebo z něj odebírat teplo, a tím ho ochlazovat, to je základní myšlenka regulace teploty. Zařízení, která tohoto cíle dosahují, jsou {THING:ItemWallHeater}, {THING:ItemWallCooler}, {THING:StructurePipeRadiator} a {THING:StructureAirConditioner}.
+
+POZNÁMKA: Existuje mnoho způsobů regulace teploty. Některé nezahrnují žádné z uvedených zařízení. Zde se zabýváme základními způsoby. 
+
+Před instalací jakéhokoli typu regulace teploty je důležité znát své prostředí. Objem plynu nebo kapaliny je důležitým faktorem při výběru metody regulace teploty. Nádrž {THING:StructureTankSmall} pojme až 6000 l, zatímco nádrž {THING:StructureTankBig} až 50 000 l. To znamená, že pokud jsou obě plné, malá nádrž bude na změny teploty reagovat rychleji. Místnost je prostor, který pojme určité množství plynu. Čím je větší, tím větší objem pojme, takže pro nádrže a místnosti obecně platí stejná pravidla.
+
+{HEADER:POTRUBNÍ SÍTĚ}
+Potrubní síť je jeden nebo více segmentů potrubí vzájemně propojených bez oddělení v jakémkoli bodě. Potrubní síť sdílí stejnou atmosféru všude podél potrubí bez ohledu na jeho velikost. Pokud změníte teplotu nebo tlak na jednom konci sítě, na nejvzdálenějším konci se stejná změna projeví okamžitě a bez zpoždění.
+
+Přidáním zařízení do sítě může dojít k jejímu rozdělení na dvě různé sítě. Například přidání zařízení {THING:StructureVolumePump} do sítě potrubí rozdělí síť na dvě sítě: jednu před čerpadlem a druhou za ním.
+
+Pomocí {THING:ItemTablet} s nainstalovaným {THING:CartridgeAtmosAnalyser} můžete zobrazit informace o obsahu libovolné potrubní sítě.
+
+{HEADER:RADIÁTORY}
+Vyrobený v ohýbačce trubek, {THING:StructurePipeRadiator} vám pomůže vyměňovat teplo mezi trubkami a jejich okolím. Fungují jak na izolovaných trubkách, tak na potrubích a mají i kapalinové varianty. 
+
+Za normálních podmínek si segment potrubí vyměňuje teplo s okolním prostředím, ale přidáním radiátoru k tomuto segmentu potrubí se tento proces značně urychlí. Segment potrubí si bude vyměňovat teplo s okolním prostředím, dokud se teplota obou nevyrovná.
+
+{HEADER:PASIVNÍ CHLAZENÍ}
+Pomocí {THING:StructurePipeRadiator} můžete ochlazovat nebo ohřívat libovolné prostředí a vyměňovat tak teplo mezi dvěma atmosférami. Příkladem může být umístění trubky na stěnu, její naplnění plynem a umístění radiátorů na trubku. Nyní si budou obě atmosféry potrubí a místnosti vyměňovat teplotu, dokud se jejich prostředí nevyrovnají.
+
+{HEADER:NÁSTĚNNÉ TOPENÍ}
+{THING:ItemWallHeater} je jednoduché zařízení, které lze nainstalovat na stěnu nebo rám a připojit k napájení. Po zapnutí začne ohřívat okolní prostředí. Spotřebovává 1010 W energie a může být řízeno logickými čipy, aby se spustilo, když teplota dosáhne určité úrovně.
+
+{HEADER:NÁSTĚNNÝ CHLADIČ}
+{THING:ItemWallCooler} doplňuje nástěnné topení, které může pouze zvyšovat teplotu. Nástěnný chladič funguje tak, že odebírá teplo z okolní atmosféry a dodává toto teplo do své potrubní sítě. Abyste mohli nástěnný chladič správně provozovat, budete muset k nástěnnému chladiči připojit potrubí a připojenou síť potrubí naplnit libovolným typem plynu. Tepelná kapacita a objem plynu určí, jak rychle bude reagovat na změny teploty. 
+
+Čím vyšší je rozdíl teplot mezi plynem uloženým v potrubí a místností, tím méně účinný bude nástěnný chladič. Abyste tedy udrželi nástěnný chladič v provozu s přijatelnou účinností, budete se muset zbavit tepla, které se akumuluje v připojených trubkách. Běžnou praxí je vyvést potrubí ven a použít radiátory na vnější části potrubí, abyste se tepla zbavili.
+
+Čím je nástěnný chladič méně účinný, tím méně energie spotřebuje. Při maximální účinnosti bude spotřebovávat 1010 W. Chladič na stěně lze řídit pomocí logických čipů tak, aby se spustil, když teplota dosáhne určitého stupně.
+
+Pokud nástěnný chladič bliká chybou, pak mu chybí jeden z následujících údajů:
+- Připojení potrubí k nástěnnému chladiči.
+- Plyn v připojeném potrubí nebo příliš nízký tlak.
+- Atmosféra v okolním prostředí nebo je příliš nízký tlak.
+
+{HEADER:KLIMATIZACE}
+{THING:StructureAirConditioner} ve své základní podobě funguje stejně jako nástěnný chladič a může využívat stejné konstrukce. Je však výkonnější. Chladí rychleji a v závislosti na situaci spotřebuje podstatně více energie, takže je vhodnější pro řešení velkých objemů a velkých ploch. V závislosti na nastavení může ohřívat nebo chladit.
+
+KLIMATIZACE: JAK FUNGUJE
+Klimatizace má 3 potrubní přípojky (vstupní, výstupní, odpadní). Plyn přichází vstupní stranou, poté se v závislosti na nastavení přidává nebo odebírá teplo z příchozího plynu a přidává se do odpadního potrubí. Výstupní plyn pak vychází výstupní přípojkou, v závislosti na nastavení chladnější nebo teplejší.
+Vstupní potrubí můžete propojit s výstupním potrubím (zda jsou propojena, zjistíte, pokud mají obě stejné číslo sítě): tím získáte větší kontrolu nad teplotou, protože plyn nedosáhne cílové teploty po prvním průchodu. Odebrání nebo přidání tepla z jakéhokoli plynu zabere čas a energii.
+
+Způsob instalace a nastavení klimatizace závisí na tom, co se snažíte ochladit nebo ohřát. Pro místnost budete potřebovat pasivní ventilaci uvnitř místnosti připojenou ke vstupu a výstupu klimatizace, zatímco odpadní potrubí musí být naplněno chladicím plynem. 
+
+Klimatizační zařízení nemusí být uvnitř místnosti. Jediná část této sestavy, která musí být v místnosti, je pasivní ventilační otvor, který bude obíhat atmosféru místnosti do klimatizátoru, aby se ochladila nebo ohřála. 
+
+Jednu klimatizaci můžete použít k vytápění i chlazení. Stačí změnit nastavení cílové teploty na panelu. Pokud však chcete automatizovat chlazení a vytápění současně, budete potřebovat jednu klimatizaci pro chlazení a druhou pro vytápění, protože nastavení na panelu lze měnit pouze ručně. 
+
+Nastavení více než jedné klimatizace na stejné potrubní síti může být užitečné, pokud potřebujete, aby vše probíhalo rychleji, nebo pokud potřebujete některé použít pro vytápění a jiné pro chlazení. Udělejte to tak, že propojíte vstupy a výstupy klimatizací dohromady a všechny budou sdílet stejnou potrubní síť pro své vstupy a výstupy. Odpadní potrubní síť může být mezi nimi také společná, ale musí být oddělena od vstupní/výstupní potrubní sítě. Stejná myšlenka platí při použití klimatizace k regulaci teploty nádrží. Místo pasivního odvzdušnění však musíte nádrž připojit přímo ke klimatizační jednotce.
+
+KLIMATIZACE: MĚJTE NA PAMĚTI
+- Čím větší je rozdíl teplot mezi vstupním a odpadním potrubím, tím více energie klimatizace spotřebuje
+- Příkon spotřebovaný klimatizací může přesáhnout 5 kW, proto se doporučuje používat k napájení klimatizace těžké kabely.
+- Vedení odpadního potrubí ven a jeho vyrovnávání s venkovní atmosférou není vždy nejlepší volbou: plyn, který do něj vložíte, se může uplatnit na jiném místě vaší základny.
+
+KLIMATIZACE: REGULACE TEPLOTY NA ZÁKLADNĚ
+Existuje mnoho způsobů, jak regulovat teplotu základny pomocí klimatizace - toto je jeden ze způsobů, jak tohoto cíle dosáhnout:
+Krok 1: Rozveďte kolem základny síť jednoho potrubí a do každé místnosti, kterou chcete tímto nastavením řídit, nainstalujte pasivní ventilační otvory napojené na toto potrubí. Toto je &quot;síť A&quot;
+Krok 2: Připojte &quot;síť A&quot; ke vstupu a výstupu klimatizačního zařízení.
+Krok 3: Připojte odpadní potrubí k jiné síti a vyveďte ho ven. Na tuto síť nainstalujte radiátory.
+Toto je základní nastavení. Pro automatizaci budete potřebovat analyzátor potrubí na síti A, pak odečtete teplotu a podle toho spustíte klimatizaci (klimatizace).
+Hodně štěstí, kadete!
+  </Text>
+    </StationpediaPage>
+    <StationpediaPage>
       <Key>GasPage</Key>
       <Title>Plyny</Title>
-      <Text>Tohle jsou chemické plyny určitých typů.{LIST_OF_GASES}
-      
-      </Text>
+      <Text>Jedná se o chemické plyny určitých typů.{LIST_OF_GASES}
+  </Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>OrePage</Key>
       <Title>Rudy</Title>
-      <Text>Jedná se o položky, které jsou {LINK:MiningPage;vytěžené} a často mohou být {LINK:SmeltingPage;taveny}. Můžete také získat smíšené rudy recyklací položek v {THING:StructureRecycler} a předáním přes {THING:StructureCentrifuge}, která je rozdělí na {LINK:OrePage;rudy} pro {LINK:SmeltingPage;tavení}.
-        Existují některé rudy, které roztají, když jsou vystaveny slunečnímu záření nebo teplu a produkují {LINK:GasPage;plyny}. Například {THING:ItemIce} roztaje na {GAS:Water} a {GAS:Oxygen}. Dávejte pozor, abyste je chránili před teplem nebo slunečním zářením, dokud je opravdu nechcete roztát.
-{LIST_OF_ORES}
-      </Text>
+      <Text>Jedná se o předměty, které se {LINK:MiningPage;těží} a často je lze {LINK:SmeltingPage;tavit}. Směsnou rudu můžete také získat recyklací předmětů v {THING:StructureRecycler} a následným průchodem přes {THING:StructureCentrifuge}, která ji rozbije na {LINK:OrePage;rudu} pro {LINK:SmeltingPage;tavení}.
+  Existují rudy, které se po vystavení slunečnímu záření nebo teplu roztaví a vytvoří {LINK:GasPage;plyny}. Například {THING:ItemIce} se roztaví na {GAS:Water} a {GAS:Oxygen}. Dávejte pozor, abyste je uchovávali mimo dosah tepla nebo slunečního světla, dokud je skutečně nechcete roztavit.{LIST_OF_ORES}
+  </Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>IngotPage</Key>
