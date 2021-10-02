@@ -6,7 +6,7 @@
   <Interface>
     <Record>
       <Key>Incident_BrokenCable_Title</Key>
-      <Value>Spal náhodný kabel</Value>
+      <Value>Vypálí náhodný kabel</Value>
     </Record>
     <Record>
       <Key>Incident_BrokenCable</Key>

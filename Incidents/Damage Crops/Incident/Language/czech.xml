@@ -6,7 +6,7 @@
   <Interface>
     <Record>
       <Key>Incident_PlantInfected_Title</Key>
-      <Value>Houba infikovala rostliny</Value>
+      <Value>Rostliny zamořené houbami</Value>
     </Record>
     <Record>
       <Key>Incident_PlantInfected</Key>
