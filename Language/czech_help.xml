@@ -416,11 +416,11 @@ Samovznícení {POS:300}{2}{3}{/LIST}</Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>ThingTransmissibleTemplate</Key>
-      <Text>Připojí se k {POS:300}{THING:StructureLogicTransmitter}</Text>
+      <Text>Připojuje se k {POS:300}{THING:StructureLogicTransmitter}</Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>IceMeltingTemplate</Key>
-      <Text>Teplota tání {1}¶
+      <Text>Teplota tání {1}
 Tlak tání {0}</Text>
     </StationpediaPage>
     <StationpediaPage>
@@ -547,6 +547,37 @@ Jak často pít? To se řídí obtížností, horkem na planetě a tím, jak rá
 Voda má mnoho podob. Při přistání na nových planetách je Stationeerům v rámci jejich přídělu dodávána alespoň jedna {THING:ItemWaterBottle}, další jsou v bednách vašeho modulu. Ty lze doplňovat pomocí {THING:ItemWaterBottleFiller}, který musí být sám o sobě připojen k síti potrubí s kapalinou. Samotnou síť lze naplnit pomocí {THING:StructureIceCrusher} s vhodnou zásobou ledu.
 
 Míru žízně lze upravit v hlavní nabídce nastavení nastavením posuvníku Hlad/Hydratace.</Text>
+    </StationpediaPage>
+    <StationpediaPage>
+      <Key>EVAPage</Key>
+      <Title>EVA obleky</Title>
+      <DisplayFilter>Guides</DisplayFilter>
+      <Text>Váš skafandr vám poskytne přenosnou atmosféru s nastavitelným tlakem a klimatizací (teplotou) a také výstražný systém, který vás upozorní, pokud se atmosféra uvnitř skafandru stane nebezpečnou. Aby správně fungoval, musí být vybaven vhodnou přilbou a také vhodnými kanystry na plyn a filtry v různých otvorech skafandru. Ty je třeba pravidelně měnit a lze je také dobíjet (nebo vybíjet) pomocí {THING:StructureSuitStorage}.
+
+Existuje několik obleků, včetně {THING:ItemEvaSuit} a obleku odolnějšího vůči tlaku a teplotě {THING:ItemHardSuit}.
+
+Různé údaje o vašem obleku jsou v pravém dolním rohu obrazovky. Stisknutím příslušné číselné klávesy (2 vyvoláte panel zobrazující jeho sloty a nastavení. Mezi ně patří:
+
+- Zapnutí/vypnutí klimatizace (tj. zapnutí/vypnutí regulace teploty)
+- Filtry zapnuto / vypnuto
+- Vzduch zapnutý / vypnutý
+- Zvýšení / snížení tlaku (s rozsahem od 0 kPA do 202 kPa nebo 0-2 zemské atmosféry)
+- Teplota nahoru / dolů (s rozsahem 0 °C až 60 °C)
+
+Obleky obsahují 6-8 slotů:
+- Vzduchová nádrž (x1) - vložte kanystr nebo inteligentní kanystr obsahující směs dýchatelných plynů, např. O2 nebo dusík/kyslík 35/65.
+- Odpadní nádrž (x1) - shromažďuje plyny odstraněné filtry
+- Podpora života (x1) - obsahuje jednu baterii, která napájí klimatizaci, světla atd.
+- Filtry (x3) - vyžaduje alespoň jeden filtr CO2 (pokud je člověk), v závislosti na vaší směsi dýchacích plynů. Všimněte si, že {THING:ItemHardSuit} má 4 sloty na filtry.
+- IC - pouze {THING:ItemHardSuit}.
+
+Tlak: měl by být nastaven na 50-100 KPa (0,5 až 1 pozemská atmosféra). Lidé ve hře snášejí až ~250 kPa a mohou přežít až ~300 kPA.
+
+Teplota: běžně se nastavuje na 18-21 °C, přičemž lidé ve hře dávají přednost 10-29 °C, snesou 0-39 °C a přežijí až 49 °C. Při vyšších teplotách bude vaše klimatizace spotřebovávat více energie z baterie na udržení vnitřní teploty.
+
+Filtry: Výchozím filtrem je filtr CO2, který zachycuje plyn vznikající při vydechování člověka. Pokud nepoužíváte 100% kyslík ve svém dýchacím plynu, přidejte další filtry, např. pokud smícháte 25% kyslíku + 75% dusíku, dusík se časem nahromadí ve vašem obleku a udusí vás, pokud nemáte dusíkový filtr. Pokud máte správné filtry a dýchací plyn, ale přesto máte problémy, použijte na své vesmírné přilbě funkci &quot;Vyprázdnit&quot;. Jakmile vaše filtry přestanou fungovat, ozve se varování o nízkém/kritickém obsahu kyslíku.
+
+V případě poškození lze skafandr opravit tak, že v ruce podržíte lepicí pásku a použijete tlačítko &quot;aktivovat&quot;.</Text>
     </StationpediaPage>
   </HelpPage>
 </Language>
