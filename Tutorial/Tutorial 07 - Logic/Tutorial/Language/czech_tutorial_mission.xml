@@ -23,6 +23,11 @@
       <Value>Připojte datový port na páce ke kabelové síti</Value>
     </Record>
     <Record>
+      <Key>8Narration2D</Key>
+      <Value>Jak už název napovídá, logická čtečka slouží ke čtení logických hodnot ze zařízení.
+Chcete-li číst data z páky, umístěte logickou čtečku do zvýrazněné pozice. Všimněte si, že logika proudí pouze jedním směrem.</Value>
+    </Record>
+    <Record>
       <Key>8ConstructReader</Key>
       <Value>Umístěte logickou čtečku na zvýrazněnou polohu</Value>
     </Record>
@@ -42,7 +47,11 @@ Nakonec nastavte výstupní proměnnou (OUT VAR) na &apos;Zapnuto&apos;, aby př
     </Record>
     <Record>
       <Key>8LogicWritterInput1</Key>
-      <Value>Nastavte vstup logického zapisovače (IN) na &quot;Logická čtečka&quot;.</Value>
+      <Value>Nastavte vstup logického zapisovače (IN) na &quot;Logická čtečka&quot;</Value>
+    </Record>
+    <Record>
+      <Key>LogicWritterOutput1</Key>
+      <Value>Nastavte výstup logického zapisovače (VEN) na &quot;Nástěnné světlo&quot;</Value>
     </Record>&gt;
 		
     <Record>
@@ -63,11 +72,11 @@ Nakonec nastavte výstupní proměnnou (OUT VAR) na &apos;Zapnuto&apos;, aby př
     </Record>
     <Record>
       <Key>8TurnOffWriter</Key>
-      <Value>Zapněte čtečku logiky.</Value>
+      <Value>Vypněte logický zapisovač</Value>
     </Record>
     <Record>
       <Key>8TurnOffReader</Key>
-      <Value>Zapněte čtečku logiky.</Value>
+      <Value>Vypněte logickou čtečku</Value>
     </Record>
     <Record>
       <Key>8Narration10D</Key>
@@ -75,15 +84,19 @@ Nakonec nastavte výstupní proměnnou (OUT VAR) na &apos;Zapnuto&apos;, aby př
     </Record>
     <Record>
       <Key>8ConstructBatchWriter</Key>
-      <Value>Postavte ventil na zvýrazněné místo</Value>
+      <Value>Umístěte dávkový zapisovač do zvýrazněné pozice</Value>
+    </Record>
+    <Record>
+      <Key>8BatchWriterInput</Key>
+      <Value>Nastavte vstup pro dávkový zapisovač (DO) na &quot;Logická čtečka&quot;</Value>
     </Record>
     <Record>
       <Key>8TurnOnBatchWriter</Key>
-      <Value>Zapněte baterii</Value>
+      <Value>Zapněte dávkový zapisovač</Value>
     </Record>
     <Record>
       <Key>8TurnOffBatchWriter</Key>
-      <Value>Zapněte baterii</Value>
+      <Value>Vypněte dávkový zapisovač</Value>
     </Record>
     <Record>
       <Key>8Narration18D</Key>

@@ -209,7 +209,7 @@ Poznámka: Logický zapisovač musíte umístit s výstupní datovou zásuvkou p
     </Record>
     <Record>
       <Key>LogicReaderSetupDescription</Key>
-      <Value>Čtečka logiky dělá přesně to, jak zní: čte logiku. Použijeme je ke čtení solárního úhlu z každého senzoru.</Value>
+      <Value>Logická čtečka dělá přesně to, jak zní: čte logiku. Budeme je používat ke čtení slunečního úhlu z každého senzoru.</Value>
     </Record>
     <Record>
       <Key>LogicReader1</Key>

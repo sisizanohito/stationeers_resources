@@ -2229,7 +2229,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureLogicReader</Key>
-      <Value>Čtečka logiky</Value>
+      <Value>Logická čtečka</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLogicMemory</Key>
@@ -3017,7 +3017,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureLogicBatchReader</Key>
-      <Value>Skupinová čtečka</Value>
+      <Value>Dávková čtečka</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLogicReagentReader</Key>
@@ -3085,7 +3085,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureLogicBatchSlotReader</Key>
-      <Value>Skupinová čtečka slotů</Value>
+      <Value>Dávková čtečka slotů</Value>
     </RecordThing>
     <RecordThing>
       <Key>CircuitboardAdvAirlockControl</Key>
