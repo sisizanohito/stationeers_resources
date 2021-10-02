@@ -5272,6 +5272,10 @@
       <Value>Из этого набора собирается {THING:StructureRocketModuleSilo}.</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructurePlanter</Key>
+      <Value>Вазон</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>KitPlanter</Key>
       <Value>Этот набор используется для сборки {THING:StructurePipeMeter}.</Value>
     </RecordThing>
