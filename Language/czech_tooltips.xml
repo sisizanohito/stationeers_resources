@@ -107,7 +107,7 @@
     </Record>
     <Record>
       <Key>StatusIconInternalsName</Key>
-      <Value>Přepnout přilbu Otevřená/Zavřená</Value>
+      <Value>Přepnout přilbu Otevřít/Zavřít</Value>
     </Record>
     <Record>
       <Key>StatusIconHandPowerName</Key>
@@ -115,7 +115,7 @@
     </Record>
     <Record>
       <Key>StatusIconInSlotName</Key>
-      <Value>Jste uvnitř slotu</Value>
+      <Value>Nacházíte se uvnitř slotu</Value>
     </Record>
     <Record>
       <Key>StatusIconHungerName</Key>
