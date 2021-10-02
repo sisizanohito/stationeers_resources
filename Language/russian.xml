@@ -5280,6 +5280,10 @@
       <Value>Этот набор используется для сборки {THING:StructurePipeMeter}.</Value>
     </RecordThing>
     <RecordThing>
+      <Key>PortableComposter</Key>
+      <Value>Портативный компостер</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitPlanter</Key>
       <Value/>
     </RecordThing>
