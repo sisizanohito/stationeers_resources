@@ -220,7 +220,7 @@
     </Record>
     <Record>
       <Key>SettingTheDestinationDescription</Key>
-      <Value>Před spuštěním budete chtít naprogramovat letový počítač s platným cílem - jinak můžete skončit uprostřed ničeho. V tomto případě poletíte na Mimas, jednoho ze Saturnových měsíců. To provedete zápisem ID planety do velitelského modulu pomocí logického zapisovače.</Value>
+      <Value>Před startem je třeba naprogramovat letový počítač s platným cílem - jinak můžete skončit uprostřed ničeho. V tomto případě chceme cestovat na Mimas, jeden ze Saturnových měsíců. Udělejte to tak, že do velitelského modulu zapíšete ID planety pomocí logického zapisovače.</Value>
     </Record>
     <Record>
       <Key>SettingTheDestination1</Key>

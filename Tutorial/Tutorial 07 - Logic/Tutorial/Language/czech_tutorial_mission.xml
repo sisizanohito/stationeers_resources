@@ -107,6 +107,10 @@ Nakonec nastavte výstupní proměnnou (OUT VAR) na &apos;Zapnuto&apos;, aby př
       <Value>Nastavte vstup pro dávkový zapisovač (DO) na &quot;Logická čtečka&quot;</Value>
     </Record>
     <Record>
+      <Key>8Narration14D</Key>
+      <Value>Dávkový zapisovač je nyní naprogramován. Můžete jej tedy zapnout, stejně jako logickou čtečku.</Value>
+    </Record>
+    <Record>
       <Key>8TurnOnBatchWriter</Key>
       <Value>Zapněte dávkový zapisovač</Value>
     </Record>
@@ -116,7 +120,11 @@ Nakonec nastavte výstupní proměnnou (OUT VAR) na &apos;Zapnuto&apos;, aby př
     </Record>
     <Record>
       <Key>8Narration18D</Key>
-      <Value>Programování dveří je jednoduché. Jsou již připojeny k síti - stačí tedy nastavit původní zapisovač logiky na výstup &quot;Skleněné dveře&quot; a zapsat do proměnné &quot; Otevřít&quot; dveří.</Value>
+      <Value>Programování dveří je jednoduché. Jsou již připojeny k síti - stačí tedy nastavit původní logický zapisovač na výstup &quot;Skleněné dveře&quot; a zapsat do proměnné &quot;Otevřeno&quot; dveří.</Value>
+    </Record>
+    <Record>
+      <Key>8BatchWriterOutput2</Key>
+      <Value>Nastavte výstup logického zapisovače (VEN) na &apos;Skleněné dveře&apos;</Value>
     </Record>
     <Record>
       <Key>8BatchWriterLogicType2</Key>

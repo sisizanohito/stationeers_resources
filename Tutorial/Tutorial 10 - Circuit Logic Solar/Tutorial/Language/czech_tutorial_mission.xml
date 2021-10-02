@@ -305,11 +305,7 @@ Další {THING:StructureLogicMath} přečte vstup našeho prvního {THING:Struct
     </Record>
     <Record>
       <Key>VerticalBatchWriterDescription</Key>
-      <Value>Dávkový zapisovač zapisuje na všechna připojená zařízení daného typu. Tímto způsobem zapište nově vypočítanou vertikální hodnotu na solární panely.</Value>
-    </Record>
-    <Record>
-      <Key>VerticalBatchWritterSetup</Key>
-      <Value>Nastavení vertikálního dávkového zapisovače</Value>
+      <Value>Dávkový zapisovač zapisuje do všech připojených zařízení daného typu. Pomocí této funkce zapíšete nově vypočtenou vertikální hodnotu do solárních panelů.</Value>
     </Record>
     <Record>
       <Key>VerticalBatchWritterSetupDescription</Key>
