@@ -6078,7 +6078,11 @@
     </Record>
     <Record>
       <Key>Edibles</Key>
-      <Value>Jedlé</Value>
+      <Value>Potraviny a jídlo</Value>
+    </Record>
+    <Record>
+      <Key>Plants</Key>
+      <Value>Rostliny a semena</Value>
     </Record>
     <Record>
       <Key>AirContitioningAtmos</Key>
@@ -6102,19 +6106,19 @@
     </Record>
     <Record>
       <Key>TraderErrorConnectWires</Key>
-      <Value>Obchodník nemohl dokončit obchod, zkontrolujte kabely pro případné rozbití!</Value>
+      <Value>Obchodník nemohl dokončit obchod, zkontrolujte kabely, zda nejsou přerušeny!</Value>
     </Record>
     <Record>
       <Key>TraderErrorMissingMotherboard</Key>
-      <Value>Chybí vám základní deska v počítači, ztratili jste kontakt s obchodníkem.</Value>
+      <Value>V počítači vám chybí základní deska, ztratili jste kontakt s obchodníkem.</Value>
     </Record>
     <Record>
       <Key>TraderErrorMissingVendingMachine</Key>
-      <Value>Chybí vám připojený prázdný prodejní automat, obchod nelze dokončit.</Value>
+      <Value>Chybí vám připojený prázdný prodejní automat, obchod se nepodařilo dokončit.</Value>
     </Record>
     <Record>
       <Key>Picture</Key>
-      <Value>Fotka</Value>
+      <Value>Obrázek</Value>
     </Record>
     <Record>
       <Key>MainMenuNewWorld</Key>
@@ -6158,7 +6162,7 @@
     </Record>
     <Record>
       <Key>WorldInfoTextPlaytime</Key>
-      <Value>Herní čas:</Value>
+      <Value>Hrací doba:</Value>
     </Record>
     <Record>
       <Key>WorldInfoMapName</Key>
@@ -7936,7 +7940,7 @@ Je neochvějným univerzálním zákonem, že vše vyšší než 11 bude fialov�
     </Record>
     <Record>
       <Key>LogicTypePressureSetting</Key>
-      <Value>Aktuální nastavení vnitřního tlaku objektu (např. uvolnění vzduchu zpevněného obleku ), v KPa</Value>
+      <Value>Aktuální nastavení vnitřního tlaku objektu (např. uvolnění vzduchu zpevněného obleku) v KPa</Value>
     </Record>
     <Record>
       <Key>LogicTypeTemperatureSetting</Key>
