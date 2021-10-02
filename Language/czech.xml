@@ -4893,7 +4893,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureWaterBottleFiller</Key>
-      <Value/>
+      <Value>Plnička lahví na vodu</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureIceCrusher</Key>
@@ -4945,7 +4945,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureBackLiquidPressureRegulator</Key>
-      <Value/>
+      <Value>Regulátor zpětného tlaku kapaliny</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidPressureRegulator</Key>

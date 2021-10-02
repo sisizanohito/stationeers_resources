@@ -540,13 +540,13 @@ Hnojivo mění růstové procesy rostlin a je vytvářeno pomocí {THING:Portabl
       <Key>HydrationPage</Key>
       <Title>Žízeň + hydratace</Title>
       <DisplayFilter>Guides</DisplayFilter>
-      <Text>Váš průměrný Stationeer potřebuje pravidelně pít vodu. Tajemné a možná zavádějící &lt;color=#0080FFFF&gt;{LINK:ODA;ODA}&lt;/color&gt; předpisy v oblasti bezpečnosti a ochrany zdraví však Stationeerům dlouho upíraly právo na vhodné hydratační mechanizmy. Místo toho musí dělat pravidelné přestávky na pití, aby si otevřeli přilbu a nasákli vodu. To se nedoporučuje v beztlakém prostředí.
+      <Text>Váš průměrný Stationeer potřebuje pravidelně pít vodu. Avšak tajuplné a pravděpodobně chybné &lt;color=#0080FFFF&gt;{LINK:ODA;ODA}&lt;/color&gt; zdravotní a bezpečnostní předpisy dlouho upíraly Stationeerům právo na hydratační mechanismy v obleku. Místo toho musí dělat pravidelné přestávky na pití, aby si otevřeli přilbu a napili se vody. Činit tak v beztlakovém prostředí se nedoporučuje.
 
-Jak často pít? To je určeno úrovní obtížnosti, horkostí planety a tím, jak moc chcete hýbat svým tělem.
+Jak často pít? To se řídí obtížností, horkem na planetě a tím, jak rádi hýbete tělem.
 
-Voda má mnoho podob. Alespoň jedna {THING:ItemWaterBottle} je dodávána Stationeerům jako součást jejich přídělů při přistání na nových planetách, přičemž další jsou v bednách. Ty je možné znovu naplnit pomocí {THING:ItemWaterBottleFiller}, které musí být sami o sobě připojené ke kapalinové potrubní síti. Samotnou síť lze naplnit pomocí {THING:StructureIceCrusher} vhodnou zásobou ledu.
+Voda má mnoho podob. Při přistání na nových planetách je Stationeerům v rámci jejich přídělu dodávána alespoň jedna {THING:ItemWaterBottle}, další jsou v bednách vašeho modulu. Ty lze doplňovat pomocí {THING:ItemWaterBottleFiller}, který musí být sám o sobě připojen k síti potrubí s kapalinou. Samotnou síť lze naplnit pomocí {THING:StructureIceCrusher} s vhodnou zásobou ledu.
 
-Rychlost žízně lze upravit v hlavní nabídce nastavení úpravou posuvníku rychlosti hladu / hydratace.</Text>
+Míru žízně lze upravit v hlavní nabídce nastavení nastavením posuvníku Hlad/Hydratace.</Text>
     </StationpediaPage>
   </HelpPage>
 </Language>
