@@ -10,7 +10,7 @@
     </Record>
     <Record>
       <Key>Incident_Device_Fault</Key>
-      <Value>Porucha zařízení!</Value>
+      <Value>Došlo k poruše zařízení!</Value>
     </Record>
   </Interface>
 </Language>

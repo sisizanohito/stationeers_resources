@@ -6,11 +6,11 @@
   <Interface>
     <Record>
       <Key>Incident_Supply_Dynamic_Canister_Air_Title</Key>
-      <Value>Dynamický kanystr na plyn (vzduch)</Value>
+      <Value>Dynamický kanystr (vzduch)</Value>
     </Record>
     <Record>
       <Key>Incident_Supply_Dynamic_Canister_Air</Key>
-      <Value>Satelity naznačují, že kanystr spadl poblíž, váš maják by vám měl ukázat cestu.</Value>
+      <Value>Satelity naznačují, že poblíž spadl kanystr, a váš lokalizační maják by vám měl ukázat cestu.</Value>
     </Record>
   </Interface>
 </Language>
