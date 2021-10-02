@@ -5057,7 +5057,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitFridgeBig</Key>
-      <Value>Ce kit crée un {THING:StructureSDBSilo}.</Value>
+      <Value>Kit (Grand réfrigérateur)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitVendingMachineRefrigerated</Key>
