@@ -6690,8 +6690,10 @@
     </Record>
     <Record>
       <Key>TutorialCompleteMessage</Key>
-      <Value>Je toho ještě hodně, co se musíte naučit.
-                                              Tak do toho, Stationeere!</Value>
+      <Value>
+        Stále je co se učit.
+        Tak se do toho dej, Stationeere!
+      </Value>
     </Record>
     <Record>
       <Key>TutorialBackToMenu</Key>
@@ -6711,24 +6713,26 @@
     </Record>
     <Record>
       <Key>MulticonstructorItem</Key>
-      <Value>&lt;color=yellow&gt;Konstrukční volba {0} z {1}&lt;/color&gt;
-Rolovat &lt;color=red&gt;kolečkem myši&lt;/color&gt; pro další volbu.</Value>
+      <Value>
+        &lt;color=yellow&gt;Konstrukční volba {0} z {1}&lt;/color&gt;
+        Posouvejte &lt;color=red&gt;kolečkem myši&lt;/color&gt; pro více možností.
+      </Value>
     </Record>
     <Record>
       <Key>UnableToConstruct</Key>
-      <Value>&lt;color=red&gt;Nelze zkonstruovat&lt;/color&gt;.</Value>
+      <Value>&lt;color=red&gt;Nepodařilo se zkonstruovat&lt;/color&gt;.</Value>
     </Record>
     <Record>
       <Key>PortableConnectionFailure</Key>
-      <Value>K {1} se může připojit pouze {0}</Value>
+      <Value>K {1} lze připojit pouze {0}</Value>
     </Record>
     <Record>
       <Key>TooltipRotateLeftRight</Key>
-      <Value>Otočení doleva a doprava = {KEY:RotateLeft} a {KEY:RotateRight}.</Value>
+      <Value>Otáčení doleva a doprava = {KEY:RotateLeft} a {KEY:RotateRight}.</Value>
     </Record>
     <Record>
       <Key>TooltipRotateUpDown</Key>
-      <Value>Otočení nahoru a dolů = {KEY:RotateUp} a {KEY:RotateDown}.</Value>
+      <Value>Otáčení nahoru a dolů = {KEY:RotateUp} a {KEY:RotateDown}.</Value>
     </Record>
     <Record>
       <Key>TooltipRollLeftRight</Key>
