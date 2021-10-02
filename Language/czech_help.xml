@@ -8,9 +8,10 @@
     -->
     <!--LEAVE THIS ALONE NEEDED FOR THOSE PAGES-->
     <StationpediaPage>
-      <Key>LogicUnitPage</Key>
-      <Title>Logické jednotky</Title>
-      <Text>{LIST_OF_LOGIC_UNITS}</Text>
+      <Key>CartridgePage</Key>
+      <Title>Kazety</Title>
+      <Text>Lze je přidat do {THING:ItemTablet} nebo {THING:ItemAdvancedTablet} a provádět tak různé diagnostické funkce.
+{LIST_OF_CARTRIDGES}</Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>FabricatorPage</Key>

@@ -184,6 +184,11 @@
       <Value>Sója</Value>
       <Unit>g</Unit>
     </RecordReagent>
+    <RecordReagent>
+      <Key>Mushroom</Key>
+      <Value>Houba</Value>
+      <Unit>g</Unit>
+    </RecordReagent>
   </Reagents>
   <Gases>
     <Record>
