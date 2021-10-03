@@ -447,7 +447,7 @@
     </RecordThing>
     <RecordThing>
       <Key>BodyPartAstronautFemaleArmL</Key>
-      <Value>女性宇宙飛行士の左腕</Value>
+      <Value>女性宇宙飛行士の腕</Value>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartAstronautFemaleArmR</Key>
@@ -679,7 +679,7 @@
     </RecordThing>
     <RecordThing>
       <Key>CircuitboardAirControl</Key>
-      <Value>回路基板 (Air Control)</Value>
+      <Value>エアコントロール</Value>
     </RecordThing>
     <RecordThing>
       <Key>CircuitboardAirlockControl</Key>
@@ -687,15 +687,15 @@
     </RecordThing>
     <RecordThing>
       <Key>CircuitboardCameraDisplay</Key>
-      <Value>回路基板 (Camera Display)</Value>
+      <Value>カメラディスプレイ</Value>
     </RecordThing>
     <RecordThing>
       <Key>CircuitboardDoorControl</Key>
-      <Value>回路基板 (Door Control)</Value>
+      <Value>ドアコントロール</Value>
     </RecordThing>
     <RecordThing>
       <Key>CircuitboardModeControl</Key>
-      <Value>回路基板 (Mode Control)</Value>
+      <Value>モードコントロール</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicAirConditioner</Key>
@@ -1647,7 +1647,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureFrameSide</Key>
-      <Value>フレーム (サイド)</Value>
+      <Value>スチールフレーム (サイド)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureFurnace</Key>
@@ -3771,31 +3771,31 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureWallFlatCornerRound</Key>
-      <Value>壁 (幾何学 コーナー)</Value>
+      <Value>壁 (平面 角 円)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallFlatCornerSquare</Key>
-      <Value>壁 (幾何学 コーナー)</Value>
+      <Value>壁 (平面 角 四角)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallFlatCornerTriangle</Key>
-      <Value>壁 (プレート)</Value>
+      <Value>壁 (平面 角 三角)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallPaddedArchLightFittingTop</Key>
-      <Value>壁 (パッデド アーチ ライト付き)</Value>
+      <Value>壁 (パッデド アーチ トップライト付き)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallPaddedNoBorder</Key>
-      <Value>壁 (パッデド アーチ)</Value>
+      <Value>壁 (パッデド ボーダーレス)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallPaddedThinNoBorder</Key>
-      <Value>壁 (パディング 薄型)</Value>
+      <Value>壁 (パッデド 薄型 ボーダーレス)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallPaddedWindowThin</Key>
-      <Value>壁 (パディング 薄型)</Value>
+      <Value>壁 (パディング 窓 薄型)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallPaddedThinNoBorderCorner</Key>
