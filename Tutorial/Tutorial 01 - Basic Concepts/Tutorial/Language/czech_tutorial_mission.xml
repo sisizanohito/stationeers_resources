@@ -649,6 +649,10 @@ Stisknutím modrého tlačítka &apos;Dokončit&apos; přenesete výsledky na ve
       <Value>Zavřete panel popisu</Value>
     </Record>
     <Record>
+      <Key>1GetWaterBottle</Key>
+      <Value>Vezměte láhev s vodou z uniformy</Value>
+    </Record>
+    <Record>
       <Key>1DrinkWater</Key>
       <Value>Pijte vodu</Value>
     </Record>
