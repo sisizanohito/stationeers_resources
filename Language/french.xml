@@ -248,6 +248,10 @@
       <Value>Planter</Value>
     </Record>
     <Record>
+      <Key>Water</Key>
+      <Value>Eau</Value>
+    </Record>
+    <Record>
       <Key>Harvest</Key>
       <Value>Récolter</Value>
     </Record>

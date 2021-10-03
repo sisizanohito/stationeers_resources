@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Code>FR</Code>
-  <Interface/>
+  <Interface>
+    <Record>
+      <Key>ScenariosBorznacsKitchen</Key>
+      <Value>La cuisine de Borznac</Value>
+    </Record>
+    <Record>
+      <Key>TutoiralGasMixingSubTitle</Key>
+      <Value>Mieux vaut cuisiner</Value>
+    </Record>
+    <Record>
+      <Key>ScenariosBorznacsKitchenDescription</Key>
+      <!--Menu Disc-->
+      <Value>Après avoir été coupé de plusieurs accords commerciaux avec Sinotai, Borznac le 5ème a décidé de construire son propre empire, en prenant le contrôle de toutes les bases lunaires à proximité, y compris la vôtre.
+Vous avez été forcé de travailler comme son nouveau chef personnel. Donc, vous feriez mieux de cuisiner.</Value>
+    </Record>
+  </Interface>
 </Language>
