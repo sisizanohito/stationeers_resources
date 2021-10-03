@@ -3879,7 +3879,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitDebug</Key>
-      <Value>キット (ドア)</Value>
+      <Value>キット (デバッグ)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureFlatBench</Key>
@@ -3887,11 +3887,11 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitTables</Key>
-      <Value>キット (ケーブルフューズ)</Value>
+      <Value>キット (テーブル)</Value>
     </RecordThing>
     <RecordThing>
       <Key>KitchenTableTall</Key>
-      <Value>キット (携帯タンク)</Value>
+      <Value>キッチンテーブル (高)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureSmallTableThickDouble</Key>
@@ -3899,31 +3899,31 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureSmallTableDinnerSingle</Key>
-      <Value>壁 (プレート)</Value>
+      <Value>小 (ディナーテーブル シングル)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitChairs</Key>
-      <Value>キット (階段)</Value>
+      <Value>キット (椅子)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitBeds</Key>
-      <Value>キット (ビーコン)</Value>
+      <Value>キット (ベット)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageVendingMachine1</Key>
-      <Value>自動販売機</Value>
+      <Value>残骸 自動販売機</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageVendingMachine2</Key>
-      <Value>自動販売機</Value>
+      <Value>残骸 自動販売機</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageVendingMachine3</Key>
-      <Value>自動販売機</Value>
+      <Value>残骸 自動販売機</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageVendingMachine4</Key>
-      <Value>自動販売機</Value>
+      <Value>残骸 自動販売機</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageArcFurnace1</Key>
