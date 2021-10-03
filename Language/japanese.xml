@@ -4195,47 +4195,47 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageHydroponicsAutomatic1</Key>
-      <Value>水耕栽培ステーション</Value>
+      <Value>残骸 自動水耕栽培器</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageHydroponicsAutomatic2</Key>
-      <Value>水耕栽培ステーション</Value>
+      <Value>残骸 自動水耕栽培器</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSDBSilo1</Key>
-      <Value>携帯ソーラーパネル</Value>
+      <Value>残骸 SDBサイロ</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSDBSilo2</Key>
-      <Value>携帯ソーラーパネル</Value>
+      <Value>残骸 SDBサイロ</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSDBSilo3</Key>
-      <Value>携帯ソーラーパネル</Value>
+      <Value>残骸 SDBサイロ</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSDBSilo4</Key>
-      <Value>携帯ソーラーパネル</Value>
+      <Value>残骸 SDBサイロ</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageShuttleLandingPad1</Key>
-      <Value>自動販売機</Value>
+      <Value>残骸 シャトル着陸パッド</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageShuttleLandingPad2</Key>
-      <Value>自動販売機</Value>
+      <Value>残骸 シャトル着陸パッド</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageShuttleLandingPad3</Key>
-      <Value>自動販売機</Value>
+      <Value>残骸 シャトル着陸パッド</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageShuttleLandingPad4</Key>
-      <Value>自動販売機</Value>
+      <Value>残骸 シャトル着陸パッド</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageShuttleLandingPad5</Key>
-      <Value>自動販売機</Value>
+      <Value>残骸 シャトル着陸パッド</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageAirlock2</Key>
@@ -4243,7 +4243,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageCompositeDoorGlass2</Key>
-      <Value>複合材ドア</Value>
+      <Value>残骸 複合材ドアガラス</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureGrowLight</Key>
