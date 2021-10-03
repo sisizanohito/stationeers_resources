@@ -226,11 +226,11 @@ Mais aujourd’hui, nous ne testons que les bases: vous avez de l’eau, de la l
     </Record>
     <Record>
       <Key>6AddIceToCrusher</Key>
-      <Value>Prendre la glace dans la ceinture de mineur et la mettre dans le Broyeur de glace</Value>
+      <Value>Prendre la Glace (Eau) dans la ceinture de mineur et la mettre dans le Broyeur de glace</Value>
     </Record>
     <Record>
       <Key>6MIceCrusherOn</Key>
-      <Value>Allumez le Broyeur de glace</Value>
+      <Value>Allumez le Broyeur de glace pour remplir la bouteille</Value>
     </Record>
   </Interface>
 </Language>

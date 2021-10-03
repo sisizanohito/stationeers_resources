@@ -20,11 +20,11 @@
     </Record>
     <Record>
       <Key>7GetActiveVent</Key>
-      <Value>Sélectionnez la Ventilation Active</Value>
+      <Value>Ramassez une Ventilation active dans la caisse</Value>
     </Record>
     <Record>
       <Key>7BuildActiveVent</Key>
-      <Value>Sélectionnez la Ventilation Active</Value>
+      <Value>Construisez la Ventilation active dans la zone en surbrillance</Value>
     </Record>
     <Record>
       <Key>7MoveToArea</Key>
