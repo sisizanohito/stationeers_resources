@@ -5033,6 +5033,10 @@
       <Value>Ce kit crée un {THING:StructureModularRocketEngine01}.</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureModularRocketGasMining</Key>
+      <Value>Module d&apos;extraction de gaz de fusée autonome</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitHeatExchanger</Key>
       <Value>Ce kit permet de construire un {THING:StructureAirConditioner}, un {THING:StructureElectrolyzer}, une {THING:StructureFiltration} ou un {THING:H2Combustor}.</Value>
     </RecordThing>
@@ -5061,6 +5065,10 @@
       <Value/>
     </RecordThing>
     <RecordThing>
+      <Key>DecayedFood</Key>
+      <Value>Aliments pourris</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>PassiveSpeaker</Key>
       <Value/>
     </RecordThing>
@@ -5069,12 +5077,52 @@
       <Value>Kit (Grand réfrigérateur)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureRefrigeratedVendingMachine</Key>
+      <Value>Distributeur automatique réfrigéré</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitVendingMachineRefrigerated</Key>
       <Value/>
     </RecordThing>
     <RecordThing>
+      <Key>SeedBag_Potato</Key>
+      <Value>Graine (Pomme de terre)</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>SeedBag_Corn</Key>
       <Value>Ce kit crée un {THING:ItemWallCooler}. Un radiateur pour faire du froid.</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>SeedBag_Wheet</Key>
+      <Value>Graine (Blé)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>SeedBag_Tomato</Key>
+      <Value>Graine (Tomate)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>SeedBag_Soybean</Key>
+      <Value>Graine (Soja)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>SeedBag_Rice</Key>
+      <Value>Graine (Riz)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>SeedBag_Pumpkin</Key>
+      <Value>Graine (Citrouille)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>SeedBag_Fern</Key>
+      <Value>Graine (Fougère)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>Fertilizer</Key>
+      <Value>Engrais</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureAdvancedComposter</Key>
+      <Value>Composteur avancé</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAdvancedComposter</Key>
@@ -5087,6 +5135,10 @@
     <RecordThing>
       <Key>KitPlanter</Key>
       <Value>Ce kit crée un {THING:StructurePipeMeter}. Toujours un charme fou, un {THING:StructurePipeMeter} sur un tuyau.</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>PortableComposter</Key>
+      <Value>Composteur portable</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPlanter</Key>
@@ -5107,6 +5159,10 @@
     <RecordThing>
       <Key>ItemKitAdvancedPackagingMachine</Key>
       <Value>Caisse de {THING:StructureRocketModuleSilo}.</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemDecorFern</Key>
+      <Value>Fougère décorative</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitInsulatedWaterPipe</Key>
@@ -5146,7 +5202,7 @@
     </RecordThing>
     <RecordThing>
       <Key>InsulatedLiquidPipeStraight</Key>
-      <Value/>
+      <Value>Tube calfeutré (Droit)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedPipeLiquidCorner</Key>
@@ -5158,7 +5214,27 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedPipeLiquidCrossJunction4</Key>
-      <Value>Tube (Jonction 4 voies)</Value>
+      <Value>Tube calfeutré (Jonction 4 voies)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePipeInsulatedLiquidCrossJunction</Key>
+      <Value>Tube calfeutré (En Croix)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureInsulatedPipeLiquidCrossJunction5</Key>
+      <Value>Tube (Jonction 5 voies)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureInsulatedPipeLiquidCrossJunction6</Key>
+      <Value>Tube calfeutré (Jonction 6 voies)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureInsulatedPipeLiquidStraight</Key>
+      <Value>Tube calfeutré (Droit)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureInsulatedPipeLiquidTJunction</Key>
+      <Value>Tube calfeutré (Jonction T)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitTurboVolumePump</Key>
@@ -5179,6 +5255,10 @@
     <RecordThing>
       <Key>ItemKitStirlingEngine</Key>
       <Value>Caisse de {THING:StructureRocketModuleSilo}.</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePowerTransmitter</Key>
+      <Value>Transmetteur de puissance micro-ondes</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureShortLocker</Key>
