@@ -480,7 +480,7 @@ Sloty pro vaši postavu lze vidět na levé straně obrazovky. Příkladem je po
     </Record>
     <Record>
       <Key>TutorialWireYouNotWorking1Description</Key>
-      <Value>Něco, co můžete použít k zabránění vypálení kabelu, je {THING:ItemAreaPowerControl}, jinak známý jako APC. Můžete najít jeden ve skříňce - umístěte ho tam, kde byl vypálený kabel.</Value>
+      <Value>Něco, co můžete použít k zabránění vyhoření kabelu, je {THING:ItemAreaPowerControl}, jinak známý jako APC. Najdete ho ve skříňce - umístěte ho na místo, kde byl poškozený kabel.</Value>
     </Record>
     <Record>
       <Key>TutorialWireYouNotWorking1Task1</Key>
@@ -488,7 +488,7 @@ Sloty pro vaši postavu lze vidět na levé straně obrazovky. Příkladem je po
     </Record>
     <Record>
       <Key>TutorialWireYouNotWorking2Description</Key>
-      <Value>Tak teď nastavíme APC jednotku. Budeme potřebovat náš {THING:ItemCrowbar} na její otevření, vložíme baterii a přehodíme vypínač. Tak a teď máte bezpečný nabíjecí systém.</Value>
+      <Value>Nyní nastavíme jednotku APC. Potřebujeme náš {THING:ItemCrowbar}, abychom ji otevřeli, umístili do ní baterii a pak přepnuli vypínač. Nyní máte bezpečný nabíjecí systém.</Value>
     </Record>
     <Record>
       <Key>TutorialWireYouNotWorking2Task1</Key>
