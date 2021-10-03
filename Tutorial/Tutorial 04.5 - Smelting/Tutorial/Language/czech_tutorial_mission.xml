@@ -238,6 +238,10 @@
       <Value>Podívejte se na stránku ingotu (ocel) ve Stationpedii</Value>
     </Record>
     <Record>
+      <Key>4.5Narration17D</Key>
+      <Value>Když do pece přidáte uhlík (uhlí) a železo ze skříně, pec začne automaticky tavit slitinu. Pokud železo vyhodíte před přidáním uhlí, jednoduše vyrobíte železný ingot.</Value>
+    </Record>
+    <Record>
       <Key>4.5AddIrontoFurnace</Key>
       <Value>Přidejte 24 železa</Value>
     </Record>
@@ -254,8 +258,24 @@
       <Value>Vysuňte a vezměte ocelový ingot</Value>
     </Record>
     <Record>
+      <Key>4.5Narration18D</Key>
+      <Value>Výborně, kadete. Nyní máte vše, co potřebujete k modernizaci svého napájecího systému pomocí baterie stanice. Vytiskněte sadu (baterie) pomocí tiskárny elektroniky.</Value>
+    </Record>
+    <Record>
+      <Key>4.5MakeStationBattery</Key>
+      <Value>Vytiskněte sadu (baterie)</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration19D</Key>
+      <Value>Vynikající. Baterie stanice umožňují ukládat přebytečnou energii, takže ji nemusíte neustále vyrábět. Umístěte je vedle ostatních baterií ve svém poli.</Value>
+    </Record>
+    <Record>
       <Key>4.5BuildStationBattery</Key>
       <Value>Umístěte sadu (baterie) na zvýrazněné místo</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration20D</Key>
+      <Value>Pro jistotu musí být baterie zapnuté, aby mohly být napájeny. Vypínač napájení baterie je na boku.</Value>
     </Record>
     <Record>
       <Key>4.5TurnBattery</Key>
