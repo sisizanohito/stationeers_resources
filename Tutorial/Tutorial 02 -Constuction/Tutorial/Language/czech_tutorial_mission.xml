@@ -214,11 +214,11 @@ Připojte solární panely k elektrické síti pomocí kabelů z bedny. Stejně 
     </Record>
     <Record>
       <Key>2GetAPC</Key>
-      <Value>Vezměte regulátor napěťového okruhu (RNO) z bedny.</Value>
+      <Value>Vezměte regulátor napěťového okruhu (APC) z bedny.</Value>
     </Record>
     <Record>
       <Key>2PlaceAPC</Key>
-      <Value>Umístěte RNO na zvýrazněné místo se správnou orientací.</Value>
+      <Value>Umístěte APC do zvýrazněné polohy se správnou orientací.</Value>
     </Record>
     <Record>
       <Key>2Narration13D</Key>
@@ -226,7 +226,7 @@ Připojte solární panely k elektrické síti pomocí kabelů z bedny. Stejně 
     </Record>
     <Record>
       <Key>2Narration14D</Key>
-      <Value>RNO také nabíjí baterie, což je dobré: ODA doporučuje mít několik nabitých baterií stále po ruce. V případě výpadku bude baterie krátce poskytovat záložní napájení.</Value>
+      <Value>APC také nabíjí baterie, což je dobré: ODA doporučuje mít vždy po ruce několik nabitých baterií. V případě výpadku napájení baterie krátkodobě zajistí i záložní napájení.</Value>
     </Record>
     <Record>
       <Key>2GetBatt</Key>
@@ -234,7 +234,7 @@ Připojte solární panely k elektrické síti pomocí kabelů z bedny. Stejně 
     </Record>
     <Record>
       <Key>2OpenAPCTask</Key>
-      <Value>Otevřete RNO páčidlem.</Value>
+      <Value>Otevřete APC páčidlem.</Value>
     </Record>
     <Record>
       <Key>2GetCoal</Key>
@@ -250,20 +250,20 @@ Připojte solární panely k elektrické síti pomocí kabelů z bedny. Stejně 
     </Record>
     <Record>
       <Key>PlaceBatt</Key>
-      <Value>Vložte baterii do RNO.</Value>
+      <Value>Vložte baterii do APC</Value>
     </Record>
     <Record>
       <Key>2Narration15D</Key>
-      <Value>Dobrá práce, dokončili jste napájecí síť. Vedl jste si lépe než poslední kadet.
-Zapněte RNO pro napájení sítě a budiž SVĚTLO.</Value>
+      <Value>Dobrá práce, dokončili jste energetickou síť. Zvládl jste to lépe než poslední kadet.
+Zapněte APC, abyste aktivovali síť, a nechť je tu SVĚTLO.</Value>
     </Record>
     <Record>
       <Key>2Narration17D</Key>
-      <Value>Více informací naleznete v Stationpedii, proto stiskněte {KEY:Help} a obnovte si své znalosti o regulátoru napěťového okruhu (RNO).</Value>
+      <Value>Další informace najdete ve Stationpedii. Stisknutím klávesy F1 si můžete osvěžit své znalosti o APC pomocí záznamu ve Stationpedii.</Value>
     </Record>
     <Record>
       <Key>2FlipSwitch</Key>
-      <Value>Zapněte RNO.</Value>
+      <Value>Zapněte APC.</Value>
     </Record>
     <Record>
       <Key>2PediaOpen</Key>

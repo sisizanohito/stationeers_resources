@@ -282,6 +282,10 @@
       <Value>Zapněte baterii vypínačem na straně</Value>
     </Record>
     <Record>
+      <Key>4.5Narration21D</Key>
+      <Value>Už to skoro je! Zapněte regulátor napěťového okruhu bateriové sítě (APC), abyste ji propojili s hlavní napájecí sítí. APC izoluje bateriovou síť a zajišťuje stabilní a stálý tok energie do hlavní sítě.</Value>
+    </Record>
+    <Record>
       <Key>4.5TurnAPC1</Key>
       <Value>Zapněte bateriovou síť APC</Value>
     </Record>
@@ -316,7 +320,7 @@ Stisknutím důležitého tlačítka &quot;Dokončit&quot; odešlete výsledky d
     </Record>
     <Record>
       <Key>4.5OpenAPCTask</Key>
-      <Value>Otevřete hlavní energetickou síť APC</Value>
+      <Value>Otevřete hlavní napájecí síť APC</Value>
     </Record>
   </Interface>
 </Language>

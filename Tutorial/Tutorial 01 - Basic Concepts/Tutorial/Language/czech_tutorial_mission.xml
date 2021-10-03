@@ -86,7 +86,7 @@ Pro vstup do základny stiskněte &apos;Synchronizovat do interiéru&apos;.</Val
     </Record>
     <Record>
       <Key>SwapControlsDisc</Key>
-      <Value>vymění ruce</Value>
+      <Value>Vyměňte si ruce</Value>
     </Record>
     <Record>
       <Key>Co-OrdinationDisc</Key>
@@ -525,11 +525,11 @@ V aktivní ruce budete potřebovat svářečku, v druhé železné plechy.</Valu
     </Record>
     <Record>
       <Key>OpenTheAPCPanel</Key>
-      <Value>Otevřete RNO páčidlem z bedny.</Value>
+      <Value>Otevřete APC páčidlem z bedny</Value>
     </Record>
     <Record>
       <Key>TurnOnAPC</Key>
-      <Value>Zapněte RNO.</Value>
+      <Value>Zapněte APC</Value>
     </Record>
     <Record>
       <Key>TurningOnTheOXygen</Key>
@@ -557,8 +557,8 @@ V aktivní ruce budete potřebovat svářečku, v druhé železné plechy.</Valu
     </Record>
     <Record>
       <Key>Narration20D</Key>
-      <Value>Základna je nyní vzduchotěsná, takže můžete přidat atmosféru. Zapnutím regulátoru napěťového okruhu (RNO) se spustí aktivní ventilace a začne proudit vzduch do místnosti.
-Sledujte vnější tlak na vašem stavovém panelu.</Value>
+      <Value>Základna je nyní vzduchotěsná, takže můžete přidat atmosféru. Aktivujte regulátor napěťového okruhu (APC), abyste zapnuli aktivní ventilace a spustili proudění vzduchu do místnosti.
+Na stavovém panelu sledujte vnější tlak.</Value>
     </Record>
     <Record>
       <Key>Narration21T</Key>

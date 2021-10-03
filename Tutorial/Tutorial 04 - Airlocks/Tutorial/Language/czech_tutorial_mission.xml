@@ -200,7 +200,7 @@ Vybraná zařízení jsou zvýrazněna ZELENĚ s ČERVENÝM TEXTEM.</Value>
     </Record>
     <Record>
       <Key>4Narration14D</Key>
-      <Value>Přechodová komora je připravena, takže nyní můžete natlakovat základnu! Zapněte APC a naplňte místnost atmosférou. Systém bude udržovat tlak 100 kPa.</Value>
+      <Value>Přetlaková komora je připravena, takže nyní můžete základnu natlakovat! Zapněte APC, aby se místnost naplnila atmosférou. Systém bude udržovat tlak 100 kPa.</Value>
     </Record>
     <Record>
       <Key>4Narration15D</Key>
@@ -244,7 +244,7 @@ Vybraná zařízení jsou zvýrazněna ZELENĚ s ČERVENÝM TEXTEM.</Value>
     </Record>
     <Record>
       <Key>4FlipSwitch</Key>
-      <Value>Zapněte APC a spusťte natlakování.</Value>
+      <Value>Zapněte APC a spusťte přetlakování.</Value>
     </Record>
     <Record>
       <Key>4FinishDoor1</Key>
