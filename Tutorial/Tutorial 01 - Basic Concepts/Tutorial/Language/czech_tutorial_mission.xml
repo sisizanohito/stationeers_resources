@@ -656,5 +656,9 @@ Stisknutím modrého tlačítka &apos;Dokončit&apos; přenesete výsledky na ve
       <Key>1DrinkWater</Key>
       <Value>Pijte vodu</Value>
     </Record>
+    <Record>
+      <Key>1NarrationExtra1</Key>
+      <Value>Po všem tom tréninku máte žízeň. Musíte pít vodu, abyste se hydratovali. Naštěstí máte nějakou v zadní kapse.</Value>
+    </Record>
   </Interface>
 </Language>

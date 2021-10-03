@@ -7,6 +7,11 @@
       <Value>Tavení slitin</Value>
     </Record>
     <Record>
+      <Key>TutoiralSmeltingDescription</Key>
+      <!--This is the description that appers in the menu-->
+      <Value>Vylepšete své tavičské dovednosti a naučte se vytvářet kovové slitiny pro náročnější konstrukce.</Value>
+    </Record>
+    <Record>
       <Key>TutoiralAtmosphericsSubTitle</Key>
       <Value>Praktický výcvik: Fáze V</Value>
     </Record>
@@ -19,8 +24,16 @@
       <Value>Praktický výcvik: Fáze V</Value>
     </Record>
     <Record>
+      <Key>TutoiralSmletingDescription</Key>
+      <Value>Vítejte, kadete. Velitelství Stationeerů je potěšeno tvými pokroky. Povolilo ti zvýšit si kvalifikaci. V této fázi vyzkoušíme tvé schopnosti tavení slitin, abyste mohli vytvářet pokročilejší konstrukce a zařízení.</Value>
+    </Record>
+    <Record>
       <Key>4.5Narration1T</Key>
       <Value>Tavení</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration1D</Key>
+      <Value>Do základny jste přidali mnoho zařízení a dochází vám energie. Mohla by vám pomoci baterie stanice, která vám umožní uložit přebytečnou energii pro použití na jiné časy. Ty vyžadují ocel, takže nejprve musíte postavit pec na tavení slitin.</Value>
     </Record>
     <Record>
       <Key>4.5GetFurnace</Key>
