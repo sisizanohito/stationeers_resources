@@ -1811,7 +1811,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureTankConnectorLiquid</Key>
-      <Value>タンクコネクター</Value>
+      <Value>液体タンクコネクター</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureTankSmall</Key>
@@ -2979,7 +2979,7 @@
     </RecordThing>
     <RecordThing>
       <Key>CircuitboardGraphDisplay</Key>
-      <Value>回路基板 (Graph Display)</Value>
+      <Value>グラフディスプレイ</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitMotherShipCore</Key>
@@ -3107,11 +3107,11 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitDynamicCanister</Key>
-      <Value>キット (携帯タンク)</Value>
+      <Value>キット (携帯ガスタンク)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitDynamicLiquidCanister</Key>
-      <Value>キット (携帯タンク)</Value>
+      <Value>キット (携帯液体タンク)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemFlowerBlue</Key>
@@ -3343,7 +3343,7 @@
     </RecordThing>
     <RecordThing>
       <Key>MotherboardComms</Key>
-      <Value>通信</Value>
+      <Value>通信マザーボード</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemMarineBodyArmor</Key>
@@ -3419,7 +3419,7 @@
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterNitrousOxide</Key>
-      <Value>携帯タンク (窒素)</Value>
+      <Value>携帯タンク (亜酸化窒素)</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterPollutants</Key>
