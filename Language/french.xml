@@ -4686,6 +4686,10 @@
       <Value>Plaques d&apos;astroloy</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemMiningBeltAdvanced</Key>
+      <Value>Ceinture de mineur MK II</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureWindTurbine</Key>
       <Value>Éolienne</Value>
     </RecordThing>
