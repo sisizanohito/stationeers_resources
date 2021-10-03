@@ -48,6 +48,10 @@
       <Value>Dokončete stavění pece</Value>
     </Record>
     <Record>
+      <Key>4.5Narration2D</Key>
+      <Value>Pece produkují kovové ingoty, teplo a odpadní plyn. V příručce Stationeera se doporučuje zachycovat tento plyn pro jiné účely, ale vy na to zatím nejste připraveni. Takže ho budete muset odčerpat ven, abyste se neotrávili. To vám také později umožní vypustit vzduch z pece.</Value>
+    </Record>
+    <Record>
       <Key>4.5BuildPipe</Key>
       <Value>Umístěte potrubí na zvýrazněné místo</Value>
     </Record>
@@ -64,8 +68,16 @@
       <Value>Umístěte ventilaci ven na zvýrazněné místo</Value>
     </Record>
     <Record>
+      <Key>4.5Narration3D</Key>
+      <Value>Řízení atmosféry na pustých skalách bez vzduchu je pro Stationeera práce na jeden den. Proto se hodí objemová čerpadla. Přidáte-li jedno do potrubní sítě, bude fungovat jako ventil, který udržuje tlak v peci, a umožní vám odstranit odpadní plyn, když skončíte s tavením.</Value>
+    </Record>
+    <Record>
       <Key>4.5BuildPump</Key>
       <Value>Umístěte objemové čerpadlo na zvýrazněné místo</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration4D</Key>
+      <Value>Zajímavost: nehody související s topením byly v loňském roce nejčastější příčinou úmrtí zaměstnanců společnosti Stationeer. Musíte neustále sledovat její tlak a teplotu, jinak může dojít k &quot;nepříjemnostem&quot;. Nastavte si vedle pece konzole, které vám budou tyto informace zobrazovat.</Value>
     </Record>
     <Record>
       <Key>4.5PlaceConsole</Key>
@@ -88,6 +100,10 @@
       <Value>Zapněte konzoli</Value>
     </Record>
     <Record>
+      <Key>4.5Narration5D</Key>
+      <Value>Chcete-li konzoli naprogramovat tak, aby zobrazovala teplotu pece, přepněte režim na &quot;Teplota&quot; kliknutím na nastavení, které je aktuálně přiřazeno k &quot;Tlak&quot;.</Value>
+    </Record>
+    <Record>
       <Key>4.5ConfigureGasSensorTask</Key>
       <Value>Nastavte konzolu do režimu &apos;Teploty&apos;</Value>
     </Record>
@@ -100,6 +116,26 @@
       <Value>Nakonfigurujte druhou konzolu na &apos;Tlak&apos;</Value>
     </Record>
     <Record>
+      <Key>4.5Narration6D</Key>
+      <Value>Vynikající. Jste připraveni tavit jako nikdy předtím. Nahlédněte do Stationpedie a zjistěte, jak pec naplnit palivem.</Value>
+    </Record>
+    <Record>
+      <Key>4.5HowToMakeBattery</Key>
+      <Value>Prohlédněte si stránku Stationpedie věnovanou sadě (baterie)</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration7D</Key>
+      <Value>Vynikající. Jste téměř připraveni tavit tak, jak jste ještě nikdy předtím netavili. Pece nejlépe fungují se stálým přívodem plynu, ale můžete je pohánět i palivovou směsí. Musíte být velmi opatrní, abyste přidávali přesně správné množství paliva. Recept na palivo a jeho poměry najdete ve Stationpedii.</Value>
+    </Record>
+    <Record>
+      <Key>4.5PediaNavigation1</Key>
+      <Value>Recept na palivo naleznete na stránce &apos;Pec&apos; v sekci Stationpedie</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration8D</Key>
+      <Value>ODA vás potřebuje co nejdříve ve službách Sluneční soustavy. Proto jsme vám nechali zásobu oxitu a těkavých látek, abychom to urychlili. Najdete je uložené v hornickém opasku v bedně.</Value>
+    </Record>
+    <Record>
       <Key>4.5PickUpMiningBelt</Key>
       <Value>Vezměte hornický opasek z bedny</Value>
     </Record>
@@ -108,14 +144,42 @@
       <Value>Vybavte se hornickým opaskem.</Value>
     </Record>
     <Record>
+      <Key>4.5Narration10D</Key>
+      <Value>Zdroje nejsou vždy k dispozici v přesném množství, které potřebujete, takže je musíte rozdělit. Led snadno praskne ve vašem silném sevření.</Value>
+    </Record>
+    <Record>
+      <Key>OpenOxiteMenu</Key>
+      <Value>Klikněte na oxitovou rudu</Value>
+    </Record>
+    <Record>
+      <Key>4.5SplitStack</Key>
+      <Value>Rozdělte oxitovou rudu na poloviny (6)</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration11D</Key>
+      <Value>Pojďme ji nahodit. Není to zrovna &quot;nejlepší postup&quot; ODA, ale přidávání rudy přímo do pece bude prozatím fungovat. Každý kus oxitu musíte zpracovat jednotlivě, a to tak, že několikrát stisknete tlačítko &quot;Aktivovat&quot;. Víko pece se otevře, jakmile je oxit plně zpracován.</Value>
+    </Record>
+    <Record>
       <Key>4.5AddOxitetoFurnace</Key>
       <Value>Přidejte 6 oxitu do pece</Value>
       <!--Change to match tutorial-->
     </Record>
     <Record>
+      <Key>4.5IgnitingTheFurnace</Key>
+      <Value>Zpracujte oxit: stiskněte tlačítko &quot;Aktivovat&quot;, dokud se neotevře víko</Value>
+    </Record>
+    <Record>
       <Key>4.5AddVolatilestoFurnace</Key>
       <Value>Přidejte 12 těkavých látek do pece</Value>
       <!--Change to match tutorial-->
+    </Record>
+    <Record>
+      <Key>4.5IgnitingTheFurnace</Key>
+      <Value>Zpracujte oxit: stiskněte tlačítko &quot;Aktivovat&quot;, dokud se neotevře víko</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration12D</Key>
+      <Value>V této místnosti není žádná atmosféra, takže není slyšet hukot pece - ale je. Připravte si tedy další ingredience: k vytištění baterie stanice je zapotřebí také měď a zlato. Rudy jsme ti nechali ve skříňce. Poznámka: vyšší teplota a tlak v peci z ní dělají stroj na rychlé tavení.</Value>
     </Record>
     <Record>
       <Key>5AddCoppertoFurnace</Key>
