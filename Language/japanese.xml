@@ -3727,15 +3727,15 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeWall02</Key>
-      <Value>複合材壁</Value>
+      <Value>複合材壁 (2型)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeWall03</Key>
-      <Value>複合材壁</Value>
+      <Value>複合材壁 (3型)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeWall04</Key>
-      <Value>複合材壁</Value>
+      <Value>複合材壁 (4型)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeWallWindow</Key>
@@ -3759,7 +3759,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureWallArchCornerRound</Key>
-      <Value>壁 (アーチアロー)</Value>
+      <Value>壁 (アーチ 角 円)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallArchCornerSquare</Key>
