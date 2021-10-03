@@ -1411,7 +1411,7 @@
     </RecordThing>
     <RecordThing>
       <Key>MotherboardLogic</Key>
-      <Value>ロジック</Value>
+      <Value>ロジックマザーボード</Value>
     </RecordThing>
     <RecordThing>
       <Key>MotherboardManufacturing</Key>
@@ -1467,7 +1467,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureBattery</Key>
-      <Value>バッテリー</Value>
+      <Value>ステーションバッテリー</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureBatteryCharger</Key>
@@ -1843,7 +1843,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidValve</Key>
-      <Value>ダートキャニスター</Value>
+      <Value>液体バルブ</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallCooler</Key>
@@ -2687,7 +2687,7 @@
     </RecordThing>
     <RecordThing>
       <Key>Corner1</Key>
-      <Value>コーナー1</Value>
+      <Value>角</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallFlat</Key>
@@ -3831,11 +3831,11 @@
     </RecordThing>
     <RecordThing>
       <Key>ModularRocketCommand01Lander</Key>
-      <Value>モジュラーロケットコマンド</Value>
+      <Value>ロケットコマンド 着陸船</Value>
     </RecordThing>
     <RecordThing>
       <Key>ModularRocketCargo01</Key>
-      <Value>モジュラーロケットカーゴ</Value>
+      <Value>ロケットカーゴ</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemSensorProcessingUnitOreScanner</Key>
@@ -3843,39 +3843,39 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureBatteryChargerSmall</Key>
-      <Value>バッテリー(小)</Value>
+      <Value>小型バッテリー充電器</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemBatteryChargerSmall</Key>
-      <Value>バッテリー(小)</Value>
+      <Value>小型バッテリー充電器</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureSolarPanelFlat</Key>
-      <Value>ソーラーパネル</Value>
+      <Value>ソーラーパネル (平面)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureSolarPanel45</Key>
-      <Value>ソーラーパネル</Value>
+      <Value>ソーラーパネル (傾)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSolarPanelBasic</Key>
-      <Value>キット (ソーラーパネル)</Value>
+      <Value>キット (基本ソーラーパネル)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSDBHopper</Key>
-      <Value>キット (ソーター)</Value>
+      <Value>キット (SDBホッパー)</Value>
     </RecordThing>
     <RecordThing>
       <Key>KitSDBSilo</Key>
-      <Value>キット (看板)</Value>
+      <Value>キット (SDBサイロ)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureTankBigInsulated</Key>
-      <Value>キット (断熱パイプ)</Value>
+      <Value>大型タンク (断熱)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitTankInsulated</Key>
-      <Value>キット (断熱パイプ)</Value>
+      <Value>キット (断熱タンク)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitDebug</Key>
@@ -3895,7 +3895,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureSmallTableThickDouble</Key>
-      <Value>小型タンク (燃料)</Value>
+      <Value>小 (テーブル 厚い ダブル)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureSmallTableDinnerSingle</Key>
