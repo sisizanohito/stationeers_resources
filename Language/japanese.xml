@@ -214,6 +214,11 @@
       <Value>大豆</Value>
       <Unit/>
     </RecordReagent>
+    <RecordReagent>
+      <Key>Mushroom</Key>
+      <Value>きのこ</Value>
+      <Unit>g</Unit>
+    </RecordReagent>
   </Reagents>
   <Gases>
     <Record>
@@ -4269,7 +4274,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitFridgeBig</Key>
-      <Value>キット (冷蔵庫 大)</Value>
+      <Value>キット (大型冷蔵庫)</Value>
     </RecordThing>
     <RecordThing>
       <Key>SeedBag_Wheet</Key>
@@ -4281,15 +4286,15 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitFridgeSmall</Key>
-      <Value>キット (モジュラーロケットコマンド)</Value>
+      <Value>キット (大型冷蔵庫)</Value>
     </RecordThing>
     <RecordThing>
       <Key>KitPlanter</Key>
-      <Value>キット (モジュラーロケットカーゴ)</Value>
+      <Value>キット プランター</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLiquidTurboVolumePump</Key>
-      <Value>キット (モジュラーロケットコマンド)</Value>
+      <Value>キット (ターボボリュームポンプ - 液体)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitHorizontalAutoMiner</Key>
