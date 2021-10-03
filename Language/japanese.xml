@@ -2303,7 +2303,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureSolarPanelDual</Key>
-      <Value>ソーラーパネル</Value>
+      <Value>ソーラーパネル (デュアル)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLogicBatchWriter</Key>
@@ -3290,10 +3290,6 @@
       <Value>キット (バスケット)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureBasketHoop</Key>
-      <Value>バスケットゴール</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemGasFilterNitrousOxide</Key>
       <Value>フィルター (亜酸化窒素)</Value>
     </RecordThing>
@@ -3659,19 +3655,19 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedPipeCrossJunction3</Key>
-      <Value>断熱パイプ (十字交差3)</Value>
+      <Value>断熱パイプ (三叉交差)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedPipeCrossJunction4</Key>
-      <Value>断熱パイプ (十字交差4)</Value>
+      <Value>断熱パイプ (四叉交差)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedPipeCrossJunction5</Key>
-      <Value>断熱パイプ (十字交差5)</Value>
+      <Value>断熱パイプ (五叉交差)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedPipeCrossJunction6</Key>
-      <Value>断熱パイプ (十字交差6)</Value>
+      <Value>断熱パイプ (六叉交差)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedPipeTJunction</Key>
@@ -3763,11 +3759,11 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureWallArchCornerSquare</Key>
-      <Value>壁 (アーチツートーン)</Value>
+      <Value>壁 (アーチ 角 四角)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallArchCornerTriangle</Key>
-      <Value>壁 (アーチツートーン)</Value>
+      <Value>壁 (アーチ 角 三角)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallFlatCornerRound</Key>
