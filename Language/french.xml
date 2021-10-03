@@ -5149,6 +5149,18 @@
       <Value/>
     </RecordThing>
     <RecordThing>
+      <Key>StructureInsulatedPipeLiquidCorner</Key>
+      <Value>Tube calfeutré (Coin)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureInsulatedPipeLiquidCrossJunction</Key>
+      <Value>Tube calfeutré (En Croix)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureInsulatedPipeLiquidCrossJunction4</Key>
+      <Value>Tube (Jonction 4 voies)</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitTurboVolumePump</Key>
       <Value>Ce kit crée une {THING:StructureVolumePump}. Ca pompe !</Value>
     </RecordThing>
