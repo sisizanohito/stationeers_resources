@@ -4111,87 +4111,63 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageLight1</Key>
-      <Value>残骸</Value>
+      <Value>残骸 ライト</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageLight2</Key>
-      <Value>残骸</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemWreckageLightLongAngled1</Key>
-      <Value>ウォールライト (長 傾)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemWreckageLightLongAngled2</Key>
-      <Value>ウォールライト (長 傾)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemWreckageLightLongWide1</Key>
-      <Value>ウォールライト (長 ワイド)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemWreckageLightLongWide2</Key>
-      <Value>ウォールライト (長 ワイド)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemWreckageWallLightBatteryPowered1</Key>
-      <Value>ウォールライト (バッテリー)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemWreckageWallLightBatteryPowered2</Key>
-      <Value>ウォールライト (バッテリー)</Value>
+      <Value>残骸 ライト</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageRecycler1</Key>
-      <Value>リサイクラー</Value>
+      <Value>残骸 リサイクラー</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageRecycler2</Key>
-      <Value>リサイクラー</Value>
+      <Value>残骸 リサイクラー</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageRecycler3</Key>
-      <Value>リサイクラー</Value>
+      <Value>残骸 リサイクラー</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageRecycler4</Key>
-      <Value>リサイクラー</Value>
+      <Value>残骸 リサイクラー</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageRecycler5</Key>
-      <Value>リサイクラー</Value>
+      <Value>残骸 リサイクラー</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageRecycler6</Key>
-      <Value>リサイクラー</Value>
+      <Value>残骸 リサイクラー</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageFlashingLight1</Key>
-      <Value>フラッシュライト</Value>
+      <Value>残骸 フラッシュライト</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageFlashingLight2</Key>
-      <Value>フラッシュライト</Value>
+      <Value>残骸 フラッシュライト</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageActiveVent1</Key>
-      <Value>アクティブベント</Value>
+      <Value>残骸 アクティブベント</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckagePassiveVent1</Key>
-      <Value>パッシブベント</Value>
+      <Value>残骸 パッシブベント</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageCoalGenerator1</Key>
-      <Value>デバッグ用残骸設置</Value>
+      <Value>残骸 石炭発電機</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageCoalGenerator2</Key>
-      <Value>デバッグ用残骸設置</Value>
+      <Value>残骸 石炭発電機</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageCoalGenerator3</Key>
-      <Value>デバッグ用残骸設置</Value>
+      <Value>残骸 石炭発電機</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageHydroponicsAutomatic1</Key>
