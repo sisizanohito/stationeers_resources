@@ -19,10 +19,6 @@
       <Value>Construire une console dans la zone en surbrillance</Value>
     </Record>
     <Record>
-      <Key>8ConstructCable2</Key>
-      <Value>Ramassez une ventilation passive dans la caisse</Value>
-    </Record>
-    <Record>
       <Key>8ConstructReader</Key>
       <Value>Placer le tuyau dans la position en surbrillance</Value>
     </Record>
@@ -38,10 +34,6 @@
     <Record>
       <Key>8TurnOnWriter</Key>
       <Value>Allumez le lecteur logique.</Value>
-    </Record>
-    <Record>
-      <Key>8ConstructCable2</Key>
-      <Value>Ramassez une ventilation passive dans la caisse</Value>
     </Record>
     <Record>
       <Key>8TurnOffWriter</Key>
