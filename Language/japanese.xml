@@ -3927,143 +3927,143 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageArcFurnace1</Key>
-      <Value>アーク炉</Value>
+      <Value>残骸 アーク炉</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageArcFurnace2</Key>
-      <Value>アーク炉</Value>
+      <Value>残骸 アーク炉</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageArcFurnace3</Key>
-      <Value>アーク炉</Value>
+      <Value>残骸 アーク炉</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageAreaPowerControl1</Key>
-      <Value>エリアパワーコントロール</Value>
+      <Value>残骸 エリアパワーコントロール</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageAreaPowerControl2</Key>
-      <Value>エリアパワーコントロール</Value>
+      <Value>残骸 エリアパワーコントロール</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageAreaPowerControlReversed1</Key>
-      <Value>エリアパワーコントロール</Value>
+      <Value>残骸 反転エリアパワーコントロール</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageAreaPowerControlReversed2</Key>
-      <Value>エリアパワーコントロール</Value>
+      <Value>残骸 反転エリアパワーコントロール</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSolarPanel1</Key>
-      <Value>携帯ソーラーパネル</Value>
+      <Value>残骸 ソーラーパネル</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSolarPanel2</Key>
-      <Value>携帯ソーラーパネル</Value>
+      <Value>残骸 ソーラーパネル</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSolarPanel3</Key>
-      <Value>携帯ソーラーパネル</Value>
+      <Value>残骸 ソーラーパネル</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageTransformer1</Key>
-      <Value>変圧器</Value>
+      <Value>残骸 変圧器</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageTransformer2</Key>
-      <Value>変圧器</Value>
+      <Value>残骸 変圧器</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageTransformerMedium1</Key>
-      <Value>変圧器 (中型)</Value>
+      <Value>残骸 中型変圧器</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageTransformerMedium2</Key>
-      <Value>変圧器 (中型)</Value>
+      <Value>残骸 中型変圧器</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageTransformerSmall1</Key>
-      <Value>小型変圧器</Value>
+      <Value>残骸 小型変圧器</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageTransformerSmall2</Key>
-      <Value>小型変圧器</Value>
+      <Value>残骸 小型変圧器</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSecurityPrinter1</Key>
-      <Value>セキュリティプリンター</Value>
+      <Value>残骸 セキュリティプリンター</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSecurityPrinter2</Key>
-      <Value>セキュリティプリンター</Value>
+      <Value>残骸 セキュリティプリンター</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSecurityPrinter3</Key>
-      <Value>セキュリティプリンター</Value>
+      <Value>残骸 セキュリティプリンター</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSecurityPrinter4</Key>
-      <Value>セキュリティプリンター</Value>
+      <Value>残骸 セキュリティプリンター</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSecurityPrinter5</Key>
-      <Value>セキュリティプリンター</Value>
+      <Value>残骸 セキュリティプリンター</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSecurityPrinter6</Key>
-      <Value>セキュリティプリンター</Value>
+      <Value>残骸 セキュリティプリンター</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageAutolathe1</Key>
-      <Value>自動旋盤</Value>
+      <Value>残骸 自動旋盤</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageAutolathe2</Key>
-      <Value>自動旋盤</Value>
+      <Value>残骸 自動旋盤</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageAutolathe3</Key>
-      <Value>自動旋盤</Value>
+      <Value>残骸 自動旋盤</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageAutolathe4</Key>
-      <Value>自動旋盤</Value>
+      <Value>残骸 自動旋盤</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageAutolathe5</Key>
-      <Value>自動旋盤</Value>
+      <Value>残骸 自動旋盤</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageAutolathe6</Key>
-      <Value>自動旋盤</Value>
+      <Value>残骸 自動旋盤</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageAutolathe7</Key>
-      <Value>自動旋盤</Value>
+      <Value>残骸 自動旋盤</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageElectronicsPrinter1</Key>
-      <Value>エレクトロニックプリンター</Value>
+      <Value>アイテム 残骸 エレクトロニックプリンター1</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageElectronicsPrinter2</Key>
-      <Value>エレクトロニックプリンター</Value>
+      <Value>アイテム 残骸 エレクトロニックプリンター2</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageElectronicsPrinter3</Key>
-      <Value>エレクトロニックプリンター</Value>
+      <Value>アイテム 残骸 エレクトロニックプリンター3</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageElectronicsPrinter4</Key>
-      <Value>エレクトロニックプリンター</Value>
+      <Value>アイテム 残骸 エレクトロニックプリンター4</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageElectronicsPrinter5</Key>
-      <Value>エレクトロニックプリンター</Value>
+      <Value>アイテム 残骸 エレクトロニックプリンター5</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageElectronicsPrinter6</Key>
-      <Value>エレクトロニックプリンター</Value>
+      <Value>アイテム 残骸 エレクトロニックプリンター6</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageCentrifuge1</Key>
