@@ -2451,7 +2451,7 @@
     </RecordThing>
     <RecordThing>
       <Key>WallFrameCornerCut</Key>
-      <Value>フレーム (角丸)</Value>
+      <Value>スチールフレーム (角丸)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureFlagSmall</Key>
@@ -2583,7 +2583,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeWallPanelling1</Key>
-      <Value>複合材ウォールパネル1</Value>
+      <Value>複合材ウォールパネル</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitCompositeFloorGrating</Key>
@@ -2599,7 +2599,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureFrameCornerCut</Key>
-      <Value>フレーム (角丸)</Value>
+      <Value>スチールフレーム (角丸)</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeWallPanelling1</Key>
@@ -2723,7 +2723,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureWallGeometryTMirrored</Key>
-      <Value>壁 (幾何学 コーナー)</Value>
+      <Value>壁 (幾何学 T ミラー)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallPaddedArch</Key>
