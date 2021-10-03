@@ -41,7 +41,7 @@
     </Record>
     <Record>
       <Key>6Narration3D</Key>
-      <Value>Les connecteurs de citerne vous permettent de connecter les citernes portables aux réseaux de tubes. Terminez le réseau de tubes en connectant des tubes aux plateaux hydroponiques.</Value>
+      <Value>Terminez le réseau de tubes de liquide en connectant les tubes au Connecteur de Citerne portable.</Value>
     </Record>
     <Record>
       <Key>6GetPipe</Key>
@@ -142,7 +142,7 @@ Mais aujourd’hui, nous ne testons que les bases: vous avez de l’eau, de la l
     </Record>
     <Record>
       <Key>6Narration9D</Key>
-      <Value>Vous avez cuit l’un des meilleurs muffins d’Agrizero. Profitez-en et bannissez cette faim, Cadet.</Value>
+      <Value>Vous avez cuisiner l’un des meilleurs muffins d’Agrizero. Profitez-en et bannissez cette faim, Cadet.</Value>
     </Record>
     <Record>
       <Key>6EatMuffin</Key>
@@ -198,7 +198,7 @@ Mais aujourd’hui, nous ne testons que les bases: vous avez de l’eau, de la l
     </Record>
     <Record>
       <Key>6EndScreenText</Key>
-      <Value>Bon travail, cadet, vous avez démontré des compétences acceptables en culture hydroponique</Value>
+      <Value>Bon travail cadet, vous avez démontré des compétences acceptables en production d&apos;eau potable et en culture hydroponique.</Value>
     </Record>
     <Record>
       <Key>6WaitForGrow</Key>
@@ -210,7 +210,7 @@ Mais aujourd’hui, nous ne testons que les bases: vous avez de l’eau, de la l
     </Record>
     <Record>
       <Key>6BuildWaterBottleFiller</Key>
-      <Value>Placez le {THING:ItemWaterBottleFiller} dans la zone en surbrillance.</Value>
+      <Value>Placez le Remplisseur de bouteille d’eau dans la zone en surbrillance.</Value>
     </Record>
     <Record>
       <Key>6GetWaterBottle</Key>
