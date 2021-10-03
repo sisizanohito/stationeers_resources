@@ -4118,6 +4118,30 @@
       <Value>残骸 ライト</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemWreckageLightLongAngled1</Key>
+      <Value>残骸 ライト 長 傾</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageLightLongAngled2</Key>
+      <Value>残骸 ライト 長 傾</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageLightLongWide1</Key>
+      <Value>残骸 ライト 長 ワイド</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageLightLongWide2</Key>
+      <Value>残骸 ライト 長 ワイド</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageWallLightBatteryPowered1</Key>
+      <Value>残骸 バッテリー式ウォールライト</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageWallLightBatteryPowered2</Key>
+      <Value>残骸 バッテリー式ウォールライト</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemWreckageRecycler1</Key>
       <Value>残骸 リサイクラー</Value>
     </RecordThing>
