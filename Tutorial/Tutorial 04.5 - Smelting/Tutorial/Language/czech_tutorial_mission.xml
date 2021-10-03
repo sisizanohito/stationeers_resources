@@ -186,8 +186,16 @@
       <Value>Přidejte 50 měděné rudy do pece</Value>
     </Record>
     <Record>
+      <Key>4.5OpenFurnaceC</Key>
+      <Value>Po dokončení tavby zatáhněte za páku pece</Value>
+    </Record>
+    <Record>
       <Key>4.5SmeltCopper</Key>
       <Value>Počkejte, až se zataví měděný ingot</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration13D</Key>
+      <Value>Vynikající. Teď roztav zlatý ingot, ty vesmírný alchymisto.</Value>
     </Record>
     <Record>
       <Key>4.5AddGoldtoFurnace</Key>
@@ -200,6 +208,30 @@
     <Record>
       <Key>4.5SmeltGold</Key>
       <Value>Počkejte, až se zataví zlatý slitek</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration14D</Key>
+      <Value>Pokud jste se dostali až sem, kadete, vaše šance na přežití v tomto testu je více než 50%. Ale pec si udržuje tlak, i když se ochladí. Pokud tedy nechcete, aby to bouchlo, vypusťte z pece vzduch, abyste ji resetovali.</Value>
+    </Record>
+    <Record>
+      <Key>4.5TurnOnVolPump</Key>
+      <Value>Zapněte objemové čerpadlo pro vypouštění plynu</Value>
+    </Record>
+    <Record>
+      <Key>4.5VentingTheGases</Key>
+      <Value>Nechte tlak klesnout pod 99 kPa</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration15D</Key>
+      <Value>Nyní, když se tlak v peci snížil na bezpečnou úroveň, vypněte objemové čerpadlo a doplňte palivo do pece, aby se znovu rozběhla. Pokud potřebujete další rudu, je jí ve druhé skříňce více.</Value>
+    </Record>
+    <Record>
+      <Key>4.5VentingTheGases2</Key>
+      <Value>Znovu rozběhněte pec.</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration16D</Key>
+      <Value>Stejně jako u raket a plánování večírků je pro tavení slitin zásadní správné nastavení kompletních poměrů. Nahlédněte do Stationpedie a zjistěte nejlepší poměr železa a uhlíku pro tavení oceli, stejně jako vhodný tlak a teplotu.</Value>
     </Record>
     <Record>
       <Key>4.5HowToMakeSteel</Key>
