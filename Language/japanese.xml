@@ -663,15 +663,15 @@
     </RecordThing>
     <RecordThing>
       <Key>CartridgeAtmosAnalyser</Key>
-      <Value>大気アナライザー</Value>
+      <Value>大気分析器</Value>
     </RecordThing>
     <RecordThing>
       <Key>CartridgeMedicalAnalyser</Key>
-      <Value>メディカルアナライザー</Value>
+      <Value>メディカル分析器</Value>
     </RecordThing>
     <RecordThing>
       <Key>CartridgeNetworkAnalyser</Key>
-      <Value>ネットワークアナライザー</Value>
+      <Value>ネットワーク分析器</Value>
     </RecordThing>
     <RecordThing>
       <Key>Character</Key>
@@ -3799,27 +3799,27 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureWallPaddedThinNoBorderCorner</Key>
-      <Value>壁 (幾何学 コーナー)</Value>
+      <Value>壁 (パッデド 薄型 ボーダーレス 角)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallPaddedNoBorderCorner</Key>
-      <Value>壁 (幾何学 コーナー)</Value>
+      <Value>壁 (パッデド ボーダーレス 角)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallPaddedCorner</Key>
-      <Value>壁 (パッデド アーチ)</Value>
+      <Value>壁 (パッデド 角)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallPaddedCornerThin</Key>
-      <Value>壁 (パディング 薄型)</Value>
+      <Value>壁 (パディング 角 薄型)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallPaddedArchCorner</Key>
-      <Value>壁 (パッデド アーチ)</Value>
+      <Value>壁 (パッデド アーチ 角)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallPaddedWindow</Key>
-      <Value>壁 (パディング)</Value>
+      <Value>壁 (パディング 窓)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeOrgan</Key>
