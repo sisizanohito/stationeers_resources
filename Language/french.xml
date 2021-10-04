@@ -6128,7 +6128,7 @@
     </Record>
     <Record>
       <Key>Edibles</Key>
-      <Value>Comestibles</Value>
+      <Value>Produits comestibles et aliments</Value>
     </Record>
     <Record>
       <Key>Plants</Key>
@@ -9981,7 +9981,8 @@ Le programme Stationeers, qui est fondamentalement ouvert à toute l’humanité
     </Record>
     <Record>
       <Key>StationpediaConstructionOptions</Key>
-      <Value>Options de construction</Value>
+      <Value>
+ Options de construction</Value>
     </Record>
     <Record>
       <Key>StationpediaLogicSlotHeader</Key>
@@ -10036,10 +10037,6 @@ Le programme Stationeers, qui est fondamentalement ouvert à toute l’humanité
       <Value>Durée</Value>
     </Record>
     <Record>
-      <Key>Volume</Key>
-      <Value>Volume maître</Value>
-    </Record>
-    <Record>
       <Key>NoAudioReceiverDevices</Key>
       <Value>Aucun récepteur audio</Value>
     </Record>
@@ -10074,10 +10071,6 @@ Le programme Stationeers, qui est fondamentalement ouvert à toute l’humanité
     <Record>
       <Key>StationpediaMaxPressure</Key>
       <Value>Pression maximale:</Value>
-    </Record>
-    <Record>
-      <Key>StationpediaNutrition</Key>
-      <Value>Nutrition</Value>
     </Record>
     <Record>
       <Key>SettingsSmoothTerrain</Key>
