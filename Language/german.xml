@@ -7769,6 +7769,10 @@ Temperatur {1}</Value>
       <Value>Gibt einen Winkel zurück, dessen Tangens die angegebene Zahl ist</Value>
     </Record>
     <Record>
+      <Key>ScriptCommandATan2</Key>
+      <Value>Gibt einen Winkel zurück, dessen Tangens die angegebene Zahl ist</Value>
+    </Record>
+    <Record>
       <Key>ScriptCommandCommand</Key>
       <Value>Befehl</Value>
     </Record>

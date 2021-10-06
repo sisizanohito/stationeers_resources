@@ -9537,6 +9537,10 @@
       <Value>Возвращает угол, тангенс которого является указанным значением.</Value>
     </Record>
     <Record>
+      <Key>ScriptCommandATan2</Key>
+      <Value>Возвращает угол, тангенс которого является указанным значением.</Value>
+    </Record>
+    <Record>
       <Key>ScriptCommandCommand</Key>
       <Value>команда</Value>
     </Record>

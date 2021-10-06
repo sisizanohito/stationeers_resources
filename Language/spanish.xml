@@ -8949,6 +8949,10 @@ Es una ley universal inquebrantable que cualquier cosa superior a 11 será púrp
       <Value>Devuelve el ángulo cuyo tangente es el valor especificado</Value>
     </Record>
     <Record>
+      <Key>ScriptCommandATan2</Key>
+      <Value>Devuelve el ángulo cuyo tangente es el valor especificado</Value>
+    </Record>
+    <Record>
       <Key>ScriptCommandCommand</Key>
       <Value>comando</Value>
     </Record>

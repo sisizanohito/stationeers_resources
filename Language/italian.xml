@@ -6838,6 +6838,10 @@ Non essere triste quando ti farai saltare in aria in piccoli, piccolissimi pezzi
       <Value>indica la salute della pianta nello slot</Value>
     </Record>
     <Record>
+      <Key>ScriptCommandATan2</Key>
+      <Value>indica la salute della pianta nello slot</Value>
+    </Record>
+    <Record>
       <Key>ResearchRequirementTitle</Key>
       <Value>Esperimenti</Value>
     </Record>

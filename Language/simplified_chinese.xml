@@ -9010,6 +9010,10 @@ abs()--绝对值运算函数 max()--最大值函数</Value>
       <Value>返回指定tan值的角度，即arctan</Value>
     </Record>
     <Record>
+      <Key>ScriptCommandATan2</Key>
+      <Value>返回指定tan值的角度，即arctan</Value>
+    </Record>
+    <Record>
       <Key>ScriptCommandCommand</Key>
       <Value>命令</Value>
     </Record>

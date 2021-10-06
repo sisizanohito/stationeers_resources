@@ -1259,6 +1259,10 @@
       <Value>Returnerer enhedens samlede mol</Value>
     </Record>
     <Record>
+      <Key>ScriptCommandATan2</Key>
+      <Value>Returnerer enhedens samlede mol</Value>
+    </Record>
+    <Record>
       <Key>NutritionSPDAKey</Key>
       <Value>Ingen beskrivelse</Value>
     </Record>

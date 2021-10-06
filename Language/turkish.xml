@@ -8522,6 +8522,10 @@
       <Value>tan&apos;ın belirli değerindeki açıyı verir</Value>
     </Record>
     <Record>
+      <Key>ScriptCommandATan2</Key>
+      <Value>tan&apos;ın belirli değerindeki açıyı verir</Value>
+    </Record>
+    <Record>
       <Key>ScriptCommandCommand</Key>
       <Value>komut</Value>
     </Record>

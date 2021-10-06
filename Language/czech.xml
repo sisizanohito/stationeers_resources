@@ -9380,6 +9380,10 @@
       <Value>Vrací úhel, jehož tangen je zadaná hodnota</Value>
     </Record>
     <Record>
+      <Key>ScriptCommandATan2</Key>
+      <Value>Vrací úhel, jehož tangen je zadaná hodnota</Value>
+    </Record>
+    <Record>
       <Key>ScriptCommandCommand</Key>
       <Value>příkaz</Value>
     </Record>

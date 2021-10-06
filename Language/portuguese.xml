@@ -8016,6 +8016,10 @@
       <Value>devolve o estado de saúde da planta no compartimento</Value>
     </Record>
     <Record>
+      <Key>ScriptCommandATan2</Key>
+      <Value>devolve o estado de saúde da planta no compartimento</Value>
+    </Record>
+    <Record>
       <Key>ScriptCommandCommand</Key>
       <Value>comando</Value>
     </Record>
