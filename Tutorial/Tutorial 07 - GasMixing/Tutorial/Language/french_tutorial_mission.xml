@@ -44,8 +44,16 @@ Les plantes fabriquent de l’oxygène à partir de CO2, et il y en a beaucoup d
       <Value>Construisez la Ventilation active dans la zone en surbrillance</Value>
     </Record>
     <Record>
+      <Key>7Narration2D</Key>
+      <Value>Maintenant, laissez la verdure tranquille pendant un moment. traverser le sas jusqu’à la salle de filtration d’atmosphère pour construire votre système de mélange de gaz.</Value>
+    </Record>
+    <Record>
       <Key>7MoveToArea</Key>
       <Value>Entrez dans la salle atmosphérique</Value>
+    </Record>
+    <Record>
+      <Key>7Narration3D</Key>
+      <Value>Pour extraire l’oxygène de l’atmosphère de la pièce hydroponique, vous devez séparer les gaz. C’est pourquoi la prochaine étape consiste a construire une unité de filtration.</Value>
     </Record>
     <Record>
       <Key>7GetAtmospherics</Key>
@@ -54,6 +62,10 @@ Les plantes fabriquent de l’oxygène à partir de CO2, et il y en a beaucoup d
     <Record>
       <Key>7BuildAtmospherics</Key>
       <Value>Construire le fourneau dans la zone en surbrillance</Value>
+    </Record>
+    <Record>
+      <Key>7Narration4D</Key>
+      <Value>Pour faire passer l’atmosphère de la salle hydroponique à votre unité de filtration, complétez le réseau de tuyaux d’oxygène de couleur verte.</Value>
     </Record>
     <Record>
       <Key>7GetPipeKit</Key>
