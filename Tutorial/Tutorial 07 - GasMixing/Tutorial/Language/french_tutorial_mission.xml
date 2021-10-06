@@ -100,12 +100,20 @@ Les plantes fabriquent de l’oxygène à partir de CO2, et il y en a beaucoup d
       <Value>Insérer un filtre à oxygène dans l’unité de filtration</Value>
     </Record>
     <Record>
+      <Key>7Narration7D</Key>
+      <Value>Pour réduire le risque que votre carburant s’enflamme accidentellement, c’est une bonne idée de refroidir le gaz. Beaucoup de Stationeers l&apos;ont appris à leur dépends. Pour refroidir vos tuyaux, faites-les passer à l’extérieur et ajoutez des radiateurs de tuyaux, qui disperseront la chaleur.</Value>
+    </Record>
+    <Record>
       <Key>7GetPipeRadiator</Key>
       <Value>Ramassez les Kit (Tuyau) dans la caisse</Value>
     </Record>
     <Record>
       <Key>7BuildPipeRadiator</Key>
       <Value>Construire la porte composite #1 dans la zone en surbrillance</Value>
+    </Record>
+    <Record>
+      <Key>7Narration8D</Key>
+      <Value>Le broyeur de glace est un bon moyen d’obtenir du gaz à partir de gaz gelés. Connectez la sortie de gaz du broyeur de glace au réseau de gaz &quot;volatile&quot;. </Value>
     </Record>
     <Record>
       <Key>7GetIceCrusher</Key>
