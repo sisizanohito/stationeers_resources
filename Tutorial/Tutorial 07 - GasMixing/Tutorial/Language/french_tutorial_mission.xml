@@ -11,6 +11,14 @@
       <Value>Formation pratique : Étape IV</Value>
     </Record>
     <Record>
+      <Key>GasMixingDescription</Key>
+      <Value>Étendez vos compétences dans le domaine du mélange et de la filtration des gaz pour créer de l&apos;atmosphère, du carburant et plus encore.</Value>
+    </Record>
+    <Record>
+      <Key>IntoTutoiralGasMixingDescription</Key>
+      <Value>Bienvenue Cadet! Lorsque vous serez déployé en tant que Stationeer, vous devrez créer toutes sortes de carburants et d’atmosphères pour les bases de l&apos;ODA éloignées. Explorons donc vos connaissances en matière de filtrage et de mélange de gaz.</Value>
+    </Record>
+    <Record>
       <Key>7WasteTankOpened</Key>
       <Value>Ouvrez le réservoir à déchets de la combinaison</Value>
     </Record>
