@@ -132,12 +132,21 @@ Les plantes fabriquent de l’oxygène à partir de CO2, et il y en a beaucoup d
       <Value>Complétez la console avec une plaque de verre</Value>
     </Record>
     <Record>
+      <Key>7Narration9D</Key>
+      <Value>Le carburant le plus couramment utilisé par les Stationeers est composé d&apos;oxygène et d&apos;hydrogène.		
+Il y a de la Glace (Volatiles) dans la ceinture minière situé dans la caisse. Ajoutez-en dans le broyeur de glace pour libérer l&apos;hydrogène gazeux. Remarque: les Glaces (Volatiles) se subliment rapidement, sauf à l’intérieur de la ceinture minière ou du broyeur de glace.</Value>
+    </Record>
+    <Record>
       <Key>7GetMiningBelt</Key>
       <Value>Ramasser la ceinture de mineur dans la caisse</Value>
     </Record>
     <Record>
       <Key>7AddIceToCrusher</Key>
       <Value>Ajouter 12 volatiles dans le fourneau</Value>
+    </Record>
+    <Record>
+      <Key>7Narration10D</Key>
+      <Value>Pour produire votre carburant, vous devez connecter le réseau d&apos;oxygène et le réseau d&apos;hydrogène à l’aide d’un mélangeur de gaz. Les mélangeurs vous permettent de définir le bon ratio O2/H2, évitant ainsi la déception d’avoir un mélange inutilisable.</Value>
     </Record>
     <Record>
       <Key>7GetGasMixer</Key>
