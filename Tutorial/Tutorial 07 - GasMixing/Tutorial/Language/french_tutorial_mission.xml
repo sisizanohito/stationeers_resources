@@ -19,12 +19,21 @@
       <Value>Bienvenue Cadet! Lorsque vous serez déployé en tant que Stationeer, vous devrez créer toutes sortes de carburants et d’atmosphères pour les bases de l&apos;ODA éloignées. Explorons donc vos connaissances en matière de filtrage et de mélange de gaz.</Value>
     </Record>
     <Record>
+      <Key>7Narration0D</Key>
+      <Value>Le travail d’un Stationeer n’est jamais terminé, mais votre chalumeau n&apos;a plus de gaz! Il est temps de créer plus de carburant. Tout d’abord, vous avez besoin d’une source d’oxygène.
+Les plantes fabriquent de l’oxygène à partir de CO2, et il y en a beaucoup dans le réservoir de déchets de votre combinaison. Il suffit de l’évacuer dans la salle hydroponique.</Value>
+    </Record>
+    <Record>
       <Key>7WasteTankOpened</Key>
       <Value>Ouvrez le réservoir à déchets de la combinaison</Value>
     </Record>
     <Record>
       <Key>7WasteTankClosed</Key>
       <Value>Fermer le réservoir à déchets de la combinaison</Value>
+    </Record>
+    <Record>
+      <Key>7Narration1D</Key>
+      <Value>Afin d’extraire l’oxygène de l’atmosphère dans cette pièce, construisez une ventilation active dans la zone en surbrillance. Utilisez-la pour pomper l’atmosphère dans votre système de filtration.</Value>
     </Record>
     <Record>
       <Key>7GetActiveVent</Key>
