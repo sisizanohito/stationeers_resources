@@ -76,6 +76,10 @@ Les plantes fabriquent de l’oxygène à partir de CO2, et il y en a beaucoup d
       <Value>Ramassez une ventilation passive dans la caisse</Value>
     </Record>
     <Record>
+      <Key>7Narration5D</Key>
+      <Value>L’unité de filtration produit deux choses: du gaz filtré et des gaz résiduels, que vous devez éliminer sinon des événements bruyants et désagréables peuvent se produire. Connectez la sortie de déchet de l’unité de filtration au réseau de déchet afin de pouvoir expulser les gaz indésirables dans le vide infini.</Value>
+    </Record>
+    <Record>
       <Key>7GetPipeKitW</Key>
       <Value>Ramassez un tuyau dans la caisse</Value>
     </Record>
@@ -84,8 +88,16 @@ Les plantes fabriquent de l’oxygène à partir de CO2, et il y en a beaucoup d
       <Value>Ramassez une ventilation passive dans la caisse</Value>
     </Record>
     <Record>
+      <Key>7Narration6D</Key>
+      <Value>Une unité de filtration peut filtrer deux gaz simultanément, mais pour le moment, vous avez juste besoin d’oxygène pour préparer le carburant du chalumeau. Ajoutez donc un filtre à oxygène dans l’unité de filtration.</Value>
+    </Record>
+    <Record>
       <Key>7GetFilter</Key>
       <Value>Ramassez le Kit (Console) dans la caisse</Value>
+    </Record>
+    <Record>
+      <Key>7AddFilterToFilitration</Key>
+      <Value>Insérer un filtre à oxygène dans l’unité de filtration</Value>
     </Record>
     <Record>
       <Key>7GetPipeRadiator</Key>
