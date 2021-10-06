@@ -11176,27 +11176,31 @@ The transmitter must be aligned to the base station in order to transmit any pow
     </Record>
     <Record>
       <Key>ScriptCommandSin</Key>
-      <Value>Returns the sine of the specified angle</Value>
+      <Value>Returns the sine of the specified angle (radians)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandCos</Key>
-      <Value>Returns the cosine of the specified angle</Value>
+      <Value>Returns the cosine of the specified angle (radians)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandTan</Key>
-      <Value>Returns the tan of the specified angle</Value>
+      <Value>Returns the tan of the specified angle (radians) </Value>
     </Record>
     <Record>
       <Key>ScriptCommandASin</Key>
-      <Value>Returns the angle whos sine is the specified value</Value>
+      <Value>Returns the angle (radians) whos sine is the specified value</Value>
     </Record>
     <Record>
       <Key>ScriptCommandACos</Key>
-      <Value>Returns the angle whos cosine is the specified value</Value>
+      <Value>Returns the angle (radians) whos cosine is the specified value</Value>
     </Record>
     <Record>
       <Key>ScriptCommandATan</Key>
-      <Value>Returns the angle whos tan is the specified value</Value>
+      <Value>Returns the angle (radians) whos tan is the specified value</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandATan2</Key>
+      <Value>Returns the angle (radians) whose tangent is the quotient of two specified values: a (y) and b (x)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandCommand</Key>
