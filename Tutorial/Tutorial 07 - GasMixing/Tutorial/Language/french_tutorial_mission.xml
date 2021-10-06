@@ -157,12 +157,20 @@ Il y a de la Glace (Volatiles) dans la ceinture minière situé dans la caisse. 
       <Value>Construire un capteur de gaz dans la zone en surbrillance</Value>
     </Record>
     <Record>
+      <Key>7Narration11D</Key>
+      <Value>Pour vous assurer de ne pas mettre votre bouteille de gaz en surpression, ajoutez un régulateur de pression - une autre leçon importante pour les stationnements qui veulent continuer d&apos;exister sur ce monde lointain.</Value>
+    </Record>
+    <Record>
       <Key>7GetRegulator</Key>
       <Value>Ramassez une ventilation passive dans la caisse</Value>
     </Record>
     <Record>
       <Key>7BuildRegulator</Key>
       <Value>Construire un capteur de gaz dans la zone en surbrillance</Value>
+    </Record>
+    <Record>
+      <Key>7Narration12D</Key>
+      <Value>Vous ne voulez pas que les gaz se mélangent tant que vous n’êtes pas prêt. Vous devez donc ouvrir et fermer les tuyaux à l’aide de vannes. Nous en avons placé un pour vous. Ajoutez-en un autre à votre réseau de tuyaux d’oxygène.</Value>
     </Record>
     <Record>
       <Key>7GetValve</Key>
