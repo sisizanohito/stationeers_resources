@@ -9357,31 +9357,31 @@
     </Record>
     <Record>
       <Key>ScriptCommandSin</Key>
-      <Value>Vrátí sinus zadaného úhlu</Value>
+      <Value>Vrací sinus zadaného úhlu (v radiánech)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandCos</Key>
-      <Value>Vrací kosinus zadaného úhlu</Value>
+      <Value>Vrací kosinus zadaného úhlu (v radiánech)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandTan</Key>
-      <Value>Vrací tangen zadaného úhlu</Value>
+      <Value>Vrací tečnu zadaného úhlu (v radiánech)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandASin</Key>
-      <Value>Vrací úhel, jehož sinus je zadaná hodnota</Value>
+      <Value>Vrací úhel (v radiánech), jehož sinus je zadaná hodnota</Value>
     </Record>
     <Record>
       <Key>ScriptCommandACos</Key>
-      <Value>Vrátí úhel, jehož kosinus je zadaná hodnota</Value>
+      <Value>Vrací úhel (v radiánech), jehož kosinus je zadaná hodnota</Value>
     </Record>
     <Record>
       <Key>ScriptCommandATan</Key>
-      <Value>Vrací úhel, jehož tangen je zadaná hodnota</Value>
+      <Value>Vrací úhel (v radiánech), jehož tečna je zadaná hodnota</Value>
     </Record>
     <Record>
       <Key>ScriptCommandATan2</Key>
-      <Value>Vrací úhel, jehož tangen je zadaná hodnota</Value>
+      <Value>Vrací úhel (v radiánech), jehož tečna je kvocientem dvou zadaných hodnot: a (y) a b (x)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandCommand</Key>
