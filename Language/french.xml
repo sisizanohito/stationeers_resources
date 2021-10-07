@@ -5257,8 +5257,20 @@
       <Value>Ce kit crée une {THING:StructureVolumePump}. Ca pompe !</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemMkIIToolbelt</Key>
+      <Value>Ceinture d&apos;outils MK II</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemMiningBeltMKII</Key>
+      <Value>Ceinture de mineur MK II</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureWindowShutter</Key>
+      <Value>Volet de fenêtre</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitWindowShutter</Key>
-      <Value>Ce kit produit une {THING:StructureWindTurbine}.</Value>
+      <Value>Kit (volet de fenêtre)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitHorizontalAutoMiner</Key>
