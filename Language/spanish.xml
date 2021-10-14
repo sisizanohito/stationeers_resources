@@ -4548,6 +4548,10 @@
       <Value>Planchas de astroloy</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemMiningBeltAdvanced</Key>
+      <Value>Cinturon Minero MK II</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureWindTurbine</Key>
       <Value>Turbina eólica</Value>
     </RecordThing>
@@ -4879,6 +4883,10 @@
       <Value/>
     </RecordThing>
     <RecordThing>
+      <Key>StructureLiquidDrain</Key>
+      <Value>Desague de líquidos</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemLiquidPipeAnalyzer</Key>
       <Value/>
     </RecordThing>
@@ -4889,6 +4897,10 @@
     <RecordThing>
       <Key>ItemKitModularRocketGasMining</Key>
       <Value>Este kit crea un {THING:StructureModularRocketEngine01}</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureModularRocketGasMining</Key>
+      <Value>Módulo de minería de Gas automatizado del cohete</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitHeatExchanger</Key>
