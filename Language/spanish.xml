@@ -5732,6 +5732,14 @@
       <Key>Button17</Key>
       <Value>Botón 17</Value>
     </Record>
+    <Record>
+      <Key>ProgrammableChip</Key>
+      <Value>Chip Programable</Value>
+    </Record>
+    <Record>
+      <Key>Motherboard</Key>
+      <Value>Placa Base</Value>
+    </Record>
   </Interactables>
   <Interface>
     <Record>
@@ -5753,6 +5761,10 @@
     <Record>
       <Key>DoorCategory</Key>
       <Value>Puertas y escotillas</Value>
+    </Record>
+    <Record>
+      <Key>ChairTableCategory</Key>
+      <Value>Sillas</Value>
     </Record>
     <Record>
       <Key>PersonalSuits</Key>
@@ -5861,6 +5873,10 @@
     <Record>
       <Key>Edibles</Key>
       <Value>Alimentos</Value>
+    </Record>
+    <Record>
+      <Key>Plants</Key>
+      <Value>Plantas y Semillas</Value>
     </Record>
     <Record>
       <Key>AirContitioningAtmos</Key>
@@ -9863,8 +9879,16 @@ Reclutando personas con experiencia en ingeniería civil, industrias militares y
       <Value>Nutrición:</Value>
     </Record>
     <Record>
+      <Key>MoleNitrousOxideDescription</Key>
+      <Value>El óxido nitroso es un gas inerte que noqueará a los jugadores si se inhala. Hace que tu {THING:ItemJetpackBasic} funcione genial.</Value>
+    </Record>
+    <Record>
       <Key>SettingsSmoothTerrain</Key>
       <Value>Terreno Liso</Value>
+    </Record>
+    <Record>
+      <Key>SettingsVirtualizedRendering</Key>
+      <Value>Renderizado Virtual</Value>
     </Record>
   </Interface>
   <Colors>

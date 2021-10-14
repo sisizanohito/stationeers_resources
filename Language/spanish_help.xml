@@ -437,6 +437,57 @@ Presión de la masa fundida {0}</Text>
       <Text>Límite inflamable {0} a {1}</Text>
     </StationpediaPage>
     <StationpediaPage>
+      <Key>NutritionPage</Key>
+      <Title>Hambre y Nutrición</Title>
+      <DisplayFilter>Guides</DisplayFilter>
+      <Text>{HEADER:HUNGER}
+
+Los Stationeers eventualmente tienen hambre, pero no todos los alimentos son iguales. Además, su tasa de hambre varía según la configuración y la dificultad. Comer solo consumirá esa parte de un artículo adecuada para restaurar su hambre al 100% .
+
+Los Stationeers reciben suministros de comida como &lt;color=#0080FFFF&gt;{LINK:Agrizero;Agrizero}&lt;/color&gt; {THING:ItemCerealBar} en su módulo de aterrizaje al llegar a un nuevo mundo. Cuando se agoten, debe encontrar nuevas fuentes de sustento, como cultivar las suyas propias, a partir de las semillas suministradas o ponerse en contacto con un {LINK:TradingPage;Trader}.
+
+{HEADER:NUTRITION}
+
+Comer ingredientes crudos satisfará menos el hambre que las comidas, es decir, reemplazará una proporción menor de su hambre. Los elementos básicos de los alimentos se crean utilizando sistemas &lt;color=#0080FFFF&gt;{LINK:OrganicPage;hydroponics}&lt;/color&gt;. Estos se pueden procesar en ingredientes de recetas usando el {THING:ApplianceReagentProcessor}, luego convertirse en comidas usando un {THING:ApplianceMicrowave} o {THING:StructureAutomatedOven}.
+
+Su tasa de hambre se puede configurar en el menú de configuración principal ajustando el control deslizante Tasa de hambre / hidratación en la configuración. Tenga en cuenta que el control deslizante del hambre también gobierna su {LINK:HydrationPage;Thirst}.</Text>
+    </StationpediaPage>
+    <StationpediaPage>
+      <Key>DecayPage</Key>
+      <Title>Descomposición de alimentos</Title>
+      <DisplayFilter>Guides</DisplayFilter>
+      <Text>La comida se descompone con el tiempo en {THING:DecayedFood}, a menos que se refrigere en una atmósfera adecuada. La velocidad exacta de descomposición varía individualmente según: 
+
+- TEMPERATURA - La refrigeración ralentizará la descomposición, pero muchos alimentos se dañarán por la exposición a presiones extremadamente bajas, así como al calor extremo. La temperatura óptima es 0 kelvin (-272 C) .
+
+- TIPO DE ALIMENTO: cada tipo &lt;color=#0080FFFF&gt;{LINK:OrganicPage;food}&lt;/color&gt; tiene sus propias propiedades de descomposición. {THING:ItemTomatoSoup} dura mucho más que {THING:ItemTomato}, por ejemplo.
+
+- PRESIÓN: los alimentos se descomponen más rápido cuando la presión cae por debajo de 1 atmósfera (101 kPa). La descomposición ocurre exponencialmente más rápidamente a medida que la atmósfera se acerca a un vacío perfecto. No hay efecto en presiones más altas. 
+
+- ATMÓSFERA: diferentes gases pueden ralentizar y acelerar el proceso de descomposición. El proceso tendrá en cuenta las respectivas relaciones de gas en atmósferas mixtas al calcular el modificador de descomposición. Las siguientes relaciones se aplican a todos los alimentos: 
+
+&gt; Oxígeno x 1.3
+&gt; Nitrógeno x 0,6
+&gt; Dióxido de carbono x 0.8
+&gt; Volátiles x 1
+&gt; Contaminante x 3
+&gt; Óxido nitroso x 1,5
+&gt; Agua x 2
+&gt; Vacío - ver PRESIÓN (arriba) .</Text>
+    </StationpediaPage>
+    <StationpediaPage>
+      <Key>HydrationPage</Key>
+      <Title>Sed + hidratación</Title>
+      <DisplayFilter>Guides</DisplayFilter>
+      <Text>El Stationeer medio necesita beber agua con regularidad. Sin embargo, las normas de salud y seguridad arcanas y posiblemente erróneas &lt;color=#0080FFFF&gt;{LINK:ODA;ODA}&lt;/color&gt; han negado durante mucho tiempo a los Stationeers el derecho a los mecanismos de hidratación dentro del traje. En cambio, deben tomar descansos regulares para beber para abrir su casco y beber agua. No se recomienda hacerlo en un entorno sin presión.
+
+¿Con qué frecuencia beber? Esto está determinado por tu nivel de dificultad, el calor del planeta y cuánto te gusta mover tu cuerpo.
+
+El agua se presenta de muchas formas. Al menos una {THING:ItemWaterBottle} se proporciona a Stationeers como parte de sus raciones cuando aterrizan en nuevos planetas, con más en sus cajas de aterrizaje. Estos se pueden rellenar con un {THING:ItemWaterBottleFiller}, que debe estar conectado a una red de tuberías de líquido. La red en sí se puede llenar usando un {THING:StructureIceCrusher} con un suministro adecuado de hielo.
+
+Su tasa de sed se puede ajustar en el menú de configuración principal ajustando el control deslizante de tasa de hambre / hidratación.</Text>
+    </StationpediaPage>
+    <StationpediaPage>
       <Key>EVAPage</Key>
       <Title>Traje EVA</Title>
       <DisplayFilter>Guides</DisplayFilter>
