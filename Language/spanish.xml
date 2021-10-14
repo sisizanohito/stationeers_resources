@@ -3,7 +3,13 @@
   <Name>Spanish</Name>
   <Code>ES</Code>
   <Font>font_extended</Font>
-  <Reagents/>
+  <Reagents>
+    <RecordReagent>
+      <Key>Mushroom</Key>
+      <Value>Seta</Value>
+      <Unit>Seta.Unidad</Unit>
+    </RecordReagent>
+  </Reagents>
   <Gases>
     <Record>
       <Key>Oxygen</Key>
@@ -7049,6 +7055,10 @@ No te sientas triste cuando te haces pedazos pequeños o diminutos, o eres asalt
       <Value>Los satélites señalan que una caja ha caído cerca, su localizador debería mostrarle el camino.</Value>
     </Record>
     <Record>
+      <Key>TradingNoMoneyHash</Key>
+      <Value>No hay suficiente dinero para completar esta transacción, asegúrese de que usted y el comerciante tengan suficiente dinero para completar la transacción.</Value>
+    </Record>
+    <Record>
       <Key>SomethingWentWrongTrading</Key>
       <Value>Algo salió mal al procesar el comercio, ¡hizo que saliera mal la venta!</Value>
     </Record>
@@ -7773,6 +7783,14 @@ Es una ley universal inquebrantable que cualquier cosa superior a 11 será púrp
     <Record>
       <Key>FuelReturnCost</Key>
       <Value>Obtiene el coste de combustible para volver.</Value>
+    </Record>
+    <Record>
+      <Key>RocketMode</Key>
+      <Value>Obsoleto</Value>
+    </Record>
+    <Record>
+      <Key>CollectableGoods</Key>
+      <Value>Devuelve 0 o 1 en función de si el sistema de cohetes actual tiene o no la capacidad de recolectar recursos en el planeta.</Value>
     </Record>
     <Record>
       <Key>LogicTypeRequestHash</Key>
@@ -8514,6 +8532,10 @@ Es una ley universal inquebrantable que cualquier cosa superior a 11 será púrp
     <Record>
       <Key>ResearchCancel</Key>
       <Value>Cancelar</Value>
+    </Record>
+    <Record>
+      <Key>ServerReadyString</Key>
+      <Value>El servidor puede ser iniciado.</Value>
     </Record>
     <Record>
       <Key>ScriptCommandL</Key>
@@ -9332,6 +9354,10 @@ Es una ley universal inquebrantable que cualquier cosa superior a 11 será púrp
       <Value>Activar el control del ratón</Value>
     </Record>
     <Record>
+      <Key>ActivateExplosiveTooltipKey2</Key>
+      <Value>Segundo temporizador. El temporizador no se puede apagar. Se aconseja precaución.</Value>
+    </Record>
+    <Record>
       <Key>CommandSave</Key>
       <Value>Guarda el juego y lo nombra como un parámetro dado: &quot;/save y nombre del guardado&quot;</Value>
     </Record>
@@ -9444,8 +9470,24 @@ Es una ley universal inquebrantable que cualquier cosa superior a 11 será púrp
       <Value>Agrega gases o líquidos a un tanque o red de tuberías determinada: &quot;/addgas [refID] [gasType 1-8] [molecount]&quot;</Value>
     </Record>
     <Record>
+      <Key>CommandCount</Key>
+      <Value>Cuenta todas las cosas del tipo especificado en el guardado:  &quot;/count [AllThings / Structures / DynamicThings / AnimatorThings / Pipes / Cables / Atmospheres / CableNetworks]&quot;</Value>
+    </Record>
+    <Record>
+      <Key>CommandSetDecay</Key>
+      <Value>Establece el multiplicador de descomposición global de alimentos:  &quot;/ setdecay 2&quot;</Value>
+    </Record>
+    <Record>
+      <Key>CommandSetContact</Key>
+      <Value>Establece la cantidad de señal requerida para contactar a un comerciante. : &quot;/setcontact 10&quot;</Value>
+    </Record>
+    <Record>
       <Key>CommandHelp</Key>
       <Value>Mostrar Menu de Ayuda: &quot;/help&quot;</Value>
+    </Record>
+    <Record>
+      <Key>Seedsstring</Key>
+      <Value>Semillas</Value>
     </Record>
     <Record>
       <Key>AgrizeroDesc</Key>
@@ -9803,6 +9845,11 @@ Reclutando personas con experiencia en ingeniería civil, industrias militares y
       <Value>Modo</Value>
     </Record>
     <Record>
+      <Key>StationpediaLogicHeader</Key>
+      <Value>
+        Logico</Value>
+    </Record>
+    <Record>
       <Key>StationpediaLogicSlotHeader</Key>
       <Value>Ranuras Lógicas</Value>
     </Record>
@@ -9859,8 +9906,24 @@ Reclutando personas con experiencia en ingeniería civil, industrias militares y
       <Value>Tiempo</Value>
     </Record>
     <Record>
+      <Key>LogicTypeBpm</Key>
+      <Value>Bpm (bits por minuto)</Value>
+    </Record>
+    <Record>
+      <Key>Pitch</Key>
+      <Value>Cabeceo</Value>
+    </Record>
+    <Record>
       <Key>Volume</Key>
       <Value>Volumen</Value>
+    </Record>
+    <Record>
+      <Key>NoAudioReceiverDevices</Key>
+      <Value>No hay dispositivos de recepción de audio </Value>
+    </Record>
+    <Record>
+      <Key>Speed</Key>
+      <Value>Velocidad</Value>
     </Record>
     <Record>
       <Key>Attack</Key>
