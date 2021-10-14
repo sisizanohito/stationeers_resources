@@ -4991,16 +4991,64 @@
       <Value>Oscilador de baja frecuencia</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureFridgeBig</Key>
+      <Value>Nevera (grande)</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitFridgeBig</Key>
       <Value>Este kit crea un {THING:StructureSDBSilo}</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureFridgeSmall</Key>
+      <Value>Nevera pequeña</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureRefrigeratedVendingMachine</Key>
+      <Value>Máquina expendedora refrigerada</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitVendingMachineRefrigerated</Key>
       <Value/>
     </RecordThing>
     <RecordThing>
+      <Key>SeedBag_Potato</Key>
+      <Value>Semillas de patata</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>SeedBag_Corn</Key>
       <Value>Este kit crea un {THING:ItemWallCooler}.</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>SeedBag_Wheet</Key>
+      <Value>Semillas de trigo</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>SeedBag_Tomato</Key>
+      <Value>Semillas de tomate</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>SeedBag_Soybean</Key>
+      <Value>Semillas de soja</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>SeedBag_Rice</Key>
+      <Value>Semillas de arroz</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>SeedBag_Pumpkin</Key>
+      <Value>Semillas de calabaza</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>SeedBag_Fern</Key>
+      <Value>Semillas de helechos</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>Fertilizer</Key>
+      <Value>Fertilizante</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureAdvancedComposter</Key>
+      <Value>Compostador avanzado</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAdvancedComposter</Key>
@@ -5011,8 +5059,20 @@
       <Value>Crea un {THING:StructureRocketModuleSilo}.</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructurePlanter</Key>
+      <Value>Jardinera</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>KitPlanter</Key>
       <Value>Este kit crea un {THING:StructurePipeMeter}.</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>PortableComposter</Key>
+      <Value>Compostador portátil</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>AppliancePackagingMachine</Key>
+      <Value>Máquina de embalaje básica</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPlanter</Key>
@@ -5025,6 +5085,10 @@
     <RecordThing>
       <Key>ItemKitAutomatedOven</Key>
       <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCannedMushroom</Key>
+      <Value>Setas enlatadas</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemPoweredEggs</Key>
