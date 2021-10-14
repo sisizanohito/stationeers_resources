@@ -5307,12 +5307,52 @@
       <Value>Válvula unidireccional (líquidos)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureWindowShutter</Key>
+      <Value>Contraventana</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitWindowShutter</Key>
       <Value>Este kit produce una {THING:StructureWindTurbine}</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemExplosiveBasic</Key>
+      <Value>Artículo Explosivo Básico</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemMiningCharge</Key>
+      <Value>Carga de minería</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureReinforcedCompositeWindow</Key>
+      <Value>Ventana Reforzada (compuesta)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureReinforcedCompositeWindowSteel</Key>
+      <Value>Ventana Reforzada (Acero Compuesto)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureReinforcedWallPaddedWindow</Key>
+      <Value>Ventana Reforzada (Acolchada)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureReinforcedWallPaddedWindowThin</Key>
+      <Value>Ventana Reforzada (Delgada)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemStelliteGlassSheets</Key>
+      <Value>Artículo Hojas de cristal de Stellite</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitReinforcedWindows</Key>
+      <Value>Ventanas Reforzadas (Kit)</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitHorizontalAutoMiner</Key>
       <Value>Crea un {THING:StructureRocketModuleSilo}.</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemLaptop</Key>
+      <Value>Portátil</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitStirlingEngine</Key>
