@@ -4927,6 +4927,34 @@
       <Value/>
     </RecordThing>
     <RecordThing>
+      <Key>LogicStepSequencer8</Key>
+      <Value>Secuenciador de pasos lógicos</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>DeviceStepUnit</Key>
+      <Value>Unidad de paso del dispositivo</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StopWatch</Key>
+      <Value>Cronómetro</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemSoundCartridgeBass</Key>
+      <Value>Artículo Cartucho de sonido Bass</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemSoundCartridgeDrums</Key>
+      <Value>Artículo cartucho de Tambores de sonido</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemSoundCartridgeLeads</Key>
+      <Value>Artículo cartucho de guias de sonido</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemSoundCartridgeSynth</Key>
+      <Value>Artículo cartucho de Sintetizador de sonido</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitMusicMachines</Key>
       <Value/>
     </RecordThing>
@@ -4947,8 +4975,20 @@
       <Value/>
     </RecordThing>
     <RecordThing>
+      <Key>DecayedFood</Key>
+      <Value>Alimentos en descomposición</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureShelfMedium</Key>
+      <Value>Estante Medio</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>PassiveSpeaker</Key>
       <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>DeviceLfoVolume</Key>
+      <Value>Oscilador de baja frecuencia</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitFridgeBig</Key>

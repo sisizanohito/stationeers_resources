@@ -63,6 +63,10 @@ Te han obligado a trabajar como su nuevo chef personal. Aún no sabes qué le pa
       <Value>Cocina y entrega 2 patatas al horno.</Value>
     </Record>
     <Record>
+      <Key>BreadTask2</Key>
+      <Value>Hornea y entrega 1 barra de pan.</Value>
+    </Record>
+    <Record>
       <Key>FriesTask2</Key>
       <Value>Cocina y entrega 1 paquete de patatas fritas.</Value>
     </Record>
