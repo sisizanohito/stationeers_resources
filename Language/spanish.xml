@@ -2204,6 +2204,10 @@
       <Value>Aceite de Soja</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemFries</Key>
+      <Value>Patatas fritas</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureCableCornerH3</Key>
       <Value>Cable Grueso (Esquina 3 Vías)</Value>
     </RecordThing>
