@@ -23,8 +23,9 @@
     <StationpediaPage>
       <Key>ImportExportPage</Key>
       <Title>Importación/Exportación y tolva</Title>
-      <Text>Estas son estructuras, típicamente alimentadas, que tienen funciones especializadas incluyendo la lógica, la atmósfera y más. Están construidas de la misma manera que otras estructuras.
-        {LIST_OF_IMPORTEXPORT}</Text>
+      <Text>Se trata de estructuras, normalmente alimentadas, que pueden recibir y dar salida a otros elementos, o ayudar a ello. La mayoría tiene funciones especializadas que incluyen {LINK: LogicUnitPage; logic}, {LINK: AtmosphericPage; atmospherics} y más. Se construyen de la misma manera que otras estructuras.
+  · {LIST_OF_IMPORTEXPORT} ¶
+  ·</Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>SmeltingPage</Key>
@@ -50,6 +51,10 @@ Algunas estructuras tendrán múltiples estados de construcción que requieren d
 
 {HEADER:Tooltips}
 Si observa directamente una estructura que está incompleta, obtendrá información sobre lo que necesita hacer para completarla. Si tiene una {LINK:ToolPage;tool} en su mano y no es la {LINK:ToolPage;tool} correcta, aparecerá un mensaje que le indicará lo que necesita usar para desmontarla.
+
+{HEADER:Pressure}
+Al construir, es importante tener en cuenta que la presión se mide como un diferencial. La mayoría de las estructuras tienen un límite de presión de 200 kPa: si la diferencia entre el interior y el exterior es mayor que eso, tiene problemas.
+      
       
       </Text>
     </StationpediaPage>
@@ -62,12 +67,16 @@ Si observa directamente una estructura que está incompleta, obtendrá informaci
       <Key>OrePage</Key>
       <Title>Minerales</Title>
       <Text>Estos son artículos que son {LINK:MiningPage;mined} y a menudo pueden ser {LINK:SmeltingPage;smelted}. También puedes obtener mineral mezclado reciclando elementos en la {THING:StructureRecycler} y luego pasándolo a través de la {THING:StructureCentrifuge} que lo romperá en {LINK:OrePage;ore} para {LINK:SmeltingPage;smelting}.
-        Hay algunos minerales que se fundirán cuando se expongan a la luz solar o al calor y producirán {LINK:GasPage;gases}. Por ejemplo, {THING:ItemIce} se funde en {GAS:Water} y {GAS:Oxygen}. Ten cuidado de mantenerlos fuera del calor o la luz del sol hasta que realmente quieras que se derritan.{LIST_OF_ORES}</Text>
+        Hay algunos minerales que se fundirán cuando se expongan a la luz solar o al calor y producirán {LINK:GasPage;gases}. Por ejemplo, {THING:ItemIce} se funde en {GAS:Water} y {GAS:Oxygen}. Ten cuidado de mantenerlos fuera del calor o la luz del sol hasta que realmente quieras que se derritan.{LIST_OF_ORES}
+      </Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>IngotPage</Key>
       <Title>Lingotes</Title>
-      <Text>Estos son artículos que están típicamente hechos de {LINK:SmeltingPage;Smelting} {LINK:OrePage;ores}.
+      <Text>Estos son artículos que están típicamente hechos de {LINK:SmeltingPage;Smelting} {LINK:OrePage;ores}.Para usarlos en {LINK:FabricatorPage;fabricators}.
+
+{LIST_OF_INGOTS}
+      
       
 {LIST_OF_INGOTS}</Text>
     </StationpediaPage>
@@ -77,6 +86,7 @@ Si observa directamente una estructura que está incompleta, obtendrá informaci
       <Text>Estos son artículos que pueden caber en una ranura de herramientas especializadas, y se utilizan para {LINK:ConstructionPage;Construction} y otras tareas.
 
 {LIST_OF_TOOLS}
+      
       </Text>
     </StationpediaPage>
     <StationpediaPage>
@@ -208,24 +218,6 @@ Presión de la masa fundida {0}</Text>
     <StationpediaPage>
       <Key>GasPageFlamableTemplate</Key>
       <Text>Límite inflamable {0} a {1}</Text>
-    </StationpediaPage>
-    <StationpediaPage>
-      <Key>NutritionPage</Key>
-      <Title>Los Stationeers eventualmente tienen hambre, pero no todos los alimentos son iguales. Además, su tasa de hambre varía según la configuración y la dificultad. Comer solo consumirá esa parte de un artículo adecuada para restaurar su hambre al 100%.
-
-Todos los Stationeers reciben un suministro de &lt;color=#0080FFFF&gt;{LINK:Agrizero;Agrizero}&lt;/color&gt;{THING:ItemCerealBar} en sus suministros de aterrizaje al comienzo de un nuevo mundo. Cuando estos se agotan, debe encontrar nuevas fuentes de sustento.
-
-Comer ingredientes crudos satisfará menos el hambre que las comidas, es decir, reemplazará una proporción menor de su hambre. Los elementos básicos de los alimentos se crean utilizando sistemas &lt;color=#0080FFFF&gt;{LINK:OrganicsPage;hydroponics}&lt;/color&gt;. Estos se pueden procesar en ingredientes de recetas usando el {THING:ApplianceReagentProcessor) y luego convertirse en comidas usando un {THING:ApplianceMicrowave}.
-
-Su tasa de hambre se puede configurar en el menú de configuración principal ajustando el control deslizante Tasa de hambre / hidratación.</Title>
-      <DisplayFilter>Guides</DisplayFilter>
-      <Text>Los Stationeers eventualmente tienen hambre, pero no todos los alimentos son iguales. Además, su tasa de hambre varía según la configuración y la dificultad. Comer solo consumirá esa parte de un artículo adecuada para restaurar su hambre al 100%.
-
-Todos los Stationeers reciben un suministro de &lt;color=#0080FFFF&gt;{LINK:Agrizero;Agrizero}&lt;/color&gt;{THING:ItemCerealBar} en sus suministros de aterrizaje al comienzo de un nuevo mundo. Cuando estos se agotan, debe encontrar nuevas fuentes de sustento.
-
-Comer ingredientes crudos satisfará menos el hambre que las comidas, es decir, reemplazará una proporción menor de su hambre. Los elementos básicos de los alimentos se crean utilizando sistemas &lt;color=#0080FFFF&gt;{LINK:OrganicsPage;hydroponics}&lt;/color&gt;. Estos se pueden procesar en ingredientes de recetas usando el {THING:ApplianceReagentProcessor) y luego convertirse en comidas usando un {THING:ApplianceMicrowave}.
-
-Su tasa de hambre se puede configurar en el menú de configuración principal ajustando el control deslizante Tasa de hambre / hidratación.</Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>EVAPage</Key>
