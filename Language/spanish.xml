@@ -92,6 +92,10 @@
       <Value>Plantar</Value>
     </Record>
     <Record>
+      <Key>Water</Key>
+      <Value>Agua</Value>
+    </Record>
+    <Record>
       <Key>Harvest</Key>
       <Value>Cosechar</Value>
     </Record>

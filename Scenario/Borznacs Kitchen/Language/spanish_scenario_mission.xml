@@ -1,5 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Code>ES</Code>
-  <Interface/>
+  <Interface>
+    <Record>
+      <Key>ScenariosBorznacsKitchen</Key>
+      <Value>Cocina Borznac&apos;s</Value>
+    </Record>
+    <Record>
+      <Key>TutoiralGasMixingSubTitle</Key>
+      <Value>Mejor ponte a cocinar</Value>
+    </Record>
+    <Record>
+      <Key>ScenariosBorznacsKitchenDescription</Key>
+      <!--Menu Disc-->
+      <Value>Después de ser eliminado de varios acuerdos comerciales con Sinotai, Borznac el quinto ha decidido construir un imperio propio, tomando el control de todas las bases lunares cercanas, incluida la tuya.
+Te han obligado a trabajar como su nuevo chef personal. Así que será mejor que te pongas a cocinar.</Value>
+    </Record>
+    <Record>
+      <Key>ScenariosBorznacsKitchenIntroDescription</Key>
+      <!--Intro Panel-->
+      <Value>Borznac el quinto no es conocido por sus sutilezas. Después de ser eliminado de varios acuerdos comerciales con Sinotai, decidió construir un imperio propio, tomando el control de todas las bases lunares cercanas, incluida la suya.
+Te han obligado a trabajar como su nuevo chef personal. Aún no sabes qué le pasó a su último chef y no quieres saberlo. Tiene bastante apetito y está muy impaciente. Así que será mejor que te pongas a cocinar.</Value>
+    </Record>
+    <Record>
+      <Key>CookingForYourLifeSubTitle</Key>
+      <Value>¡Cocina por tu vida!</Value>
+    </Record>
+    <Record>
+      <Key>BakedPotato1</Key>
+      <Value>Cocina y entrega 4 patatas al horno.</Value>
+    </Record>
+    <Record>
+      <Key>FriesTask1</Key>
+      <Value>Cocina y entrega 2 paquetes de patatas fritas.</Value>
+    </Record>
+    <Record>
+      <Key>MuffinTask1</Key>
+      <Value>Hornea y entrega 3 Muffins.</Value>
+    </Record>
+  </Interface>
 </Language>
