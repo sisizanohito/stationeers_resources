@@ -5127,6 +5127,54 @@
       <Value>Crea un {THING:StructureRocketModuleSilo}.</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemCookedSoybean</Key>
+      <Value>Soja cocida</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCookedTomato</Key>
+      <Value>Tomate cocido</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCookedCorn</Key>
+      <Value>Maíz cocido</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCookedRice</Key>
+      <Value>Arroz cocido</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCookedPumpkin</Key>
+      <Value>Calabaza cocida</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCookedMushroom</Key>
+      <Value>Champiñones cocidos</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCookedPowderedEggs</Key>
+      <Value>Huevos en polvo</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCookedCondensedMilk</Key>
+      <Value>Leche condensada</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemTropicalPlant</Key>
+      <Value>Lirio tropical</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemPeaceLily</Key>
+      <Value>Lirio de la Paz</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemDecorFern</Key>
+      <Value>Helecho decorativo</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemFilterFern</Key>
+      <Value>Helecho Darga</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitInsulatedWaterPipe</Key>
       <Value/>
     </RecordThing>
@@ -5167,12 +5215,96 @@
       <Value/>
     </RecordThing>
     <RecordThing>
+      <Key>StructureInsulatedPipeLiquidCorner</Key>
+      <Value>Tubería de líquido aislada (esquina)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureInsulatedPipeLiquidCrossJunction</Key>
+      <Value>Tubería de líquido aislada (unión cruzada)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureInsulatedPipeLiquidCrossJunction4</Key>
+      <Value>Tubería de líquido aislada (union cruzada 4)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePipeInsulatedLiquidCrossJunction</Key>
+      <Value>Tubería de líquido aislada (unión cruzada)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureInsulatedPipeLiquidCrossJunction5</Key>
+      <Value>Tubería de líquido aislada (union cruzada 5)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureInsulatedPipeLiquidCrossJunction6</Key>
+      <Value>Tubería de líquido aislada (union cruzada 6)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureInsulatedPipeLiquidStraight</Key>
+      <Value>Tubería de líquido aislada (recta)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureInsulatedPipeLiquidTJunction</Key>
+      <Value>Tubería de líquido aislada (unión T)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePipeHeater</Key>
+      <Value>Calentador de tubería (gas)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePipeOneWayValve</Key>
+      <Value>Válvula unidireccional (gas)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureOneWayValve</Key>
+      <Value>Válvula unidireccional (gas)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureWaterPipeHeater</Key>
+      <Value>Calentador de tubería (gas)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemPipeHeater</Key>
+      <Value>Kit de calentador de tubería (gas)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWaterPipeHeater</Key>
+      <Value>Kit de calentador de tubería (líquidos)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemLiquidPipeHeater</Key>
+      <Value>Kit de calentador de tubería (líquidos)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLiquidPipeHeater</Key>
+      <Value>Calentador de tubería (líquidos)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureTurboVolumePump</Key>
+      <Value>Turbo Bomba de volumen (gas)</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitTurboVolumePump</Key>
       <Value>Este kit crea un {THING:StructureVolumePump}.</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureLiquidTurboVolumePump</Key>
+      <Value>Turbo Bomba de volumen (líquidos)</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitLiquidTurboVolumePump</Key>
       <Value>Este kit crea un {THING:StructureVolumePump}.</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemMkIIToolbelt</Key>
+      <Value>Artículo Cinturón de herramientas Mk II </Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemMiningBeltMKII</Key>
+      <Value>Artículo Cinturón de minería MK II</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLiquidPipeOneWayValve</Key>
+      <Value>Válvula unidireccional (líquidos)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitWindowShutter</Key>
