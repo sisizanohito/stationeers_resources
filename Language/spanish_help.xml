@@ -134,6 +134,75 @@ Un elemento central de este pasatiempo es el secuenciador por pasos, que permite
  ·</Text>
     </StationpediaPage>
     <StationpediaPage>
+      <Key>TemperatureControlPage</Key>
+      <Title>Control de Temperatura</Title>
+      <DisplayFilter>Guides</DisplayFilter>
+      <Text>Para controlar la temperatura de un sistema, tenemos que agregarle calor aumentando así su temperatura o quitarle calor y enfriarlo, esa es la idea básica del control de temperatura. Los dispositivos que logran este objetivo para usted son {THING:ItemWallHeater}, {THING:ItemWallCooler}, {THING:StructurePipeRadiator} y {THING:StructureAirConditioner} .
+
+NOTA: Existen muchos métodos de control de temperatura. Algunos no involucran ninguno de los dispositivos mencionados. Aquí, cubrimos los conceptos básicos.
+
+Es importante comprender su entorno antes de instalar cualquier tipo de control de temperatura. El volumen de gas o líquido es un factor importante a la hora de elegir su método de control de temperatura. Un {THING:StructureTankSmall} puede contener hasta 6000L, mientras que un {THING:StructureTankBig} puede contener hasta 50,000L, lo que significa que si ambos están llenos, el tanque pequeño reaccionará más rápido a los cambios de temperatura. Una habitación es un espacio que puede contener una cierta cantidad de gas. Cuanto más grande sea, más volumen podrá contener, por lo que las mismas reglas generalmente se aplican a los tanques y salas.
+
+{HEADER:PIPE NETWORKS} 
+Una red de tuberías es uno o más segmentos de tubería conectados entre sí sin separación en ningún punto. Una red de tuberías comparte la misma atmósfera en todas partes a lo largo de la tubería, sin importar cuán grande sea. Si cambia la temperatura o la presión en un extremo de la red, el extremo más alejado experimentará el mismo cambio inmediatamente sin demora.
+
+Agregar dispositivos a una red puede dividirla en dos redes diferentes. Por ejemplo, agregar una {THING:StructureVolumePump} a una red de tuberías dividirá la red en dos redes: una antes de la bomba y otra después de ella.
+
+Utilice la {THING:ItemTablet} con un {THING:CartridgeAtmosAnalyser} instalado para ver información sobre el contenido de cualquier red de tuberías.
+
+{HEADER:RADIATORS} 
+Fabricado en la dobladora de tubos, un {THING:StructurePipeRadiator} le ayudará a intercambiar calor entre los tubos y el entorno que los rodea. Funcionan tanto en tuberías aisladas como en tuberías conectadas, además de tener sus variantes líquidas. 
+
+En condiciones normales, un segmento de tubería intercambiará calor con el entorno que lo rodea, pero agregar un radiador a ese segmento de tubería acelerará enormemente el proceso. Un segmento de tubería seguirá intercambiando calor con la atmósfera circundante hasta que ambos se igualen en temperatura.
+
+{HEADER:PASSIVE COOLING} 
+Puede enfriar o calentar cualquier ambiente usando un {THING:StructurePipeRadiator} para intercambiar calor entre dos atmósferas. Un ejemplo de esto sería colocar una tubería en la pared, llenarla de gas y colocar radiadores en la tubería. Ahora las dos atmósferas de la tubería y la habitación intercambiarán temperatura hasta que sus ambientes se igualen.
+
+{HEADER:WALL HEATER} 
+{THING:ItemWallHeater} es un dispositivo simple que se puede instalar en una pared o en un marco y conectarse a la corriente. Cuando se enciende, comenzará a calentar el entorno circundante. Consume 1010W de energía y puede ser controlado por chips lógicos para que funcione cuando la temperatura alcanza un cierto nivel.
+
+{HEADER:WALL COOLER} 
+El {THING:ItemWallCooler} complementa el calentador de pared, que solo puede elevar la temperatura. El enfriador de pared funciona extrayendo calor de la atmósfera circundante y agregando ese calor a su red de tuberías. Para que el enfriador de pared funcione correctamente, deberá conectar las tuberías al enfriador de pared y llenar la red de tuberías conectada con cualquier tipo de gas. La capacidad calorífica y el volumen del gas determinarán qué tan rápido reacciona a los cambios de temperatura. 
+
+Cuanto mayor sea la diferencia de temperatura entre el gas almacenado en las tuberías y la habitación, menos eficiente será el enfriador de pared. Entonces, para mantener el enfriador de pared funcionando con una eficiencia aceptable, deberá deshacerse del calor que se acumula en las tuberías conectadas a él. Una práctica común sería tender las tuberías hacia el exterior y usar radiadores en la sección exterior de las tuberías para eliminar el calor.
+
+Cuanto menos eficiente sea el enfriador de pared, menos energía consume. Consumirá 1010W a máxima eficiencia. El enfriador de pared se puede controlar mediante chips lógicos para que funcione cuando la temperatura alcanza un cierto grado.
+
+Si el enfriador de pared muestra un error, entonces falta uno de los siguientes elementos: 
+- Conexión de tubería al enfriador de pared.
+- Hay gas en las tuberías conectadas o la presión es demasiado baja.
+- La atmósfera en el entorno circundante o la presión es demasiado baja.
+
+{HEADER:AIR CONDITIONER} 
+El {THING:StructureAirConditioner} en su forma básica funciona igual que el enfriador de pared y puede beneficiarse de los mismos diseños. Sin embargo, es más poderoso. Se enfría más rápido y consume mucha más energía dependiendo de la situación, lo que lo hace más adecuado para trabajar con grandes volúmenes y grandes áreas. Puede calentar o enfriar según la configuración.
+
+AIRE ACONDICIONADO: CÓMO FUNCIONA
+El acondicionador de aire tiene 3 conexiones de tubería (entrada, salida, residuos). El gas entra por el lado de entrada y luego, según la configuración, se agrega o elimina calor del gas entrante y se agrega a la tubería de desagüe. El gas de salida saldrá a través de la conexión de salida, más frío o más caliente según la configuración.
+Puede conectar la tubería de entrada a las tuberías de salida (puede ver si están conectadas si ambas tienen el mismo número de red): esto le dará más control sobre la temperatura, ya que el gas no alcanzará la temperatura objetivo después de la primer pase. Se necesitará tiempo y energía para eliminar o agregar calor a cualquier gas.
+
+La forma en que instale y configure su aire acondicionado depende de lo que esté tratando de enfriar o calentar. Para una habitación, necesitará una ventilación pasiva dentro de la habitación conectada a la entrada y salida del aire acondicionado, mientras que la tubería de desagüe debe llenarse con un gas refrigerante. 
+
+El aire acondicionado no tiene que estar dentro de la habitación. La única parte de esta configuración que tiene que estar en la habitación es el respiradero pasivo que circulará la atmósfera de la habitación hasta el aire acondicionado para enfriar o calentar. 
+
+Puede usar un solo acondicionador de aire para calentar y enfriar. Solo necesita cambiar la configuración de temperatura objetivo en el panel. Sin embargo, si desea automatizar el enfriamiento y la calefacción al mismo tiempo, necesitará un acondicionador de aire para enfriar y otro para calentar, porque la configuración en el panel solo se puede cambiar manualmente.
+
+Configurar más de un acondicionador de aire en la misma red de tuberías puede ser útil si necesita que las cosas vayan más rápido o si necesita usar algunos para calentar y otros para enfriar. Haga esto conectando las entradas y salidas de los acondicionadores de aire juntos y haciendo que todos compartan la misma red de tuberías para sus entradas y salidas. La red de tuberías de desagüe también se puede compartir entre ellos, pero debe estar separada de la red de tuberías de entrada / salida. La misma idea se aplica cuando se usa el aire acondicionado para controlar la temperatura de los tanques. Sin embargo, en lugar de usar un respiradero pasivo, necesitará conectar el tanque al aire acondicionado directamente.
+
+AIRE ACONDICIONADO: TENER EN CUENTA
+- Cuanto mayor sea la diferencia de temperatura entre la tubería de entrada y la tubería de desagüe, más energía utilizará el aire acondicionado
+- La potencia consumida por el acondicionador de aire puede exceder los 5kW, por lo que se recomienda el uso de cables pesados ​​para encender los acondicionadores de aire.
+- Hacer funcionar la tubería de desagüe hacia el exterior e igualarla con la atmósfera exterior no siempre es la mejor opción: el gas que pone dentro se puede aplicar en cualquier otro lugar de su base.
+
+AIRE ACONDICIONADO: CONTROL DE TEMPERATURA BASE
+Hay muchas formas de controlar la temperatura de su base utilizando acondicionadores de aire; esta es una forma de lograr este objetivo: 
+Paso 1: Ejecute una red de tubería única alrededor de su base e instale ventilaciones pasivas conectadas a esta tubería en cada habitación que desee controlar con esta configuración. Esta es la &apos;Red A&apos;
+Paso 2: Conecte la &apos;Red A&apos; a la entrada y salida de un acondicionador de aire.
+Paso 3: conecte la tubería de desagüe a una red diferente y llévela al exterior. Instale radiadores en esta red.
+Esta es la configuración básica. Para automatizarlo, necesitará un analizador de tuberías en la Red A, luego lea la temperatura y haga funcionar su acondicionador o acondicionadores de aire según corresponda.
+¡Buena suerte, Cadete! 
+ ·</Text>
+    </StationpediaPage>
+    <StationpediaPage>
       <Key>OrePage</Key>
       <Title>Minerales</Title>
       <Text>Estos son artículos que son {LINK:MiningPage;mined} y a menudo pueden ser {LINK:SmeltingPage;smelted}. También puedes obtener mineral mezclado reciclando elementos en la {THING:StructureRecycler} y luego pasándolo a través de la {THING:StructureCentrifuge} que lo romperá en {LINK:OrePage;ore} para {LINK:SmeltingPage;smelting}.
