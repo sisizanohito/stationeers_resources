@@ -8,6 +8,12 @@
     -->
     <!--LEAVE THIS ALONE NEEDED FOR THOSE PAGES-->
     <StationpediaPage>
+      <Key>CartridgePage</Key>
+      <Title>Cartuchos</Title>
+      <Text>Estos se pueden agregar a {THING:ItemTablet} o {THING:ItemAdvancedTablet} para hacer diferentes funciones de diagnostico.
+{LIST_OF_CARTRIDGES}</Text>
+    </StationpediaPage>
+    <StationpediaPage>
       <Key>FabricatorPage</Key>
       <Title>Impresora Informatizada</Title>
       <Text>Estas son Estructuras potenciadas que pueden ser usadas para fabricar cosas que necesitas en el juego. Normalmente toman {LINK:IngotPage;Ingots} para proporcionar la {LINK:ReagentPage;Reagents} que necesitan para hacer las cosas.
@@ -40,6 +46,41 @@
       </Text>
     </StationpediaPage>
     <StationpediaPage>
+      <Key>TradingPage</Key>
+      <Title>Comercio</Title>
+      <DisplayFilter>Guides</DisplayFilter>
+      <Text>El comercio es una parte esencial de una existencia &lt;color=#0080FFFF&gt;{LINK:Stationeers;Stationeers}&lt;/color&gt; especialmente en mundos más extremos, donde los nuevos cadetes pueden ser desafiados al principio a sobrevivir sin ayuda.
+¶
+{HEADER:Getting started} ¶
+¶
+Para ponerse en contacto con un comerciante, debe establecer un sistema de comunicaciones. Esto requiere lo siguiente: ¶
+¶
+- Una {THING:StructureVendingMachine} conectada a la energia para almacenar e intercambiar artículos.
+- Una {THING:Structure SatelliteDish} operativa para localizar e identificar a los posibles comerciantes.
+- Un {THING:StructureComputer} en funcionamiento con una {THING:MotherboardComms} en ejecución.
+- Una {THING:StructureShuttleLandingPad} conectada a la energia para que el comerciante aterrice.
+¶
+Cuando su sistema esté en funcionamiento, verá una pantalla vacía en la terminal de la computadora. Ajuste la posición de la antena parabólica hasta que registre uno o más comerciantes. Estos aparecerán en la pantalla con una calificación del 1 al 100%. Esta es la fuerza de su señal. Un comerciante solo puede ser convocado cuando la intensidad de la señal es superior al 95%. Una vez que se haya contactado con un comerciante, posteriormente le proporcionará un nombre. Diferentes comerciantes proporcionan diferentes categorías de artículos.
+¶
+{ENCABEZADO: Comerciantes} ¶
+¶
+Electrónica · TechTree Electronics¶
+Orgánicos · Organicon¶
+Básico · Conceptos básicos de Spes&apos;mall¶
+Hidráulico · HydrauliKit¶
+Mineral · MineRiteOres¶
+Microondas · Microondas¶
+Química · ChemLab¶
+Exóticos · ExoTech¶
+Pintura · Color Corp Paints¶
+Herramientas · Tool Corp¶
+Seguridad · Hall Corp Security¶
+Otros · Productos surtidos de Kolders¶
+Gas · GasTrade¶
+Personalizado · Spes&apos;mall¶
+ ·</Text>
+    </StationpediaPage>
+    <StationpediaPage>
       <Key>ConstructionPage</Key>
       <Title>Construcción</Title>
       <DisplayFilter>Guides</DisplayFilter>
@@ -62,6 +103,35 @@ Al construir, es importante tener en cuenta que la presión se mide como un dife
       <Key>ReagentPage</Key>
       <Title>Reactivos</Title>
       <Text>Se trata de cantidades químicas de ciertos tipos. {LIST_OF_REAGENTS}</Text>
+    </StationpediaPage>
+    <StationpediaPage>
+      <Key>MusicPage</Key>
+      <Title>Haciendo Musica</Title>
+      <DisplayFilter>Guides</DisplayFilter>
+      <Text>El &lt;color=#0080FFFF&gt;{LINK:ODA;ODA}&lt;/color&gt; no aprueba bandas sonoras u otras distracciones.
+Como tal, &lt;color=#0080FFFF&gt;{LINK:Stationeers;Stationeers}&lt;/color&gt; han tenido que crear su propio acompañamiento musical para la exigente labor de construir y mantener la infraestructura fuera del mundo.
+Un elemento central de este pasatiempo es el secuenciador por pasos, que permite a los Stationeers secuenciar patrones o bucles musicales cortos. 
+
+{HEADER:DIY MUSIC - GETTING STARTED} 
+
+1: Conecte 8 {THING:DeviceStepUnit}  a su secuenciador por pasos a través del puerto de datos en el lado izquierdo.
+
+2: Etiquete cada unidad de paso, luego asigne las unidades de paso 1 a 8 en el secuenciador de pasos usando el destornillador.
+
+3: Seleccione el altavoz de salida (por ejemplo, {THING:PassiveSpeaker}) donde el secuenciador reproducirá los sonidos. Esto debe estar conectado a la red lógica en el lado derecho del secuenciador.
+
+4: Coloque un {THING:StopWatch} y use un {THING:StructureLogicReader} y {THING:StructureLogicWriter} para escribir la hora en la variable de tiempo en el secuenciador.
+
+5: Configure el BPM en el secuenciador usando un {THING:StructureLogicDial} y un {THING:StructureLogicWriter} para escribir en la variable BPM del secuenciador. Un bpm más alto reproducirá la secuencia más rápido. 
+
+6: Inserte un cartucho de sonido de su elección y seleccione qué variante de sonido desea reproducir presionando los botones de flecha ubicados arriba y debajo de la ranura del cartucho de sonido.
+
+7: Elija el tono de los sonidos para reproducir ajustando el dial en cada una de sus unidades de 8 pasos a la nota deseada. Con la batería, cada nota es un sonido de batería diferente. Puede probar sus sonidos presionando el botón de activación en cada unidad de paso (con el secuenciador inactivo) .
+
+8: Vuélvete loco con {THING:DeviceLfoVolume} .
+
+9: Finalmente, active el secuenciador, Vibeoneer.
+ ·</Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>OrePage</Key>
