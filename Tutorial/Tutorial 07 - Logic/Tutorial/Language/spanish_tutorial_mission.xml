@@ -86,6 +86,14 @@ Por último, configure la variable de salida (OUT VAR) en &apos;On&apos;, de mod
     </Record>&gt;
 		
     <Record>
+      <Key>8LogicWritterLogic1</Key>
+      <Value>Establecer la variable de salida (OUT VAR) en &apos;On&apos;</Value>
+    </Record>
+    <Record>
+      <Key>8Narration6D</Key>
+      <Value>Ahora el lector de lógica y el escritor de lógica están programados, por lo que es seguro activarlos.</Value>
+    </Record>
+    <Record>
       <Key>8TurnOnReader</Key>
       <Value>Enciende el lector lógico.</Value>
     </Record>
@@ -94,8 +102,24 @@ Por último, configure la variable de salida (OUT VAR) en &apos;On&apos;, de mod
       <Value>Enciende el lector lógico.</Value>
     </Record>
     <Record>
+      <Key>8Narration7D</Key>
+      <Value>Excelente: ahora está listo para probar el circuito lógico. Intente encender la luz girando la palanca.</Value>
+    </Record>
+    <Record>
+      <Key>8TurnOnWallLight</Key>
+      <Value>Use la palanca para encender la luz</Value>
+    </Record>
+    <Record>
+      <Key>8Narration8D</Key>
+      <Value>Bien hecho, Cadete: has creado un circuito lógico básico. Ahora, configure un sistema para controlar varias luces a la vez. Comience conectando todas las luces de la sala a la red lógica.</Value>
+    </Record>
+    <Record>
       <Key>8ConstructCable2</Key>
       <Value>Completa la red de tuberias de oxígeno</Value>
+    </Record>
+    <Record>
+      <Key>8Narration9D</Key>
+      <Value>Para configurar este sistema, deberá ajustar los dispositivos lógicos. Apagarlos primero, o se confundiran.</Value>
     </Record>
     <Record>
       <Key>8TurnOffWriter</Key>
@@ -106,16 +130,101 @@ Por último, configure la variable de salida (OUT VAR) en &apos;On&apos;, de mod
       <Value>Enciende el lector lógico.</Value>
     </Record>
     <Record>
+      <Key>8Narration10D</Key>
+      <Value>Con el escritor de lógica apagado, puede restablecer la palanca sin lanzarse a una oscuridad aterradora.</Value>
+    </Record>
+    <Record>
+      <Key>8Closelever</Key>
+      <Value>Restablecer palanca lógica.</Value>
+    </Record>
+    <Record>
+      <Key>8Narration11D</Key>
+      <Value>Debe agregar un escritor por lotes a la red. Los escritores por lotes son como los escritores lógicos, excepto que pueden escribir en múltiples dispositivos. </Value>
+    </Record>
+    <Record>
       <Key>8ConstructBatchWriter</Key>
       <Value>Coloque la tubería en la posición resaltada</Value>
+    </Record>
+    <Record>
+      <Key>8Narration12D</Key>
+      <Value>Busque en las salidas del escritor por lotes &apos;Luz de pared&apos;. Esto hará que escriba en cada luz de pared en la red.</Value>
+    </Record>
+    <Record>
+      <Key>8BatchWriterOutput</Key>
+      <Value>Establezca la salida del escritor por lotes (OUT TYPE) en &apos;Luz de pared&apos;</Value>
+    </Record>
+    <Record>
+      <Key>8Narration13D</Key>
+      <Value>Ahora establezca la entrada del escritor por lotes (IN) en &apos;lector lógico&apos;. A continuación, establezca la variable en la que escribe (OUT VAR) en la luz como &apos;On&apos;.</Value>
+    </Record>
+    <Record>
+      <Key>8BatchWriterInput</Key>
+      <Value>Establecer la entrada del escritor por lotes (IN) en &apos;Lector lógico&apos;</Value>
+    </Record>
+    <Record>
+      <Key>8BatchWriterLogicType</Key>
+      <Value>Establezca la variable de salida (OUT VAR) en &apos;On&apos;. </Value>
+    </Record>
+    <Record>
+      <Key>8Narration14D</Key>
+      <Value>El escritor por lotes ahora está programado. Así que estás listo para encenderlo, así como el lector de lógica.</Value>
     </Record>
     <Record>
       <Key>8TurnOnBatchWriter</Key>
       <Value>Enciende la batería</Value>
     </Record>
     <Record>
+      <Key>8Narration15D</Key>
+      <Value>Bien, probemos todo el sistema ahora: ¡tire la palanca y deje que haya luz!</Value>
+    </Record>
+    <Record>
+      <Key>8TurnOnWallLight</Key>
+      <Value>Use la palanca para encender la luz</Value>
+    </Record>
+    <Record>
+      <Key>8Narration16D</Key>
+      <Value>Gran trabajo, Cadete: has dominado la lógica básica. Pero para transmitir sus resultados, debe salir de esta habitación. ¡Las puertas están cerradas! Usa la lógica para arreglar eso. 
+Primero, apague las unidades lógicas.</Value>
+    </Record>
+    <Record>
       <Key>8TurnOffBatchWriter</Key>
       <Value>Enciende la batería</Value>
+    </Record>
+    <Record>
+      <Key>8Narration17D</Key>
+      <Value>Ahora puede restablecer la palanca lógica sin apagar las luces.</Value>
+    </Record>
+    <Record>
+      <Key>8Closelever</Key>
+      <Value>Restablecer palanca lógica.</Value>
+    </Record>
+    <Record>
+      <Key>8Narration18D</Key>
+      <Value>Programar la puerta es sencillo. Ya está conectado a la red, así que simplemente configure el escritor lógico original para que se genere en &apos;Puerta de vidrio&apos; y escriba en la variable &apos;Abrir&apos; de la puerta.</Value>
+    </Record>
+    <Record>
+      <Key>8BatchWriterOutput2</Key>
+      <Value>Establezca la salida del escritor lógico (OUT) en &apos;Puerta de cristal&apos;</Value>
+    </Record>
+    <Record>
+      <Key>8BatchWriterLogicType2</Key>
+      <Value>Establecer la variable de escritor lógico (OUT VAR) en &apos;Abrir&apos;</Value>
+    </Record>
+    <Record>
+      <Key>8Narration19D</Key>
+      <Value>Ahora abre la puerta usando la palanca lógica.</Value>
+    </Record>
+    <Record>
+      <Key>8OpenDoor</Key>
+      <Value>Utilice la palanca lógica para abrir la puerta</Value>
+    </Record>
+    <Record>
+      <Key>8Narration20D</Key>
+      <Value>Excelente, Cadete. Ahora tiene el conocimiento y las habilidades para crear circuitos lógicos básicos. Toma tu nueva sabiduría y experimenta con otros dispositivos, sistemas y redes. Hay un universo de posibilidades por ahí. Presione el botón azul importante para transmitir sus resultados a la ODA.</Value>
+    </Record>
+    <Record>
+      <Key>TutoiralLogicCompleteTutorial</Key>
+      <Value>Esto confirma que el titular acreditado de este certificado NFT ha demostrado habilidades y conocimientos adecuados de sistemas lógicos básicos.</Value>
     </Record>
   </Interface>
 </Language>
