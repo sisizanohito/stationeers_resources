@@ -5034,7 +5034,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureUnpoweredHatch</Key>
-      <Value/>
+      <Value>Estructura de la escotilla sin alimentación</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPowerTransmitterOmni</Key>
@@ -5718,15 +5718,15 @@
     </Record>
     <Record>
       <Key>Button15</Key>
-      <Value>Botón1</Value>
+      <Value>Botón 15</Value>
     </Record>
     <Record>
       <Key>Button16</Key>
-      <Value>Botón1</Value>
+      <Value>Botón 16</Value>
     </Record>
     <Record>
       <Key>Button17</Key>
-      <Value>Botón1</Value>
+      <Value>Botón 17</Value>
     </Record>
   </Interactables>
   <Interface>
@@ -6448,7 +6448,8 @@
     </Record>
     <Record>
       <Key>TutorialCompleteMessage</Key>
-      <Value>Sigue quedando mucho por aprender.
+      <Value>
+Sigue quedando mucho por aprender.
 ¡Sobretodo ahí fuera, Stationeers!</Value>
     </Record>
     <Record>
@@ -6469,7 +6470,8 @@
     </Record>
     <Record>
       <Key>MulticonstructorItem</Key>
-      <Value>&lt;color=yellow&gt;Opción de construcción {0} de {1}&lt;/color&gt;
+      <Value>
+&lt;color=yellow&gt;Opción de construcción {0} de {1}&lt;/color&gt;
 Scroll &lt;color=red&gt;Rueda de ratón&lt;/color&gt; para más opciones.</Value>
     </Record>
     <Record>
@@ -6730,8 +6732,9 @@ Scroll &lt;color=red&gt;Rueda de ratón&lt;/color&gt; para más opciones.</Value
     </Record>
     <Record>
       <Key>AlertNoResponse</Key>
-      <Value>No hay respuesta del servidor de juegos. 
-Inténtalo de nuevo.</Value>
+      <Value>
+No hay respuesta del servidor de juegos. 
+Por Favor Inténtalo de nuevo.</Value>
     </Record>
     <Record>
       <Key>AlertKicked</Key>
@@ -9825,7 +9828,7 @@ Reclutando personas con experiencia en ingeniería civil, industrias militares y
     </Record>
     <Record>
       <Key>CrowbarToFlip</Key>
-      <Value>Dar la vuelta usando la Palanca.</Value>
+      <Value>Dar la vuelta usando la Palanca</Value>
     </Record>
     <Record>
       <Key>TimerPanel</Key>
@@ -9837,15 +9840,15 @@ Reclutando personas con experiencia en ingeniería civil, industrias militares y
     </Record>
     <Record>
       <Key>Volume</Key>
-      <Value>Volumen Principal</Value>
+      <Value>Volumen</Value>
     </Record>
     <Record>
       <Key>Release</Key>
-      <Value>Fallecido</Value>
+      <Value>Liberado</Value>
     </Record>
     <Record>
       <Key>NoSoundCartridge</Key>
-      <Value>Cartuchos</Value>
+      <Value>No hay Cartucho de Sonido</Value>
     </Record>
     <Record>
       <Key>StationpediaMaxPressure</Key>
@@ -9853,11 +9856,11 @@ Reclutando personas con experiencia en ingeniería civil, industrias militares y
     </Record>
     <Record>
       <Key>StationpediaNutrition</Key>
-      <Value>Nutrición</Value>
+      <Value>Nutrición:</Value>
     </Record>
     <Record>
       <Key>SettingsSmoothTerrain</Key>
-      <Value>Terreno</Value>
+      <Value>Terreno Liso</Value>
     </Record>
   </Interface>
   <Colors>
