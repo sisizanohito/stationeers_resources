@@ -309,8 +309,16 @@ Obtenga volatiles en forma de hielo del cinturón de minería en la caja, luego 
       <Value>Apaga la tablet después de hacer el escaneo</Value>
     </Record>
     <Record>
+      <Key>7Narration18DTablet</Key>
+      <Value>Excelente. Mientras el recipiente se está llenando, use su tableta para verificar que el oxígeno esté ingresando a la tubería. Deberá insertar el analizador Atmos y, a continuación, sostener la tableta sobre la tubería.</Value>
+    </Record>
+    <Record>
       <Key>7ActiveVentInward</Key>
       <Value>Sala de Hidroponia: Ajusta la ventilación activa a &apos;inward&apos; (interior)</Value>
+    </Record>
+    <Record>
+      <Key>GasMixingCompleteTutorial</Key>
+      <Value>La ODA reconoce que el portador de este certificado posee un nivel de competencia fundamental en las disciplinas de mezcla y filtración de gases.</Value>
     </Record>
   </Interface>
 </Language>

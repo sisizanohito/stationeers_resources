@@ -7,12 +7,30 @@
       <Value>Logica</Value>
     </Record>
     <Record>
+      <Key>TutoiralLogicDescription</Key>
+      <!--This is the description that appers in the menu-->
+      <Value>Mejore su comprensión de los sistemas lógicos básicos.</Value>
+    </Record>
+    <Record>
       <Key>TutoiralLogicSubTitle</Key>
       <Value>Entrenamiento práctico: Fase III</Value>
     </Record>
     <Record>
+      <Key>IntoTutoiralLogicDescription</Key>
+      <Value>Bienvenido de nuevo, Cadete. El Commando Stationeer quiere poner a prueba su comprensión de los circuitos lógicos básicos.
+Demuestre sus habilidades diseñando un sistema de control de iluminación.</Value>
+    </Record>
+    <Record>
+      <Key>8Narration0D</Key>
+      <Value>Como la mayoría de los sistemas lógicos en la galaxia, los dispositivos Stationeers usan dos valores: 0 y 1, para establecer estados como &apos;encendido / apagado&apos;, &apos;abrir / cerrar&apos; y &apos;bloquear / desbloquear&apos;. Hoy en día, utilizará sistemas lógicos para controlar un sistema de iluminación. Comience colocando un interruptor de luz. Utilice la palanca del Kit (Interruptor Lógico).</Value>
+    </Record>
+    <Record>
       <Key>8ConstructLever</Key>
       <Value>Coloca la válvula en la posición resaltada</Value>
+    </Record>
+    <Record>
+      <Key>8Narration1D</Key>
+      <Value>La mayoría de los dispositivos ODA tienen dos puertos: alimentación y datos. Los puertos de datos transmiten información sobre el estado actual de un dispositivo, utilizando la misma red que la energía. Así que conecte su palanca a la red de cables.</Value>
     </Record>
     <Record>
       <Key>8ConstructCable</Key>
@@ -23,12 +41,48 @@
       <Value>Completa la red de tuberias de oxígeno</Value>
     </Record>
     <Record>
+      <Key>8Narration2D</Key>
+      <Value>Como su nombre indica, un lector lógico es la forma en que se leen los valores lógicos de los dispositivos.
+Para leer los datos de la palanca, coloque un lector lógico en la posición resaltada. Tenga en cuenta que la lógica fluye en una sola dirección.</Value>
+    </Record>
+    <Record>
       <Key>8ConstructReader</Key>
       <Value>Coloque la tubería en la posición resaltada</Value>
     </Record>
     <Record>
+      <Key>8Narration3D</Key>
+      <Value>Un escritor lógico es diferente. Recibe datos del lector lógico, luego escribe esos datos en un dispositivo determinado, una luz, en este caso.</Value>
+    </Record>
+    <Record>
       <Key>8ConstructWriter</Key>
       <Value>Coloque la tubería en la posición resaltada</Value>
+    </Record>
+    <Record>
+      <Key>8Narration4D</Key>
+      <Value>Ahora es el momento de programar estos dispositivos lógicos. Comience con el lector de lógica.
+Utilice un destornillador para configurar la entrada (IN) en &apos;Palanca&apos;. Luego configure la variable (VAR) que leerá en &apos;Abrir&apos;.</Value>
+    </Record>
+    <Record>
+      <Key>8LogicReaderLogicInput1</Key>
+      <Value>Establezca la entrada del lector lógico (IN) en &apos;Palanca&apos;</Value>
+    </Record>
+    <Record>
+      <Key>8LogicReaderLogic1</Key>
+      <Value>Establecer la variable de lector lógico (VAR) en &apos;Abrir&apos;</Value>
+    </Record>
+    <Record>
+      <Key>8Narration5D</Key>
+      <Value>Ahora programe el escritor de lógica. 
+Establezca la entrada del escritor (IN) en &apos;Lector lógico&apos; y su salida (OUT) en &apos;Luz de pared&apos;. 
+Por último, configure la variable de salida (OUT VAR) en &apos;On&apos;, de modo que alterne la variable de encendido / apagado de la luz.</Value>
+    </Record>
+    <Record>
+      <Key>8LogicWritterInput1</Key>
+      <Value>Establecer la entrada del escritor lógico (IN) en &apos;Lector lógico&apos;</Value>
+    </Record>
+    <Record>
+      <Key>LogicWritterOutput1</Key>
+      <Value>Establezca la salida del escritor lógico (OUT) en &apos;Luz de pared&apos;</Value>
     </Record>&gt;
 		
     <Record>

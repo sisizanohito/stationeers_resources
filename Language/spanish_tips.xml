@@ -9,9 +9,12 @@
     <String>Pulsar {KEY:ToggleUI} para activar o desactivar la Interfaz de usuario y obtener increíbles capturas de pantalla o vídeo.</String>
     <String>Presionar {KEY:Ascend} te hará ascender si tu  {THING:ItemSpacepack} está encendido, de lo contrario tu personaje intentará saltar. Puede activar o desactivar la {THING:ItemSpacepack} o usando la tecla {KEY:Jetpack} .</String>
     <String>Presionar {KEY:Descend} te hará descender si tu {THING:ItemSpacepack} está encendido. Puede activar o desactivar {THING:ItemSpacepack} encendido o apagado usando la tecla {KEY:Jetpack} .</String>
+    <String>Al presionar {KEY:Drop} se deja caer lo que esté en tu mano. Mantener presionado {KEY:Drop} lo arroja. Aguanta más tiempo para lanzar más.</String>
     <String>Si pulsa y suelta la tecla {KEY:Drop} lo soltará al momento lo que tenga en sus manos. Si mantiene pulsada la tecla {KEY:Drop} tratará de lanzarla. Cuanto más tiempo lo sostengas, más lejos lanzarás.</String>
     <String>Pulsar {KEY:Internals} para abrir o cerrar rápidamente su {THING:ItemSpaceHelmet}.</String>
+    <String>Pulsa {KEY:Chatting} para empezar a chatear con otros jugadores.</String>
     <String>Pulsar {KEY:Chatting} para empezar a chatear con otros jugadores. Aparecerá un pequeño cuadro en la parte inferior derecha de la pantalla con el texto que escriba antes de enviarlo.</String>
+    <String>El espacio no está tan vacío como parece.</String>
     <String>¿Quieres saber cómo hacer algo? Inserta un {THING:CartridgeElectronicReader} en un {THING:ItemTablet} y enciéndelo con la tecla {KEY:ToggleHandPower} mientras está en tu mano activalo.</String>
     <String>Coloque una {THING:MotherboardLogic} en un {THING:StructureComputer} para habilitar la lógica con un chip IC. Podrá agregar condiciones y acciones que controlen los estados de los dispositivos en la misma red de datos.</String>
     <String>Al modificar la cantidad de algo a través de un botón en el mundo, mantenga pulsada {KEY:QuantityModifier} mientras hace clic para usar incrementos más pequeños.</String>

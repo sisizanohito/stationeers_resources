@@ -1212,6 +1212,10 @@
       <Value>Manufactura</Value>
     </RecordThing>
     <RecordThing>
+      <Key>MotherboardSorter</Key>
+      <Value>Placa base clasificador</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>MothershipCore</Key>
       <Value>Núcleo Nave Nodriza</Value>
     </RecordThing>
