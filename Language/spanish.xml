@@ -5375,6 +5375,30 @@
       <Value>Crea un {THING:StructureRocketModuleSilo}.</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureStirlingEngine</Key>
+      <Value>Motor Stirling</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePowerTransmitter</Key>
+      <Value>Transmisor de Energia de microondas</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePowerTransmitterReceiver</Key>
+      <Value>Receptor de energía de microondas</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureOverheadShortCornerLocker</Key>
+      <Value>Taquilla de esquina superior</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureOverheadShortLocker</Key>
+      <Value>Taquilla aérea</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureShortCornerLocker</Key>
+      <Value>Taquilla de esquina corta</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureShortLocker</Key>
       <Value/>
     </RecordThing>
@@ -5383,8 +5407,32 @@
       <Value/>
     </RecordThing>
     <RecordThing>
+      <Key>ItemPlantEndothermic_Creative</Key>
+      <Value>Planta Endotérmica Creativa</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemPlantThermogenic_Creative</Key>
+      <Value>Planta Termogénica Creativa</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitPowerTransmitter</Key>
       <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureInteriorDoorTriangle</Key>
+      <Value>Triángulo interior de la puerta</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureInteriorDoorPaddedThin</Key>
+      <Value>Puerta interior acolchada delgada</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureInteriorDoorPadded</Key>
+      <Value>Puerta interior acolchada</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureInteriorDoorGlass</Key>
+      <Value>Cristal interior de la puerta</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitInteriorDoors</Key>
@@ -5395,8 +5443,24 @@
       <Value>Estructura de la escotilla sin alimentación</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureManualHatch</Key>
+      <Value>Escotilla manual</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitPowerTransmitterOmni</Key>
       <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePowerTransmitterOmni</Key>
+      <Value>Transmisor de potencia de estructura Omni</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>Battery_Wireless_cell</Key>
+      <Value>Batería de celdas Inhalámbricas</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>Battery_Wireless_cell_Big</Key>
+      <Value>Batería de celdas Inhalámbricas Grande</Value>
     </RecordThing>
   </Things>
   <Slots>
