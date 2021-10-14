@@ -5359,6 +5359,14 @@
       <Value>Bioprocesador Atmosférico Winterspawn (Variante Alpha)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemPlantEndothermic_Genepool2</Key>
+      <Value>Bioprocesador atmosférico Winterspawn (variante Beta)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemPlantThermogenic_Genepool1</Key>
+      <Value>Flor de Hades (cepa Alpha)</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitStirlingEngine</Key>
       <Value>Crea un {THING:StructureRocketModuleSilo}.</Value>
     </RecordThing>
