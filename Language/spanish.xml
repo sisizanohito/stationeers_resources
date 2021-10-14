@@ -4907,6 +4907,22 @@
       <Value>Este kit produce un {THING:StructureAirConditioner}, {THING:StructureElectrolyzer}, {THING:StructureFiltration} o {THING:H2Combustor}.</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureHeatExchangerLiquidtoLiquid</Key>
+      <Value>Intercambiador de calor - Líquido</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureHeatExchangerGastoGas</Key>
+      <Value>Intercambiador de calor - Gas</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureHeatExchangeLiquidtoGas</Key>
+      <Value>Intercambiador de calor - Líquido + Gas</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureHeatExchangeLiquidAndGas</Key>
+      <Value>Intercambiador de calor Líquido y Gas</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitHangerDoor</Key>
       <Value/>
     </RecordThing>
