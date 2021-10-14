@@ -9863,20 +9863,63 @@ Reclutando personas con experiencia en ingeniería civil, industrias militares y
       <Value>Volumen</Value>
     </Record>
     <Record>
+      <Key>Attack</Key>
+      <Value>Ataque</Value>
+    </Record>
+    <Record>
       <Key>Release</Key>
       <Value>Liberado</Value>
+    </Record>
+    <Record>
+      <Key>CurrentInstrument</Key>
+      <Value>Instrumento actual</Value>
     </Record>
     <Record>
       <Key>NoSoundCartridge</Key>
       <Value>No hay Cartucho de Sonido</Value>
     </Record>
     <Record>
+      <Key>NoNote</Key>
+      <Value>Sin Notas</Value>
+    </Record>
+    <Record>
+      <Key>Intensity</Key>
+      <Value>Intensidad</Value>
+    </Record>
+    <Record>
+      <Key>Waveform</Key>
+      <Value>Forma de onda</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaBasePowerUsage</Key>
+      <Value>Uso de Energia de la Base:</Value>
+    </Record>
+    <Record>
       <Key>StationpediaMaxPressure</Key>
       <Value>Presión Máxima:</Value>
     </Record>
     <Record>
+      <Key>StationpediaVolume</Key>
+      <Value>Volumen:</Value>
+    </Record>
+    <Record>
       <Key>StationpediaNutrition</Key>
       <Value>Nutrición:</Value>
+    </Record>
+    <Record>
+      <Key>MoleOxygenDescription</Key>
+      <Value>El oxígeno proporciona energía cuando se libera en la combustión y también se une al hidrógeno para crear agua. Es creado por las&lt;color=#0080FFFF&gt;{LINK:OrganicPage;plants}&lt;/color&gt;, así como a partir del procesamiento de {THING:ItemOxite}. Es altamente inflamable incluso a bajas temperaturas.</Value>
+    </Record>
+    <Record>
+      <Key>MoleNitrogenDescription</Key>
+      <Value>El nitrógeno se puede mezclar con oxígeno para estabilizar su inflamabilidad y es un recurso por derecho propio, útil para crear una atmósfera respirable (aproximadamente 3 a 1 de nitrógeno y oxígeno).</Value>
+    </Record>
+    <Record>
+      <Key>MoleCarbonDioxideDescription</Key>
+      <Value>Lo exhalas, &lt;color=#0080FFFF&gt;{LINK:OrganicPage;plants}&lt;/color&gt; lo inhalas. Pero no crecen sin él.
+  · 
+El dióxido de carbono tiene un calor específico moderadamente alto, lo que significa que es un buen refrigerante para dispositivos como Wall Cooler
+{THING:StructureWallCooler}. El agua es mejor, pero por lo general tiene usos más importantes.</Value>
     </Record>
     <Record>
       <Key>MoleVolatilesDescription</Key>
