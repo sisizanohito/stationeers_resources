@@ -453,6 +453,43 @@ Comer ingredientes crudos satisfará menos el hambre que las comidas, es decir, 
 Su tasa de hambre se puede configurar en el menú de configuración principal ajustando el control deslizante Tasa de hambre / hidratación en la configuración. Tenga en cuenta que el control deslizante del hambre también gobierna su {LINK:HydrationPage;Thirst}.</Text>
     </StationpediaPage>
     <StationpediaPage>
+      <Key>FarmingPage</Key>
+      <Title>Cultivo de alimentos</Title>
+      <DisplayFilter>Guides</DisplayFilter>
+      <Text>Para sobrevivir en mundos alienígenas, el &lt;color=#0080FFFF&gt;{LINK:ODA;ODA} espera que todos los &lt;color=#0080FFFF&gt;{LINK:Stationeers; Stationeers}&lt;/color&gt; configuren los sistemas viables &lt;color=#0080FFFF&gt;{LINK:OrganicPage;hydroponic}, o se pongan en contacto con el recurso local registrado {LINK:TradingPage;traders}.
+
+{HEADER:SETTING UP}
+
+Al configurar su sistema hidropónico, necesitará &lt;color=#0080FFFF&gt;{LINK:OrganicPage;seeds}&lt;/color&gt;. Alternativamente, puede plantar la comida en sí.
+
+El equipo hidropónico Común del buen Stationeer incluye:
+
+- {THING:DynamicHydroponics}
+- {THING:ItemHydroponicTray}
+- {THING:ItemKitHydroponicStation}
+- {THING:StructureHarvie}
+
+Todos los sistemas hidropónicos requieren agua, luz solar y la mezcla de gases correcta: las plantas requieren CO2 y producen oxígeno (excepto el {THING:ItemAlienMushroom}). Las plantas no crecerán en la atmósfera equivocada. Si las plantas no tienen suficiente luz, tendrás que construir un {THING:StructureGrowLight}.
+
+Su sistema dependerá de los recursos y el tiempo disponibles, pero un sistema de cultivo bien diseñado puede automatizarse casi por completo dado el tiempo y los recursos suficientes.
+
+{HEADER:HARVESTING}
+
+La mayoría de las plantas tienen varias etapas de crecimiento. Las primeras etapas son la planta que crece a través de su ciclo de vida. Durante la tercera fase, se pueden cosechar semillas de la planta. En la cuarta fase, la planta dará frutos. Después de eso, a menos que se despeje, la planta morirá.
+
+{HEADER:FERTILIZER}
+
+El fertilizante altera los procesos de crecimiento de las plantas, y es creado por el {THING:PortableComposter} y el {THING:StructureAdvancedComposter} usando materia &lt;color=#0080FFFF&gt;{LINK:OrganicPage;organic}.
+
+Los efectos de los fertilizantes dependen de sus ingredientes:
+
+- &lt;color=#0080FFFF&gt;{LINK:OrganicPage;Food}&lt;/color&gt; aumenta el RENDIMIENTO DE PLANTAS individuales en hasta 3 artículos
+- {THING:DecayedFood} aumenta la VELOCIDAD DE CRECIMIENTO de la planta hasta 3 veces
+- {THING:ItemBiomass} aumenta el NÚMERO DE CICLOS DE CRECIMIENTO que dura el fertilizante a un máximo de 5
+
+El efecto de estos ingredientes depende de sus respectivas proporciones en el compostador cuando se activa el procesamiento. El fertilizante se produce en una proporción de 1: 3 de fertilizante a ingredientes. Al procesar, {THING:Nitrogen} y {THING:Volatiles} se liberan, así como una pequeña cantidad de calor.</Text>
+    </StationpediaPage>
+    <StationpediaPage>
       <Key>DecayPage</Key>
       <Title>Descomposición de alimentos</Title>
       <DisplayFilter>Guides</DisplayFilter>
