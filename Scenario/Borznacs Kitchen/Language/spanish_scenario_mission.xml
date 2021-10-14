@@ -83,5 +83,35 @@ Te han obligado a trabajar como su nuevo chef personal. Aún no sabes qué le pa
       <Value>Tengo hambre, así que prepárame unas patatas al horno. Pero recuerda, solo puedes cocinar uno a la vez.
 Cuando estén listas, entrégamelas por la rampa. No me defraudes. Mi último chef fue lento y estúpido. Las cosas no le salieron bien...</Value>
     </Record>
+    <Record>
+      <Key>BorznacsNarration1D</Key>
+      <Value>Eso fue apenas fue adecuado. Quiero algo con un poco mas de SABOR. Exijo patatas fritas! ¿Seguro que recuerdas cómo cocinarlas?</Value>
+    </Record>
+    <Record>
+      <Key>BorznacsNarration2D</Key>
+      <Value>Mmmmm ... eso estuvo mejor. Ahora quiero un postre dulce. Hazme unos muffins o experimenta mi ira.</Value>
+    </Record>
+    <Record>
+      <Key>BorznacsNarration3D</Key>
+      <Value>Ah, toda esa dulzura me ha puesto de mal humor. Sí, creo que un poco de pan me sentará bien.</Value>
+    </Record>
+    <Record>
+      <Key>BorznacsNarration4D</Key>
+      <Value>Toda esta comida me ha dejado la boca un poco reseca. Necesito una bebida. Un poco de leche fresca será perfecta. ¡Hazlo ya!</Value>
+    </Record>
+    <Record>
+      <Key>BorznacsNarration5D</Key>
+      <Value>Ah, lo has hecho mucho mejor que tu predecesor. Ahora, algo clásico. Un pastel de calabaza es lo que necesito. Hazme uno de inmediato. Abrí un paracaídas en la sala de recursos. Puede usar cualquier cosa que haya dejado el último chef.</Value>
+    </Record>
+    <Record>
+      <Key>BorznacsNarration6D</Key>
+      <Value>Excelente. A diferencia del imbécil de tu precursor, es posible que tengas lo que se necesita para servirme. Un día, incluso podría considerar darte libertad. Quizás. Pero ahora estoy listo para la CENA. Complete una comida de tres platos o sufrirás consecuencias indescriptibles.</Value>
+    </Record>
+    <Record>
+      <Key>BorznacWinEnd</Key>
+      <Value>Has demostrado ser un sirviente indispensable de Borznac.
+
+Felicidades.</Value>
+    </Record>
   </Interface>
 </Language>
