@@ -5091,8 +5091,36 @@
       <Value>Setas enlatadas</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemPowderedeggs</Key>
+      <Value>Huevos en polvo</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemPoweredEggs</Key>
       <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemFrenchFries</Key>
+      <Value>Patatas fritas enlatadas</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCannedRicePudding</Key>
+      <Value>Arroz con leche enlatado</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCannedCondensedMilk</Key>
+      <Value>Leche condensada enlatada</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCannedEdamame</Key>
+      <Value>Frijoles Edamame enlatados</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCannedPowderedEggs</Key>
+      <Value>Huevos en polvo enlatados</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureAdvancedPackagingMachine</Key>
+      <Value>Máquina de embalaje avanzada</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAdvancedPackagingMachine</Key>
