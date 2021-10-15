@@ -127,7 +127,7 @@ Por último, configure la variable de salida (OUT VAR) en &apos;On&apos;, de mod
     </Record>
     <Record>
       <Key>8TurnOffReader</Key>
-      <Value>Enciende el lector lógico.</Value>
+      <Value>Desactivar el lector lógico</Value>
     </Record>
     <Record>
       <Key>8Narration10D</Key>
@@ -143,7 +143,7 @@ Por último, configure la variable de salida (OUT VAR) en &apos;On&apos;, de mod
     </Record>
     <Record>
       <Key>8ConstructBatchWriter</Key>
-      <Value>Coloque la tubería en la posición resaltada</Value>
+      <Value>Coloque el escritor de lotes en posición resaltada</Value>
     </Record>
     <Record>
       <Key>8Narration12D</Key>
@@ -171,7 +171,7 @@ Por último, configure la variable de salida (OUT VAR) en &apos;On&apos;, de mod
     </Record>
     <Record>
       <Key>8TurnOnBatchWriter</Key>
-      <Value>Enciende la batería</Value>
+      <Value>Enciende el escritor por lotes</Value>
     </Record>
     <Record>
       <Key>8Narration15D</Key>
@@ -188,7 +188,7 @@ Primero, apague las unidades lógicas.</Value>
     </Record>
     <Record>
       <Key>8TurnOffBatchWriter</Key>
-      <Value>Enciende la batería</Value>
+      <Value>Desactivar el escritor por lotes</Value>
     </Record>
     <Record>
       <Key>8Narration17D</Key>

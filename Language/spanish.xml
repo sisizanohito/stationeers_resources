@@ -10258,7 +10258,8 @@ Reclutando personas con experiencia en ingeniería civil, industrias militares y
     </Record>
     <Record>
       <Key>StationpediaConstructionOptions</Key>
-      <Value>Opciones de construcción</Value>
+      <Value>
+        Opciones de Construcción</Value>
     </Record>
     <Record>
       <Key>StationpediaModeHeader</Key>
@@ -10271,7 +10272,8 @@ Reclutando personas con experiencia en ingeniería civil, industrias militares y
     </Record>
     <Record>
       <Key>StationpediaLogicSlotHeader</Key>
-      <Value>Ranuras Lógicas</Value>
+      <Value>
+        Ranuras Lógicas</Value>
     </Record>
     <Record>
       <Key>StationpediaTutorialListHeader</Key>
