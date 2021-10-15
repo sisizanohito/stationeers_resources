@@ -723,35 +723,35 @@
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterAir</Key>
-      <Value>携帯タンク (空気)</Value>
+      <Value>携帯気体タンク (空気)</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterCarbonDioxide</Key>
-      <Value>携帯タンク (二酸化炭素)</Value>
+      <Value>携帯気体タンク (二酸化炭素)</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterEmpty</Key>
-      <Value>携帯タンク</Value>
+      <Value>携帯気体タンク</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterFuel</Key>
-      <Value>携帯タンク (燃料)</Value>
+      <Value>携帯気体タンク (燃料)</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterNitrogen</Key>
-      <Value>携帯タンク (窒素)</Value>
+      <Value>携帯気体タンク (窒素)</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterOxygen</Key>
-      <Value>携帯タンク (酸素)</Value>
+      <Value>携帯気体タンク (酸素)</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterVolatiles</Key>
-      <Value>携帯タンク (ボラタイル)</Value>
+      <Value>携帯気体タンク (ボラタイル)</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterWater</Key>
-      <Value>携帯タンク (水)</Value>
+      <Value>携帯液体タンク (水)</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicLiquidCanisterEmpty</Key>
@@ -963,7 +963,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemGasCanisterWater</Key>
-      <Value>キャニスター(水)</Value>
+      <Value>液体キャニスター (水)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemLiquidCanisterEmpty</Key>
@@ -1251,7 +1251,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemLiquidPipeValve</Key>
-      <Value>キット (パイプ弁)</Value>
+      <Value>キット (液体パイプ弁)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemPowerConnector</Key>
@@ -1371,7 +1371,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemTankConnectorLiquid</Key>
-      <Value>キット (タンクコネクター)</Value>
+      <Value>キット (液体タンクコネクター)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemToolBelt</Key>
@@ -1843,7 +1843,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidValve</Key>
-      <Value>液体バルブ</Value>
+      <Value>液体弁</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallCooler</Key>
@@ -5045,6 +5045,14 @@
     <Record>
       <Key>OrganicsCategory</Key>
       <Value>有機物</Value>
+    </Record>
+    <Record>
+      <Key>PersonalClothing</Key>
+      <Value>衣服</Value>
+    </Record>
+    <Record>
+      <Key>OreHeader</Key>
+      <Value>鉱石</Value>
     </Record>
     <Record>
       <Key>GasesHeader</Key>
