@@ -445,15 +445,15 @@
     </RecordThing>
     <RecordThing>
       <Key>CartridgeAtmosAnalyser</Key>
-      <Value>Analizador Atmósfera</Value>
+      <Value>Analizador Atmósferas</Value>
     </RecordThing>
     <RecordThing>
       <Key>CartridgeMedicalAnalyser</Key>
-      <Value>Análisis Médico</Value>
+      <Value>Analizador Médico</Value>
     </RecordThing>
     <RecordThing>
       <Key>CartridgeNetworkAnalyser</Key>
-      <Value>Analizador de Red</Value>
+      <Value>Analizador de Redes</Value>
     </RecordThing>
     <RecordThing>
       <Key>Character</Key>
@@ -989,7 +989,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemPipeAnalyizer</Key>
-      <Value>Analizador de Tuberías</Value>
+      <Value>Kit (Analizador de tuberías)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemPipeCorner</Key>
@@ -1205,11 +1205,11 @@
     </RecordThing>
     <RecordThing>
       <Key>MotherboardLogic</Key>
-      <Value>Lógica</Value>
+      <Value>Placa base lógica</Value>
     </RecordThing>
     <RecordThing>
       <Key>MotherboardManufacturing</Key>
-      <Value>Manufactura</Value>
+      <Value>Placa base de fabricación</Value>
     </RecordThing>
     <RecordThing>
       <Key>MotherboardSorter</Key>
@@ -1265,7 +1265,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureBattery</Key>
-      <Value>Batería</Value>
+      <Value>Batería de la estación</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureBatteryCharger</Key>
@@ -1505,7 +1505,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeAnalysizer</Key>
-      <Value>Analizador de Tuberías</Value>
+      <Value>Analizador de tuberías</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeCorner</Key>
@@ -3061,7 +3061,7 @@
     </RecordThing>
     <RecordThing>
       <Key>MotherboardProgrammableChip</Key>
-      <Value>Editor de IC</Value>
+      <Value>Placa base Editor de IC</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLogicCircuit</Key>
@@ -3149,7 +3149,7 @@
     </RecordThing>
     <RecordThing>
       <Key>MotherboardComms</Key>
-      <Value>Comunicaciones</Value>
+      <Value>Placa base de comunicaciones</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemMarineBodyArmor</Key>
@@ -3517,11 +3517,11 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureAutoMinerSmall</Key>
-      <Value>Taladro Automático Pequeño</Value>
+      <Value>Autominador (Pequeño)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAutoMinerSmall</Key>
-      <Value>Kit Excavadora Automática Pequeña</Value>
+      <Value>Kit (Autominador pequeño)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemDirtCannister</Key>
