@@ -2,11 +2,11 @@
   <Code>ES</Code>
   <GameTip>
     <String>Pulsar {KEY:HelmetSlot}, {KEY:SuitSlot}, {KEY:BackSlot}, {KEY:UniformSlot}, o {KEY:ToolBeltSlot} para alternar entre las interacciones y las ranuras en cualquier artículo de ranura que esté usando. Pulsar y mantener para intercambiar entre esa ranura y sus mano activa.</String>
-    <String>Pulsar {KEY:ToggleHandPower} para encender o apagar rápidamente lo que estás sosteniendo en su mano.</String>
-    <String>Pulsar {KEY:ToggleLight} para activar o desactivar rápidamente las luces {THING:ItemSpaceHelmet}.</String>
+    <String>Pulsar {KEY:ToggleHandPower} para encender o apagar los objetos de su mano.</String>
+    <String>Pulsar {KEY:ToggleLight} para activar o desactivar las luces del casco {THING:ItemSpaceHelmet}.</String>
     <String>Pulsar {KEY:EmoteWave} para hacer que tu personaje salude en otras estaciones.</String>
-    <String>Pulsar {KEY:Jetpack} para activar o desactivar rápidamente su propulsión {THING:ItemSpacepack}.</String>
-    <String>Pulsar {KEY:ToggleUI} para activar o desactivar la Interfaz de usuario y obtener increíbles capturas de pantalla o vídeo.</String>
+    <String>Pulsar {KEY:Jetpack} para activar o desactivar la propulsión del traje {THING:ItemSpacepack}.</String>
+    <String>Pulsar {KEY:ToggleUI} para activar o desactivar la Interfaz de usuario y obtener capturas de pantalla.</String>
     <String>Presionar {KEY:Ascend} te hará ascender si tu  {THING:ItemSpacepack} está encendido, de lo contrario tu personaje intentará saltar. Puede activar o desactivar la {THING:ItemSpacepack} o usando la tecla {KEY:Jetpack} .</String>
     <String>Presionar {KEY:Descend} te hará descender si tu {THING:ItemSpacepack} está encendido. Puede activar o desactivar {THING:ItemSpacepack} encendido o apagado usando la tecla {KEY:Jetpack} .</String>
     <String>Al presionar {KEY:Drop} se deja caer lo que esté en tu mano. Mantener presionado {KEY:Drop} lo arroja. Aguanta más tiempo para lanzar más.</String>
