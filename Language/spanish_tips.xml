@@ -6,7 +6,7 @@
     <String>Presione {KEY:ToggleLight} para activar /desactivar la luz {THING:ItemSpaceHelmet}.</String>
     <String>Pulsar {KEY:EmoteWave} para hacer que tu personaje salude en otras estaciones.</String>
     <String>Presione {KEY:Jetpack} para activar/desactivar la propulsión de su {THING:ItemSpacepack}.</String>
-    <String>Pulsar {KEY:ToggleUI} para activar o desactivar la Interfaz de usuario y obtener capturas de pantalla.</String>
+    <String>Pulsar {KEY:ToggleUI} para activar o desactivar la Interfaz de usuario y obtener capturas de pantalla o video.</String>
     <String>Presionar {KEY:Ascend} te hará ascender si tu  {THING:ItemSpacepack} está encendido, Pulsa {KEY:Descend} para descender.</String>
     <String>Pulsar {KEY:InventorySelect} cambia entre las ranuras del inventario y su mano.</String>
     <String>Al presionar {KEY:Drop} se deja caer lo que esté en tu mano. Mantener presionado {KEY:Drop} lo arroja. Aguanta más tiempo para lanzar más.</String>
