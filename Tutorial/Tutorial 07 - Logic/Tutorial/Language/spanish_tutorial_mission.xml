@@ -13,7 +13,7 @@
     </Record>
     <Record>
       <Key>TutoiralLogicSubTitle</Key>
-      <Value>Entrenamiento práctico: Fase III</Value>
+      <Value>Formación Práctica: Etapa VIII</Value>
     </Record>
     <Record>
       <Key>IntoTutoiralLogicDescription</Key>
@@ -26,7 +26,7 @@ Demuestre sus habilidades diseñando un sistema de control de iluminación.</Val
     </Record>
     <Record>
       <Key>8ConstructLever</Key>
-      <Value>Coloca la válvula en la posición resaltada</Value>
+      <Value>Utilice el kit (interruptor lógico) para colocar una palanca en posición resaltada </Value>
     </Record>
     <Record>
       <Key>8Narration1D</Key>
@@ -34,11 +34,11 @@ Demuestre sus habilidades diseñando un sistema de control de iluminación.</Val
     </Record>
     <Record>
       <Key>8ConstructCable</Key>
-      <Value>Coloca la válvula en la posición resaltada</Value>
+      <Value>Coloque el cable en posición resaltada.</Value>
     </Record>
     <Record>
       <Key>8ConstructCable2</Key>
-      <Value>Completa la red de tuberias de oxígeno</Value>
+      <Value>Conecte el puerto de datos de la palanca a la red de cables</Value>
     </Record>
     <Record>
       <Key>8Narration2D</Key>
@@ -47,7 +47,7 @@ Para leer los datos de la palanca, coloque un lector lógico en la posición res
     </Record>
     <Record>
       <Key>8ConstructReader</Key>
-      <Value>Coloque la tubería en la posición resaltada</Value>
+      <Value>Coloque el lector lógico en posición resaltada</Value>
     </Record>
     <Record>
       <Key>8Narration3D</Key>
@@ -55,7 +55,7 @@ Para leer los datos de la palanca, coloque un lector lógico en la posición res
     </Record>
     <Record>
       <Key>8ConstructWriter</Key>
-      <Value>Coloque la tubería en la posición resaltada</Value>
+      <Value>Coloque el escritor lógico en posición resaltada</Value>
     </Record>
     <Record>
       <Key>8Narration4D</Key>
@@ -95,11 +95,11 @@ Por último, configure la variable de salida (OUT VAR) en &apos;On&apos;, de mod
     </Record>
     <Record>
       <Key>8TurnOnReader</Key>
-      <Value>Enciende el lector lógico.</Value>
+      <Value>Enciende el lector lógico</Value>
     </Record>
     <Record>
       <Key>8TurnOnWriter</Key>
-      <Value>Enciende el lector lógico.</Value>
+      <Value>Enciende el grabador lógico</Value>
     </Record>
     <Record>
       <Key>8Narration7D</Key>
@@ -115,7 +115,7 @@ Por último, configure la variable de salida (OUT VAR) en &apos;On&apos;, de mod
     </Record>
     <Record>
       <Key>8ConstructCable2</Key>
-      <Value>Completa la red de tuberias de oxígeno</Value>
+      <Value>Conecte el puerto de datos de la palanca a la red de cables</Value>
     </Record>
     <Record>
       <Key>8Narration9D</Key>
@@ -123,7 +123,7 @@ Por último, configure la variable de salida (OUT VAR) en &apos;On&apos;, de mod
     </Record>
     <Record>
       <Key>8TurnOffWriter</Key>
-      <Value>Enciende el lector lógico.</Value>
+      <Value>Desactivar el escritor lógico</Value>
     </Record>
     <Record>
       <Key>8TurnOffReader</Key>

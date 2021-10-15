@@ -194,7 +194,7 @@ Hay hielos volátiles en el cinturón minero en la caja. Agregue un poco a la tr
     </Record>
     <Record>
       <Key>7Narration14D</Key>
-      <Value>¡Excelente! Su red de gas ahora está configurada. Inserte el tanque vacío de su soldador en la unidad de almacenamiento, para que esté listo para cargarse.</Value>
+      <Value>¡Excelente! Su red de gas ya está configurada. Inserte la botella de combustible vacía de su soldador en la unidad de almacenamiento, para que esté lista para rellenarse.</Value>
     </Record>
     <Record>
       <Key>7GetEmptyTank</Key>
@@ -202,11 +202,11 @@ Hay hielos volátiles en el cinturón minero en la caja. Agregue un poco a la tr
     </Record>
     <Record>
       <Key>7AddCanisterToTankConnector</Key>
-      <Value>Inserta la botella de combustible del soldador en la unidad de almacenamiento</Value>
+      <Value>Inserte el recipiente de combustible del soldador en la unidad de almacenamiento del tanque</Value>
     </Record>
     <Record>
       <Key>7Narration15D</Key>
-      <Value>Para determinar la proporción de combustible correcta para su tanque, consulte la página de la botella (combustible) en la Stationpedia.</Value>
+      <Value>Para encontrar la relación de mezcla de gases correcta para el combustible, consulte la página Stationpedia botella (Combustible).</Value>
     </Record>
     <Record>
       <Key>7SetGasMix</Key>
@@ -222,7 +222,7 @@ Hay hielos volátiles en el cinturón minero en la caja. Agregue un poco a la tr
     </Record>
     <Record>
       <Key>7Narration16D</Key>
-      <Value>Bien, ahora establezca la presión en el regulador. Una presión segura para los botes es de 1950kPa, Aunque pueden tolerar hasta casi 10MPa.</Value>
+      <Value>Bien, ahora presione al regulador. Esto evitará que su botella se sobre-presione y explote. Una presión segura para las botellas es de 1950kPa, aunque pueden tolerar hasta casi 10MPa.</Value>
     </Record>
     <Record>
       <Key>7LimitRegulator</Key>
@@ -266,7 +266,7 @@ Hay hielos volátiles en el cinturón minero en la caja. Agregue un poco a la tr
     </Record>
     <Record>
       <Key>7Narration18D</Key>
-      <Value>Estupendo trabajo, Cadete. Su bote de combustible ahora está lleno. Insértelo en su soldador.</Value>
+      <Value>Es una Obra de Stirling, Cadete. Su botella de combustible ahora está llena. La ODA se siente aliviada e impresionada con su autosuficiencia. Inserte el recipiente en su soldador.</Value>
     </Record>
     <Record>
       <Key>7AddTankToWeilder</Key>
@@ -274,7 +274,7 @@ Hay hielos volátiles en el cinturón minero en la caja. Agregue un poco a la tr
     </Record>
     <Record>
       <Key>7Narration19D</Key>
-      <Value>La ODA está impresionada, Cadete. Puede confiar en usted para filtrar y mezclar combustibles. Excelente progreso. Pulsa el misterioso botón azul para transmitir tus resultados.</Value>
+      <Value>Muy prometedor, Cadete. La ODA estará lista para escuchar que se puede confiar en usted para filtrar y mezclar combustibles. Excelente progreso. Presiona el misterioso botón azul para transmitir tus resultados.</Value>
     </Record>
     <Record>
       <Key>7OpenSuit</Key>
@@ -290,7 +290,7 @@ Hay hielos volátiles en el cinturón minero en la caja. Agregue un poco a la tr
     </Record>
     <Record>
       <Key>7Narration19AD</Key>
-      <Value>Buen trabajo, Cadete. Ahora puede terminar esta habitación completando la esclusa de aire con su soldador completamente repostado.</Value>
+      <Value>Ahora puede terminar esta habitación completando la esclusa de aire con su soldador completamente reabastecido. ¡Construyamos!</Value>
     </Record>
     <Record>
       <Key>7GetTablet</Key>
