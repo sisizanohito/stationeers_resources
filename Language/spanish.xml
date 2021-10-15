@@ -7432,19 +7432,17 @@ Por Favor Inténtalo de nuevo.</Value>
     </Record>
     <Record>
       <Key>NewWorldMoonDesc</Key>
-      <Value>Así que estás atrapado en la luna, pero no todo es malo.
-Claro, es frío, áspero y bastante monótono, pero al menos el sol brilla. El panel solar va a ser útil, y el controlador de potencia... y probablemente el horno de arco también.
-Hay incluso un poco de comida y oxígeno en las otras cajas, aunque definitivamente no va a durar para siempre. Ni tu batería.
-Será mejor que empieces a pensar en cómo vas a sobrevivir. ¿Qué tan difícil podría ser montar una esclusa? ¿un generador? Tal vez incluso fundir algo de mineral y construir una base?
-Parece que vas a estar aquí un tiempo.</Value>
+      <Value>Así que estás atrapado en la luna, pero no todo es malo. Claro, es frío, duro y bastante monótono, pero al menos el sol brilla. El panel solar va a ser útil, y el controlador de potencia ... y probablemente el horno de arco también.
+Incluso hay un poco de comida y oxígeno en las otras cajas, aunque definitivamente no va a durar para siempre. Tampoco tu batería.
+Será mejor que empieces a pensar en cómo vas a sobrevivir. ¿Qué tan difícil podría ser montar una esclusa de aire? ¿Un generador? ¿Tal vez incluso fundir algo de oro y construir una base?
+Parece que vas a estar aquí un tiempo.      </Value>
     </Record>
     <Record>
       <Key>NewWorldSpaceDesc</Key>
-      <Value>¡Este es el modo creativo de Stationeers!
-Genera cualquier elemento, prueba ideas y construye cosas divertidas muy rápido.
-&lt;color=red&gt;Este modo es experimental.&lt;/color&gt; Piense en ello como una fiesta espacial de forma libre donde las cosas emocionantes e inesperadas * pueden ocurrir y sucederán, en comparación con la experiencia más cercana a la muerte del modo de supervivencia.
-No te sientas triste cuando te haces pedazos pequeños o diminutos, o eres asaltado por pollos o explotas lentamente mientras te desplazas solo hacia el vacío infinito.
-*bugs</Value>
+      <Value>¡Este es el modo creativo de Stationeers! Engendra cualquier artículo, prueba ideas y construye cosas locas muy rápido.
+&lt;color=red&gt;Este modo es experimental&lt;/color&gt;. Piense en ello como una fiesta espacial de forma libre donde cosas emocionantes e inesperadas * pueden suceder y sucederán, en comparación con la experiencia más confiable cercana a la muerte del Modo de Supervivencia.
+Simplemente no te pongas triste cuando explotes en pequeños pedazos o te vuelvas salvaje por los pollos o explotes lentamente mientras te desplazas solo hacia el vacío infinito.
+        *errores</Value>
     </Record>
     <Record>
       <Key>TextboxEnterName</Key>
@@ -7516,8 +7514,10 @@ No te sientas triste cuando te haces pedazos pequeños o diminutos, o eres asalt
     </Record>
     <Record>
       <Key>FurnaceChamberText</Key>
-      <Value>Presión {0}
-                                      Temperatura {1}</Value>
+      <Value>
+        Presión {0}
+        Temperatura {1}
+      </Value>
     </Record>
     <Record>
       <Key>FurnaceSmelting</Key>
@@ -7649,7 +7649,7 @@ No te sientas triste cuando te haces pedazos pequeños o diminutos, o eres asalt
     </Record>
     <Record>
       <Key>NewWorldVenusShortDesc</Key>
-      <Value>Las temperaturas extremas y las presiones ultra altas hacen que Venus no sea un lugar para los pusilánimes. Solo los Stationeers más consumados sobrevivirán en nuestro otrora hermano planeta, ahora una roca estéril. Profundiza o vete a casa.</Value>
+      <Value>Las temperaturas extremas invariables y las presiones ultra altas hacen que Venus no sea un lugar para los pusilánimes. Solo los estationeers más consumados sobrevivirán en nuestro planeta hermano, ahora una roca estéril. Cava profundo o vete a casa.</Value>
     </Record>
     <Record>
       <Key>NewWorldEuropaShortDesc</Key>
@@ -7991,22 +7991,22 @@ Tenga mucho cuidado al caminar o saltar, ya que puede desplazarse muy lejos y ga
     </Record>
     <Record>
       <Key>LogicTypeColor</Key>
-      <Value>Ya sea impulsado por preocupaciones por la claridad, la seguridad o la estética simple, &lt;color=#0080FFFF&gt;{LINK:Stationeers;Stationeers}&lt;/color&gt; tienen acceso a un pequeño arco iris de colores para sus construcciones. Estos son los ajustes de color de los dispositivos, representados como un número entero.
+      <Value>Ya sea impulsado por preocupaciones de claridad, seguridad o estética simple, &lt;color=#0080FFFF&gt;{LINK:Stationeers;Stationeers}&lt;/color&gt;tienen acceso a un pequeño arco iris de colores para sus construcciones. Estos son los ajustes de color para dispositivos, representados como un entero.
 
-0: azul
-1: gris
-2: verde
-3: naranja
-4: rojo
-5: amarillo
-6: blanco
-7: negro
-8: marrón
-9: caqui
-10: rosa
-11: púrpura
+0: Azul
+1: Gris
+2: Verde
+3: Naranja
+4: Rojo
+5: Amarillo
+6: Blanco
+7: Negro
+8: Marrón
+9: Caqui
+10: Rosa
+11: Púrpura
 
-Es una ley universal inquebrantable que cualquier cosa superior a 11 será púrpura. El &lt;color=#0080FFFF&gt;{LINK:ODA;ODA}&lt;/color&gt; es impotente para cambiar esto. Del mismo modo, cualquier valor inferior a 0 será azul.</Value>
+Es una ley universal inquebrantable que cualquier cosa superior a 11 será púrpura. El &lt;color=#0080FFFF&gt;{LINK:ODA;ODA}&lt;/color&gt; es impotente para cambiar esto. Del mismo modo, cualquier cosa inferior a 0 será azul.</Value>
     </Record>
     <Record>
       <Key>LogicTypeElevatorSpeed</Key>
@@ -8198,11 +8198,11 @@ Es una ley universal inquebrantable que cualquier cosa superior a 11 será púrp
     </Record>
     <Record>
       <Key>FuelInTankRemaining</Key>
-      <Value>Obtiene el combustible restante dentro de su tanque de combustible del cohete.</Value>
+      <Value>Obtiene el combustible restante de su cohete.</Value>
     </Record>
     <Record>
       <Key>FuelReturnCost</Key>
-      <Value>Obtiene el coste de combustible para volver.</Value>
+      <Value>Obtiene el coste del combustible para devolver el cohete a su mundo actual.</Value>
     </Record>
     <Record>
       <Key>RocketMode</Key>
@@ -8302,7 +8302,7 @@ Es una ley universal inquebrantable que cualquier cosa superior a 11 será púrp
     </Record>
     <Record>
       <Key>ContactLandingRequestFailSatellite</Key>
-      <Value>Hay un problema con su satélite. Verifique que esté conectado a la red y alimentado.</Value>
+      <Value>Hay un problema con su satélite. Compruebe que está conectado a la red y tiene energía.</Value>
     </Record>
     <Record>
       <Key>ContactLandingRequestFailStorm</Key>
@@ -8314,39 +8314,23 @@ Es una ley universal inquebrantable que cualquier cosa superior a 11 será púrp
     </Record>
     <Record>
       <Key>TraderElectronics</Key>
-      <Value>Árbol tecnológico</Value>
-    </Record>
-    <Record>
-      <Key>TraderOrganics</Key>
-      <Value>Organización</Value>
+      <Value>TechTree Electrónica</Value>
     </Record>
     <Record>
       <Key>TraderBasic</Key>
-      <Value>Spes&apos;mall</Value>
-    </Record>
-    <Record>
-      <Key>TraderHydraulic</Key>
-      <Value>HyrdauliKit</Value>
-    </Record>
-    <Record>
-      <Key>TraderOre</Key>
-      <Value>MineRite</Value>
+      <Value>Conceptos básicos de Spes&apos;mall</Value>
     </Record>
     <Record>
       <Key>TraderPaint</Key>
-      <Value>Color Corp</Value>
+      <Value>Pinturas Color Corp</Value>
     </Record>
     <Record>
       <Key>TraderSecurity</Key>
-      <Value>Hall Corp</Value>
+      <Value>Seguridad de Hall Corp</Value>
     </Record>
     <Record>
       <Key>TraderOther</Key>
-      <Value>Kolders&apos; Goods</Value>
-    </Record>
-    <Record>
-      <Key>TraderGas</Key>
-      <Value>Gassy Trade</Value>
+      <Value>Productos variados de Kolders</Value>
     </Record>
     <Record>
       <Key>ButtonContact</Key>
@@ -8830,7 +8814,7 @@ Es una ley universal inquebrantable que cualquier cosa superior a 11 será púrp
     </Record>
     <Record>
       <Key>NetworkAnalyserTitle</Key>
-      <Value>ANALIZADOR DE RED</Value>
+      <Value>ANALIZADOR DE REDES</Value>
     </Record>
     <Record>
       <Key>CartridgeElectronicReaderTitle</Key>
@@ -9391,31 +9375,31 @@ Es una ley universal inquebrantable que cualquier cosa superior a 11 será púrp
     </Record>
     <Record>
       <Key>ScriptCommandSin</Key>
-      <Value>Devuelve el seno del ángulo especificado</Value>
+      <Value>Devuelve el seno del ángulo especificado (radianes)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandCos</Key>
-      <Value>Devuelve el coseno del ángulo especificado</Value>
+      <Value>Devuelve el coseno del ángulo especificado (radianes)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandTan</Key>
-      <Value>Devuelve la tangente del ángulo especificado</Value>
+      <Value>Devuelve el tan del ángulo especificado (radianes) </Value>
     </Record>
     <Record>
       <Key>ScriptCommandASin</Key>
-      <Value>Devuelve el ángulo cuyo seno es el valor especificado</Value>
+      <Value>Devuelve el ángulo (radianes) que es el seno es el valor especificado.</Value>
     </Record>
     <Record>
       <Key>ScriptCommandACos</Key>
-      <Value>Devuelve el ángulo cuyo coseno es el valor especificado</Value>
+      <Value>Devuelve el ángulo (radianes) en el que el coseno es el valor especificado.</Value>
     </Record>
     <Record>
       <Key>ScriptCommandATan</Key>
-      <Value>Devuelve el ángulo cuyo tangente es el valor especificado</Value>
+      <Value>Devuelve el ángulo (radianes) que es tan es el valor especificado.</Value>
     </Record>
     <Record>
       <Key>ScriptCommandATan2</Key>
-      <Value>Devuelve el ángulo cuyo tangente es el valor especificado</Value>
+      <Value>Devuelve el ángulo (radianes) cuya tangente es el cociente de dos valores especificados: a (y) y b (x)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandCommand</Key>
@@ -9767,11 +9751,11 @@ Es una ley universal inquebrantable que cualquier cosa superior a 11 será púrp
     </Record>
     <Record>
       <Key>ActivateExplosiveKey</Key>
-      <Value>Activar el control del ratón</Value>
+      <Value>Activa la cuenta atrás</Value>
     </Record>
     <Record>
       <Key>ActivateExplosiveTooltipKey1</Key>
-      <Value>Activar el control del ratón</Value>
+      <Value>Activa un</Value>
     </Record>
     <Record>
       <Key>ActivateExplosiveTooltipKey2</Key>
@@ -9903,7 +9887,7 @@ Es una ley universal inquebrantable que cualquier cosa superior a 11 será púrp
     </Record>
     <Record>
       <Key>CommandHelp</Key>
-      <Value>Mostrar Menu de Ayuda: &quot;/help&quot;</Value>
+      <Value>Muestra la lista de comandos. : &quot;/ayuda&quot;</Value>
     </Record>
     <Record>
       <Key>Seedsstring</Key>
@@ -9911,34 +9895,34 @@ Es una ley universal inquebrantable que cualquier cosa superior a 11 será púrp
     </Record>
     <Record>
       <Key>AgrizeroDesc</Key>
-      <Value>Agrizero es una empresa de biotecnología agrícola centrada en la investigación y el despliegue de tecnología agrícola fuera del mundo. El objetivo de la compañía es proporcionar una red de &apos;bio-fábricas&apos; autosuficientes y autónomas que, en última instancia, alimentarán a un millón de seres humanos en el espacio.
-Tras emerger de los desastres medioambientales de finales del siglo XXI, la empresa tiene sus raíces en las iniciativas de agricultura artificial que salvan al mundo de China y ahora se ha extendido a instalaciones en el Cinturón de Asteroides, donde el suministro de asteroides de hielo hace que la agricultura vertical y la agricultura de ambiente controlado sean extremadamente prometedoras.
-Si bien muchas de sus instalaciones aún están en construcción, Agrizero ya es uno de los principales proveedores de grupos externos como &lt;color=#0080FFFF&gt;{LINK:ODA;ODA}&lt;/color&gt;, &lt;color=#0080FFFF&gt;{LINK:Sinotai;Sinotai}&lt;/color&gt; y &lt;color=#0080FFFF&gt;{LINK:ExMin;ExMin}&lt;/color&gt; a través de la Red de comerciantes en constante expansión.</Value>
+      <Value>Agrizero es una empresa de biotecnología agrícola centrada en la investigación y el despliegue de tecnología agrícola fuera del mundo. El objetivo de la compañía es proporcionar una red de &quot;biofábrias&quot; autosostenibles y autónomas que en última instancia alimentarán a 1 millón de humanos proyectados en el espacio.
+Emergiendo de los desastres ambientales de finales del siglo 21, la firma tiene raíces en las iniciativas de agricultura artificial que salvan el mundo de China, y ahora se ha extendido a las instalaciones en el Cinturón de Asteroides, donde el suministro de asteroides de hielo hace que la agricultura vertical y la agricultura de ambiente controlado sean extremadamente prometedoras.
+Si bien muchas de sus instalaciones aún están en construcción, Agrizero ya es uno de los principales proveedores de grupos fuera del mundo como &lt;color=#0080FFFF&gt;{LINK:ODA;ODA}, &lt;color=#0080FFFF&gt;{LINK:Sinotai;Sinotai}&lt;/color&gt; y &lt;color=#0080FFFF&gt;{LINK:ExMin;ExMin}&lt;/color&gt; a través de la red de comerciantes en constante expansión.</Value>
     </Record>
     <Record>
       <Key>AsuraDesc</Key>
-      <Value>Asura Biomedia fue fundada a principios del siglo XXII por el trillonario de Mumbai Ashan Gurwaja. Centrada nominalmente en la &quot;biotecnología&quot;, la compañía siempre ha tenido una noción &quot;elástica&quot; de lo que eso implicaba exactamente: todo, desde productos farmacéuticos hasta comida para mascotas.
-La experiencia de Gurwaja en empresas de bioingeniería colocó a la empresa en el más alto nivel de las industrias de las ciencias biológicas desde el principio, y creció exactamente como su fundador pretendía: de forma rápida y fiable, estructurada específicamente para absorber cualquier empresa más pequeña que se interpusiera en su camino.
-Cerca de mediados de siglo, las ambiciones de Asura evolucionaron hasta abarcar sistemas de salud enteros: ahora es el mayor proveedor de atención sanitaria de la Tierra, integrando los hospitales y la atención primaria con los suministros médicos, la producción y venta al por menor de productos farmacéuticos, la atención residencial y los servicios funerarios.
-En 2150, el negocio de Asura era una simple propuesta, como se refleja en su famoso, si no infame, eslogan publicitario: &quot;Estamos en ti&quot;.</Value>
+      <Value>Asura Biomedia fue fundada a principios del siglo 22 por el trillonario con sede en Mumbai Ashan Gurwaja. Nominalmente centrada en la &quot;biotecnología&quot;, la compañía siempre ha tenido una noción &quot;elástica&quot; de exactamente lo que eso implicaba: todo, desde productos farmacéuticos hasta alimentos para mascotas.
+La experiencia de Gurwaja en empresas de bioingeniería colocó a la compañía en el escalón más alto de las industrias de biociencias desde el principio, y creció exactamente como su fundador pretendía: de manera rápida y confiable, estructurada específicamente para tragarse a cualquier empresa más pequeña en su camino.
+Cerca de mediados de siglo, las ambiciones de Asura evolucionaron para abarcar sistemas de salud completos: ahora es el mayor proveedor de atención médica en la Tierra, integrando hospitales y atención primaria con suministros médicos, producción farmacéutica y venta minorista, atención residencial y servicios funerarios.
+En 2150, el negocio de Asura era una propuesta simple, como se captura en su famoso, si no infame, eslogan publicitario: &quot;Estamos en ti&quot;.      </Value>
     </Record>
     <Record>
       <Key>CHACDesc</Key>
-      <Value>Fundada en 2085 para producir armas para las fuerzas espaciales de &lt;color=#0080FFFF&gt;{LINK:Sinotai;Sinotai}&lt;/color&gt;, la compañía es conocida por fabricar armas altamente fiables y asequibles para su uso en el exterior.
-Su enfoque pragmático se refleja en su enfoque en los diseños adecuados para la impresión en 3D y la producción en masa, así como una alta reutilización de los componentes a través de los modelos y las clases de armas.
-Como resultado, aunque las armas CHAC no sobresalen en ninguna categoría en particular, y ciertamente nunca han sido acusadas de ser anticuadas, no sufren grandes fallos, y funcionan lo suficientemente bien según la mayoría de las medidas conocidas como para haber ganado a sus diseñadores el título informal de &quot;armero del Sistema Solar&quot;.</Value>
+      <Value>Fundada en 2085 para producir armas para &lt;color=#0080FFFF&gt;{LINK:Sinotai}&lt;/color&gt; Las fuerzas espaciales de Sinotai, la compañía es conocida por fabricar armas altamente confiables y asequibles para uso fuera del mundo.
+Su enfoque pragmático se refleja en su enfoque en diseños adecuados para la impresión 3D y la producción en masa, así como en una alta reutilización de componentes en todos los modelos y clases de armas.
+Como resultado, aunque las armas CHAC no sobresalen en ninguna categoría en particular, y ciertamente nunca han sido acusadas de gretness, no sufren grandes fallas, y funcionan lo suficientemente bien según las medidas más conocidas como para haber ganado a sus diseñadores el título informal de &quot;armero del Sistema Solar&quot;.</Value>
     </Record>
     <Record>
       <Key>ExMinDesc</Key>
-      <Value>A raíz del desastre de Sísifo en Marte en 2079, el &lt;color = # 0080FFFF&gt; {LINK: ODA; ODA} &lt;/color&gt; prohibió oficialmente el desplazamiento de asteroides. Este cambio radical obligó a la recién nacida industria de la minería espacial a reconsiderar sus estrategias, pero hasta la apertura del Ascensor Espacial de Manaus, la economía marginal significaba que la extracción de recursos fuera del mundo era efectivamente imposible.
-Formado en 2095 por un conglomerado minero suizo-alemán de larga estancia y un consorcio de otros intereses, ExMin fue más una idea que una realidad comercial durante varias décadas. Creado con la certeza de que eventualmente llegaría un ascensor espacial, ExMin fue uno de los primeros en explotar el acceso que ofrecía. Posteriormente se ha convertido en una de las entidades comerciales más poderosas del Sistema Solar.
-Con el acceso al espacio seguro, ExMin se convirtió en un actor central en el flujo de recursos al sistema interno. Tiene competencia, principalmente del gigante minero brasileño &lt;color=#0080FFFF&gt;{LINK:Recurso;Recurso}&lt;/color&gt;, pero la empresa nunca ha perdido por completo su liderazgo en la minería fuera del mundo. Sinónimo de metales de tierras raras y pionera en la extracción de recursos fuera del mundo, se encuentra a la vanguardia del desarrollo en todo el Sistema Solar.</Value>
+      <Value>A raíz del desastre de Sísifo en Marte en 2079, el desplazamiento de asteroides fue oficialmente prohibido por el &lt;color=#0080FFFF&gt;{LINK:ODA;ODA}&lt;/color&gt;. Este cambio radical obligó a la recién nacida industria minera espacial a reconsiderar sus estrategias, pero hasta la apertura del Elevador Espacial de Manaos, la economía marginal significaba que la extracción de recursos fuera del mundo era efectivamente imposible.
+Formado en 2095 por un conglomerado minero suizo-alemán de larga data y un consorcio de otros intereses, ExMin fue más una idea que una realidad comercial durante varias décadas. Creado con la certeza de que eventualmente llegaría un ascensor espacial, ExMin fue uno de los primeros en explotar el acceso que ofrecía. Posteriormente se ha convertido en una de las entidades comerciales más poderosas del Sistema Solar.
+Con el acceso al espacio seguro, ExMin se convirtió en un jugador central en el flujo de recursos al Sistema Interno. Tiene competencia, principalmente del gigante minero brasileño &lt;color=#0080FFFF&gt;{LINK:Recurso;Recurso}&lt;/color&gt;, pero la compañía nunca ha perdido por completo su liderazgo en la minería fuera del mundo. Sinónimo de metales de tierras raras y pionero en la extracción de recursos fuera del mundo, se encuentra a la vanguardia del desarrollo en todo el Sistema Solar.</Value>
     </Record>
     <Record>
       <Key>GeFabrikDesc</Key>
-      <Value>Oficialmente conocida como Gewehrfabrik GmbH, GeFabrik es una de las firmas de armamento más antiguas y respetadas del mundo, conocida por producir armas de fuego de alta gama excepcionalmente precisas.
-A raíz del colapso de la fabricación de armas europea en la década de 2030, un grupo de personal de armamento desempleado formó GeFabrik. Dedicada a renovar los principios de diseño originales, la compañía es legendaria por sus extensas pruebas, que a veces duran hasta 10 años, para producir formatos de armas &quot;ganz&quot;.
-Se considera que GeFabrik ha salvado por sí solo la reputación de fabricación de Alemania, sin hacer nada por su sentido del humor.</Value>
+      <Value>Oficialmente conocida como Gewehrfabrik GmbH, GeFabrik es una de las empresas de armamento más antiguas y prestigiosas del mundo, conocida por producir armas de fuego excepcionalmente precisas y de alta gama.
+A raíz del colapso de la fabricación de armas europea en la década de 2030, un grupo de personal de armamento desempleado formó GeFabrik. Dedicada a renovar los principios de diseño originales, la compañía es legendaria por sus extensas pruebas, que a veces duran hasta 10 años, para producir formatos de armas &apos;ganz&apos;.
+GeFabrik es ampliamente considerado por haber salvado por sí solo la reputación de fabricación de Alemania, sin hacer nada por su sentido del humor.      </Value>
     </Record>
     <Record>
       <Key>Hiiragi</Key>
@@ -9946,14 +9930,14 @@ Se considera que GeFabrik ha salvado por sí solo la reputación de fabricación
     </Record>
     <Record>
       <Key>HiiragiDesc</Key>
-      <Value>Fundada por Noboru Hiiragi a raíz de la burbuja económica de la década de 2110, Hiiragi Communications absorbió varios activos destacados fuera del mundo, convirtiéndose rápidamente en la red de comunicaciones trans-solar más utilizada.
-Si se ha comunicado con amigos y familiares fuera del mundo recientemente, ha sido a través de la red de Hiiragi, incluso si tiene la marca de una de sus muchas empresas secundarias. Hiiragi es también el vendedor número uno de PCD (dispositivos de comunicación personal), así como un inversor profundo, aunque difícil de evaluar, en redes de telecomunicaciones terrestres.</Value>
+      <Value>Fundada por Noboru Hiiragi a raíz de la burbuja económica de la década de 2110, Hiiragi Communications absorbió varios activos prominentes fuera del mundo, convirtiéndose rápidamente en la red de comunicaciones trans-Sistema Solar más utilizada.
+Si se ha comunicado con amigos y familiares fuera del mundo recientemente, ha sido a través de la red Hiiragi, incluso si ha sido marcada bajo una de sus muchas compañías secundarias. Hiiragi es también el vendedor número uno de PCD (Dispositivos de Comunicación Personal), así como un inversor profundo, aunque difícil de evaluar, en redes de telecomunicaciones terrestres.      </Value>
     </Record>
     <Record>
       <Key>NorsecDesc</Key>
-      <Value>Con sus raíces en la industria de defensa de principios del siglo XX, Norsec (también conocido como Northern Security Systems) fue uno de los primeros en adoptar la minería de asteroides: uno de sus remolcadores estuvo involucrado en el infame Sísifo Hit en la incipiente colonia marciana en Sanders.
-Norsec fue oficialmente absuelto de cualquier mala conducta, pero cuando &lt;color=#0080FFFF&gt;{LINK:ODA;ODA}&lt;/color&gt; prohibió la reubicación de asteroides, la compañía cambió su enfoque hacia la infraestructura y la fabricación.
-La División de Sistemas Espaciales de Norsec, con base orbital, es responsable del diseño y producción de los sistemas de transporte centrales de &lt;color=#0080FFFF&gt;{LINK:ODA;ODA}&lt;/color&gt;, aunque también se rumorea que tiene un gran interés en &lt;color=#0080FFFF&gt;{LINK:ExMin;ExMin}&lt;/color&gt;. La compañía también se destaca por su disposición a participar en tecnología robótica experimental.</Value>
+      <Value>Con sus raíces en la industria de defensa de principios del siglo 20, Norsec (también conocido como Northern Security Systems) fue uno de los primeros en adoptar la minería de asteroides, uno de sus remolcadores estuvo involucrado en el infame Sisyphus Hit en la incipiente colonia marciana en Sanders.
+Norsec fue oficialmente absuelto de cualquier mal hecho, pero cuando el &lt;color=#0080FFFF&gt;{LINK:ODA;ODA}&lt;/color&gt; prohibió la reubicación de asteroides, la compañía cambió su enfoque a la infraestructura y la fabricación.
+La División de Sistemas Orbitales Espaciales de Norsec, es responsable del diseño y la producción de los sistemas de transporte centrales de &lt;color=#0080FFFF&gt;{LINK:ODA;ODA}&lt;/color&gt;, mientras que también se rumorea que tiene un gran interés en &lt;color=#0080FFFF&gt;{LINK:ExMin; ExMin}&lt;/color&gt;. La compañía también se destaca por su voluntad de participar en la tecnología robótica experimental.</Value>
     </Record>
     <Record>
       <Key>ODADesc</Key>
