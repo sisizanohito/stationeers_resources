@@ -9957,9 +9957,9 @@ La División de Sistemas Espaciales de Norsec, con base orbital, es responsable 
     </Record>
     <Record>
       <Key>ODADesc</Key>
-      <Value>A raíz de la Crisis de la Tierra, el enfoque de la humanidad en el espacio disminuyó. Sin embargo, muchos sintieron que, sin ambiciones más allá de nuestro planeta de origen, nuestra especie podría flaquear.
-Creada en 2070 EC por Naciones Unidas recientemente renovada, la Agencia de Desarrollo Offworld recibió un objetivo muy específico: guiar y alentar la exploración espacial humana en un momento en que el cosmos se estaba desvaneciendo de la mente del público.
-Inauguró el programa &lt;color=#0080FFFF&gt;{LINK:Stationeers;Stationeer}&lt;/color&gt; en 2095. Entendiendo que sería difícil conseguir financiación, la ODA concibió el programa como una iniciativa espacial de bajo consumo y de combustión lenta. Mientras que algunos se burlaron de Stationeers como &apos;náufragos cósmicos de precio reducido&apos;, el éxito del programa es testimonio de la sabiduría y el pragmatismo de la visión de ODA.</Value>
+      <Value>A raíz de la Crisis de la Tierra, el enfoque de la humanidad en el espacio disminuyó. Sin embargo, muchos sintieron que, sin ambiciones más allá de nuestro planeta natal, nuestra especie podría tambalearse.
+Creada en 2070CE por unas Naciones Unidas recientemente renovadas, la Agencia de Desarrollo Offworld recibió un objetivo muy específico: guiar y alentar la exploración espacial humana en un momento en que el cosmos se estaba desvaneciendo de la mente pública. 
+Inauguró el &lt;color=#0080FFFF&gt;{LINK:Stationeers;Stationeer}&lt;/color&gt; en 2095. Entendiendo que sería difícil obtener fondos, la ODA concibió el programa como una iniciativa espacial de combustión lenta y bajo desembolso. Si bien algunos se burlaron de los estationeers como &quot;náufragos cósmicos de precio reducido&quot;, el éxito del programa es testimonio de la sabiduría y el pragmatismo de la visión de ODA.</Value>
     </Record>
     <Record>
       <Key>Recurso</Key>
@@ -9967,16 +9967,16 @@ Inauguró el programa &lt;color=#0080FFFF&gt;{LINK:Stationeers;Stationeer}&lt;/c
     </Record>
     <Record>
       <Key>RecursoDesc</Key>
-      <Value>Este grupo minero brasileño de larga estancia se ramificó en el espacio a fines del siglo XXI.
-Centrada principalmente en minerales y metales a granel, la compañía quizás se entienda mejor como una extensión del gobierno brasileño: muy pocas figuras políticas del escalón superior en el Brasil moderno no están implicadas en un brazo u otro de este gigante industrial.
-El enredo con la política sudamericana le ha dado a la compañía una gran influencia sobre el ascensor espacial de Manaus. Este profundo control estatal ha llevado a otros grupos  el &lt;color=#0080FFFF&gt;{LINK:ODA;ODA}&lt;/color&gt; incluido  a ejercer cierta &quot;flexibilidad&quot; hacia el Recurso.
-Las acusaciones de reubicación ilegal de asteroides, violaciones de seguridad y numerosas infracciones comerciales apenas lo han tocado. Mientras tanto, los defensores señalan que se ha probado muy poco en los tribunales, y Recurso no está solo, de ahí la obviedad: &quot;En el espacio, todos vivimos en casas de cristal&quot;.</Value>
+      <Value>Este grupo minero brasileño de larga data se ramificó en el espacio a finales del siglo 21.
+Centrada principalmente en minerales y metales a granel, la compañía quizás se entienda mejor como una extensión del gobierno brasileño: muy pocas figuras políticas de alto nivel en el Brasil moderno no están implicadas en un brazo u otro de este gigante industrial.
+El enredo con la política sudamericana le ha dado a la compañía una gran influencia sobre el ascensor espacial de Manaos. Este control del estado profundo ha llevado a otros grupos, incluido el &lt;color=#0080FFFF&gt;{LINK:ODA;ODA}&lt;/color&gt;, a ejercer una cierta &quot;flexibilidad&quot; hacia el recurso.
+Las acusaciones de reubicación ilegal de asteroides, violaciones de seguridad y numerosas infracciones comerciales apenas lo han tocado. Mientras tanto, los defensores señalan que se ha demostrado muy poco en los tribunales, y el Recurso no está solo, de ahí la perogrullada: &quot;En el espacio, todos vivimos en casas de cristal&quot;.</Value>
     </Record>
     <Record>
       <Key>SinotaiDesc</Key>
-      <Value>La única entidad estatal &apos;tradicional&apos; que sobrevivió a la política exterior, el alcance y el poder de Sinotai es superado solo por el &lt;color=#0080FFFF&gt; {LINK:ODA;ODA}&lt;/color&gt; en sí. En muchos sentidos, una reliquia, una sub-agencia de una burocracia corporativa asombrosamente complicada ligada a la Tierra, su estructura le ha permitido a Sinotai lograr cosas increíbles.
-Demostrando su valía a principios del siglo XXI al colocar a los primeros humanos en Marte, establecer el primer sistema de energía de gigavatios fuera del mundo y la primera refinería de combustible espacial, pocas organizaciones espaciales carecen de algún grado de relación con Sinotai. Una broma común dice que es imposible hacer algo en el espacio sin ellos.
-Independientemente de la verdad, el enfoque de Sinotai para el desarrollo fuera del mundo ha involucrado un enfoque de &apos;poder blando&apos;, de MOU con &lt;color=#0080FFFF&gt;{LINK:Recurso;Recurso}&lt;/color&gt; (dándoles acceso preferencial al espacio de Manaus ascensor) a alianzas de conveniencia más turbias con una variedad de grupos de comerciantes.</Value>
+      <Value>La única entidad estatal &quot;tradicional&quot; que sobrevive a la política fuera del mundo, el alcance y el poder de los Sinotai es superado solo por el &lt;color=#0080FFFF&gt;{LINK:ODA;ODA}&lt;/color&gt; en sí. En muchos sentidos, una reliquia, una subasta de una burocracia corporativa asombrosamente complicada vinculada a la Tierra, su estructura ha permitido a Sinotai lograr cosas increíbles.
+Demostrando su valía a principios del siglo 21 al poner a los primeros humanos en Marte, establecer el primer sistema de energía de gigavatios fuera del mundo y la primera refinería de combustible espacial, pocas organizaciones espaciales carecen de algún grado de relación con Sinotai. Una broma común es que es imposible hacer algo en el espacio sin ellos.
+Independientemente de que sea verdad o no, el enfoque de Sinotai para el desarrollo fuera del mundo ha implicado un enfoque de &quot;poder blando&quot;, desde mou con &lt;color=#0080FFFF&gt;{LINK:Recurso;Recurso}&lt;/color&gt; (dándoles acceso preferencial al ascensor espacial de Manaos) a alianzas más turbias de conveniencia con una variedad de grupos de comerciantes.</Value>
     </Record>
     <Record>
       <Key>TKDesc</Key>
