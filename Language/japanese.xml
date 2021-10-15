@@ -1415,7 +1415,7 @@
     </RecordThing>
     <RecordThing>
       <Key>MotherboardManufacturing</Key>
-      <Value>製造</Value>
+      <Value>製造用マザーボード</Value>
     </RecordThing>
     <RecordThing>
       <Key>MothershipCore</Key>
@@ -1547,7 +1547,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeWall</Key>
-      <Value>複合材壁</Value>
+      <Value>複合材壁 (1型)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeWallRound</Key>
@@ -1555,19 +1555,19 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeWallType1</Key>
-      <Value>複合材壁 Type1</Value>
+      <Value>複合材壁 (1型)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeWallType2</Key>
-      <Value>複合材壁 Type2</Value>
+      <Value>複合材壁 (2型)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeWallType3</Key>
-      <Value>複合材壁 Type3</Value>
+      <Value>複合材壁 (3型)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeWallType4</Key>
-      <Value>複合材壁 Type4</Value>
+      <Value>複合材壁 (4型)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeWindow</Key>
@@ -1643,7 +1643,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureFrameCorner</Key>
-      <Value>フレーム (角)</Value>
+      <Value>スチールフレーム (角)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureFrameSide</Key>
@@ -1667,7 +1667,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidTankStorage</Key>
-      <Value>気体タンク格納容器</Value>
+      <Value>液体タンク格納容器</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureGlassDoor</Key>
