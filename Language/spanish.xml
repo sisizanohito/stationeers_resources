@@ -3949,7 +3949,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureBatteryLarge</Key>
-      <Value>Batería (Grande)</Value>
+      <Value>Batería de la estación (grande)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitBatteryLarge</Key>
@@ -4665,7 +4665,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureWaterBottleFiller</Key>
-      <Value/>
+      <Value>Llenador de botellas de agua</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureIceCrusher</Key>
@@ -4717,7 +4717,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureBackLiquidPressureRegulator</Key>
-      <Value/>
+      <Value>Regulador de contrapresión líquida</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidPressureRegulator</Key>
@@ -4888,7 +4888,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemLiquidDrain</Key>
-      <Value/>
+      <Value>Kit (drenaje líquido)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidDrain</Key>
@@ -4896,15 +4896,15 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemLiquidPipeAnalyzer</Key>
-      <Value/>
+      <Value>Kit (Analizador de tuberías líquidas)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidPipeAnalyzer</Key>
-      <Value/>
+      <Value>Analizador de tuberías líquidas</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitModularRocketGasMining</Key>
-      <Value>Este kit crea un {THING:StructureModularRocketEngine01}</Value>
+      <Value>Kit (Módulo Automatizado de Minería de Gas de Cohetes)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureModularRocketGasMining</Key>
@@ -4912,7 +4912,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitHeatExchanger</Key>
-      <Value>Este kit produce un {THING:StructureAirConditioner}, {THING:StructureElectrolyzer}, {THING:StructureFiltration} o {THING:H2Combustor}.</Value>
+      <Value>Kit Intercambiador de calor</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureHeatExchangerLiquidtoLiquid</Key>
@@ -4932,7 +4932,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitHangerDoor</Key>
-      <Value/>
+      <Value>Kit Puerta de hangar</Value>
     </RecordThing>
     <RecordThing>
       <Key>LogicStepSequencer8</Key>
@@ -4964,23 +4964,23 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitMusicMachines</Key>
-      <Value/>
+      <Value>Kit de Máquinas de música</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemInsulatedTankConnector</Key>
-      <Value/>
+      <Value>Kit de Conector de tanque aislado</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedTankConnector</Key>
-      <Value/>
+      <Value>Conector de tanque aislado</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemInsulatedTankConnectorLiquid</Key>
-      <Value/>
+      <Value>Kit de conector de tanque aislado de liquidos</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedTankConnectorLiquid</Key>
-      <Value/>
+      <Value>Conector del tanque aislado de liquidos</Value>
     </RecordThing>
     <RecordThing>
       <Key>DecayedFood</Key>
@@ -4992,7 +4992,7 @@
     </RecordThing>
     <RecordThing>
       <Key>PassiveSpeaker</Key>
-      <Value/>
+      <Value>Altavoz pasivo</Value>
     </RecordThing>
     <RecordThing>
       <Key>DeviceLfoVolume</Key>
@@ -5004,7 +5004,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitFridgeBig</Key>
-      <Value>Este kit crea un {THING:StructureSDBSilo}</Value>
+      <Value>Kit (Nevera grande)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureFridgeSmall</Key>
@@ -5016,7 +5016,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitVendingMachineRefrigerated</Key>
-      <Value/>
+      <Value>Kit (Máquina Expendedora Refrigerada)</Value>
     </RecordThing>
     <RecordThing>
       <Key>SeedBag_Potato</Key>
@@ -5024,7 +5024,7 @@
     </RecordThing>
     <RecordThing>
       <Key>SeedBag_Corn</Key>
-      <Value>Este kit crea un {THING:ItemWallCooler}.</Value>
+      <Value>Semillas de maíz</Value>
     </RecordThing>
     <RecordThing>
       <Key>SeedBag_Wheet</Key>
@@ -5060,11 +5060,11 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAdvancedComposter</Key>
-      <Value>Crea un {THING:StructureRocketModuleSilo}.</Value>
+      <Value>Kit (Compostador Avanzado)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitFridgeSmall</Key>
-      <Value>Crea un {THING:StructureRocketModuleSilo}.</Value>
+      <Value>Kit (Nevera Pequeña)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePlanter</Key>
@@ -5072,7 +5072,7 @@
     </RecordThing>
     <RecordThing>
       <Key>KitPlanter</Key>
-      <Value>Este kit crea un {THING:StructurePipeMeter}.</Value>
+      <Value>Kit Jardinera</Value>
     </RecordThing>
     <RecordThing>
       <Key>PortableComposter</Key>
@@ -5084,15 +5084,15 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPlanter</Key>
-      <Value/>
+      <Value>Kit de artículos Jardinera</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureAutomatedOven</Key>
-      <Value/>
+      <Value>Horno automatizado</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAutomatedOven</Key>
-      <Value/>
+      <Value>Kit (Horno Automatizado)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemCannedMushroom</Key>
@@ -5104,7 +5104,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemPoweredEggs</Key>
-      <Value/>
+      <Value>Huevos alimentados</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemFrenchFries</Key>
@@ -5132,7 +5132,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAdvancedPackagingMachine</Key>
-      <Value>Crea un {THING:StructureRocketModuleSilo}.</Value>
+      <Value>Kit (Máquina de envasado avanzada)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemCookedSoybean</Key>
@@ -5184,43 +5184,43 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitInsulatedWaterPipe</Key>
-      <Value/>
+      <Value>Kit de tubería de agua aislada</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitInsulatedLiquidPipe</Key>
-      <Value/>
+      <Value>Tubería de líquido aislada (kit)</Value>
     </RecordThing>
     <RecordThing>
       <Key>InsulatedLiquidPipeCorner</Key>
-      <Value/>
+      <Value>Esquina de tubería de líquido aislada</Value>
     </RecordThing>
     <RecordThing>
       <Key>InsulatedLiquidPipeCrossJunction</Key>
-      <Value/>
+      <Value>Unión cruzada de tubería líquida aislada</Value>
     </RecordThing>
     <RecordThing>
       <Key>InsulatedLiquidPipeCrossJunction3</Key>
-      <Value/>
+      <Value>Unión cruzada de tubería líquida aislada 3</Value>
     </RecordThing>
     <RecordThing>
       <Key>InsulatedLiquidPipeCrossJunction4</Key>
-      <Value/>
+      <Value>Unión cruzada de tubería líquida aislada 4</Value>
     </RecordThing>
     <RecordThing>
       <Key>InsulatedLiquidPipeCrossJunction5</Key>
-      <Value/>
+      <Value>Unión cruzada de tubería líquida aislada 5</Value>
     </RecordThing>
     <RecordThing>
       <Key>InsulatedLiquidPipeCrossJunction6</Key>
-      <Value/>
+      <Value>Unión cruzada de tubería líquida aislada 6</Value>
     </RecordThing>
     <RecordThing>
       <Key>InsulatedLiquidPipeJunction</Key>
-      <Value/>
+      <Value>Unión de tubería líquida aislada</Value>
     </RecordThing>
     <RecordThing>
       <Key>InsulatedLiquidPipeStraight</Key>
-      <Value/>
+      <Value>Tubería de líquido aislada recta</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedPipeLiquidCorner</Key>
@@ -5292,7 +5292,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitTurboVolumePump</Key>
-      <Value>Este kit crea un {THING:StructureVolumePump}.</Value>
+      <Value>Kit (Bomba Turbo - Gas)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidTurboVolumePump</Key>
@@ -5300,7 +5300,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLiquidTurboVolumePump</Key>
-      <Value>Este kit crea un {THING:StructureVolumePump}.</Value>
+      <Value>Kit (Bomba Turbo - Líquidos)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemMkIIToolbelt</Key>
@@ -5320,7 +5320,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitWindowShutter</Key>
-      <Value>Este kit produce una {THING:StructureWindTurbine}</Value>
+      <Value>Kit (Persiana de ventana)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemExplosiveBasic</Key>
@@ -5355,10 +5355,6 @@
       <Value>Ventanas Reforzadas (Kit)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemKitHorizontalAutoMiner</Key>
-      <Value>Crea un {THING:StructureRocketModuleSilo}.</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemLaptop</Key>
       <Value>Portátil</Value>
     </RecordThing>
@@ -5380,7 +5376,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitStirlingEngine</Key>
-      <Value>Crea un {THING:StructureRocketModuleSilo}.</Value>
+      <Value>Kit de artículos Motor Stirling</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureStirlingEngine</Key>
@@ -5408,11 +5404,11 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureShortLocker</Key>
-      <Value/>
+      <Value>Taquilla corta</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCornerLocker</Key>
-      <Value/>
+      <Value>Taquilla de esquina</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemPlantEndothermic_Creative</Key>
@@ -5424,7 +5420,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPowerTransmitter</Key>
-      <Value/>
+      <Value>Kit de artículos Transmisor de potencia</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureInteriorDoorTriangle</Key>
@@ -5444,7 +5440,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitInteriorDoors</Key>
-      <Value/>
+      <Value>Kit (Puertas Interiores)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureUnpoweredHatch</Key>
@@ -5456,7 +5452,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPowerTransmitterOmni</Key>
-      <Value/>
+      <Value>Kit de artículos Transmisor de potencia Omni</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePowerTransmitterOmni</Key>
