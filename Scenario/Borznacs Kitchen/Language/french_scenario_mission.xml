@@ -46,5 +46,33 @@ Vous avez été forcé de travailler comme son nouveau chef personnel. Vous ne s
       <Key>MilkTask1</Key>
       <Value>Fabriquer et livrer 2 boites de lait.</Value>
     </Record>
+    <Record>
+      <Key>PumpkinPie1</Key>
+      <Value>Cuire et livrer 2 tartes à la citrouille.</Value>
+    </Record>
+    <Record>
+      <Key>TomatoSoup1</Key>
+      <Value>Préparer et livrer une boîte de soupe à la tomate.</Value>
+    </Record>
+    <Record>
+      <Key>PumpkinSoup1</Key>
+      <Value>Préparer et livrer une boîte de soupe à la citrouille.</Value>
+    </Record>
+    <Record>
+      <Key>BakedPotato2</Key>
+      <Value>Cuire et livrer 2 pommes de terre au four.</Value>
+    </Record>
+    <Record>
+      <Key>BreadTask2</Key>
+      <Value>Cuire et livrer 1 miche de pain.</Value>
+    </Record>
+    <Record>
+      <Key>FriesTask2</Key>
+      <Value>Faire frire et livrer 1 paquet de frites.</Value>
+    </Record>
+    <Record>
+      <Key>PumpkinTask2</Key>
+      <Value>Cuire et livrer 1 tarte à la citrouille.</Value>
+    </Record>
   </Interface>
 </Language>
