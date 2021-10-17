@@ -38,5 +38,13 @@ Vous avez été forcé de travailler comme son nouveau chef personnel. Vous ne s
       <Key>MuffinTask1</Key>
       <Value>Cuire et livrer 3 muffins.</Value>
     </Record>
+    <Record>
+      <Key>BreadTask1</Key>
+      <Value>Cuire et livrer 2 pains.</Value>
+    </Record>
+    <Record>
+      <Key>MilkTask1</Key>
+      <Value>Fabriquer et livrer 2 boites de lait.</Value>
+    </Record>
   </Interface>
 </Language>
