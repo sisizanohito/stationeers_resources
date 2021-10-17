@@ -111,5 +111,11 @@ Quand elles sont prêtes, livrez-les moi par la gaine de transport. Ne me décev
       <Key>BorznacsNarration6D</Key>
       <Value>Excellent. Contrairement à votre imbécile de prédécesseur, vous avez peut-être ce qu’il faut pour me servir. Un jour, je pourrais même envisager de vous libéré, peut-être. Mais pour le moment, je suis prêt pour le DÎNER. Préparez un repas de trois plats ou subissez d&apos;épouvantables conséquences.</Value>
     </Record>
+    <Record>
+      <Key>BorznacWinEnd</Key>
+      <Value>Vous avez prouvé que vous êtes un serviteur indispensable de Borznac.
+			
+Félicitations.</Value>
+    </Record>
   </Interface>
 </Language>
