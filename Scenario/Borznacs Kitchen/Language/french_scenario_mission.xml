@@ -16,5 +16,15 @@
       <Value>Après avoir été coupé de plusieurs accords commerciaux avec Sinotai, Borznac le 5ème a décidé de construire son propre empire, en prenant le contrôle de toutes les bases lunaires à proximité, y compris la vôtre.
 Vous avez été forcé de travailler comme son nouveau chef personnel. Donc, vous feriez mieux de cuisiner.</Value>
     </Record>
+    <Record>
+      <Key>ScenariosBorznacsKitchenIntroDescription</Key>
+      <!--Intro Panel-->
+      <Value>Borznac le 5ème n’est pas connu pour ses subtilités. Après avoir été exclu de plusieurs accords commerciaux avec Sinotai, il a décidé de construire son propre empire, en prenant le contrôle de toutes les bases lunaires à proximité, y compris la vôtre.
+Vous avez été forcé de travailler comme son nouveau chef personnel. Vous ne savez toujours pas ce qui est arrivé à son dernier chef, et vous ne voulez pas le savoir. Il a de l’appétit, et est très impatient. Donc, vous feriez mieux de cuisiner.</Value>
+    </Record>
+    <Record>
+      <Key>CookingForYourLifeSubTitle</Key>
+      <Value>Cuisinez pour votre vie!</Value>
+    </Record>
   </Interface>
 </Language>
