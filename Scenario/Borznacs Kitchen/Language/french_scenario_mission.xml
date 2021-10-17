@@ -87,5 +87,13 @@ Vous avez été forcé de travailler comme son nouveau chef personnel. Vous ne s
       <Value> J’ai faim, alors faites-moi des pommes de terre au four. Mais rappelez-vous, vous ne pouvez en cuisiner qu’une à la fois.
 Quand elles sont prêtes, livrez-les moi par la gaine de transport. Ne me décevez pas. Mon dernier chef était lent et stupide. Les choses ne se sont pas bien passés pour lui.</Value>
     </Record>
+    <Record>
+      <Key>BorznacsNarration1D</Key>
+      <Value>C’était à peine suffisant. Je veux quelque chose avec un peu de SAVEUR. Je demande des frites ! Vous vous souvenez sûrement comment les cuisiner?</Value>
+    </Record>
+    <Record>
+      <Key>BorznacsNarration2D</Key>
+      <Value>Mmmmm ... c’était mieux. Maintenant, je veux une collation sucrée. Faites-moi des muffins ou expérimentez ma colère.</Value>
+    </Record>
   </Interface>
 </Language>
