@@ -26,5 +26,17 @@ Vous avez été forcé de travailler comme son nouveau chef personnel. Vous ne s
       <Key>CookingForYourLifeSubTitle</Key>
       <Value>Cuisinez pour votre vie!</Value>
     </Record>
+    <Record>
+      <Key>BakedPotato1</Key>
+      <Value>Cuire et livrer 4 pommes de terre au four.</Value>
+    </Record>
+    <Record>
+      <Key>FriesTask1</Key>
+      <Value>Cuire et livrer 2 paquets de frites.</Value>
+    </Record>
+    <Record>
+      <Key>MuffinTask1</Key>
+      <Value>Cuire et livrer 3 muffins.</Value>
+    </Record>
   </Interface>
 </Language>
