@@ -99,5 +99,9 @@ Quand elles sont prêtes, livrez-les moi par la gaine de transport. Ne me décev
       <Key>BorznacsNarration3D</Key>
       <Value>Ah, toute cette douceur me pèse sur l&apos;estomac. Oui, je pense qu&apos;avec du pain, cela va passer.</Value>
     </Record>
+    <Record>
+      <Key>BorznacsNarration4D</Key>
+      <Value>Toute cette nourriture m’a un peu desséché la gorge. J’ai besoin d’un verre. Un verre de bon lait frais sera parfait. Faites-le ainsi!</Value>
+    </Record>
   </Interface>
 </Language>
