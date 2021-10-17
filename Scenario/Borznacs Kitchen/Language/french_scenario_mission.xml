@@ -103,5 +103,9 @@ Quand elles sont prêtes, livrez-les moi par la gaine de transport. Ne me décev
       <Key>BorznacsNarration4D</Key>
       <Value>Toute cette nourriture m’a un peu desséché la gorge. J’ai besoin d’un verre. Un verre de bon lait frais sera parfait. Faites-le ainsi!</Value>
     </Record>
+    <Record>
+      <Key>BorznacsNarration5D</Key>
+      <Value>Ah, vous avez fait beaucoup mieux que votre prédécesseur. Passons maintenant à quelque chose de plus classique, j&apos;ai besoin d&apos;une tarte à la citrouille. Faites-moi en une immédiatement. J’ai ouvert une gaine de transport dans la salle de ressources. Vous pouvez utiliser tout ce que le dernier chef a laissé derrière lui.</Value>
+    </Record>
   </Interface>
 </Language>
