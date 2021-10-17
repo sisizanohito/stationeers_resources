@@ -74,5 +74,13 @@ Vous avez été forcé de travailler comme son nouveau chef personnel. Vous ne s
       <Key>PumpkinTask2</Key>
       <Value>Cuire et livrer 1 tarte à la citrouille.</Value>
     </Record>
+    <Record>
+      <Key>MuffinTask2</Key>
+      <Value>Cuire et livrer 3 muffins.</Value>
+    </Record>
+    <Record>
+      <Key>MilkTask2</Key>
+      <Value>Fabriquer et livrer 2 boites de lait.</Value>
+    </Record>
   </Interface>
 </Language>
