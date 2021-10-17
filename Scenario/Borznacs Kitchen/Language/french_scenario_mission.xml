@@ -82,5 +82,10 @@ Vous avez été forcé de travailler comme son nouveau chef personnel. Vous ne s
       <Key>MilkTask2</Key>
       <Value>Fabriquer et livrer 2 boites de lait.</Value>
     </Record>
+    <Record>
+      <Key>BorznacsNarration0D</Key>
+      <Value> J’ai faim, alors faites-moi des pommes de terre au four. Mais rappelez-vous, vous ne pouvez en cuisiner qu’une à la fois.
+Quand elles sont prêtes, livrez-les moi par la gaine de transport. Ne me décevez pas. Mon dernier chef était lent et stupide. Les choses ne se sont pas bien passés pour lui.</Value>
+    </Record>
   </Interface>
 </Language>
