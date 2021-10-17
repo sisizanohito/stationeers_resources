@@ -95,5 +95,9 @@ Quand elles sont prêtes, livrez-les moi par la gaine de transport. Ne me décev
       <Key>BorznacsNarration2D</Key>
       <Value>Mmmmm ... c’était mieux. Maintenant, je veux une collation sucrée. Faites-moi des muffins ou expérimentez ma colère.</Value>
     </Record>
+    <Record>
+      <Key>BorznacsNarration3D</Key>
+      <Value>Ah, toute cette douceur me pèse sur l&apos;estomac. Oui, je pense qu&apos;avec du pain, cela va passer.</Value>
+    </Record>
   </Interface>
 </Language>
