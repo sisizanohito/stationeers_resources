@@ -7101,6 +7101,10 @@ Temperatur {1}</Value>
       <Value>Gibt die maximale Stapelgröße des Gegenstandes im Slot zurück</Value>
     </Record>
     <Record>
+      <Key>RocketMode</Key>
+      <Value>Veraltet</Value>
+    </Record>
+    <Record>
       <Key>LogicTypeRequestHash</Key>
       <Value>Fordert ein Element des angegebenen Typs vom Gerät, wenn auf eine eindeutige Kennung (Hash) gesetzt</Value>
     </Record>
@@ -8483,6 +8487,10 @@ Temperatur {1}</Value>
     <Record>
       <Key>StationpediaMaxPressure</Key>
       <Value>Maximaler Druck:</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaVolume</Key>
+      <Value>Volumen:</Value>
     </Record>
     <Record>
       <Key>StationpediaNutrition</Key>
