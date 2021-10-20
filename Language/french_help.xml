@@ -19,11 +19,6 @@
       <Text/>
     </StationpediaPage>
     <StationpediaPage>
-      <Key>LogicUnitPage</Key>
-      <Title>Unité logique</Title>
-      <Text>{LIST_OF_LOGIC_UNITS}</Text>
-    </StationpediaPage>
-    <StationpediaPage>
       <Key>FabricatorPage</Key>
       <Title>Machines</Title>
       <Text>Ce sont des structures motorisées qui peuvent être utilisées pour fabriquer ce dont vous avez besoin dans le jeu. Ils utilisent généralement des {LINK:IngotPage;lingots} pour extraire les {LINK:ReagentPage;reactifs} dont ils ont besoin pour fabriquer des objets.
