@@ -258,6 +258,10 @@
       <Value>Pflanzen</Value>
     </Record>
     <Record>
+      <Key>Water</Key>
+      <Value>Wasser</Value>
+    </Record>
+    <Record>
       <Key>Harvest</Key>
       <Value>Ernten</Value>
     </Record>
