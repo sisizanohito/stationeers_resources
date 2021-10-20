@@ -4,7 +4,7 @@
   <Interface>
     <Record>
       <Key>TutoiralAirlocks</Key>
-      <Value>基本 エアロック</Value>
+      <Value>エアロック</Value>
     </Record>
     <Record>
       <Key>4BuildPDoor1Tutorial</Key>
@@ -36,7 +36,7 @@
     </Record>
     <Record>
       <Key>4ConsoleOn</Key>
-      <Value>{THING:ItemTablet} の電源を入れる。</Value>
+      <Value>コンソールをオンにする</Value>
     </Record>
     <Record>
       <Key>4GetpipeKit</Key>
