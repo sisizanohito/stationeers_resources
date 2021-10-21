@@ -27,9 +27,8 @@
     <StationpediaPage>
       <Key>FabricatorPage</Key>
       <Title>Machines</Title>
-      <Text>Ce sont des structures motorisées qui peuvent être utilisées pour fabriquer ce dont vous avez besoin dans le jeu. Ils utilisent généralement des {LINK:IngotPage;lingots} pour extraire les {LINK:ReagentPage;reactifs} dont ils ont besoin pour fabriquer des objets.
-      {LIST_OF_FABRICATORS}
-</Text>
+      <Text>Ce sont des machines automatiques qui peuvent être utilisées pour fabriquer ce dont vous avez besoin dans le jeu. Elles utilisent généralement des {LINK:IngotPage;lingots} pour extraire les {LINK:ReagentPage;reactifs} dont elles ont besoin pour fabriquer des objets.
+      {LIST_OF_FABRICATORS}</Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>DevicePage</Key>
