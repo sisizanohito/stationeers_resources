@@ -3,5 +3,14 @@
   <Name>German</Name>
   <Code>DE</Code>
   <Font>font_extended</Font>
-  <Interface/>
+  <Interface>
+    <Record>
+      <Key>Incident_Storm_Title</Key>
+      <Value>Sturm an-/ausschalten</Value>
+    </Record>
+    <Record>
+      <Key>Incident_Storm</Key>
+      <Value>Schaltet Sturm-Ereignis um.</Value>
+    </Record>
+  </Interface>
 </Language>
