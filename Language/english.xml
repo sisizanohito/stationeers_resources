@@ -6925,6 +6925,21 @@ The transmitter must be aligned to the base station in order to transmit any pow
       <Value>Battery_ Wireless_cell_ Big</Value>
       <Description />
     </RecordThing>
+    <RecordThing>
+      <Key>StructureLiquidTankBigInsulated</Key>
+      <Value>Structure Liquid Tank Big Insulated</Value>
+      <Description />
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitLiquidTankInsulated</Key>
+      <Value>Item Kit Liquid Tank Insulated</Value>
+      <Description />
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLiquidTankSmallInsulated</Key>
+      <Value>Structure Liquid Tank Small Insulated</Value>
+      <Description />
+    </RecordThing>
   </Things>
   <Slots>
     <Record>
