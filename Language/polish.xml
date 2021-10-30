@@ -3811,6 +3811,14 @@
       <Key>ItemKitHorizontalAutoMiner</Key>
       <Value>Silnik Rakietowy (Duzy)</Value>
     </RecordThing>
+    <RecordThing>
+      <Key>StructureLiquidTankBigInsulated</Key>
+      <Value>Zestaw (zawór rurowy)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitLiquidTankInsulated</Key>
+      <Value>Zestaw (zawór rurowy)</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>

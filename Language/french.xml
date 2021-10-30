@@ -5308,6 +5308,18 @@
       <Key>ItemKitPowerTransmitterOmni</Key>
       <Value/>
     </RecordThing>
+    <RecordThing>
+      <Key>StructureLiquidTankBigInsulated</Key>
+      <Value>Grand réservoir calfeutré</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitLiquidTankInsulated</Key>
+      <Value>Kit (Réservoir calfeutré)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLiquidTankSmallInsulated</Key>
+      <Value>Petit réservoir calfeutré</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>

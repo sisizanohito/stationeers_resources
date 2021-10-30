@@ -5254,6 +5254,18 @@
       <Key>ItemKitPowerTransmitterOmni</Key>
       <Value/>
     </RecordThing>
+    <RecordThing>
+      <Key>StructureLiquidTankBigInsulated</Key>
+      <Value>Velká nádrž (izolovaná)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitLiquidTankInsulated</Key>
+      <Value>Izolovaná nádrž (sada)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLiquidTankSmallInsulated</Key>
+      <Value>Malá nádrž (izolovaná)</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>

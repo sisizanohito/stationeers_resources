@@ -4304,6 +4304,14 @@
       <Key>ItemKitPowerTransmitterOmni</Key>
       <Value>アイテムキット パワートランスミッタ オムニ</Value>
     </RecordThing>
+    <RecordThing>
+      <Key>StructureLiquidTankBigInsulated</Key>
+      <Value>大型タンク (断熱)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitLiquidTankInsulated</Key>
+      <Value>キット (断熱タンク)</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>

@@ -3936,6 +3936,14 @@
       <Key>ItemKitHorizontalAutoMiner</Key>
       <Value>Rakettimoottori</Value>
     </RecordThing>
+    <RecordThing>
+      <Key>StructureLiquidTankBigInsulated</Key>
+      <Value>Varustepakkaus (putkiventtiili)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitLiquidTankInsulated</Key>
+      <Value>Varustepakkaus (putkiventtiili)</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>

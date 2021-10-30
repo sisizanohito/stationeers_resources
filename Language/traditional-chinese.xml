@@ -5087,6 +5087,18 @@
       <Key>ItemKitPowerTransmitterOmni</Key>
       <Value/>
     </RecordThing>
+    <RecordThing>
+      <Key>StructureLiquidTankBigInsulated</Key>
+      <Value>壓力槽大型 (絕緣)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitLiquidTankInsulated</Key>
+      <Value>套件 壓力槽 (絕緣)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLiquidTankSmallInsulated</Key>
+      <Value>壓力槽小型 (絕緣)</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>

@@ -4934,6 +4934,14 @@
       <Key>ItemKitPowerTransmitterOmni</Key>
       <Value/>
     </RecordThing>
+    <RecordThing>
+      <Key>StructureLiquidTankBigInsulated</Key>
+      <Value>Tank Büyük (Yalıtımlı)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitLiquidTankInsulated</Key>
+      <Value>Donanım (Tank Yalıtımlı)</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>

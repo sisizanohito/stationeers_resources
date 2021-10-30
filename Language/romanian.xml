@@ -680,6 +680,10 @@
     <RecordThing>
       <Key>StructureRocketModuleMiningJunk</Key>
     </RecordThing>
+    <RecordThing>
+      <Key>ItemKitLiquidTankInsulated</Key>
+      <Value>Kit (rezervor portabil)</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>

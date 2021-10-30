@@ -672,6 +672,14 @@
     <RecordThing>
       <Key>StructureRocketModuleMiningJunk</Key>
     </RecordThing>
+    <RecordThing>
+      <Key>StructureLiquidTankBigInsulated</Key>
+      <Value>Item Gereedschap Pijp Klep</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitLiquidTankInsulated</Key>
+      <Value>Item Gereedschap Pijp Klep</Value>
+    </RecordThing>
   </Things>
   <Slots/>
   <Interactables>
