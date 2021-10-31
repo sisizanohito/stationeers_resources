@@ -4948,15 +4948,15 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidTankBigInsulated</Key>
-      <Value>大型隔热储罐</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLiquidTankInsulated</Key>
-      <Value>套件(隔热储罐)</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidTankSmallInsulated</Key>
-      <Value>小型隔热罐子</Value>
+      <Value/>
     </RecordThing>
   </Things>
   <Slots>

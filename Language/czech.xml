@@ -5256,15 +5256,15 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidTankBigInsulated</Key>
-      <Value>Velká nádrž (izolovaná)</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLiquidTankInsulated</Key>
-      <Value>Izolovaná nádrž (sada)</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidTankSmallInsulated</Key>
-      <Value>Malá nádrž (izolovaná)</Value>
+      <Value/>
     </RecordThing>
   </Things>
   <Slots>

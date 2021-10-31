@@ -5389,15 +5389,15 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidTankBigInsulated</Key>
-      <Value>Бак Большой (Изолированный)</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLiquidTankInsulated</Key>
-      <Value>Набор (Изолированный бак)</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidTankSmallInsulated</Key>
-      <Value>Бак Малый (Изолированный)</Value>
+      <Value/>
     </RecordThing>
   </Things>
   <Slots>

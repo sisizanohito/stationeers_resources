@@ -4290,18 +4290,6 @@
       <Key>ItemKitHorizontalAutoMiner</Key>
       <Value>Motor de Foguete</Value>
     </RecordThing>
-    <RecordThing>
-      <Key>StructureLiquidTankBigInsulated</Key>
-      <Value>Tanque Grande (Isolado)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemKitLiquidTankInsulated</Key>
-      <Value>Kit (Tanque Isolado)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureLiquidTankSmallInsulated</Key>
-      <Value>Tanque Pequeno (Isolado)</Value>
-    </RecordThing>
   </Things>
   <Slots>
     <Record>

@@ -4508,15 +4508,15 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidTankBigInsulated</Key>
-      <Value>Isolierter Tank (groß)</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLiquidTankInsulated</Key>
-      <Value>Rohrventil (Bausatz)</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidTankSmallInsulated</Key>
-      <Value>Isolierter Tank (klein)</Value>
+      <Value/>
     </RecordThing>
   </Things>
   <Slots>

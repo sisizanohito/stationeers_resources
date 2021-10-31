@@ -4306,11 +4306,11 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidTankBigInsulated</Key>
-      <Value>大型タンク (断熱)</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLiquidTankInsulated</Key>
-      <Value>キット (断熱タンク)</Value>
+      <Value/>
     </RecordThing>
   </Things>
   <Slots>

@@ -4828,15 +4828,15 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidTankBigInsulated</Key>
-      <Value>Készlet (Csap)</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLiquidTankInsulated</Key>
-      <Value>Készlet (Csap)</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidTankSmallInsulated</Key>
-      <Value>Folyadéktartály (Kicsi)</Value>
+      <Value/>
     </RecordThing>
   </Things>
   <Slots>

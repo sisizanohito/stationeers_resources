@@ -4040,14 +4040,6 @@
       <Key>ItemKitHorizontalAutoMiner</Key>
       <Value>Motore a razzo</Value>
     </RecordThing>
-    <RecordThing>
-      <Key>StructureLiquidTankBigInsulated</Key>
-      <Value>Kit tubo con valvola</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemKitLiquidTankInsulated</Key>
-      <Value>Kit tubo con valvola</Value>
-    </RecordThing>
   </Things>
   <Slots>
     <Record>

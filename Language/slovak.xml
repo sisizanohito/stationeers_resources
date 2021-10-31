@@ -2274,14 +2274,6 @@
       <Key>ItemKitHorizontalAutoMiner</Key>
       <Value>Rocket Engine</Value>
     </RecordThing>
-    <RecordThing>
-      <Key>StructureLiquidTankBigInsulated</Key>
-      <Value>Item Kit Pipe Valve</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemKitLiquidTankInsulated</Key>
-      <Value>Item Kit Pipe Valve</Value>
-    </RecordThing>
   </Things>
   <Slots>
     <Record>

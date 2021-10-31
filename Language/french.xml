@@ -5310,15 +5310,15 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidTankBigInsulated</Key>
-      <Value>Grand réservoir calfeutré</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLiquidTankInsulated</Key>
-      <Value>Kit (Réservoir calfeutré)</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidTankSmallInsulated</Key>
-      <Value>Petit réservoir calfeutré</Value>
+      <Value/>
     </RecordThing>
   </Things>
   <Slots>
