@@ -5466,18 +5466,6 @@
       <Key>Battery_Wireless_cell_Big</Key>
       <Value>Batería de celdas Inhalámbricas Grande</Value>
     </RecordThing>
-    <RecordThing>
-      <Key>StructureLiquidTankBigInsulated</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemKitLiquidTankInsulated</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureLiquidTankSmallInsulated</Key>
-      <Value/>
-    </RecordThing>
   </Things>
   <Slots>
     <Record>
