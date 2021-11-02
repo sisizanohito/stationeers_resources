@@ -5916,6 +5916,21 @@ To use on yourself: put duct tape in your active hand, hold RIGHT MOUSE BUTTON t
       <Description />
     </RecordThing>
     <RecordThing>
+      <Key>ItemKitLiquidTankInsulated</Key>
+      <Value>Kit (Insulated Liquid Tank)</Value>
+      <Description />
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLiquidTankBigInsulated</Key>
+      <Value>Insulated Liquid Tank Big</Value>
+      <Description />
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLiquidTankSmallInsulated</Key>
+      <Value>Insulated Liquid Tank Small</Value>
+      <Description />
+    </RecordThing>
+    <RecordThing>
       <Key>StructureModularRocketLiquidTank</Key>
       <Value>Automated Rocket Liquid Storage Module</Value>
       <Description />
