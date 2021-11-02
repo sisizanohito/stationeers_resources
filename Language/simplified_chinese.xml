@@ -4672,6 +4672,18 @@
       <Value>套件（液体罐）</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemKitLiquidTankInsulated</Key>
+      <Value>套件（液体罐）</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLiquidTankBigInsulated</Key>
+      <Value>大型液体储罐</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLiquidTankSmallInsulated</Key>
+      <Value>小型液体储罐</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureModularRocketLiquidTank</Key>
       <Value>自动火箭液体储存模块</Value>
     </RecordThing>

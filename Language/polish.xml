@@ -3777,6 +3777,18 @@
       <Value>Drzwi Kompzytowe</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemKitLiquidTankInsulated</Key>
+      <Value>Zestaw (Przenośny zbiornik)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLiquidTankBigInsulated</Key>
+      <Value>Przenosny Zbiornik (Pusty)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLiquidTankSmallInsulated</Key>
+      <Value>Mocowanie kanistra</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureRocketModuleMiningJunk</Key>
     </RecordThing>
     <RecordThing>
