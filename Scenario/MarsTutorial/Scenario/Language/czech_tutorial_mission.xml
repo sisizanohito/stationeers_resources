@@ -152,7 +152,7 @@ Sloty pro vaši postavu vidíte na levé straně obrazovky. Příkladem je použ
     </Record>
     <Record>
       <Key>TutorialAnotherDayAnotherDollarDescription</Key>
-      <Value>Tahle ruda se sama nevytěží! Položky ze slotu můžete přesunout do ruky podržením {KEY:InventorySelect} a položky v ruce můžete přesunout do slotu podržením čísla slotu. Jděte do batohu a vezměte svůj {THING:ItemMiningBelt} a vybavte se jím podržením {KEY:ToolBeltSlot}, dokud je v ruce. Vezměte si váš {THING:ItemMiningDrill} a začněte kopat. Nezapomeňte ho znovu vypnout, než ho odložíte!</Value>
+      <Value>Tyto rudy se samy nevytěží! Předměty můžete přesunout ze slotu do ruky podržením {KEY:InventorySelect} a předměty v ruce můžete přesunout do slotu podržením čísla slotu. Jděte do batohu a vytáhněte z něj {THING:ItemMiningBelt} a nasaďte si jej podržením {KEY:ToolBeltSlot}, zatímco jej máte v ruce. Vezměte si {THING:ItemMiningDrill} a začněte kopat. Nezapomeňte jej před odložením opět vypnout!</Value>
     </Record>
     <Record>
       <Key>TutorialAnotherDayAnotherDollarTask1</Key>
@@ -164,19 +164,19 @@ Sloty pro vaši postavu vidíte na levé straně obrazovky. Příkladem je použ
     </Record>
     <Record>
       <Key>TutorialAnotherDayAnotherDollarTask2</Key>
-      <Value>Vytěžte nějaký {THING:ItemIronOre} ze země</Value>
+      <Value>Vytěžte ze země trochu {THING:ItemIronOre}</Value>
     </Record>
     <Record>
       <Key>TutorialJetpackTitle</Key>
-      <Value>Věřím, že umím létat</Value>
+      <Value>Věřím, že dokážu létat</Value>
     </Record>
     <Record>
       <Key>TutorialJetpackDescription</Key>
-      <Value>Někdo zapomněl žebřík! Vyleť na balkon použitím {KEY:Ascend} na stoupání a {KEY:Descend} na sestup.</Value>
+      <Value>Uf, někdo zapomněl na žebřík! Vyleť na balkon pomocí {KEY:Ascend} pro výstup a {KEY:Descend} pro sestup.</Value>
     </Record>
     <Record>
       <Key>TutorialJetpackTask1</Key>
-      <Value>Zapněte trysky v {THING:ItemSpacepack} použitím {KEY:Jetpack}</Value>
+      <Value>Zapněte trysky ve svém {THING:ItemSpacepack} pomocí {KEY:Jetpack}.</Value>
     </Record>
     <Record>
       <Key>TutorialJetpackTask2</Key>
@@ -192,7 +192,7 @@ Sloty pro vaši postavu vidíte na levé straně obrazovky. Příkladem je použ
     </Record>
     <Record>
       <Key>TutorialHatHairDescription</Key>
-      <Value>Teď, když jsme bezpečně uvnitř, otevřete masku znovu, aby se zachoval přívod kyslíku vašeho obleku!</Value>
+      <Value>Teď, když jsme bezpečně uvnitř, si znovu otevřete masku, abyste zachovali zásoby kyslíku ve skafandru!</Value>
     </Record>
     <Record>
       <Key>TutorialHatHairTask1</Key>
