@@ -1681,7 +1681,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureHydroponicsTray</Key>
-      <Value>Hydroponický zásobník</Value>
+      <Value>Hydroponická vanička</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureIgniter</Key>
@@ -4605,7 +4605,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageHydroponicsTray1</Key>
-      <Value>Vrak hydroponického podnosu</Value>
+      <Value>Vrak hydroponické vaničky</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasTankAdvanced</Key>
