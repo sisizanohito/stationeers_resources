@@ -253,6 +253,26 @@ V hornickém opasku v bedně je těkavý led. Přidejte jich několik do drtiče
       <Value>Zapněte regulátor tlaku</Value>
     </Record>
     <Record>
+      <Key>7Narration17DB</Key>
+      <Value>Těkavé látky a kyslík v současné době čekají v potrubí. Otevřete ventily a nechte je proudit přes směšovač plynů do kanystru svářečky.</Value>
+    </Record>
+    <Record>
+      <Key>7VolatilesValveOn</Key>
+      <Value>Otevřete ventil potrubí těkavých látek</Value>
+    </Record>
+    <Record>
+      <Key>7OxideValveOn</Key>
+      <Value>Otevřete ventil kyslíkového potrubí</Value>
+    </Record>
+    <Record>
+      <Key>7Narration18D</Key>
+      <Value>Stirlingova práce, kadete. Váš kanystr s palivem je nyní naplněn. ODA si oddechla a je ohromena vaší soběstačností. Vložte kanystr do své svářečky.</Value>
+    </Record>
+    <Record>
+      <Key>7AddTankToWeilder</Key>
+      <Value>Vraťte palivový kanystr do svářečky</Value>
+    </Record>
+    <Record>
       <Key>7OpenSuit</Key>
       <Value>Otevřete uživatelské rozhraní obleku</Value>
     </Record>
