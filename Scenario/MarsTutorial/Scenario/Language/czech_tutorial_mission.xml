@@ -8,7 +8,7 @@
     </Record>
     <Record>
       <Key>TheNewBeginningDescription</Key>
-      <Value>Naučte se některé základy a naučte se, jak být nejlepším Stationeerem, jakým můžete být!</Value>
+      <Value>Pojďme si osvojit základy a naučit se, jak být tím nejlepším Stationeerem, jakým můžete být!</Value>
     </Record>
     <!-- start the tutorial -->
     <Record>
@@ -18,9 +18,9 @@
     <Record> Using 
 			
       <Key>TutorialTheBeginningDescription</Key>
-      <Value>Začněme. Zavřete Stationpedii pomocí {KEY:Help}. Poté vyzvedněte položky pomocí {KEY:PrimaryAction}. Stisknutím kláves {KEY:HelmetSlot}, {KEY:SuitSlot}, {KEY:BackSlot}, {KEY:UniformSlot} nebo {KEY:ToolBeltSlot} můžete přepínat mezi interakcemi a sloty na libovolné položce, kterou máte na sobě. Stisknutím a podržením přepnete mezi tímto slotem a aktivníma rukama. Můžete také podržet {KEY:MouseControl} a přetáhnout položky do příslušného slotu.
+      <Value>Začněme. Zavřete Stationpedii pomocí {KEY:Help}. Poté se oblékněte pomocí {KEY:PrimaryAction} a posbírejte předměty. Stisknutím {KEY:HelmetSlot}, {KEY:SuitSlot}, {KEY:BackSlot}, {KEY:UniformSlot} nebo {KEY:ToolBeltSlot} můžete přepínat mezi interakcemi a sloty na jakémkoli předmětu, který máte na sobě. Stisknutím a podržením tlačítka přepínáte mezi daným slotem a aktivními rukami. Můžete také podržet {KEY:MouseControl} a přetáhnout předměty do příslušného slotu.
 
-Sloty pro vaši postavu lze vidět na levé straně obrazovky. Příkladem je použití {KEY:MouseControl} a kliknutí na slot {THING:UniformOrangeJumpSuit}. Tím se otevře nabídka pro danou položku v rámci slotu, což umožňuje interakci s položkou.</Value>
+Sloty pro vaši postavu vidíte na levé straně obrazovky. Příkladem je použití klávesy {KEY:MouseControl} a kliknutí na slot {THING:UniformOrangeJumpSuit}. Tím se otevře nabídka daného předmětu v rámci slotu, která umožní intrakce s daným předmětem.</Value>
     </Record>
     <Record>
       <Key>TutorialTheBeginningTask1</Key>
@@ -44,7 +44,7 @@ Sloty pro vaši postavu lze vidět na levé straně obrazovky. Příkladem je po
     </Record>
     <Record>
       <Key>TutorialDontBeAToolDescription</Key>
-      <Value>Víte, co se říká, nikam nechoďte bez opasku na nářadí! Vezměte si ho a nasaďte si ho.</Value>
+      <Value>Víte, co se říká, nikam nechoďte bez opasku s nářadím! Zvedněte ho a nasaďte si ho.</Value>
     </Record>
     <Record>
       <Key>TutorialDontBeAToolTask1</Key>
