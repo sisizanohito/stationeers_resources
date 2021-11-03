@@ -28,9 +28,9 @@
     <String>Vaše počáteční {THING:ItemEvaSuit} a {THING:ItemSpaceHelmet} se při vysokých teplotách vznítí. V nebezpečném prostředí používejte {THING:ItemHardSuit}.</String>
     <String>Program Stationeers byl založen mimoplanetární rozvojovou agenturou na podporu průzkumu Sluneční soustavy i mimo ni.</String>
     <String>Věnujte pozornost varováním v obleku. Mohou vám pomoci zabránit katastrofě.</String>
-    <String>{THING:ItemHardBackpack} může nést více předmětů, ale nemůže nést vás!</String>
+    <String>{THING:ItemHardBackpack} může nést více předmětů, ale nemůže nést Vás!</String>
     <String>Čím více je váš oblek poškozen, tím méně efektivně bude fungovat.</String>
-    <String>Pokud je vaše stanice ponurá, zvedněte si náladu melodiemi z {THING:StructureKlaxon} nebo si sestavte vlastní vzorkovač pomocí logiky.</String>
+    <String>Pokud je Vaše stanice ponurá, zvedněte si náladu melodiemi z {THING:StructureKlaxon} nebo si sestavte vlastní vzorkovač pomocí logiky.</String>
     <String>{THING:StructureHarvie} umožňuje plně automatizovat výsadbu, pěstování a sklizeň rostlin.</String>
     <String>Rozšířené popisky nástrojů lze zapnout/vypnout v nabídce Nastavení.</String>
     <String>Všechna otevřená okna na obrazovce můžete najednou vymazat stisknutím {KEY:HideAllWindows}.</String>
@@ -39,11 +39,11 @@
     <String>Svítilnu {THING:ItemWearLamp} lze použít k osvětlení bez nošení helmy.</String>
     <String>Podržením {KEY:MouseControl} můžete aktivovat kurzor myši a přetahovat předměty do inventáře a z inventáře nebo mezi sloty.</String>
     <String>Základní vesmírná přilba chrání Stationeery před vším, od tvrdého vakua až po podivné pachy při vaření.</String>
-    <String>Fyzika je váš přítel. Dokud není.</String>
+    <String>Fyzika je Váš přítel. Dokud není.</String>
     <String>Třecí seřizovač přilnavosti je dvourotační model se sloupcovou uni-rukojetí. Není to jen šroubovák</String>
     <String>Ve skutečnosti to není &quot;mléko&quot;, ale patentovaná syntéza {THING:ItemSoyOil} a {THING:ItemFern}, jemně smíchaná v {THING:ApplianceChemistryStation}.</String>
     <String>Jaderné energetické články Norsec, které jsou na Zemi od události v Čcheng-tu nelegální, našly mimo Zemi nový trh, kde se na bezpečnost dbá podstatně méně.</String>
     <String>Máte hlad? Cereální tyčinky jsou kompaktní, výživné a osvěžující.</String>
-    <String>Už vás nebaví vyměňovat běžné filtry?  Střední a těžké filtry vydrží 5x až 20x déle, ale jsou dražší.</String>
+    <String>Už Vás nebaví vyměňovat běžné filtry?  Střední a těžké filtry vydrží 5x až 20x déle, ale jsou dražší.</String>
   </GameTip>
 </Language>
