@@ -9,7 +9,7 @@
     <String>Stisknutím {KEY:ToggleUI} zapnete/vypnete uživatelské rozhraní a získáte snímky obrazovky nebo video.</String>
     <String>Stisknutím {KEY:Ascend} vyletíte nahoru, když máte zapnutý {THING:ItemSpacepack}. Stisknutím {KEY:Descend} se spustíte dolů.</String>
     <String>Stisknutím {KEY:InventorySelect} přepínáte mezi sloty v inventáři a aktivní rukou.</String>
-    <String>Stisknutím klávesy {KEY:Drop} odhodíte vše, co máte v ruce. Podržením {KEY:Drop} ji odhodíte. Delším podržením je odhodíte dál.</String>
+    <String>Stisknutím klávesy {KEY:Drop} odhodíte vše, co máte v ruce. Podržením {KEY:Drop} jej odhodíte. Delším podržením jej hodíte dále.</String>
     <String>Stisknutím tlačítka {KEY:SwapHands} vyměníte aktivní ruku. Stisknutím {KEY:ActiveHandSlot} procházíte možnosti interakce s jakoukoli rukou, kterou máte aktivní.</String>
     <String>Stisknutím {KEY:Internals} rychle přepnete {THING:ItemSpaceHelmet} na otevřenou nebo zavřenou.</String>
     <String>Chcete-li začít chatovat s ostatními hráči, stiskněte {KEY:Chatting}.</String>
@@ -22,14 +22,14 @@
     <String>Použijte {THING:ItemKitLogicInputOutput} k vytvoření {THING:StructureLogicBatchReader} nebo {THING:StructureLogicBatchWriter}. Čtečky umožňují číst hodnoty z celé skupiny jiných zařízení, zapisovače umožňují měnit hodnoty na celých skupinách jiných zařízení.</String>
     <String>Pomocí nástroje {THING:StructureRecycler} přeměníte věci, které již nechcete, na použitelné činidla. Výstupní {THING:ItemReagentMix} předejte do {THING:StructureCentrifuge}, abyste jej přeměnili zpět na rudu připravenou pro {THING:StructureFurnace}.</String>
     <String>Použijte {THING:StructureHydraulicPipeBender} k výrobě atmosférických předmětů, například {THING:ItemKitAtmospherics}, který vám umožní postavit užitečné stroje, jako je {THING:StructureAirConditioner} nebo {THING:StructureFiltration}.</String>
-    <String>Čím více je váš oblek poškozen, tím méně efektivně bude fungovat. Lepicí páska to může napravit.</String>
-    <String>Čím více je váš oblek poškozen, tím méně efektivně bude fungovat.</String>
+    <String>Čím více je Váš oblek poškozen, tím méně efektivně bude fungovat. Lepicí páska to může napravit.</String>
+    <String>Čím více je Váš oblek poškozen, tím méně efektivně bude fungovat.</String>
     <String>Poté, co se původní příručka Stationeerů rozpadla do singularity, byla nahrazena Stationpedií. Stisknutím {KEY:Help} ji otevřete a získáte pokyny pro hru.</String>
     <String>Vaše počáteční {THING:ItemEvaSuit} a {THING:ItemSpaceHelmet} se při vysokých teplotách vznítí. V nebezpečném prostředí používejte {THING:ItemHardSuit}.</String>
     <String>Program Stationeers byl založen mimoplanetární rozvojovou agenturou na podporu průzkumu Sluneční soustavy i mimo ni.</String>
-    <String>Věnujte pozornost varováním v obleku. Mohou vám pomoci zabránit katastrofě.</String>
+    <String>Věnujte pozornost varováním v obleku. Mohou Vám pomoci zabránit katastrofě.</String>
     <String>{THING:ItemHardBackpack} může nést více předmětů, ale nemůže nést Vás!</String>
-    <String>Čím více je váš oblek poškozen, tím méně efektivně bude fungovat.</String>
+    <String>Čím více je Váš oblek poškozen, tím méně efektivně bude fungovat.</String>
     <String>Pokud je Vaše stanice ponurá, zvedněte si náladu melodiemi z {THING:StructureKlaxon} nebo si sestavte vlastní vzorkovač pomocí logiky.</String>
     <String>{THING:StructureHarvie} umožňuje plně automatizovat výsadbu, pěstování a sklizeň rostlin.</String>
     <String>Rozšířené popisky nástrojů lze zapnout/vypnout v nabídce Nastavení.</String>
