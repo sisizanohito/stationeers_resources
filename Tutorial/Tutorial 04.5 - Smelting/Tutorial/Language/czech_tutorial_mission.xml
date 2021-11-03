@@ -311,8 +311,20 @@ Stisknutím důležitého tlačítka &quot;Dokončit&quot; odešlete výsledky d
       <Value>Vypněte objemové čerpadlo</Value>
     </Record>
     <Record>
+      <Key>4.5CloseFurnace</Key>
+      <Value>Zavřete pec uvolňovací pákou</Value>
+    </Record>
+    <Record>
+      <Key>TutoiralSmeltingEndDescription</Key>
+      <Value>Výborná práce, kadete - zvládl jste základy tavení oceli.</Value>
+    </Record>
+    <Record>
       <Key>4.5OpenMiningbelt</Key>
       <Value>Otevřete hornický opasek</Value>
+    </Record>
+    <Record>
+      <Key>4.5PediaNavigationClose</Key>
+      <Value>Po přečtení zavřete Stationpedii</Value>
     </Record>
     <Record>
       <Key>4.5RemoveDataDisk</Key>
