@@ -191,6 +191,10 @@ Nejprve vypněte logické jednotky.</Value>
       <Value>Vypněte dávkový zapisovač</Value>
     </Record>
     <Record>
+      <Key>8Narration17D</Key>
+      <Value>Nyní můžete logickou páku resetovat, aniž byste museli vypínat světla.</Value>
+    </Record>
+    <Record>
       <Key>8Closelever</Key>
       <Value>Resetujte logickou páku.</Value>
     </Record>
@@ -205,6 +209,22 @@ Nejprve vypněte logické jednotky.</Value>
     <Record>
       <Key>8BatchWriterLogicType2</Key>
       <Value>Nastavte proměnnou logického zapisovače (OUT VAR) na &apos;Otevřít&apos;</Value>
+    </Record>
+    <Record>
+      <Key>8Narration19D</Key>
+      <Value>Nyní otevřete dveře pomocí logické páky.</Value>
+    </Record>
+    <Record>
+      <Key>8OpenDoor</Key>
+      <Value>Pomocí logické páky otevřete dveře</Value>
+    </Record>
+    <Record>
+      <Key>8Narration20D</Key>
+      <Value>Výborně, kadete. Nyní máte znalosti a dovednosti pro vytváření základních logických obvodů. Využijte své nové moudrosti a experimentujte s dalšími zařízeními, systémy a sítěmi. Tam venku je vesmír možností. Stiskněte důležité modré tlačítko a předejte své výsledky ODA.</Value>
+    </Record>
+    <Record>
+      <Key>TutoiralLogicCompleteTutorial</Key>
+      <Value>To potvrzuje, že akreditovaný držitel tohoto certifikátu NFT prokázal odpovídající dovednosti a znalosti základních logických systémů.</Value>
     </Record>
   </Interface>
 </Language>

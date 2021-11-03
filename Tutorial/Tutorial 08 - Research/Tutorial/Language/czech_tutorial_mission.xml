@@ -7,6 +7,11 @@
       <Value>Výzkum</Value>
     </Record>
     <Record>
+      <Key>TutoiralResearchDescription</Key>
+      <!--This is the description that appers in the menu-->
+      <Value>Měl bych si při psaní těchto článků udělat větší průzkum. Opravdu nevím, o čem mluvím, a myslím, že v jistém smyslu nikdo neví, o čem mluví, všichni jedeme na vlně života společně.</Value>
+    </Record>
+    <Record>
       <Key>TutoiralAtmosphericsSubTitle</Key>
       <Value>Praktický výcvik: Fáze IV</Value>
     </Record>
