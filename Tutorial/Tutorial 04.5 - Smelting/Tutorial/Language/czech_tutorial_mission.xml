@@ -331,6 +331,14 @@ Stisknutím důležitého tlačítka &quot;Dokončit&quot; odešlete výsledky d
       <Value>Odeberte datový disk z konzole</Value>
     </Record>
     <Record>
+      <Key>4.5NarrationInsert1D</Key>
+      <Value>Váš měděný ingot je hotový. Zatáhněte za páku a vyjměte hotový ingot.</Value>
+    </Record>
+    <Record>
+      <Key>4.5NarrationInsert2D</Key>
+      <Value>Nyní zapněte hlavní elektrickou síť a ... nechť je tu světlo.</Value>
+    </Record>
+    <Record>
       <Key>4.5OpenAPCTask</Key>
       <Value>Otevřete hlavní napájecí síť APC</Value>
     </Record>

@@ -12,12 +12,40 @@
       <Value>Hydroponie, hydratace + jídlo</Value>
     </Record>
     <Record>
+      <Key>TutoiralHydroponicsAndFoodSubTitle</Key>
+      <Value>Máte hlad? Vyzkoušejte si, jak se dokážete uživit mimo Zemi.</Value>
+    </Record>
+    <Record>
       <Key>TutoiralHydroponicsAndFoodSubTitle2</Key>
       <Value>Praktický výcvik: Fáze VI</Value>
     </Record>
     <Record>
+      <Key>TutoiralHydroponicsAndFoodDescription</Key>
+      <Value>Vítejte, kadete. Je čas otestovat vaši schopnost udržet se daleko, daleko od domova.</Value>
+    </Record>
+    <Record>
+      <Key>6Narration1D2</Key>
+      <Value>V této fázi se budeme zabývat udržováním hydratace, pěstováním potravin a jejich přípravou na něco užitečného. Začněte zřízením stanice pro doplňování vody do lahví.</Value>
+    </Record>
+    <Record>
+      <Key>6Narration1D</Key>
+      <Value>V každém hydratačním systému potřebujete místo, kam můžete uložit vodu. Sestavte nádrž na vodu a konektor pro nádrž na vodu, abyste ji mohli připojit k potrubní síti. </Value>
+    </Record>
+    <Record>
       <Key>6BuildTankConnecter</Key>
       <Value>Postavte konektor nádrže na zvýrazněné místo</Value>
+    </Record>
+    <Record>
+      <Key>6MoveThingArea</Key>
+      <Value>Nádrž na vodu připevněte na konektor nádrže</Value>
+    </Record>
+    <Record>
+      <Key>ConnectTankToConnecter</Key>
+      <Value>Pomocí hasáku připojte nádrž na vodu ke konektoru nádrže.</Value>
+    </Record>
+    <Record>
+      <Key>6Narration3D</Key>
+      <Value>Dokončete kapalinovou potrubní síť připojením kapalinových trubek ke konektoru nádrže.</Value>
     </Record>
     <Record>
       <Key>6GetPipe</Key>
@@ -26,6 +54,18 @@
     <Record>
       <Key>6BuildPipe</Key>
       <Value>Umístěte potrubní T-spoj na zvýrazněné místo</Value>
+    </Record>
+    <Record>
+      <Key>6BuildPipept2</Key>
+      <Value>Umístěte trubku na zvýrazněné místo</Value>
+    </Record>
+    <Record>
+      <Key>6BuildPipept3</Key>
+      <Value>Umístěte T-trubku na zvýrazněné místo</Value>
+    </Record>
+    <Record>
+      <Key>6Narration4D</Key>
+      <Value>Než něco zasadíte, nainstalujte si světlo, abyste mohli pěstovat i v noci.</Value>
     </Record>
     <Record>
       <Key>6GetGrowLight</Key>
