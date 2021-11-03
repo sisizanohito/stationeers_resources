@@ -229,6 +229,14 @@ V hornickém opasku v bedně je těkavý led. Přidejte jich několik do drtiče
       <Value>Nastavte tlak na regulátoru na 1950 kPa</Value>
     </Record>
     <Record>
+      <Key>7Narration17D</Key>
+      <Value>Skvělá práce kadete! Vše je připraveno. Můžete bez obav začít zapínat zařízení a začít vyrábět palivo.</Value>
+    </Record>
+    <Record>
+      <Key>7ActiveVentOn</Key>
+      <Value>Hydroponická místnost: Zapněte aktivní ventilaci</Value>
+    </Record>
+    <Record>
       <Key>7IceCrusherOn</Key>
       <Value>Zapněte drtič ledu</Value>
     </Record>
