@@ -7,6 +7,11 @@
       <Value>Logika</Value>
     </Record>
     <Record>
+      <Key>TutoiralLogicDescription</Key>
+      <!--This is the description that appers in the menu-->
+      <Value>Rozšiřte své znalosti základních logických systémů.</Value>
+    </Record>
+    <Record>
       <Key>TutoiralLogicSubTitle</Key>
       <Value>Praktický výcvik: Fáze III</Value>
     </Record>

@@ -273,6 +273,10 @@ V hornickém opasku v bedně je těkavý led. Přidejte jich několik do drtiče
       <Value>Vraťte palivový kanystr do svářečky</Value>
     </Record>
     <Record>
+      <Key>7Narration19D</Key>
+      <Value>Velmi slibné, kadete. ODA bude ráda, když uslyší, že se vám dá věřit při filtrování a míchání hořlavých paliv. Skvělý pokrok. Stiskněte tajemné modré tlačítko a odešlete své výsledky.</Value>
+    </Record>
+    <Record>
       <Key>7OpenSuit</Key>
       <Value>Otevřete uživatelské rozhraní obleku</Value>
     </Record>
@@ -285,12 +289,36 @@ V hornickém opasku v bedně je těkavý led. Přidejte jich několik do drtiče
       <Value>Dokončete přechodovou komoru</Value>
     </Record>
     <Record>
+      <Key>7Narration19AD</Key>
+      <Value>Nyní můžete tuto místnost dokončit dokončením přechodové komory s plně natankovanou svářečkou. Pojďme stavět!</Value>
+    </Record>
+    <Record>
       <Key>7GetTablet</Key>
       <Value>Vezměte tablet z batohu</Value>
     </Record>
     <Record>
       <Key>7InsertCart</Key>
       <Value>Vložte atmosférický analyzátor do tabletu</Value>
+    </Record>
+    <Record>
+      <Key>7TabletOn</Key>
+      <Value>Zapněte tablet a skenujte plynové potrubí</Value>
+    </Record>
+    <Record>
+      <Key>7TabletOff</Key>
+      <Value>Vypněte tablet po skenování</Value>
+    </Record>
+    <Record>
+      <Key>7Narration18DTablet</Key>
+      <Value>Vynikající. Zatímco se kanystr plní, zkontrolujte pomocí tabletu, zda se do potrubí dostává kyslík. Musíte vložit atmosférický analyzátor a poté podržet tablet nad potrubím.</Value>
+    </Record>
+    <Record>
+      <Key>7ActiveVentInward</Key>
+      <Value>Hydroponická místnost: Nastavte aktivní ventilaci na &quot;dovnitř&quot;</Value>
+    </Record>
+    <Record>
+      <Key>GasMixingCompleteTutorial</Key>
+      <Value>ODA tímto uznává, že držitel tohoto osvědčení má základní znalosti v oboru míchání a filtrace plynů.</Value>
     </Record>
   </Interface>
 </Language>
