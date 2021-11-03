@@ -58,6 +58,19 @@ Chcete-li číst data z páky, umístěte logickou čtečku do zvýrazněné poz
       <Value>Umístěte logický zapisovač na zvýrazněnou pozici</Value>
     </Record>
     <Record>
+      <Key>8Narration4D</Key>
+      <Value>Nyní je čas naprogramovat tato logická zařízení. Začněte logickou čtečkou.
+Pomocí šroubováku nastavte vstup (IN) na &apos;Páka&apos;. Poté nastavte proměnnou (VAR), kterou bude číst, na hodnotu &apos;Otevřeno&apos;.</Value>
+    </Record>
+    <Record>
+      <Key>8LogicReaderLogicInput1</Key>
+      <Value>Nastavte vstup logické čtečky (IN) na &apos;Páka&apos;</Value>
+    </Record>
+    <Record>
+      <Key>8LogicReaderLogic1</Key>
+      <Value>Nastavte proměnnou logické čtečky (VAR) na hodnotu &apos;Otevřeno&apos;</Value>
+    </Record>
+    <Record>
       <Key>8Narration5D</Key>
       <Value>Nyní naprogramujte logický zapisovač. 
 Nastavte vstup zapisovače (IN) na &quot;Logická čtečka&quot; a jeho výstup (VEN) na &quot;Nástěnné světlo&quot;. 
@@ -73,6 +86,10 @@ Nakonec nastavte výstupní proměnnou (OUT VAR) na &apos;Zapnuto&apos;, aby př
     </Record>&gt;
 		
     <Record>
+      <Key>8LogicWritterLogic1</Key>
+      <Value>Nastavte výstupní proměnnou (OUT VAR) na &apos;Zapnuto&apos;</Value>
+    </Record>
+    <Record>
       <Key>8Narration6D</Key>
       <Value>Nyní jsou logická čtečka a logický zapisovač naprogramovány, takže je lze bezpečně zapnout.</Value>
     </Record>
@@ -85,8 +102,24 @@ Nakonec nastavte výstupní proměnnou (OUT VAR) na &apos;Zapnuto&apos;, aby př
       <Value>Zapněte logický zapisovač</Value>
     </Record>
     <Record>
+      <Key>8Narration7D</Key>
+      <Value>Výborně - nyní jste připraveni otestovat logický obvod. Zkuste zapnout světlo otočením páky.</Value>
+    </Record>
+    <Record>
+      <Key>8TurnOnWallLight</Key>
+      <Value>Pákou zapněte světlo</Value>
+    </Record>
+    <Record>
+      <Key>8Narration8D</Key>
+      <Value>Výborně, kadete - vytvořil jste základní logický obvod. Nyní vytvořte systém pro ovládání několika světel najednou. Začněte připojením všech světel v místnosti k logické síti.</Value>
+    </Record>
+    <Record>
       <Key>8ConstructCable2</Key>
       <Value>Připojte datový port na páce ke kabelové síti</Value>
+    </Record>
+    <Record>
+      <Key>8Narration9D</Key>
+      <Value>Pro nastavení tohoto systému je třeba nastavit logická zařízení. Nejprve je vypněte, jinak se budou plést.</Value>
     </Record>
     <Record>
       <Key>8TurnOffWriter</Key>
@@ -99,6 +132,10 @@ Nakonec nastavte výstupní proměnnou (OUT VAR) na &apos;Zapnuto&apos;, aby př
     <Record>
       <Key>8Narration10D</Key>
       <Value>S vypnutým logickým zapisovačem můžete páku resetovat, aniž byste se museli vrhnout do děsivé tmy.</Value>
+    </Record>
+    <Record>
+      <Key>8Closelever</Key>
+      <Value>Resetujte logickou páku.</Value>
     </Record>
     <Record>
       <Key>8Narration11D</Key>
@@ -125,6 +162,10 @@ Nakonec nastavte výstupní proměnnou (OUT VAR) na &apos;Zapnuto&apos;, aby př
       <Value>Nastavte vstup pro dávkový zapisovač (DO) na &quot;Logická čtečka&quot;</Value>
     </Record>
     <Record>
+      <Key>8BatchWriterLogicType</Key>
+      <Value>Nastavte výstupní proměnnou (OUT VAR) na &apos;Zapnuto&apos;.</Value>
+    </Record>
+    <Record>
       <Key>8Narration14D</Key>
       <Value>Dávkový zapisovač je nyní naprogramován. Můžete jej tedy zapnout, stejně jako logickou čtečku.</Value>
     </Record>
@@ -133,8 +174,25 @@ Nakonec nastavte výstupní proměnnou (OUT VAR) na &apos;Zapnuto&apos;, aby př
       <Value>Zapněte dávkový zapisovač</Value>
     </Record>
     <Record>
+      <Key>8Narration15D</Key>
+      <Value>Dobře, vyzkoušejme nyní celý systém - přehoďte páku a rozsviťte světlo!</Value>
+    </Record>
+    <Record>
+      <Key>8TurnOnWallLight</Key>
+      <Value>Pákou zapněte světlo</Value>
+    </Record>
+    <Record>
+      <Key>8Narration16D</Key>
+      <Value>Skvělá práce, kadete - zvládl jste základní logiku. Ale abyste mohli předat své výsledky, musíte se dostat z této místnosti. Dveře jsou zamčené! Použijte logiku, abyste to napravili.
+Nejprve vypněte logické jednotky.</Value>
+    </Record>
+    <Record>
       <Key>8TurnOffBatchWriter</Key>
       <Value>Vypněte dávkový zapisovač</Value>
+    </Record>
+    <Record>
+      <Key>8Closelever</Key>
+      <Value>Resetujte logickou páku.</Value>
     </Record>
     <Record>
       <Key>8Narration18D</Key>
