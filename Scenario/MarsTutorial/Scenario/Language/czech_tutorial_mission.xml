@@ -52,19 +52,19 @@ Sloty pro vaši postavu vidíte na levé straně obrazovky. Příkladem je použ
     </Record>
     <Record>
       <Key>TutorialPowerUpTitle</Key>
-      <Value>Zapnout</Value>
+      <Value>Zapnutí napájení</Value>
     </Record>
     <Record>
       <Key>TutorialPowerUpDescription</Key>
-      <Value>Skvělé, nyní můžete nechat systémy běžet na vašem obleku.</Value>
+      <Value>Skvělé, a teď zprovozníme systémy Vašeho obleku.</Value>
     </Record>
     <Record>
       <Key>TutorialPowerUpTask1</Key>
-      <Value>Vezměte {THING:ItemBatteryCellNuclear} pomocí {KEY:PrimaryAction}</Value>
+      <Value>Seberte {THING:ItemBatteryCellNuclear} pomocí {KEY:PrimaryAction}</Value>
     </Record>
     <Record>
       <Key>TutorialPowerUpTask2</Key>
-      <Value>Otevřete {THING:ItemEvaSuit} pomocí klávesy {KEY:SuitSlot}.</Value>
+      <Value>Otevřete svůj {THING:ItemEvaSuit} pomocí klávesy {KEY:SuitSlot}.</Value>
     </Record>
     <Record>
       <Key>TutorialPowerUpTask3</Key>
@@ -72,7 +72,7 @@ Sloty pro vaši postavu vidíte na levé straně obrazovky. Příkladem je použ
     </Record>
     <Record>
       <Key>TutorialSomethingToFilterTitle</Key>
-      <Value>Něco na filtrování</Value>
+      <Value>Něco k filtrování</Value>
     </Record>
     <Record>
       <Key>TutorialSomethingToFilterDescription</Key>
@@ -80,11 +80,11 @@ Sloty pro vaši postavu vidíte na levé straně obrazovky. Příkladem je použ
     </Record>
     <Record>
       <Key>TutorialSomethingToFilterTask1</Key>
-      <Value>Vezměte {THING:ItemGasFilterCarbonDioxide} pomocí {KEY:PrimaryAction}</Value>
+      <Value>Seberte {THING:ItemGasFilterCarbonDioxide} pomocí {KEY:PrimaryAction}</Value>
     </Record>
     <Record>
       <Key>TutorialSomethingToFilterTask3</Key>
-      <Value>Přidejte {THING:ItemGasFilterCarbonDioxide} do svého filtračního slotu</Value>
+      <Value>Přidejte {THING:ItemGasFilterCarbonDioxide} do filtračního slotu</Value>
     </Record>
     <Record>
       <Key>TutorialGasItUpTitle</Key>
