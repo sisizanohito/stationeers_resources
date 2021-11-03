@@ -343,7 +343,7 @@ Jednoduše zapište hash do proměnného nastavení na {KING:StructureLaunchPad}
     </StationpediaPage>
     <StationpediaPage>
       <Key>RocketShuttleModulesHelpPage</Key>
-      <Title>Raketoplán</Title>
+      <Title>Moduly raketoplánu</Title>
       <DisplayFilter>Guides</DisplayFilter>
       <Text>{HEADER:Modulární raketový náklad}
 
@@ -376,9 +376,10 @@ Konzole {THING:StructureModularRocketCommand01} zobrazuje aktuální stav těcht
     <StationpediaPage>
       <Key>RocketShuttlePage</Key>
       <Title>Raketoplán</Title>
-      <Text>Tyto raketové moduly se používají k cestování mezi světy a vyžadují {THING:StructureLaunchPad}.
-{HEADER:Seznam raketových modulů}
-{LIST_OF_ROCKET_SHUTTLE}</Text>
+      <Text>Jedná se o raketoplánové moduly, které se používají k cestování mezi světy. {THING:StructureLaunchPad} je vyžadována.
+{HEADER:Seznam modulů raketoplánu}
+{LIST_OF_ROCKET_SHUTTLE}
+  </Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>WeatherPage</Key>
