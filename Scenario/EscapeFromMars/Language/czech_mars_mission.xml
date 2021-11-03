@@ -44,7 +44,7 @@
     <!-- Mission Stage: Aquire Raw Materials -->
     <Record>
       <Key>MarsTitleRawMaterials</Key>
-      <Value>Žebrat, vrtat a krást</Value>
+      <Value>Žebrat, zakopávat a krást</Value>
     </Record>
     <Record>
       <Key>MarsTabletStage2</Key>
@@ -68,15 +68,15 @@
     </Record>
     <Record>
       <Key>MarsTabletStage2Page1</Key>
-      <Value>STRANA 1 z 5 \nŽEBRAT, VRTAT nebo KRÁST\n\nNaštěstí naše výrobní nástroje znají všechny recepty, které budete ve své situaci pravděpodobně potřebovat.  Bohužel k tomu budou potřebovat suroviny.  Ty mohou pocházet z několika zdrojů v závislosti na vaší situaci:</Value>
+      <Value>STRANA 1 z 5 \nŽEBRAT, ZAKOPÁVAT nebo KRÁST\n\nNaštěstí naše výrobní nástroje znají všechny recepty, které budete ve své situaci pravděpodobně potřebovat.  Bohužel k tomu budou potřebovat suroviny.  Ty mohou pocházet z několika zdrojů v závislosti na vaší situaci:</Value>
     </Record>
     <Record>
       <Key>MarsTabletStage2Page2</Key>
-      <Value>STRANA 2 z 5 \nPROHLEDÁVÁNÍ\n\nPokud je vaše plavidlo stále z velké části neporušené, můžete najít materiály ve zpracované podobě, a to buď již uvnitř výrobních strojů, nebo uložené poblíž.</Value>
+      <Value>STRANA 2 z 5 \nPROHLEDÁVÁNÍ\n\nPokud je Vaše plavidlo stále z velké části neporušené, můžete najít materiály ve zpracované podobě, a to buď již uvnitř výrobních strojů, nebo uložené poblíž.</Value>
     </Record>
     <Record>
       <Key>MarsTabletStage2Page3</Key>
-      <Value>STRANA 3 z 5 \nDEMONTÁŽ\n\nPokud se vám podaří najít nebo vyrobit úhlovou brusku, měli byste být schopni ji použít k demontáži některých vraků lodi.  Recyklátor je možné použít k jejich rozložení na směs složek a odstředivka je oddělí, aby je bylo možné znovu přetavit na použitelné materiály.</Value>
+      <Value>STRANA 3 z 5 \nDEMONTÁŽ\n\nPokud se Vám podaří najít nebo vyrobit úhlovou brusku, měli byste být schopni ji použít k demontáži některých vraků lodi.  Recyklátor je možné použít k jejich rozložení na směs složek a odstředivka je oddělí, aby je bylo možné znovu přetavit na použitelné materiály.</Value>
     </Record>
     <Record>
       <Key>MarsTabletStage2Page4</Key>
@@ -84,7 +84,7 @@
     </Record>
     <Record>
       <Key>MarsTabletStage2Page5</Key>
-      <Value>STRANA 5 z 5 \nTAVENÍ\n\nNejjednodušší způsob, jak přeměnit suroviny na zpracované ingoty připravené k výrobě, je použít obloukovou pec a dodat jí určitou energii.  Pokud máte omezené zdroje, měla by to být pravděpodobně vaše první investice, protože pokud se vám nepodaří získat dostatek materiálů, bude to nakonec požadavek na zajištění další výroby.</Value>
+      <Value>STRANA 5 z 5 \nTAVENÍ\n\nNejjednodušší způsob, jak přeměnit suroviny na zpracované ingoty připravené k výrobě, je použít obloukovou pec a dodat jí určitou energii.  Pokud máte omezené zdroje, měla by to být pravděpodobně vaše první investice, protože pokud se Vám nepodaří získat dostatek materiálů, bude to nakonec požadavek na zajištění další výroby.</Value>
     </Record>
     <!-- Mission Stage: Setup Manufacturing -->
     <Record>
