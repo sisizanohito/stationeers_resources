@@ -208,7 +208,7 @@ Sloty pro vaši postavu vidíte na levé straně obrazovky. Příkladem je použ
     </Record>
     <Record>
       <Key>TutorialIsItGettingHotInHereDescription</Key>
-      <Value>Vezměte {THING:ItemKitFurnace} ze skříně a položte ji tamhle. Použijte {KEY:QuantityModifier} na rotaci.</Value>
+      <Value>Vezměte ze skříňky {THING:ItemKitFurnace} a položte ji támhle. Použijte {KEY:QuantityModifier} k otáčení.</Value>
     </Record>
     <Record>
       <Key>TutorialIsItGettingHotInHereTask1</Key>
@@ -216,7 +216,7 @@ Sloty pro vaši postavu vidíte na levé straně obrazovky. Příkladem je použ
     </Record>
     <Record>
       <Key>TutorialItsJustTheFurnaceTitle</Key>
-      <Value>To je jenom pec</Value>
+      <Value>Je to jen pec</Value>
     </Record>
     <Record>
       <Key>TutorialItsJustTheFurnaceDescription</Key>
