@@ -16,8 +16,21 @@
       <Value>Praktický výcvik: Fáze III</Value>
     </Record>
     <Record>
+      <Key>IntoTutoiralLogicDescription</Key>
+      <Value>Vítejte zpět, kadete. Velitelství Stationeerů chce otestovat vaše znalosti základních logických obvodů.
+Prokažte své dovednosti návrhem systému řízení osvětlení.</Value>
+    </Record>
+    <Record>
+      <Key>8Narration0D</Key>
+      <Value>Stejně jako většina logických systémů v galaxii používají zařízení Stationeerů dvě hodnoty: 0 a 1 pro nastavení stavů jako &quot;zapnuto/vypnuto&quot;, &quot;otevřeno/zavřeno&quot; a &quot;zamknuto/odemknuto&quot;. Dnes budete používat logické systémy k ovládání systému osvětlení. Začněte umístěním vypínače světla. Použijte páku ze sady (Logický spínač).</Value>
+    </Record>
+    <Record>
       <Key>8ConstructLever</Key>
       <Value>Použijte sadu (logický spínač) k umístění páčky do zvýrazněné polohy</Value>
+    </Record>
+    <Record>
+      <Key>8Narration1D</Key>
+      <Value>Většina zařízení ODA má dva porty: napájecí a datový. Datové porty přenášejí informace o aktuálním stavu zařízení pomocí stejné sítě jako napájení. Připojte tedy páku ke kabelové síti.</Value>
     </Record>
     <Record>
       <Key>8ConstructCable</Key>
