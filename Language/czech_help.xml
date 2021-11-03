@@ -422,19 +422,7 @@ Samovznícení {POS:300}{2}{3}{/LIST}</Text>
     <StationpediaPage>
       <Key>IceMeltingTemplate</Key>
       <Text>Teplota tání {1}
-Tlak tání {0}</Text>
-    </StationpediaPage>
-    <StationpediaPage>
-      <Key>ConstructedByHeaderTemplate</Key>
-      <Text>{LIST}{0}{/LIST}</Text>
-    </StationpediaPage>
-    <StationpediaPage>
-      <Key>CreatedHeaderTemplate</Key>
-      <Text>{LIST}{0}{/LIST}</Text>
-    </StationpediaPage>
-    <StationpediaPage>
-      <Key>ConstructedHeaderTemplate</Key>
-      <Text>{LIST}{0}{/LIST}</Text>
+Tlak taveniny {0}</Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>ReagentPageTemplate</Key>
@@ -458,7 +446,7 @@ Tlak tání {0}</Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>GasPageFlamableTemplate</Key>
-      <Text>Limit hořlavosti {0} až {1}</Text>
+      <Text>Zápalný limit {0} až {1}</Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>NutritionPage</Key>
