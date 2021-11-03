@@ -76,6 +76,10 @@ Vaše rostliny vyrábějí kyslík z CO2 a toho je v odpadní nádrži vašeho s
       <Value>Dokončete potrubní síť kyslíku</Value>
     </Record>
     <Record>
+      <Key>7Narration5D</Key>
+      <Value>Filtrační jednotka produkuje dvě věci: použitelný plyn a odpadní plyn, který byste měli zlikvidovat, jinak se mohou stát nepříjemné a hlasité věci. Připojte odpadní výstup filtrační jednotky k odpadní síti, abyste mohli nežádoucí plyn vypustit do nekonečné prázdnoty.</Value>
+    </Record>
+    <Record>
       <Key>7GetPipeKitW</Key>
       <Value>Vezměte druhou potrubní sadu z bedny</Value>
     </Record>
@@ -84,8 +88,20 @@ Vaše rostliny vyrábějí kyslík z CO2 a toho je v odpadní nádrži vašeho s
       <Value>Dokončete odpadní síť</Value>
     </Record>
     <Record>
+      <Key>7Narration6D</Key>
+      <Value>Filtrační jednotka může odfiltrovat dva plyny současně, ale nyní potřebujete pouze kyslík k míchání paliva do svářečky. Proto do jednotky přidejte kyslíkový filtr.</Value>
+    </Record>
+    <Record>
       <Key>7GetFilter</Key>
       <Value>Vezměte kyslíkový filtr z bedny</Value>
+    </Record>
+    <Record>
+      <Key>7AddFilterToFilitration</Key>
+      <Value>Vložte kyslíkový filtr do filtrační jednotky</Value>
+    </Record>
+    <Record>
+      <Key>7Narration7D</Key>
+      <Value>Abyste snížili možnost náhodného vznícení paliva, je dobré plyn zchladit. Mnoho Stationeerů se to naučilo nepříjemným způsobem. Chcete-li ochladit potrubí, vyveďte je ven a přidejte potrubní radiátory, které rozptylují teplo.</Value>
     </Record>
     <Record>
       <Key>7GetPipeRadiator</Key>
@@ -94,6 +110,10 @@ Vaše rostliny vyrábějí kyslík z CO2 a toho je v odpadní nádrži vašeho s
     <Record>
       <Key>7BuildPipeRadiator</Key>
       <Value>Umístěte potrubní radiátor na zvýrazněné místo</Value>
+    </Record>
+    <Record>
+      <Key>7Narration8D</Key>
+      <Value>Drtič ledu je dobrým způsobem, jak získat plyny z ledové rudy. Připojte výstup plynu drtiče ledu k síti &quot;těkavých&quot; plynů.</Value>
     </Record>
     <Record>
       <Key>7GetIceCrusher</Key>
