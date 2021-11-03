@@ -88,11 +88,11 @@ Sloty pro vaši postavu vidíte na levé straně obrazovky. Příkladem je použ
     </Record>
     <Record>
       <Key>TutorialGasItUpTitle</Key>
-      <Value>Natlakujte to</Value>
+      <Value>Zaplňte to plynem</Value>
     </Record>
     <Record>
       <Key>TutorialGasItUpDescription</Key>
-      <Value>{THING:ItemSpacepack} pro využití trysek potřebuje hnací plyn, pojďme použít ten kanystr s dusíkem, co leží tamhle.</Value>
+      <Value>{THING:ItemSpacepack} potřebuje k použití trysek pohonnou hmotu, použijme támhle ten kanystr s dusíkem.</Value>
     </Record>
     <Record>
       <Key>TutorialGasItUpTask</Key>
@@ -100,11 +100,11 @@ Sloty pro vaši postavu vidíte na levé straně obrazovky. Příkladem je použ
     </Record>
     <Record>
       <Key>TutorialFeelingHotHotHotTitle</Key>
-      <Value>Cítit horko horko horko</Value>
+      <Value>Pocit horka horka</Value>
     </Record>
     <Record>
       <Key>TutorialFeelingHotHotHotDescripton</Key>
-      <Value>Je trošku horko ve skafandru! Otevřete {THING:ItemEvaSuit} pomocí klávesy {KEY:SuitSlot} a snižte teplotu na 20°C. Snížení teploty skafandru muže pomoci prodloužit životnost baterie skafandru, což může být užitečné, pokud se ocitnete v tísnivé situaci. Změny se projeví ve vašem HUD.</Value>
+      <Value>V tomto obleku je trochu horko! Otevřete svůj {THING:ItemEvaSuit} pomocí klávesy {KEY:SuitSlot} a snižte teplotu na 20 °C. Nižší teplota obleku může pomoci prodloužit životnost baterie Vašeho obleku, což se může hodit, pokud se dostanete do svízelné situace. Změny se projeví na vašem HUD.</Value>
     </Record>
     <Record>
       <Key>TutorialFeelingHotHotHotTask1</Key>
@@ -112,11 +112,11 @@ Sloty pro vaši postavu vidíte na levé straně obrazovky. Příkladem je použ
     </Record>
     <Record>
       <Key>TutorialLockItDownTitle</Key>
-      <Value>Zamkněte to teď</Value>
+      <Value>Zamkněte to hned</Value>
     </Record>
     <Record>
       <Key>TutorialLockItDownDescripton</Key>
-      <Value>Je čas jít ven! Nezapomeňte si zavřít přilbu - dýchání bude jinak obtížné. Zamknutí přilby může zabránit náhodnému otevření a vystavení se škodlivým atmosférám a teplotním výkyvům, takže ji uzamkněte.</Value>
+      <Value>Je čas jít ven! Nezapomeňte si zavřít přilbu - jinak se vám bude špatně dýchat. Uzavřením přilby můžete zabránit náhodnému otevření skafandru a vystavení se škodlivému ovzduší a výkyvům teplot, proto ji zamkněte.</Value>
     </Record>
     <Record>
       <Key>TutorialLockItDownTask1</Key>
@@ -124,15 +124,15 @@ Sloty pro vaši postavu vidíte na levé straně obrazovky. Příkladem je použ
     </Record>
     <Record>
       <Key>TutorialLockItDownTask2</Key>
-      <Value>Pomocí tlačítka {KEY:HelmetSlot} otevřete nabídku {THING:ItemSpaceHelmet} a vyberte tlačítko Zamknout masku.</Value>
+      <Value>Pomocí tlačítka {KEY:HelmetSlot} otevřete nabídku {THING:ItemSpaceHelmet} a vyberte tlačítko Zamknout přilbu.</Value>
     </Record>
     <Record>
       <Key>TutorialTheGreatOutdoorsTitle</Key>
-      <Value>Báječná dovolená</Value>
+      <Value>Skvělá příroda</Value>
     </Record>
     <Record>
       <Key>TutorialTheGreatOutdoorsDescription</Key>
-      <Value>Pojďme na dobrodružství! Připravte se na synchronizaci {THING:StructureAirlock}.</Value>
+      <Value>Vydejme se na dobrodružnou výpravu! Připravte se na synchronizaci {THING:StructureAirlock}.</Value>
     </Record>
     <Record>
       <Key>TutorialTheGreatOutdoorsTask1</Key>
@@ -140,11 +140,11 @@ Sloty pro vaši postavu vidíte na levé straně obrazovky. Příkladem je použ
     </Record>
     <Record>
       <Key>TutorialTheGreatOutdoorsTask2</Key>
-      <Value>Synchronizujte {THING:StructureAirlock} kliknutím na tlačítko Synchronizovat na osvětlené konzoli a počkejte, až bude dokončena.</Value>
+      <Value>Proveďte synchronizaci {THING:StructureAirlock} kliknutím na tlačítko Synchronizovat na rozsvícené konzoli a počkejte na jeho dokončení.</Value>
     </Record>
     <Record>
       <Key>TutorialDescCycleAirlock1</Key>
-      <Value>Pojďme získat ne tak čerstvý vzduch, můžeme?</Value>
+      <Value>Pojďme se trochu nadýchat nepříliš čerstvého vzduchu, ano?</Value>
     </Record>
     <Record>
       <Key>TutorialAnotherDayAnotherDollarTitle</Key>
