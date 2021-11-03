@@ -14,13 +14,13 @@
       <Key>ScenariosBorznacsKitchenDescription</Key>
       <!--Menu Disc-->
       <Value>Poté, co byl Borznac pátý vyřazen z několika obchodních dohod se Sinotai, rozhodl se vybudovat vlastní říši a ovládnout všechny okolní měsíční základny, včetně té vaší.
-Byl jsi nucen pracovat jako jeho nový osobní kuchař. Tak se raději pusť do vaření.</Value>
+Byl jste nucen pracovat jako jeho nový osobní kuchař. Tak se raději pusťte do vaření.</Value>
     </Record>
     <Record>
       <Key>ScenariosBorznacsKitchenIntroDescription</Key>
       <!--Intro Panel-->
       <Value>Borznac pátý není známý svou zdvořilostí. Poté, co byl vyřazen z několika obchodních dohod se Sinotai, rozhodl se vybudovat vlastní říši a ovládnout všechny okolní lunární základny, včetně té vaší.
-Byl jsi nucen pracovat jako jeho nový osobní kuchař. Stále nevíš, co se stalo s jeho posledním kuchařem, a nechceš to zjistit. Má docela chuť k jídlu a je velmi netrpělivý. Takže se raději pusť do vaření.</Value>
+Byl jste nucen pracovat jako jeho nový osobní kuchař. Stále nevíte, co se stalo s jeho posledním kuchařem, a nechcete to zjistit. Má docela chuť k jídlu a je velmi netrpělivý. Takže se raději pusťte do vaření.</Value>
     </Record>
     <Record>
       <Key>CookingForYourLifeSubTitle</Key>
@@ -84,16 +84,16 @@ Byl jsi nucen pracovat jako jeho nový osobní kuchař. Stále nevíš, co se st
     </Record>
     <Record>
       <Key>BorznacsNarration0D</Key>
-      <Value>Mám hlad, tak mi udělej pečené brambory. Ale nezapomeň, že najednou můžeš uvařit jen jednu.
-Až budou hotové, doruč mi je skrz šachtu. Nezklam mě. Můj poslední kuchař byl pomalý a hloupý. Nedopadlo to s nimi dobře.</Value>
+      <Value>Mám hlad, tak mi udělejte pečené brambory. Ale nezapomeňte, že najednou můžete uvařit jen jednu.
+Až budou hotové, doručte mi je skrz šachtu. Nezklamte mě. Můj poslední kuchař byl pomalý a hloupý. Nedopadlo to s nimi dobře.</Value>
     </Record>
     <Record>
       <Key>BorznacsNarration1D</Key>
-      <Value>To bylo sotva dostačující. Chci něco s chutí. Žádám  hranolky! Určitě si pamatuješ, jak se vaří?</Value>
+      <Value>To bylo sotva dostačující. Chci něco s chutí. Žádám  hranolky! Určitě si pamatujete, jak se vaří?</Value>
     </Record>
     <Record>
       <Key>BorznacsNarration2D</Key>
-      <Value>Mmmmm ... to bylo lepší. Teď mám chuť na sladkou svačinu. Udělej mi muffiny, nebo zažiješ můj hněv.</Value>
+      <Value>Mmmmm ... to bylo lepší. Teď mám chuť na sladkou svačinu. Udělejte mi muffiny, nebo zažijete můj hněv.</Value>
     </Record>
     <Record>
       <Key>BorznacsNarration3D</Key>
@@ -105,17 +105,17 @@ Až budou hotové, doruč mi je skrz šachtu. Nezklam mě. Můj poslední kucha�
     </Record>
     <Record>
       <Key>BorznacsNarration5D</Key>
-      <Value>Ach, vedl jste si mnohem lépe než váš předchůdce. Teď něco klasického. Dýňový koláč je to, co potřebuji. Okamžitě mi ho udělejte. Otevřel jsem šachtu v místnosti se zdroji. Můžeš použít cokoliv, co tam nechal minulý kuchař.</Value>
+      <Value>Ach, vedl jste si mnohem lépe než váš předchůdce. Teď něco klasického. Dýňový koláč je to, co potřebuji. Okamžitě mi ho udělejte. Otevřel jsem šachtu v místnosti se zdroji. Můžete použít cokoliv, co tam nechal minulý kuchař.</Value>
     </Record>
     <Record>
       <Key>BorznacsNarration6D</Key>
-      <Value>Vynikající. Na rozdíl od tvého imbecilního předchůdce máš možná na to, abys mi sloužil. Jednoho dne možná dokonce zvážím, že ti dám svobodu. Možná. Ale teď jsem připraven na večeři. Dokonči jídlo o třech chodech, nebo poneseš  nevýslovné následky.</Value>
+      <Value>Vynikající. Na rozdíl od vašeho imbecilního předchůdce máte možná na to, abyste mi sloužil. Jednoho dne možná dokonce zvážím, že Vám dám svobodu. Možná. Ale teď jsem připraven na večeři. Dokončete jídlo o třech chodech, nebo ponesete nevýslovné následky.</Value>
     </Record>
     <Record>
       <Key>BorznacWinEnd</Key>
-      <Value>Prokázal jsi, že jsi nepostradatelným služebníkem Borznaca.
+      <Value>Prokázal jste, že jste nepostradatelným služebníkem Borznaca.
 			
-Gratuluji.</Value>
+Gratulujeme.</Value>
     </Record>
   </Interface>
 </Language>
