@@ -165,6 +165,10 @@ Dnes si však vyzkoušíme jen základy: máte vodu, světlo a správnou směs p
       <Value>Vytvořte mouku</Value>
     </Record>
     <Record>
+      <Key>6NarrationInsert1D</Key>
+      <Value>Nyní máte k dispozici zásoby vody, pusťte se do pěstování. Hydroponické vaničky představují jednoduchý a účinný systém pěstování rostlin všeho druhu. Dokončete síť přidáním dalšího zásobníku do sítě.</Value>
+    </Record>
+    <Record>
       <Key>6MicrowaveClosed</Key>
       <Value>Zavřete mikrovlnnou troubu</Value>
     </Record>
@@ -187,6 +191,18 @@ Dnes si však vyzkoušíme jen základy: máte vodu, světlo a správnou směs p
     <Record>
       <Key>6PickUpCable</Key>
       <Value>Vezměte kabel</Value>
+    </Record>
+    <Record>
+      <Key>6PickUpItemHydroponicTray</Key>
+      <Value>Vezměte hydroponickou vaničku</Value>
+    </Record>
+    <Record>
+      <Key>6GetFlour</Key>
+      <Value>Získejte mouku ze zpracovatele činidel</Value>
+    </Record>
+    <Record>
+      <Key>6EndScreenText</Key>
+      <Value>Dobrá práce, kadete. Prokázal jste přijatelné hydratační a hydroponické schopnosti.</Value>
     </Record>
     <Record>
       <Key>6WaitForGrow</Key>
