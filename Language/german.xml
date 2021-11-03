@@ -5842,7 +5842,7 @@
     </Record>
     <Record>
       <Key>SettingsUpdatePort</Key>
-      <Value>Port Erneurn</Value>
+      <Value>Port erneuern</Value>
     </Record>
     <Record>
       <Key>SettingsGamePort</Key>
@@ -6169,7 +6169,7 @@ Bitte versuche es erneut.</Value>
     </Record>
     <Record>
       <Key>AlertWrongPassword</Key>
-      <Value>Das Server-Passwort stimmt nicht.</Value>
+      <Value>Das Server-Passwort nicht korrekt</Value>
     </Record>
     <Record>
       <Key>AlertInvalidPort</Key>
@@ -6313,7 +6313,7 @@ Bitte versuche es erneut.</Value>
     </Record>
     <Record>
       <Key>JoinMenuButtonStopRefresh</Key>
-      <Value>Erneurn Abbrechen</Value>
+      <Value>Aktualisieren abbrechen</Value>
     </Record>
     <Record>
       <Key>JoinMenuIncompatibleVersions</Key>
@@ -8010,7 +8010,7 @@ Temperatur {1}</Value>
     </Record>
     <Record>
       <Key>SettingsServerAdminPassword</Key>
-      <Value>Das Server-Passwort stimmt nicht.</Value>
+      <Value>Server Admin Passwort</Value>
     </Record>
     <Record>
       <Key>ScoreboardPlayer</Key>
@@ -8019,10 +8019,6 @@ Temperatur {1}</Value>
     <Record>
       <Key>ScoreboardTime</Key>
       <Value>Spielzeit:</Value>
-    </Record>
-    <Record>
-      <Key>SettingsFirstPersonHelmet</Key>
-      <Value>Helm in Egoperspektive</Value>
     </Record>
     <Record>
       <Key>SiloDeconstruct</Key>
