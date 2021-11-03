@@ -42,7 +42,7 @@
     </StationpediaPage>
     <StationpediaPage>
       <Key>MiningPage</Key>
-      <Title>Těžení</Title>
+      <Title>Těžba</Title>
       <Text>Můžete těžit {LINK:OrePage;rudu} pomocí {THING:ItemMiningDrill}. Pokud máte na sobě {THING:ItemMiningBelt}, {LINK:OrePage;ruda} se do něj automaticky umístí.
   </Text>
     </StationpediaPage>
