@@ -80,12 +80,49 @@
       <Value>Zapněte růstové světlo</Value>
     </Record>
     <Record>
+      <Key>6Narration5D</Key>
+      <Value>Různé rostliny vyžadují různé atmosférické poměry.
+Dnes si však vyzkoušíme jen základy: máte vodu, světlo a správnou směs plynů, takže je čas zasadit pšenici do každé z hydroponických vaniček.</Value>
+    </Record>
+    <Record>
       <Key>6GetWheat</Key>
       <Value>Vezměte semena pšenice z bedny</Value>
     </Record>
     <Record>
+      <Key>6PlantWheat</Key>
+      <Value>Do hydroponických vaniček zasaďte pšenici.</Value>
+    </Record>
+    <Record>
+      <Key>6Narration6D</Key>
+      <Value>V další fázi si vyzkoušíme vaše dovednosti s plynovými systémy, ale zatím počkejte, až vám vyroste pšenice. Pro urychlení jsme přidali trochu superhnojiva.</Value>
+    </Record>
+    <Record>
+      <Key>6WaitForWheatToGrow</Key>
+      <Value>Počkejte, až vyroste pšenice.</Value>
+    </Record>
+    <Record>
+      <Key>6Narration6D</Key>
+      <Value>V další fázi si vyzkoušíme vaše dovednosti s plynovými systémy, ale zatím počkejte, až vám vyroste pšenice. Pro urychlení jsme přidali trochu superhnojiva.</Value>
+    </Record>
+    <Record>
+      <Key>6HarvestWheat</Key>
+      <Value>Skliďte 20 pšenic</Value>
+    </Record>
+    <Record>
+      <Key>6PutWheatInProcessor</Key>
+      <Value>Přidejte pšenici do trychtýře zpracovatele činidel</Value>
+    </Record>
+    <Record>
       <Key>6BenchOn</Key>
       <Value>Zapněte lavici</Value>
+    </Record>
+    <Record>
+      <Key>6ReagentProcessorOn</Key>
+      <Value>Zapněte zpracovatel činidel</Value>
+    </Record>
+    <Record>
+      <Key>6Narration8D</Key>
+      <Value>Za chvíli budete mít mouku, takže se můžete pustit do pečení. V mikrovlnné troubě můžete připravovat různé pokrmy, včetně lahodných muffinů. Dbejte na to, abyste přesně dodržovali recept, protože pečení je věda.</Value>
     </Record>
     <Record>
       <Key>6PutEggInMicrowave</Key>
@@ -108,8 +145,16 @@
       <Value>Upečte muffin</Value>
     </Record>
     <Record>
+      <Key>6Narration9D</Key>
+      <Value>Právě dostáváte jeden z nejlepších muffinů Agrizero. Vychutnejte si ho - a zažeňte hlad, kadete.</Value>
+    </Record>
+    <Record>
       <Key>6EatMuffin</Key>
       <Value>Jezte muffin</Value>
+    </Record>
+    <Record>
+      <Key>6Narration10D</Key>
+      <Value>Výborně, kadete. Prokázal jste vysokou míru soběstačnosti a přijatelný kulinářský talent. Velitelství Stationeerů na vás bude pyšné. Stiskněte důležité modré tlačítko a předejte své výsledky.</Value>
     </Record>
     <Record>
       <Key>6OnButtonPressTask</Key>
