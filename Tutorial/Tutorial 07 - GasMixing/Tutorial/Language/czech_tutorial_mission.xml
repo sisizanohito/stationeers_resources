@@ -15,8 +15,25 @@
       <Value>Rozšiřte své dovednosti v oblasti míchání a filtrace plynů a vytvářejte atmosféry, paliva a další.</Value>
     </Record>
     <Record>
+      <Key>IntoTutoiralGasMixingDescription</Key>
+      <Value>Vítejte, kadete! Jako Stationeer budete muset vytvářet nejrůznější paliva a atmosféry pro vzdálené základny ODA. Pojďme tedy prozkoumat vaše znalosti o filtrování a míchání plynů.</Value>
+    </Record>
+    <Record>
+      <Key>7Narration0D</Key>
+      <Value>Práce Stationeera není nikdy hotová, ale svářečce došel benzín! Je čas vytvořit další palivo. Nejprve potřebujete zdroj kyslíku.
+Vaše rostliny vyrábějí kyslík z CO2 a toho je v odpadní nádrži vašeho skafandru dostatek. Stačí ho vypustit v hydroponické místnosti.</Value>
+    </Record>
+    <Record>
       <Key>7WasteTankOpened</Key>
       <Value>Otevřete odpadní nádrž obleku</Value>
+    </Record>
+    <Record>
+      <Key>7WasteTankClosed</Key>
+      <Value>Zavřete odpadní nádrž obleku</Value>
+    </Record>
+    <Record>
+      <Key>7Narration1D</Key>
+      <Value>Chcete-li v této místnosti odebírat kyslík z atmosféry, postavte na zvýrazněném místě aktivní ventilaci. Použijte jej k čerpání atmosféry do filtračního systému.</Value>
     </Record>
     <Record>
       <Key>7GetActiveVent</Key>
@@ -27,8 +44,16 @@
       <Value>Postavte aktivní ventilaci na zvýrazněné místo</Value>
     </Record>
     <Record>
+      <Key>7Narration2D</Key>
+      <Value>Nyní nechte zeleň na chvíli na pokoji. Projděte přechodovou komorou do místnosti s atmosférou a zkonstruujte systém míchání plynů.</Value>
+    </Record>
+    <Record>
       <Key>7MoveToArea</Key>
       <Value>Vstupte do atmosférické místnosti</Value>
+    </Record>
+    <Record>
+      <Key>7Narration3D</Key>
+      <Value>Chcete-li získat kyslík z atmosféry hydroponické místnosti, musíte zvrátit entropii. Proto je dalším krokem vybudování filtrační jednotky.</Value>
     </Record>
     <Record>
       <Key>7GetAtmospherics</Key>
@@ -37,6 +62,10 @@
     <Record>
       <Key>7BuildAtmospherics</Key>
       <Value>Postavte filtrační jednotku na zvýrazněné místo</Value>
+    </Record>
+    <Record>
+      <Key>7Narration4D</Key>
+      <Value>Pro přenos atmosféry z hydroponické místnosti do filtrační jednotky dokončete síť zeleného kyslíkového potrubí.</Value>
     </Record>
     <Record>
       <Key>7GetPipeKit</Key>
