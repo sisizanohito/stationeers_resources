@@ -7761,6 +7761,10 @@ Temperatur {1}</Value>
       <Value>Pausiert die Ausführung für 1 Tick</Value>
     </Record>
     <Record>
+      <Key>ScriptCommandLabel</Key>
+      <Value>VERALTET</Value>
+    </Record>
+    <Record>
       <Key>ScriptCommandSleep</Key>
       <Value>Unterbricht die Ausführung auf dem IC für x Sekunden</Value>
     </Record>
@@ -7894,7 +7898,7 @@ Temperatur {1}</Value>
     </Record>
     <Record>
       <Key>CompletedKey</Key>
-      <Value>Tutorial Komplett</Value>
+      <Value>Abgeschlossen</Value>
     </Record>
     <Record>
       <Key>LockedKey</Key>
@@ -7902,7 +7906,7 @@ Temperatur {1}</Value>
     </Record>
     <Record>
       <Key>TutorialScoreboardHeading</Key>
-      <Value>Tutorial Komplett</Value>
+      <Value>Tutorial abgeschlossen</Value>
     </Record>
     <Record>
       <Key>TutorialSelectKey</Key>
@@ -7921,12 +7925,8 @@ Temperatur {1}</Value>
       <Value>Du brauchst ein {THING:ItemCrowbar} um das zu öffnen</Value>
     </Record>
     <Record>
-      <Key>Display</Key>
-      <Value>Zeige FPS</Value>
-    </Record>
-    <Record>
       <Key>Player</Key>
-      <Value>Spieler:</Value>
+      <Value>Spieler</Value>
     </Record>
     <Record>
       <Key>Deceased</Key>
@@ -7966,7 +7966,7 @@ Temperatur {1}</Value>
     </Record>
     <Record>
       <Key>PlantToxic</Key>
-      <Value>Das Verhältnis von Schadstoff in der Geräteatmosphäre</Value>
+      <Value>{0}wurde aufgrund hoher {1}Schadstoffe{2} in Atmosphäre beschädigt</Value>
     </Record>
     <Record>
       <Key>holdhotkey</Key>
@@ -8014,11 +8014,11 @@ Temperatur {1}</Value>
     </Record>
     <Record>
       <Key>ScoreboardPlayer</Key>
-      <Value>Spieler:</Value>
+      <Value>Spieler</Value>
     </Record>
     <Record>
       <Key>ScoreboardTime</Key>
-      <Value>Spielzeit:</Value>
+      <Value>Spielzeit</Value>
     </Record>
     <Record>
       <Key>SiloDeconstruct</Key>
@@ -8070,7 +8070,7 @@ Temperatur {1}</Value>
     </Record>
     <Record>
       <Key>ActivateExplosiveKey</Key>
-      <Value>Mauskontrolle aktivieren</Value>
+      <Value>Countdown aktivieren</Value>
     </Record>
     <Record>
       <Key>ActivateExplosiveTooltipKey1</Key>
@@ -8142,11 +8142,7 @@ Temperatur {1}</Value>
     </Record>
     <Record>
       <Key>CommandHelp</Key>
-      <Value>Zeigt das Hilfe Menü. : &quot;/help&quot;</Value>
-    </Record>
-    <Record>
-      <Key>TK</Key>
-      <Value>K</Value>
+      <Value>Zeigt das Hilfe Menü: &quot;/help&quot;</Value>
     </Record>
     <Record>
       <Key>ControlMouseControlDisc</Key>
@@ -8167,10 +8163,6 @@ Temperatur {1}</Value>
     <Record>
       <Key>ControlScrollWheelSelectDisc</Key>
       <Value>Baumodus umschalten</Value>
-    </Record>
-    <Record>
-      <Key>ControlAutoRotate</Key>
-      <Value>Halte {KEY:QuantityModifier} für vorheriges Objekt</Value>
     </Record>
     <Record>
       <Key>ControlAutoRotateDisc</Key>
