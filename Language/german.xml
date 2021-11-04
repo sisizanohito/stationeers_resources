@@ -5330,7 +5330,7 @@
     </Record>
     <Record>
       <Key>Edibles</Key>
-      <Value>Essbares</Value>
+      <Value>Lebensmittel</Value>
     </Record>
     <Record>
       <Key>AirContitioningAtmos</Key>
@@ -7677,20 +7677,12 @@ Temperatur {1}</Value>
       <Value>Szenarien</Value>
     </Record>
     <Record>
-      <Key>TutorialsTitle</Key>
-      <Value>Tutorial</Value>
-    </Record>
-    <Record>
       <Key>SettingsTerrainClutter</Key>
       <Value>Geländerauheit</Value>
     </Record>
     <Record>
       <Key>ResetInventoryTitle</Key>
-      <Value>Fenster zurücksetzen</Value>
-    </Record>
-    <Record>
-      <Key>ConfirmReset</Key>
-      <Value>Zurücksetzen</Value>
+      <Value>Inventarfenster zurücksetzen</Value>
     </Record>
     <Record>
       <Key>SettingsTerrainClutterMultiplier</Key>
@@ -8486,7 +8478,7 @@ Temperatur {1}</Value>
     </Record>
     <Record>
       <Key>NoSoundCartridge</Key>
-      <Value>Kassetten</Value>
+      <Value>Keine Sound-Kassette</Value>
     </Record>
     <Record>
       <Key>StationpediaMaxPressure</Key>
