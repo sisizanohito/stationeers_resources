@@ -8510,7 +8510,7 @@ Temperatur {1}</Value>
     </Record>
     <Record>
       <Key>SettingsSmoothTerrain</Key>
-      <Value>Terrain</Value>
+      <Value>Terrainglättung</Value>
     </Record>
   </Interface>
   <Colors>
