@@ -308,19 +308,19 @@ Sloty pro vaši postavu vidíte na levé straně obrazovky. Příkladem je použ
     </Record>
     <Record>
       <Key>TutorialYouCallThatAPrinterTask2</Key>
-      <Value>Vezměte {THING:ItemKitElectronicsPrinter}.</Value>
+      <Value>Zvedněte {THING:ItemKitElectronicsPrinter}.</Value>
     </Record>
     <Record>
       <Key>TutorialStopLathenAround3Title</Key>
-      <Value>Zastavte se a rozhlédněte se kolem</Value>
+      <Value>Přestaňte se motat v kruhu</Value>
     </Record>
     <Record>
       <Key>TutorialStopLathenAround3Description</Key>
-      <Value>Jdeme dál.</Value>
+      <Value>Pokračujeme dál.</Value>
     </Record>
     <Record>
       <Key>TutorialStopLathenAround3Task1</Key>
-      <Value>Vezměte {THING:ItemKitElectronicsPrinter}</Value>
+      <Value>Zvedněte {THING:ItemKitElectronicsPrinter}</Value>
     </Record>
     <Record>
       <Key>TutorialStopLathenAround3Task2</Key>
@@ -328,47 +328,47 @@ Sloty pro vaši postavu vidíte na levé straně obrazovky. Příkladem je použ
     </Record>
     <Record>
       <Key>TutorialThisIsAPrinterTitle</Key>
-      <Value>Toto je tiskárna</Value>
+      <Value>Tohle je tiskárna</Value>
     </Record>
     <Record>
       <Key>TutorialThisIsAPrinterDescription</Key>
-      <Value>Další věc na našem seznamu, které je třeba udělat, jen dole umisť {THING:ItemKitElectronicsPrinter}.</Value>
+      <Value>Jako další na našem seznamu věcí, které je třeba udělat, umístíme tuto {THING:ItemKitElectronicsPrinter}.</Value>
     </Record>
     <Record>
       <Key>TutorialThisIsAPrinterTask1</Key>
-      <Value>Umístěte {THING:ItemKitElectronicsPrinter} do zvýrazněné oblasti</Value>
+      <Value>Umístěte {THING:ItemKitElectronicsPrinter} na zvýrazněnou oblast.</Value>
     </Record>
     <Record>
       <Key>TutorialThisIsAPrinter1Title</Key>
-      <Value>Toto je tiskárna</Value>
+      <Value>Tohle je tiskárna</Value>
     </Record>
     <Record>
       <Key>TutorialThisIsAPrinter1Description</Key>
-      <Value>Čas na vytvoření {THING:ItemKitElectronicsPrinter}. Potřebné materiály byste měli najít ve skříňce. Poté, vyberte {THING:ItemKitSolarPanel} recept. Struktury jako {THING:StructureElectronicsPrinter} budou pokračovat v tisku položek, dokud je znovu nevypnete, velmi rychle spotřebují zdroje, takže je nezapomeňte vypnout, jakmile budete hotov!</Value>
+      <Value>Je čas zkonstruovat {THING:ItemKitElectronicsPrinter}. Potřebný materiál byste měli najít ve skříňce. Až to uděláte, vyberte recept {THING:ItemKitSolarPanel}. Konstrukce jako {THING:StructureElectronicsPrinter} budou pokračovat v tisku předmětů, dokud je opět nevypnete, což velmi rychle spotřebuje vaše zdroje, takže je nezapomeňte po dokončení vypnout!</Value>
     </Record>
     <Record>
       <Key>TutorialThisIsAPrinter1Task</Key>
-      <Value>Vytvořte {THING:ItemKitElectronicsPrinter}</Value>
+      <Value>Sestavte {THING:ItemKitElectronicsPrinter}</Value>
     </Record>
     <Record>
       <Key>TutorialThisIsAPrinter1Task0</Key>
-      <Value>Zapnutí tiskárny</Value>
+      <Value>Zapněte tiskárnu</Value>
     </Record>
     <Record>
       <Key>TutorialThisIsAPrinter1Task2</Key>
-      <Value>Vytvořte {THING:ItemKitSolarPanel} s dodanými materiály</Value>
+      <Value>Sestavte svůj {THING:ItemKitSolarPanel} z poskytnutých materiálů</Value>
     </Record>
     <Record>
       <Key>TutorialThisIsAPrinter1Task1</Key>
-      <Value>Vyberte recept {THING:ItemKitSolarPanel} na tiskárně.</Value>
+      <Value>Na tiskárně vyberte recept {THING:ItemKitSolarPanel}.</Value>
     </Record>
     <Record>
       <Key>TutorialSeeTheLightTitle</Key>
-      <Value>Podívejte se na světlo</Value>
+      <Value>Spatřit světlo</Value>
     </Record>
     <Record>
       <Key>TutorialSeeTheLightDescription</Key>
-      <Value>Použijte požadované materiály k vytvoření {THING:ItemKitSolarPanel}, měli byste je najít ve skříňce.  </Value>
+      <Value>Použijte potřebné materiály k vytvoření {THING:ItemKitSolarPanel}, které byste měli najít ve skříňce.  </Value>
     </Record>
     <Record>
       <Key>TutorialSeeTheLightTask1</Key>
