@@ -5236,31 +5236,31 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitHorizontalAutoMiner</Key>
-      <Value>Vytvoří {THING:StructureRocketModuleSilo}.</Value>
+      <Value>OGRE (sada)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitStirlingEngine</Key>
-      <Value>Vytvoří {THING:StructureRocketModuleSilo}.</Value>
+      <Value>Stirlingův motor (sada)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureShortLocker</Key>
-      <Value/>
+      <Value>Krátká skříňka</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCornerLocker</Key>
-      <Value/>
+      <Value>Rohová skříňka</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPowerTransmitter</Key>
-      <Value/>
+      <Value>Vysílač napájení (sada)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitInteriorDoors</Key>
-      <Value/>
+      <Value>Interiérové dveře (sada)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureUnpoweredHatch</Key>
-      <Value/>
+      <Value>Nenapájený poklop</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPowerTransmitterOmni</Key>
