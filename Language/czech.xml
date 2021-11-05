@@ -4169,7 +4169,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureBatteryLarge</Key>
-      <Value>Velká baterie</Value>
+      <Value>Baterie stanice (velká)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitBatteryLarge</Key>
@@ -5264,7 +5264,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPowerTransmitterOmni</Key>
-      <Value/>
+      <Value>Omni vysílač napájení (sada)</Value>
     </RecordThing>
   </Things>
   <Slots>
