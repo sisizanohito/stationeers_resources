@@ -5152,35 +5152,35 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAdvancedComposter</Key>
-      <Value>Vytvoří {THING:StructureRocketModuleSilo}.</Value>
+      <Value>Pokročilý kompostér (sada)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitFridgeSmall</Key>
-      <Value>Vytvoří {THING:StructureRocketModuleSilo}.</Value>
+      <Value>Malá lednice (sada)</Value>
     </RecordThing>
     <RecordThing>
       <Key>KitPlanter</Key>
-      <Value>Tato sada vytváří {THING:StructurePipeMeter}.</Value>
+      <Value>Pěstitel (sada)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPlanter</Key>
-      <Value/>
+      <Value>Pěstitel (sada)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureAutomatedOven</Key>
-      <Value/>
+      <Value>Automatická trouba</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAutomatedOven</Key>
-      <Value/>
+      <Value>Automatická trouba (sada)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemPoweredEggs</Key>
-      <Value/>
+      <Value>Vejce v prášku</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAdvancedPackagingMachine</Key>
-      <Value>Vytvoří {THING:StructureRocketModuleSilo}.</Value>
+      <Value>Pokročilý balicí stroj (sada)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitInsulatedWaterPipe</Key>
