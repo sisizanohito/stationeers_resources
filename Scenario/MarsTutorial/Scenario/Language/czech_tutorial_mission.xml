@@ -372,19 +372,19 @@ Sloty pro vaši postavu vidíte na levé straně obrazovky. Příkladem je použ
     </Record>
     <Record>
       <Key>TutorialSeeTheLightTask1</Key>
-      <Value>Přidejte materiály k vytvoření {THING:ItemKitSolarPanel}</Value>
+      <Value>Přidejte materiály pro sestavení {THING:ItemKitSolarPanel}</Value>
     </Record>
     <Record>
       <Key>TutorialSeeTheLightTask2</Key>
-      <Value>Vezměte {THING:ItemKitSolarPanel} užitím {KEY:PrimaryAction}</Value>
+      <Value>Zvedněte {THING:ItemKitSolarPanel} pomocí {KEY:PrimaryAction}</Value>
     </Record>
     <Record>
       <Key>TutorialSeeTheLight1Title</Key>
-      <Value>Podívejte se na světlo</Value>
+      <Value>Spatřit světlo</Value>
     </Record>
     <Record>
       <Key>TutorialSeeTheLight1Description</Key>
-      <Value>Jdeme dál.</Value>
+      <Value>Pokračujeme dál.</Value>
     </Record>
     <Record>
       <Key>TutorialSeeTheLight1Task1</Key>
@@ -392,39 +392,39 @@ Sloty pro vaši postavu vidíte na levé straně obrazovky. Příkladem je použ
     </Record>
     <Record>
       <Key>TutorialPanelForthTitle</Key>
-      <Value>Panel dopředu</Value>
+      <Value>Panel vpředu</Value>
     </Record>
     <Record>
       <Key>TutorialPanelForthDescription</Key>
-      <Value>Vypadá to, že ty dveře potřebují energii, než budeme moci pokračovat. Naštěstí tam, kde je okno, je sluneční světlo. Tam, kde je sluneční světlo, je energie! Pojďme tam, umístit {THING:ItemKitSolarPanel}. Můžete použít {THING:ItemWrench} pro upravení úhlu, bude generovat více energie, když bude čelit slunci.</Value>
+      <Value>Vypadá to, že dveře potřebují napájení, než budeme moci pokračovat dál. Naštěstí tam, kde je okno, je i sluneční světlo. Kde je sluneční světlo, tam je energie! Umístěme dolů tento {THING:ItemKitSolarPanel}. Pomocí {THING:ItemWrench} můžete nastavit úhel, bude vyrábět více energie, když bude obrácený ke slunci.</Value>
     </Record>
     <Record>
       <Key>TutorialPanelForthTask1</Key>
-      <Value>Umístěte {THING:StructureSolarPanel} do zvýrazněné oblasti</Value>
+      <Value>Umístěte {THING:StructureSolarPanel} na zvýrazněnou oblast</Value>
     </Record>
     <Record>
       <Key>TutorialPanelForthTask2</Key>
-      <Value>Vytvořte {THING:StructureSolarPanel} pomocí materiálu ze skříně</Value>
+      <Value>Sestavte {THING:StructureSolarPanel} z materiálů ze skříňky</Value>
     </Record>
     <Record>
       <Key>TutorialDoorNeedsPowerTitle</Key>
-      <Value>Dveře potřebují energii</Value>
+      <Value>Dveře potřebují napájení</Value>
     </Record>
     <Record>
       <Key>TutorialDoorNeedsPowerDescription</Key>
-      <Value>Počkejte, až se dveře zapnou a připravte se na postup vpřed.</Value>
+      <Value>Počkejme, až se dveře zapnou, a připravme se na pohyb vpřed.</Value>
     </Record>
     <Record>
       <Key>TutorialDoorNeedsPowerTask1</Key>
-      <Value>Otevřete dveře, jakmile budou mít energii.</Value>
+      <Value>Otevřete dveře, jakmile budou napájeny.</Value>
     </Record>
     <Record>
       <Key>TutorialDoorNeedsPower1Title</Key>
-      <Value>Jdeme dál.</Value>
+      <Value>Pokračujeme dál.</Value>
     </Record>
     <Record>
       <Key>TutorialDoorNeedsPower1Description</Key>
-      <Value>Je čas jít dál.</Value>
+      <Value>Je čas pokračovat dále.</Value>
     </Record>
     <Record>
       <Key>TutorialDoorNeedsPower1Task1</Key>
@@ -436,15 +436,15 @@ Sloty pro vaši postavu vidíte na levé straně obrazovky. Příkladem je použ
     </Record>
     <Record>
       <Key>TutorialSnackTimeDescription</Key>
-      <Value>Cítíte se trochu hladově? Vezměte si {THING:ItemCerealBar} pro chutnou svačinu. Svačiny jsou dobré pro vaše zdraví a v případě zranění vám mohou pomoci rychleji se zotavit. </Value>
+      <Value>Cítíte se trochu hladoví? Vezměte si {THING:ItemCerealBar} a dejte si chutnou svačinu. Svačina je prospěšná pro Vaše zdraví a může Vám pomoci rychleji se zotavit, pokud jste se zranili. </Value>
     </Record>
     <Record>
       <Key>TutorialSnackTimeTask1</Key>
-      <Value>Zvedněte {THING:ItemCerealBar} použitím {KEY:PrimaryAction}</Value>
+      <Value>Zvedněte {THING:ItemCerealBar} pomocí {KEY:PrimaryAction}</Value>
     </Record>
     <Record>
       <Key>TutorialSnackTimeTask2</Key>
-      <Value>Snězte to použitím {KEY:SecondaryAction}</Value>
+      <Value>Snězte ji pomocí {KEY:SecondaryAction}</Value>
     </Record>
     <Record>
       <Key>TutorialBreakOutTitle</Key>
