@@ -5096,23 +5096,23 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemLiquidPipeAnalyzer</Key>
-      <Value/>
+      <Value>Analyzátor kapalných potrubí (sada)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidPipeAnalyzer</Key>
-      <Value/>
+      <Value>Analyzátor kapalných potrubí</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitModularRocketGasMining</Key>
-      <Value>Tato sada vytváří {THING:StructureModularRocketEngine01}.</Value>
+      <Value>Automatizovaný modul pro těžbu plynu (sada)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitHeatExchanger</Key>
-      <Value>Atmosferika (sada)</Value>
+      <Value>Výměník tepla (sada)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitHangerDoor</Key>
-      <Value/>
+      <Value>Závěsné dveře (sada)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitMusicMachines</Key>
