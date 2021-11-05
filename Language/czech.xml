@@ -177,7 +177,7 @@
     <RecordReagent>
       <Key>Biomass</Key>
       <Value>Biomasa</Value>
-      <Unit>ks</Unit>
+      <Unit>g</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Soy</Key>

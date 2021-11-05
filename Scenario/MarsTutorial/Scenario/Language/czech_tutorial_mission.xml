@@ -712,15 +712,15 @@ Sloty pro vaši postavu vidíte na levé straně obrazovky. Příkladem je použ
     </Record>
     <Record>
       <Key>TutorialHackingTheMainframeTitle</Key>
-      <Value>Hackování systému</Value>
+      <Value>Hackování hlavního počítače</Value>
     </Record>
     <Record>
       <Key>TutorialHackingTheMainframeDescription</Key>
-      <Value>Nyní vyjměte datový disk a zapněte konzoli na programování {THING:StructureAirlock}.
-
-Při zvolení vzduchové komory, se ubezpečte že &apos;INTERIÉR&apos; možnost je vybrána. To lze vidět tím, že se světlo přechodové komory mění ze zelené na červenou, a označuje na kterou přechodovou komoru se aplikujete možnost.
-
-Jakmile bude mít konzole vybrané zařízení, bude pod jeho kontrolou a bude uzamčeno, nebude reagovat na vaše interakce.</Value>
+      <Value>Nyní vyjměte datový disk a zapněte konzoli, abyste naprogramovali {THING:StructureAirlock}.
+			
+		Při výběru přechodové komory se ujistěte, že je na vnitřních dveřích vybrána možnost &quot;INTERIÉR&quot;. To poznáte podle toho, že se kontrolka přechodové komory změní ze zelené na červenou, čímž indikuje, na kterou přechodovou komoru volbu použijete.
+			
+		Jakmile má konzole vybrané zařízení, bude pod její kontrolou a bude uzamčeno, nebude reagovat na vaše interakce stranou.</Value>
     </Record>
     <Record>
       <Key>TutorialHackingTheMainframeTask1</Key>
@@ -732,7 +732,7 @@ Jakmile bude mít konzole vybrané zařízení, bude pod jeho kontrolou a bude u
     </Record>
     <Record>
       <Key>TutorialBeFreeDescription</Key>
-      <Value>Spusťte synchronizaci a vypadněte odsud!</Value>
+      <Value>Spusťte synchronizaci a vypadněme odsud!</Value>
     </Record>
     <Record>
       <Key>TutorialBeFreeTask1</Key>
@@ -740,7 +740,7 @@ Jakmile bude mít konzole vybrané zařízení, bude pod jeho kontrolou a bude u
     </Record>
     <Record>
       <Key>TutorialCompletedDescription</Key>
-      <Value>Gratulujeme, vaše základní školení je kompletní! Vypadněte, Stationeere!</Value>
+      <Value>Gratulujeme, základní výcvik je dokončen! Vyrazte ven, Stationeere!</Value>
     </Record>
   </Interface>
 </Language>
