@@ -632,27 +632,27 @@ Sloty pro vaši postavu vidíte na levé straně obrazovky. Příkladem je použ
     </Record>
     <Record>
       <Key>TutorialWaterYaThinkAboutThatDescription</Key>
-      <Value>Pojďme vyměnit tento prázdný {THING:ItemGasCanisterWater} novým svěžím kanystrem.</Value>
+      <Value>Nahraďme prázdný kanystr {THING:ItemGasCanisterWater} pěkným novým kanystrem.</Value>
     </Record>
     <Record>
       <Key>TutorialWaterYaThinkAboutThatTask1</Key>
-      <Value>Přidejte plný {THING:ItemGasCanisterWater} do {THING:DynamicHydroponics}</Value>
+      <Value>Přidejte plný {THING:ItemGasCanisterWater} do {THING:DynamicHydroponics}.</Value>
     </Record>
     <Record>
       <Key>TutorialLetItGrowTitle</Key>
-      <Value>Nechte ji růst</Value>
+      <Value>Nechte to růst</Value>
     </Record>
     <Record>
       <Key>TutorialLetItGrowDescription</Key>
-      <Value>Věc o vesmíru je, že tu neexistuje jídlo. Zkusme tedy nějaké vypěstovat a uvidíme, jak je váš palec zelený.</Value>
+      <Value>Ve vesmíru je to tak, že tam není žádné jídlo. Zkusme si tedy nějaké vypěstovat a zjistit, jak zelený je váš palec.</Value>
     </Record>
     <Record>
       <Key>TutorialLetItGrowTask1</Key>
-      <Value>Zasaďte {THING:ItemTomato} do {THING:DynamicHydroponics} </Value>
+      <Value>Zasaďte {THING:ItemTomato} do {THING:DynamicHydroponics}. </Value>
     </Record>
     <Record>
       <Key>TutorialLetItGrowTask2</Key>
-      <Value>Počkejte, až sklidíte svou bohatou úrodu</Value>
+      <Value>Počkejte, až sklidíte svou bohatou úrodu.</Value>
     </Record>
     <Record>
       <Key>TutorialSoCloseTitle</Key>
@@ -660,7 +660,7 @@ Sloty pro vaši postavu vidíte na levé straně obrazovky. Příkladem je použ
     </Record>
     <Record>
       <Key>TutorialSoCloseDescription</Key>
-      <Value>Tak blízko, ale zatím daleko. Přesuňte se do vedlejší místnosti.</Value>
+      <Value>Tak blízko, a přece tak daleko. Přesuňte se do další místnosti.</Value>
     </Record>
     <Record>
       <Key>TutorialSoCloseTask1</Key>
@@ -672,7 +672,7 @@ Sloty pro vaši postavu vidíte na levé straně obrazovky. Příkladem je použ
     </Record>
     <Record>
       <Key>TutorialUnderPressureDescription</Key>
-      <Value>Čas na nastavení vaší první {THING:StructureAirlock}. Kabely jsou umístěny pro vás, stačí dát objekty do správných zvýrazněných oblastí. Požadované předměty najdete ve skříňce. </Value>
+      <Value>Je čas nastavit první {THING:StructureAirlock}. Dráty jsou umístěny za vás, stačí jen umístit objekty do správných zvýrazněných oblastí. Potřebné objekty najdete ve skříňce. </Value>
     </Record>
     <Record>
       <Key>TutorialUnderPressureTask1</Key>
