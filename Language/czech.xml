@@ -6768,7 +6768,7 @@
     </Record>
     <Record>
       <Key>TooltipAllowsMounting</Key>
-      <Value>Umožňuje montáž zařízení na stěnu. Vylepšete, abyste umožnili lepší umístění.</Value>
+      <Value>Umožňuje montáž zařízení na stěnu. Vylepšení umožňuje lepší umístění.</Value>
     </Record>
     <Record>
       <Key>TooltipPlacementSnapGrid</Key>
@@ -6828,7 +6828,7 @@
     </Record>
     <Record>
       <Key>SettingsUPNPNote</Key>
-      <Value>Pokud je na routeru povolena technologie UPNP (Universal Plug and Play), budou tyto porty při vytvoření hry automaticky nastaveny.</Value>
+      <Value>Pokud je zde a na směrovači povolena funkce Universal Plug and Play (UPNP), budou tyto porty při vytváření hry automaticky přesměrovány.</Value>
     </Record>
     <Record>
       <Key>SettingsTooltipOpacity</Key>
