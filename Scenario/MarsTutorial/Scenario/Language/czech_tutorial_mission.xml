@@ -448,35 +448,35 @@ Sloty pro vaši postavu vidíte na levé straně obrazovky. Příkladem je použ
     </Record>
     <Record>
       <Key>TutorialBreakOutTitle</Key>
-      <Value>Uprchnout</Value>
+      <Value>Prolomení</Value>
     </Record>
     <Record>
       <Key>TutorialBreakOutDescription</Key>
-      <Value>Zdá se, že ty dveře nefungují! Použijte svůj {THING:ItemCrowbar} pro vypáčení dveří.</Value>
+      <Value>Zdá se, že dveře nefungují! K vypáčení dveří použijte {THING:ItemCrowbar}.</Value>
     </Record>
     <Record>
       <Key>TutorialBreakOutTask1</Key>
-      <Value>Zvedněte váš {THING:ItemCrowbar}</Value>
+      <Value>Zvedněte svůj {THING:ItemCrowbar}</Value>
     </Record>
     <Record>
       <Key>TutorialBreakOutTask2</Key>
-      <Value>Otevřete dveře a vstupte do další místnosti</Value>
+      <Value>Vyražte dveře a vstupte do další místnosti</Value>
     </Record>
     <Record>
       <Key>TutorialWireYouNotWorkingTitle</Key>
-      <Value>Kabele ty nefunguješ?</Value>
+      <Value>Dráte ty nefunguješ?</Value>
     </Record>
     <Record>
       <Key>TutorialWireYouNotWorkingDescription</Key>
-      <Value>Koncept čerpání energie a produkce je důležitý! Tady, příliš moc energie bylo vyprodukováno na to, aby to dráty vydržely. Ukliďte ten nepořádek, přeřízněte ten drát.</Value>
+      <Value>Důležitá je koncepce odběru a výroby energie! V tomto případě bylo vyrobeno příliš mnoho energie, než aby to vodiče zvládly. Ukliďme tento nepořádek, odřízněme tento drát.</Value>
     </Record>
     <Record>
       <Key>TutorialWireYouNotWorkingTask1</Key>
-      <Value>Vezměte si {THING:ItemWireCutters} z opasku na nářadí</Value>
+      <Value>Vybavte se {THING:ItemWireCutters} z opasku na nářadí.</Value>
     </Record>
     <Record>
       <Key>TutorialWireYouNotWorkingTask2</Key>
-      <Value>Najděte a přeřízněte přerušený kabel.</Value>
+      <Value>Najděte a přestřihněte přerušený drát.</Value>
     </Record>
     <Record>
       <Key>TutorialWireYouNotWorking1Description</Key>
