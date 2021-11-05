@@ -492,7 +492,7 @@ Sloty pro vaši postavu vidíte na levé straně obrazovky. Příkladem je použ
     </Record>
     <Record>
       <Key>TutorialWireYouNotWorking2Task1</Key>
-      <Value>Vezměte si {THING:ItemCrowbar} z opasku. </Value>
+      <Value>Vezměte si {THING:ItemCrowbar} z opasku.</Value>
     </Record>
     <Record>
       <Key>TutorialWireYouNotWorking2Task2</Key>
@@ -520,7 +520,7 @@ Sloty pro vaši postavu vidíte na levé straně obrazovky. Příkladem je použ
     </Record>
     <Record>
       <Key>TutorialJustAroundTheCornerDescription</Key>
-      <Value>Jdeme dál.</Value>
+      <Value>Pokračujeme dále.</Value>
     </Record>
     <Record>
       <Key>TutorialJustAroundTheCornerTask1</Key>
