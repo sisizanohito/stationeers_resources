@@ -580,7 +580,7 @@ Sloty pro vaši postavu vidíte na levé straně obrazovky. Příkladem je použ
     </Record>
     <Record>
       <Key>TutorialStatusUpdatesDescription</Key>
-      <Value>Když musíš jít, tak musíš jít. Vypadá to, že se vaše baterie vybila, vyměňte ji za jednu ve skříňce!</Value>
+      <Value>Když musíte jít, musíte jít. Vypadá to, že se vám vybil akumulátor, vyměňte ho za ten ve skříňce!</Value>
     </Record>
     <Record>
       <Key>TutorialStatusUpdatesTask1</Key>
@@ -588,15 +588,15 @@ Sloty pro vaši postavu vidíte na levé straně obrazovky. Příkladem je použ
     </Record>
     <Record>
       <Key>TutorialStatusUpdates1Description</Key>
-      <Value>Dobrá práce, teď se zdá, že vaše vzduchová nádrž je prázdná? Děje se tu něco podezřelého.</Value>
+      <Value>Dobrá práce, nyní se zdá, že je vaše nádrž na vzduch prázdná? Děje se tu něco podezřelého.</Value>
     </Record>
     <Record>
       <Key>TutorialStatusUpdates1Task1</Key>
-      <Value>Vyměňte vzduchovou nádrž</Value>
+      <Value>Vyměňte nádrž na vzduch</Value>
     </Record>
     <Record>
       <Key>TutorialStatusUpdates2Description</Key>
-      <Value>Ten filtr je ucpaný, přidejte nový do obleku, můžete pojmout až tři!</Value>
+      <Value>Ten filtr je ucpaný, přidejte si do obleku nový, můžete mít až tři!</Value>
     </Record>
     <Record>
       <Key>TutorialStatusUpdates2Task1</Key>
@@ -604,15 +604,15 @@ Sloty pro vaši postavu vidíte na levé straně obrazovky. Příkladem je použ
     </Record>
     <Record>
       <Key>TutorialMovingOnUpTitle</Key>
-      <Value>Jdeme nahoru</Value>
+      <Value>Pokračujeme nahoru</Value>
     </Record>
     <Record>
       <Key>TutorialMovingOnUpDescription</Key>
-      <Value>Dostaňte se do toho výtahu!</Value>
+      <Value>Nastupte do výtahu!</Value>
     </Record>
     <Record>
       <Key>TutorialMovingOnUpTask1</Key>
-      <Value>Vstupte do výtahu a jděte do dalšího patra</Value>
+      <Value>Nastupte do výtahu a vyjeďte do dalšího patra.</Value>
     </Record>
     <Record>
       <Key>TutorialTimeToScrubTitle</Key>
@@ -620,11 +620,11 @@ Sloty pro vaši postavu vidíte na levé straně obrazovky. Příkladem je použ
     </Record>
     <Record>
       <Key>TutorialTimeToScrubDescription</Key>
-      <Value>Rostliny vyžadují velmi specifické prostředí, aby mohly růst, to zahrnuje zdravý vzduch a přívod vody a slunečního světla.</Value>
+      <Value>Rostliny potřebují ke svému růstu velmi specifické prostředí, které zahrnuje zdravý vzduch a přísun vody a slunečního světla.</Value>
     </Record>
     <Record>
       <Key>TutorialTimeToScrubTask1</Key>
-      <Value>Zapnutím funkce {THING:DynamicScrubber} odstraníte znečišťující látky z atmosféry</Value>
+      <Value>Zapněte {THING:DynamicScrubber} pro odstranění znečišťujících látek z atmosféry.</Value>
     </Record>
     <Record>
       <Key>TutorialWaterYaThinkAboutThatTitle</Key>
