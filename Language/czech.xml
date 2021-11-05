@@ -5116,39 +5116,39 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitMusicMachines</Key>
-      <Value/>
+      <Value>Hudební stroje (sada)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemInsulatedTankConnector</Key>
-      <Value/>
+      <Value>Izolovaný konektor nádrže (sada)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedTankConnector</Key>
-      <Value/>
+      <Value>Izolovaný konektor nádrže</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemInsulatedTankConnectorLiquid</Key>
-      <Value/>
+      <Value>Izolovaný konektor nádrže na kapalinu (sada)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedTankConnectorLiquid</Key>
-      <Value/>
+      <Value>Izolovaný konektor nádrže na kapalinu</Value>
     </RecordThing>
     <RecordThing>
       <Key>PassiveSpeaker</Key>
-      <Value/>
+      <Value>Pasivní reproduktor</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitFridgeBig</Key>
-      <Value>Tato sada vytváří {THING:StructureSDBSilo}.</Value>
+      <Value>Velká lednice (sada)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitVendingMachineRefrigerated</Key>
-      <Value/>
+      <Value>Chlazený prodejní automat (sada)</Value>
     </RecordThing>
     <RecordThing>
       <Key>SeedBag_Corn</Key>
-      <Value>Tato sada vytváří {THING:ItemWallCooler}.</Value>
+      <Value>Semena kukuřice</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAdvancedComposter</Key>
