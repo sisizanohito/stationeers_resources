@@ -5009,15 +5009,15 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLiquidTankInsulated</Key>
-      <Value>Nádrž na kapalinu (sada)</Value>
+      <Value>Izolovaná nádrž na kapalinu (sada)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidTankBigInsulated</Key>
-      <Value>Nádrž na kapalinu velká</Value>
+      <Value>Velká izolovaná nádrž na kapaliny</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidTankSmallInsulated</Key>
-      <Value>Nádrž na kapalinu malá</Value>
+      <Value>Malá izolovaná nádrž na kapaliny</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureRocketModuleMiningJunk</Key>
@@ -5092,7 +5092,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemLiquidDrain</Key>
-      <Value/>
+      <Value>Kapalinový odtok (sada)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemLiquidPipeAnalyzer</Key>
