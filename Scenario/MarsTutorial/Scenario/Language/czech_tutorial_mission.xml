@@ -220,11 +220,11 @@ Sloty pro vaši postavu vidíte na levé straně obrazovky. Příkladem je použ
     </Record>
     <Record>
       <Key>TutorialItsJustTheFurnaceDescription</Key>
-      <Value>Jediná věc, která se zahřívá je {THING:StructureArcFurnace}, vložte {THING:ItemIronOre}, který jste akorát vytěžili, dovnitř a přeměňte ho na {THING:ItemIronIngot}! Nezapomeňte ji vypnout, to vám pomůže ušetřit vaše cenné zdroje.</Value>
+      <Value>Jediná věc, která se zahřívá, je {THING:StructureArcFurnace}, umístěte tam právě vytěženou {THING:ItemIronOre} a přeměňte ji na {THING:ItemIronIngot}! Nezapomeňte ji poté vypnout, pomáhá to šetřit vaše drahocenné zdroje.</Value>
     </Record>
     <Record>
       <Key>TutorialItsJustTheFurnaceTask1</Key>
-      <Value>Získejte {THING:ItemIronOre} z vašeho {THING:ItemMiningBelt}.</Value>
+      <Value>Získejte {THING:ItemIronOre} ze svého {THING:ItemMiningBelt}.</Value>
     </Record>
     <Record>
       <Key>TutorialItsJustTheFurnaceTask2</Key>
@@ -232,11 +232,11 @@ Sloty pro vaši postavu vidíte na levé straně obrazovky. Příkladem je použ
     </Record>
     <Record>
       <Key>TutorialItsJustTheFurnaceTask3</Key>
-      <Value>Umístěte {THING:ItemIronOre} do {THING:StructureArcFurnace} a počkejte, než se přetaví.</Value>
+      <Value>Umístěte {THING:ItemIronOre} do {THING:StructureArcFurnace} a počkejte, až se roztaví.</Value>
     </Record>
     <Record>
       <Key>TutorialItsJustTheFurnaceTask4</Key>
-      <Value>Vezměte {THING:ItemIronIngot} užitím klávesy {KEY:PrimaryAction}.</Value>
+      <Value>Zvedněte {THING:ItemIronIngot} pomocí {KEY:PrimaryAction}.</Value>
     </Record>
     <Record>
       <Key>TutorialItsJustTheFurnaceTask5</Key>
@@ -244,15 +244,11 @@ Sloty pro vaši postavu vidíte na levé straně obrazovky. Příkladem je použ
     </Record>
     <Record>
       <Key>TutorialItsJustTheFurnace1Title</Key>
-      <Value>To je jenom pec</Value>
+      <Value>Je to jen pec</Value>
     </Record>
     <Record>
       <Key>TutorialItsJustTheFurnace1Description</Key>
       <Value>Pojďme být kreativní!</Value>
-    </Record>
-    <Record>
-      <Key>TutorialItsJustTheFurnace1Task1</Key>
-      <Value>Vstupte do další místnosti</Value>
     </Record>
     <Record>
       <Key>TutorialStopLathenAroundTitle</Key>
