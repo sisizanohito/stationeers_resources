@@ -528,11 +528,11 @@ Sloty pro vaši postavu vidíte na levé straně obrazovky. Příkladem je použ
     </Record>
     <Record>
       <Key>TutorialDoYouFeelTheFlowTitle</Key>
-      <Value>Cítíte ten proud?</Value>
+      <Value>Cítíte to proudění?</Value>
     </Record>
     <Record>
       <Key>TutorialDoYouFeelTheFlowDescription</Key>
-      <Value>Použitím {THING:ItemWrench} připojíme {THING:StructureGasTankStorage} do {THING:StructureTankConnector}, aby jsme měli proudění vzduchu uvnitř, začíná tu být trochu dusno.</Value>
+      <Value>Pomocí {THING:ItemWrench} připojte {THING:StructureGasTankStorage} k {THING:StructureTankConnector}, aby sem začal proudit vzduch, začíná tu být trochu dusno.</Value>
     </Record>
     <Record>
       <Key>TutorialDoYouFeelTheFlowTask1</Key>
@@ -540,15 +540,15 @@ Sloty pro vaši postavu vidíte na levé straně obrazovky. Příkladem je použ
     </Record>
     <Record>
       <Key>TutorialDoYouFeelTheFlowTask2</Key>
-      <Value>Zapněte {THING:StructureValve}, aby vzduch proudil.</Value>
+      <Value>Zapněte {THING:StructureValve} a nechte proudit vzduch.</Value>
     </Record>
     <Record>
       <Key>TutorialLetsTankItUpTitle</Key>
-      <Value>Tak to natankujme</Value>
+      <Value>Pojďme to natankovat</Value>
     </Record>
     <Record>
       <Key>TutorialLetsTankItUpDescription</Key>
-      <Value>Nyní, když proudí vzduch, naplňte tento {THING:ItemGasCanisterEmpty}. Dávejte pozor, aby tlak nebyl příliš vysoko, protože může dojít k výbuchu. To by za normálních okolností mělo vliv na okolní konstrukce, ale ty jsou zde nezničitelné</Value>
+      <Value>Nyní, když vzduch proudí, naplníme tento {THING:ItemGasCanisterEmpty}. Dávejte pozor, abyste nenechali tlak příliš vysoký, při jeho překročení dochází k explozím. Normálně by to mělo vliv na okolní struktury, ale ty zdejší jsou nezničitelné.</Value>
     </Record>
     <Record>
       <Key>TutorialLetsTankItUpTask1</Key>
@@ -556,19 +556,19 @@ Sloty pro vaši postavu vidíte na levé straně obrazovky. Příkladem je použ
     </Record>
     <Record>
       <Key>TutorialLetsTankItUpTask2</Key>
-      <Value>Nastavte {THING:StructureActiveVent} na vnitřní</Value>
+      <Value>Nastavte {THING:StructureActiveVent} na směrem dovnitř</Value>
     </Record>
     <Record>
       <Key>TutorialLetsTankItUpTask3</Key>
-      <Value>Nastavte {THING:StructureActiveVent} na zapnuto</Value>
+      <Value>Nastavte {THING:StructureActiveVent} na Zapnuto.</Value>
     </Record>
     <Record>
       <Key>TutorialLetsTankItUp1Title</Key>
-      <Value>Jdeme dál</Value>
+      <Value>Pokračujeme dále.</Value>
     </Record>
     <Record>
       <Key>TutorialLetsTankItUp1Description</Key>
-      <Value>Už jsme skoro tam!</Value>
+      <Value>Už to skoro je!</Value>
     </Record>
     <Record>
       <Key>TutorialLetsTankItUp1Task1</Key>
@@ -576,7 +576,7 @@ Sloty pro vaši postavu vidíte na levé straně obrazovky. Příkladem je použ
     </Record>
     <Record>
       <Key>TutorialStatusUpdatesTitle</Key>
-      <Value>Scotty, jaký je tvůj status?</Value>
+      <Value>Scotty, jaký je tvůj stav?</Value>
     </Record>
     <Record>
       <Key>TutorialStatusUpdatesDescription</Key>
