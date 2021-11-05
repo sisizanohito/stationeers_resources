@@ -5184,55 +5184,55 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitInsulatedWaterPipe</Key>
-      <Value/>
+      <Value>Izolované vodovodní potrubí (sada)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitInsulatedLiquidPipe</Key>
-      <Value/>
+      <Value>Izolované kapalinové potrubí (sada)</Value>
     </RecordThing>
     <RecordThing>
       <Key>InsulatedLiquidPipeCorner</Key>
-      <Value/>
+      <Value>Izolované rohové kapalinové potrubí</Value>
     </RecordThing>
     <RecordThing>
       <Key>InsulatedLiquidPipeCrossJunction</Key>
-      <Value/>
+      <Value>Izolované kapalinové křížové potrubí</Value>
     </RecordThing>
     <RecordThing>
       <Key>InsulatedLiquidPipeCrossJunction3</Key>
-      <Value/>
+      <Value>Izolované kapalinové křížové potrubí 3</Value>
     </RecordThing>
     <RecordThing>
       <Key>InsulatedLiquidPipeCrossJunction4</Key>
-      <Value/>
+      <Value>Izolované kapalinové křížové potrubí 4</Value>
     </RecordThing>
     <RecordThing>
       <Key>InsulatedLiquidPipeCrossJunction5</Key>
-      <Value/>
+      <Value>Izolované kapalinové křížové potrubí 5</Value>
     </RecordThing>
     <RecordThing>
       <Key>InsulatedLiquidPipeCrossJunction6</Key>
-      <Value/>
+      <Value>Izolované kapalinové křížové potrubí 6</Value>
     </RecordThing>
     <RecordThing>
       <Key>InsulatedLiquidPipeJunction</Key>
-      <Value/>
+      <Value>Izolované spojení kapalinového potrubí</Value>
     </RecordThing>
     <RecordThing>
       <Key>InsulatedLiquidPipeStraight</Key>
-      <Value/>
+      <Value>Izolované rovné kapalinové potrubí</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitTurboVolumePump</Key>
-      <Value>Tato sada vytváří {THING:StructureVolumePump}.</Value>
+      <Value>Turbo objemové čerpadlo - plyn (sada)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLiquidTurboVolumePump</Key>
-      <Value>Tato sada vytváří {THING:StructureVolumePump}.</Value>
+      <Value>Turbo objemové čerpadlo - kapalina (sada)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitWindowShutter</Key>
-      <Value>Tato sada vytváří {THING:StructureWindTurbine}.</Value>
+      <Value>Okenní roleta (sada)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitHorizontalAutoMiner</Key>
