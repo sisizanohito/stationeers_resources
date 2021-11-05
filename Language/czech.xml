@@ -10186,7 +10186,7 @@ Program Stationeers je otevřen všem lidem, a to jak z oblasti stavebního inž
     </Record>
     <Record>
       <Key>StationpediaConstructWith</Key>
-      <Value>Konstruujte pomocí:</Value>
+      <Value>Sestrojte pomocí:</Value>
     </Record>
     <Record>
       <Key>StationpediaPrefabHash</Key>
@@ -10234,7 +10234,7 @@ Program Stationeers je otevřen všem lidem, a to jak z oblasti stavebního inž
     </Record>
     <Record>
       <Key>StationpediaHowToManufacture</Key>
-      <Value>Jak vyrábět</Value>
+      <Value>Jak vyrobit</Value>
     </Record>
     <Record>
       <Key>StationpediaBuildStates</Key>
@@ -10373,7 +10373,7 @@ Program Stationeers je otevřen všem lidem, a to jak z oblasti stavebního inž
     </Record>
     <Record>
       <Key>NoNote</Key>
-      <Value>Žádná poznámka</Value>
+      <Value>Bez poznámky</Value>
     </Record>
     <Record>
       <Key>Intensity</Key>
