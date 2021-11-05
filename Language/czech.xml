@@ -8137,7 +8137,7 @@
     </Record>
     <Record>
       <Key>SettingsP2PHostNote</Key>
-      <Value>Je-li povoleno P2PHost, bude Stationeers používat paketový přenos Steamu, takže můžete hrát s kamarádem pod NAT nebo VPN. Není kompatibilní s protokolem TCP/IP a nutí nezveřejnit server.</Value>
+      <Value>Pokud je povolena funkce P2PHost, Stationeers použije paketové přenosy služby Steam, takže můžete hrát s kamarádem pod NAT nebo VPN. Není kompatibilní s TCP/IP a nutí neinzerovat server.</Value>
     </Record>
     <Record>
       <Key>SettingsSavePath</Key>
@@ -8877,7 +8877,7 @@
     </Record>
     <Record>
       <Key>ManualGetResearchPodsRequired</Key>
-      <Value>Nastaví typ lusku, aby při rozpadu lusků vyhledal určitý modul.</Value>
+      <Value>Nastaví typ modulu pro vyhledání určitého modulu při rozpadu modulu.</Value>
     </Record>
     <Record>
       <Key>CurrentResearchPodType</Key>
@@ -8917,11 +8917,11 @@
     </Record>
     <Record>
       <Key>ScriptCommandL</Key>
-      <Value>Načte zařízení var pro registraci.</Value>
+      <Value>Načte var zařízení k registraci.</Value>
     </Record>
     <Record>
       <Key>ScriptCommandLB</Key>
-      <Value>Načte var ze všech zařízení výstupní sítě s dodaným typem hash pomocí dávkového režimu. Průměr (0), součet (1), minimum (2), maximum (3). Můžete použít buď slovo, nebo číslo.</Value>
+      <Value>Načte var ze všech výstupních síťových zařízení se zadaným typem hash pomocí dávkového režimu. Průměr (0), Součet (1), Minimum (2), Maximum (3). Je možné použít buď slovo, nebo číslo.</Value>
     </Record>
     <Record>
       <Key>ScriptCommandS</Key>
@@ -9709,7 +9709,7 @@
     </Record>
     <Record>
       <Key>ControlPrimaryClickDisc</Key>
-      <Value>interakce</Value>
+      <Value>Interakce</Value>
     </Record>
     <Record>
       <Key>ControlHoldPrimaryClick</Key>
@@ -9717,15 +9717,15 @@
     </Record>
     <Record>
       <Key>ControlHoldPrimaryClickConstructDisc</Key>
-      <Value>sestaví</Value>
+      <Value>Sestavení</Value>
     </Record>
     <Record>
       <Key>ControlHoldPrimaryClickDeconstructDisc</Key>
-      <Value>rozebere</Value>
+      <Value>Dekonstrukce</Value>
     </Record>
     <Record>
       <Key>ControlHoldPrimaryClickPlaceDisc</Key>
-      <Value>umístí</Value>
+      <Value>Umístění</Value>
     </Record>
     <Record>
       <Key>ControlHoldPrimaryClickPlantDisc</Key>
