@@ -300,11 +300,11 @@ Sloty pro vaši postavu vidíte na levé straně obrazovky. Příkladem je použ
     </Record>
     <Record>
       <Key>TutorialYouCallThatAPrinterDescription</Key>
-      <Value>Skvělé! Nyní vytvořte {THING:ItemKitElectronicsPrinter}. Vezměte ji a pak se přesuňte do vedlejší místnosti.</Value>
+      <Value>Skvělé! Nyní vytvoříme {THING:ItemKitElectronicsPrinter}. Vezměte ji a přejděte do další místnosti.</Value>
     </Record>
     <Record>
       <Key>TutorialYouCallThatAPrinterTask1</Key>
-      <Value>Vytvořte {THING:ItemKitElectronicsPrinter} pomocí materiálů ze skříně</Value>
+      <Value>Vytvořte {THING:ItemKitElectronicsPrinter} pomocí materiálů ze skříňky</Value>
     </Record>
     <Record>
       <Key>TutorialYouCallThatAPrinterTask2</Key>
