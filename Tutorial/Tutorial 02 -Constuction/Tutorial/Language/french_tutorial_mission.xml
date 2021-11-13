@@ -206,7 +206,7 @@ Connectez les panneaux solaires au réseau électrique à l’aide des câbles t
     </Record>
     <Record>
       <Key>2Narration12D</Key>
-      <Value>Les contrôleurs d’alimentation séparent le réseau d’alimentation électrique (et des données) en sous-réseaux. Ils stabilisent le flux électrique et fournissent une alimentation de secours sur batterie. Faites attention à la façon dont vous allez les installer.</Value>
+      <Value>Les contrôleurs d’alimentation séparent le réseau d’alimentation électrique (et de données) en sous-réseaux. Ils stabilisent le flux électrique et fournissent une alimentation de secours sur batterie. Faites attention à la façon dont vous allez les installer.</Value>
     </Record>
     <Record>
       <Key>2GetAPC</Key>
