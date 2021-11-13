@@ -229,7 +229,7 @@ Appuyez sur {KEY:QuantityModifier} et l&apos;objet essaiera son meilleur positio
     </Record>
     <Record>
       <Key>TutorialDescFinishFrame</Key>
-      <Value>Certains outils nécessitent deux choses pour fonctionner. Pour souder le. To weld the {THING:StructureFrame} vous aurez besoin du {THING:ItemWeldingTorch} dans votre main active, et {THING:ItemSteelSheets} dans l&apos;autre. La touche rapide, {KEY:ToggleHandPower}, activera et désactivera automatiquement tout élément de votre main active, ou vous pouvez le faire via le menu des interactions.</Value>
+      <Value>Certains outils nécessitent deux choses pour fonctionner. Pour souder le {THING:StructureFrame} vous aurez besoin du {THING:ItemWeldingTorch} dans votre main active, et de {THING:ItemSteelSheets} dans l&apos;autre. La touche rapide, {KEY:ToggleHandPower}, activera et désactivera automatiquement tout élément de votre main active, ou vous pouvez le faire via le menu des interactions.</Value>
     </Record>
     <Record>
       <Key>TutorialTaskFinishFrame1</Key>
