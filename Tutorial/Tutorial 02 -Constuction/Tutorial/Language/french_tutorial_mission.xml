@@ -279,7 +279,7 @@ Allumez l’APC pour activer le réseau et que la lumière soit.</Value>
     </Record>
     <Record>
       <Key>2Narration16D</Key>
-      <Value>Bon travail, cadet. Vous avez réparé les murs et terminé un système électrique. C&apos;est la dernière étape de la phase II. Appuyez sur le bouton &apos;Terminer&apos; pour transmettre vos résultats à Stationeer Command, et nous continuerons.</Value>
+      <Value>Bon travail, cadet. Vous avez réparé les murs et un système électrique. C&apos;est la dernière étape de la phase II. Appuyez sur le gros bouton bleu pour transmettre vos résultats à Stationeer Command, et nous continuerons.</Value>
     </Record>
     <Record>
       <Key>2OnButtonPressTaskT1</Key>
