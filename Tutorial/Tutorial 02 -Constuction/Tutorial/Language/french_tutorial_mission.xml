@@ -93,11 +93,11 @@ Démonter-le pièce par pièce et installer-le correctement.</Value>
     </Record>
     <Record>
       <Key>DeconstructAutolatherT2t4</Key>
-      <Value>Etape 3, démontage du tour automatique avec la meuleuse.</Value>
+      <Value>Etape 4, démontage du tour automatique avec la meuleuse.</Value>
     </Record>
     <Record>
       <Key>DeconstructAutolatherT2t5</Key>
-      <Value>Etape 1, démontage du tour automatique avec la clé à molette.</Value>
+      <Value>Etape 5, démontage du tour automatique avec la clé à molette.</Value>
     </Record>
     <Record>
       <Key>2Narration6T</Key>
@@ -113,19 +113,19 @@ Démonter-le pièce par pièce et installer-le correctement.</Value>
     </Record>
     <Record>
       <Key>Tutorial2AutolateConstruct</Key>
-      <Value>Construction du tour automatique étape 2, avec le chalumeau et des plaques de fer</Value>
+      <Value>Etape 2, Construire le tour automatique avec le chalumeau et des plaques de fer</Value>
     </Record>
     <Record>
       <Key>Tutorial2AutolateConstruct2</Key>
-      <Value>Construction du tour automatique étape 3, avec des bobines de câble</Value>
+      <Value>Etape 3, Construire le tour automatique avec des bobines de câble</Value>
     </Record>
     <Record>
       <Key>Tutorial2AutolateConstruct3</Key>
-      <Value>Construction du tour automatique étape 4, avec le chalumeau et des plaques de plastique</Value>
+      <Value>Etape 4, Construire le tour automatique avec le chalumeau et des plaques de plastique</Value>
     </Record>
     <Record>
       <Key>Tutorial2AutolateConstruct4</Key>
-      <Value>Construction du tour automatique étape 5, avec le tournevis</Value>
+      <Value>Etape 5, Construire le tour automatique avec le tournevis</Value>
     </Record>
     <Record>
       <Key>2Narration7T</Key>
