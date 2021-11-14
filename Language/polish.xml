@@ -356,11 +356,11 @@
     </Record>
     <Record>
       <Key>ForceClose</Key>
-      <Value>Zamknij siłą</Value>
+      <Value>Wymuś zamknięcie</Value>
     </Record>
     <Record>
       <Key>ForceOpen</Key>
-      <Value>Otwórz siłą</Value>
+      <Value>Wymuś otwarcie</Value>
     </Record>
     <Record>
       <Key>Link</Key>
