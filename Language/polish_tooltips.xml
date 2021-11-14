@@ -105,5 +105,57 @@
       <Key>StatusIconLightName</Key>
       <Value>Przełącz Światło Przednie</Value>
     </Record>
+    <Record>
+      <Key>StatusIconInternalsName</Key>
+      <Value>Przełącz Otwarcie/Zamknięcie Hełmu</Value>
+    </Record>
+    <Record>
+      <Key>StatusIconHandPowerName</Key>
+      <Value>Przełącz Włącznik bieżącego Przedmiotu</Value>
+    </Record>
+    <Record>
+      <Key>StatusIconInSlotName</Key>
+      <Value>Jesteś na stanowisku</Value>
+    </Record>
+    <Record>
+      <Key>StatusIconHungerName</Key>
+      <Value>Obecny Głód</Value>
+    </Record>
+    <Record>
+      <Key>StatusIconStunName</Key>
+      <Value>Procent Ogłuszenia</Value>
+    </Record>
+    <Record>
+      <Key>StatusIconAirTankName</Key>
+      <Value>Obecna Pojemność Zbiornika Powietrza</Value>
+    </Record>
+    <Record>
+      <Key>StatusIconJetpackWarningName</Key>
+      <Value>Pojemność Paliwa Napędowego</Value>
+    </Record>
+    <Record>
+      <Key>StatusIconFilterName</Key>
+      <Value>Pojemność Filtra</Value>
+    </Record>
+    <Record>
+      <Key>StatusIconWasteName</Key>
+      <Value>Pojemność Odpadów</Value>
+    </Record>
+    <Record>
+      <Key>StatusIconHealthName</Key>
+      <Value>Obecne Zdrowie</Value>
+    </Record>
+    <Record>
+      <Key>StatusIconHydrationName</Key>
+      <Value>Obecne Nawodnienie</Value>
+    </Record>
+    <Record>
+      <Key>StatusIconUnconsciousName</Key>
+      <Value>Nieprzytomny</Value>
+    </Record>
+    <Record>
+      <Key>DeconstructCanisterFull</Key>
+      <Value>Nie można rozebrać. Zbiornik musi być pusty.</Value>
+    </Record>
   </ScreenSpaceToolTips>
 </Language>
