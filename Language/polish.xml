@@ -155,6 +155,16 @@
       <Unit>g</Unit>
     </RecordReagent>
     <RecordReagent>
+      <Key>Cobalt</Key>
+      <Value>Kobalt</Value>
+      <Unit>g</Unit>
+    </RecordReagent>
+    <RecordReagent>
+      <Key>Corn</Key>
+      <Value>Kukurydza</Value>
+      <Unit>g</Unit>
+    </RecordReagent>
+    <RecordReagent>
       <Key>Biomass</Key>
       <Value>Biomasa</Value>
       <Unit>g</Unit>
