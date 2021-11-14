@@ -8,6 +8,12 @@
     -->
     <!--LEAVE THIS ALONE NEEDED FOR THOSE PAGES-->
     <StationpediaPage>
+      <Key>CartridgePage</Key>
+      <Title>Wkłady</Title>
+      <Text>Mogą być dodane do {THING:ItemTablet} lub {THING:ItemAdvancedTablet} by pełnić różne funkcje diagnostyczne.
+{LIST_OF_CARTRIDGES}</Text>
+    </StationpediaPage>
+    <StationpediaPage>
       <Key>FabricatorPage</Key>
       <Title>Fabrykatory</Title>
       <Text>Są to zasilane struktury które mogą zostać użyte do wytwarzania rzeczy których potrzebujesz w trakcie rozgrywki. Zazwyczaj potrzebują {LINK:IngotPage;sztabek} aby móc dostarczyć {LINK:ReagentPage;reagenty} potrzebne do tworzenia przedmiotów.
