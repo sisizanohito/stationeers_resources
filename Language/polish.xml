@@ -6463,6 +6463,14 @@ Spróbuj ponownie.</Value>
   </Colors>
   <Keys>
     <Record>
+      <Key>None</Key>
+      <Value>Żaden</Value>
+    </Record>
+    <Record>
+      <Key>Space</Key>
+      <Value>Spacja</Value>
+    </Record>
+    <Record>
       <Key>Exclaim</Key>
       <Value>!</Value>
     </Record>
@@ -6477,6 +6485,10 @@ Spróbuj ponownie.</Value>
     <Record>
       <Key>Dollar</Key>
       <Value>$</Value>
+    </Record>
+    <Record>
+      <Key>Percent</Key>
+      <Value>%</Value>
     </Record>
     <Record>
       <Key>Ampersand</Key>
@@ -7586,11 +7598,11 @@ Spróbuj ponownie.</Value>
     </Record>
     <Record>
       <Key>Ice</Key>
-      <Value>Lód</Value>
+      <Value>Lód Wodny</Value>
     </Record>
     <Record>
       <Key>Oxite</Key>
-      <Value>Lód (Tlenek)</Value>
+      <Value>Lód Tlenowy</Value>
     </Record>
     <Record>
       <Key>Volatiles</Key>

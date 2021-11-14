@@ -3,6 +3,14 @@
   <Code>PL</Code>
   <Keys>
     <Record>
+      <Key>None</Key>
+      <Value>Żaden</Value>
+    </Record>
+    <Record>
+      <Key>Space</Key>
+      <Value>Spacja</Value>
+    </Record>
+    <Record>
       <Key>Exclaim</Key>
       <Value>!</Value>
     </Record>
