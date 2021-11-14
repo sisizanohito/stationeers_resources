@@ -51,7 +51,59 @@
     </Record>
     <Record>
       <Key>StatusIconPressureName</Key>
-      <Value>Ciśnienie Wewnętrzne</Value>
+      <Value>Wewnętrzne Ciśnienie</Value>
+    </Record>
+    <Record>
+      <Key>StatusIconPressureDesc</Key>
+      <Value>Obecny poziom ciśnienia, sprawdź ciśnienie skafandra</Value>
+    </Record>
+    <Record>
+      <Key>StatusIconPressureWarning</Key>
+      <Value>Ciśnienie skafandra jest niskie</Value>
+    </Record>
+    <Record>
+      <Key>StatusIconPressureCritical</Key>
+      <Value>Ciśnienie skafandra jest krytycznie niskie</Value>
+    </Record>
+    <Record>
+      <Key>StatusIconTemperatureName</Key>
+      <Value>Wewnętrzna Temperatura</Value>
+    </Record>
+    <Record>
+      <Key>StatusIconTemperatureDesc</Key>
+      <Value>Obecna temperatura wewnątrz twojego skafandra</Value>
+    </Record>
+    <Record>
+      <Key>StatusIconTempuratureWarning</Key>
+      <Value>Wyświetla Obecny Poziom Toksyczności</Value>
+    </Record>
+    <Record>
+      <Key>StatusIconTempuratureCritical</Key>
+      <Value>Wyświetla Obecny Poziom Toksyczności</Value>
+    </Record>
+    <Record>
+      <Key>StatusIconLeakingName</Key>
+      <Value>Nieszczelność Skafandra</Value>
+    </Record>
+    <Record>
+      <Key>StatusIconPowerName</Key>
+      <Value>Zapas Energii Skafandra</Value>
+    </Record>
+    <Record>
+      <Key>StatusIconGravityName</Key>
+      <Value>Stan Nieważkości</Value>
+    </Record>
+    <Record>
+      <Key>StatusIconJetpackName</Key>
+      <Value>Plecak Odrzutowy Aktywny</Value>
+    </Record>
+    <Record>
+      <Key>StatusIconClimbingName</Key>
+      <Value>Wspinanie się</Value>
+    </Record>
+    <Record>
+      <Key>StatusIconLightName</Key>
+      <Value>Przełącz Światło Przednie</Value>
     </Record>
   </ScreenSpaceToolTips>
 </Language>
