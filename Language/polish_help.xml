@@ -35,9 +35,14 @@
       </Text>
     </StationpediaPage>
     <StationpediaPage>
+      <Key>SmeltingPage</Key>
+      <Title>Przetapianie</Title>
+      <Text>Mając {LINK:OrePage;ore} potrzebujesz przetopić ją na {LINK:IngotPage;ingots} by móc wykorzystać jej {LINK:ReagentPage;reagents}. Przetapianie często produkuje {LINK:GasPage;gases}. Dzieje się tak zarówno w {THING:StructureArcFurnace} (dla prostych przepisów) jak i w {THING:StructureFurnace} dla bardziej skomplikowanych {LINK:AlloyPage;Alloys}, oraz wreszcie w {THING:StructureAdvancedFurnace} dla bardzo skomplikowanych {LINK:SuperAlloyPage;Superalloys}. Do złożonych stopów metali musisz osiągnąć mieszanki o perfekcyjnej proporcji, {LINK:TemperaturePage;Temperature} oraz {LINK:PressurePage;Pressure}.</Text>
+    </StationpediaPage>
+    <StationpediaPage>
       <Key>MiningPage</Key>
-      <Title>Górnictwo</Title>
-      <Text>Możesz wykopać {LINK:OrePage;rudę} używając {THING:ItemMiningDrill}. Jeśli nosisz {THING:ItemMiningBelt}, {LINK:OrePage;ruda} automatycznie trafi do niego.
+      <Title>Wydobycie</Title>
+      <Text>Możesz wydobyć {LINK:OrePage;ore} używając {THING:ItemMiningDrill}. Jeśli masz założony {THING:ItemMiningBelt}, {LINK:OrePage;ore} automatycznie zostanie w nim umieszczona.
       </Text>
     </StationpediaPage>
     <!--
