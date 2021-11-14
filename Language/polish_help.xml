@@ -38,5 +38,10 @@
     |                     TEMPLATES               |
     ~~~~~~~~~~~~~~~~~~~~~~~~~
     -->
+    <StationpediaPage>
+      <Key>IceMeltingTemplate</Key>
+      <Text>Temperatura Topnienia {1}
+Ciśnienie Topnienia {0}</Text>
+    </StationpediaPage>
   </HelpPage>
 </Language>
