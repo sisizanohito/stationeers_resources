@@ -15,7 +15,7 @@
     </Record>
     <Record>
       <Key>StatusIconHydrationDesc</Key>
-      <Value>Nawodnienie spada</Value>
+      <Value>Nawodnienie się wyczerpuje.</Value>
     </Record>
     <Record>
       <Key>StatusIconHydrationKey</Key>
@@ -40,6 +40,18 @@
     <Record>
       <Key>StatusIconOxygenDesc</Key>
       <Value>Atmosfera którą oddychasz powoduje szkody w twoich płucach.</Value>
+    </Record>
+    <Record>
+      <Key>StatusIconOxygenWarning</Key>
+      <Value>Zbiornik skafandra się wyczerpuje i wymaga uwagi.</Value>
+    </Record>
+    <Record>
+      <Key>StatusIconOxyegnCritical</Key>
+      <Value>Zbiornik skafandra jest krytyczny, wymień swój zbiornik z tlenem.</Value>
+    </Record>
+    <Record>
+      <Key>StatusIconPressureName</Key>
+      <Value>Ciśnienie Wewnętrzne</Value>
     </Record>
   </ScreenSpaceToolTips>
 </Language>
