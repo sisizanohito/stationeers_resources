@@ -7628,6 +7628,10 @@ Spróbuj ponownie.</Value>
       <Key>Silicon</Key>
       <Value>Krzem</Value>
     </Record>
+    <Record>
+      <Key>Cobalt</Key>
+      <Value>Kobalt</Value>
+    </Record>
   </Mineables>
   <ScreenSpaceToolTips/>
   <HelpPage/>
