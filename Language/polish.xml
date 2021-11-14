@@ -363,6 +363,10 @@
       <Value>Kup</Value>
     </Record>
     <Record>
+      <Key>Link</Key>
+      <Value>Połącz</Value>
+    </Record>
+    <Record>
       <Key>ForceFeed</Key>
       <Value>Wymuś otwarcie</Value>
     </Record>
