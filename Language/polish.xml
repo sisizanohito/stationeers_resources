@@ -196,7 +196,7 @@
     </Record>
     <Record>
       <Key>Mine</Key>
-      <Value>Kop</Value>
+      <Value>Wydobądź</Value>
     </Record>
     <Record>
       <Key>Swap</Key>
@@ -241,6 +241,10 @@
     <Record>
       <Key>Plant</Key>
       <Value>Posadź</Value>
+    </Record>
+    <Record>
+      <Key>Water</Key>
+      <Value>Podlej</Value>
     </Record>
     <Record>
       <Key>Harvest</Key>
@@ -352,23 +356,23 @@
     </Record>
     <Record>
       <Key>ForceClose</Key>
-      <Value>Wymuś zamknięcie</Value>
+      <Value>Zamknij siłą</Value>
     </Record>
     <Record>
       <Key>ForceOpen</Key>
-      <Value>Wymuś otwarcie</Value>
-    </Record>
-    <Record>
-      <Key>Vend</Key>
-      <Value>Kup</Value>
+      <Value>Otwórz siłą</Value>
     </Record>
     <Record>
       <Key>Link</Key>
       <Value>Połącz</Value>
     </Record>
     <Record>
+      <Key>UnLink</Key>
+      <Value>Rozłącz</Value>
+    </Record>
+    <Record>
       <Key>ForceFeed</Key>
-      <Value>Wymuś otwarcie</Value>
+      <Value>Wymuś spożycie</Value>
     </Record>
   </Actions>
   <Things>
