@@ -170,11 +170,11 @@
     </Record>
     <Record>
       <Key>Volatiles</Key>
-      <Value>Substancje łatwopalne</Value>
+      <Value>Substancje lotne</Value>
     </Record>
     <Record>
       <Key>Pollutant</Key>
-      <Value>Zanieczyszczenie</Value>
+      <Value>Polutant</Value>
     </Record>
     <Record>
       <Key>Water</Key>
@@ -248,7 +248,7 @@
     </Record>
     <Record>
       <Key>Harvest</Key>
-      <Value>Zbierz plon</Value>
+      <Value>Zbierz</Value>
     </Record>
     <Record>
       <Key>Open</Key>
@@ -352,7 +352,7 @@
     </Record>
     <Record>
       <Key>Cycle</Key>
-      <Value>Cykl</Value>
+      <Value>Przewiń</Value>
     </Record>
     <Record>
       <Key>ForceClose</Key>
