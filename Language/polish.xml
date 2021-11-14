@@ -7631,11 +7631,7 @@ Spróbuj ponownie.</Value>
     </Record>
     <Record>
       <Key>Ice</Key>
-      <Value>Lód Wodny</Value>
-    </Record>
-    <Record>
-      <Key>Oxite</Key>
-      <Value>Lód Tlenowy</Value>
+      <Value>Lód</Value>
     </Record>
     <Record>
       <Key>Volatiles</Key>
