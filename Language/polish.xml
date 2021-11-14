@@ -154,6 +154,21 @@
       <Value>Ryż</Value>
       <Unit>g</Unit>
     </RecordReagent>
+    <RecordReagent>
+      <Key>Biomass</Key>
+      <Value>Biomasa</Value>
+      <Unit>g</Unit>
+    </RecordReagent>
+    <RecordReagent>
+      <Key>Soy</Key>
+      <Value>Soja</Value>
+      <Unit>g</Unit>
+    </RecordReagent>
+    <RecordReagent>
+      <Key>Mushroom</Key>
+      <Value>Grzyb</Value>
+      <Unit>g</Unit>
+    </RecordReagent>
   </Reagents>
   <Gases>
     <Record>
@@ -6619,8 +6634,16 @@ Spróbuj ponownie.</Value>
       <Value>{</Value>
     </Record>
     <Record>
+      <Key>Pipe</Key>
+      <Value>|</Value>
+    </Record>
+    <Record>
       <Key>RightCurlyBracket</Key>
       <Value>}</Value>
+    </Record>
+    <Record>
+      <Key>Tilde</Key>
+      <Value>~</Value>
     </Record>
     <Record>
       <Key>Keypad0</Key>
