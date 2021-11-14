@@ -16,21 +16,15 @@
     <StationpediaPage>
       <Key>FabricatorPage</Key>
       <Title>Fabrykatory</Title>
-      <Text>Są to zasilane struktury które mogą zostać użyte do wytwarzania rzeczy których potrzebujesz w trakcie rozgrywki. Zazwyczaj potrzebują {LINK:IngotPage;sztabek} aby móc dostarczyć {LINK:ReagentPage;reagenty} potrzebne do tworzenia przedmiotów.
-
-      
-{HEADER:List of Fabricators}
-{LIST_OF_FABRICATORS}
-
+      <Text>Są to zasilane konstrukcje, które mogą zostać użyte do wytwarzania rzeczy, których potrzebujesz w trakcie rozgrywki. Zazwyczaj potrzebują {LINK:IngotPage;Ingots} aby móc dostarczyć {LINK:ReagentPage;Reagents} potrzebne do tworzenia przedmiotów.
+        {LIST_OF_FABRICATORS}
       </Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>DevicePage</Key>
       <Title>Urządzenia</Title>
-      <Text>Są to struktury, zwykle zasilone, które mają wyspecjalizowane funkcje takie jak logiczne, atmosferyczne, i inne. Są konstruowane w ten sam sposób jak inne struktury.
-      
-{HEADER:List of Devices}
-{LIST_OF_DEVICES}
+      <Text>Są to konstrukcje, zwykle zasilane, które mają wyspecjalizowane funkcje takie jak logiczne, atmosferyczne, i inne. Są konstruowane w ten sam sposób jak inne konstrukcje.
+        {LIST_OF_DEVICES}
       </Text>
     </StationpediaPage>
     <StationpediaPage>
