@@ -4178,15 +4178,15 @@
     </Record>
     <Record>
       <Key>SplitHalf</Key>
-      <Value>Rozdziel na pół</Value>
+      <Value>Rozdziel na Pół</Value>
     </Record>
     <Record>
       <Key>NextPage</Key>
-      <Value>Następna strona</Value>
+      <Value>Następna Strona</Value>
     </Record>
     <Record>
       <Key>PreviousPage</Key>
-      <Value>Poprzednia strona</Value>
+      <Value>Poprzednia Strona</Value>
     </Record>
     <Record>
       <Key>Use</Key>
@@ -4210,7 +4210,7 @@
     </Record>
     <Record>
       <Key>Flush</Key>
-      <Value>Wypłucz</Value>
+      <Value>Opróżnij</Value>
     </Record>
     <Record>
       <Key>Battery</Key>
@@ -4222,11 +4222,11 @@
     </Record>
     <Record>
       <Key>CaptainsChair</Key>
-      <Value>Fotel kapitana</Value>
+      <Value>Fotel Kapitana</Value>
     </Record>
     <Record>
       <Key>PassengersChair</Key>
-      <Value>Fotel pasażera</Value>
+      <Value>Fotel Pasażera</Value>
     </Record>
     <Record>
       <Key>Button3</Key>
