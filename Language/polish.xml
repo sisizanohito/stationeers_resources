@@ -4479,6 +4479,34 @@
       <Value>Organiczne</Value>
     </Record>
     <Record>
+      <Key>PersonalEyeWear</Key>
+      <Value>Okulary</Value>
+    </Record>
+    <Record>
+      <Key>PersonalClothing</Key>
+      <Value>Odzież</Value>
+    </Record>
+    <Record>
+      <Key>OreHeader</Key>
+      <Value>Rudy</Value>
+    </Record>
+    <Record>
+      <Key>ReagentsHeader</Key>
+      <Value>Składniki</Value>
+    </Record>
+    <Record>
+      <Key>GasesHeader</Key>
+      <Value>Gazy</Value>
+    </Record>
+    <Record>
+      <Key>FrozenOreHeader</Key>
+      <Value>Zamarznięte Rudy</Value>
+    </Record>
+    <Record>
+      <Key>CartridgeCategory</Key>
+      <Value>Kartridże</Value>
+    </Record>
+    <Record>
       <Key>PersonalHelmets</Key>
       <Value>Kask</Value>
     </Record>
