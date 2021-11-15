@@ -4350,19 +4350,19 @@
     </Record>
     <Record>
       <Key>TemperatureUp</Key>
-      <Value>Temperatura +</Value>
+      <Value>Zwiększ Temperaturę</Value>
     </Record>
     <Record>
       <Key>TemperatureDown</Key>
-      <Value>Temperatura -</Value>
+      <Value>Zmniejsz Temperaturę</Value>
     </Record>
     <Record>
       <Key>ThrustUp</Key>
-      <Value>Ciąg +</Value>
+      <Value>Zwiększ Siłę Ciągu</Value>
     </Record>
     <Record>
       <Key>ThrustDown</Key>
-      <Value>Ciąg -</Value>
+      <Value>Zmniejsz Siłę Ciągu</Value>
     </Record>
     <Record>
       <Key>Button5</Key>
@@ -4374,7 +4374,7 @@
     </Record>
     <Record>
       <Key>UnpackAll</Key>
-      <Value>Wypakuj wszystkie</Value>
+      <Value>Wypakuj Wszystko</Value>
     </Record>
     <Record>
       <Key>Unpack</Key>
@@ -4382,15 +4382,15 @@
     </Record>
     <Record>
       <Key>Cartridge2</Key>
-      <Value>Kartridż</Value>
+      <Value>Kartridż2</Value>
     </Record>
     <Record>
       <Key>Cartridge1</Key>
-      <Value>Kartridż</Value>
+      <Value>Kartridż1</Value>
     </Record>
     <Record>
       <Key>Next</Key>
-      <Value>Następna strona</Value>
+      <Value>Dalej</Value>
     </Record>
     <Record>
       <Key>Previous</Key>
