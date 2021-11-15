@@ -4090,7 +4090,7 @@
     </Record>
     <Record>
       <Key>OnOff</Key>
-      <Value>Wł. / wył.</Value>
+      <Value>Wł. / Wył.</Value>
     </Record>
     <Record>
       <Key>Lock</Key>
@@ -4106,15 +4106,15 @@
     </Record>
     <Record>
       <Key>GrabLeftHand</Key>
-      <Value>Złap lewą rękę</Value>
+      <Value>Złap Lewą Dłoń</Value>
     </Record>
     <Record>
       <Key>GrabRightHand</Key>
-      <Value>Złap prawą rękę</Value>
+      <Value>Złap Prawą Dłoń</Value>
     </Record>
     <Record>
       <Key>GrabLeftFoot</Key>
-      <Value>Złap lewą stopę</Value>
+      <Value>Złap Lewą Stopę</Value>
     </Record>
     <Record>
       <Key>GrabRightFoot</Key>
@@ -4202,11 +4202,11 @@
     </Record>
     <Record>
       <Key>PressureUp</Key>
-      <Value>Ciśnienie +</Value>
+      <Value>Zwiększ Ciśnienie</Value>
     </Record>
     <Record>
       <Key>PressureDown</Key>
-      <Value>Ciśnienie -</Value>
+      <Value>Zmniejsz Ciśnienie</Value>
     </Record>
     <Record>
       <Key>Flush</Key>
@@ -4393,8 +4393,12 @@
       <Value>Dalej</Value>
     </Record>
     <Record>
+      <Key>Prev</Key>
+      <Value>Wstecz</Value>
+    </Record>
+    <Record>
       <Key>Previous</Key>
-      <Value>Poprzednia strona</Value>
+      <Value>Poprzednie</Value>
     </Record>
     <Record>
       <Key>Button7</Key>
@@ -4402,43 +4406,51 @@
     </Record>
     <Record>
       <Key>Button8</Key>
-      <Value>Przycisk4</Value>
+      <Value>Przycisk8</Value>
     </Record>
     <Record>
       <Key>Button9</Key>
-      <Value>Przycisk4</Value>
+      <Value>Przycisk9</Value>
     </Record>
     <Record>
       <Key>Button10</Key>
-      <Value>Przycisk1</Value>
+      <Value>Przycisk10</Value>
     </Record>
     <Record>
       <Key>Button11</Key>
-      <Value>Przycisk1</Value>
+      <Value>Przycisk11</Value>
     </Record>
     <Record>
       <Key>Button12</Key>
-      <Value>Przycisk1</Value>
+      <Value>Przycisk12</Value>
     </Record>
     <Record>
       <Key>Button13</Key>
-      <Value>Przycisk1</Value>
+      <Value>Przycisk13</Value>
     </Record>
     <Record>
       <Key>Button14</Key>
-      <Value>Przycisk1</Value>
+      <Value>Przycisk14</Value>
     </Record>
     <Record>
       <Key>Button15</Key>
-      <Value>Przycisk1</Value>
+      <Value>Przycisk15</Value>
     </Record>
     <Record>
       <Key>Button16</Key>
-      <Value>Przycisk1</Value>
+      <Value>Przycisk16</Value>
     </Record>
     <Record>
       <Key>Button17</Key>
-      <Value>Przycisk1</Value>
+      <Value>Przycisk17</Value>
+    </Record>
+    <Record>
+      <Key>ProgrammableChip</Key>
+      <Value>Programowalny Chip</Value>
+    </Record>
+    <Record>
+      <Key>Motherboard</Key>
+      <Value>Płyta Główna</Value>
     </Record>
   </Interactables>
   <Interface>
@@ -4457,6 +4469,14 @@
     <Record>
       <Key>PersonalBackpacks</Key>
       <Value>Kopie zapasowe</Value>
+    </Record>
+    <Record>
+      <Key>SafetyCategory</Key>
+      <Value>Bezpieczeństwo i Transport</Value>
+    </Record>
+    <Record>
+      <Key>OrganicsCategory</Key>
+      <Value>Organiczne</Value>
     </Record>
     <Record>
       <Key>PersonalHelmets</Key>
