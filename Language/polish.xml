@@ -4508,7 +4508,15 @@
     </Record>
     <Record>
       <Key>PersonalHelmets</Key>
-      <Value>Kask</Value>
+      <Value>Hełmy</Value>
+    </Record>
+    <Record>
+      <Key>PersonalToolbelt</Key>
+      <Value>Pasy Narzędziowe</Value>
+    </Record>
+    <Record>
+      <Key>Other</Key>
+      <Value>Inne</Value>
     </Record>
     <Record>
       <Key>ControlSystemAtmos</Key>
