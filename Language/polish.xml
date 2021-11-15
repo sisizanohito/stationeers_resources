@@ -4118,27 +4118,27 @@
     </Record>
     <Record>
       <Key>GrabRightFoot</Key>
-      <Value>Złap prawą stopę</Value>
+      <Value>Złap Prawą Stopę</Value>
     </Record>
     <Record>
       <Key>GrabHead</Key>
-      <Value>Złap lewą rękę</Value>
+      <Value>Złap Głowę</Value>
     </Record>
     <Record>
       <Key>GrabUpperArmL</Key>
-      <Value>Złap lewą stopę</Value>
+      <Value>Złap Lewe Ramię</Value>
     </Record>
     <Record>
       <Key>GrabUpperArmR</Key>
-      <Value>Złap prawą stopę</Value>
+      <Value>Złap Prawe Ramię</Value>
     </Record>
     <Record>
       <Key>GrabLowerArmL</Key>
-      <Value>Złap Lewą Rękę</Value>
+      <Value>Złap Lewe Przedramię</Value>
     </Record>
     <Record>
       <Key>GrabLowerArmR</Key>
-      <Value>Złap Prawą Rękę</Value>
+      <Value>Złap Prawe Przedramię</Value>
     </Record>
     <Record>
       <Key>GrabThighR</Key>
@@ -4398,7 +4398,7 @@
     </Record>
     <Record>
       <Key>Button7</Key>
-      <Value>Przycisk4</Value>
+      <Value>Przycisk7</Value>
     </Record>
     <Record>
       <Key>Button8</Key>
