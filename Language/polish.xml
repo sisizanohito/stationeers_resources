@@ -4258,7 +4258,7 @@
     </Record>
     <Record>
       <Key>TiltUpwards</Key>
-      <Value>Przechyl do góry</Value>
+      <Value>Przechyl w Górę</Value>
     </Record>
     <Record>
       <Key>Rotate</Key>
@@ -4266,15 +4266,15 @@
     </Record>
     <Record>
       <Key>RotateLeft</Key>
-      <Value>Obróć w lewo</Value>
+      <Value>Obróć w Lewo</Value>
     </Record>
     <Record>
       <Key>RotateRight</Key>
-      <Value>Obróć w prawo</Value>
+      <Value>Obróć w Prawo</Value>
     </Record>
     <Record>
       <Key>TiltDownwards</Key>
-      <Value>Przechyl do dołu</Value>
+      <Value>Przechyl w Dół</Value>
     </Record>
     <Record>
       <Key>Launch</Key>
@@ -4286,11 +4286,11 @@
     </Record>
     <Record>
       <Key>NextPlan</Key>
-      <Value>Następny plan</Value>
+      <Value>Następny Plan</Value>
     </Record>
     <Record>
       <Key>CreatePlan</Key>
-      <Value>Stwórz plan</Value>
+      <Value>Stwórz Plan</Value>
     </Record>
     <Record>
       <Key>Search</Key>
@@ -4314,7 +4314,7 @@
     </Record>
     <Record>
       <Key>LayEgg</Key>
-      <Value>Złóż jajo</Value>
+      <Value>Złóż Jajo</Value>
     </Record>
     <Record>
       <Key>Eat</Key>
