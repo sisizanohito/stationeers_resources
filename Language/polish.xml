@@ -4134,27 +4134,27 @@
     </Record>
     <Record>
       <Key>GrabLowerArmL</Key>
-      <Value>Złap lewą stopę</Value>
+      <Value>Złap Lewą Rękę</Value>
     </Record>
     <Record>
       <Key>GrabLowerArmR</Key>
-      <Value>Złap prawą stopę</Value>
+      <Value>Złap Prawą Rękę</Value>
     </Record>
     <Record>
       <Key>GrabThighR</Key>
-      <Value>Złap prawą stopę</Value>
+      <Value>Złap Prawe Udo</Value>
     </Record>
     <Record>
       <Key>GrabThighL</Key>
-      <Value>Złap lewą stopę</Value>
+      <Value>Złap Lewe Udo</Value>
     </Record>
     <Record>
       <Key>GrabCalfR</Key>
-      <Value>Złap prawą rękę</Value>
+      <Value>Złap Prawą Łydkę</Value>
     </Record>
     <Record>
       <Key>GrabCalfL</Key>
-      <Value>Złap lewą rękę</Value>
+      <Value>Złap Lewą Łydkę</Value>
     </Record>
     <Record>
       <Key>Drag</Key>
@@ -4174,7 +4174,7 @@
     </Record>
     <Record>
       <Key>SplitOne</Key>
-      <Value>Rozdziel jedno</Value>
+      <Value>Wydziel Jedno</Value>
     </Record>
     <Record>
       <Key>SplitHalf</Key>
