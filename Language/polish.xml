@@ -4229,6 +4229,10 @@
       <Value>Slot21</Value>
     </Record>
     <Record>
+      <Key>Slot22</Key>
+      <Value>Gniazdo 22</Value>
+    </Record>
+    <Record>
       <Key>Slot25</Key>
       <Value>Slot25</Value>
     </Record>
@@ -4238,7 +4242,19 @@
     </Record>
     <Record>
       <Key>Slot27</Key>
-      <Value>Slot27</Value>
+      <Value>Gniazdo 27</Value>
+    </Record>
+    <Record>
+      <Key>Slot28</Key>
+      <Value>Gniazdo 28</Value>
+    </Record>
+    <Record>
+      <Key>Slot29</Key>
+      <Value>Gniazdo 29</Value>
+    </Record>
+    <Record>
+      <Key>Slot30</Key>
+      <Value>Gniazdo 30</Value>
     </Record>
     <Record>
       <Key>TiltUpwards</Key>
@@ -4259,6 +4275,10 @@
     <Record>
       <Key>TiltDownwards</Key>
       <Value>Przechyl w Dół</Value>
+    </Record>
+    <Record>
+      <Key>Export2</Key>
+      <Value>Wywóz 2</Value>
     </Record>
     <Record>
       <Key>Launch</Key>
@@ -4282,7 +4302,7 @@
     </Record>
     <Record>
       <Key>Button4</Key>
-      <Value>Przycisk4</Value>
+      <Value>Przycisk 4</Value>
     </Record>
     <Record>
       <Key>Output</Key>

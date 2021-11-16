@@ -80,6 +80,30 @@ Gazy              GasTrade
 Niestandardowe           Spes&apos;mall
       </Text>
     </StationpediaPage>
+    <StationpediaPage>
+      <Key>ConstructionPage</Key>
+      <Title>Budowanie</Title>
+      <DisplayFilter>Guides</DisplayFilter>
+      <Text>{HEADER:Pierwsze Kroki}
+Zwykle będziesz używać {LINK:KitPage;kits} by zapoczątkować konstrukcję i wtedy rozmaite {LINK:ToolPage;tools} i {LINK:ResourcePage;resources} by ukończyć. Zwróć szczególną uwagę na to jak wiele zestawów potrzebujesz by skonstruować to co wybrałeś, gdyż niektóre struktury wymagają więcej niż jednego. Dla niektórych zestawów będziesz mieć wiele opcji, użyj {COLORRED:Kółka Myszy}, by zmienić obecny wybór tego co chcesz zbudować.
+
+{HEADER:Etapy Budowania}
+Niektóre struktury będą mieć kilka etapów budowy, które wymagają różnych kombinacji obiektów do ukończenia. Podpowiedzi pokierują Cię odnośnie jakich kombinacji potrzebujesz by ukończyć strukturę. Czasami będziesz potrzebować dwóch obiektów, po jednym na rękę, by ukończyć etap budowania. Niektóre narzędzia potrzebują być uprzednio włączone, co można zrobić naciskając {KEY:ToggleHandPower} gdy narzędzie znajduje się w twojej aktywnej ręce.
+
+{HEADER:Podpowiedzi}
+Jeśli popatrzysz bezpośrednio na strukturę, która nie jest gotowa, dostaniesz informacje o tym co zrobić do jej skończenia. Jeśli masz {LINK:ToolPage;tool} w ręce i nie jest to właściwe {LINK:ToolPage;tool}, pojawi się też podpowiedź mówiąca Ci co będziesz potrzebować by strukturę zdekonstruować.
+
+{HEADER:Ciśnienie}
+Gdy budujesz, ważne jest aby pamiętać że ciśnienie jest mierzone jako różnica. Większość struktur ma limit 200kPa: jeśli różnica ciśnień pomiędzy wnętrzem i otoczeniem jest większa, to masz problem.
+      </Text>
+    </StationpediaPage>
+    <StationpediaPage>
+      <Key>ReagentPage</Key>
+      <Title>Składniki</Title>
+      <Text>Są to wielkości chemiczne pewnych typów.
+      {LIST_OF_REAGENTS}
+      </Text>
+    </StationpediaPage>
     <!--
     ~~~~~~~~~~~~~~~~~~~~~~~~~
     |                     TEMPLATES               |
