@@ -4089,6 +4089,14 @@
       <Value>Błąd</Value>
     </Record>
     <Record>
+      <Key>Slot1</Key>
+      <Value>Gniazdo 1</Value>
+    </Record>
+    <Record>
+      <Key>Slot2</Key>
+      <Value>Gniazdo 2</Value>
+    </Record>
+    <Record>
       <Key>GrabLeftHand</Key>
       <Value>Złap Lewą Dłoń</Value>
     </Record>
@@ -4150,11 +4158,43 @@
     </Record>
     <Record>
       <Key>Button1</Key>
-      <Value>Przycisk1</Value>
+      <Value>Przycisk 1</Value>
+    </Record>
+    <Record>
+      <Key>Slot3</Key>
+      <Value>Gniazdo 3</Value>
+    </Record>
+    <Record>
+      <Key>Slot4</Key>
+      <Value>Gniazdo 4</Value>
+    </Record>
+    <Record>
+      <Key>Slot5</Key>
+      <Value>Gniazdo 5</Value>
+    </Record>
+    <Record>
+      <Key>Slot6</Key>
+      <Value>Gniazdo 6</Value>
+    </Record>
+    <Record>
+      <Key>Slot7</Key>
+      <Value>Gniazdo 7</Value>
+    </Record>
+    <Record>
+      <Key>Slot8</Key>
+      <Value>Gniazdo 8</Value>
+    </Record>
+    <Record>
+      <Key>Slot9</Key>
+      <Value>Gniazdo 9</Value>
+    </Record>
+    <Record>
+      <Key>Slot10</Key>
+      <Value>Gniazdo 10</Value>
     </Record>
     <Record>
       <Key>Button2</Key>
-      <Value>Przycisk2</Value>
+      <Value>Przycisk 2</Value>
     </Record>
     <Record>
       <Key>SplitOne</Key>
@@ -4178,11 +4218,11 @@
     </Record>
     <Record>
       <Key>Export</Key>
-      <Value>Eksportuj</Value>
+      <Value>Wywóz</Value>
     </Record>
     <Record>
       <Key>Import</Key>
-      <Value>Importuj</Value>
+      <Value>Przywóz</Value>
     </Record>
     <Record>
       <Key>PressureUp</Key>
@@ -4214,31 +4254,71 @@
     </Record>
     <Record>
       <Key>Button3</Key>
-      <Value>Przycisk3</Value>
+      <Value>Przycisk 3</Value>
+    </Record>
+    <Record>
+      <Key>Slot11</Key>
+      <Value>Gniazdo 11</Value>
+    </Record>
+    <Record>
+      <Key>Slot12</Key>
+      <Value>Gniazdo 12</Value>
+    </Record>
+    <Record>
+      <Key>Slot13</Key>
+      <Value>Gniazdo 13</Value>
+    </Record>
+    <Record>
+      <Key>Slot14</Key>
+      <Value>Gniazdo 14</Value>
+    </Record>
+    <Record>
+      <Key>Slot15</Key>
+      <Value>Gniazdo 15</Value>
+    </Record>
+    <Record>
+      <Key>Slot16</Key>
+      <Value>Gniazdo 16</Value>
+    </Record>
+    <Record>
+      <Key>Slot17</Key>
+      <Value>Gniazdo 17</Value>
+    </Record>
+    <Record>
+      <Key>Slot18</Key>
+      <Value>Gniazdo 18</Value>
     </Record>
     <Record>
       <Key>Slot19</Key>
-      <Value>Slot19</Value>
+      <Value>Gniazdo 19</Value>
     </Record>
     <Record>
       <Key>Slot20</Key>
-      <Value>Slot20</Value>
+      <Value>Gniazdo 20</Value>
     </Record>
     <Record>
       <Key>Slot21</Key>
-      <Value>Slot21</Value>
+      <Value>Gniazdo 21</Value>
     </Record>
     <Record>
       <Key>Slot22</Key>
       <Value>Gniazdo 22</Value>
     </Record>
     <Record>
+      <Key>Slot23</Key>
+      <Value>Gniazdo 23</Value>
+    </Record>
+    <Record>
+      <Key>Slot24</Key>
+      <Value>Gniazdo 24</Value>
+    </Record>
+    <Record>
       <Key>Slot25</Key>
-      <Value>Slot25</Value>
+      <Value>Gniazdo 25</Value>
     </Record>
     <Record>
       <Key>Slot26</Key>
-      <Value>Slot26</Value>
+      <Value>Gniazdo 26</Value>
     </Record>
     <Record>
       <Key>Slot27</Key>
@@ -4370,11 +4450,11 @@
     </Record>
     <Record>
       <Key>Button5</Key>
-      <Value>Przycisk5</Value>
+      <Value>Przycisk 5</Value>
     </Record>
     <Record>
       <Key>Button6</Key>
-      <Value>Przycisk6</Value>
+      <Value>Przycisk 6</Value>
     </Record>
     <Record>
       <Key>UnpackAll</Key>
@@ -4386,11 +4466,11 @@
     </Record>
     <Record>
       <Key>Cartridge2</Key>
-      <Value>Kartridż2</Value>
+      <Value>Kartridż 2</Value>
     </Record>
     <Record>
       <Key>Cartridge1</Key>
-      <Value>Kartridż1</Value>
+      <Value>Kartridż 1</Value>
     </Record>
     <Record>
       <Key>Next</Key>
@@ -4406,47 +4486,47 @@
     </Record>
     <Record>
       <Key>Button7</Key>
-      <Value>Przycisk7</Value>
+      <Value>Przycisk 7</Value>
     </Record>
     <Record>
       <Key>Button8</Key>
-      <Value>Przycisk8</Value>
+      <Value>Przycisk 8</Value>
     </Record>
     <Record>
       <Key>Button9</Key>
-      <Value>Przycisk9</Value>
+      <Value>Przycisk 9</Value>
     </Record>
     <Record>
       <Key>Button10</Key>
-      <Value>Przycisk10</Value>
+      <Value>Przycisk 10</Value>
     </Record>
     <Record>
       <Key>Button11</Key>
-      <Value>Przycisk11</Value>
+      <Value>Przycisk 11</Value>
     </Record>
     <Record>
       <Key>Button12</Key>
-      <Value>Przycisk12</Value>
+      <Value>Przycisk 12</Value>
     </Record>
     <Record>
       <Key>Button13</Key>
-      <Value>Przycisk13</Value>
+      <Value>Przycisk 13</Value>
     </Record>
     <Record>
       <Key>Button14</Key>
-      <Value>Przycisk14</Value>
+      <Value>Przycisk 14</Value>
     </Record>
     <Record>
       <Key>Button15</Key>
-      <Value>Przycisk15</Value>
+      <Value>Przycisk 15</Value>
     </Record>
     <Record>
       <Key>Button16</Key>
-      <Value>Przycisk16</Value>
+      <Value>Przycisk 16</Value>
     </Record>
     <Record>
       <Key>Button17</Key>
-      <Value>Przycisk17</Value>
+      <Value>Przycisk 17</Value>
     </Record>
     <Record>
       <Key>ProgrammableChip</Key>
@@ -4523,6 +4603,10 @@
       <Value>Inne</Value>
     </Record>
     <Record>
+      <Key>MotherboardCategory</Key>
+      <Value>Płyty Główne</Value>
+    </Record>
+    <Record>
       <Key>ControlSystemAtmos</Key>
       <Value>Sterowanie</Value>
     </Record>
@@ -4531,24 +4615,24 @@
       <Value>Zmiana wyglądu</Value>
     </Record>
     <Record>
-      <Key>AirContitioningAtmos</Key>
-      <Value>Stan poczatkowy</Value>
-    </Record>
-    <Record>
       <Key>AtmosDevices</Key>
       <Value>Atmosfera</Value>
     </Record>
     <Record>
+      <Key>FireArm</Key>
+      <Value>Bronie</Value>
+    </Record>
+    <Record>
       <Key>MainMenuNewWorld</Key>
-      <Value>Nowy świat</Value>
+      <Value>Nowy Świat</Value>
     </Record>
     <Record>
       <Key>MainMenuLoadWorld</Key>
-      <Value>Wczytaj świat</Value>
+      <Value>Wczytaj Świat</Value>
     </Record>
     <Record>
       <Key>MainMenuJoinWorld</Key>
-      <Value>Dołącz do świata</Value>
+      <Value>Dołącz do Świata</Value>
     </Record>
     <Record>
       <Key>MainMenuWorkshop</Key>
@@ -4560,7 +4644,7 @@
     </Record>
     <Record>
       <Key>MainMenuTutorial</Key>
-      <Value>Samouczek</Value>
+      <Value>Samouczki</Value>
     </Record>
     <Record>
       <Key>MainMenuCredits</Key>
@@ -4568,23 +4652,23 @@
     </Record>
     <Record>
       <Key>MainMenuExit</Key>
-      <Value>Wyjdź do pulpitu</Value>
+      <Value>Wyjdź do Pulpitu</Value>
     </Record>
     <Record>
       <Key>LoadMenuTitle</Key>
-      <Value>Wczytaj świat</Value>
+      <Value>Wczytaj Świat</Value>
     </Record>
     <Record>
       <Key>LoadMenuFileListTitle</Key>
-      <Value>Zapisane światy</Value>
+      <Value>Zapisane Światy</Value>
     </Record>
     <Record>
       <Key>WorldInfoTextDate</Key>
-      <Value>Zapisano:</Value>
+      <Value>Zapisane:</Value>
     </Record>
     <Record>
       <Key>WorldInfoTextPlaytime</Key>
-      <Value>Czas gry:</Value>
+      <Value>Czas Gry:</Value>
     </Record>
     <Record>
       <Key>WorldInfoMapName</Key>
@@ -4608,27 +4692,27 @@
     </Record>
     <Record>
       <Key>WorldInfoButtonDebugLoad</Key>
-      <Value>Wczyt z debugiem</Value>
+      <Value>Wczytaj z Debugowaniem</Value>
     </Record>
     <Record>
       <Key>LoadWorldButtonLoad</Key>
-      <Value>Wczytaj świat</Value>
+      <Value>Wczytaj Świat</Value>
     </Record>
     <Record>
       <Key>JoinMenuTitle</Key>
-      <Value>Dołącz do świata</Value>
+      <Value>Dołącz do Świata</Value>
     </Record>
     <Record>
       <Key>JoinMenuButtonRefresh</Key>
-      <Value>Odśwież listę</Value>
+      <Value>Odśwież Listę</Value>
     </Record>
     <Record>
       <Key>JoinMenuButtonJoin</Key>
-      <Value>Dołącz do świata</Value>
+      <Value>Dołącz do Świata</Value>
     </Record>
     <Record>
       <Key>JoinMenuServerListName</Key>
-      <Value>Nazwa serwera</Value>
+      <Value>Nazwa Serwera</Value>
     </Record>
     <Record>
       <Key>JoinMenuServerListVersion</Key>
@@ -4636,7 +4720,7 @@
     </Record>
     <Record>
       <Key>JoinMenuServerListRefreshing</Key>
-      <Value>Odświeżanie listy serwerów</Value>
+      <Value>Odświeżanie Listy Serwerów</Value>
     </Record>
     <Record>
       <Key>JoinMenuInputAddressTitle</Key>
@@ -4644,7 +4728,7 @@
     </Record>
     <Record>
       <Key>NewWorldTitle</Key>
-      <Value>Nowy świat</Value>
+      <Value>Nowy Świat</Value>
     </Record>
     <Record>
       <Key>NewWorldButtonBack</Key>
@@ -4652,15 +4736,15 @@
     </Record>
     <Record>
       <Key>NewWorldButtonCreate</Key>
-      <Value>Stwórz świat</Value>
+      <Value>Stwórz Świat</Value>
     </Record>
     <Record>
       <Key>NewWorldAreaTitle</Key>
-      <Value>Obszar startowy</Value>
+      <Value>Obszar Startowy</Value>
     </Record>
     <Record>
       <Key>NewWorldAreaSpace</Key>
-      <Value>Kosmos</Value>
+      <Value>Pas Asteroid</Value>
     </Record>
     <Record>
       <Key>Moon</Key>
