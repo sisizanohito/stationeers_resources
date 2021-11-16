@@ -4548,7 +4548,7 @@
     </Record>
     <Record>
       <Key>LightCategory</Key>
-      <Value>Jasność</Value>
+      <Value>Światła</Value>
     </Record>
     <Record>
       <Key>PersonalBackpacks</Key>
@@ -4747,20 +4747,40 @@
       <Value>Pas Asteroid</Value>
     </Record>
     <Record>
+      <Key>NewWorldAreaVenus</Key>
+      <Value>Wenus</Value>
+    </Record>
+    <Record>
       <Key>Moon</Key>
       <Value>Księżyc</Value>
     </Record>
     <Record>
       <Key>Space</Key>
-      <Value>Kosmos</Value>
+      <Value>Pas Asteroid</Value>
+    </Record>
+    <Record>
+      <Key>Vulcan</Key>
+      <Value>Wulkan</Value>
+    </Record>
+    <Record>
+      <Key>Vulcan2</Key>
+      <Value>Wulkan</Value>
     </Record>
     <Record>
       <Key>NewWorldAreaEarth</Key>
       <Value>Ziemia</Value>
     </Record>
     <Record>
+      <Key>NewWorldAreaVulcan</Key>
+      <Value>Wulkan</Value>
+    </Record>
+    <Record>
+      <Key>NewWorldAreaVulcan2</Key>
+      <Value>Wulkan</Value>
+    </Record>
+    <Record>
       <Key>NewWorldEnableAwayMissions</Key>
-      <Value>Włącz misje wypadowe</Value>
+      <Value>Włącz Misje Wypadowe</Value>
     </Record>
     <Record>
       <Key>InventorySlotBelt</Key>
@@ -4784,19 +4804,19 @@
     </Record>
     <Record>
       <Key>InventorySlotHelmet</Key>
-      <Value>Kask</Value>
+      <Value>Hełm</Value>
     </Record>
     <Record>
       <Key>InventorySlotHandLeft</Key>
-      <Value>Lewa ręka</Value>
+      <Value>Lewa Ręka</Value>
     </Record>
     <Record>
       <Key>InventorySlotHandRight</Key>
-      <Value>Prawa ręka</Value>
+      <Value>Prawa Ręka</Value>
     </Record>
     <Record>
       <Key>StatusWindowExternal</Key>
-      <Value>Zewnętrzny</Value>
+      <Value>Otoczenie</Value>
     </Record>
     <Record>
       <Key>StatusWindowDamage</Key>
@@ -4804,19 +4824,19 @@
     </Record>
     <Record>
       <Key>StatusWindowInternal</Key>
-      <Value>Wewnętrzny</Value>
+      <Value>Wewnątrz</Value>
     </Record>
     <Record>
       <Key>GameMenuButtonReturn</Key>
-      <Value>Wróć do gry</Value>
+      <Value>Wróć do Gry</Value>
     </Record>
     <Record>
       <Key>GameMenuButtonSave</Key>
-      <Value>Zapisz świat</Value>
+      <Value>Zapisz Swiat</Value>
     </Record>
     <Record>
       <Key>GameMenuButtonChangeCharacter</Key>
-      <Value>Zmień wygląd</Value>
+      <Value>Zmień Wygląd</Value>
     </Record>
     <Record>
       <Key>GameMenuButtonSettings</Key>
@@ -4824,19 +4844,19 @@
     </Record>
     <Record>
       <Key>GameMenuButtonLeave</Key>
-      <Value>Opuść sesję</Value>
+      <Value>Opuść Sesję</Value>
     </Record>
     <Record>
       <Key>GameMenuButtonExitDesktop</Key>
-      <Value>Wyjdź do pulpitu</Value>
+      <Value>Wyjdź do Pulpitu</Value>
     </Record>
     <Record>
       <Key>SaveMenuTitle</Key>
-      <Value>Zapisz świat</Value>
+      <Value>Zapisz Świat</Value>
     </Record>
     <Record>
       <Key>SaveMenuListTitle</Key>
-      <Value>Zapisane światy</Value>
+      <Value>Zapisane Światy</Value>
     </Record>
     <Record>
       <Key>ButtonBack</Key>
@@ -4856,7 +4876,7 @@
     </Record>
     <Record>
       <Key>GameMenuButtonExit</Key>
-      <Value>Zakończ grę</Value>
+      <Value>Zakończ Grę</Value>
     </Record>
     <Record>
       <Key>SettingsMenuTitle</Key>
@@ -4884,11 +4904,11 @@
     </Record>
     <Record>
       <Key>SettingsGameplayAutosave</Key>
-      <Value>Włącz automatyczny zapis</Value>
+      <Value>Włącz Automatyczny Zapis</Value>
     </Record>
     <Record>
       <Key>SettingsAutosaveInterval</Key>
-      <Value>Odstęp czasu (sekundy)</Value>
+      <Value>Odstęp Czasu (Sekundy)</Value>
     </Record>
     <Record>
       <Key>SettingsHUDScale</Key>
@@ -4896,7 +4916,7 @@
     </Record>
     <Record>
       <Key>SettingsDisplayLatency</Key>
-      <Value>Wyświetl opóźnienie</Value>
+      <Value>Opóźnienie Wyświetlania</Value>
     </Record>
     <Record>
       <Key>SettingsDisplayFPS</Key>
@@ -4980,19 +5000,19 @@
     </Record>
     <Record>
       <Key>SettingsShadowResolution</Key>
-      <Value>Rozdzielczość cieni</Value>
+      <Value>Rozdzielczość Cieni</Value>
     </Record>
     <Record>
       <Key>SettingsWeatherQuality</Key>
-      <Value>Jakość tekstur</Value>
+      <Value>Jakość Pogody</Value>
     </Record>
     <Record>
       <Key>SettingsShadowDistamce</Key>
-      <Value>Odległość cieni</Value>
+      <Value>Odległość Cieni</Value>
     </Record>
     <Record>
       <Key>SettingsEnvElements</Key>
-      <Value>Elementy środowiskowe</Value>
+      <Value>Elementy Środowiskowe</Value>
     </Record>
     <Record>
       <Key>SettingsReflections</Key>
@@ -5330,7 +5350,7 @@ Przewiń &lt;color=red&gt;kółkiem myszy&lt;/color&gt;, aby wyświetlić więce
     </Record>
     <Record>
       <Key>PromptUnsubscribeTitle</Key>
-      <Value>Anuluj subskrybcję</Value>
+      <Value>Anuluj Subskrypcję</Value>
     </Record>
     <Record>
       <Key>PromptUnsubscribeBody</Key>
@@ -5338,7 +5358,7 @@ Przewiń &lt;color=red&gt;kółkiem myszy&lt;/color&gt;, aby wyświetlić więce
     </Record>
     <Record>
       <Key>PromptUnsubscribeConfirm</Key>
-      <Value>Anuluj Subskrypcje</Value>
+      <Value>Anuluj Subskrypcję</Value>
     </Record>
     <Record>
       <Key>PromptOverwriteTitle</Key>
@@ -5358,7 +5378,7 @@ Przewiń &lt;color=red&gt;kółkiem myszy&lt;/color&gt;, aby wyświetlić więce
     </Record>
     <Record>
       <Key>PromptPublishBody</Key>
-      <Value>Czy na pewno chcesz opublikowac ten swiat na warsztatach?</Value>
+      <Value>Czy na pewno chcesz opublikować ten świat w warsztacie?</Value>
     </Record>
     <Record>
       <Key>PromptPublishConfirm</Key>
