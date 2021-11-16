@@ -9,7 +9,7 @@
     <!--LEAVE THIS ALONE NEEDED FOR THOSE PAGES-->
     <StationpediaPage>
       <Key>CartridgePage</Key>
-      <Title>Wkłady</Title>
+      <Title>Kartridże</Title>
       <Text>Mogą być dodane do {THING:ItemTablet} lub {THING:ItemAdvancedTablet} by pełnić różne funkcje diagnostyczne.
 {LIST_OF_CARTRIDGES}</Text>
     </StationpediaPage>

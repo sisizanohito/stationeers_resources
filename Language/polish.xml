@@ -357,35 +357,19 @@
     </Record>
     <Record>
       <Key>Rename</Key>
-      <Value>Zmień nazwę</Value>
-    </Record>
-    <Record>
-      <Key>Up</Key>
-      <Value>W górę</Value>
-    </Record>
-    <Record>
-      <Key>Down</Key>
-      <Value>W dół</Value>
-    </Record>
-    <Record>
-      <Key>CallElevator</Key>
-      <Value>Dzwoń</Value>
+      <Value>Zmień Nazwę</Value>
     </Record>
     <Record>
       <Key>Set</Key>
       <Value>Ustaw</Value>
     </Record>
     <Record>
-      <Key>Cycle</Key>
-      <Value>Przewiń</Value>
-    </Record>
-    <Record>
       <Key>ForceClose</Key>
-      <Value>Wymuś zamknięcie</Value>
+      <Value>Wymuś Zamknięcie</Value>
     </Record>
     <Record>
       <Key>ForceOpen</Key>
-      <Value>Wymuś otwarcie</Value>
+      <Value>Wymuś Otwarcie</Value>
     </Record>
     <Record>
       <Key>Link</Key>
@@ -397,7 +381,7 @@
     </Record>
     <Record>
       <Key>ForceFeed</Key>
-      <Value>Wymuś spożycie</Value>
+      <Value>Wymuś Spożycie</Value>
     </Record>
   </Actions>
   <Things>
