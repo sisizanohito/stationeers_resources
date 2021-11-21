@@ -5044,11 +5044,11 @@
     </Record>
     <Record>
       <Key>SettingsVolumetricLighting</Key>
-      <Value>Światło wolumetryczne</Value>
+      <Value>Światło Wolumetryczne</Value>
     </Record>
     <Record>
       <Key>SettingsPixelLightCount</Key>
-      <Value>Liczba pikseli światła</Value>
+      <Value>Liczba Świateł Pikselowych</Value>
     </Record>
     <Record>
       <Key>SettingsShadows</Key>
@@ -5076,7 +5076,7 @@
     </Record>
     <Record>
       <Key>SettingsMasterVolume</Key>
-      <Value>Głośność ogólna</Value>
+      <Value>Głośność</Value>
     </Record>
     <Record>
       <Key>SettingsTitleMixer</Key>
@@ -5088,7 +5088,7 @@
     </Record>
     <Record>
       <Key>SettingsVoiceNotifications</Key>
-      <Value>Powiadomienia głosowe</Value>
+      <Value>Powiadomienia Głosowe</Value>
     </Record>
     <Record>
       <Key>SettingsTitleKeybinds</Key>
