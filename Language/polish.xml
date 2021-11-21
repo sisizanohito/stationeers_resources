@@ -4539,12 +4539,36 @@
   </Interactables>
   <Interface>
     <Record>
+      <Key>SlotKey</Key>
+      <Value>Miejsce</Value>
+    </Record>
+    <Record>
+      <Key>SoonTM</Key>
+      <Value>Wkrótce...</Value>
+    </Record>
+    <Record>
       <Key>MainMenuContinue</Key>
       <Value>Kontynuuj</Value>
     </Record>
     <Record>
+      <Key>KitCategory</Key>
+      <Value>Zestawy Konstrukcyjne</Value>
+    </Record>
+    <Record>
+      <Key>DoorCategory</Key>
+      <Value>Drzwi i Włazy</Value>
+    </Record>
+    <Record>
+      <Key>ChairTableCategory</Key>
+      <Value>Krzesła</Value>
+    </Record>
+    <Record>
       <Key>PersonalSuits</Key>
-      <Value>Skafander</Value>
+      <Value>Skafandry</Value>
+    </Record>
+    <Record>
+      <Key>BatteryCategory</Key>
+      <Value>Magazynowanie Energii</Value>
     </Record>
     <Record>
       <Key>CableCategory</Key>
@@ -6735,7 +6759,11 @@
     </Record>
     <Record>
       <Key>SettingsSmoothTerrain</Key>
-      <Value>Teren</Value>
+      <Value>Gładki Teren</Value>
+    </Record>
+    <Record>
+      <Key>SettingsVirtualizedRendering</Key>
+      <Value>Renderowanie Zwirtualizowane</Value>
     </Record>
   </Interface>
   <Colors>
