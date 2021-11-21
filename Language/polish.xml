@@ -6786,16 +6786,44 @@
       <Value>Samouczek</Value>
     </Record>
     <Record>
+      <Key>StationpediaNoResults</Key>
+      <Value>Nie znaleziono wyników...</Value>
+    </Record>
+    <Record>
+      <Key>HydrationSPDAKey</Key>
+      <Value>Nawodnienie</Value>
+    </Record>
+    <Record>
       <Key>NutritionSPDAKey</Key>
-      <Value>Uwaga</Value>
+      <Value>Wartość Odżywcza</Value>
+    </Record>
+    <Record>
+      <Key>StatusIconHydrationDesc</Key>
+      <Value>Nawodnienie się wyczerpuje.</Value>
+    </Record>
+    <Record>
+      <Key>StatusIconHydrationKey</Key>
+      <Value>Niskie Nawodnienie</Value>
     </Record>
     <Record>
       <Key>HydrationCaution</Key>
-      <Value>Szybkość głodowania</Value>
+      <Value>Ostrzeżenie dot. Nawodnienia</Value>
+    </Record>
+    <Record>
+      <Key>HydrationCritical</Key>
+      <Value>Krytyczny Poziom Nawodnienia</Value>
+    </Record>
+    <Record>
+      <Key>Guides</Key>
+      <Value>Przewodniki</Value>
+    </Record>
+    <Record>
+      <Key>Lore</Key>
+      <Value>Fabuła</Value>
     </Record>
     <Record>
       <Key>SettingsLightShadowDistance</Key>
-      <Value>Odległość cieni</Value>
+      <Value>Odległość Lekkich Cieni</Value>
     </Record>
     <Record>
       <Key>CrowbarToFlip</Key>
