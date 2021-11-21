@@ -5318,19 +5318,19 @@
     </Record>
     <Record>
       <Key>TooltipPlacementSnapGrid</Key>
-      <Value>Umiejscowienie jest przyciągane do siatki.</Value>
+      <Value>Umieszczanie jest przyciągane do siatki.</Value>
     </Record>
     <Record>
       <Key>TooltipPlacementSnapFace</Key>
-      <Value>Umiejscowienie jest przyciągane do powierzchni siatki.</Value>
+      <Value>Umieszczanie jest przyciągane do powierzchni siatki.</Value>
     </Record>
     <Record>
       <Key>TooltipPlacementSnapFaceMount</Key>
-      <Value>Umiejscowienie jest przyciągane do małej siatki.</Value>
+      <Value>Umieszczanie jest przyciągane do małej siatki.</Value>
     </Record>
     <Record>
       <Key>TooltipPlacementSnapFaceMountMissingFrame</Key>
-      <Value>Umieszczenie jest dozwolone tylko na {THING:StructureFrameIron} i {THING:StructureFrame}.</Value>
+      <Value>Umieszczanie jest dozwolone tylko na {THING:StructureFrameIron} i {THING:StructureFrame}.</Value>
     </Record>
     <Record>
       <Key>TooltipPlacementSnapFaceMountMissingSupport</Key>
