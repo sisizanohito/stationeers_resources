@@ -5526,11 +5526,11 @@
     </Record>
     <Record>
       <Key>AlertInvalidIP</Key>
-      <Value>Nieprawidłowy adres IP {0} \nSprawdź czy IP lub URL są prawidłowe</Value>
+      <Value>Nieprawidłowy adres IP {0} \nSprawdź czy adres IP lub URL są prawidłowe</Value>
     </Record>
     <Record>
       <Key>AlertNoBackups</Key>
-      <Value>Folder backupów jest pusty lub nie istnieje.</Value>
+      <Value>Folder z kopiami zapasowymi jest pusty lub nie istnieje.</Value>
     </Record>
     <Record>
       <Key>AlertPlayerCountExceeded</Key>
@@ -5542,28 +5542,30 @@
     </Record>
     <Record>
       <Key>AlertNoResponse</Key>
-      <Value>Brak odpowiedzi od Serwera Gry.
-Spróbuj ponownie.</Value>
+      <Value>
+        Brak odpowiedzi od Serwera Gry.
+        Spróbuj ponownie.
+      </Value>
     </Record>
     <Record>
       <Key>AlertKicked</Key>
-      <Value>Zostałeś(aś) wyrzucony z serwera.</Value>
+      <Value>Zostałeś wyrzucony z serwera.</Value>
     </Record>
     <Record>
       <Key>AlertWrongPassword</Key>
-      <Value>Nieprawidłowe hasło serwera.</Value>
+      <Value>Nieprawidłowe Hasło Serwera.</Value>
     </Record>
     <Record>
       <Key>AlertInvalidPort</Key>
-      <Value>Wartości portów muszą znajdować się w zakresie od 0 do 65535.</Value>
+      <Value>Wartości portów muszą być w zakresie od 0 do 65535.</Value>
     </Record>
     <Record>
       <Key>AlertCannotUpdatePort</Key>
-      <Value>Nie mozna zmodyfikowac portu aktualizacji podczas dzialania serwera.</Value>
+      <Value>Nie można zmodyfikować Portu Aktualizacji podczas działania serwera.</Value>
     </Record>
     <Record>
       <Key>AlertBlankSaveName</Key>
-      <Value>Musisz wprowadzic nazwe swiata, aby zapisac.</Value>
+      <Value>Musisz wprowadzić nazwę świata, aby zapisać.</Value>
     </Record>
     <Record>
       <Key>AlertTitleAttention</Key>
@@ -5571,7 +5573,7 @@ Spróbuj ponownie.</Value>
     </Record>
     <Record>
       <Key>AlertTitlePleaseWait</Key>
-      <Value>Prosze czekac...</Value>
+      <Value>Proszę czekać...</Value>
     </Record>
     <Record>
       <Key>JoinMenuSearchPlaceholder</Key>
