@@ -6798,12 +6798,28 @@
       <Value>Odległość cieni</Value>
     </Record>
     <Record>
+      <Key>CrowbarToFlip</Key>
+      <Value>Odwróć za pomocą łomu</Value>
+    </Record>
+    <Record>
+      <Key>TimerPanel</Key>
+      <Value>Zegar</Value>
+    </Record>
+    <Record>
       <Key>LogicTypeTime</Key>
-      <Value>Czas gry:</Value>
+      <Value>Czas</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeBpm</Key>
+      <Value>Uderzenia na minutę</Value>
+    </Record>
+    <Record>
+      <Key>Pitch</Key>
+      <Value>Wysokość dźwięku</Value>
     </Record>
     <Record>
       <Key>Volume</Key>
-      <Value>Głośność ogólna</Value>
+      <Value>Głośność</Value>
     </Record>
     <Record>
       <Key>NoAudioReceiverDevices</Key>
