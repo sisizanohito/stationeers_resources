@@ -5244,16 +5244,18 @@
     </Record>
     <Record>
       <Key>TutorialComplete</Key>
-      <Value>Samouczek ukończony</Value>
+      <Value>Samouczek Ukończony</Value>
     </Record>
     <Record>
       <Key>TutorialCompleteHeading</Key>
-      <Value>Samouczek ukończony</Value>
+      <Value>Samouczek Ukończony</Value>
     </Record>
     <Record>
       <Key>TutorialCompleteMessage</Key>
-      <Value>Jest jeszcze sporo do nauczenia się.
-Ruszaj na podbój kosmosu, Statioonerze!</Value>
+      <Value>
+        Jest jeszcze wiele do nauczenia się.
+        Więc ruszaj, Stationerze!
+      </Value>
     </Record>
     <Record>
       <Key>TutorialBackToMenu</Key>
