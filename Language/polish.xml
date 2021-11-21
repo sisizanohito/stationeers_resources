@@ -4547,12 +4547,24 @@
       <Value>Skafander</Value>
     </Record>
     <Record>
+      <Key>CableCategory</Key>
+      <Value>Kable i Analizatory</Value>
+    </Record>
+    <Record>
       <Key>LightCategory</Key>
       <Value>Światła</Value>
     </Record>
     <Record>
       <Key>PersonalBackpacks</Key>
-      <Value>Kopie zapasowe</Value>
+      <Value>Plecaki</Value>
+    </Record>
+    <Record>
+      <Key>FoodCategory</Key>
+      <Value>Materiały Eksploatacyjne</Value>
+    </Record>
+    <Record>
+      <Key>WallFloorCategory</Key>
+      <Value>Ściany i Podłogi</Value>
     </Record>
     <Record>
       <Key>SafetyCategory</Key>
@@ -5677,11 +5689,11 @@
     </Record>
     <Record>
       <Key>SettingsStartingCondition</Key>
-      <Value>Stan poczatkowy</Value>
+      <Value>Warunki Początkowe</Value>
     </Record>
     <Record>
       <Key>SettingsTitleGameSettings</Key>
-      <Value>Ustawienia gry</Value>
+      <Value>Ustawienia Gry</Value>
     </Record>
     <Record>
       <Key>SettingsHungerRate</Key>
