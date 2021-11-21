@@ -5290,19 +5290,19 @@
     </Record>
     <Record>
       <Key>TooltipRotateLeftRight</Key>
-      <Value>Użyj {KEY:RotateLeft} oraz {KEY:RotateRight}, aby obrócic w lewo lub w prawo.</Value>
+      <Value>Obróć w lewo i w prawo = {KEY:RotateLeft} oraz {KEY:RotateRight}.</Value>
     </Record>
     <Record>
       <Key>TooltipRotateUpDown</Key>
-      <Value>Użyj {KEY:RotateUp} oraz {KEY:RotateDown}, aby obrócic do góry lub do dołu.</Value>
+      <Value>Obróć w górę i w dół = {KEY:RotateUp} oraz {KEY:RotateDown}.</Value>
     </Record>
     <Record>
       <Key>TooltipRollLeftRight</Key>
-      <Value>Użyj {KEY:RotateRollLeft} oraz {KEY:RotateRollRight}, aby przekręcić w lewo lub w prawo.</Value>
+      <Value>Zatocz w lewo i w prawo = {KEY:RotateRollLeft} oraz {KEY:RotateRollRight}.</Value>
     </Record>
     <Record>
       <Key>SettingsExtendedTooltips</Key>
-      <Value>Rozszerzone wskazówki</Value>
+      <Value>Rozszerzone Wskazówki</Value>
     </Record>
     <Record>
       <Key>TooltipUpgrade2</Key>
@@ -5314,19 +5314,19 @@
     </Record>
     <Record>
       <Key>TooltipAllowsMounting</Key>
-      <Value>Pozwala na montowanie urzadzen nasciennych. Ulepsz, aby stworzyc wiecej mozliwosci montazu.</Value>
+      <Value>Umożliwia montaż urządzeń naściennych. Uaktualnij, aby umożliwić lepszy obszar rozmieszczenia.</Value>
     </Record>
     <Record>
       <Key>TooltipPlacementSnapGrid</Key>
-      <Value>Umiejscowienie przylega do siatki.</Value>
+      <Value>Umiejscowienie jest przyciągane do siatki.</Value>
     </Record>
     <Record>
       <Key>TooltipPlacementSnapFace</Key>
-      <Value>Umiejscowienie przylega do boków siatki.</Value>
+      <Value>Umiejscowienie jest przyciągane do powierzchni siatki.</Value>
     </Record>
     <Record>
       <Key>TooltipPlacementSnapFaceMount</Key>
-      <Value>Umiejscowienie jest możliwe jedynie bezpośrednio na {THING:StructureFrameIron} oraz {THING:StructureFrame}. Jeżeli te elementy są ulepszone, będziesz mieć lepsze możliwości umiejscowienia.</Value>
+      <Value>Umiejscowienie jest przyciągane do małej siatki.</Value>
     </Record>
     <Record>
       <Key>TooltipPlacementSnapFaceMountMissingFrame</Key>
