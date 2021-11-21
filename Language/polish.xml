@@ -6758,6 +6758,20 @@
       <Value>Uwaga</Value>
     </Record>
     <Record>
+      <Key>MolePollutantDescription</Key>
+      <Value>Znane również jako „X”, polutanty powstają podczas wytapiania niektórych metali. Stężenie 0,1 mola lub większe spowoduje, że Twój skafander będzie ostrzegał przed trucizną w atmosferze. 
+      
+Polutant ma wysokie ciepło właściwe, dzięki czemu jest doskonałym chłodziwem.</Value>
+    </Record>
+    <Record>
+      <Key>MoleWaterDescription</Key>
+      <Value>Możesz pozyskać wodę poprzez przetopienie lub skruszenie {THING:ItemIce} używając {THING:StructureFurnace} lub {THING:StructureIceCrusher}, lub poprzez spalanie gazów lotnych i tlenu używając {THING:H2Combustor}.
+      
+Woda jest krytyczna dla &lt;color=#0080FFFF&gt;{LINK:OrganicPage;plants}&lt;/color&gt; do przeżycia i produkowania &lt;color=#0080FFFF&gt;{LINK:NutritionPage;food}&lt;/color&gt;. Jest również wyjątkowym chłodziwem o bardzo wysokiej pojemności cieplnej.
+
+Uwaga: Woda była poprzednio traktowana jako gaz, ale został wprowadzony nowy system cieczy wprowadzając osobne rury, zbiorniki, pompy itp. dla cieczy. Woda jest obecnie jedną dostępną cieczą i obecnie nie zmienia stanu skupienia.</Value>
+    </Record>
+    <Record>
       <Key>MoleNitrousOxideDescription</Key>
       <Value>Podtlenek azotu jest gazem obojętnym, który w przypadku wdychania znokautuje graczy. Sprawia, że Twój {THING:ItemJetpackBasic} świszczy.</Value>
     </Record>
