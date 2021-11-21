@@ -5466,7 +5466,7 @@
     </Record>
     <Record>
       <Key>PromptPublishBody</Key>
-      <Value>Czy na pewno chcesz opublikować ten świat w warsztacie?</Value>
+      <Value>Jesteś pewien, że chcesz opublikować ten świat w Warsztacie?</Value>
     </Record>
     <Record>
       <Key>PromptPublishConfirm</Key>
@@ -5474,19 +5474,27 @@
     </Record>
     <Record>
       <Key>PromptDeleteTitle</Key>
-      <Value>Usun Zapis</Value>
+      <Value>Usuń Zapis</Value>
     </Record>
     <Record>
       <Key>PromptDeleteBody</Key>
-      <Value>Jestes pewny?</Value>
+      <Value>Jesteś pewien?</Value>
     </Record>
     <Record>
       <Key>PromptDeleteConfirm</Key>
-      <Value>Usun</Value>
+      <Value>Usuń</Value>
+    </Record>
+    <Record>
+      <Key>PromptDebugLoadTitle</Key>
+      <Value>Wczytaj z Debugowaniem</Value>
     </Record>
     <Record>
       <Key>PromptDebugLoadBody</Key>
-      <Value>Czy na pewno chcesz zaladowac ten swiat tylko jedna postacia?</Value>
+      <Value>Jesteś pewien, że chcesz wczytać ten świat z tylko jedną postacią?</Value>
+    </Record>
+    <Record>
+      <Key>PromptDebugLoadConfirm</Key>
+      <Value>Wczytaj z Debugowaniem</Value>
     </Record>
     <Record>
       <Key>PromptRespawnTitle</Key>
@@ -5494,15 +5502,23 @@
     </Record>
     <Record>
       <Key>PromptRespawnBody</Key>
-      <Value>Jestes martwy</Value>
+      <Value>Nie żyjesz.</Value>
     </Record>
     <Record>
       <Key>PromptRespawnConfirm</Key>
       <Value>Odrodzenie</Value>
     </Record>
     <Record>
+      <Key>PromptGiveUpTitle</Key>
+      <Value>Poddaj się</Value>
+    </Record>
+    <Record>
       <Key>PromptGiveUpBody</Key>
-      <Value>Jestes nieprzytomny. Czy chcesz się poddac i odrodzic?</Value>
+      <Value>Jesteś nieprzytomny. Czy chcesz się poddać i odrodzić?</Value>
+    </Record>
+    <Record>
+      <Key>PromptGiveUpConfirm</Key>
+      <Value>Poddaj się</Value>
     </Record>
     <Record>
       <Key>AlertYourSaveFileIsBroken</Key>
