@@ -4090,11 +4090,11 @@
     </Record>
     <Record>
       <Key>Slot1</Key>
-      <Value>Gniazdo 1</Value>
+      <Value>Miejsce 1</Value>
     </Record>
     <Record>
       <Key>Slot2</Key>
-      <Value>Gniazdo 2</Value>
+      <Value>Miejsce 2</Value>
     </Record>
     <Record>
       <Key>GrabLeftHand</Key>
@@ -4162,35 +4162,35 @@
     </Record>
     <Record>
       <Key>Slot3</Key>
-      <Value>Gniazdo 3</Value>
+      <Value>Miejsce 3</Value>
     </Record>
     <Record>
       <Key>Slot4</Key>
-      <Value>Gniazdo 4</Value>
+      <Value>Miejsce 4</Value>
     </Record>
     <Record>
       <Key>Slot5</Key>
-      <Value>Gniazdo 5</Value>
+      <Value>Miejsce 5</Value>
     </Record>
     <Record>
       <Key>Slot6</Key>
-      <Value>Gniazdo 6</Value>
+      <Value>Miejsce 6</Value>
     </Record>
     <Record>
       <Key>Slot7</Key>
-      <Value>Gniazdo 7</Value>
+      <Value>Miejsce 7</Value>
     </Record>
     <Record>
       <Key>Slot8</Key>
-      <Value>Gniazdo 8</Value>
+      <Value>Miejsce 8</Value>
     </Record>
     <Record>
       <Key>Slot9</Key>
-      <Value>Gniazdo 9</Value>
+      <Value>Miejsce 9</Value>
     </Record>
     <Record>
       <Key>Slot10</Key>
-      <Value>Gniazdo 10</Value>
+      <Value>Miejsce 10</Value>
     </Record>
     <Record>
       <Key>Button2</Key>
@@ -4218,11 +4218,11 @@
     </Record>
     <Record>
       <Key>Export</Key>
-      <Value>Wywóz</Value>
+      <Value>Wyjście</Value>
     </Record>
     <Record>
       <Key>Import</Key>
-      <Value>Przywóz</Value>
+      <Value>Wejście</Value>
     </Record>
     <Record>
       <Key>PressureUp</Key>
@@ -4258,83 +4258,83 @@
     </Record>
     <Record>
       <Key>Slot11</Key>
-      <Value>Gniazdo 11</Value>
+      <Value>Miejsce 11</Value>
     </Record>
     <Record>
       <Key>Slot12</Key>
-      <Value>Gniazdo 12</Value>
+      <Value>Miejsce 12</Value>
     </Record>
     <Record>
       <Key>Slot13</Key>
-      <Value>Gniazdo 13</Value>
+      <Value>Miejsce 13</Value>
     </Record>
     <Record>
       <Key>Slot14</Key>
-      <Value>Gniazdo 14</Value>
+      <Value>Miejsce 14</Value>
     </Record>
     <Record>
       <Key>Slot15</Key>
-      <Value>Gniazdo 15</Value>
+      <Value>Miejsce 15</Value>
     </Record>
     <Record>
       <Key>Slot16</Key>
-      <Value>Gniazdo 16</Value>
+      <Value>Miejsce 16</Value>
     </Record>
     <Record>
       <Key>Slot17</Key>
-      <Value>Gniazdo 17</Value>
+      <Value>Miejsce 17</Value>
     </Record>
     <Record>
       <Key>Slot18</Key>
-      <Value>Gniazdo 18</Value>
+      <Value>Miejsce 18</Value>
     </Record>
     <Record>
       <Key>Slot19</Key>
-      <Value>Gniazdo 19</Value>
+      <Value>Miejsce 19</Value>
     </Record>
     <Record>
       <Key>Slot20</Key>
-      <Value>Gniazdo 20</Value>
+      <Value>Miejsce 20</Value>
     </Record>
     <Record>
       <Key>Slot21</Key>
-      <Value>Gniazdo 21</Value>
+      <Value>Miejsce 21</Value>
     </Record>
     <Record>
       <Key>Slot22</Key>
-      <Value>Gniazdo 22</Value>
+      <Value>Miejsce 22</Value>
     </Record>
     <Record>
       <Key>Slot23</Key>
-      <Value>Gniazdo 23</Value>
+      <Value>Miejsce 23</Value>
     </Record>
     <Record>
       <Key>Slot24</Key>
-      <Value>Gniazdo 24</Value>
+      <Value>Miejsce 24</Value>
     </Record>
     <Record>
       <Key>Slot25</Key>
-      <Value>Gniazdo 25</Value>
+      <Value>Miejsce 25</Value>
     </Record>
     <Record>
       <Key>Slot26</Key>
-      <Value>Gniazdo 26</Value>
+      <Value>Miejsce 26</Value>
     </Record>
     <Record>
       <Key>Slot27</Key>
-      <Value>Gniazdo 27</Value>
+      <Value>Miejsce 27</Value>
     </Record>
     <Record>
       <Key>Slot28</Key>
-      <Value>Gniazdo 28</Value>
+      <Value>Miejsce 28</Value>
     </Record>
     <Record>
       <Key>Slot29</Key>
-      <Value>Gniazdo 29</Value>
+      <Value>Miejsce 29</Value>
     </Record>
     <Record>
       <Key>Slot30</Key>
-      <Value>Gniazdo 30</Value>
+      <Value>Miejsce 30</Value>
     </Record>
     <Record>
       <Key>TiltUpwards</Key>
@@ -4358,7 +4358,7 @@
     </Record>
     <Record>
       <Key>Export2</Key>
-      <Value>Wywóz 2</Value>
+      <Value>Wyjście 2</Value>
     </Record>
     <Record>
       <Key>Launch</Key>
@@ -4601,6 +4601,18 @@
     <Record>
       <Key>Other</Key>
       <Value>Inne</Value>
+    </Record>
+    <Record>
+      <Key>PowerTool</Key>
+      <Value>Elektronarzędzia</Value>
+    </Record>
+    <Record>
+      <Key>SlotsTitle</Key>
+      <Value>Wszystkie Miejsca</Value>
+    </Record>
+    <Record>
+      <Key>LogicReadersCategory</Key>
+      <Value>Czytniki Logiczne</Value>
     </Record>
     <Record>
       <Key>MotherboardCategory</Key>
