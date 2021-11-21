@@ -5092,7 +5092,7 @@
     </Record>
     <Record>
       <Key>SettingsTitleKeybinds</Key>
-      <Value>Sterowanie</Value>
+      <Value>Przypisanie Klawiszy</Value>
     </Record>
     <Record>
       <Key>SettingsTitleMisc</Key>
@@ -5104,7 +5104,7 @@
     </Record>
     <Record>
       <Key>SettingsVoiceControl</Key>
-      <Value>Kontrola Głosu</Value>
+      <Value>Sterowanie Głosowe</Value>
     </Record>
     <Record>
       <Key>SettingsCameraSensitivity</Key>
