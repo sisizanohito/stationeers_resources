@@ -6806,12 +6806,20 @@
       <Value>Głośność ogólna</Value>
     </Record>
     <Record>
+      <Key>NoAudioReceiverDevices</Key>
+      <Value>Brak Odbiorników Audio</Value>
+    </Record>
+    <Record>
       <Key>Speed</Key>
       <Value>Szybkość</Value>
     </Record>
     <Record>
       <Key>Attack</Key>
       <Value>Atak</Value>
+    </Record>
+    <Record>
+      <Key>Release</Key>
+      <Value>Wypuść</Value>
     </Record>
     <Record>
       <Key>CurrentInstrument</Key>
@@ -6828,6 +6836,10 @@
     <Record>
       <Key>Intensity</Key>
       <Value>Intensywność</Value>
+    </Record>
+    <Record>
+      <Key>Waveform</Key>
+      <Value>Kształt fali dźwiękowej</Value>
     </Record>
     <Record>
       <Key>StationpediaBasePowerUsage</Key>
