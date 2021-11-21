@@ -5577,7 +5577,7 @@
     </Record>
     <Record>
       <Key>JoinMenuSearchPlaceholder</Key>
-      <Value>Wyszukaj wedlug nazwy...</Value>
+      <Value>Wyszukaj według Nazwy Serwera</Value>
     </Record>
     <Record>
       <Key>JoinMenuAddressPlaceholder</Key>
@@ -5585,15 +5585,15 @@
     </Record>
     <Record>
       <Key>JoinMenuServerDetailConnectButton</Key>
-      <Value>Dolacz do swiata</Value>
+      <Value>Dołącz do Świata</Value>
     </Record>
     <Record>
       <Key>JoinMenuServerDetailInfoButton</Key>
-      <Value>Wyswietl informacje</Value>
+      <Value>Wyświetl Informacje</Value>
     </Record>
     <Record>
       <Key>JoinMenuServerDetailUnFavoriteButton</Key>
-      <Value>Usun ulubione</Value>
+      <Value>Usuń Ulubione</Value>
     </Record>
     <Record>
       <Key>JoinMenuServerDetailFavoriteButton</Key>
@@ -5601,7 +5601,7 @@
     </Record>
     <Record>
       <Key>SaveMenuSaveWorldButton</Key>
-      <Value>Zapisz Swiat</Value>
+      <Value>Zapisz Świat</Value>
     </Record>
     <Record>
       <Key>SaveMenuOverwriteButton</Key>
@@ -5609,11 +5609,23 @@
     </Record>
     <Record>
       <Key>SaveMenuNamePlaceholder</Key>
-      <Value>Wprowadź nazwę zapisu...</Value>
+      <Value>Wprowadź Nazwę Zapisu...</Value>
+    </Record>
+    <Record>
+      <Key>NewWorldModeCreative</Key>
+      <Value>Kreatywny</Value>
+    </Record>
+    <Record>
+      <Key>NewWorldModeSurvival</Key>
+      <Value>Przetrwanie</Value>
     </Record>
     <Record>
       <Key>JoinMenuServerListMap</Key>
       <Value>Mapa</Value>
+    </Record>
+    <Record>
+      <Key>JoinMenuInfoIPAddress</Key>
+      <Value>Adres IP:</Value>
     </Record>
     <Record>
       <Key>JoinMenuInfoMap</Key>
@@ -5629,11 +5641,11 @@
     </Record>
     <Record>
       <Key>JoinMenuInfoPlayers</Key>
-      <Value>Gracz:</Value>
+      <Value>Gracze:</Value>
     </Record>
     <Record>
       <Key>ChangeAppearanceTitle</Key>
-      <Value>Zmień wygląd</Value>
+      <Value>Zmień Wygląd</Value>
     </Record>
     <Record>
       <Key>AppearanceTitleGender</Key>
@@ -5649,7 +5661,7 @@
     </Record>
     <Record>
       <Key>AppearanceTitleHairColor</Key>
-      <Value>Kolor Wlosow</Value>
+      <Value>Kolor Włosów</Value>
     </Record>
     <Record>
       <Key>AppearanceTitleEyeColor</Key>
@@ -5657,11 +5669,11 @@
     </Record>
     <Record>
       <Key>AppearanceTitleSkinColor</Key>
-      <Value>Kolor skóry</Value>
+      <Value>Kolor Skóry</Value>
     </Record>
     <Record>
       <Key>AppearanceTitleFacialHairStyle</Key>
-      <Value>Owlosienie Twarzy</Value>
+      <Value>Zarost</Value>
     </Record>
     <Record>
       <Key>SettingsStartingCondition</Key>
