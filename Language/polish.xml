@@ -5378,11 +5378,11 @@
     </Record>
     <Record>
       <Key>SettingsTooltipOpacity</Key>
-      <Value>Przeźroczystość dymków</Value>
+      <Value>Przezroczystość Podpowiedzi</Value>
     </Record>
     <Record>
       <Key>MenuDownloadDriverButton</Key>
-      <Value>Pobierz sterowniki</Value>
+      <Value>Pobierz Sterowniki</Value>
     </Record>
     <Record>
       <Key>MenuDownloadDriverWarning</Key>
@@ -5390,15 +5390,15 @@
     </Record>
     <Record>
       <Key>SettingsChatFadeTimer</Key>
-      <Value>Opóźnienie zanikania czatu</Value>
+      <Value>Opóźnienie Zanikania Czatu</Value>
     </Record>
     <Record>
       <Key>PromptResetSettingsTitle</Key>
-      <Value>Reset ustawień</Value>
+      <Value>Zresetuj Ustawienia</Value>
     </Record>
     <Record>
       <Key>PromptResetSettingsBody</Key>
-      <Value>Na pewno?</Value>
+      <Value>Jesteś pewien?</Value>
     </Record>
     <Record>
       <Key>PromptResetSettingsConfirm</Key>
@@ -5410,7 +5410,7 @@
     </Record>
     <Record>
       <Key>SteamErrorBody</Key>
-      <Value>Nie można nawiązać połączenia ze Steam.  Zrestartuj Steam przed ponownym uruchomieniem Stationeers.</Value>
+      <Value>Nie można nawiązać połączenia ze Steam.  Spróbuj zrestartować Steam przed ponownym uruchomieniem Stationeers</Value>
     </Record>
     <Record>
       <Key>SteamErrorButton</Key>
@@ -5418,7 +5418,7 @@
     </Record>
     <Record>
       <Key>WaitingTitle</Key>
-      <Value>Ostrzeżenie zapisu</Value>
+      <Value>Ostrzeżenie o Zapisywaniu</Value>
     </Record>
     <Record>
       <Key>WaitingBody</Key>
@@ -5430,11 +5430,11 @@
     </Record>
     <Record>
       <Key>PromptQuitBody</Key>
-      <Value>Czy na pewno chcesz zakończyć?</Value>
+      <Value>Jesteś pewien, że chcesz wyjść?</Value>
     </Record>
     <Record>
       <Key>PromptQuitConfirm</Key>
-      <Value>Zakończ</Value>
+      <Value>Wyjdź</Value>
     </Record>
     <Record>
       <Key>PromptUnsubscribeTitle</Key>
@@ -5442,7 +5442,7 @@
     </Record>
     <Record>
       <Key>PromptUnsubscribeBody</Key>
-      <Value>Czy na pewno chcesz zrezygnować z subskrypcji tego przedmiotu z Warsztatu?</Value>
+      <Value>Jesteś pewien, że chcesz zrezygnować z subskrypcji tego przedmiotu z Warsztatu?</Value>
     </Record>
     <Record>
       <Key>PromptUnsubscribeConfirm</Key>
@@ -5454,7 +5454,7 @@
     </Record>
     <Record>
       <Key>PromptOverwriteBody</Key>
-      <Value>Czy na pewno chcesz zastapic istniejacy zapisany swiat?</Value>
+      <Value>Jesteś pewien, że chcesz nadpisać istniejący zapis świata?</Value>
     </Record>
     <Record>
       <Key>PromptOverwriteConfirm</Key>
