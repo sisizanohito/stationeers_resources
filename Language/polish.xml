@@ -5271,16 +5271,22 @@
     </Record>
     <Record>
       <Key>MothershipConstruction</Key>
-      <Value>&lt;color=yellow&gt;Budowa na Statku-Matce&lt;/color&gt;.</Value>
+      <Value>&lt;color=yellow&gt;Budowanie na Statku-Matce&lt;/color&gt;.</Value>
     </Record>
     <Record>
       <Key>MulticonstructorItem</Key>
-      <Value>&lt;color=yellow&gt;Możliwa konstrukcja {0} z {1}&lt;/color&gt;
-Przewiń &lt;color=red&gt;kółkiem myszy&lt;/color&gt;, aby wyświetlić więcej opcji.</Value>
+      <Value>
+        &lt;color=yellow&gt;Opcja konstrukcji {0} z {1}&lt;/color&gt;
+        Przewiń &lt;color=red&gt;Kółkiem Myszy&lt;/color&gt;, aby wyświetlić więcej opcji.
+      </Value>
     </Record>
     <Record>
       <Key>UnableToConstruct</Key>
-      <Value>&lt;color=red&gt;Nie można skonstruować&lt;/color&gt;.</Value>
+      <Value>&lt;color=red&gt;Nie Można Zbudować&lt;/color&gt;.</Value>
+    </Record>
+    <Record>
+      <Key>PortableConnectionFailure</Key>
+      <Value>Można połączyć jedynie {0} do tego {1}</Value>
     </Record>
     <Record>
       <Key>TooltipRotateLeftRight</Key>
