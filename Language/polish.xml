@@ -6758,6 +6758,10 @@
       <Value>Uwaga</Value>
     </Record>
     <Record>
+      <Key>MoleNitrousOxideDescription</Key>
+      <Value>Podtlenek azotu jest gazem obojętnym, który w przypadku wdychania znokautuje graczy. Sprawia, że Twój {THING:ItemJetpackBasic} świszczy.</Value>
+    </Record>
+    <Record>
       <Key>SettingsSmoothTerrain</Key>
       <Value>Gładki Teren</Value>
     </Record>
