@@ -4635,12 +4635,28 @@
       <Value>Fabrykatory</Value>
     </Record>
     <Record>
+      <Key>Edibles</Key>
+      <Value>Żywność i Jedzenie</Value>
+    </Record>
+    <Record>
+      <Key>Plants</Key>
+      <Value>Rośliny i Nasiona</Value>
+    </Record>
+    <Record>
+      <Key>AirContitioningAtmos</Key>
+      <Value>Klimatyzacja</Value>
+    </Record>
+    <Record>
       <Key>AtmosDevices</Key>
-      <Value>Atmosfera</Value>
+      <Value>Urządzenia Atmosferyczne</Value>
     </Record>
     <Record>
       <Key>FireArm</Key>
       <Value>Bronie</Value>
+    </Record>
+    <Record>
+      <Key>ManualTools</Key>
+      <Value>Narzędzia Ręczne</Value>
     </Record>
     <Record>
       <Key>MainMenuNewWorld</Key>
