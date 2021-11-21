@@ -6758,32 +6758,59 @@
       <Value>Miejsca</Value>
     </Record>
     <Record>
+      <Key>StationpediaHowToManufacture</Key>
+      <Value>Jak Wytworzyć</Value>
+    </Record>
+    <Record>
       <Key>StationpediaBuildStates</Key>
-      <Value>Zamknij Stationeers</Value>
+      <Value>Etapy Budowania</Value>
     </Record>
     <Record>
       <Key>StationpediaMachineVersion</Key>
-      <Value>Wersja</Value>
+      <Value>Wersje</Value>
     </Record>
     <Record>
       <Key>StationpediaGasHeader</Key>
       <Value>Gazy</Value>
     </Record>
     <Record>
+      <Key>StationpediaResoucesHeader</Key>
+      <Value>Użyte Surowce</Value>
+    </Record>
+    <Record>
       <Key>StationpediaUsedIn</Key>
       <Value>Używane w</Value>
     </Record>
     <Record>
+      <Key>StationpediaManufactures</Key>
+      <Value>Wytwarza</Value>
+    </Record>
+    <Record>
       <Key>StationpediaFoundIn</Key>
-      <Value>Głośność dźwięków</Value>
+      <Value>Znaleziono w</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaConstructionOptions</Key>
+      <Value>
+        Opcje Budowy</Value>
     </Record>
     <Record>
       <Key>StationpediaModeHeader</Key>
-      <Value>Tryb Rozgrywki</Value>
+      <Value>Tryb</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaLogicHeader</Key>
+      <Value>
+        Logika</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaLogicSlotHeader</Key>
+      <Value>
+        Gniazda Logiczne</Value>
     </Record>
     <Record>
       <Key>StationpediaTutorialListHeader</Key>
-      <Value>Samouczek</Value>
+      <Value>Samouczki</Value>
     </Record>
     <Record>
       <Key>StationpediaNoResults</Key>
