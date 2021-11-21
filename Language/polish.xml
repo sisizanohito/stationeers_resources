@@ -5116,7 +5116,7 @@
     </Record>
     <Record>
       <Key>SaveLocationBroken</Key>
-      <Value>Nie można uzyskać dostępu do lokalizacji plików zapisu, czy używasz niedozwolonych znaków? Spróbuj zmienić folder zapisu w ustawieniach.</Value>
+      <Value>Nie można uzyskać dostępu do lokalizacji plików zapisu, czy używasz niepoprawnych znaków? Spróbuj zmienić folder zapisu w Ustawieniach.</Value>
     </Record>
     <Record>
       <Key>AlertButtonClose</Key>
@@ -5128,7 +5128,7 @@
     </Record>
     <Record>
       <Key>ServerSettingsButtonReset</Key>
-      <Value>Reset ustawień</Value>
+      <Value>Zresetuj Ustawienia</Value>
     </Record>
     <Record>
       <Key>ButtonConfirm</Key>
@@ -5140,7 +5140,7 @@
     </Record>
     <Record>
       <Key>InputTextRename</Key>
-      <Value>Zmień nazwę</Value>
+      <Value>Zmień Nazwę</Value>
     </Record>
     <Record>
       <Key>InputPassword</Key>
@@ -5176,11 +5176,11 @@
     </Record>
     <Record>
       <Key>SettingsPopupChat</Key>
-      <Value>Czat okienkowy</Value>
+      <Value>Okienko Czatu</Value>
     </Record>
     <Record>
       <Key>SettingsDisplayPortrait</Key>
-      <Value>Wyświetlaj portret</Value>
+      <Value>Wyświetlaj Portret</Value>
     </Record>
     <Record>
       <Key>NewWorldAreaMoon</Key>
@@ -5188,19 +5188,19 @@
     </Record>
     <Record>
       <Key>SettingsAntialiasing</Key>
-      <Value>Tryb antyaliasingu</Value>
+      <Value>Metoda Antyaliasingu</Value>
     </Record>
     <Record>
       <Key>SettingsMenuMultiplayer</Key>
-      <Value>Gra sieciowa</Value>
+      <Value>Gra Wieloosobowa</Value>
     </Record>
     <Record>
       <Key>SettingsAdvertiseServer</Key>
-      <Value>Reklamuj serwer</Value>
+      <Value>Ogłoś Serwer</Value>
     </Record>
     <Record>
       <Key>SettingsServerName</Key>
-      <Value>Nazwa serwera</Value>
+      <Value>Nazwa Serwera</Value>
     </Record>
     <Record>
       <Key>SettingsServerPassword</Key>
@@ -5208,19 +5208,19 @@
     </Record>
     <Record>
       <Key>SettingsServerMaxPlayers</Key>
-      <Value>Maks. graczy</Value>
+      <Value>Maksymalnie Graczy</Value>
     </Record>
     <Record>
       <Key>SettingsTitleMultiplayer</Key>
-      <Value>Ustawienia gry wieloosobwej</Value>
+      <Value>Ustawienia Gry Wieloosobowej</Value>
     </Record>
     <Record>
       <Key>SettingsUpdatePort</Key>
-      <Value>Port aktualizacji</Value>
+      <Value>Port Aktualizacji</Value>
     </Record>
     <Record>
       <Key>SettingsGamePort</Key>
-      <Value>Port gry</Value>
+      <Value>Port Gry</Value>
     </Record>
     <Record>
       <Key>SettingsMusic</Key>
@@ -5240,7 +5240,7 @@
     </Record>
     <Record>
       <Key>TutorialStartButton</Key>
-      <Value>Rozpocznij</Value>
+      <Value>Rozpocznij Samouczek</Value>
     </Record>
     <Record>
       <Key>TutorialComplete</Key>
