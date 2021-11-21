@@ -372,6 +372,10 @@
       <Value>Wymuś Otwarcie</Value>
     </Record>
     <Record>
+      <Key>Vend</Key>
+      <Value>Kup</Value>
+    </Record>
+    <Record>
       <Key>Link</Key>
       <Value>Połącz</Value>
     </Record>
