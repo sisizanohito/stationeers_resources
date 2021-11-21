@@ -5721,7 +5721,7 @@
     </Record>
     <Record>
       <Key>SettingsHungerRate</Key>
-      <Value>Szybkość głodowania</Value>
+      <Value>Tempo Głodu/Odwodnienia</Value>
     </Record>
     <Record>
       <Key>JoinWorldSortBy</Key>
@@ -6666,8 +6666,20 @@
       <Value>Zaawansowane</Value>
     </Record>
     <Record>
+      <Key>BasicButtonTutorial</Key>
+      <Value>Podstawowe</Value>
+    </Record>
+    <Record>
       <Key>TravelCategoryKey</Key>
       <Value>Zapisz świat</Value>
+    </Record>
+    <Record>
+      <Key>FurnitureCategoryKey</Key>
+      <Value>Meble</Value>
+    </Record>
+    <Record>
+      <Key>CartidgeCategoryKey</Key>
+      <Value>Kartridże</Value>
     </Record>
     <Record>
       <Key>WeatherCategoryKey</Key>
@@ -6675,7 +6687,11 @@
     </Record>
     <Record>
       <Key>HandToolsCategoryKey</Key>
-      <Value>Wyświetl narzędzia</Value>
+      <Value>Narzędzia Ręczne</Value>
+    </Record>
+    <Record>
+      <Key>OrganicsCategoryKey</Key>
+      <Value>Substancje Organiczne i Żywność</Value>
     </Record>
     <Record>
       <Key>LogicCategoryKey</Key>
@@ -6694,6 +6710,26 @@
       <Value>Atmosfera</Value>
     </Record>
     <Record>
+      <Key>GasesCategoryKey</Key>
+      <Value>Gazy</Value>
+    </Record>
+    <Record>
+      <Key>ConstructionKitsCategoryKey</Key>
+      <Value>Zestawy Konstrukcyjne</Value>
+    </Record>
+    <Record>
+      <Key>FabricatorCategoryKey</Key>
+      <Value>Fabrykatory</Value>
+    </Record>
+    <Record>
+      <Key>OreCategoryKey</Key>
+      <Value>Rudy</Value>
+    </Record>
+    <Record>
+      <Key>OreCategoryKey </Key>
+      <Value>Rudy</Value>
+    </Record>
+    <Record>
       <Key>PressureKeySPDA</Key>
       <Value>Ciśnienie</Value>
     </Record>
@@ -6706,8 +6742,16 @@
       <Value>Resetuj</Value>
     </Record>
     <Record>
+      <Key>StationpediaThingUnit</Key>
+      <Value>Jednostka:</Value>
+    </Record>
+    <Record>
       <Key>StationpediaAutoIgniteHeader</Key>
       <Value>Uwaga</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaSlotsHeader</Key>
+      <Value>Miejsca</Value>
     </Record>
     <Record>
       <Key>StationpediaBuildStates</Key>
@@ -6716,6 +6760,14 @@
     <Record>
       <Key>StationpediaMachineVersion</Key>
       <Value>Wersja</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaGasHeader</Key>
+      <Value>Gazy</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaUsedIn</Key>
+      <Value>Używane w</Value>
     </Record>
     <Record>
       <Key>StationpediaFoundIn</Key>
@@ -6750,12 +6802,44 @@
       <Value>Głośność ogólna</Value>
     </Record>
     <Record>
+      <Key>Speed</Key>
+      <Value>Szybkość</Value>
+    </Record>
+    <Record>
+      <Key>Attack</Key>
+      <Value>Atak</Value>
+    </Record>
+    <Record>
+      <Key>CurrentInstrument</Key>
+      <Value>Obecny Instrument</Value>
+    </Record>
+    <Record>
+      <Key>NoSoundCartridge</Key>
+      <Value>Brak Kartridża Dźwiękowego</Value>
+    </Record>
+    <Record>
+      <Key>NoNote</Key>
+      <Value>Brak Nuty</Value>
+    </Record>
+    <Record>
+      <Key>Intensity</Key>
+      <Value>Intensywność</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaBasePowerUsage</Key>
+      <Value>Podstawowe Zużycie Energii:</Value>
+    </Record>
+    <Record>
       <Key>StationpediaMaxPressure</Key>
-      <Value>Ciśnienie</Value>
+      <Value>Maksymalne Ciśnienie:</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaVolume</Key>
+      <Value>Objętość:</Value>
     </Record>
     <Record>
       <Key>StationpediaNutrition</Key>
-      <Value>Uwaga</Value>
+      <Value>Wartość Odżywcza:</Value>
     </Record>
     <Record>
       <Key>MolePollutantDescription</Key>
