@@ -6750,8 +6750,16 @@
       <Value>Jednostka:</Value>
     </Record>
     <Record>
+      <Key>StationpediaFlashpointHeader</Key>
+      <Value>Temperatura zapłonu:</Value>
+    </Record>
+    <Record>
       <Key>StationpediaAutoIgniteHeader</Key>
-      <Value>Uwaga</Value>
+      <Value>Samozapłon:</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaConstructedFrom</Key>
+      <Value>Konstruowane z</Value>
     </Record>
     <Record>
       <Key>StationpediaSlotsHeader</Key>
