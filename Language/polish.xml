@@ -4659,6 +4659,18 @@
       <Value>Narzędzia Ręczne</Value>
     </Record>
     <Record>
+      <Key>PowerTools</Key>
+      <Value>Elektronarzędzia</Value>
+    </Record>
+    <Record>
+      <Key>TraderErrorConnectWires</Key>
+      <Value>Handlarz nie mógł dokończyć transakcji, sprawdź czy twoje kable nie są przerwane!</Value>
+    </Record>
+    <Record>
+      <Key>TraderErrorMissingMotherboard</Key>
+      <Value>Brakuje Ci płyty głównej w Twoim komputerze, straciłeś łączność z handlarzem.</Value>
+    </Record>
+    <Record>
       <Key>MainMenuNewWorld</Key>
       <Value>Nowy Świat</Value>
     </Record>
