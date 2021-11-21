@@ -4984,23 +4984,23 @@
     </Record>
     <Record>
       <Key>SettingsTitleDisplayTools</Key>
-      <Value>Wyświetl narzędzia</Value>
+      <Value>Narzędzia Wyświetlania</Value>
     </Record>
     <Record>
       <Key>SettingsTitleAutosave</Key>
-      <Value>Ustawienia automatycznego zapisu</Value>
+      <Value>Ustawienia Automatycznego Zapisu</Value>
     </Record>
     <Record>
       <Key>SettingsTitleScreen</Key>
-      <Value>Ustawienia okna</Value>
+      <Value>Ustawienia Okna</Value>
     </Record>
     <Record>
       <Key>SettingsTitleBasicScreen</Key>
-      <Value>Ustawienia podstawowe</Value>
+      <Value>Ustawienia Podstawowe</Value>
     </Record>
     <Record>
       <Key>SettingsTitleAdvScreen</Key>
-      <Value>Ustawienia zaawansowane</Value>
+      <Value>Ustawienia Zaawansowane</Value>
     </Record>
     <Record>
       <Key>SettingsResolution</Key>
@@ -5008,11 +5008,11 @@
     </Record>
     <Record>
       <Key>SettingsScreenMode</Key>
-      <Value>Tryb ekranu</Value>
+      <Value>Tryb Ekranu</Value>
     </Record>
     <Record>
       <Key>SettingsVsync</Key>
-      <Value>Synchronizacja pionowa</Value>
+      <Value>Synchronizacja Pionowa</Value>
     </Record>
     <Record>
       <Key>SettingsButtonApply</Key>
@@ -5024,19 +5024,19 @@
     </Record>
     <Record>
       <Key>SettingsFOV</Key>
-      <Value>Pole widzenia</Value>
+      <Value>Pole Widzenia</Value>
     </Record>
     <Record>
       <Key>SettingsOverallQuality</Key>
-      <Value>Jakość ogólna</Value>
+      <Value>Ogólna Jakość</Value>
     </Record>
     <Record>
       <Key>SettingsTextureQuality</Key>
-      <Value>Jakość tekstur</Value>
+      <Value>Jakość Tekstur</Value>
     </Record>
     <Record>
       <Key>SettingsParticleQuality</Key>
-      <Value>Jakość cząsteczek</Value>
+      <Value>Jakość Cząsteczek</Value>
     </Record>
     <Record>
       <Key>SettingsSoftParticles</Key>
