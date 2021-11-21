@@ -5330,11 +5330,15 @@
     </Record>
     <Record>
       <Key>TooltipPlacementSnapFaceMountMissingFrame</Key>
-      <Value>Umiejscowienie jest możliwe jedynie bezpośrednio na {THING:StructureFrameIron} oraz {THING:StructureFrame}. Jeżeli te elementy są ulepszone, będziesz mieć lepsze możliwości umiejscowienia.</Value>
+      <Value>Umieszczenie jest dozwolone tylko na {THING:StructureFrameIron} i {THING:StructureFrame}.</Value>
     </Record>
     <Record>
       <Key>TooltipPlacementSnapFaceMountMissingSupport</Key>
-      <Value>Umiejscowienie przylega do siatki.</Value>
+      <Value>Umieszczenie wymaga podparcia.</Value>
+    </Record>
+    <Record>
+      <Key>TooltipPlacementSnapFaceMountBlockedDynamic</Key>
+      <Value>Miejsce docelowe zablokowane przez #VAR1#</Value>
     </Record>
     <Record>
       <Key>GameMenuClearDisconnectedPlayers</Key>
