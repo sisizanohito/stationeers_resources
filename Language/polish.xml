@@ -4720,7 +4720,7 @@
     </Record>
     <Record>
       <Key>WorldInfoTextDate</Key>
-      <Value>Zapisane:</Value>
+      <Value>Zapisano:</Value>
     </Record>
     <Record>
       <Key>WorldInfoTextPlaytime</Key>
@@ -5104,15 +5104,15 @@
     </Record>
     <Record>
       <Key>SettingsVoiceControl</Key>
-      <Value>Kontrola głosem</Value>
+      <Value>Kontrola Głosu</Value>
     </Record>
     <Record>
       <Key>SettingsCameraSensitivity</Key>
-      <Value>Czułość kamery</Value>
+      <Value>Czułość Kamery</Value>
     </Record>
     <Record>
       <Key>NotificationTitle</Key>
-      <Value>Zapis udany</Value>
+      <Value>Zapis Udany</Value>
     </Record>
     <Record>
       <Key>SaveLocationBroken</Key>
@@ -6050,6 +6050,10 @@ Spróbuj ponownie.</Value>
     <Record>
       <Key>LogicTypePlantHash4</Key>
       <Value>PRZESTARZAŁE</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeOutput</Key>
+      <Value>Operacja wyjściowa dla urządzeń do porządkowania, takich jak układarka lub sortownik. Gdy w trybie logicznym, urządzenie wykona tylko jedno powtórzenie jeśli ustawione na zero lub więcej, a następnie powróci do -1 i będzie oczekiwać na dalsze instrukcje.</Value>
     </Record>
     <Record>
       <Key>LogicTypePrefabHash</Key>
