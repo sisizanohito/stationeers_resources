@@ -6566,6 +6566,10 @@
       <Value>Zablokowane</Value>
     </Record>
     <Record>
+      <Key>StatusWindowTarget</Key>
+      <Value>Cel</Value>
+    </Record>
+    <Record>
       <Key>CompletedKey</Key>
       <Value>Samouczek ukończony</Value>
     </Record>
@@ -6598,6 +6602,14 @@
       <Value>Gracz:</Value>
     </Record>
     <Record>
+      <Key>Deceased</Key>
+      <Value>Zmarły</Value>
+    </Record>
+    <Record>
+      <Key>Unconscious</Key>
+      <Value>Nieprzytomny</Value>
+    </Record>
+    <Record>
       <Key>Contents</Key>
       <Value>Kontakty</Value>
     </Record>
@@ -6608,6 +6620,46 @@
     <Record>
       <Key>InputLeft</Key>
       <Value>Ustawienia wejsciowe</Value>
+    </Record>
+    <Record>
+      <Key>Liquid</Key>
+      <Value>Ciecz</Value>
+    </Record>
+    <Record>
+      <Key>Gas</Key>
+      <Value>Gaz</Value>
+    </Record>
+    <Record>
+      <Key>Empty</Key>
+      <Value>Puste</Value>
+    </Record>
+    <Record>
+      <Key>Pipe</Key>
+      <Value>Rura</Value>
+    </Record>
+    <Record>
+      <Key>Power</Key>
+      <Value>Moc</Value>
+    </Record>
+    <Record>
+      <Key>Data</Key>
+      <Value>Dane</Value>
+    </Record>
+    <Record>
+      <Key>Chute</Key>
+      <Value>Zsyp</Value>
+    </Record>
+    <Record>
+      <Key>Elevator</Key>
+      <Value>Winda</Value>
+    </Record>
+    <Record>
+      <Key>PowerAndData</Key>
+      <Value>Moc i Dane</Value>
+    </Record>
+    <Record>
+      <Key>All</Key>
+      <Value>Wszystko</Value>
     </Record>
     <Record>
       <Key>SettingsServerAdminPassword</Key>
@@ -6630,12 +6682,48 @@
       <Value>Odległość renderowania</Value>
     </Record>
     <Record>
+      <Key>SetSpawnMessage</Key>
+      <Value>Użyj, aby ustawić Punkt Odradzania</Value>
+    </Record>
+    <Record>
+      <Key>SetSpawnTitle</Key>
+      <Value>Punkt Odradzania</Value>
+    </Record>
+    <Record>
       <Key>ControlPrimaryClickDisc</Key>
       <Value>Interfejs</Value>
     </Record>
     <Record>
+      <Key>ControlHoldPrimaryClick</Key>
+      <Value>Przytrzymaj {KEY:PrimaryAction}</Value>
+    </Record>
+    <Record>
+      <Key>ControlHoldPrimaryClickConstructDisc</Key>
+      <Value>Konstruuj</Value>
+    </Record>
+    <Record>
+      <Key>ControlHoldPrimaryClickDeconstructDisc</Key>
+      <Value>Rozbierz</Value>
+    </Record>
+    <Record>
       <Key>ControlHoldPrimaryClickPlantDisc</Key>
       <Value>Gaz napędowy</Value>
+    </Record>
+    <Record>
+      <Key>ControlHoldPrimaryClickHarvestDisc</Key>
+      <Value>Zbierz</Value>
+    </Record>
+    <Record>
+      <Key>ControlPlayerMovementDisc</Key>
+      <Value>Ruch</Value>
+    </Record>
+    <Record>
+      <Key>ControlSwapHandsDisc</Key>
+      <Value>Zamień Ręce</Value>
+    </Record>
+    <Record>
+      <Key>Seedsstring</Key>
+      <Value>Nasiona</Value>
     </Record>
     <Record>
       <Key>TK</Key>
@@ -6650,12 +6738,20 @@
       <Value>Odbicia</Value>
     </Record>
     <Record>
+      <Key>ControlMouseScroll</Key>
+      <Value>Kółko myszy</Value>
+    </Record>
+    <Record>
       <Key>ControlMouseScrollDisc</Key>
       <Value>Sceneria ukończona</Value>
     </Record>
     <Record>
       <Key>ControlTurnOnDisc</Key>
       <Value>Włącz</Value>
+    </Record>
+    <Record>
+      <Key>ControlQuickMove</Key>
+      <Value>Kółko myszy + {KEY:InventorySelect}</Value>
     </Record>
     <Record>
       <Key>ControlSecondaryEatDisc</Key>
