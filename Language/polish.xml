@@ -6746,8 +6746,28 @@
       <Value>Resetuj</Value>
     </Record>
     <Record>
+      <Key>StationpediaPaintable</Key>
+      <Value>Można Pomalować:</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaStackSize</Key>
+      <Value>Rozmiar Stosu:</Value>
+    </Record>
+    <Record>
       <Key>StationpediaThingUnit</Key>
       <Value>Jednostka:</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaReagentsHeader</Key>
+      <Value>Składniki:</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaHeatHeader</Key>
+      <Value>Ciepło Właściwe:</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaShatterHeader</Key>
+      <Value>Roztrzaskanie:</Value>
     </Record>
     <Record>
       <Key>StationpediaFlashpointHeader</Key>
