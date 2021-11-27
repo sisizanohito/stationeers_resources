@@ -6558,12 +6558,40 @@
       <Value>Eksperymenty</Value>
     </Record>
     <Record>
+      <Key>ResearchProduction</Key>
+      <Value>Produkcja</Value>
+    </Record>
+    <Record>
       <Key>ResearchAutomation</Key>
       <Value>Uwaga</Value>
     </Record>
     <Record>
+      <Key>ResearchTools</Key>
+      <Value>Narzędzia</Value>
+    </Record>
+    <Record>
+      <Key>ResearchOrganics</Key>
+      <Value>Organiczne</Value>
+    </Record>
+    <Record>
+      <Key>ResearchLogic</Key>
+      <Value>Logika</Value>
+    </Record>
+    <Record>
+      <Key>ResearchVehicles</Key>
+      <Value>Pojazdy</Value>
+    </Record>
+    <Record>
       <Key>ResearchShowLocked</Key>
       <Value>Zablokowane</Value>
+    </Record>
+    <Record>
+      <Key>StatusWindowVitals</Key>
+      <Value>Narządy</Value>
+    </Record>
+    <Record>
+      <Key>StatusWindowJetpack</Key>
+      <Value>Plecak Odrzutowy</Value>
     </Record>
     <Record>
       <Key>StatusWindowTarget</Key>
@@ -6632,6 +6660,14 @@
     <Record>
       <Key>Empty</Key>
       <Value>Puste</Value>
+    </Record>
+    <Record>
+      <Key>Cycle</Key>
+      <Value>Przewiń</Value>
+    </Record>
+    <Record>
+      <Key>BuildStateOfHash</Key>
+      <Value>{0} z {1}</Value>
     </Record>
     <Record>
       <Key>Pipe</Key>
