@@ -6861,6 +6861,38 @@
       <Value>Zamień Ręce</Value>
     </Record>
     <Record>
+      <Key>CommandSetTime</Key>
+      <Value>Ustawia przesunięcie słońca afektywnie zmieniając porę dnia. : &quot;/settime 0,25&quot;</Value>
+    </Record>
+    <Record>
+      <Key>CommandToggleInstaGrow</Key>
+      <Value>Przełącza natychmiastowy wzrost roślin na serwerze lub w grze. : &quot;/tgrow&quot;</Value>
+    </Record>
+    <Record>
+      <Key>CommandStopWeather</Key>
+      <Value>Natychmiast zatrzymuje Burzę. : &quot;/stopweather&quot;</Value>
+    </Record>
+    <Record>
+      <Key>CommandStartWeather</Key>
+      <Value>Natychmiast rozpoczyna nową Burzę. : &quot;/startweather&quot;</Value>
+    </Record>
+    <Record>
+      <Key>CommandToggleNoClip</Key>
+      <Value>Przełącza kolizje gracza. : &quot;/tnc&quot;</Value>
+    </Record>
+    <Record>
+      <Key>CommandSkipStage</Key>
+      <Value>Pomija bieżący Etap misji. : &quot;/skipstage&quot;</Value>
+    </Record>
+    <Record>
+      <Key>CommandSetStage</Key>
+      <Value>Ustawia bieżący Etap misji. : &quot;/setstage&quot;</Value>
+    </Record>
+    <Record>
+      <Key>CommandShowStage</Key>
+      <Value>Wyświetla bieżący Etap misji i liczbę etapów w misji. : &quot;/showstage&quot;</Value>
+    </Record>
+    <Record>
       <Key>CommandFillNeeds</Key>
       <Value>Wypełnia gracza najedzenie i nawodnienie. : &quot;/fillneeds&quot;</Value>
     </Record>
