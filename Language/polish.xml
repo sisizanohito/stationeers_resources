@@ -7244,6 +7244,17 @@
       <Value>Wartość Odżywcza:</Value>
     </Record>
     <Record>
+      <Key>MoleNitrogenDescription</Key>
+      <Value>Azot można mieszać z tlenem w celu ustabilizowania jego łatwopalności i jest zasobem samym w sobie, przydatnym do tworzenia, nadającej się do oddychania, atmosfery (w przybliżeniu 3:1 Azot i Tlen).</Value>
+    </Record>
+    <Record>
+      <Key>MoleCarbonDioxideDescription</Key>
+      <Value>Ty go wydychasz, &lt;color=#0080FFFF&gt;{LINK:OrganicPage;plants}&lt;/color&gt; oddychają nim. Nie urosną bez niego.
+      
+Dwutlenek węgla ma umiarkowanie wysokie ciepło właściwe, co oznacza że jest dobrym chłodziwem dla urządzeń takich jak {THING:StructureWallCooler}.
+Woda jest lepsza, ale zwykle ma ważniejsze zastosowania.</Value>
+    </Record>
+    <Record>
       <Key>MoleVolatilesDescription</Key>
       <Value>Substancje lotne są niezwykle reaktywną, złożoną cząsteczką organiczną, która może być stosowana w połączeniu z tlenem jako paliwo palne. Jest ona pozyskiwana z {THING:ItemVolatiles}.
       
