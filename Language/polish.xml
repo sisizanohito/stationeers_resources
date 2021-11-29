@@ -6861,6 +6861,38 @@
       <Value>Zamień Ręce</Value>
     </Record>
     <Record>
+      <Key>CommandFillNeeds</Key>
+      <Value>Wypełnia gracza najedzenie i nawodnienie. : &quot;/fillneeds&quot;</Value>
+    </Record>
+    <Record>
+      <Key>CommandFillHealth</Key>
+      <Value>Leczy gracza. : &quot;/fillhealth&quot;</Value>
+    </Record>
+    <Record>
+      <Key>CommandAddGas</Key>
+      <Value>Dodaje gaz lub ciecz do danego zbiornika lub rurociągu. : &quot;/addgas [refID] [gasType 1-8] [molecount]&quot;</Value>
+    </Record>
+    <Record>
+      <Key>CommandAddGas</Key>
+      <Value>Dodaje gaz lub ciecz do danego zbiornika lub rurociągu. : &quot;/addgas [refID] [gasType 1-8] [molecount]&quot;</Value>
+    </Record>
+    <Record>
+      <Key>CommandCount</Key>
+      <Value>Zlicza wszystkie Rzeczy określonego typu w zapisie. : &quot;/count [AllThings / Structures / DynamicThings / AnimatorThings / Pipes / Cables / Atmospheres / CableNetworks]&quot;</Value>
+    </Record>
+    <Record>
+      <Key>CommandSetDecay</Key>
+      <Value>Ustawia globalny mnożnik Psucia się Żywności. : &quot;/setdecay 2&quot;</Value>
+    </Record>
+    <Record>
+      <Key>CommandSetContact</Key>
+      <Value>Ustawia wymaganą ilość sygnału, aby skontaktować się z handlarzem. : &quot;/setcontact 10&quot;</Value>
+    </Record>
+    <Record>
+      <Key>CommandHelp</Key>
+      <Value>Wyświetla listę poleceń. : &quot;/help&quot;</Value>
+    </Record>
+    <Record>
       <Key>Seedsstring</Key>
       <Value>Nasiona</Value>
     </Record>
@@ -6871,6 +6903,14 @@
     <Record>
       <Key>Stationeers</Key>
       <Value>Zamknij Stationeers</Value>
+    </Record>
+    <Record>
+      <Key>ControlMouseControlDisc</Key>
+      <Value>Aktywuj Sterowanie Myszą</Value>
+    </Record>
+    <Record>
+      <Key>ControlMouseDrag</Key>
+      <Value>Przytrzymaj i Przeciągnij {KEY:PrimaryAction}</Value>
     </Record>
     <Record>
       <Key>ControlMouseDragDisc</Key>
