@@ -4843,6 +4843,10 @@
       <Value>Pas Asteroid</Value>
     </Record>
     <Record>
+      <Key>LoulanShortDesc</Key>
+      <Value>Loulan, po przybyciu zauważysz atmosferę zdatną do oddychania, ciśnienie wystarczająco wysokie, aby podtrzymać życie - ale dotkliwy jego brak. Ten piaszczysty olbrzym znajduje się w Systemie Gargantuan, każdego dnia zbliżając się do czarnej dziury znajdującej się w centrum. Choć opuszczona i już nie zielona ani nie pełna wody, ta planeta nadal ma funkcjonującą atmosferę, a Twoim zadaniem jest przeczesywanie pustkowia w celu zdobycia materiałów i zasobów potrzebnych do przetrwania na tej wiecznej pustyni.</Value>
+    </Record>
+    <Record>
       <Key>NewWorldAreaVenus</Key>
       <Value>Wenus</Value>
     </Record>
