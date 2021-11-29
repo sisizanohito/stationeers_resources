@@ -6877,6 +6877,18 @@
       <Value>Odbicia</Value>
     </Record>
     <Record>
+      <Key>ControlSecondaryActionBuildModeDisc</Key>
+      <Value>Przełącz Tryb Budowania</Value>
+    </Record>
+    <Record>
+      <Key>ControlScrollWheelSelectDisc</Key>
+      <Value>Przełącz Tryb Budowania</Value>
+    </Record>
+    <Record>
+      <Key>ControlAutoRotateDisc</Key>
+      <Value>Automatyczne Obracanie</Value>
+    </Record>
+    <Record>
       <Key>ControlMouseScroll</Key>
       <Value>Kółko myszy</Value>
     </Record>
@@ -6891,6 +6903,22 @@
     <Record>
       <Key>ControlQuickMove</Key>
       <Value>Kółko myszy + {KEY:InventorySelect}</Value>
+    </Record>
+    <Record>
+      <Key>ControlQuickMoveDisc</Key>
+      <Value>Szybkie Przemieszczanie Przedmiotu</Value>
+    </Record>
+    <Record>
+      <Key>WeatherEventsField</Key>
+      <Value>Ma Zdarzenia Pogodowe</Value>
+    </Record>
+    <Record>
+      <Key>ControlUseItemDisc</Key>
+      <Value>Użyj Przedmiotu</Value>
+    </Record>
+    <Record>
+      <Key>ControlMineDisc</Key>
+      <Value>Wydobądź Rudę</Value>
     </Record>
     <Record>
       <Key>ControlSecondaryEatDisc</Key>
@@ -6911,6 +6939,10 @@
     <Record>
       <Key>LightString</Key>
       <Value>Jasność</Value>
+    </Record>
+    <Record>
+      <Key>FixedWeatherEventMissing</Key>
+      <Value>Nie znaleziono żadnego systemu pogodowego dla tego świata. Zastosowano domyślny system pogodowy. Spodziewaj się turbulencji.</Value>
     </Record>
     <Record>
       <Key>AdvancedTutorialButton</Key>
@@ -7031,6 +7063,10 @@
     <Record>
       <Key>StationpediaConstructWith</Key>
       <Value>Konstruuj z:</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaPrefabHash</Key>
+      <Value>Hash Prefabu:</Value>
     </Record>
     <Record>
       <Key>StationpediaPaintable</Key>
@@ -7242,6 +7278,10 @@
     <Record>
       <Key>StationpediaNutrition</Key>
       <Value>Wartość Odżywcza:</Value>
+    </Record>
+    <Record>
+      <Key>MoleOxygenDescription</Key>
+      <Value>Tlen dostarcza energii po uwolnieniu podczas spalania, a także wiąże się z wodorem, tworząc wodę. Jest tworzony przez &lt;color=#0080FFFF&gt;{LINK:OrganicPage;plants}&lt;/color&gt;, a także z przetwarzania {THING:ItemOxite}. Jest wysoce łatwopalny w niskich temperaturach.</Value>
     </Record>
     <Record>
       <Key>MoleNitrogenDescription</Key>
