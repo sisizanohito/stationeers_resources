@@ -7244,6 +7244,14 @@
       <Value>Wartość Odżywcza:</Value>
     </Record>
     <Record>
+      <Key>MoleVolatilesDescription</Key>
+      <Value>Substancje lotne są niezwykle reaktywną, złożoną cząsteczką organiczną, która może być stosowana w połączeniu z tlenem jako paliwo palne. Jest ona pozyskiwana z {THING:ItemVolatiles}.
+      
+Ze względu na niejasne i w dużej mierze zapomniane przepisy &lt;color=#0080FFFF&gt;{LINK:ODA;ODA}&lt;/color&gt;, substancje lotne są czasami oznaczone jako &quot;H2&quot; przez różne elementy technologii. Jednakże, chociaż są podobne do wodoru, nie są &quot;faktycznie&quot; wodorem. Substancje lotne nie wytworzą po spaleniu wody bez katalizatora (patrz {THING:H2Combustor}). Same tworzą zanieczyszczenia i dwutlenek węgla po spaleniu w następującym stosunku:
+      
+2 substancje lotne + 1 O2 -&gt; 3X + 6CO2 + ciepło.</Value>
+    </Record>
+    <Record>
       <Key>MolePollutantDescription</Key>
       <Value>Znane również jako „X”, polutanty powstają podczas wytapiania niektórych metali. Stężenie 0,1 mola lub większe spowoduje, że Twój skafander będzie ostrzegał przed trucizną w atmosferze. 
       
