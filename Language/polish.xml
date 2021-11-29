@@ -3856,15 +3856,15 @@
     </Record>
     <Record>
       <Key>LeftHand</Key>
-      <Value>Lewa ręka</Value>
+      <Value>Lewa Ręka</Value>
     </Record>
     <Record>
       <Key>RightHand</Key>
-      <Value>Prawa ręka</Value>
+      <Value>Prawa Ręka</Value>
     </Record>
     <Record>
       <Key>Helmet</Key>
-      <Value>Kask</Value>
+      <Value>Hełm</Value>
     </Record>
     <Record>
       <Key>Suit</Key>
@@ -3900,23 +3900,23 @@
     </Record>
     <Record>
       <Key>GasCanister</Key>
-      <Value>Butla z gazem</Value>
+      <Value>Butla z Gazem</Value>
     </Record>
     <Record>
       <Key>GasFilter</Key>
-      <Value>Filtr gazu</Value>
+      <Value>Filtr Gazu</Value>
     </Record>
     <Record>
       <Key>AirTank</Key>
-      <Value>Zbiornik powietrza</Value>
+      <Value>Zbiornik Powietrza</Value>
     </Record>
     <Record>
       <Key>WasteTank</Key>
-      <Value>Zbiornik odpadów</Value>
+      <Value>Zbiornik Odpadów</Value>
     </Record>
     <Record>
       <Key>LifeSupport</Key>
-      <Value>Podtrzymanie życia</Value>
+      <Value>Podtrzymanie Życia</Value>
     </Record>
     <Record>
       <Key>Filter</Key>
@@ -3932,11 +3932,11 @@
     </Record>
     <Record>
       <Key>DirtCanister</Key>
-      <Value>Butla z gazem</Value>
+      <Value>Butla z Ziemią</Value>
     </Record>
     <Record>
       <Key>Propellent</Key>
-      <Value>Napęd</Value>
+      <Value>Paliwo Napędowe</Value>
     </Record>
     <Record>
       <Key>Cartridge</Key>
@@ -3948,11 +3948,11 @@
     </Record>
     <Record>
       <Key>PassengerSeatLeft</Key>
-      <Value>Lewy fotel pasażera</Value>
+      <Value>Lewy Fotel Pasażera</Value>
     </Record>
     <Record>
       <Key>PassengerSeatRight</Key>
-      <Value>Prawy fotel pasażera</Value>
+      <Value>Prawy Fotel Pasażera</Value>
     </Record>
     <Record>
       <Key>DataDisk</Key>
@@ -3967,20 +3967,20 @@
       <Value>Urządzenie 2</Value>
     </Record>
     <Record>
-      <Key>Import</Key>
-      <Value>Importuj</Value>
-    </Record>
-    <Record>
       <Key>Export</Key>
-      <Value>Eksportuj</Value>
+      <Value>Eksport</Value>
     </Record>
     <Record>
       <Key>Seat</Key>
       <Value>Fotel</Value>
     </Record>
     <Record>
+      <Key>TransportSlot</Key>
+      <Value>Miejsce Transportowe</Value>
+    </Record>
+    <Record>
       <Key>Motherboard</Key>
-      <Value>Płyta główna</Value>
+      <Value>Płyta Główna</Value>
     </Record>
     <Record>
       <Key>Entity</Key>
@@ -3989,6 +3989,10 @@
     <Record>
       <Key>Occupant</Key>
       <Value>Okupant</Value>
+    </Record>
+    <Record>
+      <Key>PortableSlot</Key>
+      <Value>Miejsce Przenośne</Value>
     </Record>
     <Record>
       <Key>Bed</Key>
@@ -4004,11 +4008,11 @@
     </Record>
     <Record>
       <Key>LoadingRail</Key>
-      <Value>Szyna Ladownicza</Value>
+      <Value>Szyna Ładownicza</Value>
     </Record>
     <Record>
       <Key>AccessCard</Key>
-      <Value>Karta dostępu</Value>
+      <Value>Karta Dostępu</Value>
     </Record>
     <Record>
       <Key>Magazine</Key>
@@ -4016,7 +4020,7 @@
     </Record>
     <Record>
       <Key>ContainerSlot</Key>
-      <Value>Slot kontenera</Value>
+      <Value>Miejsce Kontenera</Value>
     </Record>
     <Record>
       <Key>Plant</Key>
@@ -4032,39 +4036,55 @@
     </Record>
     <Record>
       <Key>CircuitBoard</Key>
-      <Value>Obwód</Value>
+      <Value>Płytka Drukowana</Value>
     </Record>
     <Record>
       <Key>ProgrammableChip</Key>
-      <Value>Procesor</Value>
+      <Value>Programowalny Chip</Value>
+    </Record>
+    <Record>
+      <Key>CreditCard</Key>
+      <Value>Karta Kredytowa</Value>
     </Record>
     <Record>
       <Key>Cartridge2</Key>
-      <Value>Magazynek</Value>
+      <Value>Kartridż 2</Value>
+    </Record>
+    <Record>
+      <Key>Next</Key>
+      <Value>Następne</Value>
+    </Record>
+    <Record>
+      <Key>Prev</Key>
+      <Value>Poprzednie</Value>
     </Record>
     <Record>
       <Key>Cartridge0</Key>
-      <Value>Magazynek</Value>
+      <Value>Kartridż 0</Value>
     </Record>
     <Record>
       <Key>Cartridge1</Key>
-      <Value>Magazynek</Value>
+      <Value>Kartridż 1</Value>
+    </Record>
+    <Record>
+      <Key>Previous</Key>
+      <Value>Poprzednie</Value>
     </Record>
     <Record>
       <Key>SensorProcessingUnit</Key>
-      <Value>Przetwarzanie</Value>
+      <Value>Jednostka Przetwarzania Czujnika</Value>
     </Record>
     <Record>
       <Key>LiquidCanister</Key>
-      <Value>Butla z gazem</Value>
+      <Value>Butla z Cieczą</Value>
     </Record>
     <Record>
       <Key>HandSlot</Key>
-      <Value>Lewa ręka</Value>
+      <Value>Ręka</Value>
     </Record>
     <Record>
       <Key>BottleSlot</Key>
-      <Value>Portable Slot</Value>
+      <Value>Miejsce na Butelkę</Value>
     </Record>
   </Slots>
   <Interactables>
