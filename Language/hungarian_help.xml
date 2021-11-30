@@ -24,8 +24,9 @@
     <StationpediaPage>
       <Key>ImportExportPage</Key>
       <Title>Import/export és szállítás</Title>
-      <Text>Olyan árammal ellátott struktúrák, melyek speciális funkciókkal rendelkeznek, mint például logika, atmoszferika kezelése stb. Ugyanúgy kell építeni őket, mint a többi építhető tárgyat.
+      <Text>Ezek tipikusan elektromos árammal ellátott szerkezetek, melyek bemenetei és kimenetei más tárgyak, vagy ehhez kapcsolódó folyamatot segítenek. A legtöbb speciális funkciókkal rendelkezik, mint a {LINK:LogicUnitPage;logika}, az {LINK:AtmosphericPage;atmoszferika}, és hasonlók. Ugyanúgy megépíthetők, mint más szerkezetek.
         {LIST_OF_IMPORTEXPORT}
+      
       </Text>
     </StationpediaPage>
     <StationpediaPage>
