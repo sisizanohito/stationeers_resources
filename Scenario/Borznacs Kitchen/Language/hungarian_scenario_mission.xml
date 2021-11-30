@@ -82,5 +82,29 @@ Arra lettél kényszerítve, hogy te legyél V. Borznac új személyi séfje. M�
       <Key>MilkTask2</Key>
       <Value>Állíts elő és szállíts le 2 doboz tejet!</Value>
     </Record>
+    <Record>
+      <Key>BorznacsNarration0D</Key>
+      <Value>Éhes vagyok, szóval készíts számomra némi sült burgonyát! Ne feledd, csak egyet tudsz sütni egyszerre! Ha készek, tedd őket a csúszdába! Ne kelljen csalódnom benned! A legutóbbi séfem lassú és hülye volt. Nem járt valami jól...</Value>
+    </Record>
+    <Record>
+      <Key>BorznacsNarration1D</Key>
+      <Value>Hát ez épphogy elégséges volt. Akarok valamit, aminek VAN ÍZE! Kérek  sült krumplit! Emlékszel, hogy kell sütni, ugye?</Value>
+    </Record>
+    <Record>
+      <Key>BorznacsNarration2D</Key>
+      <Value>Mmmmm... ez már jobb volt. Most valami édességet akarok. Készíts számomra muffinokat, vagy megtapasztalod haragom!</Value>
+    </Record>
+    <Record>
+      <Key>BorznacsNarration3D</Key>
+      <Value>Ah, ettől a sok édes íztől megkívántam a tésztát... igen, egy kis kenyér most jól esne!</Value>
+    </Record>
+    <Record>
+      <Key>BorznacsNarration4D</Key>
+      <Value>Ettől a sok ételtől kicsit kiszáradtam... szomjas vagyok. Egy kis friss tej tökéletes lenne. Hozz!</Value>
+    </Record>
+    <Record>
+      <Key>BorznacsNarration5D</Key>
+      <Value>Ah, sokkal tehetségesebb vagy, mint az elődöd! Most valami klasszikusat kérek. Egy jó tökpitét! Azonnal kérem! Az alapanyag szobában kinyitottam a csúszdát. Bármit használhatsz, amit az előző szakács hátrahagyott.</Value>
+    </Record>
   </Interface>
 </Language>
