@@ -1,13 +1,13 @@
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Code>PL</Code>
   <GameTip>
-    <String>Wciśnij {KEY:HelmetSlot}, {KEY:SuitSlot}, {KEY:BackSlot}, {KEY:UniformSlot}, lub {KEY:ToolBeltSlot} aby przełączyć interakcje oraz pola na każdym przedmiocie z polami, który na sobie nosisz. Wciśnij i przytrzymaj, aby podmienić ten slot z aktywną ręką.</String>
-    <String>Press {KEY:ToggleHandPower} to toggle what you&apos;re holding in your hands on or off quickly.</String>
-    <String>Wciśnij {KEY:ToggleLight} aby szybko włączyć lub wyłączyć światło w Twoim {THING:ItemSpaceHelmet}.</String>
-    <String>Wciśnij {KEY:EmoteWave} aby spowodować, by Twoja postać pomachała innym Stationeerom.</String>
-    <String>Wciśnij {KEY:Jetpack} aby szybko przełączyć napęd odrzutowy w {THING:ItemSpacepack}.</String>
-    <String>Press {KEY:ToggleUI} to toggle the User Interface on or off to get amazing screenshots or video.</String>
-    <String>Pressing {KEY:Ascend} will make you ascend if your {THING:ItemSpacepack} is on, otherwise your character will try to jump. You can toggle the {THING:ItemSpacepack} on or off using the {KEY:Jetpack} key.</String>
+    <String>Wciśnij {KEY:HelmetSlot}, {KEY:SuitSlot}, {KEY:BackSlot}, {KEY:UniformSlot} lub {KEY:ToolBeltSlot} aby przełączać się między interakcjami i slotami, każdego przedmiotu ze slotów, które na sobie nosisz. Wciśnij i przytrzymaj, aby podmienić ten slot z twoją aktywną ręką.</String>
+    <String>Wciśnięcie {KEY:ToggleHandPower} lub {KEY:SecondaryAction} włącza/wyłącza zasilanie przedmiotów w twojej ręce.</String>
+    <String>Wciśnij {KEY:ToggleLight} aby włączyć/wyłączyć światła twojego {THING:ItemSpaceHelmet}.</String>
+    <String>Wciśnij {KEY:EmoteWave} aby twoja postać pomachała do innych.</String>
+    <String>Wciśnij {KEY:Jetpack} aby włączyć/wyłączyć twój {THING:ItemSpacepack}.</String>
+    <String>Wciśnij {KEY:ToggleUI} aby włączyć/wyłączyć Interfejs Użytkownika żeby zrobić zrzut ekranu lub nagranie.</String>
+    <String>Wciśnij {KEY:Ascend} aby polecieć w górę gdy twój {THING:ItemSpacepack} jest włączony. Wciśnij {KEY:Descend} aby zejść niżej.</String>
     <String>Pressing {KEY:Descend} will make you descend if your {THING:ItemSpacepack} is on. You can toggle the {THING:ItemSpacepack} on or off using the {KEY:Jetpack} key.</String>
     <String>Pressing and releasing the {KEY:Drop} key will make you immediately drop whatever is in your hands. If you hold the {KEY:Drop} key down, it will try to throw it. The longer you hold it, the further you will throw.</String>
     <String>Press {KEY:Chatting} to start chatting to other players. A small box will appear in the lower right of the screen with the text you write before sending.</String>
