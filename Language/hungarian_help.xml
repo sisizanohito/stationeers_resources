@@ -238,11 +238,15 @@ Olvadási nyomás {0}</Text>
       <Key>NutritionPage</Key>
       <Title>Éhség és táplálkozás</Title>
       <DisplayFilter>Guides</DisplayFilter>
-      <Text>A stationeerek, mint mindenki, megéhezhetnek. A különböző ételek mind máshogy készülnek. Az éhezés mértéke függ a beállításaidtól és a nehézségtől. Az élelem elfogyasztásásakor annak csak annyi része fog elfogyni, amennyi a tápláltságod 100%-os elréséhez szükséges.
+      <Text>{HEADER:HUNGER}
 
-Minden stationeer kap induláskor élelemellátmányt, mint a &lt;color=#0080FFFF&gt;{LINK:Agrizero;Agrizero}&lt;/color&gt; {THING:ItemCerealBar}, melyet a leszállóegységben talál meg. Ha ezek elfogynak, máshogy kell megoldanod az élelemellátást.
+Minden stationeer megéhezik egyszer, viszont minden ételt máshogy kell elkészíteni. Az éhséged mértéke függ a beállításoktól és a nehézségi szinttől is. Az étel elfogyasztásakor annak csak annyi része fogy el, amennyi szükséges a 100%-os tápláltsághoz.
 
-Az alapanyagok nyersen kevésbé táplálnak, mint az elkészített ételek, azaz kevesebb részét töltik vissza a tápláltságnak. Az alapvető élelmiszerek a &lt;color=#0080FFFF&gt;{LINK:OrganicsPage;hidroponikával}&lt;/color&gt; állíthatóak elő. Ezeket {THING:ApplianceReagentProcessor} segítségével dolgozhatod fel, majd a {THING:ApplianceMicrowave} segítségével készítheted el ételnek.</Text>
+A stationeerek kapnak induláskor ellátmányt, mint a &lt;color=#0080FFFF&gt;{LINK:Agrizero;Agrizero}&lt;/color&gt; {THING:ItemCerealBar}. Ezek a leszállóegységgel együtt érkeznek. Ha a készletek kifogytak, muszáj új módot találnod az élelem megszerzésére - termesztéssel, az ellátmánnyal érkezett magokkal, vagy egy {LINK:TradingPage;kereskedő} segítségével.
+
+Nyers, feldolgozatlan élelem fogyasztása is enyhítheti az éhséget, de kevésbé, mint az elkészített ételek (azaz kevesebbet tölt vissza az éhségcsíkba). Az legalapvetőbb hozzávalókat &lt;color=#0080FFFF&gt;{LINK:OrganicPage;hidroponikus}&lt;/color&gt; rendszerek segítségével állíthatod elő. Ezeket a {THING:ApplianceReagentProcessor} segítségével dolgozhatod fel, majd ezeket egy kész fogássá alakíthatod a {THING:ApplianceMicrowave} vagy az {THING:StructureAutomatedOven} segítségével.
+
+Az éhséged mértékét a beállításokban állíthatod át az Éhség/Szomjúság csúszka átállításával. Ez a csúszka a {LINK:HydrationPage;szomjúság} mértékét és változtatja.</Text>
     </StationpediaPage>
   </HelpPage>
 </Language>
