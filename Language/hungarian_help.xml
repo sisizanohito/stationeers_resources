@@ -88,7 +88,7 @@ Ha közvetlenül ránézel egy félkész, építés alatt levő dologra, akkor m
     <StationpediaPage>
       <Key>ToolPage</Key>
       <Title>Eszközök</Title>
-      <Text>Ezek csak speciális eszköz slotban használhatók, {LINK:ConstructionPage;építkezéshez} és más munkákra használhatók.
+      <Text>Ezek a tárgyak speiális eszköz slotban használhatók, {LINK:ConstructionPage;építkezéshez} és egyéb feladatok elvégzésére alkalmasak.
 
 {LIST_OF_TOOLS}
       </Text>
@@ -236,11 +236,7 @@ Olvadási nyomás {0}</Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>NutritionPage</Key>
-      <Title>A stationeerek, mint mindenki, megéhezhetnek. A különböző ételek mind máshogy készülnek. Az éhezés mértéke függ a beállításaidtól és a nehézségtől. Az élelem elfogyasztásásakor annak csak annyi része fog elfogyni, amennyi a tápláltságod 100%-os elréséhez szükséges.
-
-Minden stationeer kap induláskor élelemellátmányt, mint a &lt;color=#0080FFFF&gt;{LINK:Agrizero;Agrizero}&lt;/color&gt; {THING:ItemCerealBar}, melyet a leszállóegységben talál meg. Ha ezek elfogynak, máshogy kell megoldanod az élelemellátást.
-
-Az alapanyagok nyersen kevésbé táplálnak, mint az elkészített ételek, azaz kevesebb részét töltik vissza a tápláltságnak. Az alapvető élelmiszerek a &lt;color=#0080FFFF&gt;{LINK:OrganicsPage;hidroponikával}&lt;/color&gt; állíthatóak elő. Ezeket {THING:ApplianceReagentProcessor} segítségével dolgozhatod fel, majd a {THING:ApplianceMicrowave} segítségével készítheted el ételnek.</Title>
+      <Title>Éhség és táplálkozás</Title>
       <DisplayFilter>Guides</DisplayFilter>
       <Text>A stationeerek, mint mindenki, megéhezhetnek. A különböző ételek mind máshogy készülnek. Az éhezés mértéke függ a beállításaidtól és a nehézségtől. Az élelem elfogyasztásásakor annak csak annyi része fog elfogyni, amennyi a tápláltságod 100%-os elréséhez szükséges.
 
