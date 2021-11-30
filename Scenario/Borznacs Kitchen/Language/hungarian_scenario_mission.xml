@@ -16,5 +16,39 @@
       <Value>Miután több Sinotaijal kötött kereskedelmi megállapodásból is kizárták, V. Borznac úgy döntött, hogy maga épít egy saját birodalmat. Ezt a közeli holdbázisok elfoglalásával kezdte, beleértve a tiedet is.
 Arra lettél kényszerítve, hogy te legyél V. Borznac új személyi séfje. Jobb, ha elkezdesz főzni!</Value>
     </Record>
+    <Record>
+      <Key>ScenariosBorznacsKitchenIntroDescription</Key>
+      <!--Intro Panel-->
+      <Value>V. Borznac nem a kedvességéről híres... Miután több Sinotaijal kötött kereskedelmi megállapodásból is kizárták, úgy döntött, hogy maga épít egy saját birodalmat. Ezt a közeli holdbázisok elfoglalásával kezdte, beleértve a tiedet is.
+Arra lettél kényszerítve, hogy te legyél V. Borznac új személyi séfje. Még mindig nem tudod, mi történhetett az előző séffel, de nem akarsz rájönni. Elég jó az étvágya, és türelmetlen is! Szóval jobb, ha elkezdesz főzni!</Value>
+    </Record>
+    <Record>
+      <Key>CookingForYourLifeSubTitle</Key>
+      <Value>Főzz az életedért!</Value>
+    </Record>
+    <Record>
+      <Key>BakedPotato1</Key>
+      <Value>Készíts el és szállíts le 4 adag sült burgonyát!</Value>
+    </Record>
+    <Record>
+      <Key>FriesTask1</Key>
+      <Value>Készíts el és szállíts le 2 adag sült krumplit!</Value>
+    </Record>
+    <Record>
+      <Key>MuffinTask1</Key>
+      <Value>Süss meg és szállíts le 3 muffint!</Value>
+    </Record>
+    <Record>
+      <Key>BreadTask1</Key>
+      <Value>Süss meg és szállíts le 2 vekni kenyeret!</Value>
+    </Record>
+    <Record>
+      <Key>MilkTask1</Key>
+      <Value>Állíts elő és szállíts le 2 doboz tejet!</Value>
+    </Record>
+    <Record>
+      <Key>PumpkinPie1</Key>
+      <Value>Süss meg és szállíts le 2 tökpitét!</Value>
+    </Record>
   </Interface>
 </Language>
