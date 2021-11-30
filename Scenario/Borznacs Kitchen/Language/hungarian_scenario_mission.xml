@@ -10,5 +10,11 @@
       <Key>TutoiralGasMixingSubTitle</Key>
       <Value>Jobb, ha elkezdesz főzni!</Value>
     </Record>
+    <Record>
+      <Key>ScenariosBorznacsKitchenDescription</Key>
+      <!--Menu Disc-->
+      <Value>Miután több Sinotaijal kötött kereskedelmi megállapodásból is kizárták, V. Borznac úgy döntött, hogy maga épít egy saját birodalmat. Ezt a közeli holdbázisok elfoglalásával kezdte, beleértve a tiedet is.
+Arra lettél kényszerítve, hogy te legyél V. Borznac új személyi séfje. Jobb, ha elkezdesz főzni!</Value>
+    </Record>
   </Interface>
 </Language>
