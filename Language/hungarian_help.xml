@@ -43,14 +43,13 @@
       <Key>ConstructionPage</Key>
       <Title>Építkezés</Title>
       <DisplayFilter>Guides</DisplayFilter>
-      <Text>{HEADER:Első lépések}
-A legtöbb dolog megépítéséhez {LINK:KitPage;készleteket} fogsz használni. {LINK:ToolPage;Eszközök} ls {LINK:ResourcePage;nyersanyagok} használatával tudod befejezni őket. Figyelj arra, hogy hány készletet használsz el, mert néhány dolog megépítéséhez nem csak egyre lesz szükséged. Néhány készlet többféleképpen is elkészíthető, az opciókhoz használd a {COLORRED:Scroll Wheel} gombot.
+      <Text>{HEADER:Getting Started}
+Általában a {LINK:KitPage;készleteket} kell használnod valaminek a megépítésének megkezdéséhez, ezután számos {LINK:ToolPage;eszköz} segítségével fejezheted be az építkezést. Figyelj arra, hogy egyes dolgok megépítéséhez hány készletet használsz, mivel számos struktúra és szerkezet más és más számű készlet használatát igényli. Egyes készleteknél több építési opció is van, melyek közül a {COLORRED:Scroll Wheel} használatával választhatsz.
 
-{HEADER:Építési fázisok}
-Néhány dolog különböző építési fázisokkal rendelkezik. A képernyő megjelenő szöveg segíteni fog, hogy éppen melyik eszköz és melyik nyersanyagot használd. Néha mindkét kezedben kell lennie adott tárgyaknak, hogy a konstrukciót sikeresen végrehajtsd. A használt eszközök közül van, amit be kell kapcsolni, ezt a {KEY:ToggleHandPower} gomb használatával teheted meg.
+{HEADER:Build States}
+Egyes szerkezetek több konstrukciós fázissal is rendelkeznek, amelyeken végig kell menni az építésnél. Eszköztippként fog megjelenni, hogy milyen kombinációban kell végrehajtanod a műveleteket. Néha két dologra is szükséged van egyszerre, általában egy eszközre az egyik kezedben, és alapanyagra a másik kezedben, ahhoz, hogy egy fázist végre tudj hajtani. Egyes eszközöket először be kell kapcsolni, ezt a {KEY:ToggleHandPower} használatával teheted meg.
 
-{HEADER:Tippek}
-Ha közvetlenül ránézel az építés alatt levő tárgyra, a befejezéshez szükséges információk meg fognak jelenni. Ha nem a szükséges {LINK:ToolPage;eszköz} van a kezedben, tanácsot fogsz kapni, milyen eszközzel bonthatod le.</Text>
+{HEADER:Tooltips} </Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>ReagentPage</Key>
