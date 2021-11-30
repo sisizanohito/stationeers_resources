@@ -106,5 +106,15 @@ Arra lettél kényszerítve, hogy te legyél V. Borznac új személyi séfje. M�
       <Key>BorznacsNarration5D</Key>
       <Value>Ah, sokkal tehetségesebb vagy, mint az elődöd! Most valami klasszikusat kérek. Egy jó tökpitét! Azonnal kérem! Az alapanyag szobában kinyitottam a csúszdát. Bármit használhatsz, amit az előző szakács hátrahagyott.</Value>
     </Record>
+    <Record>
+      <Key>BorznacsNarration6D</Key>
+      <Value>Kiváló! Az ügyetlen elődöddel ellentétben benned megvan az, amit megérdemlek! Egyszer talán szabadon is engedlek. Talán. De most... VACSORA! Egy teljes, háromfogásos vacsorát kérek, vagy szendvedj  szörnyű következménytől!</Value>
+    </Record>
+    <Record>
+      <Key>BorznacWinEnd</Key>
+      <Value>Bebizonyítottad, hogy Borznac nélkülözhetetlen kiszolgálója vagy!
+			
+Gratulálok!</Value>
+    </Record>
   </Interface>
 </Language>
