@@ -189,6 +189,11 @@
       <Value>Szója</Value>
       <Unit/>
     </RecordReagent>
+    <RecordReagent>
+      <Key>Mushroom</Key>
+      <Value>Gomba</Value>
+      <Unit>g</Unit>
+    </RecordReagent>
   </Reagents>
   <Gases>
     <Record>
@@ -276,6 +281,10 @@
     <Record>
       <Key>Plant</Key>
       <Value>Ültetés</Value>
+    </Record>
+    <Record>
+      <Key>Water</Key>
+      <Value>Öntözés</Value>
     </Record>
     <Record>
       <Key>Harvest</Key>
