@@ -49,7 +49,12 @@
 {HEADER:Build States}
 Egyes szerkezetek több konstrukciós fázissal is rendelkeznek, amelyeken végig kell menni az építésnél. Eszköztippként fog megjelenni, hogy milyen kombinációban kell végrehajtanod a műveleteket. Néha két dologra is szükséged van egyszerre, általában egy eszközre az egyik kezedben, és alapanyagra a másik kezedben, ahhoz, hogy egy fázist végre tudj hajtani. Egyes eszközöket először be kell kapcsolni, ezt a {KEY:ToggleHandPower} használatával teheted meg.
 
-{HEADER:Tooltips} </Text>
+{HEADER:Tooltips}
+Ha közvetlenül ránézel egy félkész, építés alatt levő dologra, akkor megkapod az építéshez szükséges információkat eszköztipp formájában. Amikor nem az az {LINK:ToolPage;eszköz} van a kezedben, ami az építéshez szükséges, akkor az eszköztippben az az eszköz jelenik meg, amivel az adott dolog lebontható.
+
+{HEADER:Pressure}
+Építkezésnél fontos megjegyezni, hogy a nyomás különbségként van kezelve. A legtöbb struktúra nyomásbírása legfeljebb 200kPa, szóval ha a külső és a belső nyomás különbsége ennél nagyobb, akkor probléma van!
+      </Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>ReagentPage</Key>
@@ -68,14 +73,14 @@ Egyes szerkezetek több konstrukciós fázissal is rendelkeznek, amelyeken végi
     <StationpediaPage>
       <Key>OrePage</Key>
       <Title>Ércek</Title>
-      <Text>Az {LINK:OrePage;ércek} {LINK:MiningPage;bányászhatóak}, és sokszor {LINK:SmeltingPage;be lehet olvasztani} őket. A {THING:StructureRecycler} használatával vegyes érceket kaphatsz, amiket csa a {THING:StructureCentrifuge} segítségével válaszhatsz szét újra. A kapott {LINK:OrePage;érceket} újra {LINK:SmeltingPage;beolvaszthatod}.
-        Egyes ércek napfény vagy egyéb hő hatására kiolvadnak, és {LINK:GasPage;gázzá} alakulnak. Például a {THING:ItemIce} elolvadása után {GAS:Water}zé és {GAS:Oxygen}né válik. Tartsd a jegeket távol a hőforrásoktól, ha nem akarod, hogy elolvadjanak!{LIST_OF_ORES}
+      <Text>Ezek olyan anyagok, amik {LINK:MiningPage;bányászhatóak}, és gyakran feldolgozhatóak, {LINK:SmeltingPage;beolvaszhatóak}. A(z) {THING:StructureRecycler} használatával ún. vegyes érceket kaphatsz, melyeket a(z) {THING:StructureCentrifuge} segítségével bonthatsz le {LINK:OrePage;ércekre} {LINK:SmeltingPage;beolvasztáshoz}.
+        Vannak olyan ércek, amelyek napfény vagy hő hatására megolvadnak, ezzel {LINK:GasPage;gázokat} képezve. Például a {THING:ItemIce} {GAS:Water}zé és {GAS:Oxygen}né olvad. Figyelj, hogy ezeket hőtől távol tartod, amíg tényleg fel nem szeretnéd őket használni!{LIST_OF_ORES}
       </Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>IngotPage</Key>
       <Title>Öntött fémrudak</Title>
-      <Text>Ezeket általában {LINK:OrePage;ércek} {LINK:SmeltingPage;beolvasztásával} készítheted el.
+      <Text>Ezek a tárgyak általában {LINK:OrePage;ércek} {LINK:SmeltingPage;beolvasztásával} készíthetőek el. Használhatóak {LINK:FabricatorPage;gyártáshoz}
 
 {LIST_OF_INGOTS}
       </Text>
