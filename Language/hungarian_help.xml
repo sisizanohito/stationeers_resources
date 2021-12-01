@@ -105,6 +105,15 @@ Ha közvetlenül ránézel egy félkész, építés alatt levő dologra, akkor m
       </Text>
     </StationpediaPage>
     <StationpediaPage>
+      <Key>MusicPage</Key>
+      <Title>Zenekészítés</Title>
+      <DisplayFilter>Guides</DisplayFilter>
+      <Text>Az &lt;color=#0080FFFF&gt;{LINK:ODA;ODA}&lt;/color&gt; nem támogatja a zenebonát és a hasonló zavaró dolgokat, így  a &lt;color=#0080FFFF&gt;{LINK:Stationeers;stationeereknek}&lt;/color&gt; maguknak kell muzsikát komponálni a végtelen munka és szerelés magányának feloldására.
+Ezen hobbi középponti eleme a lépésszekvencer, ami lehetőve teszi a stationeerek számára, hogy egymás után fűzzenek rövid, ritmusos dallamokat.
+
+{HEADER:DIY MUSIC - GETTING STARTED}</Text>
+    </StationpediaPage>
+    <StationpediaPage>
       <Key>GasPage</Key>
       <Title>Gázok</Title>
       <Text>Ezek bizonyos típusú kémiai gázok.{LIST_OF_GASES}
