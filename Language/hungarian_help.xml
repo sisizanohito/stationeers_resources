@@ -111,7 +111,26 @@ Ha közvetlenül ránézel egy félkész, építés alatt levő dologra, akkor m
       <Text>Az &lt;color=#0080FFFF&gt;{LINK:ODA;ODA}&lt;/color&gt; nem támogatja a zenebonát és a hasonló zavaró dolgokat, így  a &lt;color=#0080FFFF&gt;{LINK:Stationeers;stationeereknek}&lt;/color&gt; maguknak kell muzsikát komponálni a végtelen munka és szerelés magányának feloldására.
 Ezen hobbi középponti eleme a lépésszekvencer, ami lehetőve teszi a stationeerek számára, hogy egymás után fűzzenek rövid, ritmusos dallamokat.
 
-{HEADER:DIY MUSIC - GETTING STARTED}</Text>
+{HEADER:DIY MUSIC - GETTING STARTED}
+
+1: Csatlakoztass 8 {THING:DeviceStepUnit}-t a lépésszekvenceredhez a baloldali adatporton keresztül!
+
+2: Címkézz fel minden egyes lépésegységet, majd a lépésszekvenceren párosítsd őket a számokhoz 1-8-ig!
+
+3: Válaszd ki a hangkimenetet (pl. {THING:PassiveSpeaker}), ahol a szekvencer lejátssza a hangokat! Ehhez a szekvencer jobb oldalán levő csatlakozóra kell rákötni az adott eszközt.
+
+4: Helyezz le egy {THING:StopWatch}-t, majd egy {THING:StructureLogicReader}-t és egy {THING:StructureLogicWriter}-t, ahhoz, hogy át tudd írni a szekvencer időváltozóját.
+
+5: A szekvencer BPM-jét egy {THING:StructureLogicDial} és egy {THING:StructureLogicWriter} használatával teheted meg, úgy, hogy átírod a szekvencer BPM-változóját. Minél nagyobb a BPM, annál gyorsabb lesz a zene ritmusa.
+
+6: Helyezz be egy tetszőleges hangkártyát, majd a nyilakkal válaszd ki, milyen fajta hangokat szeretnél lejátszani!
+
+7: Állítsd a hangmagasságot az imént bekötött 8 lépésegységeden a kívánt hang eléréséhez!
+
+8: Turbózd fel az egészet egy {THING:DeviceLfoVolume} használatával!
+
+9: Minden kész! Vibeolj, stationeer!
+      </Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>GasPage</Key>
