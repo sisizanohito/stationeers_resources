@@ -9,8 +9,10 @@
     <String>A(z) {KEY:ToggleUI} billentyűvel ki- és bekapcsolhatod a felhasználói felületet, így csodaszép képeket és videókat készíthetsz.</String>
     <String>Ha be van kapcsolva a(z) {THING:ItemSpacepack}, a(z) {KEY:Ascend} segítségével repülhetsz felfelé, leereszkedéshez pedig használd a(z) {KEY:Descend} gombot.</String>
     <String>A(z) {KEY:InventorySelect} megnyomásával tudsz váltani a tárhelyed és az aktív kezed slotja között.</String>
+    <String>A(z) {KEY:Drop} lenyomásával elejtheted, ami a kezedben van. {KEY:Drop} hosszan nyomva tartásával, majd elengedésével messzire is eldobhatod. Minél tovább nyomod, annál messzebb dobsz.</String>
     <String>A(z) {KEY:SwapHands} lenyomásával válthatsz az aktív kezeid között. Használd a(z) {KEY:ActiveHandSlot} gombot a kezedben levő tárgy interakciós lehetőségeinek végiggörgetéséhez!</String>
     <String>A(z) {KEY:Internals} megnyomásával állíthatod a {THING:ItemSpaceHelmet} ablakának állását.</String>
+    <String>A(z) {KEY:Chatting} lenyomásával egy csevegőablak fog megjelenni, mellyel a többi űrhajósnak üzenhetsz.</String>
     <String>Építmények forgatása: {KEY:RotateLeft}: balra; {KEY:RotateRight}: jobbra; {KEY:RotateUp} fel; {KEY:RotateDown} le; {KEY:RotateRollLeft}: döntés balra; {KEY:RotateRollRight}: döntés jobbra.</String>
     <String>Az űr nem olyan üres, mint amilyennek hangzik.</String>
     <String>{THING:ItemIronIngot} előállítható {THING:ItemIronOre} árammal ellátott {THING:StructureArcFurnace} eszközbe való helyezésével.</String>
