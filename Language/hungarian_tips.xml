@@ -2,17 +2,18 @@
   <Code>HU</Code>
   <GameTip>
     <String>A(z) {KEY:HelmetSlot}, {KEY:SuitSlot}, {KEY:BackSlot}, {KEY:UniformSlot} és {KEY:ToolBeltSlot} billentyűk megnyomásával megnyithatod az általad hordott dolgok tárhelyét. A gombok hosszú lenyomásval kicserélheted őket a kezedben levő tárgyakra.</String>
-    <String>Nyomd meg a(z) {KEY:ToggleHandPower} billentyűt a kezedben lévő eszközök be- és kikapcsolásához.</String>
-    <String>Nyomd meg a(z) {KEY:ToggleLight} billentyűt a {THING:ItemSpaceHelmet} lámpájának ki- és bekapcsolásához.</String>
+    <String>A(z) {KEY:ToggleHandPower} vagy a(z) {KEY:SecondaryAction} lenyomásával kapcsolhatod az kezedben levő eszközöket be és ki.</String>
+    <String>Nyomd meg a(z) {KEY:ToggleLight} billentyűt a(z) {THING:ItemSpaceHelmet} lámpájának ki- és bekapcsolásához.</String>
     <String>Az integetéshez nyomd meg a(z) {KEY:EmoteWave} billentyűt!</String>
-    <String>A(z) {KEY:Jetpack} billentyű megnyomásával a {THING:ItemSpacepack} meghajtását tudod be- és kikapcsolni.</String>
+    <String>A(z) {KEY:Jetpack} billentyű megnyomásával a(z) {THING:ItemSpacepack} meghajtását tudod be- és kikapcsolni.</String>
     <String>A(z) {KEY:ToggleUI} billentyűvel ki- és bekapcsolhatod a felhasználói felületet, így csodaszép képeket és videókat készíthetsz.</String>
-    <String>Ha be van kapcsolva a {THING:ItemSpacepack}, a(z) {KEY:Ascend} lenyomásával felemelkedsz, ellenkező esetben ugrani fogsz. Az {THING:ItemSpacepack} meghajtása a(z) {KEY:Jetpack} billentyű lenyomásával kapcsolható ki és be.</String>
-    <String>Ha be van kapcsolva a {THING:ItemSpacepack}, a(z) {KEY:Descend} segítségével leereszkedhetsz. A {THING:ItemSpacepack} a(z) {KEY:Jetpack} billentyűvel kapcsolható ki és be.</String>
-    <String>Ha megnyomod és elengeded a(z) {KEY:Drop} billentyűt, akkor elengeded a kezedben lévő tárgyat. A(z) {KEY:Drop} hosszú nyomvatartásával messzire hajíthatod. Minél tovább nyomod, annál messzebb repül.</String>
+    <String>Ha be van kapcsolva a(z) {THING:ItemSpacepack}, a(z) {KEY:Ascend} segítségével repülhetsz felfelé, leereszkedéshez pedig használd a(z) {KEY:Descend} gombot.</String>
+    <String>A(z) {KEY:InventorySelect} megnyomásával tudsz váltani a tárhelyed és az aktív kezed slotja között.</String>
+    <String>A(z) {KEY:SwapHands} lenyomásával válthatsz az aktív kezeid között. Használd a(z) {KEY:ActiveHandSlot} gombot a kezedben levő tárgy interakciós lehetőségeinek végiggörgetéséhez!</String>
     <String>A(z) {KEY:Internals} megnyomásával állíthatod a {THING:ItemSpaceHelmet} ablakának állását.</String>
-    <String>A(z) {KEY:Chatting} lenyomásával egy csevegőablak fog megjelenni a jobb alsó sarokban, mellyel a többi űrhajósnak üzenhetsz.</String>
-    <String>Kíváncsi vagy valaminek a receptjére? Helyezz be egy {THING:CartridgeElectronicReader} egységet a {THING:ItemTablet}be, majd kapcsold be a(z) {KEY:ToggleHandPower} billentyűvel, ha a kezedben van.</String>
+    <String>Építmények forgatása: {KEY:RotateLeft}: balra; {KEY:RotateRight}: jobbra; {KEY:RotateUp} fel; {KEY:RotateDown} le; {KEY:RotateRollLeft}: döntés balra; {KEY:RotateRollRight}: döntés jobbra.</String>
+    <String>Az űr nem olyan üres, mint amilyennek hangzik.</String>
+    <String>{THING:ItemIronIngot} előállítható {THING:ItemIronOre} árammal ellátott {THING:StructureArcFurnace} eszközbe való helyezésével.</String>
     <String>A logikák integált áramkörrel való vezérléséhez helyezz egy {THING:MotherboardLogic}-t a {THING:StructureComputer}be. Ezzel feltételeket és műveleteket adhatsz meg, amelyekkel vezérelheted az adott hálózaton levő eszközöket.</String>
     <String>Ha éppen módosítod valaminek a mennyiségét, a(z) {KEY:QuantityModifier} lenyomásával kisebb mértékben tudsz lépkedni.</String>
     <String>{THING:ItemKitLogicInputOutput} használatával készíthető {THING:StructureLogicReader} vagy {THING:StructureLogicWriter}. Az olvasók értékeket nyernek ki az eszközökből, az írók pedig az értékeket meg tudják változtatni. Ezeket számoló egységekkel kombinálva komplex automatikákat lehet létrehozni.</String>
@@ -24,10 +25,10 @@
     <String>Miután az eredeti Stationeers Kézikönyv egy szingularitásba omlott össze, a Stationpedia lépett a helyébe. A(z) {KEY:Help} lenyomásával bármikor előhívhatod a segédletet.</String>
     <String>A kezdő {THING:ItemEVASuit} és az {THING:ItemSpaceHelmet} nem bírja a magas hőmérsékletet. Veszélyes környezetben a {THING:ItemHardSuit} használata ajánlott.</String>
     <String>A Stationeers-program a Földönkívüli Fejlesztési Ügynökség által jött létre azért, hogy támogassák a Naprendszerben levő és azon túli égítestek felfedezését</String>
-    <String>A kezdő {THING:ItemEVASuit} és az {THING:ItemSpaceHelmet} nem bírja a magas hőmérsékletet. Veszélyes környezetben a {THING:ItemHardSuit} használata ajánlott.</String>
+    <String>Mindig figyelj a ruhád jelzéseire... életmentő lehet!</String>
     <String>{THING:ItemHardBackpack}kal több mindent cipelhetsz, de téged nem fog cipelni!</String>
     <String>Minél sérültebb a ruhád, annál kevésbé hatékonyabban fog működni.</String>
-    <String>{THING:ItemHardBackpack}kal több mindent cipelhetsz, de téged nem fog cipelni!</String>
+    <String>Ha uncsi a bázisod, csapj egy kis bulit a(z) {THING:StructureKlaxon} eszközzel, vagy építs saját keverőt logikákkal!</String>
     <String>{THING:StructureHarvie} segítségével teljesen automatizálhatod a növények ültetését, növesztését és aratását.</String>
     <String>A Bővített eszköztippek be- és kikapcsolhatók a Beállítások menüpontban.</String>
     <String>A {KEY:HideAllWindows} lenyomásával egyszerre eltüntetheted az összes nyitott ablakot.</String>
@@ -38,7 +39,7 @@
     <String>Az alap űrsisak megvédi a stationeereket mindentől: az űr tátongó vákuumától kezdve a leégetett étel szagáig.</String>
     <String>A fizika a barátod. Egészen addig, ameddig nem az.</String>
     <String>Ez egy frikciós, tapadásos, birotációs eszköz, oszlopos és egykezes kialakítással. Nem egy egyszerű csavarhúzó!</String>
-    <String>Megbolondulsz a folyamatos szűrőcserétől? Használj közepes és nagy szűrőket! 5-ször és 20-szor tovább bírják, de előállításuk jóval drágább.</String>
+    <String>Ez nem tényleges &quot;tej&quot;, hanem egy Agrizero által szabadalmaztatott szintézise a(z) {THING:ItemSoyOil} és {THING:ItemFern} növényeknek, mely a(z) {THING:ApplianceChemistryStation} segítségével állítható elő.</String>
     <String>A Csengdu óta illegális a Földön, viszont a Norsec atomenergia-cellák találtak egy új, de sokkal kevésbé biztonságtudatos, földöntúli piacot.</String>
     <String>Kivagy, ha éhes vagy? Dobj be egy müzliszeletet, mely kicsi, tápláló és frissítően alacsony a sugárzása!</String>
     <String>Megbolondulsz a folyamatos szűrőcserétől? Használj közepes és nagy szűrőket! 5-ször és 20-szor tovább bírják, de előállításuk jóval drágább.</String>
