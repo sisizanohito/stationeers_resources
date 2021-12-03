@@ -360,8 +360,24 @@
       <Value>Zmień Nazwę</Value>
     </Record>
     <Record>
+      <Key>Up</Key>
+      <Value>W Górę</Value>
+    </Record>
+    <Record>
+      <Key>Down</Key>
+      <Value>W Dół</Value>
+    </Record>
+    <Record>
+      <Key>CallElevator</Key>
+      <Value>Przywołaj</Value>
+    </Record>
+    <Record>
       <Key>Set</Key>
       <Value>Ustaw</Value>
+    </Record>
+    <Record>
+      <Key>Cycle</Key>
+      <Value>Przewiń</Value>
     </Record>
     <Record>
       <Key>ForceClose</Key>
@@ -386,6 +402,10 @@
     <Record>
       <Key>ForceFeed</Key>
       <Value>Wymuś Spożycie</Value>
+    </Record>
+    <Record>
+      <Key>FlipRover</Key>
+      <Value>Odwróć Łazik</Value>
     </Record>
   </Actions>
   <Things>
@@ -3443,7 +3463,7 @@
     </RecordThing>
     <RecordThing>
       <Key>KitchenTableTall</Key>
-      <Value>Zestaw (Przenośny zbiornik)</Value>
+      <Value>Stół Kuchenny (Wysoki)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureSmallTableThickDouble</Key>
