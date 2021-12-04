@@ -3818,6 +3818,18 @@
       <Value>Drzwi Kompzytowe</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureWindTurbine</Key>
+      <Value>Turbina Wiatrowa</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitWindTurbine</Key>
+      <Value>Zestaw (Turbina Wiatrowa)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitPipeLiquid</Key>
+      <Value>Zestaw (Rura Cieczowa)</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitLiquidTankInsulated</Key>
       <Value>Zestaw (Przenośny zbiornik)</Value>
     </RecordThing>
