@@ -255,7 +255,7 @@ Pression de fusion {0}</Text>
 
 Tous les Stationeers reçoivent un approvisionnement de {THING:ItemCerealBar} &lt;color=#0080FFFF&gt;{LINK:Agrizero;Agrizero}&lt;/color&gt;, dans leurs approvisionnements d’atterrisseur au début d’un nouveau monde. Quand ils sont épuisés, vous devez trouver de nouvelles sources de subsistance.
 
-Manger des ingrédients crus satisfera la faim moins que les repas, c’est-à-dire remplacera une plus petite proportion de votre faim. Les aliments de base sont créés à l’aide de système &lt;color=#0080FFFF&gt;{LINK:OrganicsPage;hydroponics}&lt;/color&gt;. Ceux-ci peuvent être transformés en ingrédients pour vos recettes à l’aide du {THING:ApplianceReagentProcessor), puis transformés en repas à l’aide d’un {THING:ApplianceMicrowave}.
+Manger des ingrédients crus satisfera moins la faim que les repas, c’est-à-dire que cela comblera une plus petite proportion de votre faim. Les aliments de base sont créés à l’aide de système &lt;color=#0080FFFF&gt;{LINK:OrganicsPage;hydroponics}&lt;/color&gt;. Ceux-ci peuvent être transformés en ingrédients pour vos recettes à l’aide du {THING:ApplianceReagentProcessor), puis transformés en repas à l’aide d’un {THING:ApplianceMicrowave}.
 
 Votre taux de faim peut être réglé dans les paramètres du jeu, en ajustant le curseur du taux de faim / soif.</Title>
       <DisplayFilter>Guides</DisplayFilter>
@@ -263,7 +263,7 @@ Votre taux de faim peut être réglé dans les paramètres du jeu, en ajustant l
 
 Tous les Stationeers reçoivent un approvisionnement de {THING:ItemCerealBar} &lt;color=#0080FFFF&gt;{LINK:Agrizero;Agrizero}&lt;/color&gt;, dans leurs approvisionnements d’atterrisseur au début d’un nouveau monde. Quand ils sont épuisés, vous devez trouver de nouvelles sources de subsistance.
 
-Manger des ingrédients crus satisfera la faim moins que les repas, c’est-à-dire remplacera une plus petite proportion de votre faim. Les aliments de base sont créés à l’aide de système &lt;color=#0080FFFF&gt;{LINK:OrganicsPage;hydroponics}&lt;/color&gt;. Ceux-ci peuvent être transformés en ingrédients pour vos recettes à l’aide du {THING:ApplianceReagentProcessor), puis transformés en repas à l’aide d’un {THING:ApplianceMicrowave}.
+Manger des ingrédients crus satisfera moins la faim  que les repas, c’est-à-dire que cela comblera une plus petite proportion de votre faim. Les aliments de base sont créés à l’aide de système &lt;color=#0080FFFF&gt;{LINK:OrganicsPage;hydroponics}&lt;/color&gt;. Ceux-ci peuvent être transformés en ingrédients pour vos recettes à l’aide du {THING:ApplianceReagentProcessor), puis transformés en repas à l’aide d’un {THING:ApplianceMicrowave}.
 
 Votre taux de faim peut être réglé dans les paramètres du jeu, en ajustant le curseur du taux de faim / soif.</Text>
     </StationpediaPage>
