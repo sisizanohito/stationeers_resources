@@ -40,10 +40,8 @@
     <StationpediaPage>
       <Key>ImportExportPage</Key>
       <Title>Importation/Exportation et Gaines de transport</Title>
-      <Text>Il s’agit de structures, généralement électriquement alimentées, dotées de fonctions spécialisées, notamment logiques, atmosphériques, etc. Ils sont construits de la même manière que les autres structures.
-      
-{LIST_OF_DEVICES}
-</Text>
+      <Text>Ce sont des structures, généralement alimentées, qui sont capables de recevoir et de produire d’autres éléments, ou d’aider à cela. La plupart ont des fonctions spécialisées, notamment {LINK:LogicUnitPage;logic}, {LINK:AtmosphericPage;atmospherics}, etc. Ils sont construits de la même manière que les autres structures.
+        {LIST_OF_IMPORTEXPORT}      </Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>SmeltingPage</Key>
@@ -73,19 +71,15 @@
       <Key>OrePage</Key>
       <Title>Minerais</Title>
       <Text>Il s’agit d’éléments issu de l&apos;{LINK:MiningPage;exploitation miniere} et pouvant souvent être {LINK:SmeltingPage;fondu}. Vous pouvez également obtenir du minerai mélangé en recyclant des éléments dans le {THING:StructureRecycler}, puis en le passant à travers le {THING:StructureCentrifuge} qui le divisera en {LINK:OrePage;minerai} pour la {LINK:SmeltingPage;fonte}.      
-Certains minerais fondent lorsqu&apos;ils sont exposés au soleil ou à la chaleur et produisent des {LINK:GasPage;gaz}. Par exemple, la {THING:ItemIce} fond en {GAS:Water} et {GAS:Oxygen}. Veillez à les garder à l&apos;abri de la chaleur ou de la lumière du soleil jusqu&apos;à ce que vous souhaitiez réellement les faire fondre.{LIST_OF_ORES}
-</Text>
+Certains minerais fondent lorsqu&apos;ils sont exposés au soleil ou à la chaleur et produisent des {LINK:GasPage;gaz}. Par exemple, la {THING:ItemIce} fond en {GAS:Water} et {GAS:Oxygen}. Veillez à les garder à l&apos;abri de la chaleur ou de la lumière du soleil jusqu&apos;à ce que vous souhaitiez réellement les faire fondre.
+{LIST_OF_ORES}</Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>IngotPage</Key>
       <Title>Lingots</Title>
       <Text>Ce sont des éléments généralement fabriqués à partir de {LINK:SmeltingPage;fonte} et de {LINK:OrePage;minerais}.
 
-{LIST_OF_INGOTS}
-
-
-      
-</Text>
+{LIST_OF_INGOTS}</Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>ToolPage</Key>
