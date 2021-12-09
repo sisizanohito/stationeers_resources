@@ -6853,16 +6853,40 @@
       <Value>Wszystko</Value>
     </Record>
     <Record>
+      <Key>SettingsDoubleClickDelay</Key>
+      <Value>Opóźnienie Dwukrotnego Kliknięcia</Value>
+    </Record>
+    <Record>
       <Key>SettingsServerAdminPassword</Key>
-      <Value>Nieprawidłowe hasło serwera.</Value>
+      <Value>Hasło Admina Serwera</Value>
     </Record>
     <Record>
       <Key>ScoreboardPlayer</Key>
-      <Value>Gracz:</Value>
+      <Value>Gracz</Value>
     </Record>
     <Record>
       <Key>ScoreboardTime</Key>
-      <Value>Czas gry:</Value>
+      <Value>Czas Gry</Value>
+    </Record>
+    <Record>
+      <Key>SettingsFirstPersonHelmet</Key>
+      <Value>Hełm Pierwszoosobowy</Value>
+    </Record>
+    <Record>
+      <Key>SiloDeconstruct</Key>
+      <Value>Twój Silos musi być pusty przed jego dekonstrukcją.</Value>
+    </Record>
+    <Record>
+      <Key>PressEnterToContinue</Key>
+      <Value>Naciśnij &lt;color=#FBB03B&gt;Spację&lt;/color&gt; aby Kontynuować.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialCompleteDateOfCompletion</Key>
+      <Value>Data Ukończenia:</Value>
+    </Record>
+    <Record>
+      <Key>BottleSlot</Key>
+      <Value>Miejsce na Butelkę</Value>
     </Record>
     <Record>
       <Key>TutorialCompleteNextTutorial</Key>
