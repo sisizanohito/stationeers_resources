@@ -6561,8 +6561,12 @@
       <Value>Czas</Value>
     </Record>
     <Record>
+      <Key>ElectronicReaderSeconds</Key>
+      <Value>Sekund</Value>
+    </Record>
+    <Record>
       <Key>SettingsThingRenderDistance</Key>
-      <Value>Odległość renderowania</Value>
+      <Value>Odległość Renderowania Rzeczy</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderEnergy</Key>
@@ -6573,20 +6577,44 @@
       <Value>Temperatura</Value>
     </Record>
     <Record>
-      <Key>ElectronicReaderKelvinSymbol</Key>
-      <Value>OK</Value>
-    </Record>
-    <Record>
       <Key>ElectronicReaderPressure</Key>
       <Value>Ciśnienie</Value>
     </Record>
     <Record>
-      <Key>ElectronicReaderPressureSym</Key>
-      <Value>Ścieżka</Value>
+      <Key>NetworkAnalyserNetwork</Key>
+      <Value>SIEĆ KABLOWA</Value>
+    </Record>
+    <Record>
+      <Key>NetworkAnalyserActual</Key>
+      <Value>FAKTYCZNE</Value>
+    </Record>
+    <Record>
+      <Key>NetworkAnalyserPotential</Key>
+      <Value>POTENCJAŁ</Value>
+    </Record>
+    <Record>
+      <Key>NetworkAnalyserDevices</Key>
+      <Value>URZĄDZENIA</Value>
+    </Record>
+    <Record>
+      <Key>NetworkAnalyserRequired</Key>
+      <Value>WYMAGANE</Value>
+    </Record>
+    <Record>
+      <Key>NetworkAnalyserTitle</Key>
+      <Value>ANALIZATOR SIECI</Value>
+    </Record>
+    <Record>
+      <Key>CartridgeElectronicReaderTitle</Key>
+      <Value>ENCYKLOPEDIA</Value>
+    </Record>
+    <Record>
+      <Key>NotApplicableString</Key>
+      <Value>Nie dotyczy</Value>
     </Record>
     <Record>
       <Key>CustomWorld</Key>
-      <Value>Stwórz świat</Value>
+      <Value>Niestandardowy Świat</Value>
     </Record>
     <Record>
       <Key>ScenariosTitle</Key>
@@ -6598,7 +6626,7 @@
     </Record>
     <Record>
       <Key>TutorialsTitle</Key>
-      <Value>Samouczek</Value>
+      <Value>Samouczki</Value>
     </Record>
     <Record>
       <Key>TutorialsObjectiveTitle</Key>
@@ -6606,11 +6634,15 @@
     </Record>
     <Record>
       <Key>SettingsTerrainClutter</Key>
-      <Value>Teren</Value>
+      <Value>Nieład Terenu</Value>
     </Record>
     <Record>
       <Key>ResetInventoryTitle</Key>
-      <Value>Zresetuj okna</Value>
+      <Value>Zresetuj Okna Ekwipunku</Value>
+    </Record>
+    <Record>
+      <Key>ResetInventoryDescription</Key>
+      <Value>Zresetuje to wszystkie niezadokowane okna ekwipunku.</Value>
     </Record>
     <Record>
       <Key>ConfirmReset</Key>
