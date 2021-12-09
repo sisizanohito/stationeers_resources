@@ -8,8 +8,11 @@
     <String>Wciśnij {KEY:Jetpack} aby włączyć/wyłączyć twój {THING:ItemSpacepack}.</String>
     <String>Wciśnij {KEY:ToggleUI} aby włączyć/wyłączyć Interfejs Użytkownika żeby zrobić zrzut ekranu lub nagranie.</String>
     <String>Wciśnij {KEY:Ascend} aby polecieć w górę gdy twój {THING:ItemSpacepack} jest włączony. Wciśnij {KEY:Descend} aby zejść niżej.</String>
-    <String>Pressing {KEY:Descend} will make you descend if your {THING:ItemSpacepack} is on. You can toggle the {THING:ItemSpacepack} on or off using the {KEY:Jetpack} key.</String>
-    <String>Pressing and releasing the {KEY:Drop} key will make you immediately drop whatever is in your hands. If you hold the {KEY:Drop} key down, it will try to throw it. The longer you hold it, the further you will throw.</String>
+    <String>Wciśnięcie {KEY:InventorySelect} powoduje zamianę między miejscami w ekwipunku, a aktywną ręką.</String>
+    <String>Wciśnięcie {KEY:Drop} upuści cokolwiek jest w twojej ręce. Przytrzymanie {KEY:Drop} rzuci tym. Przytrzymaj dłużej aby rzucić dalej.</String>
+    <String>Wciśnięcie {KEY:SwapHands} zamienia twoją aktywną rękę. Wciśnij {KEY:ActiveHandSlot} aby aby przejrzeć opcje interakcji tego co jest w twojej aktywnej ręce.</String>
+    <String>Wciśnij {KEY:Internals} aby szybko otworzyć lub zamknąć twój {THING:ItemSpaceHelmet}.</String>
+    <String>Wciśnij {KEY:Chatting} aby zacząć chat z innymi graczami.</String>
     <String>Press {KEY:Chatting} to start chatting to other players. A small box will appear in the lower right of the screen with the text you write before sending.</String>
     <String>Want to know how to make something? Insert a {THING:CartridgeElectronicReader} into a {THING:ItemTablet} and turn it on with the {KEY:ToggleHandPower} key while it&apos;s in your active hand.</String>
     <String>Hold a {THING:ItemWeldingTorch} in one hand while turned on, and a stack of {THING:ItemIronSheets} in another in order to upgrade the build state of an {THING:StructureFrameIron}.</String>

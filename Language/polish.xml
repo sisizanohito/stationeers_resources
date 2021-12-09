@@ -5930,11 +5930,15 @@
     </Record>
     <Record>
       <Key>ChangeSettingTo</Key>
-      <Value>Change to {0}</Value>
+      <Value>Zamień na {0}</Value>
     </Record>
     <Record>
       <Key>ChangeSettingToAll</Key>
       <Value>Zamień dla Wszystkich {0}</Value>
+    </Record>
+    <Record>
+      <Key>ChangeSettingToFor</Key>
+      <Value>Zamień na &lt;color=yellow&gt;{0}&lt;/color&gt; dla {1}</Value>
     </Record>
     <Record>
       <Key>ChangeSettingToForIn</Key>
@@ -5950,7 +5954,7 @@
     </Record>
     <Record>
       <Key>ChangeSettingToForAll</Key>
-      <Value>Zamień na &lt;color=yellow&gt;{0}&lt;/color&gt;&gt;dla wszystkich {1}</Value>
+      <Value>Zamień na &lt;color=yellow&gt;{0}&lt;/color&gt; dla wszystkich {1}</Value>
     </Record>
     <Record>
       <Key>SettingsAtmosphericScattering</Key>
