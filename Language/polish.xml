@@ -6898,11 +6898,15 @@
     </Record>
     <Record>
       <Key>ControlHoldPrimaryClickPlantDisc</Key>
-      <Value>Gaz napędowy</Value>
+      <Value>Posadź</Value>
     </Record>
     <Record>
       <Key>ControlHoldPrimaryClickHarvestDisc</Key>
       <Value>Zbierz</Value>
+    </Record>
+    <Record>
+      <Key>ControlPlayerMovement</Key>
+      <Value>{KEY:Forward}{KEY:Backward}{KEY:Left}{KEY:Right}</Value>
     </Record>
     <Record>
       <Key>ControlPlayerMovementDisc</Key>
@@ -6911,6 +6915,26 @@
     <Record>
       <Key>ControlSwapHandsDisc</Key>
       <Value>Zamień Ręce</Value>
+    </Record>
+    <Record>
+      <Key>ActivateExplosiveKey</Key>
+      <Value>Aktywuj odliczanie</Value>
+    </Record>
+    <Record>
+      <Key>ActivateExplosiveTooltipKey1</Key>
+      <Value>Aktywuje</Value>
+    </Record>
+    <Record>
+      <Key>ActivateExplosiveTooltipKey2</Key>
+      <Value>Czasomierz sekundowy. Czasomierza nie można wyłączyć. Zaleca się ostrożność.</Value>
+    </Record>
+    <Record>
+      <Key>CommandSave</Key>
+      <Value>Zapisuje grę i nadaje jej nazwę podaną jako parametr. Użycie: &quot;/save nazwazapisu&quot;</Value>
+    </Record>
+    <Record>
+      <Key>CommandShutdown</Key>
+      <Value>Zamyka serwer gry i wraca gracza do lobby, może dołączyć czasomierz i wiadomość. Użycie: &quot;/shutdown&quot;</Value>
     </Record>
     <Record>
       <Key>CommandNotice</Key>
