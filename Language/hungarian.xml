@@ -1382,11 +1382,11 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemWallCooler</Key>
-      <Value>Készlet (Falhűtő)</Value>
+      <Value>Készlet (Fali hűtő)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWallHeater</Key>
-      <Value>Készlet (Falmelegítő)</Value>
+      <Value>Készlet (Fali melegítő)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWallLight</Key>
@@ -1830,11 +1830,11 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureWallCooler</Key>
-      <Value>Falhűtő</Value>
+      <Value>Fali hűtő</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallHeater</Key>
-      <Value>Falmelegítő</Value>
+      <Value>Fali melegítő</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallLight</Key>
@@ -4354,11 +4354,11 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageWallCooler1</Key>
-      <Value>Roncs falhűtő</Value>
+      <Value>Roncs fali hűtő</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageWallCooler2</Key>
-      <Value>Roncs falhűtő</Value>
+      <Value>Roncs fali hűtő</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWeatherStation</Key>
