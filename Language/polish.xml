@@ -6617,8 +6617,44 @@
       <Value>Resetuj</Value>
     </Record>
     <Record>
+      <Key>Construction Supplies 1</Key>
+      <Value>Zaopatrzenie Budowlane 1</Value>
+    </Record>
+    <Record>
+      <Key>Construction Supplies 2</Key>
+      <Value>Zaopatrzenie Budowlane 2</Value>
+    </Record>
+    <Record>
+      <Key>Organic Supplies</Key>
+      <Value>Zaopatrzenie Organiczne</Value>
+    </Record>
+    <Record>
+      <Key>Organic Supplies 1</Key>
+      <Value>Zaopatrzenie Organiczne 1</Value>
+    </Record>
+    <Record>
+      <Key>Organic Supplies 2</Key>
+      <Value>Zaopatrzenie Organiczne 2</Value>
+    </Record>
+    <Record>
+      <Key>Consumables Supplies</Key>
+      <Value>Materiały Eksploatacyjne</Value>
+    </Record>
+    <Record>
+      <Key>Portable Appliance Kits</Key>
+      <Value>Zestawy Urządzeń Przenośnych</Value>
+    </Record>
+    <Record>
+      <Key>Misc Crate</Key>
+      <Value>Różne</Value>
+    </Record>
+    <Record>
+      <Key>Communications Crate</Key>
+      <Value>Skrzynia Komunikacyjna</Value>
+    </Record>
+    <Record>
       <Key>SettingsTerrainClutterMultiplier</Key>
-      <Value>Teren</Value>
+      <Value>Mnożnik Nieładu Terenu</Value>
     </Record>
     <Record>
       <Key>CurrentResearchPodType</Key>
@@ -6626,11 +6662,11 @@
     </Record>
     <Record>
       <Key>ResearchFilter</Key>
-      <Value>Filtry</Value>
+      <Value>Filtr</Value>
     </Record>
     <Record>
       <Key>ResearchTitle</Key>
-      <Value>Resetuj</Value>
+      <Value>Badania</Value>
     </Record>
     <Record>
       <Key>ResearchConfirm</Key>
@@ -6639,6 +6675,10 @@
     <Record>
       <Key>ResearchCancel</Key>
       <Value>Anuluj</Value>
+    </Record>
+    <Record>
+      <Key>ServerReadyString</Key>
+      <Value>Serwer możne zostać uruchomiony.</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSdse</Key>
@@ -6689,6 +6729,10 @@
       <Value>zwraca stan zdrowia rośliny w slocie</Value>
     </Record>
     <Record>
+      <Key>ScriptCommandCommand</Key>
+      <Value>polecenie</Value>
+    </Record>
+    <Record>
       <Key>BluePodType</Key>
       <Value>Niebieski</Value>
     </Record>
@@ -6705,8 +6749,20 @@
       <Value>Żółty</Value>
     </Record>
     <Record>
+      <Key>SettingsResearch</Key>
+      <Value>Wybór Puli Badawczej</Value>
+    </Record>
+    <Record>
+      <Key>DialogConfirmResearchUnlock</Key>
+      <Value>Czy chcesz Odblokować te Badania?</Value>
+    </Record>
+    <Record>
       <Key>ResearchRequirementTitle</Key>
-      <Value>Eksperymenty</Value>
+      <Value>Wymagania</Value>
+    </Record>
+    <Record>
+      <Key>ResearchUnlocksTitle</Key>
+      <Value>Odblokowuje</Value>
     </Record>
     <Record>
       <Key>ResearchMilitary</Key>
@@ -6718,7 +6774,7 @@
     </Record>
     <Record>
       <Key>ResearchAutomation</Key>
-      <Value>Uwaga</Value>
+      <Value>Automatyzacja</Value>
     </Record>
     <Record>
       <Key>ResearchTools</Key>
@@ -6727,6 +6783,10 @@
     <Record>
       <Key>ResearchOrganics</Key>
       <Value>Organiczne</Value>
+    </Record>
+    <Record>
+      <Key>ResearchConstruction</Key>
+      <Value>Konstrukcja</Value>
     </Record>
     <Record>
       <Key>ResearchLogic</Key>
@@ -6738,7 +6798,31 @@
     </Record>
     <Record>
       <Key>ResearchShowLocked</Key>
-      <Value>Zablokowane</Value>
+      <Value>Pokaż Zablokowane</Value>
+    </Record>
+    <Record>
+      <Key>ResearchCantAfford</Key>
+      <Value>Nie stać Cię na odblokowanie tych badań.</Value>
+    </Record>
+    <Record>
+      <Key>ResearchRequirementNotMet</Key>
+      <Value>Nie spełniasz wymagań, aby odblokować te badania.</Value>
+    </Record>
+    <Record>
+      <Key>ResearchUnlockConfirm</Key>
+      <Value>Czy chcesz Odblokować te Badania?</Value>
+    </Record>
+    <Record>
+      <Key>FramerateLock</Key>
+      <Value>Docelowa Liczba Klatek Na Sekundę</Value>
+    </Record>
+    <Record>
+      <Key>SaveBeforeTravel</Key>
+      <Value>Musisz zapisać swoją grę przed podróżą do innego świata!</Value>
+    </Record>
+    <Record>
+      <Key>LaunchRocketAlert</Key>
+      <Value>Czy chcesz wystrzelić tę rakietę</Value>
     </Record>
     <Record>
       <Key>StatusWindowVitals</Key>
@@ -6754,7 +6838,7 @@
     </Record>
     <Record>
       <Key>CompletedKey</Key>
-      <Value>Samouczek ukończony</Value>
+      <Value>Ukończone</Value>
     </Record>
     <Record>
       <Key>LockedKey</Key>
@@ -6762,7 +6846,7 @@
     </Record>
     <Record>
       <Key>TutorialScoreboardHeading</Key>
-      <Value>Samouczek ukończony</Value>
+      <Value>Samouczek Ukończony</Value>
     </Record>
     <Record>
       <Key>TutorialSelectKey</Key>
