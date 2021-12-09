@@ -4681,11 +4681,11 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemWaterWallCooler</Key>
-      <Value>Készlet (Folyadékos falhűtő)</Value>
+      <Value>Készlet (Folyadékos fali hűtő)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWaterWallCooler</Key>
-      <Value>Folyadékos falhűtő</Value>
+      <Value>Folyadékos fali hűtő</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemLiquidDrain</Key>
