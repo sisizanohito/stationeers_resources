@@ -6766,23 +6766,27 @@
     </Record>
     <Record>
       <Key>TutorialSelectKey</Key>
-      <Value>Samouczek ukończony</Value>
+      <Value>Wybór Samouczka</Value>
     </Record>
     <Record>
       <Key>ScenarioSelectKey</Key>
-      <Value>Sceneria ukończona</Value>
+      <Value>Wybór Scenariusza</Value>
     </Record>
     <Record>
       <Key>TankPressure</Key>
-      <Value>Ciśnienie</Value>
+      <Value>Ciśnienie w Zbiorniku</Value>
+    </Record>
+    <Record>
+      <Key>CrowbarToOpen</Key>
+      <Value>Użyj {THING:ItemCrowbar} aby to otworzyć.</Value>
     </Record>
     <Record>
       <Key>Display</Key>
-      <Value>Wyświetl FPS</Value>
+      <Value>Wyświetlacz</Value>
     </Record>
     <Record>
       <Key>Player</Key>
-      <Value>Gracz:</Value>
+      <Value>Gracz</Value>
     </Record>
     <Record>
       <Key>Deceased</Key>
@@ -6794,15 +6798,15 @@
     </Record>
     <Record>
       <Key>Contents</Key>
-      <Value>Kontakty</Value>
+      <Value>Zawartość</Value>
     </Record>
     <Record>
       <Key>InputRight</Key>
-      <Value>Ustawienia wejsciowe</Value>
+      <Value>Wejście Prawe</Value>
     </Record>
     <Record>
       <Key>InputLeft</Key>
-      <Value>Ustawienia wejsciowe</Value>
+      <Value>Wejście Lewe</Value>
     </Record>
     <Record>
       <Key>Liquid</Key>
@@ -6825,6 +6829,30 @@
       <Value>{0} z {1}</Value>
     </Record>
     <Record>
+      <Key>Stage1Contains</Key>
+      <Value>Zawiera {0} na {2}Etapie {1}{3}</Value>
+    </Record>
+    <Record>
+      <Key>PlantWillCreate</Key>
+      <Value>Utworzy to {2}{0}{3} x {1}</Value>
+    </Record>
+    <Record>
+      <Key>PlantGrowing</Key>
+      <Value>{0} {1}rośnie{2}</Value>
+    </Record>
+    <Record>
+      <Key>PlantDead</Key>
+      <Value>{0} jest {1}martwy{2}</Value>
+    </Record>
+    <Record>
+      <Key>PlantHydrate</Key>
+      <Value>{0} ma za mało {1}nawodnienia{2}</Value>
+    </Record>
+    <Record>
+      <Key>NoAtmos</Key>
+      <Value>{0} nie ma {1}atmosfery{2}</Value>
+    </Record>
+    <Record>
       <Key>PlantTemperature</Key>
       <Value>{0} nie jest we właściwej {1}temperaturze{2}</Value>
     </Record>
@@ -6834,7 +6862,7 @@
     </Record>
     <Record>
       <Key>PlantToxic</Key>
-      <Value>{0} jest uszkadzany z powodu wysokiego {1}polutantu{2} w atmosferze</Value>
+      <Value>{0} jest uszkadzany z powodu wysokiego {1}zanieczyszczenia{2} w atmosferze</Value>
     </Record>
     <Record>
       <Key>holdhotkey</Key>
