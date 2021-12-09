@@ -6866,11 +6866,11 @@
     </Record>
     <Record>
       <Key>TutorialCompleteNextTutorial</Key>
-      <Value>Samouczek</Value>
+      <Value>Następny Samouczek</Value>
     </Record>
     <Record>
       <Key>SettingsMineableRenderDistance</Key>
-      <Value>Odległość renderowania</Value>
+      <Value>Odległość Renderowania Rud</Value>
     </Record>
     <Record>
       <Key>SetSpawnMessage</Key>
