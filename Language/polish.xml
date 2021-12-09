@@ -195,7 +195,7 @@
     </Record>
     <Record>
       <Key>Volatiles</Key>
-      <Value>Substancje lotne</Value>
+      <Value>Substancje Lotne</Value>
     </Record>
     <Record>
       <Key>Pollutant</Key>
@@ -207,7 +207,7 @@
     </Record>
     <Record>
       <Key>NitrousOxide</Key>
-      <Value>Podtlenek azotu</Value>
+      <Value>Podtlenek Azotu</Value>
     </Record>
   </Gases>
   <Actions>
@@ -6121,6 +6121,10 @@
       <Value>Brak opisu</Value>
     </Record>
     <Record>
+      <Key>LogicTypeRatioPollutant</Key>
+      <Value>Proporcja polutantu w atmosferze urządzenia</Value>
+    </Record>
+    <Record>
       <Key>LogicTypeMaximum</Key>
       <Value>Maksymalne ustawienie urządzenia</Value>
     </Record>
@@ -7002,7 +7006,7 @@
     </Record>
     <Record>
       <Key>PlantToxic</Key>
-      <Value>{0} jest uszkadzany z powodu wysokiego {1}zanieczyszczenia{2} w atmosferze</Value>
+      <Value>{0} jest uszkadzany z powodu wysokiej zawartości {1}polutantu{2} w atmosferze</Value>
     </Record>
     <Record>
       <Key>holdhotkey</Key>
