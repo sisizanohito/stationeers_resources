@@ -6913,6 +6913,26 @@
       <Value>Zamień Ręce</Value>
     </Record>
     <Record>
+      <Key>CommandNotice</Key>
+      <Value>Wysyła wiadomość do graczy na serwerze. Użycie: &quot;/notice wiadomość którą chcesz wysłać&quot;</Value>
+    </Record>
+    <Record>
+      <Key>CommandStatus</Key>
+      <Value>Wyświetla bieżący stan serwera i to, kto jest aktualnie na serwerze: &quot;/status&quot;</Value>
+    </Record>
+    <Record>
+      <Key>CommandBan</Key>
+      <Value>Banuje dany Steam ID na serwerze: &quot;/ban 102039237390&quot;</Value>
+    </Record>
+    <Record>
+      <Key>CommandUnBan</Key>
+      <Value>Odwołuje ban dla danego Steam ID na serwerze: &quot;/unban 102039237390&quot;</Value>
+    </Record>
+    <Record>
+      <Key>CommandKick</Key>
+      <Value>Wyrzuca gracza z danym Steam ID z serwera: &quot;/kick 102039237390&quot;</Value>
+    </Record>
+    <Record>
       <Key>CommandClearAll</Key>
       <Value>Usuwa z serwera wszystkich odłączonych graczy: &quot;/clearall&quot;</Value>
     </Record>
