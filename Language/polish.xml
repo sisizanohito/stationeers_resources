@@ -6882,7 +6882,7 @@
     </Record>
     <Record>
       <Key>ControlPrimaryClickDisc</Key>
-      <Value>Interfejs</Value>
+      <Value>Wejdź w Interakcję</Value>
     </Record>
     <Record>
       <Key>ControlHoldPrimaryClick</Key>
@@ -6895,6 +6895,10 @@
     <Record>
       <Key>ControlHoldPrimaryClickDeconstructDisc</Key>
       <Value>Rozbierz</Value>
+    </Record>
+    <Record>
+      <Key>ControlHoldPrimaryClickPlaceDisc</Key>
+      <Value>Połóż</Value>
     </Record>
     <Record>
       <Key>ControlHoldPrimaryClickPlantDisc</Key>
