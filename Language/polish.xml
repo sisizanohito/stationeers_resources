@@ -6825,6 +6825,22 @@
       <Value>{0} z {1}</Value>
     </Record>
     <Record>
+      <Key>PlantTemperature</Key>
+      <Value>{0} nie jest we właściwej {1}temperaturze{2}</Value>
+    </Record>
+    <Record>
+      <Key>PlantNoSunlight</Key>
+      <Value>{0} nie ma wymaganego {1}światła słonecznego{2}</Value>
+    </Record>
+    <Record>
+      <Key>PlantToxic</Key>
+      <Value>{0} jest uszkadzany z powodu wysokiego {1}polutantu{2} w atmosferze</Value>
+    </Record>
+    <Record>
+      <Key>holdhotkey</Key>
+      <Value>(chwyt)</Value>
+    </Record>
+    <Record>
       <Key>Pipe</Key>
       <Value>Rura</Value>
     </Record>
@@ -6851,6 +6867,10 @@
     <Record>
       <Key>All</Key>
       <Value>Wszystko</Value>
+    </Record>
+    <Record>
+      <Key>DeconstructToolTipText</Key>
+      <Value>{0} wymagane do dekonstrukcji</Value>
     </Record>
     <Record>
       <Key>SettingsDoubleClickDelay</Key>
