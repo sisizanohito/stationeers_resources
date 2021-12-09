@@ -6981,12 +6981,8 @@
       <Value>Nasiona</Value>
     </Record>
     <Record>
-      <Key>TK</Key>
-      <Value>OK</Value>
-    </Record>
-    <Record>
-      <Key>Stationeers</Key>
-      <Value>Zamknij Stationeers</Value>
+      <Key>Hiiragi</Key>
+      <Value>Hiiragi •</Value>
     </Record>
     <Record>
       <Key>ControlMouseControlDisc</Key>
@@ -6998,7 +6994,7 @@
     </Record>
     <Record>
       <Key>ControlMouseDragDisc</Key>
-      <Value>Odbicia</Value>
+      <Value>Przenieś Zaznaczenie</Value>
     </Record>
     <Record>
       <Key>ControlSecondaryActionBuildModeDisc</Key>
@@ -7018,7 +7014,7 @@
     </Record>
     <Record>
       <Key>ControlMouseScrollDisc</Key>
-      <Value>Sceneria ukończona</Value>
+      <Value>Wybór Przedmiotu</Value>
     </Record>
     <Record>
       <Key>ControlTurnOnDisc</Key>
