@@ -7046,7 +7046,7 @@
     </Record>
     <Record>
       <Key>ControlSecondaryEatDisc</Key>
-      <Value>Ziemia</Value>
+      <Value>Zjedz</Value>
     </Record>
     <Record>
       <Key>ToggleChangeLog</Key>
@@ -7058,11 +7058,11 @@
     </Record>
     <Record>
       <Key>HelmetString</Key>
-      <Value>Kask</Value>
+      <Value>Hełm</Value>
     </Record>
     <Record>
       <Key>LightString</Key>
-      <Value>Jasność</Value>
+      <Value>Światło</Value>
     </Record>
     <Record>
       <Key>FixedWeatherEventMissing</Key>
@@ -7070,7 +7070,7 @@
     </Record>
     <Record>
       <Key>AdvancedTutorialButton</Key>
-      <Value>Zaawansowane</Value>
+      <Value>Starsze/Zaawansowane</Value>
     </Record>
     <Record>
       <Key>BasicButtonTutorial</Key>
@@ -7086,7 +7086,7 @@
     </Record>
     <Record>
       <Key>TravelCategoryKey</Key>
-      <Value>Zapisz świat</Value>
+      <Value>Podróżuj</Value>
     </Record>
     <Record>
       <Key>FurnitureCategoryKey</Key>
@@ -7098,7 +7098,7 @@
     </Record>
     <Record>
       <Key>WeatherCategoryKey</Key>
-      <Value>Jakość tekstur</Value>
+      <Value>Pogoda</Value>
     </Record>
     <Record>
       <Key>HandToolsCategoryKey</Key>
@@ -7114,19 +7114,19 @@
     </Record>
     <Record>
       <Key>LogicCategoryKey</Key>
-      <Value>Atmosfera</Value>
+      <Value>Urządzenia Logiczne</Value>
     </Record>
     <Record>
       <Key>PowerCategoryKey</Key>
-      <Value>Odbicia</Value>
+      <Value>Elektronika</Value>
     </Record>
     <Record>
       <Key>AppliancesCategoryKey</Key>
-      <Value>Zmiana wyglądu</Value>
+      <Value>Urządzenia</Value>
     </Record>
     <Record>
       <Key>AtmopshericsCategoryKey</Key>
-      <Value>Atmosfera</Value>
+      <Value>Atmosferyczne</Value>
     </Record>
     <Record>
       <Key>ReagentsCategoryKey</Key>
@@ -7162,19 +7162,15 @@
     </Record>
     <Record>
       <Key>PressureKeySPDA</Key>
-      <Value>Ciśnienie</Value>
+      <Value>Maksymalne Ciśnienie:</Value>
     </Record>
     <Record>
       <Key>CableMaxPowerSPDA</Key>
       <Value>Maksymalna Moc:</Value>
     </Record>
     <Record>
-      <Key>StationpediaTitle</Key>
-      <Value>Zamknij Stationeers</Value>
-    </Record>
-    <Record>
       <Key>StationpediaSearch</Key>
-      <Value>Resetuj</Value>
+      <Value>Szukaj</Value>
     </Record>
     <Record>
       <Key>StationpediaBeginnerGuides</Key>
