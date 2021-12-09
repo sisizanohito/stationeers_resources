@@ -6518,7 +6518,19 @@
     </Record>
     <Record>
       <Key>CartridgeElectronicReaderAutoITitle</Key>
-      <Value>Uwaga</Value>
+      <Value>Samozapłon:</Value>
+    </Record>
+    <Record>
+      <Key>ElectronicReaderSilicon</Key>
+      <Value>Krzem</Value>
+    </Record>
+    <Record>
+      <Key>ElectronicReaderSilicon</Key>
+      <Value>Krzem</Value>
+    </Record>
+    <Record>
+      <Key>ElectronicReaderSalicylicAcid</Key>
+      <Value>Kwas Salicylowy</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderAlcohol</Key>
@@ -6529,16 +6541,28 @@
       <Value>Olej</Value>
     </Record>
     <Record>
+      <Key>ElectronicReaderFenoxitone</Key>
+      <Value>Fenoksyton</Value>
+    </Record>
+    <Record>
       <Key>ElectronicReaderColorRed</Key>
-      <Value>Kolor Oczu</Value>
+      <Value>Czerwony Barwnik</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderColorBlue</Key>
-      <Value>Kolor Oczu</Value>
+      <Value>Niebieski Barwnik</Value>
+    </Record>
+    <Record>
+      <Key>ElectronicReaderColorYellow</Key>
+      <Value>Żółty Barwnik</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderColorOrange</Key>
-      <Value>Teren</Value>
+      <Value>Pomarańczowy Barwnik</Value>
+    </Record>
+    <Record>
+      <Key>ElectronicReaderColorGreen</Key>
+      <Value>Zielony Barwnik</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderMilk</Key>
@@ -6546,7 +6570,7 @@
     </Record>
     <Record>
       <Key>ElectronicReaderFlour</Key>
-      <Value>Kolor Oczu</Value>
+      <Value>Mąka</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderEgg</Key>
@@ -8913,6 +8937,10 @@ Uwaga: Woda była poprzednio traktowana jako gaz, ale został wprowadzony nowy s
     <Record>
       <Key>Ice</Key>
       <Value>Lód</Value>
+    </Record>
+    <Record>
+      <Key>Oxite</Key>
+      <Value>Oksyt</Value>
     </Record>
     <Record>
       <Key>Volatiles</Key>
