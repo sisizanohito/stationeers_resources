@@ -4595,10 +4595,6 @@
   </Interactables>
   <Interface>
     <Record>
-      <Key>SlotKey</Key>
-      <Value>Miejsce</Value>
-    </Record>
-    <Record>
       <Key>SoonTM</Key>
       <Value>Wkrótce...</Value>
     </Record>
@@ -7526,7 +7522,7 @@
     </Record>
     <Record>
       <Key>StationpediaSlotsHeader</Key>
-      <Value>Miejsca</Value>
+      <Value>Sloty</Value>
     </Record>
     <Record>
       <Key>StationpediaHowToManufacture</Key>
