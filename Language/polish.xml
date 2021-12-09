@@ -6913,8 +6913,44 @@
       <Value>Zamień Ręce</Value>
     </Record>
     <Record>
+      <Key>CommandClearAll</Key>
+      <Value>Usuwa z serwera wszystkich odłączonych graczy: &quot;/clearall&quot;</Value>
+    </Record>
+    <Record>
+      <Key>CommandThreadStatus</Key>
+      <Value>Pokazuje aktualny stan wątków gry.: &quot;/threadstatus&quot;</Value>
+    </Record>
+    <Record>
+      <Key>CommandResetThread</Key>
+      <Value>Resetuje dany wątek. : &quot;/resetthread atmospherics&quot;</Value>
+    </Record>
+    <Record>
+      <Key>CommandSetHunger</Key>
+      <Value>Ustawia wskaźnik głodu. : &quot;/hungerrate 0.25&quot;</Value>
+    </Record>
+    <Record>
+      <Key>CommandPause</Key>
+      <Value>Wstrzymuje grę dla wszystkich połączonych graczy. : &quot;/pause&quot;</Value>
+    </Record>
+    <Record>
+      <Key>CommandResume</Key>
+      <Value>Wznawia grę dla wszystkich połączonych graczy. : &quot;/resume&quot;</Value>
+    </Record>
+    <Record>
+      <Key>CommandToggleGod</Key>
+      <Value>Przełącza niezwyciężoność Gracza, w tym skafandra. : &quot;/tg&quot;</Value>
+    </Record>
+    <Record>
+      <Key>CommandToggleInfinitePower</Key>
+      <Value>Przełącza Nieskończoną moc na graczu lub serwerze. : &quot;/tgp&quot;</Value>
+    </Record>
+    <Record>
+      <Key>CommandToggleGameMode</Key>
+      <Value>Przełącza Tryb Gry między Przetrwaniem a Kreatywnym. : &quot;/tgm&quot;</Value>
+    </Record>
+    <Record>
       <Key>CommandSetTime</Key>
-      <Value>Ustawia przesunięcie słońca afektywnie zmieniając porę dnia. : &quot;/settime 0,25&quot;</Value>
+      <Value>Ustawia przesunięcie słońca afektywnie zmieniając porę dnia. : &quot;/settime 0.25&quot;</Value>
     </Record>
     <Record>
       <Key>CommandToggleInstaGrow</Key>
