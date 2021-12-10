@@ -3830,6 +3830,10 @@
       <Value>Panel Słoneczny (Ciężki)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemMiningBeltAdvanced</Key>
+      <Value>Pas Górniczy MK II</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureWindTurbine</Key>
       <Value>Turbina Wiatrowa</Value>
     </RecordThing>
