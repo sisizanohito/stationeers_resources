@@ -3822,6 +3822,14 @@
       <Value>Panel Słoneczny (Ciężki Dwudzielny)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureSolarPanelFlatReinforced</Key>
+      <Value>Panel Słoneczny (Ciężki Płaski)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureSolarPanelReinforced</Key>
+      <Value>Panel Słoneczny (Ciężki)</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureWindTurbine</Key>
       <Value>Turbina Wiatrowa</Value>
     </RecordThing>
