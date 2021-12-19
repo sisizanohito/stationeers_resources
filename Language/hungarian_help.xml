@@ -133,6 +133,74 @@ Ezen hobbi középponti eleme a lépésszekvencer, ami lehetőve teszi a station
       </Text>
     </StationpediaPage>
     <StationpediaPage>
+      <Key>TemperatureControlPage</Key>
+      <Title>Hőmérséklet-szabályozás</Title>
+      <DisplayFilter>Guides</DisplayFilter>
+      <Text>Ahhoz, hogy egy rendszer hőmérsékletét szabályozhassuk, hőt kell hozzáadni, ezzel növelve a rendszer hőmérsékletét, vagy hőt kell elvonni, aminek következtében pedig lehűl. Az eszközök, amik ezt a célt szolgálják a következők: {THING:ItemWallHeater}, {THING:ItemWallCooler}, {THING:StructurePipeRadiator}, {THING:StructureAirConditioner}.
+
+MEGJEGYZÉS: A hőmérséklet-szabályozásnak számos módszere van. Egyes módszerek az említett eszközök egyikét sem hasznosítják. Itt csak az alapvető dolgok kerülnek említésre.
+
+Fontos, hogy megértsd a környezeted, mielőtt nekikezdenél a hőszabályozásnak. A gáz vagy folyadék térfogata egy fontos tényezője a hőmérséklet-szabályozásnak. Egy {THING:StructureTankSmall} körülbelül 6000 L, míg egy {THING:StructureTankBig} akár 50000 L folyadék vagy gáz eltárolására is képes. Ez azt jelenti, hogy ha tele vannak, akkor a kisebb tartály gyorsabban reagál a külső hőmérséklet-változásra. Egy fallal körülvett helyiség egy adott térfogatot fog körbe. Minél nagyobb ez a hely, annál több gázt tud befogadni. Ez az általános szabály a szobákra, helyiségekre és tartályokra is egyaránt igaz.
+
+{HEADER:CSŐHÁLÓZATOK}
+Egy csőhálózat egy vagy több csőszegmensből áll, melyek szakadás nélkül össze vannak kötve. A csőhálózaton belül a nyomás és a hőmérséklet minden ponton meg kell hogy egyezzen. Ez azt jelenti, hogy ha megváltoztatod az egyik paramétert az egyik felén a hálózatnak, a másik felén is azonnal meg fog változni, akármilyen messze is legyen az.
+
+Bizonyos eszközök hozzáadásával a hálózatok szétválhatnak. Ilyen például egy {THING:StructureVolumePump}, ami a hálózatot két részre osztja: egyre, ami a pumpa előtt van, egyre pedig, ami utána.
+
+A csőhálózatok tartalmáról egy {THING:ItemTablet} segítségével tudsz, melybe be van helyezve egy {THING:CartridgeAtmosAnalyser}.
+
+{HEADER:RADIÁTOROK}
+A csőhajlítóval gyártható {THING:StructurePipeRadiator} segít a cső és környezete közötti hőcserében. Használható hőszigetelt és sima csövekhez, akár többféle folyadékkal is.
+
+Normális körülmények között a csőszegmens magában is hőcserét folytat a környezetével, de egy radiátor hozzáadása felgyorsítja a folyamatot. A hőcsere addig folytatódik, ameddig a hőmérséklet ki nem egyenlítődik a cső és környezete között.
+
+{HEADER:PASSZÍV HŰTÉS}
+Egy {THING:StructurePipeRadiator} segítségével két atmoszféra között tudsz hőt cserélni, ezzel az egyiket fűteni, illetve hűteni lehet (vagy fordítva). Például egy nyomás alatt levő helyiségben helyezz le egy csőszegmenst, majd tegyél rá egy radiátort! A hőcsere ezután megkezdődik a csőben levő, illetve a szobában levő atmoszféra között. Ez addig megy, amíg a kettő ki nem egyenlíti egymást.
+
+{HEADER:FALI MELEGÍTŐ}
+A {THING:ItemWallHeater} egy egyszerű eszköz, ami falra vagy keretre helyezhető, és hálózatba kötendő. Ha be van kapcsolva, akkor a környezetét kezdi melegíteni. 1010W-ot fogyaszt, és irányítható logikai egységekkel szabályozható, így például be lehet állítani, hogy kapcsoljon ki, ha a környezet elért egy adott hőmérsékletet.
+
+{HEADER:FALI HŰTŐ}
+A {THING:ItemWallCooler} a csak fűteni tudó fali melegítő ellentétje. A fali hűtő hőt von el a környezetéből, melyet a hozzá csatlakoztatott csőhálózat nyel el. Ahhoz, hogy a hűtő megfelelően működjön, be kell kötni egy gázzal vagy folyadékkal feltöltött csőhálózatba. A betöltött anyag hőkapacitásától és térfogatától függ az, hogy milyen gyorsan változik a hőmérséklete.
+
+Minél nagyobb a hőmérséklet-különbség a cső tartalma és a szoba között, annál kisebb lesz a fali hűtő hatásfoka. Szóval ahhoz, hogy elfogadható hatásfokú legyen a hűtés, el kell vezetned a csőben felgyülemlett hőt. Egy egyszerű példa erre a cső kivezetése a külvilágba, és radiátorokkal való felszerelése. Így a felesleges hő kisugárzódik, ezzel hűtve a csőhálózatot.
+
+Minél kisebb a fali hűtő hatásfoka, annál kevesebb áramot használ. A legnagyobb hatásfoknál 1010W áramot fogyaszt. A fali hűtő irányítható logikai egységekkel úgy, hogy például egy adott hőmérsékletnél kapcsoljon be.
+
+Ha a fali hűtőn villog a hibajelző fény, akkor a következők egyike lehet a gond:
+- Nincs cső csatlakoztatva a hűtőhöz.
+- A csatlakoztatott cső nyomása túl alacsony vagy nincs.
+- A környezet nyomása túl alacsony vagy nincs.
+
+{HEADER: LÉGKONDICIONÁLÓ}
+A {THING:StructureAirConditioner} alapesetben ugyanúgy működik, mint egy fali hűtő, hasonlóan is lehet működtetni. Viszont valamivel többet is tud. Gyorsabban hűt, de szituációtól függően többet is fogyaszt. Nagyobb térfogat hőmérsékletét egyszerűbben lehet vele szabályozni. Beállítástól függően hűteni és fűteni is tud.
+
+LÉGKONDICIONÁLÓ: HOGYAN MŰKÖDIK?
+A légkondicionáló három csőcsatlakozóval rendelkezik: bemenet, kimenet, selejt. A gáz a bemeneten megy be a készülékbe, majd beállítástól függően a légkondicionáló ettől a gáztól hőt von el vagy ad hozzá. Az elvont hőt a selejtes kimeneten levő gáz kapja meg, vagy a szükséges hőt éppen attól vonja el. Ezek után a kimeneten a hidegebb vagy melegebb gáz fog távozni. 
+A ki- és bemeneti csöveket összekötheted (akkor vannak összekötve, ha a hálózati számuk megegyezik), így jobban tudod kontrollálni a hőmérsékletet, mert a gáz visszakerül a légkörbe, és ezért nem lesz akkora az összesített hőmérséklet-változás, azaz több ideig tart a hőcsere.
+
+A légkondicionálót a kívánt használatnak megfelelően kell beállítanod, attól függ mit szeretnél felmelegíteni vagy lehűteni. Egy szobához passzív ventilátort kell belülre szerelned, amit össze kell kötnöd a légkondicionáló bemenetével és kimenetével, a selejt kimenethez pedig egy a selejtes gázokat eltároló tartályt kell kötnöd.
+
+A légkondicionálónak nem muszáj a helyiségen belül lennie. Az előbb felsorolt elemek közül kizárólag a passzív ventilátornak kell bent lennie, ami keringeti a szoba levegőjét a légkondicionálón keresztül hűtéshez vagy fűtéshez.
+
+Akár egyetlen légkondicionálóval is végezhetsz fűtést és hűtést egyaránt, ehhez csak meg kell változtatnod a célhőmérsékletet a készülék paneljén. Viszont ha a folyamatot automatizálni szeretnéd, akkor kettőre lesz szükséged, külön fűtéshez és hűtéshez, ugyanis a hőmérsékletet szabályozó panelt csak manuálisan lehet állítani.
+
+Egy csőhálózathoz akár több légkondicionáló készüléket is köthetsz. Ez hasznos lehet akkor, ha valamit gyorsabban szeretnél hőszabályozni, vagy több dolgot szeretnél külön hűteni vagy fűteni. Ezt úgy teheted meg, hogy a készülékek ki- és bemeneteit egy csőhálózatra kötöd. A selejt kimeneteket is összekötheted, de arra figyelned kell, hogy egy másik, elválasztott hálózatba legyenek bekötve, különben visszakeveredne a felesleges gáz oda, ahova nem kéne. Ezeket mind használhatod tartályokhoz is, csak akkor a passzív ventilátorra való kötés helyett közvetlenül a tartályhoz kell csatlakoztatnod a légkondicionálót.
+
+LÉGKONDICIONÁLÓ: TARTSD ÉSZBEN!
+- Minél nagyobb a hőmérseklet-különbség a bemeneti cső és a selejtes cső között, annál többet fog a légkondicionáló fogyasztani.
+- Mivel a készülék általi fogyasztás mértéke átlépheti az 5kW-ot, ajánlott fejlett kábelt használni.
+- A selejtes cső kivezetése a külső atmoszférába nem mindig a legjobb megoldás, hiszen azt a kivezetett gázt fel is használhatod valamire a bázisodban.
+
+LÉGKONDICIONÁLÓ: EGYSZERŰ HŐMÉRSÉKLET-SZABÁLYOZÁS
+A légkondicionáló használatával többféleképpen is szabályozhatod a bázisod hőmérsékletét - a következő megoldás ezek egyike:
+1. lépés: Futtass körbe egy hosszú csövet a bázisod körül bent, erre szerelj passzív ventilátorokat azokba a szobákba, melyek hőmérsékletét szabályozni szeretnéd! Legyen ez az &quot;A&quot; hálózat!
+2. lépés: Csatlakoztasd &quot;A&quot; hálózatot egy légkondicionáló ki- és bemeneteihez!
+3. lépés: Csatlakoztasd a selejtes kimenetet egy másik hálózathoz! Erre a csőhálózatra szerelj radiátorokat!
+Ez egy egyszerű hálózat. Ahhoz, hogy mindezt automatizáld, szükséged lesz egy csőelemzőre az &quot;A&quot; hálózaton, melynek kiolvastathatod a hőmérséklet-értékét, majd ennek megfelelően irányíthatod a légkondicionáló(ka)t.
+Sok sikert, kadét!</Text>
+    </StationpediaPage>
+    <StationpediaPage>
       <Key>GasPage</Key>
       <Title>Gázok</Title>
       <Text>Ezek bizonyos típusú kémiai gázok.{LIST_OF_GASES}
