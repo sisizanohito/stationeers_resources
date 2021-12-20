@@ -3846,6 +3846,10 @@
       <Value>Zestaw (Rura Cieczowa)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructurePipeLiquidCrossJunction</Key>
+      <Value>Skrzyżowanie krzyżowe rur cieczowych.</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitLiquidTankInsulated</Key>
       <Value>Zestaw (Przenośny zbiornik)</Value>
     </RecordThing>
