@@ -3847,7 +3847,31 @@
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeLiquidCrossJunction</Key>
-      <Value>Skrzyżowanie krzyżowe rur cieczowych.</Value>
+      <Value>Skrzyżowanie Krzyżowe Rur Cieczowych</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePipeLiquidStraight</Key>
+      <Value>Rura Cieczowa Prosta</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePipeLiquidCorner</Key>
+      <Value>Narożnik Rury Cieczowej</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePipeLiquidCrossJunction3</Key>
+      <Value>Skrzyżowanie Krzyżowe Rur Cieczowych3</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePipeLiquidCrossJunction4</Key>
+      <Value>Skrzyżowanie Krzyżowe Rur Cieczowych4</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePipeLiquidCrossJunction5</Key>
+      <Value>Skrzyżowanie Krzyżowe Rur Cieczowych5</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePipeLiquidCrossJunction6</Key>
+      <Value>Skrzyżowanie Krzyżowe Rur Cieczowych6</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLiquidTankInsulated</Key>
