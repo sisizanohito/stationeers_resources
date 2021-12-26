@@ -5446,6 +5446,10 @@
       <Value>Ajtók és nyílások</Value>
     </Record>
     <Record>
+      <Key>ChairTableCategory</Key>
+      <Value>Székek</Value>
+    </Record>
+    <Record>
       <Key>PersonalSuits</Key>
       <Value>Ruhák</Value>
     </Record>
@@ -5556,6 +5560,10 @@
     <Record>
       <Key>Edibles</Key>
       <Value>Ehetők</Value>
+    </Record>
+    <Record>
+      <Key>Plants</Key>
+      <Value>Növények és magok</Value>
     </Record>
     <Record>
       <Key>AirContitioningAtmos</Key>
@@ -8853,6 +8861,10 @@ Leginkább mérnöki, katonai vagy űripari, szoftverfejlesztői vagy bányásza
     <Record>
       <Key>SettingsSmoothTerrain</Key>
       <Value>Terep</Value>
+    </Record>
+    <Record>
+      <Key>SettingsVirtualizedRendering</Key>
+      <Value>Virtualizált renderelés</Value>
     </Record>
   </Interface>
   <Colors>
