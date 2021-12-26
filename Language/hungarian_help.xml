@@ -244,6 +244,59 @@ Sok sikert, kadét!</Text>
       </Text>
     </StationpediaPage>
     <StationpediaPage>
+      <Key>AutomatedRocketPage</Key>
+      <Title>Automatizált Rakétamodulok (A.R.M.)</Title>
+      <DisplayFilter>Guides</DisplayFilter>
+      <Text>Az automatizált rakéták legénység nélküli járművek, amelyek számos nyersanyag beszerzésére képesek. A rakéta irányítható &lt;color=#0080FFFF&gt;{LINK:LogicUnitPage;logika}&lt;/color&gt;, &lt;color=#0080FFFF&gt;{LINK:LogicUnitPage;IC}&lt;/color&gt;, vagy ezek keverékével.
+      
+Kilövés után ezek az automatizált rakéták bányászható nyersanyaggal rendelkező bolygók és aszteroidák után kutatnak attól függően, hogy milyen modullal lettek felszerelve. A rakétákat be lehet programozni arra, hogy minden lehetséges nyersanyagot begyűjtsenek, majd menjenek egy másik bolygóra, vagy térjenek haza. A hatótávolság - és az ebből adódó begyűjthető nyersanyag mennyisége - az üzemanyag mennyisége által van meghatározva. Ha kifogy az üzemanyag, örökre elveszhet a rakéta az űr vákuumában...
+      
+
+{HEADER:MODULOK}
+Egy automatizált rakétarendszer négy alapvető modulból, plusz egy hajtóműből és egy (vagy több) üzemanyagtartályból áll:
+
+* AUTOMATIZÁCIÓS MODUL - {THING:StructureModularRocketAutomation} az irányítórendszer, ez adja tovább a különböző adatokat a többi modulnak.
+
+* BÁNYÁSZMODUL - Ez hajtja végre a bányászat műveletét. A következők tartoznak ide: {THING:StructureRocketModuleMiningOre}, {THING:StructureModularRocketIceMining}, {THING:StructureRocketModuleMiningJunk}, {THING:StructureModularRocketGasMining}.
+
+* CSATOLÓ - Ez kötteti össze a bányászmodulokat a tárolómodulokkal úgy, hogy továbbítja a nyersanyagot au egyikből a másikba. Pontosabban: {THING:StructureModularRocketCouplingDown} az ALATTA levő tárolómodulba továbbít. {THING:StructureModularRocketCouplingUp} a FELETTE levő tárolómodulba továbbít. Csatoló nélkül a hajó nem fog tudni nyersanyagokat begyűjteni.
+
+* TÁROLÓMODUL - Ez a modul kapja meg a nyersanyagokat a bányászmodulból a csatolón keresztül. A nyersanyagokat addig tárolja, amíg a rakéta vissza nem ér. Ilyen például egy {THING:StructureRocketModuleSilo}, ami érceket tud tárolni, vagy egy {THING:StructureModularRocketFueltank01}, ami meg gázok tárolására alkalmas. Ezek a modulok csatlakoztathatók egy &lt;color=#0080FFFF&gt;{LINK:ImportExportPage;csúszdahálózatra}&lt;/color&gt;, de arra figyelj, hogy alapból be vannak zárva. Ezt &lt;color=#0080FFFF&gt;{LINK:LogicUnitPage;logika}&lt;/color&gt; segítségével változtathatod meg. Csak állítsd az értéket &quot;nyitvára&quot;.
+
+
+{HEADER:KILÖVÉSI FELTÉTELEK}
+* ÁRAMELLÁTÁS - Minden modul hálózatba kell hogy legyen kötve. A modulok megépítése utáni kezdeti állapot minig a &quot;be&quot;. A modulok &lt;color=#0080FFFF&gt;{LINK:LogicUnitPage;logika}&lt;/color&gt; segítségével kikapcsolhatók.
+
+* ÜZEMANYAG - A rakétának legalább egy üzemanyagtartállyal és elégséges mennyiségű (legalább 500 mol) üzemanyaggal kell rendelkeznie a felszálláshoz. Arra figyelj, hogy a rakéta leszálláskor is elhasznál 500 mol üzemanyagot, ezen kívül menet közben is elhasznál 5 molt minden egyes tickben.
+
+* KONSTRUKCIÓ - A rakétát helyesen kell összeszerelni (lásd fent: MODULOK).
+
+* PROGRAMOZÁS - A rakétát megfelelően beállított &lt;color=#0080FFFF&gt;{LINK:LogicUnitPage;IC rendszerrel}&lt;/color&gt; kell ellátni (lásd lent).
+
+
+{HEADER:RAKÉTAÜZEMMÓDOK}
+A rakéta üzemmódját az eszköz &quot;aktiválás&quot; értékének megváltoztatásával lehet állítani. Az adott üzemmód a jelenlegi viselkedést határozza meg:
+
+0: üresjárat (indulás előtt a bázison)
+1: indítás
+2: utazás
+3: megérkezve
+4: üresjárat a célpontnál (bányászmodulok aktiválhatók)
+5: hazatérés
+6: hazatérve
+7: elvesztve
+
+
+{HEADER:EGYEDI RAKÉTA PARANCSOK}
+* HÁTRALEVŐ ÜZEMANYAG A TARTÁLYBAN - Visszaadja az üzemanyagtartályban maradt üzemanyag mennyiségét.
+* VISSZATÉRÉSI ÜZEMANYAGKÖLTSÉG - Visszaadja annak az üzemanyagnak a mennyiségét, ami szükséges a bázishoz való visszatéréshez.
+* RAKÉTAÜZEMMÓD - Visszaadja a jelenlegi üzemmód értékét (0-7).
+* BEGYŰJTHETŐ JAVAK - 0-t vagy 1-et ad vissza, attól függően, hogy a jelenlegi rakétarendszer képes-e begyűjteni az erőforrásokat az adott bolygón.
+
+
+      </Text>
+    </StationpediaPage>
+    <StationpediaPage>
       <Key>FoodPage</Key>
       <Title>Élelmiszer</Title>
       <Text>A következők használhatók a tápláltság növeléséhez.
@@ -262,6 +315,29 @@ Sok sikert, kadét!</Text>
       <Title>Készülékek</Title>
       <Text>Olyan tárgyak, amik pultokra helyezhetőek le. A lehelyezéshez rakd a pultra az eszközt, majd rögzítsd a franciakulccsal.
 {LIST_OF_APPLIANCES}
+      </Text>
+    </StationpediaPage>
+    <StationpediaPage>
+      <Key>TravelPage</Key>
+      <Title>Utazás másik bolygókra</Title>
+      <DisplayFilter>Guides</DisplayFilter>
+      <Text>Várj! Még ne zárj be! Ezeknek a feltételeknek kell teljesülnie az indításhoz:
+
+- Teljesen megépített rakéta: legalább 3 központi modul
+- Teljesen feltankolt {THING:StructureModularRocketFueltank01}
+- Megfelelő üzemanyag-keverési arány - 2:1 arányú {GAS:Volatiles}-{GAS:Oxygen} keverék
+- {THING:StructureLaunchPad} ellátva árammal
+- Minden játékos a(z) {THING:StructureModularRocketCommand01} belsejében ül
+
+Ezek itt a VILÁGUTAZÓ-AZONOSÍTÓK. Használhatod őket bizonyos bolygók közti utazásra, ha együtt használod egy már kész {LINK:RocketShuttlePage;űrhajóval} és {LINK:LogicUnitPage;logikai egységekkel}.
+       
+Csak írd be a hash értékeket a {THING:StructureLaunchPad} Beállítás változójábaegy {THING:ItemLabeller} segítségével. Megjegyzés: Ha a hash értékre kattintasz, akkor bemásolódik a vágólapra.
+      
+Az induláshoz legalább 3 központi modulra lesz szükséged és arra, hogy minden játékos a rakétában üljön.
+
+      {LIST}
+        {WORLD_HASHES}
+      {/LIST}
       </Text>
     </StationpediaPage>
     <StationpediaPage>
