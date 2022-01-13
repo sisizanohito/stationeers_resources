@@ -6813,6 +6813,30 @@
       <Value>Zwraca 1 jeżeli urządzenie jest w bezczynne, w przeciwnym razie 0</Value>
     </Record>
     <Record>
+      <Key>ScriptCommandSqrt</Key>
+      <Value>Register = pierwiastek kwadratowy z a</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandRound</Key>
+      <Value>Register = a zaokrąglone do najbliższej liczby całkowitej</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandTrunc</Key>
+      <Value>Rejestr = a z usuniętą częścią ułamkową</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandCeil</Key>
+      <Value>Register = najmniejsza liczba całkowita większa niż a</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandFloor</Key>
+      <Value>Register = największa liczba całkowita mniejsza niż a</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandMax</Key>
+      <Value>Rejestr = maximum spośród a i b</Value>
+    </Record>
+    <Record>
       <Key>ScriptCommandMin</Key>
       <Value>Rejestr = minimum spośród a i b</Value>
     </Record>
@@ -6833,8 +6857,20 @@
       <Value>Rejestr = losowa wartość x, gdzie 0 &lt;= x &lt; 1</Value>
     </Record>
     <Record>
+      <Key>ScriptCommandYield</Key>
+      <Value>Wstrzymuje wykonanie na 1 tick</Value>
+    </Record>
+    <Record>
       <Key>ScriptCommandLabel</Key>
       <Value>PRZESTARZAŁE</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandPeek</Key>
+      <Value>Register = wartość na górze stosu</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandPush</Key>
+      <Value>Wkłada wartość a na stos w miejscu sp i zwiększa sp</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSin</Key>
