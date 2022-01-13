@@ -6813,6 +6813,26 @@
       <Value>Zwraca 1 jeżeli urządzenie jest w bezczynne, w przeciwnym razie 0</Value>
     </Record>
     <Record>
+      <Key>ScriptCommandMin</Key>
+      <Value>Rejestr = minimum spośród a i b</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandAbs</Key>
+      <Value>Rejestr = wartość bezwzględna a</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandLog</Key>
+      <Value>Rejestr = log(a)</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandExp</Key>
+      <Value>Rejestr = exp(a)</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandRand</Key>
+      <Value>Rejestr = losowa wartość x, gdzie 0 &lt;= x &lt; 1</Value>
+    </Record>
+    <Record>
       <Key>ScriptCommandLabel</Key>
       <Value>PRZESTARZAŁE</Value>
     </Record>
