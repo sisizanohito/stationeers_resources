@@ -5998,23 +5998,23 @@
     </Record>
     <Record>
       <Key>Button13</Key>
-      <Value>Bouton1</Value>
+      <Value>Bouton13</Value>
     </Record>
     <Record>
       <Key>Button14</Key>
-      <Value>Bouton1</Value>
+      <Value>Bouton14</Value>
     </Record>
     <Record>
       <Key>Button15</Key>
-      <Value>Bouton1</Value>
+      <Value>Bouton15</Value>
     </Record>
     <Record>
       <Key>Button16</Key>
-      <Value>Bouton1</Value>
+      <Value>Bouton16</Value>
     </Record>
     <Record>
       <Key>Button17</Key>
-      <Value>Bouton1</Value>
+      <Value>Bouton17</Value>
     </Record>
   </Interactables>
   <Interface>
@@ -6756,8 +6756,10 @@
     </Record>
     <Record>
       <Key>TutorialCompleteMessage</Key>
-      <Value>Il y a encore beaucoup à apprendre.
-Alors au boulot, Stationeer !</Value>
+      <Value>
+        Il y a encore beaucoup à apprendre.
+        Alors au boulot, Stationeer !
+      </Value>
     </Record>
     <Record>
       <Key>TutorialBackToMenu</Key>
