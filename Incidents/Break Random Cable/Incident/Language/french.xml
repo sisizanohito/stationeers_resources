@@ -6,7 +6,7 @@
   <Interface>
     <Record>
       <Key>Incident_BrokenCable_Title</Key>
-      <Value>Bruler n&apos;importe que câble</Value>
+      <Value>Bruler n&apos;importe quel câble</Value>
     </Record>
     <Record>
       <Key>Incident_BrokenCable</Key>
