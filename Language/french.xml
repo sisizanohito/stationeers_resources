@@ -6779,8 +6779,10 @@
     </Record>
     <Record>
       <Key>MulticonstructorItem</Key>
-      <Value>&lt;color=yellow&gt;Option de construction {0} de {1} &lt;/color&gt;
-Scroll &lt;color=red&gt;Roulette de la souris&lt;/color&gt; pour plus d&apos;options.</Value>
+      <Value>
+        &lt;color=yellow&gt;Option de construction {0} de {1}&lt;/color&gt;
+        défiler avec &lt;color=red&gt;Molette de la souris&lt;/color&gt; pour plus d&apos;options.
+      </Value>
     </Record>
     <Record>
       <Key>UnableToConstruct</Key>
@@ -10085,7 +10087,7 @@ Le programme Stationeers, qui est fondamentalement ouvert à toute l’humanité
     </Record>
     <Record>
       <Key>NoSoundCartridge</Key>
-      <Value>Cartes</Value>
+      <Value>Cartouche sans son</Value>
     </Record>
     <Record>
       <Key>NoNote</Key>
@@ -10105,7 +10107,7 @@ Le programme Stationeers, qui est fondamentalement ouvert à toute l’humanité
     </Record>
     <Record>
       <Key>SettingsSmoothTerrain</Key>
-      <Value>Terrain</Value>
+      <Value>Terrain lisse</Value>
     </Record>
   </Interface>
   <Colors>
