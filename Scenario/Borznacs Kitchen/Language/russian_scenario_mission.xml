@@ -10,5 +10,12 @@
       <Key>TutoiralGasMixingSubTitle</Key>
       <Value>Пора бы готовить</Value>
     </Record>
+    <Record>
+      <Key>ScenariosBorznacsKitchenDescription</Key>
+      <!--Menu Disc-->
+      <Value>Когда Синотай оборвал торговые связи с ним, Борзнак Пятый решил построить собственную империю, захватив все близлежащие лунные базы, включая вашу.
+
+Вас заставили работать в качестве его персонального повара. Так что пора вам приступить к готовке.</Value>
+    </Record>
   </Interface>
 </Language>
