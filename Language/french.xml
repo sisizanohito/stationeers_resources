@@ -10078,8 +10078,8 @@ Le programme Stationeers, qui est fondamentalement ouvert à toute l’humanité
       <Value>Vitesse</Value>
     </Record>
     <Record>
-      <Key>Release</Key>
-      <Value>Décédé</Value>
+      <Key>Attack</Key>
+      <Value>Attaque</Value>
     </Record>
     <Record>
       <Key>CurrentInstrument</Key>
