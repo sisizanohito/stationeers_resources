@@ -54,5 +54,33 @@
       <Key>TomatoSoup1</Key>
       <Value>Смешайте и отправьте банку томатного супа.</Value>
     </Record>
+    <Record>
+      <Key>PumpkinSoup1</Key>
+      <Value>Смешайте и отправьте банку тыквенного супа.</Value>
+    </Record>
+    <Record>
+      <Key>BakedPotato2</Key>
+      <Value>Испеките и отправьте 2 печёных картошки.</Value>
+    </Record>
+    <Record>
+      <Key>BreadTask2</Key>
+      <Value>Испеките и отправьте 1 буханку хлеба.</Value>
+    </Record>
+    <Record>
+      <Key>FriesTask2</Key>
+      <Value>Нажарьте и отправьте 1 пачку картофеля фри.</Value>
+    </Record>
+    <Record>
+      <Key>PumpkinTask2</Key>
+      <Value>Испеките и отправьте 1 тыквенный пирог.</Value>
+    </Record>
+    <Record>
+      <Key>MuffinTask2</Key>
+      <Value>Испеките и отправьте 3 маффина.</Value>
+    </Record>
+    <Record>
+      <Key>MilkTask2</Key>
+      <Value>Изготовьте и отправьте 2 пакета молока.</Value>
+    </Record>
   </Interface>
 </Language>
