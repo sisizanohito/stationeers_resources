@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Code>RU</Code>
-  <Interface/>
+  <Interface>
+    <Record>
+      <Key>ScenariosBorznacsKitchen</Key>
+      <Value>Кухня Борзнака</Value>
+    </Record>
+    <Record>
+      <Key>TutoiralGasMixingSubTitle</Key>
+      <Value>Пора бы готовить</Value>
+    </Record>
+  </Interface>
 </Language>
