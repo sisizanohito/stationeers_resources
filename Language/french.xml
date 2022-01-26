@@ -6016,6 +6016,14 @@
       <Key>Button17</Key>
       <Value>Bouton17</Value>
     </Record>
+    <Record>
+      <Key>ProgrammableChip</Key>
+      <Value>Puce programmable</Value>
+    </Record>
+    <Record>
+      <Key>Motherboard</Key>
+      <Value>Carte mère</Value>
+    </Record>
   </Interactables>
   <Interface>
     <Record>
@@ -8052,6 +8060,10 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     <Record>
       <Key>FuelReturnCost</Key>
       <Value>Obtenir le coût du carburant pour le retour.</Value>
+    </Record>
+    <Record>
+      <Key>RocketMode</Key>
+      <Value>Obsolète</Value>
     </Record>
     <Record>
       <Key>LogicTypeRequestHash</Key>
