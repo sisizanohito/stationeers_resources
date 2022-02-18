@@ -4425,6 +4425,14 @@
       <Value>Astroloy lemezek</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemMiningBeltAdvanced</Key>
+      <Value>Bányászöv II</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureWindTurbine</Key>
+      <Value>Szélturbina</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitWindTurbine</Key>
       <Value>Készlet (Szélturbina)</Value>
     </RecordThing>
