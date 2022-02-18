@@ -1898,19 +1898,19 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureCableStraightH</Key>
-      <Value>Fejlett kábel (Egyenes)</Value>
+      <Value>Vastag kábel (Egyenes)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunctionH6</Key>
-      <Value>Fejlett kábel (6 irányú elágazás)</Value>
+      <Value>Vastag kábel (6 irányú elágazás)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunctionH4</Key>
-      <Value>Fejlett kábel (4 irányú elágazás)</Value>
+      <Value>Vastag kábel (4 irányú elágazás)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunctionH</Key>
-      <Value>Fejlett kábel (Elágazás)</Value>
+      <Value>Vastag kábel (Elágazás)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunction6HBurnt</Key>
@@ -1934,7 +1934,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureCableCornerH</Key>
-      <Value>Fejlett kábel (Sarok)</Value>
+      <Value>Vastag kábel (Sarok)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableFuse1k</Key>
@@ -1994,7 +1994,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemCableCoilHeavy</Key>
-      <Value>Kábelköteg (Fejlett)</Value>
+      <Value>Kábelköteg (Vastag)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureFrameIron</Key>
@@ -2394,15 +2394,15 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureCableCornerH3</Key>
-      <Value>Fejlett kábel (3 irányú sarok)</Value>
+      <Value>Vastag kábel (3 irányú sarok)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableCornerH4</Key>
-      <Value>Fejlett kábel (4 irányú sarok)</Value>
+      <Value>Vastag kábel (4 irányú sarok)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableCorner4HBurnt</Key>
-      <Value>Égett fejlett kábel (4 irányú sarok)</Value>
+      <Value>Égett vastag kábel (4 irányú sarok)</Value>
     </RecordThing>
     <RecordThing>
       <Key>PortableSolarPanel</Key>
@@ -2426,11 +2426,11 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunctionH5</Key>
-      <Value>Fejlett kábel (5 irányú elágazás)</Value>
+      <Value>Vastag kábel (5 irányú elágazás)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunctionH5Burnt</Key>
-      <Value>Égett fejlett kábel (5 irányú elágazás)</Value>
+      <Value>Égett vastag kábel (5 irányú elágazás)</Value>
     </RecordThing>
     <RecordThing>
       <Key>WallFrameCornerCut</Key>
