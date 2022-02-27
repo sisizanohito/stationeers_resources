@@ -6916,6 +6916,10 @@
       <Value>Bár itt nincs gravitáció és atmoszféra, de legalább nagyon sok hely van építkezni. Aszteroidák közt találod magad, ezekből kell majd nyersanyagot szerezned a túléléshez.</Value>
     </Record>
     <Record>
+      <Key>NewWorldVenusShortDesc</Key>
+      <Value>Állandó extrém hőség és ultramagas nyomás. A Vénusz nem ajánlott gyenge szívűeknek! Csak a legelhivatottabb stationeerek élhetik túl az egyszeri testvérbolygónkat, ami mára csak egy forró szikla. Áss mélyre, vagy húzz el innen!</Value>
+    </Record>
+    <Record>
       <Key>NewWorldEuropaShortDesc</Key>
       <Value>A jég részleges elolvadásával végre keletkezett némi légkör ezen a jeges világon, de a kialakult extrém hideg időjárás nagy kihívást jelent az érkező stationeereknek. Az extrém hideg az elemek gyors merülését idézi elő, ezért tekintsd prioritásodnak egy megbízható erőforrás és egy meleg élőhely kialakítását!</Value>
     </Record>
@@ -8276,12 +8280,24 @@
       <Value>Építés</Value>
     </Record>
     <Record>
+      <Key>ResearchLogic</Key>
+      <Value>Logika</Value>
+    </Record>
+    <Record>
+      <Key>ResearchVehicles</Key>
+      <Value>Járművek</Value>
+    </Record>
+    <Record>
       <Key>ResearchShowLocked</Key>
       <Value>Zárolt mutatása</Value>
     </Record>
     <Record>
       <Key>StatusWindowVitals</Key>
       <Value>Szükségletek</Value>
+    </Record>
+    <Record>
+      <Key>StatusWindowTarget</Key>
+      <Value>Cél</Value>
     </Record>
     <Record>
       <Key>CompletedKey</Key>
