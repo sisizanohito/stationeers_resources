@@ -7,6 +7,14 @@
       <Value>Vedd fel a {THING:ApplianceMicrowave}t</Value>
     </Record>
     <Record>
+      <Key>ControlJetpackAsendMovementDisc</Key>
+      <Value>Emelkedés</Value>
+    </Record>
+    <Record>
+      <Key>ControlJetpackDesendMovementDisc</Key>
+      <Value>Ereszkedés</Value>
+    </Record>
+    <Record>
       <Key>PickUpT1 9</Key>
       <Value>Készíts egy {THING:ItemMuffin}t</Value>
     </Record>

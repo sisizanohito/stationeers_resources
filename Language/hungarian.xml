@@ -5863,11 +5863,11 @@
     </Record>
     <Record>
       <Key>SettingsMenuVideo</Key>
-      <Value>Videó</Value>
+      <Value>Kép</Value>
     </Record>
     <Record>
       <Key>SettingsMenuAudio</Key>
-      <Value>Audió</Value>
+      <Value>Hang</Value>
     </Record>
     <Record>
       <Key>SettingsMenuControls</Key>
@@ -5887,7 +5887,7 @@
     </Record>
     <Record>
       <Key>SettingsHUDScale</Key>
-      <Value>HUD aránya</Value>
+      <Value>HUD méretezése</Value>
     </Record>
     <Record>
       <Key>SettingsDisplayLatency</Key>
