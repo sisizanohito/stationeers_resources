@@ -8272,8 +8272,28 @@
       <Value>Követelmények</Value>
     </Record>
     <Record>
+      <Key>ResearchUnlocksTitle</Key>
+      <Value>Feloldások</Value>
+    </Record>
+    <Record>
+      <Key>ResearchMilitary</Key>
+      <Value>Harcászat</Value>
+    </Record>
+    <Record>
+      <Key>ResearchProduction</Key>
+      <Value>Gyártás</Value>
+    </Record>
+    <Record>
       <Key>ResearchAutomation</Key>
       <Value>Automatizálás</Value>
+    </Record>
+    <Record>
+      <Key>ResearchTools</Key>
+      <Value>Eszközök</Value>
+    </Record>
+    <Record>
+      <Key>ResearchOrganics</Key>
+      <Value>Szerves anyagok</Value>
     </Record>
     <Record>
       <Key>ResearchConstruction</Key>
