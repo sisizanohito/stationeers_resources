@@ -8396,6 +8396,10 @@
       <Value>Játékidő</Value>
     </Record>
     <Record>
+      <Key>SettingsFirstPersonHelmet</Key>
+      <Value>Sisak belső nézetben</Value>
+    </Record>
+    <Record>
       <Key>SiloDeconstruct</Key>
       <Value>A silót ki kell ürítened, mielőtt megkezded lebontani!</Value>
     </Record>
@@ -8576,7 +8580,7 @@ Leginkább mérnöki, katonai vagy űripari, szoftverfejlesztői vagy bányásza
     </Record>
     <Record>
       <Key>ToggleChangeLog</Key>
-      <Value>Frissítési jegyzék megjelenítése</Value>
+      <Value>Frissítések</Value>
     </Record>
     <Record>
       <Key>ShowPreviousVideoText</Key>
