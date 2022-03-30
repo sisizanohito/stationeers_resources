@@ -4340,12 +4340,24 @@
       <Value>Stemmeisen MKII</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemMKIIDuctTape</Key>
+      <Value>Mk II Klebeband</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitWaterBottleFiller</Key>
+      <Value>Item-Kit Wasserflaschenfüller</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureLiquidTankBig</Key>
       <Value>Flüssigkeits-Tank (groß)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidTankSmall</Key>
       <Value>Flüssigkeits-Tank (klein)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitLiquidTank</Key>
+      <Value>Kit (Flüssigkeitstank)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLiquidTankInsulated</Key>
@@ -4403,12 +4415,56 @@
       <Value/>
     </RecordThing>
     <RecordThing>
+      <Key>StructureFridgeBig</Key>
+      <Value>Kühlschrank (groß)</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitFridgeBig</Key>
       <Value>Dieser Bausatz erstellt ein {THING:StructureLiquidPipeRadiator}.</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureFridgeSmall</Key>
+      <Value>Kühlschrank (klein)</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitVendingMachineRefrigerated</Key>
       <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>SeedBag_Corn</Key>
+      <Value>Maissamen</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>SeedBag_Wheet</Key>
+      <Value>Weizensamen</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>SeedBag_Tomato</Key>
+      <Value>Tomatensamen</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>SeedBag_Soybean</Key>
+      <Value>Sojabohnensamen</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>SeedBag_Rice</Key>
+      <Value>Reissamen</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>SeedBag_Pumpkin</Key>
+      <Value>Kürbiskerne</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>SeedBag_Fern</Key>
+      <Value>Farnsamen</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>Fertilizer</Key>
+      <Value>Dünger</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureAdvancedComposter</Key>
+      <Value>Fortschrittlicher Komposter</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAdvancedComposter</Key>
@@ -4421,6 +4477,14 @@
     <RecordThing>
       <Key>KitPlanter</Key>
       <Value>Dieser Bausatz erstellt ein {THING:StructureLiquidPipeRadiator}.</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>PortableComposter</Key>
+      <Value>Tragbarer Komposter</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>AppliancePackagingMachine</Key>
+      <Value>Grundlegende Verpackungsmaschine</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPlanter</Key>
@@ -4481,6 +4545,14 @@
     <RecordThing>
       <Key>InsulatedLiquidPipeStraight</Key>
       <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureOneWayValve</Key>
+      <Value>Einwegventil (Gas)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureWaterPipeHeater</Key>
+      <Value>Rohrheizung (Gas)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitTurboVolumePump</Key>
