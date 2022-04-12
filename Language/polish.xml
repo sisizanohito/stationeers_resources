@@ -3878,6 +3878,26 @@
       <Value>Trójnik Rury Cieczowej</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemWreckageWindTurbine001</Key>
+      <Value>Szczątki Turbiny Wiatrowej</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageWindTurbine002</Key>
+      <Value>Szczątki Turbiny Wiatrowej</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageWindTurbine003</Key>
+      <Value>Szczątki Turbiny Wiatrowej</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageWindTurbine004</Key>
+      <Value>Szczątki Turbiny Wiatrowej</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageWindTurbine005</Key>
+      <Value>Szczątki Turbiny Wiatrowej</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitLiquidTankInsulated</Key>
       <Value>Zestaw (Przenośny zbiornik)</Value>
     </RecordThing>
