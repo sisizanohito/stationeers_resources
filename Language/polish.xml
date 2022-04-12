@@ -3898,6 +3898,22 @@
       <Value>Szczątki Turbiny Wiatrowej</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemWreckageStructureWeatherStation001</Key>
+      <Value>Szczątki Struktury Stacji Pogodowej</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageStructureWeatherStation002</Key>
+      <Value>Szczątki Struktury Stacji Pogodowej</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageStructureWeatherStation003</Key>
+      <Value>Szczątki Struktury Stacji Pogodowej</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageStructureWeatherStation004</Key>
+      <Value>Szczątki Struktury Stacji Pogodowej</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitLiquidTankInsulated</Key>
       <Value>Zestaw (Przenośny zbiornik)</Value>
     </RecordThing>
@@ -3911,6 +3927,10 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureRocketModuleMiningJunk</Key>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLiquidDrain</Key>
+      <Value>Drenaż</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitFridgeBig</Key>
