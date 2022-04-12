@@ -3960,11 +3960,15 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidPipeRadiator</Key>
-      <Value>Radiator Rur Cieczowych</Value>
+      <Value>Radiator do Rur Na Ciecze</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemPipeLiquidRadiator</Key>
-      <Value>Zestaw (Radiator Cieczowy)</Value>
+      <Value>Zestaw (Radiator Do Cieczy)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemMKIIScrewdriver</Key>
+      <Value>Śrubokręt Mk II</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLiquidTankInsulated</Key>
@@ -3986,8 +3990,20 @@
       <Value>Drenaż</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureFridgeBig</Key>
+      <Value>Lodówka (Duża)</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitFridgeBig</Key>
       <Value>Silnik Rakietowy (Duzy)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureFridgeSmall</Key>
+      <Value>Lodówka (Mała)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>SeedBag_Corn</Key>
+      <Value>Nasiona Kukurydzy</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAdvancedComposter</Key>
