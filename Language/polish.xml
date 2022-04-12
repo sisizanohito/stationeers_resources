@@ -3835,6 +3835,10 @@
       <Value>Panel Słoneczny (Ciężki)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemAstroloySheets</Key>
+      <Value>Przedmiot Arkusze Astroloyu</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemMiningBeltAdvanced</Key>
       <Value>Pas Górniczy MK II</Value>
     </RecordThing>
@@ -3917,6 +3921,26 @@
     <RecordThing>
       <Key>ItemWreckageStructureWeatherStation004</Key>
       <Value>Szczątki Struktury Stacji Pogodowej</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageStructureWeatherStation005</Key>
+      <Value>Szczątki Struktury Stacji Pogodowej</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageStructureWeatherStation006</Key>
+      <Value>Szczątki Struktury Stacji Pogodowej</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageStructureWeatherStation007</Key>
+      <Value>Szczątki Struktury Stacji Pogodowej</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWaterBottle</Key>
+      <Value>Butelka Na Wodę</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWaterBottleFiller</Key>
+      <Value>Wypełniacz Butelek Na Wodę</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLiquidTankInsulated</Key>
