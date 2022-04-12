@@ -3935,12 +3935,36 @@
       <Value>Szczątki Struktury Stacji Pogodowej</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemWreckageStructureWeatherStation008</Key>
+      <Value>Szczątki Struktury Stacji Pogodowej</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemWaterBottle</Key>
       <Value>Butelka Na Wodę</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWaterBottleFiller</Key>
       <Value>Wypełniacz Butelek Na Wodę</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureWaterBottleFiller</Key>
+      <Value>Wypełniacz Butelek Na Wodę</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureIceCrusher</Key>
+      <Value>Kruszarka Do Lodu</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitIceCrusher</Key>
+      <Value>Zestaw (Kruszarka Do Lodu)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLiquidPipeRadiator</Key>
+      <Value>Radiator Rur Cieczowych</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemPipeLiquidRadiator</Key>
+      <Value>Zestaw (Radiator Cieczowy)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLiquidTankInsulated</Key>
