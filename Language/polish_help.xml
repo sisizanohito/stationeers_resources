@@ -114,5 +114,9 @@ Gdy budujesz, ważne jest aby pamiętać że ciśnienie jest mierzone jako róż
       <Text>Temperatura Topnienia {1}
 Ciśnienie Topnienia {0}</Text>
     </StationpediaPage>
+    <StationpediaPage>
+      <Key>GasPageFlamableTemplate</Key>
+      <Text>Granica Łatwopalności od {0} do {1}</Text>
+    </StationpediaPage>
   </HelpPage>
 </Language>
