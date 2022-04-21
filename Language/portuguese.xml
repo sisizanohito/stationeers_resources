@@ -4256,18 +4256,6 @@
       <Value>Porta Composta</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemKitLiquidTankInsulated</Key>
-      <Value>Kit (Tanque Portátil)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureLiquidTankBigInsulated</Key>
-      <Value>Estrutura Minerador Auto Pequeno</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureLiquidTankSmallInsulated</Key>
-      <Value>Armazenamento de Cilindro de Gás</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>StructureRocketModuleMiningJunk</Key>
     </RecordThing>
     <RecordThing>

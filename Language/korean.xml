@@ -3146,18 +3146,6 @@
       <Value>합성 문</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemKitLiquidTankInsulated</Key>
-      <Value>운반용 탱크</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureLiquidTankBigInsulated</Key>
-      <Value>운반용 탱크</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureLiquidTankSmallInsulated</Key>
-      <Value>가스 주입기 저장고</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>StructureRocketModuleMiningJunk</Key>
     </RecordThing>
     <RecordThing>

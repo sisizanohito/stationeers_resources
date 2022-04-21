@@ -4921,18 +4921,6 @@
       <Value>套件 液體壓力槽</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemKitLiquidTankInsulated</Key>
-      <Value>套件 液體壓力槽</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureLiquidTankBigInsulated</Key>
-      <Value>液體壓力槽大型</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureLiquidTankSmallInsulated</Key>
-      <Value>液體壓力槽小型</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>StructureRocketModuleMiningJunk</Key>
     </RecordThing>
     <RecordThing>
@@ -5097,6 +5085,18 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPowerTransmitterOmni</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLiquidTankBigInsulated</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitLiquidTankInsulated</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLiquidTankSmallInsulated</Key>
       <Value/>
     </RecordThing>
   </Things>

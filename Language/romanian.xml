@@ -678,14 +678,6 @@
       <Value>Panou fotovoltaic</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemKitLiquidTankInsulated</Key>
-      <Value>Kit (rezervor portabil)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureLiquidTankBigInsulated</Key>
-      <Value>Kit (rezervor portabil)</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>StructureRocketModuleMiningJunk</Key>
     </RecordThing>
   </Things>

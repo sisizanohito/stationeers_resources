@@ -4006,18 +4006,6 @@
       <Value>Porta Composita</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemKitLiquidTankInsulated</Key>
-      <Value>Kit (Serbatoio portatile)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureLiquidTankBigInsulated</Key>
-      <Value>Serbatoio portatile</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureLiquidTankSmallInsulated</Key>
-      <Value>Stoccaggio bombole</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>StructureRocketModuleMiningJunk</Key>
     </RecordThing>
     <RecordThing>

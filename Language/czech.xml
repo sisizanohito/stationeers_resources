@@ -5008,18 +5008,6 @@
       <Value>Nádrž na kapalinu (sada)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemKitLiquidTankInsulated</Key>
-      <Value>Izolovaná nádrž na kapalinu (sada)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureLiquidTankBigInsulated</Key>
-      <Value>Velká izolovaná nádrž na kapaliny</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureLiquidTankSmallInsulated</Key>
-      <Value>Malá izolovaná nádrž na kapaliny</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>StructureRocketModuleMiningJunk</Key>
     </RecordThing>
     <RecordThing>
@@ -5265,6 +5253,18 @@
     <RecordThing>
       <Key>ItemKitPowerTransmitterOmni</Key>
       <Value>Omni vysílač napájení (sada)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLiquidTankBigInsulated</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitLiquidTankInsulated</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLiquidTankSmallInsulated</Key>
+      <Value/>
     </RecordThing>
   </Things>
   <Slots>

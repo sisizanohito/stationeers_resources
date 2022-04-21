@@ -5041,18 +5041,6 @@
       <Value>Набор (Жидкостной резервуар)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemKitLiquidTankInsulated</Key>
-      <Value>Набор (Жидкостной резервуар)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureLiquidTankBigInsulated</Key>
-      <Value>Большой жидкостной резервуар</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureLiquidTankSmallInsulated</Key>
-      <Value>Малый жидкостной резервуар</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>StructureModularRocketLiquidTank</Key>
       <Value>Модуль Хранения Жидкостей Автоматической Ракеты</Value>
     </RecordThing>
@@ -5397,6 +5385,18 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPowerTransmitterOmni</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLiquidTankBigInsulated</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitLiquidTankInsulated</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLiquidTankSmallInsulated</Key>
       <Value/>
     </RecordThing>
   </Things>

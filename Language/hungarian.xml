@@ -4605,18 +4605,6 @@
       <Value>Készlet (Folyadéktartály)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemKitLiquidTankInsulated</Key>
-      <Value>Készlet (Hőszigetelt folyadéktartály)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureLiquidTankBigInsulated</Key>
-      <Value>Hőszigetelt folyadéktartály (Nagy)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureLiquidTankSmallInsulated</Key>
-      <Value>Hőszigetelt folyadéktartály (Kicsi)</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>StructureModularRocketLiquidTank</Key>
       <Value>Automatizált rakéta folyadéktároló modul</Value>
     </RecordThing>
@@ -4853,6 +4841,18 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPowerTransmitterOmni</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLiquidTankBigInsulated</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitLiquidTankInsulated</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLiquidTankSmallInsulated</Key>
       <Value/>
     </RecordThing>
   </Things>
