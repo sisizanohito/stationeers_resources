@@ -40,7 +40,7 @@
     </Record>
     <Record>
       <Key>3PipeBenderOn</Key>
-      <Value>{THING:ItemLabeller} の電源を入れる。</Value>
+      <Value>パイプベンダーの電源を入れる。</Value>
     </Record>
     <Record>
       <Key>2EquiptMiningbelt</Key>
