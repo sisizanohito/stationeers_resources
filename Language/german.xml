@@ -4360,6 +4360,18 @@
       <Value>Kit (Flüssigkeitstank)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemKitLiquidTankInsulated</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLiquidTankBigInsulated</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLiquidTankSmallInsulated</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureRocketModuleMiningJunk</Key>
     </RecordThing>
     <RecordThing>
@@ -4576,18 +4588,6 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPowerTransmitterOmni</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureLiquidTankBigInsulated</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemKitLiquidTankInsulated</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureLiquidTankSmallInsulated</Key>
       <Value/>
     </RecordThing>
   </Things>
@@ -5827,6 +5827,10 @@
     <Record>
       <Key>SaveLocationBroken</Key>
       <Value>Kein Zugriff auf den Speicherort der Spielstände möglich, verwenden Sie ein ungültiges Zeichen? Versuchen Sie, das Speicherverzeichnis in den Einstellungen zu ändern.</Value>
+    </Record>
+    <Record>
+      <Key>GamePaused</Key>
+      <Value>Pause</Value>
     </Record>
     <Record>
       <Key>AlertButtonClose</Key>

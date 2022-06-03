@@ -3112,6 +3112,10 @@ Just don&apos;t be sad when you blow yourself into tiny, tiny little pieces or g
       <Value>Scenáre</Value>
     </Record>
     <Record>
+      <Key>LogicState</Key>
+      <Value>State {COLORGREEN:#VAR1#}</Value>
+    </Record>
+    <Record>
       <Key>LogicNoSlot</Key>
       <Value>&lt;color=red&gt;Need more {0}&lt;/color&gt;.</Value>
     </Record>

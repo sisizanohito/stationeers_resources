@@ -3971,6 +3971,18 @@
       <Value>Śrubokręt Mk II</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemKitLiquidTankInsulated</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLiquidTankBigInsulated</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLiquidTankSmallInsulated</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureRocketModuleMiningJunk</Key>
     </RecordThing>
     <RecordThing>
@@ -4020,18 +4032,6 @@
     <RecordThing>
       <Key>ItemKitHorizontalAutoMiner</Key>
       <Value>Silnik Rakietowy (Duzy)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureLiquidTankBigInsulated</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemKitLiquidTankInsulated</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureLiquidTankSmallInsulated</Key>
-      <Value/>
     </RecordThing>
   </Things>
   <Slots>
@@ -5022,6 +5022,10 @@
     <Record>
       <Key>JoinMenuServerListRefreshing</Key>
       <Value>Odświeżanie Listy Serwerów</Value>
+    </Record>
+    <Record>
+      <Key>ServerListCannotBeRetrieved</Key>
+      <Value>Serwer możne zostać uruchomiony.</Value>
     </Record>
     <Record>
       <Key>JoinMenuInputAddressTitle</Key>

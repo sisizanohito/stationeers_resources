@@ -4780,6 +4780,18 @@
       <Value>Kit (Tanque Liquido)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemKitLiquidTankInsulated</Key>
+      <Value>Kit (tanque de líquido aislado)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLiquidTankBigInsulated</Key>
+      <Value>Tanque de líquido aislado grande</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLiquidTankSmallInsulated</Key>
+      <Value>Tanque de líquido aislado pequeño</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureModularRocketLiquidTank</Key>
       <Value>Módulo de almacenamiento de líquidos del cohete automatizado</Value>
     </RecordThing>
@@ -5467,16 +5479,8 @@
       <Value>Batería de celdas Inhalámbricas Grande</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureLiquidTankBigInsulated</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemKitLiquidTankInsulated</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureLiquidTankSmallInsulated</Key>
-      <Value/>
+      <Key>DynamicLightNetworkTest</Key>
+      <Value>Prueba de red de luz dinámica</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -6445,6 +6449,10 @@
       <Value>Actualizar lista de servidores</Value>
     </Record>
     <Record>
+      <Key>ServerListCannotBeRetrieved</Key>
+      <Value>El servidor puede ser iniciado.</Value>
+    </Record>
+    <Record>
       <Key>JoinMenuInputAddressTitle</Key>
       <Value>Dirección</Value>
     </Record>
@@ -6767,6 +6775,10 @@
     <Record>
       <Key>SaveLocationBroken</Key>
       <Value>No se puede acceder a la ubicación de los archivos guardados, ¿está usando un carácter no válido? Intente cambiar el directorio de guardar en Configuración.</Value>
+    </Record>
+    <Record>
+      <Key>GamePaused</Key>
+      <Value>Pausa</Value>
     </Record>
     <Record>
       <Key>AlertButtonClose</Key>

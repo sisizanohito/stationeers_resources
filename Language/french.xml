@@ -4914,6 +4914,18 @@
       <Value>Kit (Citerne)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemKitLiquidTankInsulated</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLiquidTankBigInsulated</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLiquidTankSmallInsulated</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureModularRocketLiquidTank</Key>
       <Value>Module de stockage de liquide de fusée autonome</Value>
     </RecordThing>
@@ -5306,18 +5318,6 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPowerTransmitterOmni</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureLiquidTankBigInsulated</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemKitLiquidTankInsulated</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureLiquidTankSmallInsulated</Key>
       <Value/>
     </RecordThing>
   </Things>
@@ -6299,6 +6299,10 @@
       <Value>Rafraîchir la liste</Value>
     </Record>
     <Record>
+      <Key>ServerListCannotBeRetrieved</Key>
+      <Value>Maintenant, le serveur peut être démarré.</Value>
+    </Record>
+    <Record>
       <Key>JoinMenuInputAddressTitle</Key>
       <Value>Adresse</Value>
     </Record>
@@ -6633,6 +6637,10 @@
     <Record>
       <Key>SaveLocationBroken</Key>
       <Value>Impossible d&apos;acceder a la sauvegarde, utilisez vous un caractere invalide ? Essayez de changer le repertoire de sauvegarde dans les parametres.</Value>
+    </Record>
+    <Record>
+      <Key>GamePaused</Key>
+      <Value>Pause</Value>
     </Record>
     <Record>
       <Key>AlertButtonClose</Key>
