@@ -1011,7 +1011,7 @@ Normal coil has a maximum wattage of 5kW. For higher-current applications, use {
     <RecordThing>
       <Key>ItemCoalOre</Key>
       <Value>Ore (Coal)</Value>
-      <Description>Humanity wouldn't have got to space without humble, combustible coal. Burn it in a {THING:StructureSolidFuelGenerator}, smelt it in the {THING:StructureFurnace} to create &lt;color=#0080FFFF&gt;{LINK:AlloysPage;alloys}&lt;/color&gt;, or use it in the {THING:ApplianceReagentProcessor} to make  {THING:ItemSprayCanBlack}. Just don't smear it on your face and do jazz hands. That's not okay.</Description>
+      <Description>Humanity wouldn't have got to space without humble, combustible coal. Burn it in a {THING:StructureSolidFuelGenerator}, smelt it in the {THING:StructureFurnace} to create &lt;color=#0080FFFF&gt;{LINK:AlloysPage;alloys}&lt;/color&gt;, or use it in the {THING:ApplianceReagentProcessor} to make  {THING:ItemSprayCanBlack}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemCompositeFloorGrating</Key>
@@ -2106,7 +2106,7 @@ If water is present in the furnace, it will gather there until the furnace is co
     <RecordThing>
       <Key>StructureGlassDoor</Key>
       <Value>Glass Door</Value>
-      <Description>A highly regarded professional review site.</Description>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureGunTurret</Key>
@@ -5916,6 +5916,21 @@ To use on yourself: put duct tape in your active hand, hold RIGHT MOUSE BUTTON t
       <Description />
     </RecordThing>
     <RecordThing>
+      <Key>ItemKitLiquidTankInsulated</Key>
+      <Value>Kit (Insulated Liquid Tank)</Value>
+      <Description />
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLiquidTankBigInsulated</Key>
+      <Value>Insulated Liquid Tank Big</Value>
+      <Description />
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLiquidTankSmallInsulated</Key>
+      <Value>Insulated Liquid Tank Small</Value>
+      <Description />
+    </RecordThing>
+    <RecordThing>
       <Key>StructureModularRocketLiquidTank</Key>
       <Value>Automated Rocket Liquid Storage Module</Value>
       <Description />
@@ -6926,18 +6941,23 @@ The transmitter must be aligned to the base station in order to transmit any pow
       <Description />
     </RecordThing>
     <RecordThing>
-      <Key>StructureLiquidTankBigInsulated</Key>
-      <Value>Structure Liquid Tank Big Insulated</Value>
+      <Key>DynamicLightNetworkTest</Key>
+      <Value>Dynamic Light Network Test</Value>
       <Description />
     </RecordThing>
     <RecordThing>
-      <Key>ItemKitLiquidTankInsulated</Key>
-      <Value>Item Kit Liquid Tank Insulated</Value>
+      <Key>ItemKitLargeExtendableRadiator</Key>
+      <Value>Item Kit Large Extendable Radiator</Value>
       <Description />
     </RecordThing>
     <RecordThing>
-      <Key>StructureLiquidTankSmallInsulated</Key>
-      <Value>Structure Liquid Tank Small Insulated</Value>
+      <Key>StructureLargeExtendableRadiator</Key>
+      <Value>Structure Large Extendable Radiator</Value>
+      <Description />
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageLargeExtendableRadiator01</Key>
+      <Value>Item Wreckage Large Extendable Radiator01</Value>
       <Description />
     </RecordThing>
   </Things>
@@ -7939,6 +7959,14 @@ The transmitter must be aligned to the base station in order to transmit any pow
       <Value>Refreshing Server List</Value>
     </Record>
     <Record>
+      <Key>CannotConnectToMetaServer</Key>
+      <Value>Cannot Connect To Meta Server</Value>
+    </Record>
+    <Record>
+      <Key>ServerListCannotBeRetrieved</Key>
+      <Value>Server List Cannot Be Retrieved</Value>
+    </Record>
+    <Record>
       <Key>JoinMenuInputAddressTitle</Key>
       <Value>Address</Value>
     </Record>
@@ -8317,6 +8345,14 @@ The transmitter must be aligned to the base station in order to transmit any pow
     <Record>
       <Key>SaveLocationBroken</Key>
       <Value>Unable to access the savefiles location, are you using an invalid character? Try changing the save directory in Settings.</Value>
+    </Record>
+    <Record>
+      <Key>PlayerIsConnecting</Key>
+      <Value>Player is connecting</Value>
+    </Record>
+    <Record>
+      <Key>GamePaused</Key>
+      <Value>Game Paused</Value>
     </Record>
     <Record>
       <Key>AlertButtonClose</Key>
@@ -9102,7 +9138,7 @@ The transmitter must be aligned to the base station in order to transmit any pow
     </Record>
     <Record>
       <Key>LogicState</Key>
-      <Value>State {COLORGREEN:#VAR1#}</Value>
+      <Value>State &lt;color=green&gt;#VAR1#&lt;/color></Value>
     </Record>
     <Record>
       <Key>LogicNoDevice</Key>
@@ -12378,6 +12414,10 @@ Note: Water was previously treated as a gas, but a new system for liquids is bei
       <Key>SettingsVirtualizedRendering</Key>
       <Value>Virtualized Rendering
 </Value>
+    </Record>
+    <Record>
+      <Key>SettingsStartLocalHost</Key>
+      <Value>StartLocalHost</Value>
     </Record>
   </Interface>
   <Colors>
