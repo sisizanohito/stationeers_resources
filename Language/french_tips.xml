@@ -8,8 +8,8 @@
     <String>Appuyez sur {KEY:Jetpack} pour activer ou désactiver rapidement la propulsion de votre {THING:ItemSpacepack}.</String>
     <String>Appuyez sur {KEY:ToggleUI} pour activer ou désactiver l&apos;interface utilisateur afin de pouvoir faire des captures d&apos;écran ou des vidéos.</String>
     <String>Appuyer sur {KEY:Ascend} vous fera monter si votre {THING:ItemSpacepack} est actif, sinon votre personnage essaiera de sauter. Vous pouvez activer ou désactiver le {THING:ItemSpacepack} en appuyant sur {KEY:Jetpack}.</String>
-    <String>Appuyer sur {KEY:Drop} vous fera immédiatement lâcher tout ce qui est dans votre main active. Si vous maintenez la touche {KEY:Drop} enfoncée, l&apos;objet sera lancé. Plus vous le tenez longtemps, plus vous lancerez loin.</String>
     <String>Appuyez sur {KEY:Internals} pour ouvrir ou fermer rapidement votre {THING:ItemSpaceHelmet}.</String>
+    <String>Appuyer sur {KEY:Chatting} pour commencer a discuter avec d&apos;autres joueurs.</String>
     <String>Appuyez sur {KEY:Chatting} pour discuter avec d&apos;autres joueurs. Une petite boîte apparaîtra en bas à droite de l&apos;écran avec le texte que vous écrivez avant de l&apos;envoyer.</String>
     <String>Placez une {THING:MotherboardLogic} dans un {THING:StructureComputer} pour activer le contrôle logique. Vous serez en mesure d&apos;ajouter des conditions et des actions qui contrôleront les états des équipements connectés.</String>
     <String>Lorsque vous modifiez une valeur via un bouton, maintenez {KEY:QuantityModifier} enfoncée pour utiliser des incréments plus petits.</String>
