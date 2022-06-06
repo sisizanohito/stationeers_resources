@@ -3890,6 +3890,10 @@
       <Value>キッチンテーブル (高)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureSmallTableThickSingle</Key>
+      <Value>awd</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureSmallTableThickDouble</Key>
       <Value>小 (テーブル 厚い ダブル)</Value>
     </RecordThing>
