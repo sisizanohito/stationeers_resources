@@ -6601,8 +6601,16 @@
       <Value>説明無し</Value>
     </Record>
     <Record>
+      <Key>AppearanceButtonRandomize</Key>
+      <Value>ランダム</Value>
+    </Record>
+    <Record>
       <Key>SettingsP2PHostEnabled</Key>
       <Value>P2P ホストを有効にする</Value>
+    </Record>
+    <Record>
+      <Key>AppearanceTitleSpecies</Key>
+      <Value>種族</Value>
     </Record>
     <Record>
       <Key>ContactsTrading</Key>
