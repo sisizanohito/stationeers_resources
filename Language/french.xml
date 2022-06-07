@@ -6639,6 +6639,10 @@
       <Value>Impossible d&apos;acceder a la sauvegarde, utilisez vous un caractere invalide ? Essayez de changer le repertoire de sauvegarde dans les parametres.</Value>
     </Record>
     <Record>
+      <Key>PlayerIsConnecting</Key>
+      <Value>Un joueur se connecte</Value>
+    </Record>
+    <Record>
       <Key>GamePaused</Key>
       <Value>Jeu en Pause</Value>
     </Record>
