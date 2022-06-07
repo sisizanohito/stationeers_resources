@@ -6299,10 +6299,6 @@
       <Value>Rafraîchir la liste</Value>
     </Record>
     <Record>
-      <Key>ServerListCannotBeRetrieved</Key>
-      <Value>Maintenant, le serveur peut être démarré.</Value>
-    </Record>
-    <Record>
       <Key>JoinMenuInputAddressTitle</Key>
       <Value>Adresse</Value>
     </Record>
