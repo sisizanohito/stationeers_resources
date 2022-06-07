@@ -7061,11 +7061,6 @@
       <Value>Incompatibilité de version du jeu avec le serveur.</Value>
     </Record>
     <Record>
-      <Key>AlertNoResponse</Key>
-      <Value>Le serveur de jeu ne répond pas. 
-Veuillez réessayer.</Value>
-    </Record>
-    <Record>
       <Key>AlertKicked</Key>
       <Value>Vous avez été expulsé du serveur.</Value>
     </Record>
