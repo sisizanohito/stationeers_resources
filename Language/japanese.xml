@@ -1063,7 +1063,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitChute</Key>
-      <Value>キット (アイテムパイプ)</Value>
+      <Value>キット (シュート)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitComputer</Key>
@@ -1515,27 +1515,27 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureChuteBin</Key>
-      <Value>アイテムパイプ箱</Value>
+      <Value>シュート箱</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureChuteCorner</Key>
-      <Value>アイテムパイプ (角)</Value>
+      <Value>シュート (角)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureChuteInlet</Key>
-      <Value>アイテムパイプ入口</Value>
+      <Value>シュート入口</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureChuteJunction</Key>
-      <Value>アイテムパイプ (交差)</Value>
+      <Value>シュート (交差)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureChuteOutlet</Key>
-      <Value>アイテムパイプ出口</Value>
+      <Value>シュート出口</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureChuteStraight</Key>
-      <Value>アイテムパイプ (直線)</Value>
+      <Value>シュート (直線)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeDoor</Key>
@@ -4250,6 +4250,10 @@
       <Value>植生用ライト</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemAstroloySheets</Key>
+      <Value>アイテム アストロスチール</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemMiningBeltAdvanced</Key>
       <Value>採掘用ベルト MK II</Value>
     </RecordThing>
@@ -4264,6 +4268,22 @@
     <RecordThing>
       <Key>ItemKitPipeLiquid</Key>
       <Value>キット (液体パイプ)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePipeLiquidCrossJunction</Key>
+      <Value>液体パイプ 十字交差</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePipeLiquidStraight</Key>
+      <Value>液体パイプ 直線</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePipeLiquidCorner</Key>
+      <Value>液体パイプ 角</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePipeLiquidCrossJunction3</Key>
+      <Value>液体パイプ 三叉交差</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWaterBottleFiller</Key>
@@ -6930,7 +6950,7 @@
     </Record>
     <Record>
       <Key>Chute</Key>
-      <Value>アイテムパイプ</Value>
+      <Value>シュート</Value>
     </Record>
     <Record>
       <Key>DeconstructToolTipText</Key>
