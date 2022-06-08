@@ -6238,7 +6238,7 @@
     </Record>
     <Record>
       <Key>ServerListCannotBeRetrieved</Key>
-      <Value>Nyní lze spustit server.</Value>
+      <Value>Seznam serverů nelze načíst</Value>
     </Record>
     <Record>
       <Key>JoinMenuInputAddressTitle</Key>
@@ -6581,8 +6581,12 @@
       <Value>Nelze získat přístup k umístění uložených souborů, používáte neplatný znak? Zkuste změnit adresář pro ukládání v Nastavení.</Value>
     </Record>
     <Record>
+      <Key>PlayerIsConnecting</Key>
+      <Value>Hráč se připojuje</Value>
+    </Record>
+    <Record>
       <Key>GamePaused</Key>
-      <Value>Pozastavit</Value>
+      <Value>Hra pozastavena</Value>
     </Record>
     <Record>
       <Key>AlertButtonClose</Key>
@@ -7364,7 +7368,7 @@
     </Record>
     <Record>
       <Key>LogicState</Key>
-      <Value>Stav {COLORGREEN:#VAR1#}</Value>
+      <Value>Stav &lt;color=green&gt;#VAR1#&lt;/color&gt;</Value>
     </Record>
     <Record>
       <Key>LogicNoDevice</Key>
@@ -10459,6 +10463,10 @@ Poznámka: S vodou se dříve zacházelo jako s plynem, ale nyní se vyvíjí no
     <Record>
       <Key>SettingsVirtualizedRendering</Key>
       <Value>Virtualizované vykreslování</Value>
+    </Record>
+    <Record>
+      <Key>SettingsStartLocalHost</Key>
+      <Value>Spustit místního hostitele</Value>
     </Record>
   </Interface>
   <Colors>

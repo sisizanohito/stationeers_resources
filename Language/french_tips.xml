@@ -5,9 +5,7 @@
     <String>Appuyez sur {KEY:ToggleHandPower} pour activer ou désactiver rapidement un outil dans vos mains.</String>
     <String>Appuyez sur {KEY:ToggleLight} pour activer ou désactiver la lumière de votre {THING:ItemSpaceHelmet}.</String>
     <String>Appuyez sur {KEY:EmoteWave} pour faire des signes à un autre joueur.</String>
-    <String>Appuyez sur {KEY:Jetpack} pour activer ou désactiver rapidement la propulsion de votre {THING:ItemSpacepack}.</String>
     <String>Appuyez sur {KEY:ToggleUI} pour activer ou désactiver l&apos;interface utilisateur afin de pouvoir faire des captures d&apos;écran ou des vidéos.</String>
-    <String>Appuyer sur {KEY:Ascend} vous fera monter si votre {THING:ItemSpacepack} est actif, sinon votre personnage essaiera de sauter. Vous pouvez activer ou désactiver le {THING:ItemSpacepack} en appuyant sur {KEY:Jetpack}.</String>
     <String>Appuyez sur {KEY:Internals} pour ouvrir ou fermer rapidement votre {THING:ItemSpaceHelmet}.</String>
     <String>Appuyer sur {KEY:Chatting} pour commencer a discuter avec d&apos;autres joueurs.</String>
     <String>Appuyez sur {KEY:Chatting} pour discuter avec d&apos;autres joueurs. Une petite boîte apparaîtra en bas à droite de l&apos;écran avec le texte que vous écrivez avant de l&apos;envoyer.</String>
