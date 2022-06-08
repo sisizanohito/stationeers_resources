@@ -6233,6 +6233,10 @@
       <Value>Aktualizace seznamu serverů</Value>
     </Record>
     <Record>
+      <Key>CannotConnectToMetaServer</Key>
+      <Value>Nelze se připojit k meta serveru</Value>
+    </Record>
+    <Record>
       <Key>ServerListCannotBeRetrieved</Key>
       <Value>Nyní lze spustit server.</Value>
     </Record>
