@@ -4250,6 +4250,18 @@
       <Value>植生用ライト</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemMiningBeltAdvanced</Key>
+      <Value>採掘用ベルト MK II</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureWindTurbine</Key>
+      <Value>風力タービン</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitWindTurbine</Key>
+      <Value>キット (風力タービン)</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitPipeLiquid</Key>
       <Value>キット (液体パイプ)</Value>
     </RecordThing>
@@ -4270,8 +4282,12 @@
       <Value>キット (砕氷機)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemKitLiquidTank</Key>
+      <Value>キット (液体タンク)</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitLiquidTankInsulated</Key>
-      <Value/>
+      <Value>キット (断熱液体タンク)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidTankBigInsulated</Key>
