@@ -4302,6 +4302,18 @@
       <Value>残骸 風力タービン</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemWreckageWindTurbine004</Key>
+      <Value>残骸 風力タービン</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageWindTurbine005</Key>
+      <Value>残骸 風力タービン</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWaterBottle</Key>
+      <Value>水筒</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemWaterBottleFiller</Key>
       <Value>水筒充填装置</Value>
     </RecordThing>
@@ -4316,6 +4328,38 @@
     <RecordThing>
       <Key>ItemKitIceCrusher</Key>
       <Value>キット (砕氷機)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemMKIIArcWelder</Key>
+      <Value>Mk II アーク溶接機</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemMKIIDrill</Key>
+      <Value>Mk II ドリル</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemMKIIMiningDrill</Key>
+      <Value>Mk II 採掘ドリル</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemMKIIWireCutters</Key>
+      <Value>Mk II ワイヤーカッター</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemMKIIWrench</Key>
+      <Value>Mk II レンチ</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemMKIIDuctTape</Key>
+      <Value>Mk II ダクトテープ</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLiquidTankBig</Key>
+      <Value>大型液体タンク</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLiquidTankSmall</Key>
+      <Value>小型液体タンク</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLiquidTank</Key>
