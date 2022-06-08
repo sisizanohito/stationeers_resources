@@ -4290,6 +4290,18 @@
       <Value>液体パイプ T字交差</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemWreckageWindTurbine001</Key>
+      <Value>残骸 風力タービン</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageWindTurbine002</Key>
+      <Value>残骸 風力タービン</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageWindTurbine003</Key>
+      <Value>残骸 風力タービン</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemWaterBottleFiller</Key>
       <Value>水筒充填装置</Value>
     </RecordThing>
