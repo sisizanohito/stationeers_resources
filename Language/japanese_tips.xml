@@ -13,6 +13,7 @@
     <String>{KEY:Internals}を押すと素早く{THING:ItemSpaceHelmet}の開閉が出来ます。</String>
     <String>{KEY:Chatting}を押して他のプレイヤーとチャットを始めましょう。</String>
     <String>{KEY:RotateLeft} を押してコンストラクションカーソルを左回転、{KEY:RotateRight}で右回転、{KEY:RotateUp}で上回転、{KEY:RotateDown}で下回転、{KEY:RotateRollLeft}で左転回、{KEY:RotateRollRight}で右転回が出来ます。</String>
+    <String>宇宙は思ったより空っぽではありません。</String>
     <String>電源のはいった {THING:StructureArcFurnace} に {THING:ItemIronOre} のスタックを入れて {THING:ItemIronIngot} を精錬します。</String>
     <String>IC チップを使用したロジックを使うには、 {THING:MotherboardLogic} を {THING:StructureComputer} に組み込みます。同じデータネットワーク上のデバイスの状態を制御する条件とアクションを追加できます。</String>
     <String>ワールド上のボタンを押して数値を変更するとき、{KEY:QuantityModifier}を押しながらクリックすることで少量を変更出来ます。</String>
@@ -34,6 +35,7 @@
     <String>{THING:ItemMiningDrill}はフラットモードで平らな床を掘ることが出来ます。</String>
     <String>{THING:ItemWearLamp}があればヘルメットを付けていなくても明るく出来ます。</String>
     <String>{KEY:MouseControl}を押したままにすることでマウスカーソルが有効になり、アイテムをドラッグアンドドロップでインベントリ間を移動させられます。</String>
+    <String>物理はあなたの味方です。そうじゃなくなるまではね。</String>
     <String>普通のフィルターはしょぼいから取り替えたい？ 中フィルターや重フィルターは5倍、20倍長持ちです。そのかわりより高価ですが。</String>
   </GameTip>
 </Language>
