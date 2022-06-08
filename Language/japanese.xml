@@ -4286,6 +4286,10 @@
       <Value>液体パイプ 三叉交差</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructurePipeLiquidTJunction</Key>
+      <Value>液体パイプ T字交差</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemWaterBottleFiller</Key>
       <Value>水筒充填装置</Value>
     </RecordThing>
