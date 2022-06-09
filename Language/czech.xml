@@ -271,7 +271,7 @@
     </Record>
     <Record>
       <Key>Consume</Key>
-      <Value>Zkonzumovat</Value>
+      <Value>Spotřebovat</Value>
     </Record>
     <Record>
       <Key>Plant</Key>
@@ -311,11 +311,11 @@
     </Record>
     <Record>
       <Key>Powered</Key>
-      <Value>Napájeno</Value>
+      <Value>Napájené</Value>
     </Record>
     <Record>
       <Key>Unpowered</Key>
-      <Value>Nenapájeno</Value>
+      <Value>Nenapájené</Value>
     </Record>
     <Record>
       <Key>False</Key>
@@ -4786,6 +4786,10 @@
     <RecordThing>
       <Key>ItemAstroloySheets</Key>
       <Value>Astroloy plechy</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemMiningBeltAdvanced</Key>
+      <Value>Hornický opasek MK II</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWindTurbine</Key>
