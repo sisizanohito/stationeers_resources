@@ -311,11 +311,11 @@
     </Record>
     <Record>
       <Key>Powered</Key>
-      <Value>Napájený</Value>
+      <Value>Napájeno</Value>
     </Record>
     <Record>
       <Key>Unpowered</Key>
-      <Value>Nenapájený</Value>
+      <Value>Nenapájeno</Value>
     </Record>
     <Record>
       <Key>False</Key>
