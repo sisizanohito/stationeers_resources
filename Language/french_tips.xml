@@ -12,23 +12,31 @@
     <String>Appuyer sur {KEY:SwapHands} change de main active. Appuyer sur {KEY:ActiveHandSlot} affiche les options d&apos;interaction de l&apos;objet qui se trouve dans votre main active.</String>
     <String>Appuyez sur {KEY:Internals} pour ouvrir ou fermer rapidement votre {THING:ItemSpaceHelmet}.</String>
     <String>Appuyer sur {KEY:Chatting} pour commencer a discuter avec d&apos;autres joueurs.</String>
+    <String>Pressez {KEY:RotateLeft} afin de tourner vers la gauche l&apos;objet en construction, {KEY:RotateRight} pour tourner vers la droite, {KEY:RotateUp} pour tourner vers le haut, {KEY:RotateDown} pour tourner vers le bas, {KEY:RotateRollLeft} pour pivoter vers la gauche, et {KEY:RotateRollRight} pour pivoter vers la droite.</String>
+    <String>L&apos;espace n&apos;est pas aussi vide qu&apos;il n&apos;y paraît.</String>
+    <String>Placez une quantité d&apos;{THING:ItemIronOre} dans un {THING:StructureArcFurnace} afin de le transformer en {THING:ItemIronIngot}.</String>
     <String>Placez une {THING:MotherboardLogic} dans un {THING:StructureComputer} pour activer le contrôle logique. Vous serez en mesure d&apos;ajouter des conditions et des actions qui contrôleront les états des équipements connectés.</String>
-    <String>Utilisez un {THING:ItemKitLogicInputOutput} pour créer un {THING:StructureLogicReader} ou {THING:StructureLogicWriter}. Les unités logiques lecture vont vous permettre de lire les valeurs d&apos;autres appareils, les unités logiques écriture vont vous permettent de modifier les valeurs sur les appareils. Lorsqu&apos;il est combiné avec des unités mathématiques, vous pouvez créer des systèmes automatisés extrêmement complexes.</String>
-    <String>Utilisez un {THING:StructureRecycler} pour transformer les objets que vous ne voulez plus en réactifs. Placez le {THING:ItemReagentMix} dans une {THING:StructureCentrifuge} pour en extraire les différents minerais qui seront utilisables dans un {THING:StructureFurnace}.</String>
-    <String>Utilisez un {THING:StructureHydraulicPipeBender} pour fabriquer des éléments atmosphériques, tels que le {THING:ItemKitAtmospherics} qui vous permet de construire des machines utiles telles que {THING:StructureAirConditioner} ou {THING:StructureFiltration}.</String>
+    <String>Lorsque vous modifiez une valeur ou une quantité via un bouton, maintenez {KEY:QuantityModifier} enfoncé avant de cliquer pour une incrémentation de valeurs plus petite.</String>
+    <String>Utilisez un {THING:ItemKitLogicInputOutput} pour créer un {THING:StructureLogicReader} ou un {THING:StructureLogicWriter}. Les {THING:StructureLogicReader} vont vous permettre de lire les valeurs des autres appareils, tandis que les {THING:StructureLogicWriter} vont vous permettre d&apos;écrire des valeurs sur les appareils. En les combinant avec des unités mathématiques, vous pouvez créer des systèmes automatisés extrêmement complexes.</String>
+    <String>Utilisez un {THING:ItemKitLogicInputOutput} pour créer un {THING:StructureLogicBatchReader} ou un {THING:StructureLogicBatchWriter}. Les lecteurs vous permettent de lire les valeurs d&apos;un groupe d&apos;appareils, les unités d&apos;écriture groupée vous permettent de modifier les valeurs sur des groupes d&apos;appareils.</String>
+    <String>Utilisez un {THING:StructureRecycler} pour transformer les objets dont vous voulez vous débarrasser en réactifs ré-utilisables. Placez le {THING:ItemReagentMix} dans une {THING:StructureCentrifuge} pour en extraire les différents minerais qui seront utilisables dans un {THING:StructureFurnace}.</String>
+    <String>Utilisez un {THING:StructureHydraulicPipeBender} pour fabriquer des éléments atmosphériques, tels que le {THING:ItemKitAtmospherics} qui vous permet de construire des machines utiles telles que le {THING:StructureAirConditioner} ou la {THING:StructureFiltration}.</String>
     <String>Plus votre combinaison est abîmée, moins elle fonctionnera efficacement. Utilisez du ruban adhésif pour colmater les fissures.</String>
     <String>Plus votre combinaison est abîmée, moins elle fonctionnera efficacement.</String>
-    <String>Votre {THING:ItemEvaSuit} et {THING:ItemSpaceHelmet} du départ va prendre feu avec une température chaude. Utilisez une {THING:ItemHardSuit} dans des environnements dangereux.</String>
-    <String>Le programme Stationeers a été créé par l’Agence de développement Offworld pour soutenir l’exploration du système solaire, et au-delà.</String>
+    <String>Après l’effondrement du Manuel original de Stationeers dans une singularité, il a été remplacé par le Stationpedia. Appuyez sur {KEY:Help} pour l’ouvrir et obtenir des conseils dans le jeu.</String>
+    <String>Votre {THING:ItemEvaSuit} et votre {THING:ItemSpaceHelmet} initiaux prendront feu à des températures élevée. Utilisez une {THING:ItemHardSuit} dans des environnements dangereux.</String>
+    <String>Le programme Stationeers a été créé par l’Agence de Développement Extraterrestre pour soutenir l’exploration du système solaire, et au-delà.</String>
+    <String>Faites attention aux avertissements de votre combinaison. Ils peuvent vous aider à prévenir d&apos;éventuelles catastrophes.</String>
     <String>Le {THING:ItemHardBackpack} permet de transporter plus d&apos;objets, mais il ne peut pas vous porter !</String>
     <String>Plus votre combinaison est abîmée, moins elle fonctionnera efficacement.</String>
+    <String>Si votre station vous semble sombre, remontez-vous le moral avec les airs du {THING:StructureKlaxon} ou construisez votre propre échantillonneur en utilisant les circuits logiques.</String>
     <String>{THING:StructureHarvie} permet d&apos;automatiser complétement la plantation, la croissance, et la récolte des plantes.</String>
-    <String>Les info-bulles étendues peuvent être activées/désactivées dans le menu paramètres.</String>
+    <String>Les info-bulles détaillées peuvent être activées ou désactivées dans le menu paramètres.</String>
     <String>Vous pouvez effacer toutes les fenêtres ouvertes sur votre écran à la fois en appuyant sur {KEY: HideAllWindows}.</String>
     <String>Le {THING:ItemCrowbar} peut être utilisé pour ouvrir les portes et les contrôleurs d&apos;alimentation.</String>
-    <String>La {THING:ItemMiningDrill} peut être changé en mode &apos;aplanir&apos; pour vous aider à créer des planchers plats lors de l&apos;extraction.</String>
-    <String>La {THING:ItemWearLamp} peut être utilisé pour l&apos;illumination sans porter de casque.</String>
-    <String>En maintenant {KEY:MouseControl} vous pouvez activer votre curseur de la souris et faire glisser des éléments dans et hors de votre inventaire ou entre les emplacements.</String>
+    <String>La {THING:ItemMiningDrill} peut être configurée en mode &apos;aplanir&apos; pour vous aider à créer un sol plat lors du minage.</String>
+    <String>La {THING:ItemWearLamp} peut être utilisée pour vous éclairer sans porter son casque.</String>
+    <String>En maintenant {KEY:MouseControl}, vous pouvez cliquer et déplacer des éléments dans et hors de votre inventaire ou entre les divers emplacements.</String>
     <String>Le casque spatial isole les Stationeers contre tout, de l’aspirateur fou aux odeurs de cuisine bizarres.</String>
     <String>La physique est ton amie. Jusqu’à ce que ce ne soit plus le cas.</String>
     <String>Le dispositif de réglage de l’adhérence par frottement est un modèle double rotation avec une poignée à colonne unique. Ce n’est pas un simple tournevis</String>
