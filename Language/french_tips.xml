@@ -7,6 +7,7 @@
     <String>Appuyez sur {KEY:EmoteWave} pour faire des signes à un autre joueur.</String>
     <String>Appuyez sur {KEY:Jetpack} pour basculer votre {THING:ItemSpacepack} sur on ou off.</String>
     <String>Appuyez sur {KEY:ToggleUI} pour activer ou désactiver l&apos;interface utilisateur afin de pouvoir faire des captures d&apos;écran ou des vidéos.</String>
+    <String>Appuyez sur {KEY:Ascend} pour monter quand votre {THING:ItemSpacepack} est activé. Appuyez sur {KEY:Descend} pour descendre.</String>
     <String>Appuyez sur {KEY:InventorySelect} permute l&apos;objet entre un emplacement dans votre inventaire et votre main active.</String>
     <String>Appuyer sur {KEY:Drop} lâche ce que vous avez en main. Maintenir {KEY:Drop} pour le lancer; plus vous maintenez longtemps cette touche, plus vous lancerez loin.</String>
     <String>Appuyer sur {KEY:SwapHands} change de main active. Appuyer sur {KEY:ActiveHandSlot} affiche les options d&apos;interaction de l&apos;objet qui se trouve dans votre main active.</String>
@@ -39,9 +40,10 @@
     <String>En maintenant {KEY:MouseControl}, vous pouvez cliquer et déplacer des éléments dans et hors de votre inventaire ou entre les divers emplacements.</String>
     <String>Le casque spatial isole les Stationeers contre tout, de l’aspirateur fou aux odeurs de cuisine bizarres.</String>
     <String>La physique est ton amie. Jusqu’à ce que ce ne soit plus le cas.</String>
-    <String>Le dispositif de réglage de l’adhérence par frottement est un modèle double rotation avec une poignée à colonne unique. Ce n’est pas un simple tournevis</String>
-    <String>Illégales sur Terre depuis l’événement de Chengdu, les batteries nucléaires de Norsec ont trouvé un nouveau marché hors-monde nettement moins soucieux de la sécurité.</String>
-    <String>Faim ? Les barres de céréales sont compactes, nutritives et rafraîchissantes et peu radioactive.</String>
-    <String>Marre de remplacer les filtres normaux ? Les filtres moyens et grands durent 5x et 20x aussi longtemps, mais sont plus chers.</String>
+    <String>L&apos;ajusteur d&apos;adhérence par friction est un modèle bi-rotationnel avec une poignée uni-colonnée. Ce n&apos;est pas qu&apos;un tournevis.</String>
+    <String>Ce n&apos;est pas vraiment du &quot;lait&quot;, mais un produit de synthèse, brevetée par Agrizero, de {THING:ItemSoyOil} et de {THING:ItemFern}, délicatement mélangés dans la {THING:ApplianceChemistryStation}.</String>
+    <String>Illégales sur Terre depuis l’événement de Chengdu, les batteries nucléaires de Norsec ont trouvé un nouveau marché extraterrestre nettement moins soucieux de la sécurité.</String>
+    <String>Faim ? Les barres de céréales sont compactes, nutritives et rafraîchissantes avec peu de rayonnements.</String>
+    <String>Marre de remplacer les filtres classiques ? Les filtres moyens et grands durent respectivement 5x et 20x plus longtemps, mais ils sont plus couteux.</String>
   </GameTip>
 </Language>

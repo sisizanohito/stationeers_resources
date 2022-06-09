@@ -6299,6 +6299,10 @@
       <Value>Rafraîchir la liste</Value>
     </Record>
     <Record>
+      <Key>ServerListCannotBeRetrieved</Key>
+      <Value>Impossible de récupérer la liste des serveurs</Value>
+    </Record>
+    <Record>
       <Key>JoinMenuInputAddressTitle</Key>
       <Value>Adresse</Value>
     </Record>
@@ -7059,6 +7063,11 @@
     <Record>
       <Key>AlertVersionMismatch</Key>
       <Value>Incompatibilité de version du jeu avec le serveur.</Value>
+    </Record>
+    <Record>
+      <Key>AlertNoResponse</Key>
+      <Value>Le serveur de jeu ne répond pas.
+Veuillez réessayer.</Value>
     </Record>
     <Record>
       <Key>AlertKicked</Key>
