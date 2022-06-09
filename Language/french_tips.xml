@@ -2,10 +2,14 @@
   <Code>FR</Code>
   <GameTip>
     <String>Appuyez sur {KEY:HelmetSlot}, {KEY:SuitSlot}, {KEY:BackSlot}, {KEY:UniformSlot} ou sur {KEY:ToolBeltSlot} pour basculer entre les fenêtres des emplacements des équipements que vous portez. Appuyez et maintenez enfoncé pour permuter l&apos;équipement dans votre main active.</String>
-    <String>Appuyez sur {KEY:ToggleHandPower} pour activer ou désactiver rapidement un outil dans vos mains.</String>
+    <String>Appuyer sur {KEY:ToggleHandPower} ou sur {KEY:SecondaryAction} allume ou éteint l&apos;appareil en main.</String>
     <String>Appuyez sur {KEY:ToggleLight} pour activer ou désactiver la lumière de votre {THING:ItemSpaceHelmet}.</String>
     <String>Appuyez sur {KEY:EmoteWave} pour faire des signes à un autre joueur.</String>
+    <String>Appuyez sur {KEY:Jetpack} pour basculer votre {THING:ItemSpacepack} sur on ou off.</String>
     <String>Appuyez sur {KEY:ToggleUI} pour activer ou désactiver l&apos;interface utilisateur afin de pouvoir faire des captures d&apos;écran ou des vidéos.</String>
+    <String>Appuyez sur {KEY:InventorySelect} permute l&apos;objet entre un emplacement dans votre inventaire et votre main active.</String>
+    <String>Appuyer sur {KEY:Drop} lâche ce que vous avez en main. Maintenir {KEY:Drop} pour le lancer; plus vous maintenez longtemps cette touche, plus vous lancerez loin.</String>
+    <String>Appuyer sur {KEY:SwapHands} change de main active. Appuyer sur {KEY:ActiveHandSlot} affiche les options d&apos;interaction de l&apos;objet qui se trouve dans votre main active.</String>
     <String>Appuyez sur {KEY:Internals} pour ouvrir ou fermer rapidement votre {THING:ItemSpaceHelmet}.</String>
     <String>Appuyer sur {KEY:Chatting} pour commencer a discuter avec d&apos;autres joueurs.</String>
     <String>Placez une {THING:MotherboardLogic} dans un {THING:StructureComputer} pour activer le contrôle logique. Vous serez en mesure d&apos;ajouter des conditions et des actions qui contrôleront les états des équipements connectés.</String>
