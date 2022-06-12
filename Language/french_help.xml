@@ -19,12 +19,6 @@
       <Text/>
     </StationpediaPage>
     <StationpediaPage>
-      <Key>CartridgePage</Key>
-      <Title>Cartouches</Title>
-      <Text>Les cartes peuvent être insérée dans la {THING:ItemTablet} ou la {THING:ItemAdvancedTablet} pour obtenir différents diagnostiques ou analyses.
-{LIST_OF_CARTRIDGES}</Text>
-    </StationpediaPage>
-    <StationpediaPage>
       <Key>FabricatorPage</Key>
       <Title>Machines</Title>
       <Text>Ce sont des machines automatiques qui peuvent être utilisées pour fabriquer ce dont vous avez besoin dans le jeu. Elles utilisent généralement des {LINK:IngotPage;lingots} pour extraire les {LINK:ReagentPage;reactifs} dont elles ont besoin pour fabriquer des objets.
