@@ -250,6 +250,20 @@ Pression de fusion {0}</Text>
       <Text>Limite d&apos;embrassement {0} à {1}</Text>
     </StationpediaPage>
     <StationpediaPage>
+      <Key>NutritionPage</Key>
+      <Title>Faim et alimentation</Title>
+      <DisplayFilter>Guides</DisplayFilter>
+      <Text>{HEADER:FAIM}
+Les Stationeers finissent par avoir faim, mais les aliments que vous créez ne sont pas égaux. De plus, votre taux de faim varie en fonction des paramètres et de la difficulté du jeu. Manger ne consommera que la partie d&apos;un consommable nécessaire pour restaurer votre faim à 100%.
+
+Les Stationeers  reçoivent des provisions de nourriture, telles que la &lt;color=#0080FFFF&gt;{LINK:Agrizero;Agrizero}&lt;/color&gt; {THING:ItemCerealBar}, dans leur atterrisseur à leur arrivée sur un nouveau monde. Lorsque celles-ci sont épuisées, vous devez trouver de nouvelles sources de subsistance, comme cultiver les vôtres à partir des graines fournies, ou contacter un {LINK:TradingPage;commerçant}. 
+
+{HEADER:ALIMENTATION}
+Manger des ingrédients crus ne satisfera pas votre faim autant qu&apos;un repas, c&apos;est-à-dire qu&apos;ils restaureront une plus petite proportion de votre niveau de faim. Les éléments basiques composant la nourriture de base sont produits à l&apos;aide de la &lt;color=#0080FFFF&gt;{LINK:OrganicPage;station hydroponique}&lt;/color&gt;. Ceux-ci peuvent être transformés en ingrédients utilisables dans des recettes à l&apos;aide du {THING:ApplianceReagentProcessor}, puis transformés en repas à l&apos;aide d&apos;un {THING:ApplianceMicrowave} ou d&apos;un {THING:StructureAutomatedOven}.
+
+Votre niveau de faim peut être ajusté dans le menu général des paramètres en ajustant le curseur &quot;Niveau de faim/soif&quot;. Notez que ce réglage ajuste également votre niveau de {LINK:HydrationPage;soif}. </Text>
+    </StationpediaPage>
+    <StationpediaPage>
       <Key>HydrationPage</Key>
       <Title>Soif + hydratation</Title>
       <DisplayFilter>Guides</DisplayFilter>
