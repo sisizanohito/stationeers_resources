@@ -4322,6 +4322,10 @@
       <Value>液体パイプ 三叉交差</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructurePipeLiquidCrossJunction4</Key>
+      <Value>液体パイプ 四叉交差</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>StructurePipeLiquidTJunction</Key>
       <Value>液体パイプ T字交差</Value>
     </RecordThing>
