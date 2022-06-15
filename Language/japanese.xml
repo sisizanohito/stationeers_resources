@@ -4250,6 +4250,10 @@
       <Value>植生用ライト</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureSolarPanelReinforced</Key>
+      <Value>ソーラーパネル (ヘビー)</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemAstroloySheets</Key>
       <Value>アイテム アストロスチール</Value>
     </RecordThing>
@@ -4330,6 +4334,26 @@
       <Value>キット (砕氷機)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemPipeLiquidRadiator</Key>
+      <Value>キット (液体放熱器)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitLiquidRegulator</Key>
+      <Value>キット (液体調整弁)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureBackLiquidPressureRegulator</Key>
+      <Value>液体逆調整弁</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLiquidPressureRegulator</Key>
+      <Value>液体調整弁</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemMKIIScrewdriver</Key>
+      <Value>Mk II ドライバー</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemMKIIArcWelder</Key>
       <Value>Mk II アーク溶接機</Value>
     </RecordThing>
@@ -4381,12 +4405,52 @@
       <Key>StructureRocketModuleMiningJunk</Key>
     </RecordThing>
     <RecordThing>
+      <Key>StructureWaterDigitalValve</Key>
+      <Value>液体デジタル弁</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLiquidDrain</Key>
+      <Value>液体ドレイン</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StopWatch</Key>
+      <Value>ストップウォッチ</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>PassiveSpeaker</Key>
+      <Value>パッシブスピーカー</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>DeviceLfoVolume</Key>
+      <Value>低周波発振器</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitFridgeBig</Key>
       <Value>キット (大型冷蔵庫)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>SeedBag_Potato</Key>
+      <Value>ジャガイモの種</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>SeedBag_Corn</Key>
+      <Value>トウモロコシの種子</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>SeedBag_Wheet</Key>
       <Value>小麦の種</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>SeedBag_Tomato</Key>
+      <Value>トマトの種</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>SeedBag_Soybean</Key>
+      <Value>大豆の種子</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>SeedBag_Rice</Key>
+      <Value>米の種</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAdvancedComposter</Key>
