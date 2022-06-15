@@ -4110,6 +4110,14 @@
       <Value>残骸 衛生アンテナ</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemWreckageElectrolysis1</Key>
+      <Value>残骸 電気分解機</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageElectrolysis2</Key>
+      <Value>残骸 電気分解機</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemWreckageLight1</Key>
       <Value>残骸 ライト</Value>
     </RecordThing>
@@ -6693,12 +6701,20 @@
       <Value>ゲームモード</Value>
     </Record>
     <Record>
+      <Key>NewWorldGravity</Key>
+      <Value>重力</Value>
+    </Record>
+    <Record>
       <Key>NewWorldTemperature</Key>
       <Value>温度</Value>
     </Record>
     <Record>
       <Key>NewWorldPressure</Key>
       <Value>圧力</Value>
+    </Record>
+    <Record>
+      <Key>NewWorldSolarAngle</Key>
+      <Value>太陽の角度</Value>
     </Record>
     <Record>
       <Key>SettingsMenuAppearance</Key>
@@ -6887,6 +6903,10 @@
     <Record>
       <Key>Colour</Key>
       <Value>色</Value>
+    </Record>
+    <Record>
+      <Key>Gravity</Key>
+      <Value>重力</Value>
     </Record>
     <Record>
       <Key>AtmosphereScatteringField</Key>
