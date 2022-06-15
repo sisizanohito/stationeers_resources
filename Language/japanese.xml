@@ -4410,6 +4410,10 @@
       <Value>キット (砕氷機)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureLiquidPipeRadiator</Key>
+      <Value>液体パイプ放熱器</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemPipeLiquidRadiator</Key>
       <Value>キット (液体放熱器)</Value>
     </RecordThing>
