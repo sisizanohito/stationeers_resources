@@ -6713,6 +6713,10 @@
       <Value>圧力</Value>
     </Record>
     <Record>
+      <Key>NewWorldSolarEnergy</Key>
+      <Value>太陽エネルギー</Value>
+    </Record>
+    <Record>
       <Key>NewWorldSolarAngle</Key>
       <Value>太陽の角度</Value>
     </Record>
