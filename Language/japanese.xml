@@ -4262,6 +4262,14 @@
       <Value>植生用ライト</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureWeatherStation</Key>
+      <Value>ウェザーステーション</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitWeatherStation</Key>
+      <Value>キット (ウェザーステーション)</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemEmptyCan</Key>
       <Value>空き缶</Value>
     </RecordThing>
@@ -4348,6 +4356,38 @@
     <RecordThing>
       <Key>ItemWreckageWindTurbine005</Key>
       <Value>残骸 風力タービン</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageStructureWeatherStation001</Key>
+      <Value>残骸 ウェザーステーション</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageStructureWeatherStation002</Key>
+      <Value>残骸 ウェザーステーション</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageStructureWeatherStation003</Key>
+      <Value>残骸 ウェザーステーション</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageStructureWeatherStation004</Key>
+      <Value>残骸 ウェザーステーション</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageStructureWeatherStation005</Key>
+      <Value>残骸 ウェザーステーション</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageStructureWeatherStation006</Key>
+      <Value>残骸 ウェザーステーション</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageStructureWeatherStation007</Key>
+      <Value>残骸 ウェザーステーション</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageStructureWeatherStation008</Key>
+      <Value>残骸 ウェザーステーション</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWaterBottle</Key>
