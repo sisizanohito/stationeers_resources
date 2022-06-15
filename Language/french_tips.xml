@@ -12,7 +12,7 @@
     <String>Appuyer sur {KEY:Drop} lâche ce que vous avez en main. Maintenir {KEY:Drop} pour le lancer; plus vous maintenez longtemps cette touche, plus vous lancerez loin.</String>
     <String>Appuyer sur {KEY:SwapHands} change de main active. Appuyer sur {KEY:ActiveHandSlot} affiche les options d&apos;interaction de l&apos;objet qui se trouve dans votre main active.</String>
     <String>Appuyez sur {KEY:Internals} pour ouvrir ou fermer rapidement votre {THING:ItemSpaceHelmet}.</String>
-    <String>Appuyer sur {KEY:Chatting} pour commencer a discuter avec d&apos;autres joueurs.</String>
+    <String>Appuyer sur {KEY:Chatting} pour discuter avec d&apos;autres joueurs.</String>
     <String>Pressez {KEY:RotateLeft} afin de tourner vers la gauche l&apos;objet en construction, {KEY:RotateRight} pour tourner vers la droite, {KEY:RotateUp} pour tourner vers le haut, {KEY:RotateDown} pour tourner vers le bas, {KEY:RotateRollLeft} pour pivoter vers la gauche, et {KEY:RotateRollRight} pour pivoter vers la droite.</String>
     <String>L&apos;espace n&apos;est pas aussi vide qu&apos;il n&apos;y paraît.</String>
     <String>Placez une quantité d&apos;{THING:ItemIronOre} dans un {THING:StructureArcFurnace} afin de le transformer en {THING:ItemIronIngot}.</String>
