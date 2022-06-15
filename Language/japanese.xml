@@ -4246,8 +4246,32 @@
       <Value>残骸 複合材ドアガラス</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureSpawnPoint</Key>
+      <Value>スポーンポイント</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureGrowLight</Key>
       <Value>植生用ライト</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemEmptyCan</Key>
+      <Value>空き缶</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemPumpkinSoup</Key>
+      <Value>カボチャスープ</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCornSoup</Key>
+      <Value>コーンスープ</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemBiomass</Key>
+      <Value>バイオマス</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCharcoal</Key>
+      <Value>木炭</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureSolarPanelReinforced</Key>
@@ -4453,6 +4477,18 @@
       <Value>米の種</Value>
     </RecordThing>
     <RecordThing>
+      <Key>SeedBag_Pumpkin</Key>
+      <Value>カボチャの種</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>SeedBag_Fern</Key>
+      <Value>シダの種</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>Fertilizer</Key>
+      <Value>肥料</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitAdvancedComposter</Key>
       <Value>キット (高度なコンポスター)</Value>
     </RecordThing>
@@ -4471,6 +4507,10 @@
     <RecordThing>
       <Key>ItemKitHorizontalAutoMiner</Key>
       <Value>キット (OGRE)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemLaptop</Key>
+      <Value>ノート PC</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitInteriorDoors</Key>
