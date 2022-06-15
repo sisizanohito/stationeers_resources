@@ -5159,6 +5159,10 @@
       <Value>有機物</Value>
     </Record>
     <Record>
+      <Key>PersonalEyeWear</Key>
+      <Value>メガネ</Value>
+    </Record>
+    <Record>
       <Key>PersonalClothing</Key>
       <Value>衣服</Value>
     </Record>
