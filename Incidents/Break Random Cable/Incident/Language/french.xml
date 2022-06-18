@@ -5,10 +5,6 @@
   <Font>font_extended</Font>
   <Interface>
     <Record>
-      <Key>Incident_BrokenCable_Title</Key>
-      <Value>Bruler n&apos;importe quel câble</Value>
-    </Record>
-    <Record>
       <Key>Incident_BrokenCable</Key>
       <Value>De fortes impulsions électriques ont été détectées, gare aux câbles brûlés.</Value>
     </Record>
