@@ -3,14 +3,5 @@
   <Name>French</Name>
   <Code>FR</Code>
   <Font>font_extended</Font>
-  <Interface>
-    <Record>
-      <Key>Incident_Storm_Title</Key>
-      <Value>Basculer le temps d&apos;orage</Value>
-    </Record>
-    <Record>
-      <Key>Incident_Storm</Key>
-      <Value>Basculer le temps d&apos;orage.</Value>
-    </Record>
-  </Interface>
+  <Interface/>
 </Language>

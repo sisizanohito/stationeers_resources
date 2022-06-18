@@ -8,9 +8,5 @@
       <Key>Incident_MeteorInbound_Title</Key>
       <Value>Pluie de météorites</Value>
     </Record>
-    <Record>
-      <Key>Incident_MeteorInbound</Key>
-      <Value>Des scans satellites ont détecté un gros objet en direction de votre secteur. Déplacez-vous vers un environnement sûr.</Value>
-    </Record>
   </Interface>
 </Language>
