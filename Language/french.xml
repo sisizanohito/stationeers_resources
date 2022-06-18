@@ -5601,10 +5601,6 @@
       <Value>Saisir le pied gauche</Value>
     </Record>
     <Record>
-      <Key>GrabRightFoot</Key>
-      <Value>Saisir le pied droite</Value>
-    </Record>
-    <Record>
       <Key>GrabHead</Key>
       <Value>Saisir la tête</Value>
     </Record>
@@ -5613,16 +5609,8 @@
       <Value>Saisir le bras gauche</Value>
     </Record>
     <Record>
-      <Key>GrabUpperArmR</Key>
-      <Value>Saisir le bras droite</Value>
-    </Record>
-    <Record>
       <Key>GrabLowerArmL</Key>
       <Value>Saisir le bras gauche</Value>
-    </Record>
-    <Record>
-      <Key>GrabLowerArmR</Key>
-      <Value>Saisir le bras droite</Value>
     </Record>
     <Record>
       <Key>GrabThighR</Key>
@@ -5705,10 +5693,6 @@
       <Value>Utiliser</Value>
     </Record>
     <Record>
-      <Key>Export</Key>
-      <Value>Récupérer</Value>
-    </Record>
-    <Record>
       <Key>Import</Key>
       <Value>Déposer</Value>
     </Record>
@@ -5735,10 +5719,6 @@
     <Record>
       <Key>CaptainsChair</Key>
       <Value>Siège du Capitaine</Value>
-    </Record>
-    <Record>
-      <Key>PassengersChair</Key>
-      <Value>Siège du passager</Value>
     </Record>
     <Record>
       <Key>Button3</Key>
@@ -5915,22 +5895,6 @@
     <Record>
       <Key>Magazine</Key>
       <Value>Chargeur</Value>
-    </Record>
-    <Record>
-      <Key>TemperatureUp</Key>
-      <Value>Monter température</Value>
-    </Record>
-    <Record>
-      <Key>TemperatureDown</Key>
-      <Value>Baisser température</Value>
-    </Record>
-    <Record>
-      <Key>ThrustUp</Key>
-      <Value>Monter poussée</Value>
-    </Record>
-    <Record>
-      <Key>ThrustDown</Key>
-      <Value>Baisser poussée</Value>
     </Record>
     <Record>
       <Key>Button5</Key>
