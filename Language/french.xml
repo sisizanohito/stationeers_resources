@@ -7667,14 +7667,6 @@ Soyez très prudent lorsque vous marchez ou sautez, car vous pouvez parcourir un
       <Value>Son</Value>
     </Record>
     <Record>
-      <Key>WarningControlConflict</Key>
-      <Value>Conflits des touches de contrôle</Value>
-    </Record>
-    <Record>
-      <Key>WarningControlConflictDescription</Key>
-      <Value>S&apos;il vous plait, visiter le menu des touches de contrôle et corriger les conflits</Value>
-    </Record>
-    <Record>
       <Key>NewWorldGameMode</Key>
       <Value>Mode de jeu</Value>
     </Record>
