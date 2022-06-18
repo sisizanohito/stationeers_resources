@@ -6527,10 +6527,6 @@
       <Value>Réflections</Value>
     </Record>
     <Record>
-      <Key>SettingsMasterVolume</Key>
-      <Value>Volume maître</Value>
-    </Record>
-    <Record>
       <Key>SettingsTitleMixer</Key>
       <Value>Mélangeur</Value>
     </Record>
@@ -6567,10 +6563,6 @@
       <Value>Sauvegarde réussie</Value>
     </Record>
     <Record>
-      <Key>SaveLocationBroken</Key>
-      <Value>Impossible d&apos;acceder a la sauvegarde, utilisez vous un caractere invalide ? Essayez de changer le repertoire de sauvegarde dans les parametres.</Value>
-    </Record>
-    <Record>
       <Key>PlayerIsConnecting</Key>
       <Value>Un joueur se connecte</Value>
     </Record>
@@ -6603,20 +6595,16 @@
       <Value>Mot de passe</Value>
     </Record>
     <Record>
-      <Key>ButtonKick</Key>
-      <Value>Ejecter</Value>
-    </Record>
-    <Record>
       <Key>ButtonBan</Key>
       <Value>Bannir</Value>
     </Record>
     <Record>
       <Key>ButtoConfirmExitAsServer</Key>
-      <Value>Êtes-vous sûr de vouloir quitter le jeu sans enregistrer ? Votre progression sera perdu.</Value>
+      <Value>Êtes-vous sûr de vouloir quitter le jeu sans enregistrer ? Votre progression sera perdue.</Value>
     </Record>
     <Record>
       <Key>DialogConfirmNoticeUnsaved</Key>
-      <Value>Êtes-vous sûr de vouloir quitter la session sans enregistrer ? Votre progression sera perdu.</Value>
+      <Value>Êtes-vous sûr de vouloir quitter le jeu sans enregistrer ? Votre progression sera perdue.</Value>
     </Record>
     <Record>
       <Key>ButtonExit</Key>
@@ -6639,20 +6627,12 @@
       <Value>Afficher le portrait</Value>
     </Record>
     <Record>
-      <Key>NewWorldAreaMoon</Key>
-      <Value>Lune</Value>
-    </Record>
-    <Record>
       <Key>SettingsAntialiasing</Key>
       <Value>Méthode d&apos;antialiasing</Value>
     </Record>
     <Record>
       <Key>SettingsMenuMultiplayer</Key>
       <Value>Multijoueur</Value>
-    </Record>
-    <Record>
-      <Key>SettingsAdvertiseServer</Key>
-      <Value>Message serveur</Value>
     </Record>
     <Record>
       <Key>SettingsServerName</Key>
