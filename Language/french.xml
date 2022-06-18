@@ -6147,10 +6147,6 @@
       <Value>Outils électriques</Value>
     </Record>
     <Record>
-      <Key>TraderErrorConnectWires</Key>
-      <Value>Le commerçant ne pouvait pas terminer l’échange, vérifier si vos câbles ne sont pas coupés !</Value>
-    </Record>
-    <Record>
       <Key>TraderErrorMissingMotherboard</Key>
       <Value>Il vous manque une carte mère dans votre ordinateur, vous avez perdu le contact avec le commerçant.</Value>
     </Record>
@@ -6209,10 +6205,6 @@
     <Record>
       <Key>WorldInfoTextPlaytime</Key>
       <Value>Temps de jeu :</Value>
-    </Record>
-    <Record>
-      <Key>WorldInfoMapName</Key>
-      <Value>Carte:</Value>
     </Record>
     <Record>
       <Key>WorldInfoTextAsteroids</Key>
