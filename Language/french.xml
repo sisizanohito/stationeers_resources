@@ -208,10 +208,6 @@
       <Value>Permuter</Value>
     </Record>
     <Record>
-      <Key>Clear</Key>
-      <Value>Annuler</Value>
-    </Record>
-    <Record>
       <Key>Collect</Key>
       <Value>Collecter</Value>
     </Record>
@@ -349,11 +345,11 @@
     </Record>
     <Record>
       <Key>ForceClose</Key>
-      <Value>Forcer fermeture</Value>
+      <Value>Forcer la fermeture</Value>
     </Record>
     <Record>
       <Key>ForceOpen</Key>
-      <Value>Forcer ouverture</Value>
+      <Value>Forcer l&apos;ouverture</Value>
     </Record>
     <Record>
       <Key>Vend</Key>
