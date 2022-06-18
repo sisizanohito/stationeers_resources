@@ -123,16 +123,8 @@
       <Value>;</Value>
     </Record>
     <Record>
-      <Key>Less</Key>
-      <Value>Moins</Value>
-    </Record>
-    <Record>
       <Key>Equals</Key>
       <Value>=</Value>
-    </Record>
-    <Record>
-      <Key>Greater</Key>
-      <Value>Superieur</Value>
     </Record>
     <Record>
       <Key>Question</Key>
@@ -165,10 +157,6 @@
     <Record>
       <Key>BackQuote</Key>
       <Value>`</Value>
-    </Record>
-    <Record>
-      <Key>Delete</Key>
-      <Value>Supprimer</Value>
     </Record>
     <Record>
       <Key>Keypad0</Key>
@@ -209,34 +197,6 @@
     <Record>
       <Key>Keypad9</Key>
       <Value>Keypad 9</Value>
-    </Record>
-    <Record>
-      <Key>KeypadPeriod</Key>
-      <Value>Keypad  .</Value>
-    </Record>
-    <Record>
-      <Key>KeypadDivide</Key>
-      <Value>Keypad  /</Value>
-    </Record>
-    <Record>
-      <Key>KeypadMultiply</Key>
-      <Value>Keypad  *</Value>
-    </Record>
-    <Record>
-      <Key>KeypadMinus</Key>
-      <Value>Keypad  -</Value>
-    </Record>
-    <Record>
-      <Key>KeypadPlus</Key>
-      <Value>Keypad  +</Value>
-    </Record>
-    <Record>
-      <Key>KeypadEnter</Key>
-      <Value>Keypad  Entrer</Value>
-    </Record>
-    <Record>
-      <Key>KeypadEquals</Key>
-      <Value>Keypad  =</Value>
     </Record>
     <Record>
       <Key>UpArrow</Key>
