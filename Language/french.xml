@@ -4698,18 +4698,6 @@
       <Value>Kit (Tube)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructurePipeLiquidCrossJunction</Key>
-      <Value>Tube (En Croix)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructurePipeLiquidStraight</Key>
-      <Value>Tube (Droit)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructurePipeLiquidCorner</Key>
-      <Value>Tube (Coin)</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>StructurePipeLiquidCrossJunction3</Key>
       <Value>Tube (En Croix, trois voies)</Value>
     </RecordThing>
@@ -4748,26 +4736,6 @@
     <RecordThing>
       <Key>ItemWreckageWindTurbine005</Key>
       <Value>Mat d&apos;éolienne</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemWreckageStructureWeatherStation001</Key>
-      <Value>Entonnoir de Station météo</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemWreckageStructureWeatherStation002</Key>
-      <Value>Morceau de Station météo</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemWreckageStructureWeatherStation003</Key>
-      <Value>anémomètre de Station météo</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemWreckageStructureWeatherStation004</Key>
-      <Value>LED de Station météo</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemWreckageStructureWeatherStation005</Key>
-      <Value>Capteur lumineux de Station météo</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageStructureWeatherStation006</Key>
