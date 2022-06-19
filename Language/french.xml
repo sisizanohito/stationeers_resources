@@ -5419,14 +5419,6 @@
       <Value>Siège du Capitaine</Value>
     </Record>
     <Record>
-      <Key>PassengerSeatLeft</Key>
-      <Value>Siège du passager Gauche</Value>
-    </Record>
-    <Record>
-      <Key>PassengerSeatRight</Key>
-      <Value>Siège du passager Droit</Value>
-    </Record>
-    <Record>
       <Key>DataDisk</Key>
       <Value>Disque de données</Value>
     </Record>
