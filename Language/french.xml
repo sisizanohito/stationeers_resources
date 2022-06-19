@@ -9797,52 +9797,12 @@ Le programme Stationeers, qui est fondamentalement ouvert à toute l’humanité
       <Value>Univers</Value>
     </Record>
     <Record>
-      <Key>StationpediaConstructWith</Key>
-      <Value>Constructions possibles:</Value>
-    </Record>
-    <Record>
-      <Key>StationpediaPaintable</Key>
-      <Value>Peinture:</Value>
-    </Record>
-    <Record>
-      <Key>StationpediaStackSize</Key>
-      <Value>Taille de la pile:</Value>
-    </Record>
-    <Record>
-      <Key>StationpediaThingUnit</Key>
-      <Value>Unité:</Value>
-    </Record>
-    <Record>
-      <Key>StationpediaReagentsHeader</Key>
-      <Value>Réactifs:</Value>
-    </Record>
-    <Record>
-      <Key>StationpediaHeatHeader</Key>
-      <Value>Chaleur spécifique:</Value>
-    </Record>
-    <Record>
-      <Key>StationpediaShatterHeader</Key>
-      <Value>Rupture:</Value>
-    </Record>
-    <Record>
-      <Key>StationpediaFlashpointHeader</Key>
-      <Value> Point d&apos;inflammabilité:</Value>
-    </Record>
-    <Record>
-      <Key>StationpediaAutoIgniteHeader</Key>
-      <Value>Point d’auto-inflammation:</Value>
-    </Record>
-    <Record>
       <Key>StationpediaConstructedFrom</Key>
       <Value>Construit à partir de</Value>
     </Record>
     <Record>
       <Key>StationpediaSlotsHeader</Key>
       <Value>Emplacements</Value>
-    </Record>
-    <Record>
-      <Key>StationpediaHowToManufacture</Key>
-      <Value>Où le fabriquer</Value>
     </Record>
     <Record>
       <Key>StationpediaBuildStates</Key>
@@ -9874,10 +9834,6 @@ Le programme Stationeers, qui est fondamentalement ouvert à toute l’humanité
  Options de construction</Value>
     </Record>
     <Record>
-      <Key>StationpediaLogicSlotHeader</Key>
-      <Value>Emplacements logiques</Value>
-    </Record>
-    <Record>
       <Key>StationpediaTutorialListHeader</Key>
       <Value>Tutoriels</Value>
     </Record>
@@ -9898,10 +9854,6 @@ Le programme Stationeers, qui est fondamentalement ouvert à toute l’humanité
       <Value>Hydratation basse</Value>
     </Record>
     <Record>
-      <Key>HydrationCaution</Key>
-      <Value>Hydratation Attention</Value>
-    </Record>
-    <Record>
       <Key>HydrationCritical</Key>
       <Value>Hydratation Critique</Value>
     </Record>
@@ -9919,10 +9871,6 @@ Le programme Stationeers, qui est fondamentalement ouvert à toute l’humanité
     </Record>
     <Record>
       <Key>TimerPanel</Key>
-      <Value>Durée</Value>
-    </Record>
-    <Record>
-      <Key>LogicTypeTime</Key>
       <Value>Durée</Value>
     </Record>
     <Record>
