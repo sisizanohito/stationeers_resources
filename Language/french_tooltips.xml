@@ -82,10 +82,6 @@
       <Value>Escalade</Value>
     </Record>
     <Record>
-      <Key>StatusIconLightName</Key>
-      <Value>Commuter la  lampe frontale</Value>
-    </Record>
-    <Record>
       <Key>StatusIconInternalsName</Key>
       <Value>Commuter le casque ouvert/fermer</Value>
     </Record>
