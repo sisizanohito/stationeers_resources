@@ -4738,18 +4738,6 @@
       <Value>Mat d&apos;éolienne</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemWreckageStructureWeatherStation006</Key>
-      <Value>Gyrophare de Station météo</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemWreckageStructureWeatherStation007</Key>
-      <Value>Mécanisme de Station météo</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemWreckageStructureWeatherStation008</Key>
-      <Value>Grille de Station météo</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemWaterBottle</Key>
       <Value>Bouteille d&apos;eau</Value>
     </RecordThing>
@@ -4778,14 +4766,6 @@
       <Value>Citerne portable MKII (Eau)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureLiquidPipeRadiator</Key>
-      <Value>Radiateur de Tube</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemPipeLiquidRadiator</Key>
-      <Value>Kit (Radiateur de Tube)</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>DynamicMKIILiquidCanisterEmpty</Key>
       <Value>Citerne portable MKII</Value>
     </RecordThing>
@@ -4808,14 +4788,6 @@
     <RecordThing>
       <Key>ItemKitLiquidRegulator</Key>
       <Value>Kit (Régulateur de liquide)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureBackLiquidPressureRegulator</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureLiquidPressureRegulator</Key>
-      <Value>Régulateur de liquide</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemLiquidCanisterSmart</Key>
