@@ -6970,10 +6970,6 @@ Veuillez réessayer.</Value>
       <Value>Sauvegarder le monde</Value>
     </Record>
     <Record>
-      <Key>SaveMenuNamePlaceholder</Key>
-      <Value>Entrer le nom d&apos;enregistrement...</Value>
-    </Record>
-    <Record>
       <Key>NewWorldModeCreative</Key>
       <Value>Créatif</Value>
     </Record>
@@ -6987,19 +6983,23 @@ Veuillez réessayer.</Value>
     </Record>
     <Record>
       <Key>JoinMenuInfoIPAddress</Key>
-      <Value>IP Addresse:</Value>
+      <Value>Adresse IP :</Value>
     </Record>
     <Record>
       <Key>JoinMenuInfoMap</Key>
-      <Value>Carte:</Value>
+      <Value>Carte :</Value>
+    </Record>
+    <Record>
+      <Key>JoinMenuInfoVersion</Key>
+      <Value>Version :</Value>
     </Record>
     <Record>
       <Key>JoinMenuInfoLatency</Key>
-      <Value>Latence:</Value>
+      <Value>Latence :</Value>
     </Record>
     <Record>
       <Key>JoinMenuInfoPlayers</Key>
-      <Value>Joueurs:</Value>
+      <Value>Joueurs :</Value>
     </Record>
     <Record>
       <Key>ChangeAppearanceTitle</Key>
@@ -9956,10 +9956,6 @@ Le programme Stationeers, qui est fondamentalement ouvert à toute l’humanité
     <Record>
       <Key>Waveform</Key>
       <Value>Signaux</Value>
-    </Record>
-    <Record>
-      <Key>StationpediaMaxPressure</Key>
-      <Value>Pression maximale:</Value>
     </Record>
     <Record>
       <Key>SettingsSmoothTerrain</Key>
