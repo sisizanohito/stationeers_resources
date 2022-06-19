@@ -66,10 +66,6 @@
       <Value>Affiche le niveau de toxicité actuel</Value>
     </Record>
     <Record>
-      <Key>StatusIconLeakingName</Key>
-      <Value>Fuite de la combinaison</Value>
-    </Record>
-    <Record>
       <Key>StatusIconPowerName</Key>
       <Value>Alimentation de la combinaison</Value>
     </Record>
