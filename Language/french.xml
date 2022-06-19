@@ -9845,6 +9845,34 @@ Le programme Stationeers, qui est fondamentalement ouvert à toute l’humanité
       <Value>Univers</Value>
     </Record>
     <Record>
+      <Key>StationpediaPrefabHash</Key>
+      <Value>Prefab Hash :</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaPaintable</Key>
+      <Value>Peinture :</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaStackSize</Key>
+      <Value>Taille de la pile :</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaThingUnit</Key>
+      <Value>Unité :</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaReagentsHeader</Key>
+      <Value>Réactifs :</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaHeatHeader</Key>
+      <Value>Chaleur spécifique :</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaShatterHeader</Key>
+      <Value>Rupture :</Value>
+    </Record>
+    <Record>
       <Key>StationpediaAutoIgniteHeader</Key>
       <Value>Point d’auto-inflammation :</Value>
     </Record>
