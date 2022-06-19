@@ -8,5 +8,9 @@
       <Key>Incident_AlienLife_Title</Key>
       <Value>Attaque au sol</Value>
     </Record>
+    <Record>
+      <Key>Incident_AlienLife</Key>
+      <Value>Entendez-vous ceci ?</Value>
+    </Record>
   </Interface>
 </Language>

@@ -3,5 +3,14 @@
   <Name>French</Name>
   <Code>FR</Code>
   <Font>font_extended</Font>
-  <Interface/>
+  <Interface>
+    <Record>
+      <Key>Incident_PlantInfected_Title</Key>
+      <Value>Plantes infectées par des champignons</Value>
+    </Record>
+    <Record>
+      <Key>Incident_PlantInfected</Key>
+      <Value>Attention, un champignon a infecté certaines plantes dans les environs</Value>
+    </Record>
+  </Interface>
 </Language>

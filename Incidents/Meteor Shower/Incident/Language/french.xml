@@ -8,5 +8,9 @@
       <Key>Incident_MeteorInbound_Title</Key>
       <Value>Pluie de météorites</Value>
     </Record>
+    <Record>
+      <Key>Incident_MeteorInbound</Key>
+      <Value>Les balayages par satellite ont détecté un gros objet se déplaçant vers votre secteur, déplacez-vous vers un environnement sûr.</Value>
+    </Record>
   </Interface>
 </Language>

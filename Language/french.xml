@@ -5525,6 +5525,10 @@
       <Value>Saisir le pied gauche</Value>
     </Record>
     <Record>
+      <Key>GrabRightFoot</Key>
+      <Value>Saisir le pied droit</Value>
+    </Record>
+    <Record>
       <Key>GrabHead</Key>
       <Value>Saisir la tête</Value>
     </Record>
@@ -5533,8 +5537,16 @@
       <Value>Saisir le bras gauche</Value>
     </Record>
     <Record>
+      <Key>GrabUpperArmR</Key>
+      <Value>Saisir le bras droit</Value>
+    </Record>
+    <Record>
       <Key>GrabLowerArmL</Key>
       <Value>Saisir le bras gauche</Value>
+    </Record>
+    <Record>
+      <Key>GrabLowerArmR</Key>
+      <Value>Saisir le bras droit</Value>
     </Record>
     <Record>
       <Key>GrabThighR</Key>
@@ -5617,6 +5629,10 @@
       <Value>Utiliser</Value>
     </Record>
     <Record>
+      <Key>Export</Key>
+      <Value>Exporter</Value>
+    </Record>
+    <Record>
       <Key>Import</Key>
       <Value>Déposer</Value>
     </Record>
@@ -5643,6 +5659,10 @@
     <Record>
       <Key>CaptainsChair</Key>
       <Value>Siège du Capitaine</Value>
+    </Record>
+    <Record>
+      <Key>PassengersChair</Key>
+      <Value>Siège passager</Value>
     </Record>
     <Record>
       <Key>Button3</Key>
@@ -5819,6 +5839,22 @@
     <Record>
       <Key>Magazine</Key>
       <Value>Chargeur</Value>
+    </Record>
+    <Record>
+      <Key>TemperatureUp</Key>
+      <Value>Monter la température</Value>
+    </Record>
+    <Record>
+      <Key>TemperatureDown</Key>
+      <Value>Baisser la température</Value>
+    </Record>
+    <Record>
+      <Key>ThrustUp</Key>
+      <Value>Poussée vers le haut</Value>
+    </Record>
+    <Record>
+      <Key>ThrustDown</Key>
+      <Value>Poussée vers le bas</Value>
     </Record>
     <Record>
       <Key>Button5</Key>
@@ -6071,6 +6107,10 @@
       <Value>Outils électriques</Value>
     </Record>
     <Record>
+      <Key>TraderErrorConnectWires</Key>
+      <Value>Le commerçant ne peut pas terminer l’échange, vérifier si vos câbles ne sont pas coupés !</Value>
+    </Record>
+    <Record>
       <Key>TraderErrorMissingMotherboard</Key>
       <Value>Il vous manque une carte mère dans votre ordinateur, vous avez perdu le contact avec le commerçant.</Value>
     </Record>
@@ -6131,6 +6171,10 @@
       <Value>Temps de jeu :</Value>
     </Record>
     <Record>
+      <Key>WorldInfoMapName</Key>
+      <Value>Carte :</Value>
+    </Record>
+    <Record>
       <Key>WorldInfoTextAsteroids</Key>
       <Value>Astéroïdes :</Value>
     </Record>
@@ -6175,6 +6219,10 @@
       <Value>Rafraîchir la liste</Value>
     </Record>
     <Record>
+      <Key>CannotConnectToMetaServer</Key>
+      <Value>Impossible de se connecter au Meta Server</Value>
+    </Record>
+    <Record>
       <Key>ServerListCannotBeRetrieved</Key>
       <Value>Impossible de récupérer la liste des serveurs</Value>
     </Record>
@@ -6203,8 +6251,16 @@
       <Value>Ceinture d&apos;astéroïdes</Value>
     </Record>
     <Record>
+      <Key>LoulanShortDesc</Key>
+      <Value>Loulan : à votre arrivée, vous remarquerez une atmosphère respirable, une pression suffisamment élevée pour maintenir la vie - mais une absence de vie. Ce géant de sable est situé dans le Système Gargantuesque, se rapprochant chaque jour un peu plus du trou noir situé en son centre. Bien qu&apos;elle soit abandonnée et qu&apos;elle ne soit plus verte et pleine d&apos;eau, cette planète possède toujours une atmosphère viable et vous êtes chargé de parcourir ses terres incultes pour acquérir les matériaux et les ressources nécessaires à la survie dans ce désert éternel.</Value>
+    </Record>
+    <Record>
       <Key>NewWorldAreaVenus</Key>
       <Value>Vénus</Value>
+    </Record>
+    <Record>
+      <Key>Moon</Key>
+      <Value>La Lune</Value>
     </Record>
     <Record>
       <Key>Space</Key>
@@ -6217,6 +6273,10 @@
     <Record>
       <Key>Vulcan2</Key>
       <Value>Vulcain</Value>
+    </Record>
+    <Record>
+      <Key>NewWorldAreaEarth</Key>
+      <Value>La Terre</Value>
     </Record>
     <Record>
       <Key>NewWorldAreaVulcan</Key>
@@ -6331,6 +6391,10 @@
       <Value>Paramètres</Value>
     </Record>
     <Record>
+      <Key>SettingsMenuGameplay</Key>
+      <Value>Jouabilité</Value>
+    </Record>
+    <Record>
       <Key>SettingsMenuVideo</Key>
       <Value>Vidéo</Value>
     </Record>
@@ -6353,6 +6417,10 @@
     <Record>
       <Key>SettingsHUDScale</Key>
       <Value>Echelle HUD</Value>
+    </Record>
+    <Record>
+      <Key>SettingsDisplayFPS</Key>
+      <Value>Afficher les FPS</Value>
     </Record>
     <Record>
       <Key>ButtonResetDefaults</Key>
@@ -6449,6 +6517,10 @@
     <Record>
       <Key>SettingsReflections</Key>
       <Value>Réflections</Value>
+    </Record>
+    <Record>
+      <Key>SettingsMasterVolume</Key>
+      <Value>Volume principal</Value>
     </Record>
     <Record>
       <Key>SettingsTitleMixer</Key>
