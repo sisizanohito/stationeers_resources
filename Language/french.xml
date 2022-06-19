@@ -7587,6 +7587,14 @@ Soyez très prudent lorsque vous marchez ou sautez, car vous pouvez parcourir un
       <Value>Son</Value>
     </Record>
     <Record>
+      <Key>WarningControlConflict</Key>
+      <Value>Touches en conflit</Value>
+    </Record>
+    <Record>
+      <Key>WarningControlConflictDescription</Key>
+      <Value>Allez dans le menu &quot;contrôles&quot; afin de corriger les touches en conflit</Value>
+    </Record>
+    <Record>
       <Key>NewWorldGameMode</Key>
       <Value>Mode de jeu</Value>
     </Record>
@@ -9518,6 +9526,10 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
       <Value>Changer la main active</Value>
     </Record>
     <Record>
+      <Key>ActivateExplosiveKey</Key>
+      <Value>Activer le compte à rebours</Value>
+    </Record>
+    <Record>
       <Key>CommandStatus</Key>
       <Value>Affiche l&apos;état actuel du serveur et qui est présent actuellement sur le serveur: &quot;/status&quot;</Value>
     </Record>
@@ -9584,6 +9596,10 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     <Record>
       <Key>CommandAddGas</Key>
       <Value>Ajoute du gaz ou des liquides à un réservoir ou un réseau de canalisations donné. : &quot;/addgas [refID] [gasType 1-8] [molecount]&quot;</Value>
+    </Record>
+    <Record>
+      <Key>CommandHelp</Key>
+      <Value>Affiche la liste des commandes : &quot;/help&quot;</Value>
     </Record>
     <Record>
       <Key>Seedsstring</Key>
@@ -9709,6 +9725,10 @@ Le programme Stationeers, qui est fondamentalement ouvert à toute l’humanité
       <Value>{KEY:PrimaryAction}</Value>
     </Record>
     <Record>
+      <Key>ControlTurnOnDisc</Key>
+      <Value>Mettre en marche</Value>
+    </Record>
+    <Record>
       <Key>ControlQuickMove</Key>
       <Value>Roue de défilement + {KEY:InventorySelect}</Value>
     </Record>
@@ -9755,6 +9775,10 @@ Le programme Stationeers, qui est fondamentalement ouvert à toute l’humanité
     <Record>
       <Key>BasicButtonTutorial</Key>
       <Value>Basique</Value>
+    </Record>
+    <Record>
+      <Key>NextTutoiralButtonFail</Key>
+      <Value>Impossible de charger le tutoriel suivant. Retournez au menu.</Value>
     </Record>
     <Record>
       <Key>ImportExportCategoryKey</Key>
@@ -9831,6 +9855,10 @@ Le programme Stationeers, qui est fondamentalement ouvert à toute l’humanité
     <Record>
       <Key>PersonalCategoryKey</Key>
       <Value>Personnel</Value>
+    </Record>
+    <Record>
+      <Key>PressureKeySPDA</Key>
+      <Value>Pression maximale :</Value>
     </Record>
     <Record>
       <Key>CableMaxPowerSPDA</Key>
@@ -10091,6 +10119,10 @@ Le programme Stationeers, qui est fondamentalement ouvert à toute l’humanité
       <Value>Retour arrière</Value>
     </Record>
     <Record>
+      <Key>Clear</Key>
+      <Value>Suppr</Value>
+    </Record>
+    <Record>
       <Key>Return</Key>
       <Value>Entrée</Value>
     </Record>
@@ -10125,6 +10157,10 @@ Le programme Stationeers, qui est fondamentalement ouvert à toute l’humanité
     <Record>
       <Key>Ampersand</Key>
       <Value>&amp;</Value>
+    </Record>
+    <Record>
+      <Key>Quote</Key>
+      <Value>&apos;</Value>
     </Record>
     <Record>
       <Key>LeftParen</Key>
@@ -10207,8 +10243,16 @@ Le programme Stationeers, qui est fondamentalement ouvert à toute l’humanité
       <Value>;</Value>
     </Record>
     <Record>
+      <Key>Less</Key>
+      <Value>&lt;</Value>
+    </Record>
+    <Record>
       <Key>Equals</Key>
       <Value>=</Value>
+    </Record>
+    <Record>
+      <Key>Greater</Key>
+      <Value>&gt;</Value>
     </Record>
     <Record>
       <Key>Question</Key>
@@ -10253,6 +10297,10 @@ Le programme Stationeers, qui est fondamentalement ouvert à toute l’humanité
     <Record>
       <Key>RightCurlyBracket</Key>
       <Value>}</Value>
+    </Record>
+    <Record>
+      <Key>Tilde</Key>
+      <Value>~</Value>
     </Record>
     <Record>
       <Key>Keypad0</Key>

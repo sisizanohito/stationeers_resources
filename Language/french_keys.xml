@@ -11,6 +11,10 @@
       <Value>Retour arrière</Value>
     </Record>
     <Record>
+      <Key>Clear</Key>
+      <Value>Suppr</Value>
+    </Record>
+    <Record>
       <Key>Return</Key>
       <Value>Entrée</Value>
     </Record>
@@ -41,6 +45,10 @@
     <Record>
       <Key>Ampersand</Key>
       <Value>&amp;</Value>
+    </Record>
+    <Record>
+      <Key>Quote</Key>
+      <Value>&apos;</Value>
     </Record>
     <Record>
       <Key>LeftParen</Key>
@@ -123,8 +131,16 @@
       <Value>;</Value>
     </Record>
     <Record>
+      <Key>Less</Key>
+      <Value>&lt;</Value>
+    </Record>
+    <Record>
       <Key>Equals</Key>
       <Value>=</Value>
+    </Record>
+    <Record>
+      <Key>Greater</Key>
+      <Value>&gt;</Value>
     </Record>
     <Record>
       <Key>Question</Key>
