@@ -9186,10 +9186,6 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
       <Value>Le chemin de sauvegarde n&apos;est pas accessible en écriture</Value>
     </Record>
     <Record>
-      <Key>FramerateLock</Key>
-      <Value>Limite Framerate</Value>
-    </Record>
-    <Record>
       <Key>SaveBeforeTravel</Key>
       <Value>Vous devez sauver votre jeu avant de voyager vers un autre monde !</Value>
     </Record>
