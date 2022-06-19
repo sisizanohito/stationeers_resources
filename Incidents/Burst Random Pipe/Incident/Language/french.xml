@@ -8,5 +8,9 @@
       <Key>Incident_BrokenPipe_Title</Key>
       <Value>Tuyau cassé</Value>
     </Record>
+    <Record>
+      <Key>Incident_BrokenPipe</Key>
+      <Value>Attention, augmentation à venir de la pression d&apos;un des tuyaux.</Value>
+    </Record>
   </Interface>
 </Language>
