@@ -110,6 +110,14 @@
       <Value>Pourcentage d’étourdissements</Value>
     </Record>
     <Record>
+      <Key>StatusIconFilterName</Key>
+      <Value>Capacité du filtre</Value>
+    </Record>
+    <Record>
+      <Key>StatusIconWasteName</Key>
+      <Value>Capacité de stockage des déchets</Value>
+    </Record>
+    <Record>
       <Key>StatusIconHealthName</Key>
       <Value>Santé actuelle</Value>
     </Record>

@@ -4002,6 +4002,10 @@
       <Value>Table de cuisine (Basse, design)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureSmallTableThickSingle</Key>
+      <Value>Petite table (épaisse, une personne)</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureSmallTableThickDouble</Key>
       <Value>Table basse (Design, taille 2)</Value>
     </RecordThing>
@@ -4794,6 +4798,10 @@
       <Value>Kit (Régulateur de liquide)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureLiquidPressureRegulator</Key>
+      <Value>Régulateur de pression pour liquide</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemLiquidCanisterSmart</Key>
       <Value>Bonbonne de liquide (Evoluée)</Value>
     </RecordThing>
@@ -4816,6 +4824,14 @@
     <RecordThing>
       <Key>ItemMKIIDrill</Key>
       <Value>Perceuse MKII</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemMKIIMiningDrill</Key>
+      <Value>Foreuse MK II</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemMKIIWireCutters</Key>
+      <Value>Pince coupante MK II</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemMKIIWrench</Key>
@@ -5349,6 +5365,10 @@
     <Record>
       <Key>CaptainsSeat</Key>
       <Value>Siège du Capitaine</Value>
+    </Record>
+    <Record>
+      <Key>PassengerSeatLeft</Key>
+      <Value>Siège passager gauche</Value>
     </Record>
     <Record>
       <Key>DataDisk</Key>
