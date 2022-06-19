@@ -175,6 +175,10 @@
       <Value>`</Value>
     </Record>
     <Record>
+      <Key>Delete</Key>
+      <Value>Retour arrière</Value>
+    </Record>
+    <Record>
       <Key>Keypad0</Key>
       <Value>Keypad 0</Value>
     </Record>
