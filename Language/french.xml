@@ -6591,6 +6591,10 @@
       <Value>Mot de passe</Value>
     </Record>
     <Record>
+      <Key>ButtonKick</Key>
+      <Value>Éjecter</Value>
+    </Record>
+    <Record>
       <Key>ButtonBan</Key>
       <Value>Bannir</Value>
     </Record>
@@ -6623,12 +6627,20 @@
       <Value>Afficher le portrait</Value>
     </Record>
     <Record>
+      <Key>NewWorldAreaMoon</Key>
+      <Value>La lune</Value>
+    </Record>
+    <Record>
       <Key>SettingsAntialiasing</Key>
       <Value>Méthode d&apos;antialiasing</Value>
     </Record>
     <Record>
       <Key>SettingsMenuMultiplayer</Key>
       <Value>Multijoueur</Value>
+    </Record>
+    <Record>
+      <Key>SettingsAdvertiseServer</Key>
+      <Value>Annoncer le serveur</Value>
     </Record>
     <Record>
       <Key>SettingsServerName</Key>
@@ -6669,6 +6681,10 @@
     <Record>
       <Key>TutorialSkipButton</Key>
       <Value>Passer</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStartButton</Key>
+      <Value>Démarrer le tutoriel</Value>
     </Record>
     <Record>
       <Key>TutorialComplete</Key>
@@ -6717,6 +6733,18 @@
       <Value>Peut seulement connecter {0} à {1}</Value>
     </Record>
     <Record>
+      <Key>TooltipRotateLeftRight</Key>
+      <Value>Tourner à gauche ou à droite = {KEY:RotateLeft} et {KEY:RotateRight}.</Value>
+    </Record>
+    <Record>
+      <Key>TooltipRotateUpDown</Key>
+      <Value>Tourner vers le haut ou vers le bas = {KEY:RotateUp} et {KEY:RotateDown}.</Value>
+    </Record>
+    <Record>
+      <Key>TooltipRollLeftRight</Key>
+      <Value>Basculer à gauche ou à droite = {KEY:RotateRollLeft} et {KEY:RotateRollRight}.</Value>
+    </Record>
+    <Record>
       <Key>SettingsExtendedTooltips</Key>
       <Value>Infobulles étendues</Value>
     </Record>
@@ -6739,6 +6767,14 @@
     <Record>
       <Key>TooltipPlacementSnapFace</Key>
       <Value>L&apos;emplacement est aligné sur les faces de la grille.</Value>
+    </Record>
+    <Record>
+      <Key>TooltipPlacementSnapFaceMount</Key>
+      <Value>Le placement est aligné sur la petite grille.</Value>
+    </Record>
+    <Record>
+      <Key>TooltipPlacementSnapFaceMountMissingFrame</Key>
+      <Value>Le placement n&apos;est autorisé que sur {THING:StructureFrameIron} et {THING:StructureFrame}</Value>
     </Record>
     <Record>
       <Key>TooltipPlacementSnapFaceMountMissingSupport</Key>
@@ -6781,6 +6817,10 @@
       <Value>Paramètres multijoueurs avancés</Value>
     </Record>
     <Record>
+      <Key>SettingsUPNPNote</Key>
+      <Value>Si Universal Plug and Play (UPNP) est activé ici et sur votre routeur, ces ports seront automatiquement redirigés lorsque vous créez une partie.</Value>
+    </Record>
+    <Record>
       <Key>SettingsTooltipOpacity</Key>
       <Value>Opacité de l&apos;info-bulle</Value>
     </Record>
@@ -6799,6 +6839,10 @@
     <Record>
       <Key>PromptResetSettingsTitle</Key>
       <Value>Réinitialiser les paramètres</Value>
+    </Record>
+    <Record>
+      <Key>PromptResetSettingsBody</Key>
+      <Value>Êtes-vous sûr ?</Value>
     </Record>
     <Record>
       <Key>PromptResetSettingsConfirm</Key>
