@@ -4706,6 +4706,14 @@
       <Value>Kit (Tube)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructurePipeLiquidCrossJunction</Key>
+      <Value>Tuyau en croix (pour liquides)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePipeLiquidStraight</Key>
+      <Value>Tuyau droit (pour liquides)</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>StructurePipeLiquidCrossJunction3</Key>
       <Value>Tube (En Croix, trois voies)</Value>
     </RecordThing>
