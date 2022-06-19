@@ -7338,6 +7338,11 @@
       <Value>モード</Value>
     </Record>
     <Record>
+      <Key>StationpediaLogicSlotHeader</Key>
+      <Value>
+        ロジックスロット</Value>
+    </Record>
+    <Record>
       <Key>StationpediaTutorialListHeader</Key>
       <Value>チュートリアル</Value>
     </Record>
