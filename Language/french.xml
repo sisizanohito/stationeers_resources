@@ -6861,8 +6861,20 @@
       <Value>Quitter</Value>
     </Record>
     <Record>
+      <Key>WaitingTitle</Key>
+      <Value>Avertissement concernant l&apos;enregistrement</Value>
+    </Record>
+    <Record>
+      <Key>WaitingBody</Key>
+      <Value>Sauvegarde des données du monde toujours en cours.  Veuillez réessayer une fois terminée.</Value>
+    </Record>
+    <Record>
       <Key>PromptQuitTitle</Key>
       <Value>Quitter Stationeers</Value>
+    </Record>
+    <Record>
+      <Key>PromptQuitBody</Key>
+      <Value>Êtes-vous sûr de vouloir quitter ?</Value>
     </Record>
     <Record>
       <Key>PromptQuitConfirm</Key>
@@ -6871,6 +6883,18 @@
     <Record>
       <Key>PromptUnsubscribeTitle</Key>
       <Value>Se désinscrire</Value>
+    </Record>
+    <Record>
+      <Key>PromptUnsubscribeBody</Key>
+      <Value>Êtes-vous sûr de vouloir vous désinscrire de cet élément du Workshop ?</Value>
+    </Record>
+    <Record>
+      <Key>PromptUnsubscribeConfirm</Key>
+      <Value>Se désabonner</Value>
+    </Record>
+    <Record>
+      <Key>PromptOverwriteTitle</Key>
+      <Value>Écraser</Value>
     </Record>
     <Record>
       <Key>PromptOverwriteConfirm</Key>
@@ -6891,6 +6915,10 @@
     <Record>
       <Key>PromptDeleteTitle</Key>
       <Value>Supprimer la sauvegarde</Value>
+    </Record>
+    <Record>
+      <Key>PromptDeleteBody</Key>
+      <Value>Êtes-vous sûr ?</Value>
     </Record>
     <Record>
       <Key>PromptDeleteConfirm</Key>
@@ -7002,12 +7030,24 @@ Veuillez réessayer.</Value>
       <Value>Voir les infos</Value>
     </Record>
     <Record>
+      <Key>JoinMenuServerDetailUnFavoriteButton</Key>
+      <Value>Supprimer des favoris</Value>
+    </Record>
+    <Record>
       <Key>JoinMenuServerDetailFavoriteButton</Key>
       <Value>Favori</Value>
     </Record>
     <Record>
       <Key>SaveMenuSaveWorldButton</Key>
       <Value>Sauvegarder le monde</Value>
+    </Record>
+    <Record>
+      <Key>SaveMenuOverwriteButton</Key>
+      <Value>Écraser</Value>
+    </Record>
+    <Record>
+      <Key>SaveMenuNamePlaceholder</Key>
+      <Value>Entrer le nom de la sauvegarde…</Value>
     </Record>
     <Record>
       <Key>NewWorldModeCreative</Key>
@@ -9805,12 +9845,20 @@ Le programme Stationeers, qui est fondamentalement ouvert à toute l’humanité
       <Value>Univers</Value>
     </Record>
     <Record>
+      <Key>StationpediaAutoIgniteHeader</Key>
+      <Value>Point d’auto-inflammation :</Value>
+    </Record>
+    <Record>
       <Key>StationpediaConstructedFrom</Key>
       <Value>Construit à partir de</Value>
     </Record>
     <Record>
       <Key>StationpediaSlotsHeader</Key>
       <Value>Emplacements</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaHowToManufacture</Key>
+      <Value>Comment le fabriquer</Value>
     </Record>
     <Record>
       <Key>StationpediaBuildStates</Key>
@@ -9842,6 +9890,11 @@ Le programme Stationeers, qui est fondamentalement ouvert à toute l’humanité
  Options de construction</Value>
     </Record>
     <Record>
+      <Key>StationpediaLogicHeader</Key>
+      <Value>
+  Logique</Value>
+    </Record>
+    <Record>
       <Key>StationpediaTutorialListHeader</Key>
       <Value>Tutoriels</Value>
     </Record>
@@ -9860,6 +9913,10 @@ Le programme Stationeers, qui est fondamentalement ouvert à toute l’humanité
     <Record>
       <Key>StatusIconHydrationKey</Key>
       <Value>Hydratation basse</Value>
+    </Record>
+    <Record>
+      <Key>HydrationCaution</Key>
+      <Value>Attention à votre hydratation</Value>
     </Record>
     <Record>
       <Key>HydrationCritical</Key>
@@ -9882,6 +9939,10 @@ Le programme Stationeers, qui est fondamentalement ouvert à toute l’humanité
       <Value>Durée</Value>
     </Record>
     <Record>
+      <Key>LogicTypeTime</Key>
+      <Value>Temps</Value>
+    </Record>
+    <Record>
       <Key>NoAudioReceiverDevices</Key>
       <Value>Aucun récepteur audio</Value>
     </Record>
@@ -9892,6 +9953,10 @@ Le programme Stationeers, qui est fondamentalement ouvert à toute l’humanité
     <Record>
       <Key>Attack</Key>
       <Value>Attaque</Value>
+    </Record>
+    <Record>
+      <Key>Release</Key>
+      <Value>Sortie</Value>
     </Record>
     <Record>
       <Key>CurrentInstrument</Key>
@@ -9914,8 +9979,32 @@ Le programme Stationeers, qui est fondamentalement ouvert à toute l’humanité
       <Value>Signaux</Value>
     </Record>
     <Record>
+      <Key>StationpediaBasePowerUsage</Key>
+      <Value>Consommation électrique de base :</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaMaxPressure</Key>
+      <Value>Pression maximale :</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaVolume</Key>
+      <Value>Volume :</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaNutrition</Key>
+      <Value>Nutrition :</Value>
+    </Record>
+    <Record>
+      <Key>MoleNitrousOxideDescription</Key>
+      <Value>Le protoxyde d&apos;azote est un gaz inerte qui assommera les joueurs s&apos;il est inhalé. Il fait aussi exploser votre {THING:ItemJetpackBasic}.</Value>
+    </Record>
+    <Record>
       <Key>SettingsSmoothTerrain</Key>
       <Value>Terrain lisse</Value>
+    </Record>
+    <Record>
+      <Key>SettingsStartLocalHost</Key>
+      <Value>Démarrer le serveur local</Value>
     </Record>
   </Interface>
   <Colors>
