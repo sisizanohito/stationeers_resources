@@ -3998,10 +3998,6 @@
       <Value>Table de cuisine (Basse, design)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureSmallTableThickSingle</Key>
-      <Value>Table basse (Design, taille 1)</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>StructureSmallTableThickDouble</Key>
       <Value>Table basse (Design, taille 2)</Value>
     </RecordThing>
