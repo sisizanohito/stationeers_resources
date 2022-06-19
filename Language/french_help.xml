@@ -264,6 +264,30 @@ Manger des ingrédients crus ne satisfera pas votre faim autant qu&apos;un repas
 Votre niveau de faim peut être ajusté dans le menu général des paramètres en ajustant le curseur &quot;Niveau de faim/soif&quot;. Notez que ce réglage ajuste également votre niveau de {LINK:HydrationPage;soif}. </Text>
     </StationpediaPage>
     <StationpediaPage>
+      <Key>DecayPage</Key>
+      <Title>Décomposition des aliments</Title>
+      <DisplayFilter>Guides</DisplayFilter>
+      <Text>Les aliments se décomposent au fil du temps en {THING:DecayedFood}, à moins qu’ils ne soient réfrigérés dans une atmosphère appropriée. La vitesse exacte de désintégration varie en fonction :
+
+- DE LA TEMPÉRATURE - La réfrigération ralentie la décomposition, mais de nombreux aliments seront endommagés par l’exposition à une pression extrêmement basse, ainsi qu’à une chaleur extrême. La température optimale est de 0 kelvin (-272 C).
+
+- DU TYPE D’ALIMENT - Chaque type &lt;color=#0080FFFF&gt;{LINK:OrganicPage;food}&lt;/color&gt; a ses propres propriétés de décomposition. Par exemple, une {THING:ItemTomatoSoup} dure beaucoup plus longtemps qu’une {THING:ItemTomato}.
+
+- DE LA PRESSION - Les aliments se décomposent plus rapidement lorsque la pression tombe en dessous de 1 atmosphère (101kPa). La désintégration se produit exponentiellement plus rapidement à mesure que l’atmosphère s’approche du vide parfait. Une pression plus élevée n&apos;a pas d’effet. 
+
+- DE L&apos;ATMOSPHÈRE - Différents gaz peuvent ralentir ou accélérer le processus de décomposition . Le procédé prend en compte la proportion de chaque gaz présents dans l’atmosphère pour calculer le taux de décomposition . Les taux suivants s’appliquent à tous les aliments :
+
+&gt; Oxygène x 1,3
+&gt; Azote x 0,6
+&gt; Dioxyde de carbone x 0,8
+&gt; Volatiles x 1
+&gt; Polluant x 3
+&gt; Protoxyde d’azote x 1,5
+&gt; Eau x 2
+
+&gt; Vide - voir PRESSION (ci-dessus).</Text>
+    </StationpediaPage>
+    <StationpediaPage>
       <Key>HydrationPage</Key>
       <Title>Soif + hydratation</Title>
       <DisplayFilter>Guides</DisplayFilter>
