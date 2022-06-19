@@ -6664,7 +6664,7 @@
     </Record>
     <Record>
       <Key>TutorialFirstTimePlaying</Key>
-      <Value>Vous jouez pour la première fois ?</Value>
+      <Value>Jouez-vous pour la première fois ?</Value>
     </Record>
     <Record>
       <Key>TutorialGetStarted</Key>
@@ -6673,10 +6673,6 @@
     <Record>
       <Key>TutorialSkipButton</Key>
       <Value>Passer</Value>
-    </Record>
-    <Record>
-      <Key>TutorialStartButton</Key>
-      <Value>Démarrer Tutorial</Value>
     </Record>
     <Record>
       <Key>TutorialComplete</Key>
@@ -6723,10 +6719,6 @@
     <Record>
       <Key>PortableConnectionFailure</Key>
       <Value>Peut seulement connecter {0} à {1}</Value>
-    </Record>
-    <Record>
-      <Key>TooltipRotateLeftRight</Key>
-      <Value>Utiliser la touche &lt;color=yellow&gt;{KEY:RotateLeft}&lt;/color&gt; et &lt;color=yellow&gt;{KEY:RotateRight}&lt;/color&gt; pour tourner à gauche et à droite.</Value>
     </Record>
     <Record>
       <Key>TooltipRotateUpDown</Key>
