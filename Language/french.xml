@@ -6721,14 +6721,6 @@
       <Value>Peut seulement connecter {0} à {1}</Value>
     </Record>
     <Record>
-      <Key>TooltipRotateUpDown</Key>
-      <Value>Utiliser la touche &lt;color=yellow&gt;{KEY:RotateUp}&lt;/color&gt; et &lt;color=yellow&gt;{KEY:RotateDown}&lt;/color&gt; pour faire pivoter de haut en bas.</Value>
-    </Record>
-    <Record>
-      <Key>TooltipRollLeftRight</Key>
-      <Value>Utiliser la touche &lt;color=yellow&gt;{KEY:RotateRollLeft}&lt;/color&gt; et &lt;color=yellow&gt;{KEY:RotateRollRight}&lt;/color&gt; pour rouler à gauche et à droite.</Value>
-    </Record>
-    <Record>
       <Key>SettingsExtendedTooltips</Key>
       <Value>Infobulles étendues</Value>
     </Record>
@@ -6751,14 +6743,6 @@
     <Record>
       <Key>TooltipPlacementSnapFace</Key>
       <Value>L&apos;emplacement est aligné sur les faces de la grille.</Value>
-    </Record>
-    <Record>
-      <Key>TooltipPlacementSnapFaceMount</Key>
-      <Value>Le placement n&apos;est autorisé que sur les &lt;color=yellow&gt;{THING:StructureFrameIron}&lt;/color&gt; et &lt;color=yellow&gt;{THING:StructureFrame}&lt;/color&gt; directement. Si ceux-ci sont améliorés, ils offriront de meilleures options de placement.</Value>
-    </Record>
-    <Record>
-      <Key>TooltipPlacementSnapFaceMountMissingFrame</Key>
-      <Value>Le placement n&apos;est autorisé que sur les &lt;color=yellow&gt;{THING:StructureFrameIron}&lt;/color&gt; et &lt;color=yellow&gt;{THING:StructureFrame}&lt;/color&gt; directement. Si ceux-ci sont améliorés, ils offriront de meilleures options de placement.</Value>
     </Record>
     <Record>
       <Key>TooltipPlacementSnapFaceMountMissingSupport</Key>
@@ -6801,10 +6785,6 @@
       <Value>Paramètres multijoueurs avancés</Value>
     </Record>
     <Record>
-      <Key>SettingsUPNPNote</Key>
-      <Value>Si Universal Plug and Play (UPNP) est activé sur votre routeur, ces ports seront automatiquement transférés lorsque vous hébergez un jeu.</Value>
-    </Record>
-    <Record>
       <Key>SettingsTooltipOpacity</Key>
       <Value>Opacité de l&apos;info-bulle</Value>
     </Record>
@@ -6825,10 +6805,6 @@
       <Value>Réinitialiser les paramètres</Value>
     </Record>
     <Record>
-      <Key>PromptResetSettingsBody</Key>
-      <Value>Etes vous sur ?</Value>
-    </Record>
-    <Record>
       <Key>PromptResetSettingsConfirm</Key>
       <Value>Réinitialiser</Value>
     </Record>
@@ -6845,20 +6821,8 @@
       <Value>Quitter</Value>
     </Record>
     <Record>
-      <Key>WaitingTitle</Key>
-      <Value>Avertissement de sauvegarde</Value>
-    </Record>
-    <Record>
-      <Key>WaitingBody</Key>
-      <Value>Toujours sauver les données du monde.  S&apos;il vous plaît essayer à nouveau quand cela est terminé.</Value>
-    </Record>
-    <Record>
       <Key>PromptQuitTitle</Key>
       <Value>Quitter Stationeers</Value>
-    </Record>
-    <Record>
-      <Key>PromptQuitBody</Key>
-      <Value>Êtes vous sur de vouloir quitter ?</Value>
     </Record>
     <Record>
       <Key>PromptQuitConfirm</Key>
@@ -6867,22 +6831,6 @@
     <Record>
       <Key>PromptUnsubscribeTitle</Key>
       <Value>Se désinscrire</Value>
-    </Record>
-    <Record>
-      <Key>PromptUnsubscribeBody</Key>
-      <Value>Etes vous sûr de vouloir désinscrire cet élément du Workshop?</Value>
-    </Record>
-    <Record>
-      <Key>PromptUnsubscribeConfirm</Key>
-      <Value>Désinscrit</Value>
-    </Record>
-    <Record>
-      <Key>PromptOverwriteTitle</Key>
-      <Value>Ecraser</Value>
-    </Record>
-    <Record>
-      <Key>PromptOverwriteBody</Key>
-      <Value>Êtes-vous sûr de vouloir écraser le monde sauvé existant ?</Value>
     </Record>
     <Record>
       <Key>PromptOverwriteConfirm</Key>
