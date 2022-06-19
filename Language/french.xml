@@ -6834,7 +6834,7 @@
     </Record>
     <Record>
       <Key>PromptOverwriteConfirm</Key>
-      <Value>Ecraser</Value>
+      <Value>Écraser</Value>
     </Record>
     <Record>
       <Key>PromptPublishTitle</Key>
@@ -6842,7 +6842,7 @@
     </Record>
     <Record>
       <Key>PromptPublishBody</Key>
-      <Value>Êtes vous sûr de vouloir publier ce monde sur le Workshop?</Value>
+      <Value>Êtes-vous sûr de vouloir publier ce monde sur le Workshop ?</Value>
     </Record>
     <Record>
       <Key>PromptPublishConfirm</Key>
@@ -6851,10 +6851,6 @@
     <Record>
       <Key>PromptDeleteTitle</Key>
       <Value>Supprimer la sauvegarde</Value>
-    </Record>
-    <Record>
-      <Key>PromptDeleteBody</Key>
-      <Value>Êtes vous sûr ?</Value>
     </Record>
     <Record>
       <Key>PromptDeleteConfirm</Key>
@@ -6955,7 +6951,7 @@ Veuillez réessayer.</Value>
     </Record>
     <Record>
       <Key>JoinMenuAddressPlaceholder</Key>
-      <Value>Entrez IP: Port ici...</Value>
+      <Value>Entrez IP:port ici...</Value>
     </Record>
     <Record>
       <Key>JoinMenuServerDetailConnectButton</Key>
@@ -6966,20 +6962,12 @@ Veuillez réessayer.</Value>
       <Value>Voir les infos</Value>
     </Record>
     <Record>
-      <Key>JoinMenuServerDetailUnFavoriteButton</Key>
-      <Value>Supprimer le favori</Value>
-    </Record>
-    <Record>
       <Key>JoinMenuServerDetailFavoriteButton</Key>
       <Value>Favori</Value>
     </Record>
     <Record>
       <Key>SaveMenuSaveWorldButton</Key>
       <Value>Sauvegarder le monde</Value>
-    </Record>
-    <Record>
-      <Key>SaveMenuOverwriteButton</Key>
-      <Value>Ecraser</Value>
     </Record>
     <Record>
       <Key>SaveMenuNamePlaceholder</Key>
