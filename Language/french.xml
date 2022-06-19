@@ -10363,6 +10363,14 @@ Le programme Stationeers, qui est fondamentalement ouvert à toute l’humanité
       <Value>Flèche Gauche</Value>
     </Record>
     <Record>
+      <Key>Insert</Key>
+      <Value>Inser</Value>
+    </Record>
+    <Record>
+      <Key>Home</Key>
+      <Value>Origine</Value>
+    </Record>
+    <Record>
       <Key>End</Key>
       <Value>Fin</Value>
     </Record>
@@ -10381,6 +10389,10 @@ Le programme Stationeers, qui est fondamentalement ouvert à toute l’humanité
     <Record>
       <Key>CapsLock</Key>
       <Value>Verr Maj.</Value>
+    </Record>
+    <Record>
+      <Key>ScrollLock</Key>
+      <Value>Arrêt défiment</Value>
     </Record>
     <Record>
       <Key>RightShift</Key>
@@ -10443,8 +10455,36 @@ Le programme Stationeers, qui est fondamentalement ouvert à toute l’humanité
       <Value>Sys Req</Value>
     </Record>
     <Record>
+      <Key>Break</Key>
+      <Value>Pause</Value>
+    </Record>
+    <Record>
+      <Key>Mouse0</Key>
+      <Value>Souris 0</Value>
+    </Record>
+    <Record>
+      <Key>Mouse1</Key>
+      <Value>Souris 1</Value>
+    </Record>
+    <Record>
+      <Key>Mouse2</Key>
+      <Value>Souris 2</Value>
+    </Record>
+    <Record>
+      <Key>Mouse3</Key>
+      <Value>Souris 3</Value>
+    </Record>
+    <Record>
       <Key>Mouse4</Key>
-      <Value>Mouse 4</Value>
+      <Value>Souris 4</Value>
+    </Record>
+    <Record>
+      <Key>Mouse5</Key>
+      <Value>Souris 5</Value>
+    </Record>
+    <Record>
+      <Key>Mouse6</Key>
+      <Value>Souris 6</Value>
     </Record>
     <Record>
       <Key>JoystickButton0</Key>

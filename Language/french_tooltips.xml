@@ -10,6 +10,10 @@
       <Value>Niveau actuel de toxicité</Value>
     </Record>
     <Record>
+      <Key>StatusIconToxinWarning</Key>
+      <Value>Nécessite votre attention</Value>
+    </Record>
+    <Record>
       <Key>StatusIconHydrationDesc</Key>
       <Value>L’hydratation est faible</Value>
     </Record>
@@ -64,6 +68,10 @@
     <Record>
       <Key>StatusIconTempuratureCritical</Key>
       <Value>Affiche le niveau de toxicité actuel</Value>
+    </Record>
+    <Record>
+      <Key>StatusIconLeakingName</Key>
+      <Value>La combinaison fuit</Value>
     </Record>
     <Record>
       <Key>StatusIconPowerName</Key>
