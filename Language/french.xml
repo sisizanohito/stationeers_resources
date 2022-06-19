@@ -9442,14 +9442,6 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
       <Value>Changer la main active</Value>
     </Record>
     <Record>
-      <Key>ActivateExplosiveKey</Key>
-      <Value>Activer le contrôle de la souris</Value>
-    </Record>
-    <Record>
-      <Key>ActivateExplosiveTooltipKey1</Key>
-      <Value>Activer le contrôle de la souris</Value>
-    </Record>
-    <Record>
       <Key>CommandStatus</Key>
       <Value>Affiche l&apos;état actuel du serveur et qui est présent actuellement sur le serveur: &quot;/status&quot;</Value>
     </Record>
@@ -9516,10 +9508,6 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     <Record>
       <Key>CommandAddGas</Key>
       <Value>Ajoute du gaz ou des liquides à un réservoir ou un réseau de canalisations donné. : &quot;/addgas [refID] [gasType 1-8] [molecount]&quot;</Value>
-    </Record>
-    <Record>
-      <Key>CommandHelp</Key>
-      <Value>Affiche la liste des commandes. : &quot;/help&quot;</Value>
     </Record>
     <Record>
       <Key>Seedsstring</Key>
@@ -9645,16 +9633,8 @@ Le programme Stationeers, qui est fondamentalement ouvert à toute l’humanité
       <Value>{KEY:PrimaryAction}</Value>
     </Record>
     <Record>
-      <Key>ControlTurnOnDisc</Key>
-      <Value>Allumez</Value>
-    </Record>
-    <Record>
       <Key>ControlQuickMove</Key>
       <Value>Roue de défilement + {KEY:InventorySelect}</Value>
-    </Record>
-    <Record>
-      <Key>ControlQuickMoveDisc</Key>
-      <Value>Article de mouvement rapide</Value>
     </Record>
     <Record>
       <Key>WeatherEventsField</Key>
@@ -9699,10 +9679,6 @@ Le programme Stationeers, qui est fondamentalement ouvert à toute l’humanité
     <Record>
       <Key>BasicButtonTutorial</Key>
       <Value>Basique</Value>
-    </Record>
-    <Record>
-      <Key>NextTutoiralButtonFail</Key>
-      <Value>Impossible de charger le tutoriel suivant. S’il vous plaît revenir au menu.</Value>
     </Record>
     <Record>
       <Key>ImportExportCategoryKey</Key>
@@ -9779,10 +9755,6 @@ Le programme Stationeers, qui est fondamentalement ouvert à toute l’humanité
     <Record>
       <Key>PersonalCategoryKey</Key>
       <Value>Personnel</Value>
-    </Record>
-    <Record>
-      <Key>PressureKeySPDA</Key>
-      <Value>Pression maximale:</Value>
     </Record>
     <Record>
       <Key>CableMaxPowerSPDA</Key>
