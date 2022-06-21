@@ -5339,6 +5339,10 @@
       <Value>Automatická trouba (sada)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemCannedMushroom</Key>
+      <Value>Konzervované houby</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemPoweredEggs</Key>
       <Value>Vejce v prášku</Value>
     </RecordThing>
