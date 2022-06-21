@@ -5343,8 +5343,20 @@
       <Value>Konzervované houby</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemPowderedeggs</Key>
+      <Value>Vejce v prášku</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemPoweredEggs</Key>
       <Value>Vejce v prášku</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemFrenchFries</Key>
+      <Value>Konzervované hranolky</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCannedRicePudding</Key>
+      <Value>Konzervovaný rýžový pudink</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAdvancedPackagingMachine</Key>
