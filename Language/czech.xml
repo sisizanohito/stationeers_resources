@@ -5291,6 +5291,18 @@
       <Value>Semena dýně</Value>
     </RecordThing>
     <RecordThing>
+      <Key>SeedBag_Fern</Key>
+      <Value>Semena kapradin</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>Fertilizer</Key>
+      <Value>Hnojivo</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureAdvancedComposter</Key>
+      <Value>Pokročilý kompostér</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitAdvancedComposter</Key>
       <Value>Pokročilý kompostér (sada)</Value>
     </RecordThing>
@@ -5299,8 +5311,16 @@
       <Value>Malá lednice (sada)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructurePlanter</Key>
+      <Value>Květináč</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>KitPlanter</Key>
       <Value>Pěstitel (sada)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>PortableComposter</Key>
+      <Value>Přenosný kompostér</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPlanter</Key>
