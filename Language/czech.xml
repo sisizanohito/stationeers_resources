@@ -5383,6 +5383,10 @@
       <Value>Vařená sója</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemCookedTomato</Key>
+      <Value>Vařené rajče</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitInsulatedWaterPipe</Key>
       <Value>Izolované vodovodní potrubí (sada)</Value>
     </RecordThing>
