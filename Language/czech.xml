@@ -5671,12 +5671,32 @@
       <Value>Vysílač napájení (sada)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureInteriorDoorTriangle</Key>
+      <Value>Vnitřní dveře s Trojúhelníkem</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureInteriorDoorPaddedThin</Key>
+      <Value>Vnitřní dveře Polstrované tenké</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureInteriorDoorPadded</Key>
+      <Value>Vnitřní dveře polstrované</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureInteriorDoorGlass</Key>
+      <Value>Vnitřní dveře Prosklené</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitInteriorDoors</Key>
       <Value>Interiérové dveře (sada)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureUnpoweredHatch</Key>
       <Value>Nenapájený poklop</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureManualHatch</Key>
+      <Value>Ruční poklop</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPowerTransmitterOmni</Key>
