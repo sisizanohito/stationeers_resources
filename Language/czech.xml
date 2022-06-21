@@ -5207,8 +5207,20 @@
       <Value>Zkažené jídlo</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureShelfMedium</Key>
+      <Value>Police střední</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>PassiveSpeaker</Key>
       <Value>Pasivní reproduktor</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>DeviceLfoVolume</Key>
+      <Value>Nízko frekvenční oscilátor</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureFridgeBig</Key>
+      <Value>Chladnička (Velká)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitFridgeBig</Key>
