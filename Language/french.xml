@@ -9346,10 +9346,6 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
       <Value>Voulez-vous lancer cette fusée ?</Value>
     </Record>
     <Record>
-      <Key>StatusWindowVitals</Key>
-      <Value>Satiété</Value>
-    </Record>
-    <Record>
       <Key>StatusWindowTarget</Key>
       <Value>Cible</Value>
     </Record>
