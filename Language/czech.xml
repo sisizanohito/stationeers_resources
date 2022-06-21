@@ -5255,6 +5255,10 @@
       <Value>Chladnička (Malá)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureRefrigeratedVendingMachine</Key>
+      <Value>Chlazený výdejní automat</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitVendingMachineRefrigerated</Key>
       <Value>Chlazený prodejní automat (sada)</Value>
     </RecordThing>
