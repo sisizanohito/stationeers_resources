@@ -5702,6 +5702,18 @@
       <Key>ItemKitPowerTransmitterOmni</Key>
       <Value>Omni vysílač napájení (sada)</Value>
     </RecordThing>
+    <RecordThing>
+      <Key>StructurePowerTransmitterOmni</Key>
+      <Value>Struktura Vysílače energie Omni</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>Battery_Wireless_cell</Key>
+      <Value>Bezdrátová baterie - Malá</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>Battery_Wireless_cell_Big</Key>
+      <Value>Bezdrátová baterie - Velká</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>
