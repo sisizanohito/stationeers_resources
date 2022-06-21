@@ -5627,6 +5627,10 @@
       <Value>Stirlingův motor (sada)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureStirlingEngine</Key>
+      <Value>Stirlingův motor</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureShortLocker</Key>
       <Value>Krátká skříňka</Value>
     </RecordThing>
