@@ -5203,6 +5203,10 @@
       <Value>Izolovaný konektor nádrže na kapalinu</Value>
     </RecordThing>
     <RecordThing>
+      <Key>DecayedFood</Key>
+      <Value>Zkažené jídlo</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>PassiveSpeaker</Key>
       <Value>Pasivní reproduktor</Value>
     </RecordThing>
