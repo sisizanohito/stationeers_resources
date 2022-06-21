@@ -4714,6 +4714,10 @@
       <Value>Tuyau droit (pour liquides)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructurePipeLiquidCorner</Key>
+      <Value>Tuyau pour liquide (en coin)</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>StructurePipeLiquidCrossJunction3</Key>
       <Value>Tube (En Croix, trois voies)</Value>
     </RecordThing>
@@ -4812,6 +4816,10 @@
     <RecordThing>
       <Key>ItemKitLiquidRegulator</Key>
       <Value>Kit (Régulateur de liquide)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureBackLiquidPressureRegulator</Key>
+      <Value>Régulateur de pression arrière pour liquide</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidPressureRegulator</Key>
