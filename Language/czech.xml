@@ -5726,6 +5726,10 @@
       <Key>StructureLargeExtendableRadiator</Key>
       <Value>Velký výsuvný radiátor</Value>
     </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageLargeExtendableRadiator01</Key>
+      <Value>Trosky velkého výsuvného radiátoru 01</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>
