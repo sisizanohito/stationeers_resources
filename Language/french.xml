@@ -6459,6 +6459,10 @@
       <Value>Echelle HUD</Value>
     </Record>
     <Record>
+      <Key>SettingsDisplayLatency</Key>
+      <Value>Afficher la latence</Value>
+    </Record>
+    <Record>
       <Key>SettingsDisplayFPS</Key>
       <Value>Afficher les FPS</Value>
     </Record>
@@ -6597,6 +6601,10 @@
     <Record>
       <Key>NotificationTitle</Key>
       <Value>Sauvegarde réussie</Value>
+    </Record>
+    <Record>
+      <Key>SaveLocationBroken</Key>
+      <Value>Impossible d’accéder à l&apos;emplacement des sauvegardes, avez-vous utilisez un caractère invalide ? Essayez de changer le répertoire de sauvegarde dans les paramètres.</Value>
     </Record>
     <Record>
       <Key>PlayerIsConnecting</Key>
@@ -6935,6 +6943,10 @@
     <Record>
       <Key>PromptOverwriteTitle</Key>
       <Value>Écraser</Value>
+    </Record>
+    <Record>
+      <Key>PromptOverwriteBody</Key>
+      <Value>Êtes-vous sûr de vouloir écraser le monde sauvegardé déjà existant ?</Value>
     </Record>
     <Record>
       <Key>PromptOverwriteConfirm</Key>
@@ -9314,6 +9326,10 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
       <Value>Le chemin de sauvegarde n&apos;est pas accessible en écriture</Value>
     </Record>
     <Record>
+      <Key>FramerateLock</Key>
+      <Value>Fréquence d&apos;image cible</Value>
+    </Record>
+    <Record>
       <Key>SaveBeforeTravel</Key>
       <Value>Vous devez sauver votre jeu avant de voyager vers un autre monde !</Value>
     </Record>
@@ -9773,6 +9789,10 @@ Le programme Stationeers, qui est fondamentalement ouvert à toute l’humanité
       <Value>Roue de défilement + {KEY:InventorySelect}</Value>
     </Record>
     <Record>
+      <Key>ControlQuickMoveDisc</Key>
+      <Value>Déplacement rapide d&apos;objet</Value>
+    </Record>
+    <Record>
       <Key>WeatherEventsField</Key>
       <Value>Evénements météorologiques</Value>
     </Record>
@@ -9911,6 +9931,10 @@ Le programme Stationeers, qui est fondamentalement ouvert à toute l’humanité
     <Record>
       <Key>StationpediaAdvancedGuides</Key>
       <Value>Univers</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaConstructWith</Key>
+      <Value>Construit avec :</Value>
     </Record>
     <Record>
       <Key>StationpediaPrefabHash</Key>

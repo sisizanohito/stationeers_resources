@@ -5571,6 +5571,30 @@
       <Value>Základní výbušnina</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemMiningCharge</Key>
+      <Value>Těžební výbušnina</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureHorizontalAutoMiner</Key>
+      <Value>OPRY</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureReinforcedCompositeWindow</Key>
+      <Value>Vyztužené okno (Kompozit) </Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureReinforcedCompositeWindowSteel</Key>
+      <Value>Vyztužené okno (Kompozit oceli) </Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureReinforcedWallPaddedWindow</Key>
+      <Value>Vyztužené okno (polstrované)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureReinforcedWallPaddedWindowThin</Key>
+      <Value>Vyztužené okno (tenké)</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitHorizontalAutoMiner</Key>
       <Value>OGRE (sada)</Value>
     </RecordThing>
