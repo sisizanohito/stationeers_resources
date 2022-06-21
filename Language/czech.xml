@@ -5183,6 +5183,22 @@
       <Value>Logický krokový sekvencer</Value>
     </RecordThing>
     <RecordThing>
+      <Key>DeviceStepUnit</Key>
+      <Value>Kroková jednotka</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StopWatch</Key>
+      <Value>Stop hodiny</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemSoundCartridgeBass</Key>
+      <Value>Zvuková kazeta - Basa</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemSoundCartridgeDrums</Key>
+      <Value>Zvuková kazeta - Bubny</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitMusicMachines</Key>
       <Value>Hudební stroje (sada)</Value>
     </RecordThing>
@@ -5225,6 +5241,10 @@
     <RecordThing>
       <Key>ItemKitFridgeBig</Key>
       <Value>Velká lednice (sada)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureFridgeSmall</Key>
+      <Value>Chladnička (Malá)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitVendingMachineRefrigerated</Key>
