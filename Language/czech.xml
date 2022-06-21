@@ -5619,6 +5619,10 @@
       <Value>Hádova květina (Alfa kmen)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemPlantThermogenic_Genepool2</Key>
+      <Value>Hádova květina (Beta kmen)</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitStirlingEngine</Key>
       <Value>Stirlingův motor (sada)</Value>
     </RecordThing>
