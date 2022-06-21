@@ -82,5 +82,9 @@
       <Key>MilkTask2</Key>
       <Value>Изготовьте и отправьте 2 пакета молока.</Value>
     </Record>
+    <Record>
+      <Key>BorznacsNarration4D</Key>
+      <Value>От всей этой еды весьма пересыхает горло. Мне нужно выпить. Лучше всего подойдёт свежее молоко. Так что сделай его!</Value>
+    </Record>
   </Interface>
 </Language>
