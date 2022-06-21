@@ -5323,6 +5323,10 @@
       <Value>Přenosný kompostér</Value>
     </RecordThing>
     <RecordThing>
+      <Key>AppliancePackagingMachine</Key>
+      <Value>Základní konzervátor</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitPlanter</Key>
       <Value>Pěstitel (sada)</Value>
     </RecordThing>
