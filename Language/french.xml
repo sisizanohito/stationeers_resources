@@ -1103,7 +1103,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemLabeller</Key>
-      <Value>Etiqueteuse</Value>
+      <Value>Étiqueteuse</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemLightSword</Key>
@@ -6540,7 +6540,7 @@
     </Record>
     <Record>
       <Key>SettingsVolumetricLighting</Key>
-      <Value>Eclairage volumétrique</Value>
+      <Value>Éclairage volumétrique</Value>
     </Record>
     <Record>
       <Key>SettingsPixelLightCount</Key>

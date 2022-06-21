@@ -5635,6 +5635,10 @@
       <Value>Vysílač mikrovlnné energie</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructurePowerTransmitterReceiver</Key>
+      <Value>Přijímač mikrovlnné energie</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureShortLocker</Key>
       <Value>Krátká skříňka</Value>
     </RecordThing>
