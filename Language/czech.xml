@@ -5171,6 +5171,10 @@
       <Value>Tepelný výměník - Kapaliny + Plyny</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureHeatExchangeLiquidAndGas</Key>
+      <Value>Tepelný výměník Kapaliny a Plyny</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitHangerDoor</Key>
       <Value>Závěsné dveře (sada)</Value>
     </RecordThing>
