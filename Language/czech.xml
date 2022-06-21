@@ -5639,12 +5639,32 @@
       <Value>Přijímač mikrovlnné energie</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureOverheadShortCornerLocker</Key>
+      <Value>Stropní rohová skřínka</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureOverheadShortLocker</Key>
+      <Value>Stropní skřínka</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureShortCornerLocker</Key>
+      <Value>Malá rohová skřínka</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureShortLocker</Key>
       <Value>Krátká skříňka</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCornerLocker</Key>
       <Value>Rohová skříňka</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemPlantEndothermic_Creative</Key>
+      <Value>Endotermická rostlina Kreativní</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemPlantThermogenic_Creative</Key>
+      <Value>Termogenní rostlina Kreativní</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPowerTransmitter</Key>
