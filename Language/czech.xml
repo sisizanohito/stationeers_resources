@@ -5199,6 +5199,10 @@
       <Value>Zvuková kazeta - Bubny</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemSoundCartridgeLeads</Key>
+      <Value>Zvuková kazeta - Sinth</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitMusicMachines</Key>
       <Value>Hudební stroje (sada)</Value>
     </RecordThing>
