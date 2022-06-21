@@ -5387,6 +5387,10 @@
       <Value>Siège passager gauche</Value>
     </Record>
     <Record>
+      <Key>PassengerSeatRight</Key>
+      <Value>Siège passager droit</Value>
+    </Record>
+    <Record>
       <Key>DataDisk</Key>
       <Value>Disque de données</Value>
     </Record>

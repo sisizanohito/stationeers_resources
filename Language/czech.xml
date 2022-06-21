@@ -5559,8 +5559,16 @@
       <Value>Jednosměrný ventil (kapalina)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureWindowShutter</Key>
+      <Value>Okenice</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitWindowShutter</Key>
       <Value>Okenní roleta (sada)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemExplosiveBasic</Key>
+      <Value>Základní výbušnina</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitHorizontalAutoMiner</Key>
