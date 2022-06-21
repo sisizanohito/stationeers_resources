@@ -5607,10 +5607,6 @@
       <Value>OGRE (sada)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemLaptop</Key>
-      <Value>Notebook</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemKitStirlingEngine</Key>
       <Value>Stirlingův motor (sada)</Value>
     </RecordThing>
