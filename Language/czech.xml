@@ -5516,15 +5516,39 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemPipeHeater</Key>
-      <Value>Sada ohřívače trubek (plyn) </Value>
+      <Value>Ohřívač trubek - sada (plyn)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWaterPipeHeater</Key>
+      <Value>Ohřívač trubek (kapaliny)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemLiquidPipeHeater</Key>
+      <Value>Ohřívač trubek - sada (kapalina)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLiquidPipeHeater</Key>
+      <Value>Ohřívač trubek (kapaliny)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureTurboVolumePump</Key>
+      <Value>Turbo objemové čerpadlo (plyn)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitTurboVolumePump</Key>
       <Value>Turbo objemové čerpadlo - plyn (sada)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureLiquidTurboVolumePump</Key>
+      <Value>Turbo objemové čerpadlo (kapalina)</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitLiquidTurboVolumePump</Key>
       <Value>Turbo objemové čerpadlo - kapalina (sada)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemMkIIToolbelt</Key>
+      <Value>Opasek na nářadí MK II</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitWindowShutter</Key>
