@@ -5407,6 +5407,14 @@
       <Value>Vejce v prášku</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemCookedCondensedMilk</Key>
+      <Value>Kondenzované mléko</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemTropicalPlant</Key>
+      <Value>Tropická lilie</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitInsulatedWaterPipe</Key>
       <Value>Izolované vodovodní potrubí (sada)</Value>
     </RecordThing>
