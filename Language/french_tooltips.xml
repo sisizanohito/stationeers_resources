@@ -26,6 +26,10 @@
       <Value>Attention à l’hydratation</Value>
     </Record>
     <Record>
+      <Key>HydrationCritical</Key>
+      <Value>Déshydratation critique</Value>
+    </Record>
+    <Record>
       <Key>StatusIconOxygenName</Key>
       <Value>Approvisionnement en oxygène</Value>
     </Record>

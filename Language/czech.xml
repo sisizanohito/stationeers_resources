@@ -5595,8 +5595,20 @@
       <Value>Vyztužené okno (tenké)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemStelliteGlassSheets</Key>
+      <Value>Stelitové skleněné tabule</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitReinforcedWindows</Key>
+      <Value>Vyztužené okno (Sada)</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitHorizontalAutoMiner</Key>
       <Value>OGRE (sada)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemLaptop</Key>
+      <Value>Notebook</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitStirlingEngine</Key>

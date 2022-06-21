@@ -219,6 +219,34 @@
       <Value>Keypad 9</Value>
     </Record>
     <Record>
+      <Key>KeypadPeriod</Key>
+      <Value>&lt;size=40%&gt;Num&lt;/size&gt;  .</Value>
+    </Record>
+    <Record>
+      <Key>KeypadDivide</Key>
+      <Value>&lt;size=40%&gt;Num&lt;/size&gt;  /</Value>
+    </Record>
+    <Record>
+      <Key>KeypadMultiply</Key>
+      <Value>&lt;size=40%&gt;Num&lt;/size&gt;  *</Value>
+    </Record>
+    <Record>
+      <Key>KeypadMinus</Key>
+      <Value>&lt;size=40%&gt;Num&lt;/size&gt;  -</Value>
+    </Record>
+    <Record>
+      <Key>KeypadPlus</Key>
+      <Value>&lt;size=40%&gt;Num&lt;/size&gt;  +</Value>
+    </Record>
+    <Record>
+      <Key>KeypadEnter</Key>
+      <Value>&lt;size=40%&gt;Num&lt;/size&gt;  Entrée</Value>
+    </Record>
+    <Record>
+      <Key>KeypadEquals</Key>
+      <Value>&lt;size=40%&gt;Num&lt;/size&gt;  =</Value>
+    </Record>
+    <Record>
       <Key>UpArrow</Key>
       <Value>Flèche Haut</Value>
     </Record>
