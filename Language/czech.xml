@@ -5387,6 +5387,26 @@
       <Value>Vařené rajče</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemCookedCorn</Key>
+      <Value>Vařená kukuřice</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCookedRice</Key>
+      <Value>Vařená rýže</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCookedPumpkin</Key>
+      <Value>Vařená dýně</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCookedMushroom</Key>
+      <Value>Vařená houba</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCookedPowderedEggs</Key>
+      <Value>Vejce v prášku</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitInsulatedWaterPipe</Key>
       <Value>Izolované vodovodní potrubí (sada)</Value>
     </RecordThing>
