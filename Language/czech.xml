@@ -5467,6 +5467,18 @@
       <Value>Izolované rovné kapalinové potrubí</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureInsulatedPipeLiquidCorner</Key>
+      <Value>Izolované kapalinové potrubí (Rohové)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureInsulatedPipeLiquidCrossJunction</Key>
+      <Value>Izolované kapalinové potrubí (Křížové)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureInsulatedPipeLiquidCrossJunction4</Key>
+      <Value>Izolované kapalinové potrubí (Křížové 4)</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitTurboVolumePump</Key>
       <Value>Turbo objemové čerpadlo - plyn (sada)</Value>
     </RecordThing>
