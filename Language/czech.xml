@@ -5507,6 +5507,18 @@
       <Value>Jednosměrný ventil (plyn)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureOneWayValve</Key>
+      <Value>Jednosměrný ventil (plyn)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureWaterPipeHeater</Key>
+      <Value>Ohřívač trubek (plyn)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemPipeHeater</Key>
+      <Value>Sada ohřívače trubek (plyn) </Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitTurboVolumePump</Key>
       <Value>Turbo objemové čerpadlo - plyn (sada)</Value>
     </RecordThing>
