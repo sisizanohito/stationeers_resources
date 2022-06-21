@@ -5135,6 +5135,10 @@
       <Value>Kapalinový odtok (sada)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureLiquidDrain</Key>
+      <Value>Kapalinová výpusť</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemLiquidPipeAnalyzer</Key>
       <Value>Analyzátor kapalných potrubí (sada)</Value>
     </RecordThing>
@@ -5145,6 +5149,10 @@
     <RecordThing>
       <Key>ItemKitModularRocketGasMining</Key>
       <Value>Automatizovaný modul pro těžbu plynu (sada)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureModularRocketGasMining</Key>
+      <Value>Automatický raketový modul pro sběr plynů</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitHeatExchanger</Key>
