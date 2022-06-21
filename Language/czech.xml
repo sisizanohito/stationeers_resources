@@ -5607,6 +5607,14 @@
       <Value>OGRE (sada)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemPlantEndothermic_Genepool1</Key>
+      <Value>Winterspawn (Alfa verze)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemPlantEndothermic_Genepool2</Key>
+      <Value>Winterspawn (Beta verze)</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitStirlingEngine</Key>
       <Value>Stirlingův motor (sada)</Value>
     </RecordThing>
