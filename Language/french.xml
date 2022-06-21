@@ -16,8 +16,8 @@
     </RecordReagent>
     <RecordReagent>
       <Key>Egg</Key>
-      <Value>Oeuf</Value>
-      <Unit>oeuf</Unit>
+      <Value>Œuf</Value>
+      <Unit>œuf</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Iron</Key>
@@ -727,7 +727,7 @@
     </RecordThing>
     <RecordThing>
       <Key>EffectSplatEgg</Key>
-      <Value>Effet d&apos;oeuf écrasé</Value>
+      <Value>Effet d&apos;œuf écrasé</Value>
     </RecordThing>
     <RecordThing>
       <Key>EntityAlien</Key>
@@ -851,7 +851,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemEgg</Key>
-      <Value>Oeuf</Value>
+      <Value>Œuf</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemEggBottom</Key>
@@ -859,7 +859,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemEggCarton</Key>
-      <Value>Carton d&apos;oeufs</Value>
+      <Value>Carton d&apos;œufs</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemEggTop</Key>
@@ -871,7 +871,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemFertilizedEgg</Key>
-      <Value>Oeuf fécondé</Value>
+      <Value>Œuf fécondé</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemFireExtinguisher</Key>
@@ -5838,7 +5838,7 @@
     </Record>
     <Record>
       <Key>LayEgg</Key>
-      <Value>Pondre un oeuf</Value>
+      <Value>Pondre un œuf</Value>
     </Record>
     <Record>
       <Key>Eat</Key>
@@ -8567,11 +8567,11 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>ElectronicReaderEgg</Key>
-      <Value>Oeuf</Value>
+      <Value>Œuf</Value>
     </Record>
     <Record>
       <Key>ElectronicReadereggs</Key>
-      <Value>oeufs</Value>
+      <Value>œufs</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderTime</Key>

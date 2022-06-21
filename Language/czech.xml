@@ -5415,6 +5415,10 @@
       <Value>Tropická lilie</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemPeaceLily</Key>
+      <Value>Lilie míru</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitInsulatedWaterPipe</Key>
       <Value>Izolované vodovodní potrubí (sada)</Value>
     </RecordThing>
