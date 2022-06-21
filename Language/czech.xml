@@ -5024,6 +5024,10 @@
       <Value>Malá izolovaná nádrž na kapaliny</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureRocketModuleEnergyGenerator</Key>
+      <Value>Automatický raketový modul pro sběr elektrické energie</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureRocketModuleMiningJunk</Key>
     </RecordThing>
     <RecordThing>
