@@ -94,6 +94,10 @@
       <Value>Escalade</Value>
     </Record>
     <Record>
+      <Key>StatusIconLightName</Key>
+      <Value>Allumer/Éteindre la lampe frontale</Value>
+    </Record>
+    <Record>
       <Key>StatusIconInternalsName</Key>
       <Value>Commuter le casque ouvert/fermer</Value>
     </Record>
@@ -112,6 +116,14 @@
     <Record>
       <Key>StatusIconStunName</Key>
       <Value>Pourcentage d’étourdissements</Value>
+    </Record>
+    <Record>
+      <Key>StatusIconAirTankName</Key>
+      <Value>Capacité actuelle du réservoir d&apos;air</Value>
+    </Record>
+    <Record>
+      <Key>StatusIconJetpackWarningName</Key>
+      <Value>[TEST] Capacité propulsive</Value>
     </Record>
     <Record>
       <Key>StatusIconFilterName</Key>
