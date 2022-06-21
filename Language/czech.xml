@@ -5179,6 +5179,10 @@
       <Value>Závěsné dveře (sada)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>LogicStepSequencer8</Key>
+      <Value>Logický krokový sekvencor</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitMusicMachines</Key>
       <Value>Hudební stroje (sada)</Value>
     </RecordThing>
