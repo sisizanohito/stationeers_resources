@@ -4985,7 +4985,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemMKIIWireCutters</Key>
-      <Value>Kleště Mk II</Value>
+      <Value>Štípací kleště Mk II</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemMKIIWrench</Key>
@@ -5359,8 +5359,28 @@
       <Value>Konzervovaný rýžový pudink</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemCannedCondensedMilk</Key>
+      <Value>Konzervované kondenzované mléko</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCannedEdamame</Key>
+      <Value>Konzervovaný Edamame</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCannedPowderedEggs</Key>
+      <Value>Konzervovaná prášková vejce</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureAdvancedPackagingMachine</Key>
+      <Value>Pokročilí konzervátor</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitAdvancedPackagingMachine</Key>
-      <Value>Pokročilý balicí stroj (sada)</Value>
+      <Value>Pokročilý konzervátor (sada)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCookedSoybean</Key>
+      <Value>Vařená sója</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitInsulatedWaterPipe</Key>
