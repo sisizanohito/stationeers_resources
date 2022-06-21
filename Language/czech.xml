@@ -5263,8 +5263,32 @@
       <Value>Chlazený prodejní automat (sada)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>SeedBag_Potato</Key>
+      <Value>Semena brambor</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>SeedBag_Corn</Key>
       <Value>Semena kukuřice</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>SeedBag_Wheet</Key>
+      <Value>Semena pšenice</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>SeedBag_Tomato</Key>
+      <Value>Semena rajčat</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>SeedBag_Soybean</Key>
+      <Value>Semena sójy</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>SeedBag_Rice</Key>
+      <Value>Semen rýže</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>SeedBag_Pumpkin</Key>
+      <Value>Semena dýně</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAdvancedComposter</Key>
