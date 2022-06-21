@@ -5200,7 +5200,11 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemSoundCartridgeLeads</Key>
-      <Value>Zvuková kazeta - Sinth</Value>
+      <Value>Zvuková kazeta - Olůvka</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemSoundCartridgeSynth</Key>
+      <Value>Zvuková kazeta - Synth</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitMusicMachines</Key>
