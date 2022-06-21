@@ -5039,6 +5039,10 @@
       <Value>Modulární autonomní raketa</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureRocketModuleCollectorLiquid</Key>
+      <Value>Automatický raketový modul pro sběr kapalin</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureModularRocketAutomation</Key>
       <Value>Automatizovaný autonomní raketový modul</Value>
     </RecordThing>
