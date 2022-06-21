@@ -5024,6 +5024,22 @@
       <Value>Malá izolovaná nádrž na kapaliny</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureModularRocketLiquidTank</Key>
+      <Value>Automatický raketový modul pro skladování kapalin</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureRocketModuleSilo</Key>
+      <Value>Automatický raketový modul sila</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureRocketModuleBattery</Key>
+      <Value>Automatický raketový modul pro skladování elektrické energie</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureRocketModuleGasCollector</Key>
+      <Value>Automatický raketový modul pro sběr plynů</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureRocketModuleEnergyGenerator</Key>
       <Value>Automatický raketový modul pro sběr elektrické energie</Value>
     </RecordThing>
@@ -5047,6 +5063,10 @@
       <Value>Automatizovaný autonomní raketový modul</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureModularRocketCouplingDown</Key>
+      <Value>Automatický raketový spojovací modul (dolů)</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureModularRocketCouplingUp</Key>
       <Value>Automatizovaný raketový spojovací modul (nahoru)</Value>
     </RecordThing>
@@ -5067,8 +5087,16 @@
       <Value>Automatický raketový modul na těžbu rud (sada)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureModularRocketIceMining</Key>
+      <Value>Automatický raketový modul pro těžbu ledu</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitModularRocketIceMining</Key>
       <Value>Automatický raketový modul na těžbu ledu (sada)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureModularRocketScrapMining</Key>
+      <Value>Automatický raketový modul pro sběr vesmírného odpadu</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitModularRocketScrapMining</Key>
