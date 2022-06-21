@@ -4782,6 +4782,10 @@
       <Value>Citerne portable MKII (Eau)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureLiquidPipeRadiator</Key>
+      <Value>Radiateur de tuyau pour liquide</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemPipeLiquidRadiator</Key>
       <Value>Kit (Radiateur de tuyaux)</Value>
     </RecordThing>

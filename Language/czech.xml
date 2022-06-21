@@ -5551,6 +5551,14 @@
       <Value>Opasek na nářadí MK II</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemMiningBeltMKII</Key>
+      <Value>Hornický opasek MK II</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLiquidPipeOneWayValve</Key>
+      <Value>Jednosměrný ventil (kapalina)</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitWindowShutter</Key>
       <Value>Okenní roleta (sada)</Value>
     </RecordThing>
