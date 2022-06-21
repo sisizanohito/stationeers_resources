@@ -5631,6 +5631,10 @@
       <Value>Stirlingův motor</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructurePowerTransmitter</Key>
+      <Value>Vysílač mikrovlnné energie</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureShortLocker</Key>
       <Value>Krátká skříňka</Value>
     </RecordThing>
