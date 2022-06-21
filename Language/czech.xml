@@ -5419,6 +5419,14 @@
       <Value>Lilie míru</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemDecorFern</Key>
+      <Value>Okrasné kapradí</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemFilterFern</Key>
+      <Value>Darga kapradina</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitInsulatedWaterPipe</Key>
       <Value>Izolované vodovodní potrubí (sada)</Value>
     </RecordThing>
