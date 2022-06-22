@@ -4985,7 +4985,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemMKIIWireCutters</Key>
-      <Value>Štípací kleště Mk II</Value>
+      <Value>Štípačky na dráty Mk II</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemMKIIWrench</Key>
@@ -5025,11 +5025,11 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureModularRocketLiquidTank</Key>
-      <Value>Automatický raketový modul pro skladování kapalin</Value>
+      <Value>Automatizovaný raketový modul pro skladování kapalin</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureRocketModuleSilo</Key>
-      <Value>Automatický raketový modul sila</Value>
+      <Value>Automatizovaný raketový modul sila</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureRocketModuleBattery</Key>
