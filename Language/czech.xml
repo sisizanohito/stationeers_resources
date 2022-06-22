@@ -5256,7 +5256,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureRefrigeratedVendingMachine</Key>
-      <Value>Chlazený výdejní automat</Value>
+      <Value>Chlazený prodejní automat</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitVendingMachineRefrigerated</Key>
