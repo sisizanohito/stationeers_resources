@@ -5056,7 +5056,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureRocketModuleCollectorLiquid</Key>
-      <Value>Automatický raketový modul pro sběr kapalin</Value>
+      <Value>Automatizovaný raketový modul pro sběr kapalin</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureModularRocketAutomation</Key>
@@ -5064,7 +5064,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureModularRocketCouplingDown</Key>
-      <Value>Automatický raketový spojovací modul (dolů)</Value>
+      <Value>Automatizovaný raketový spojovací modul (dolů)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureModularRocketCouplingUp</Key>
@@ -5088,7 +5088,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureModularRocketIceMining</Key>
-      <Value>Automatický raketový modul pro těžbu ledu</Value>
+      <Value>Automatizovaný raketový modul pro těžbu ledu</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitModularRocketIceMining</Key>
