@@ -5576,11 +5576,11 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureReinforcedCompositeWindow</Key>
-      <Value>Vyztužené okno (Kompozit) </Value>
+      <Value>Vyztužené okno (kompozitní)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureReinforcedCompositeWindowSteel</Key>
-      <Value>Vyztužené okno (Kompozit oceli) </Value>
+      <Value>Vyztužené okno (kompozitní ocel)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureReinforcedWallPaddedWindow</Key>
@@ -5612,11 +5612,11 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemPlantThermogenic_Genepool1</Key>
-      <Value>Hádova květina (Alfa kmen)</Value>
+      <Value>Hadesova květina (Alfa kmen)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemPlantThermogenic_Genepool2</Key>
-      <Value>Hádova květina (Beta kmen)</Value>
+      <Value>Hadesova květina (Beta kmen)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitStirlingEngine</Key>
