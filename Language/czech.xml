@@ -1785,11 +1785,11 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureStacker</Key>
-      <Value>Stohovač</Value>
+      <Value>Svazkovač</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureStackerReverse</Key>
-      <Value>Stohovač (obrácený)</Value>
+      <Value>Svazkovač (obrácený)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureStairs4x2</Key>
@@ -2193,7 +2193,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitStacker</Key>
-      <Value>Stohovač (sada)</Value>
+      <Value>Svazkovač (sada)</Value>
     </RecordThing>
     <RecordThing>
       <Key>CartridgeTracker</Key>
@@ -8445,7 +8445,7 @@
     </Record>
     <Record>
       <Key>LogicTypeOutput</Key>
-      <Value>Výstupní operace pro zařízení pro manipulaci s tříděním, jako je stohovač nebo třídič, kdy v logickém režimu zařízení provede pouze jedno opakování, pokud je nastavena nula nebo více, a poté se vrátí na -1 a čeká na další pokyny</Value>
+      <Value>Výstupní operace pro zařízení pro manipulaci s tříděním, jako je svazkovač nebo třídič, kdy v logickém režimu zařízení provede pouze jedno opakování, pokud je nastavena nula nebo více, a poté se vrátí na -1 a čeká na další pokyny</Value>
     </Record>
     <Record>
       <Key>LogicTypePressureSetting</Key>
@@ -8525,7 +8525,7 @@
     </Record>
     <Record>
       <Key>LogicSlotTypeQuantity</Key>
-      <Value>vrací aktuální množství, jako je velikost stohu, položky na pozici</Value>
+      <Value>vrací aktuální množství, jako je velikost svazku, položky na pozici</Value>
     </Record>
     <Record>
       <Key>LogicSlotTypeDamage</Key>
@@ -8577,7 +8577,7 @@
     </Record>
     <Record>
       <Key>LogicSlotTypeMaxQuantity</Key>
-      <Value>vrací maximální velikost stohu položky na pozici</Value>
+      <Value>vrací maximální velikost svazku položky na pozici</Value>
     </Record>
     <Record>
       <Key>FuelInTankRemaining</Key>
@@ -9821,7 +9821,7 @@
     </Record>
     <Record>
       <Key>ScriptCommandPeek</Key>
-      <Value>Registr = hodnota v horní části stohu</Value>
+      <Value>Registr = hodnota v horní části svazku</Value>
     </Record>
     <Record>
       <Key>ScriptCommandPush</Key>
