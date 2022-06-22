@@ -5560,7 +5560,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureWindowShutter</Key>
-      <Value>Okenice</Value>
+      <Value>Okenní žaluzie</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitWindowShutter</Key>
@@ -5573,10 +5573,6 @@
     <RecordThing>
       <Key>ItemMiningCharge</Key>
       <Value>Těžební výbušnina</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureHorizontalAutoMiner</Key>
-      <Value>OPRY</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureReinforcedCompositeWindow</Key>
