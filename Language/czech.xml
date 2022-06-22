@@ -1460,10 +1460,6 @@
       <Value>Regulátor zpětného tlaku</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureBattery</Key>
-      <Value>Baterie</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>StructureBatteryCharger</Key>
       <Value>Nabíječka baterií</Value>
     </RecordThing>
