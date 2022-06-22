@@ -5232,7 +5232,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureShelfMedium</Key>
-      <Value>Police střední</Value>
+      <Value>Střední police</Value>
     </RecordThing>
     <RecordThing>
       <Key>PassiveSpeaker</Key>
@@ -5240,7 +5240,7 @@
     </RecordThing>
     <RecordThing>
       <Key>DeviceLfoVolume</Key>
-      <Value>Nízko frekvenční oscilátor</Value>
+      <Value>Nízkofrekvenční oscilátor</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureFridgeBig</Key>
