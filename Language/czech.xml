@@ -5152,7 +5152,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureModularRocketGasMining</Key>
-      <Value>Automatický raketový modul pro sběr plynů</Value>
+      <Value>Automatizovaný raketový modul pro sběr plynů</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitHeatExchanger</Key>
@@ -5160,19 +5160,19 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureHeatExchangerLiquidtoLiquid</Key>
-      <Value>Tepelný výměník - Kapaliny</Value>
+      <Value>Výměník tepla - Kapaliny</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureHeatExchangerGastoGas</Key>
-      <Value>Tepelný výměník - Plyny</Value>
+      <Value>Výměník tepla - Plyny</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureHeatExchangeLiquidtoGas</Key>
-      <Value>Tepelný výměník - Kapaliny + Plyny</Value>
+      <Value>Výměník tepla - Kapaliny + Plyny</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureHeatExchangeLiquidAndGas</Key>
-      <Value>Tepelný výměník Kapaliny a Plyny</Value>
+      <Value>Výměník tepla Kapaliny a Plyny</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitHangerDoor</Key>
@@ -5188,7 +5188,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StopWatch</Key>
-      <Value>Stop hodiny</Value>
+      <Value>Stopky</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemSoundCartridgeBass</Key>
