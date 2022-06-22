@@ -5033,15 +5033,15 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureRocketModuleBattery</Key>
-      <Value>Automatický raketový modul pro skladování elektrické energie</Value>
+      <Value>Automatizovaný raketový modul pro skladování elektrické energie</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureRocketModuleGasCollector</Key>
-      <Value>Automatický raketový modul pro sběr plynů</Value>
+      <Value>Automatizovaný raketový modul pro sběr plynů</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureRocketModuleEnergyGenerator</Key>
-      <Value>Automatický raketový modul pro sběr elektrické energie</Value>
+      <Value>Automatizovaný raketový modul pro sběr elektrické energie</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureRocketModuleMiningJunk</Key>
