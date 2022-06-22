@@ -1405,11 +1405,11 @@
     </RecordThing>
     <RecordThing>
       <Key>MotherboardLogic</Key>
-      <Value>Logika</Value>
+      <Value>Logická základní deska</Value>
     </RecordThing>
     <RecordThing>
       <Key>MotherboardManufacturing</Key>
-      <Value>Výroba</Value>
+      <Value>Výrobní základní deska</Value>
     </RecordThing>
     <RecordThing>
       <Key>MothershipCore</Key>
@@ -2406,6 +2406,10 @@
     <RecordThing>
       <Key>ItemSoyOil</Key>
       <Value>Sojový olej</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemFries</Key>
+      <Value>Francouzské hranolky</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableCornerH3</Key>
