@@ -9825,11 +9825,11 @@
     </Record>
     <Record>
       <Key>ScriptCommandPush</Key>
-      <Value>Posune hodnotu A do stohu na sp a zvyšuje sp</Value>
+      <Value>Posune hodnotu A do svazku na sp a zvyšuje sp</Value>
     </Record>
     <Record>
       <Key>ScriptCommandPop</Key>
-      <Value>Registr = hodnota v horní části zstohu a snižuje sp</Value>
+      <Value>Registr = hodnota v horní části svazku a snižuje sp</Value>
     </Record>
     <Record>
       <Key>ScriptCommandHcf</Key>
@@ -10674,7 +10674,7 @@ Program Stationeers je otevřen všem lidem, a to jak z oblasti stavebního inž
     </Record>
     <Record>
       <Key>StationpediaStackSize</Key>
-      <Value>Velikost stohu:</Value>
+      <Value>Velikost svazku:</Value>
     </Record>
     <Record>
       <Key>StationpediaThingUnit</Key>
