@@ -5364,15 +5364,15 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemCannedEdamame</Key>
-      <Value>Konzervovaný Edamame</Value>
+      <Value>Konzervovaný edamame</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemCannedPowderedEggs</Key>
-      <Value>Konzervovaná prášková vejce</Value>
+      <Value>Konzervovaná vejce v prášku</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureAdvancedPackagingMachine</Key>
-      <Value>Pokročilí konzervátor</Value>
+      <Value>Pokročilý konzervátor</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAdvancedPackagingMachine</Key>
