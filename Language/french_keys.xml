@@ -292,15 +292,7 @@
     </Record>
     <Record>
       <Key>ScrollLock</Key>
-      <Value>Arrêt défiment</Value>
-    </Record>
-    <Record>
-      <Key>RightShift</Key>
-      <Value>Shift Droit</Value>
-    </Record>
-    <Record>
-      <Key>LeftShift</Key>
-      <Value>Shift Gauche</Value>
+      <Value>Arrêt défilement</Value>
     </Record>
     <Record>
       <Key>RightAlt</Key>
