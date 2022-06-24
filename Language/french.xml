@@ -5522,10 +5522,6 @@
       <Key>HandSlot</Key>
       <Value>Main</Value>
     </Record>
-    <Record>
-      <Key>BottleSlot</Key>
-      <Value>Emplacement bouteille d&apos;eau</Value>
-    </Record>
   </Slots>
   <Interactables>
     <Record>
@@ -9524,10 +9520,6 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     <Record>
       <Key>TutorialCompleteDateOfCompletion</Key>
       <Value>Date d’achèvement :</Value>
-    </Record>
-    <Record>
-      <Key>BottleSlot</Key>
-      <Value>Emplacement bouteille d&apos;eau</Value>
     </Record>
     <Record>
       <Key>TutorialCompleteDeanHall</Key>
