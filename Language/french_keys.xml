@@ -303,14 +303,6 @@
       <Value>Shift Gauche</Value>
     </Record>
     <Record>
-      <Key>RightControl</Key>
-      <Value>Controle Droit</Value>
-    </Record>
-    <Record>
-      <Key>LeftControl</Key>
-      <Value>Controle Gauche</Value>
-    </Record>
-    <Record>
       <Key>RightAlt</Key>
       <Value>Alt Droit</Value>
     </Record>
