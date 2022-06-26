@@ -7178,10 +7178,6 @@ Veuillez réessayer.</Value>
       <Value>Paramètres de Jeu</Value>
     </Record>
     <Record>
-      <Key>SettingsHungerRate</Key>
-      <Value>Taux de faim/soif</Value>
-    </Record>
-    <Record>
       <Key>JoinWorldSortBy</Key>
       <Value>Tier par</Value>
     </Record>
