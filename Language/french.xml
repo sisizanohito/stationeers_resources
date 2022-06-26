@@ -7505,10 +7505,6 @@ Un endroit idéal pour le joueur débutant, avec moins de dangers et de complexi
       <Value>La fonte d&apos;une partie de la glace sur ce monde froid lui a finalement donné une atmosphère, mais son environnement extrêmement glacial représente un sérieux défi pour les stationautes. Le froid extrême fera rapidement perdre de l&apos;énergie aux batteries, donc obtenir une source d&apos;énergie stable et un endroit chaud sont vos priorités.</Value>
     </Record>
     <Record>
-      <Key>NewWorldVulcanShortDesc</Key>
-      <Value>L’environnement volatile de Vulcan ne peut survivre que dans très peu d’organismes vivants, mais sa surface fracturée et ses riches gisements de minéraux en font une entreprise risquée mais rentable pour les vendeurs entreprenants.</Value>
-    </Record>
-    <Record>
       <Key>NewWorldVulcan2ShortDesc</Key>
       <Value>Un monde déchiré en raison des forces de marée massives du trou noir supermassif qu’il orbite. Vulcan ne laisse guère d’espoir aux organismes qui aboutissent ici, mais sa surface fracturée et ses riches gisements minéraux en font une entreprise à la fois risquée et rentable pour les traders entreprenants.
 Méfiez-vous des profondes crevasses qui mènent à des flux de magma mortels sous la surface !</Value>
