@@ -295,6 +295,22 @@
       <Value>Arrêt défilement</Value>
     </Record>
     <Record>
+      <Key>RightShift</Key>
+      <Value>Maj Droit</Value>
+    </Record>
+    <Record>
+      <Key>LeftShift</Key>
+      <Value>Maj Gauche</Value>
+    </Record>
+    <Record>
+      <Key>RightControl</Key>
+      <Value>Ctrl Droit</Value>
+    </Record>
+    <Record>
+      <Key>LeftControl</Key>
+      <Value>Ctrl Gauche</Value>
+    </Record>
+    <Record>
       <Key>RightAlt</Key>
       <Value>Alt Droit</Value>
     </Record>

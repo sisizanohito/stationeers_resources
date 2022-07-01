@@ -7178,6 +7178,10 @@ Veuillez réessayer.</Value>
       <Value>Paramètres de Jeu</Value>
     </Record>
     <Record>
+      <Key>SettingsHungerRate</Key>
+      <Value>Niveau de faim/soif</Value>
+    </Record>
+    <Record>
       <Key>JoinWorldSortBy</Key>
       <Value>Tier par</Value>
     </Record>
@@ -7499,6 +7503,10 @@ Un endroit idéal pour le joueur débutant, avec moins de dangers et de complexi
     <Record>
       <Key>NewWorldEuropaShortDesc</Key>
       <Value>La fonte d&apos;une partie de la glace sur ce monde froid lui a finalement donné une atmosphère, mais son environnement extrêmement glacial représente un sérieux défi pour les stationautes. Le froid extrême fera rapidement perdre de l&apos;énergie aux batteries, donc obtenir une source d&apos;énergie stable et un endroit chaud sont vos priorités.</Value>
+    </Record>
+    <Record>
+      <Key>NewWorldVulcanShortDesc</Key>
+      <Value>L’environnement de Vulcan, composé de matières volatiles, est hostile aux organismes vivants. Pourtant, sa surface fracturée avec de riches gisements de minerais en fait une aventure risquée, mais rentable pour les commerçants entreprenants.</Value>
     </Record>
     <Record>
       <Key>NewWorldVulcan2ShortDesc</Key>
@@ -9334,6 +9342,10 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
       <Value>Voulez-vous lancer cette fusée ?</Value>
     </Record>
     <Record>
+      <Key>StatusWindowVitals</Key>
+      <Value>État</Value>
+    </Record>
+    <Record>
       <Key>StatusWindowTarget</Key>
       <Value>Cible</Value>
     </Record>
@@ -10478,6 +10490,22 @@ Le programme Stationeers, qui est fondamentalement ouvert à toute l’humanité
     <Record>
       <Key>ScrollLock</Key>
       <Value>Arrêt défilement</Value>
+    </Record>
+    <Record>
+      <Key>RightShift</Key>
+      <Value>Maj Droit</Value>
+    </Record>
+    <Record>
+      <Key>LeftShift</Key>
+      <Value>Maj Gauche</Value>
+    </Record>
+    <Record>
+      <Key>RightControl</Key>
+      <Value>Ctrl Droit</Value>
+    </Record>
+    <Record>
+      <Key>LeftControl</Key>
+      <Value>Ctrl Gauche</Value>
     </Record>
     <Record>
       <Key>RightAlt</Key>
