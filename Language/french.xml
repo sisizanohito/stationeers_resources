@@ -5917,6 +5917,14 @@
       <Value>Déballer</Value>
     </Record>
     <Record>
+      <Key>Cartridge2</Key>
+      <Value>Carte d&apos;accès 2</Value>
+    </Record>
+    <Record>
+      <Key>Cartridge1</Key>
+      <Value>Carte d&apos;accès 1</Value>
+    </Record>
+    <Record>
       <Key>Next</Key>
       <Value>Suivant</Value>
     </Record>
