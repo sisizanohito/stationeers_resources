@@ -5917,14 +5917,6 @@
       <Value>Déballer</Value>
     </Record>
     <Record>
-      <Key>Cartridge2</Key>
-      <Value>Carte 2</Value>
-    </Record>
-    <Record>
-      <Key>Cartridge1</Key>
-      <Value>Carte 1</Value>
-    </Record>
-    <Record>
       <Key>Next</Key>
       <Value>Suivant</Value>
     </Record>
@@ -8459,7 +8451,7 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>CartridgeElectronicReaderRecipeTitle</Key>
-      <Value>Recette:</Value>
+      <Value>Recette :</Value>
     </Record>
     <Record>
       <Key>CartridgeElectronicReaderRecipeOrder</Key>
@@ -10365,43 +10357,43 @@ Le programme Stationeers, qui est fondamentalement ouvert à toute l’humanité
     </Record>
     <Record>
       <Key>Keypad0</Key>
-      <Value>Keypad 0</Value>
+      <Value>Num 0</Value>
     </Record>
     <Record>
       <Key>Keypad1</Key>
-      <Value>Keypad 1</Value>
+      <Value>Num 1</Value>
     </Record>
     <Record>
       <Key>Keypad2</Key>
-      <Value>Keypad 2</Value>
+      <Value>Num 2</Value>
     </Record>
     <Record>
       <Key>Keypad3</Key>
-      <Value>Keypad 3</Value>
+      <Value>Num 3</Value>
     </Record>
     <Record>
       <Key>Keypad4</Key>
-      <Value>Keypad 4</Value>
+      <Value>Num 4</Value>
     </Record>
     <Record>
       <Key>Keypad5</Key>
-      <Value>Keypad 5</Value>
+      <Value>Num 5</Value>
     </Record>
     <Record>
       <Key>Keypad6</Key>
-      <Value>Keypad 6</Value>
+      <Value>Num 6</Value>
     </Record>
     <Record>
       <Key>Keypad7</Key>
-      <Value>Keypad 7</Value>
+      <Value>Num 7</Value>
     </Record>
     <Record>
       <Key>Keypad8</Key>
-      <Value>Keypad 8</Value>
+      <Value>Num 8</Value>
     </Record>
     <Record>
       <Key>Keypad9</Key>
-      <Value>Keypad 9</Value>
+      <Value>Num 9</Value>
     </Record>
     <Record>
       <Key>KeypadPeriod</Key>
