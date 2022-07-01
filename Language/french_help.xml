@@ -288,6 +288,17 @@ Votre niveau de faim peut être ajusté dans le menu général des paramètres e
 &gt; Vide - voir PRESSION (ci-dessus).</Text>
     </StationpediaPage>
     <StationpediaPage>
+      <Key>HydrationPage</Key>
+      <Title>Soif + hydratation</Title>
+      <DisplayFilter>Guides</DisplayFilter>
+      <Text>Le Stationeer moyen a besoin de boire de l’eau régulièrement. Cependant, les réglementations obscures et peut-être erronées de l’&lt;color=#0080FFFF&gt;{LINK:ODA;ODA}&lt;/color&gt; en matière de santé et de sécurité ont longtemps refusé aux Stationeers le droit à des mécanismes d’hydratation implantés dans la combinaison. Au lieu de cela, ils doivent prendre régulièrement des pauses pour ouvrir leur casque et boire de l’eau. Le faire dans un environnement non pressurisé est déconseillé.
+
+À quelle fréquence faut-il boire ? Cela est déterminé par le niveau de difficulté, la chaleur de la planète et combien vous aimez bouger votre corps.
+
+L’eau se présente sous de nombreuses formes. Au moins une {THING:ItemWaterBottle} est fournie aux Stationeers car faisant partie de leurs rations lors de l’atterrissage sur de nouvelles planètes. D’autres peuvent être présentes dans les caisses de l’atterrisseur. Elles peuvent être remplies à l’aide d’un {THING:ItemWaterBottleFiller} qui doit être connecté à un réseau de tuyaux pour liquides. Le réseau lui-même peut être rempli à l’aide d’un {THING:StructureIceCrusher} avec un approvisionnement approprié en glace.
+Votre niveau de soif peut être réglé dans les paramètres du jeu, en ajustant le curseur du niveau de faim/hydratation.</Text>
+    </StationpediaPage>
+    <StationpediaPage>
       <Key>EVAPage</Key>
       <Title>Combinaison EVA</Title>
       <DisplayFilter>Guides</DisplayFilter>
