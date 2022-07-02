@@ -6,7 +6,7 @@
   <Interface>
     <Record>
       <Key>Incident_Storm_Title_v2</Key>
-      <Value>Bascule instantanément en tempête</Value>
+      <Value>Bascule instantanément état tempête</Value>
     </Record>
     <Record>
       <Key>Incident_Storm_v2</Key>
