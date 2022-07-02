@@ -6,11 +6,11 @@
   <Interface>
     <Record>
       <Key>Incident_Storm_Title</Key>
-      <Value>Basculer le temps en tempête</Value>
+      <Value>Basculer en tempête</Value>
     </Record>
     <Record>
       <Key>Incident_Storm</Key>
-      <Value>Active/désactive le temps de tempête.</Value>
+      <Value>Active ou désactive l&apos;arrivée d&apos;une tempête.</Value>
     </Record>
   </Interface>
 </Language>
