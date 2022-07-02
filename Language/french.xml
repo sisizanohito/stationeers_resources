@@ -4758,6 +4758,38 @@
       <Value>Mat d&apos;éolienne</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemWreckageStructureWeatherStation001</Key>
+      <Value>Entonnoir de la station météo</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageStructureWeatherStation002</Key>
+      <Value>Morceau de la station météo</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageStructureWeatherStation003</Key>
+      <Value>Anémomètre de la station météo</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageStructureWeatherStation004</Key>
+      <Value>LED de la station météo</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageStructureWeatherStation005</Key>
+      <Value>Capteur lumineux de la station météo</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageStructureWeatherStation006</Key>
+      <Value>Gyrophare de la station météo</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageStructureWeatherStation007</Key>
+      <Value>Mécanisme de la station météo</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageStructureWeatherStation008</Key>
+      <Value>Grille de la station météo</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemWaterBottle</Key>
       <Value>Bouteille d&apos;eau</Value>
     </RecordThing>
@@ -5123,6 +5155,10 @@
     <RecordThing>
       <Key>ItemKitFridgeSmall</Key>
       <Value>Kit (Petit réfrigérateur)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePlanter</Key>
+      <Value>Pot de culture</Value>
     </RecordThing>
     <RecordThing>
       <Key>KitPlanter</Key>
@@ -10118,6 +10154,14 @@ Le programme Stationeers, qui est fondamentalement ouvert à toute l’humanité
     <Record>
       <Key>StationpediaNutrition</Key>
       <Value>Nutrition :</Value>
+    </Record>
+    <Record>
+      <Key>MoleVolatilesDescription</Key>
+      <Value>Les volatils sont des molécules organiques complexe et extrêmement réactive, qui peuvent être utilisées en conjonction avec l’oxygène comme combustible. Elles sont raffinées à partir de {THING:ItemVolatiles}.
+
+En raison de réglementations de l’&lt;color=#0080FFFF&gt;{LINK:ODA;ODA}&lt;/color&gt;, obscures et largement oubliées, les volatils sont parfois étiquetés « H2 » par divers éléments technologiques. Bien qu’ils soient similaires à l’hydrogène, ils ne sont pas pour autant « réellement » de l’hydrogène. Les volatils ne produiront pas d’eau lorsqu’ils seront brûlés sans catalyseur (plus de détail avec le {THING:H2Combustor}). Seuls, ils créent des polluants et du dioxyde de carbone lorsqu’ils sont brûlés selon les proportions suivantes :
+
+2 Volatils + 1 O2 -&gt; 3 X + 6 CO2 + chaleur.</Value>
     </Record>
     <Record>
       <Key>MoleWaterDescription</Key>
