@@ -5558,6 +5558,10 @@
       <Key>HandSlot</Key>
       <Value>Main</Value>
     </Record>
+    <Record>
+      <Key>BottleSlot</Key>
+      <Value>Emplacement pour bouteille</Value>
+    </Record>
   </Slots>
   <Interactables>
     <Record>
@@ -9562,6 +9566,10 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
       <Value>Date d’achèvement :</Value>
     </Record>
     <Record>
+      <Key>BottleSlot</Key>
+      <Value>Emplacement pour bouteille</Value>
+    </Record>
+    <Record>
       <Key>TutorialCompleteDeanHall</Key>
       <Value>Doyen du Hall</Value>
     </Record>
@@ -9620,6 +9628,10 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     <Record>
       <Key>ActivateExplosiveKey</Key>
       <Value>Activer le compte à rebours</Value>
+    </Record>
+    <Record>
+      <Key>ActivateExplosiveTooltipKey1</Key>
+      <Value>Activer un/une</Value>
     </Record>
     <Record>
       <Key>CommandStatus</Key>
