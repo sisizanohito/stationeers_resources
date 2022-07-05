@@ -591,10 +591,6 @@ Les emplacements pour votre personnage sont visibles à gauche de l&apos;écran.
       <Value>Bon travail, maintenant il semble que votre AirTank soit vide ? Il se passe quelque chose de louche ici.</Value>
     </Record>
     <Record>
-      <Key>TutorialStatusUpdates1Task1</Key>
-      <Value>Remplacer AirTank</Value>
-    </Record>
-    <Record>
       <Key>TutorialStatusUpdates2Description</Key>
       <Value>Ce filtre est usagé, ajoutez un nouveau à votre combinaison, il peut en contenir jusqu&apos;à trois !</Value>
     </Record>
