@@ -38,6 +38,10 @@
       <Value>L&apos;atmosphère que vous respirez peut causer des dommages à vos poumons.</Value>
     </Record>
     <Record>
+      <Key>StatusIconOxygenWarning</Key>
+      <Value>La pression de la bouteille d&apos;oxygène de votre combinaison est faible et nécessite votre attention</Value>
+    </Record>
+    <Record>
       <Key>StatusIconOxyegnCritical</Key>
       <Value>Le réservoir de la combinaison est critique, remplacez votre réservoir d’oxygène</Value>
     </Record>
