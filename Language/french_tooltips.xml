@@ -19,7 +19,7 @@
     </Record>
     <Record>
       <Key>StatusIconHydrationKey</Key>
-      <Value>Hydratation est basse</Value>
+      <Value>L&apos;hydratation est basse</Value>
     </Record>
     <Record>
       <Key>HydrationCaution</Key>
@@ -51,7 +51,7 @@
     </Record>
     <Record>
       <Key>StatusIconPressureDesc</Key>
-      <Value>Niveau de pression actuel, vérifier la pression de la combinaison</Value>
+      <Value>Niveau de pression actuel, vérifiez la pression de la combinaison</Value>
     </Record>
     <Record>
       <Key>StatusIconPressureWarning</Key>
