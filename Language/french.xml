@@ -348,6 +348,10 @@
       <Value>Paramétrer</Value>
     </Record>
     <Record>
+      <Key>Cycle</Key>
+      <Value>[TEST] Cycle</Value>
+    </Record>
+    <Record>
       <Key>ForceClose</Key>
       <Value>Forcer la fermeture</Value>
     </Record>
