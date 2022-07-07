@@ -10,16 +10,32 @@
       <Value>毒性レベル</Value>
     </Record>
     <Record>
+      <Key>StatusIconToxinWarning</Key>
+      <Value>注意</Value>
+    </Record>
+    <Record>
       <Key>StatusIconHydrationDesc</Key>
       <Value>水分が不足しています</Value>
     </Record>
     <Record>
       <Key>StatusIconHydrationKey</Key>
-      <Value>水分低下</Value>
+      <Value>軽度脱水状態</Value>
+    </Record>
+    <Record>
+      <Key>HydrationCaution</Key>
+      <Value>脱水状態</Value>
+    </Record>
+    <Record>
+      <Key>HydrationCritical</Key>
+      <Value>重度脱水状態</Value>
     </Record>
     <Record>
       <Key>StatusIconOxygenName</Key>
       <Value>酸素供給</Value>
+    </Record>
+    <Record>
+      <Key>StatusIconOxygenDesc</Key>
+      <Value>この大気は呼吸に適していません。</Value>
     </Record>
     <Record>
       <Key>StatusIconPressureName</Key>
