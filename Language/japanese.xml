@@ -5632,7 +5632,7 @@
     </Record>
     <Record>
       <Key>GameMenuButtonExitDesktop</Key>
-      <Value>デスクトップに戻る</Value>
+      <Value>デスクトップへ戻る</Value>
     </Record>
     <Record>
       <Key>SaveMenuTitle</Key>
@@ -7309,6 +7309,14 @@
       <Value>検索</Value>
     </Record>
     <Record>
+      <Key>StationpediaBeginnerGuides</Key>
+      <Value>ガイド</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaAdvancedGuides</Key>
+      <Value>宇宙</Value>
+    </Record>
+    <Record>
       <Key>StationpediaFlashpointHeader</Key>
       <Value>引火点:</Value>
     </Record>
@@ -7353,6 +7361,10 @@
     <Record>
       <Key>HydrationCaution</Key>
       <Value>警告：脱水状態</Value>
+    </Record>
+    <Record>
+      <Key>Guides</Key>
+      <Value>ガイド</Value>
     </Record>
     <Record>
       <Key>SettingsLightShadowDistance</Key>
