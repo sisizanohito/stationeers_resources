@@ -7145,8 +7145,16 @@
       <Value>車両</Value>
     </Record>
     <Record>
+      <Key>StatusWindowVitals</Key>
+      <Value>バイタル</Value>
+    </Record>
+    <Record>
       <Key>StatusWindowJetpack</Key>
       <Value>ジェットパック</Value>
+    </Record>
+    <Record>
+      <Key>StatusWindowTarget</Key>
+      <Value>目標</Value>
     </Record>
     <Record>
       <Key>CompletedKey</Key>
