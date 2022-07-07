@@ -5295,12 +5295,20 @@
   </Interactables>
   <Interface>
     <Record>
+      <Key>SlotKey</Key>
+      <Value>スロット</Value>
+    </Record>
+    <Record>
       <Key>MainMenuContinue</Key>
       <Value>続き</Value>
     </Record>
     <Record>
       <Key>KitCategory</Key>
       <Value>建造物キット</Value>
+    </Record>
+    <Record>
+      <Key>ChairTableCategory</Key>
+      <Value>椅子</Value>
     </Record>
     <Record>
       <Key>PersonalSuits</Key>
@@ -6503,6 +6511,10 @@
     <Record>
       <Key>SettingsMouseWheelZoom</Key>
       <Value>マウスホイールズーム</Value>
+    </Record>
+    <Record>
+      <Key>Incident_Supply_Title</Key>
+      <Value>補給箱</Value>
     </Record>
     <Record>
       <Key>GameMenuRespawn</Key>

@@ -2,6 +2,14 @@
   <Code>KN</Code>
   <ScreenSpaceToolTips>
     <Record>
+      <Key>StatusIconToxinName</Key>
+      <Value>毒素</Value>
+    </Record>
+    <Record>
+      <Key>StatusIconOxygenName</Key>
+      <Value>酸素供給</Value>
+    </Record>
+    <Record>
       <Key>StatusIconGravityName</Key>
       <Value>無重力</Value>
     </Record>

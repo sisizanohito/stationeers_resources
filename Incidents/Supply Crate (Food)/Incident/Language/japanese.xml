@@ -3,5 +3,10 @@
   <Name>Japanese</Name>
   <Code>KN</Code>
   <Font>font_cjk</Font>
-  <Interface/>
+  <Interface>
+    <Record>
+      <Key>Incident_Supply_Title</Key>
+      <Value>補給箱</Value>
+    </Record>
+  </Interface>
 </Language>
