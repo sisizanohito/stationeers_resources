@@ -62,6 +62,10 @@
       <Value>注意：スーツ圧低下</Value>
     </Record>
     <Record>
+      <Key>StatusIconPressureCritical</Key>
+      <Value>警告：スーツ圧最低</Value>
+    </Record>
+    <Record>
       <Key>StatusIconTemperatureName</Key>
       <Value>内部温度</Value>
     </Record>
