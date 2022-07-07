@@ -1412,6 +1412,10 @@
       <Value>Výrobní základní deska</Value>
     </RecordThing>
     <RecordThing>
+      <Key>MotherboardSorter</Key>
+      <Value>Základní deska třídiče</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>MothershipCore</Key>
       <Value>Jádro mateřské lodě</Value>
     </RecordThing>
@@ -1458,6 +1462,10 @@
     <RecordThing>
       <Key>StructureBackPressureRegulator</Key>
       <Value>Regulátor zpětného tlaku</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureBattery</Key>
+      <Value>Baterie stanice</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureBatteryCharger</Key>
