@@ -27,7 +27,7 @@ f7d1474bd77ef0dae47335e2a897a4d09b06800228d84cc4e7a74987e61b3bfe  ./Incidents/Su
 643aa705764c9bca833c6f045e73e785218349dbdeaf839af1a328630aff078b  ./Incidents/Dynamic Gas Canister (Air)/Incident/Language/english.xml
 62f20bea5187059a7fb670110b807956c2b252645c3e3fbf055037b307b20cff  ./Incidents/Device Fault (Stun Player)/Incident/Language/english.xml
 ee8e62635f6129edc9faeb0b2062357413f57df4ff5d851df0f49c9264017297  ./Incidents/Grounder Attack/Incident/Language/english.xml
-006a39c94dc049b6c302dad306f8377b4ca91f2d9966b6b4ccea123f7612c7b4  ./Tutorial/Tutorial 01 - Basic Concepts/Tutorial/Language/english_tutorial_mission.xml
+04c1156a84c498b5631386dfbca9c2b92a59cc295d03f5cd1b8413f6d98fa1d7  ./Tutorial/Tutorial 01 - Basic Concepts/Tutorial/Language/english_tutorial_mission.xml
 f62c37d449d6c8aad0ff271c51251561d7d79a6ea9fd392f6138aea48dac7c73  ./Tutorial/Tutorial 06 - Hydroponics/Tutorial/Language/english_tutorial_mission.xml
 22ced9582f48c701142ea7d385fe783cbbeefb733f8c5bd2f20ed4f89b6bd042  ./Tutorial/Tutorial 08 - Research/Tutorial/Language/english_tutorial_mission.xml
 afbf9e16d14eb2460720271a2c41837d35ff895a5cee23332926808ca44f8a93  ./Tutorial/Tutorial 02 -Constuction/Tutorial/Language/english_tutorial_mission.xml

@@ -27,7 +27,11 @@
 		<Record>
       		<Key>BasicConceptsDescription</Key>
       		<Value>Welcome to the Lunar Training Base, Cadet. The ODA has approved your application, so let's improve your chances of surviving deployment to the Solar System. 
-Enter the training base through the airlock ahead.</Value>
+Enter the training base through the airlock ahead.
+				
+Important Note: Due to limitations of the tutorial system it is important that you perform the actions in the exact order or you may not be able to progress.
+If you get stuck during any step you may have to restart the tutorial.
+While the game is still in heavy development it is unavoidable that the tutorial will break from time to time. We will strive to improve the tutorial over time.</Value>
     	</Record>
 		<Record>
       		<Key>WelcomeRecuitDisc</Key>
