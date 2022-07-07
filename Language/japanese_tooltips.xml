@@ -30,6 +30,10 @@
       <Value>重度脱水状態</Value>
     </Record>
     <Record>
+      <Key>StatusIconToxinCritical</Key>
+      <Value>危険な状態</Value>
+    </Record>
+    <Record>
       <Key>StatusIconOxygenName</Key>
       <Value>酸素供給</Value>
     </Record>
@@ -38,8 +42,20 @@
       <Value>この大気は呼吸に適していません。</Value>
     </Record>
     <Record>
+      <Key>StatusIconOxygenWarning</Key>
+      <Value>注意：タンクの圧力が低下しています</Value>
+    </Record>
+    <Record>
+      <Key>StatusIconOxyegnCritical</Key>
+      <Value>警告：タンクを交換してください</Value>
+    </Record>
+    <Record>
       <Key>StatusIconPressureName</Key>
       <Value>内圧</Value>
+    </Record>
+    <Record>
+      <Key>StatusIconPressureDesc</Key>
+      <Value>現在の圧力レベル、スーツ圧力を確認してください</Value>
     </Record>
     <Record>
       <Key>StatusIconTemperatureName</Key>
