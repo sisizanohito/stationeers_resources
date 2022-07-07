@@ -59,11 +59,23 @@
     </Record>
     <Record>
       <Key>StatusIconPressureWarning</Key>
-      <Value>スーツ圧低下</Value>
+      <Value>注意：スーツ圧低下</Value>
     </Record>
     <Record>
       <Key>StatusIconTemperatureName</Key>
       <Value>内部温度</Value>
+    </Record>
+    <Record>
+      <Key>StatusIconTemperatureDesc</Key>
+      <Value>スーツ内温度</Value>
+    </Record>
+    <Record>
+      <Key>StatusIconTempuratureWarning</Key>
+      <Value>現在の毒性レベルを表示</Value>
+    </Record>
+    <Record>
+      <Key>StatusIconTempuratureCritical</Key>
+      <Value>現在の毒性レベルを表示</Value>
     </Record>
     <Record>
       <Key>StatusIconLeakingName</Key>
