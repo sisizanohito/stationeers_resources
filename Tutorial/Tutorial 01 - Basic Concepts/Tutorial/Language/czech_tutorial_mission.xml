@@ -23,6 +23,15 @@
       <Value>Vítejte kadete</Value>
     </Record>
     <Record>
+      <Key>BasicConceptsDescription</Key>
+      <Value>Vítejte na lunární výcvikové základně, kadete. ODA schválila vaši žádost, takže pojďme zvýšit vaše šance na přežití ve Sluneční soustavě. 
+Vstupte do výcvikové základny přechodovou komorou před vámi.
+				
+Důležité upozornění: Vzhledem k omezením výukového systému je důležité, abyste akce prováděli v přesném pořadí, jinak se vám nemusí podařit postoupit dál.
+Pokud se v některém kroku zaseknete, možná budete muset výukový program spustit znovu.
+Zatímco hra je stále ve fázi intenzivního vývoje, je nevyhnutelné, že se tutoriál čas od času přeruší. Postupem času se budeme snažit výukový program vylepšovat.</Value>
+    </Record>
+    <Record>
       <Key>WelcomeRecuitDisc</Key>
       <Value>Vstupte do přechodové komory výcvikové základny.</Value>
     </Record>
