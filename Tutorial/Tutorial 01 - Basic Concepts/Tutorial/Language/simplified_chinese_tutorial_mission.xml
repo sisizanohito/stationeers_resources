@@ -23,11 +23,6 @@
       <Value>欢迎学员</Value>
     </Record>
     <Record>
-      <Key>BasicConceptsDescription</Key>
-      <Value>欢迎来到月球训练基地，学员。ODA已经批准了你的申请，所以让我们把你送到太阳系之前提高你生存概率。
-通过前面的气闸室进入训练基地。</Value>
-    </Record>
-    <Record>
       <Key>WelcomeRecuitDisc</Key>
       <Value>找条路进入训练基地</Value>
     </Record>
