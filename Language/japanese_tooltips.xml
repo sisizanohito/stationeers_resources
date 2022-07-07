@@ -6,12 +6,48 @@
       <Value>毒素</Value>
     </Record>
     <Record>
+      <Key>StatusIconToxinDesc</Key>
+      <Value>毒性レベル</Value>
+    </Record>
+    <Record>
+      <Key>StatusIconHydrationDesc</Key>
+      <Value>水分が不足しています</Value>
+    </Record>
+    <Record>
+      <Key>StatusIconHydrationKey</Key>
+      <Value>水分低下</Value>
+    </Record>
+    <Record>
       <Key>StatusIconOxygenName</Key>
       <Value>酸素供給</Value>
     </Record>
     <Record>
+      <Key>StatusIconPressureName</Key>
+      <Value>内圧</Value>
+    </Record>
+    <Record>
+      <Key>StatusIconTemperatureName</Key>
+      <Value>内部温度</Value>
+    </Record>
+    <Record>
+      <Key>StatusIconLeakingName</Key>
+      <Value>スーツ漏れ</Value>
+    </Record>
+    <Record>
+      <Key>StatusIconPowerName</Key>
+      <Value>スーツ電源</Value>
+    </Record>
+    <Record>
       <Key>StatusIconGravityName</Key>
       <Value>無重力</Value>
+    </Record>
+    <Record>
+      <Key>StatusIconJetpackName</Key>
+      <Value>ジェットパック起動</Value>
+    </Record>
+    <Record>
+      <Key>StatusIconLightName</Key>
+      <Value>ヘッドライト切り替え</Value>
     </Record>
   </ScreenSpaceToolTips>
 </Language>
