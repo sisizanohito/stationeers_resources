@@ -3,6 +3,10 @@
   <Code>KN</Code>
   <Interface>
     <Record>
+      <Key>BasicConcepts</Key>
+      <Value>基本スキル</Value>
+    </Record>
+    <Record>
       <Key>WelcomeRecuitDisc</Key>
       <Value>訓練基地へ向かう。</Value>
     </Record>

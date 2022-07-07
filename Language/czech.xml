@@ -8268,7 +8268,7 @@
     </Record>
     <Record>
       <Key>LogicTypeImportSlotOccupant</Key>
-      <Value>ODSTRANĚNO</Value>
+      <Value>ZRUŠENO</Value>
     </Record>
     <Record>
       <Key>LogicTypeExportQuantity</Key>
@@ -8333,75 +8333,75 @@
     </Record>
     <Record>
       <Key>LogicTypeExportSlotHash</Key>
-      <Value>ODSTRANĚNO</Value>
+      <Value>ZRUŠENO</Value>
     </Record>
     <Record>
       <Key>LogicTypeImportSlotHash</Key>
-      <Value>ODSTRANĚNO</Value>
+      <Value>ZRUŠENO</Value>
     </Record>
     <Record>
       <Key>LogicTypePlantHealth1</Key>
-      <Value>ODSTRANĚNO</Value>
+      <Value>ZRUŠENO</Value>
     </Record>
     <Record>
       <Key>LogicTypePlantHealth2</Key>
-      <Value>ODSTRANĚNO</Value>
+      <Value>ZRUŠENO</Value>
     </Record>
     <Record>
       <Key>LogicTypePlantHealth3</Key>
-      <Value>ODSTRANĚNO</Value>
+      <Value>ZRUŠENO</Value>
     </Record>
     <Record>
       <Key>LogicTypePlantHealth4</Key>
-      <Value>ODSTRANĚNO</Value>
+      <Value>ZRUŠENO</Value>
     </Record>
     <Record>
       <Key>LogicTypePlantGrowth1</Key>
-      <Value>ODSTRANĚNO</Value>
+      <Value>ZRUŠENO</Value>
     </Record>
     <Record>
       <Key>LogicTypePlantGrowth2</Key>
-      <Value>ODSTRANĚNO</Value>
+      <Value>ZRUŠENO</Value>
     </Record>
     <Record>
       <Key>LogicTypePlantGrowth3</Key>
-      <Value>ODSTRANĚNO</Value>
+      <Value>ZRUŠENO</Value>
     </Record>
     <Record>
       <Key>LogicTypePlantGrowth4</Key>
-      <Value>ODSTRANĚNO</Value>
+      <Value>ZRUŠENO</Value>
     </Record>
     <Record>
       <Key>LogicTypePlantEfficiency1</Key>
-      <Value>ODSTRANĚNO</Value>
+      <Value>ZRUŠENO</Value>
     </Record>
     <Record>
       <Key>LogicTypePlantEfficiency2</Key>
-      <Value>ODSTRANĚNO</Value>
+      <Value>ZRUŠENO</Value>
     </Record>
     <Record>
       <Key>LogicTypePlantEfficiency3</Key>
-      <Value>ODSTRANĚNO</Value>
+      <Value>ZRUŠENO</Value>
     </Record>
     <Record>
       <Key>LogicTypePlantEfficiency4</Key>
-      <Value>ODSTRANĚNO</Value>
+      <Value>ZRUŠENO</Value>
     </Record>
     <Record>
       <Key>LogicTypePlantHash1</Key>
-      <Value>ODSTRANĚNO</Value>
+      <Value>ZRUŠENO</Value>
     </Record>
     <Record>
       <Key>LogicTypePlantHash2</Key>
-      <Value>ODSTRANĚNO</Value>
+      <Value>ZRUŠENO</Value>
     </Record>
     <Record>
       <Key>LogicTypePlantHash3</Key>
-      <Value>ODSTRANĚNO</Value>
+      <Value>ZRUŠENO</Value>
     </Record>
     <Record>
       <Key>LogicTypePlantHash4</Key>
-      <Value>ODSTRANĚNO</Value>
+      <Value>ZRUŠENO</Value>
     </Record>
     <Record>
       <Key>LogicTypeRequestHash</Key>
@@ -8589,7 +8589,7 @@
     </Record>
     <Record>
       <Key>RocketMode</Key>
-      <Value>Vyřazené</Value>
+      <Value>Zrušeno</Value>
     </Record>
     <Record>
       <Key>CollectableGoods</Key>
@@ -9817,7 +9817,7 @@
     </Record>
     <Record>
       <Key>ScriptCommandLabel</Key>
-      <Value>ZASTARALÉ</Value>
+      <Value>ZRUŠENO</Value>
     </Record>
     <Record>
       <Key>ScriptCommandPeek</Key>
