@@ -58,6 +58,10 @@
       <Value>現在の圧力レベル、スーツ圧力を確認してください</Value>
     </Record>
     <Record>
+      <Key>StatusIconPressureWarning</Key>
+      <Value>スーツ圧低下</Value>
+    </Record>
+    <Record>
       <Key>StatusIconTemperatureName</Key>
       <Value>内部温度</Value>
     </Record>
@@ -80,6 +84,46 @@
     <Record>
       <Key>StatusIconLightName</Key>
       <Value>ヘッドライト切り替え</Value>
+    </Record>
+    <Record>
+      <Key>StatusIconInternalsName</Key>
+      <Value>ヘルメットの開閉切り替え</Value>
+    </Record>
+    <Record>
+      <Key>StatusIconHandPowerName</Key>
+      <Value>手持ちのアイテム On/Off 切り替え</Value>
+    </Record>
+    <Record>
+      <Key>StatusIconHungerName</Key>
+      <Value>空腹度</Value>
+    </Record>
+    <Record>
+      <Key>StatusIconStunName</Key>
+      <Value>気絶率</Value>
+    </Record>
+    <Record>
+      <Key>StatusIconJetpackWarningName</Key>
+      <Value>推進剤容量</Value>
+    </Record>
+    <Record>
+      <Key>StatusIconFilterName</Key>
+      <Value>フィルター容量</Value>
+    </Record>
+    <Record>
+      <Key>StatusIconWasteName</Key>
+      <Value>廃棄物容量</Value>
+    </Record>
+    <Record>
+      <Key>StatusIconHealthName</Key>
+      <Value>体力</Value>
+    </Record>
+    <Record>
+      <Key>StatusIconHydrationName</Key>
+      <Value>水分</Value>
+    </Record>
+    <Record>
+      <Key>StatusIconUnconsciousName</Key>
+      <Value>意識不明</Value>
     </Record>
   </ScreenSpaceToolTips>
 </Language>
