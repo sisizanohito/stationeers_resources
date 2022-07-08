@@ -7863,10 +7863,6 @@ Soyez très prudent lorsque vous marchez ou sautez, car vous pouvez parcourir un
       <Value>Radio de réglage vertical pour le dispositif</Value>
     </Record>
     <Record>
-      <Key>LogicTypePowerRequired</Key>
-      <Value>Puissance demandée à partir de l&apos;appareil et/ou du réseau</Value>
-    </Record>
-    <Record>
       <Key>LogicTypeIdle</Key>
       <Value>Indique 1 si le périphérique est actuellement inactif, sinon 0</Value>
     </Record>
@@ -9512,10 +9508,6 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     <Record>
       <Key>Elevator</Key>
       <Value>Ascenseur</Value>
-    </Record>
-    <Record>
-      <Key>PowerAndData</Key>
-      <Value>Puissance et Données</Value>
     </Record>
     <Record>
       <Key>All</Key>
