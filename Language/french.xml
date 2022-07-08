@@ -4566,10 +4566,6 @@
       <Value>Drapeau ODA (4m)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemWreckageStructureRTG1</Key>
-      <Value>Morceau de RTG</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemWreckageTurbineGenerator1</Key>
       <Value>Ailette de générateur à turbine</Value>
     </RecordThing>
