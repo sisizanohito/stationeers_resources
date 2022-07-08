@@ -2918,10 +2918,6 @@
       <Value>Kit (Climatiseur portable)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemKitPipeValve</Key>
-      <Value>Kit (Vanne de tuyau)</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemKitDynamicGenerator</Key>
       <Value>Kit (Générateur portable)</Value>
     </RecordThing>
@@ -5065,10 +5061,6 @@
       <Value/>
     </RecordThing>
     <RecordThing>
-      <Key>ItemKitMusicMachines</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemInsulatedTankConnector</Key>
       <Value/>
     </RecordThing>
@@ -5171,10 +5163,6 @@
     <RecordThing>
       <Key>PortableComposter</Key>
       <Value>Composteur portable</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemKitPlanter</Key>
-      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>StructureAutomatedOven</Key>
@@ -5297,10 +5285,6 @@
       <Value>Caisse de {THING:StructureRocketModuleSilo}.</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemKitStirlingEngine</Key>
-      <Value>Caisse de {THING:StructureRocketModuleSilo}.</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>StructureShortLocker</Key>
       <Value/>
     </RecordThing>
@@ -5309,15 +5293,7 @@
       <Value/>
     </RecordThing>
     <RecordThing>
-      <Key>ItemKitPowerTransmitter</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
       <Key>StructureUnpoweredHatch</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemKitPowerTransmitterOmni</Key>
       <Value/>
     </RecordThing>
   </Things>
