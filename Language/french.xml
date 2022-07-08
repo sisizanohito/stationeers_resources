@@ -5317,10 +5317,6 @@
       <Value/>
     </RecordThing>
     <RecordThing>
-      <Key>ItemKitInteriorDoors</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
       <Key>StructureUnpoweredHatch</Key>
       <Value/>
     </RecordThing>
