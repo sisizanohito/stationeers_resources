@@ -5292,10 +5292,6 @@
       <Key>StructureCornerLocker</Key>
       <Value/>
     </RecordThing>
-    <RecordThing>
-      <Key>StructureUnpoweredHatch</Key>
-      <Value/>
-    </RecordThing>
   </Things>
   <Slots>
     <Record>
