@@ -5301,10 +5301,6 @@
       <Value>Caisse de {THING:StructureRocketModuleSilo}.</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructurePowerTransmitter</Key>
-      <Value>Transmetteur de puissance micro-ondes</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>StructureShortLocker</Key>
       <Value/>
     </RecordThing>
