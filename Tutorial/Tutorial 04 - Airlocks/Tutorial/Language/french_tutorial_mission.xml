@@ -259,12 +259,20 @@ Les dispositifs s&apos;affiche sur un fond VERT avec le texte en ROUGE lorsqu’
       <Value>En tant que Stationeer, vous avez besoin de finir les choses : Compléter la construction des portes en utilisant les ressources de la caisse. Vous saurez ce dont vous avez besoin grâce à l&apos;IA de  votre casque et son affichage tête haute intégré.</Value>
     </Record>
     <Record>
+      <Key>4Narration56D</Key>
+      <Value>Nommer les éléments présents sur le réseau de données réduit les risques de confusion : utilisez l’étiqueteuse pour renommer les portes intérieure et extérieure.</Value>
+    </Record>
+    <Record>
       <Key>4GetLabeler</Key>
       <Value>Équipez-vous de l&apos;{THING:ItemLabeller} dans la caisse</Value>
     </Record>
     <Record>
       <Key>4LabelerOn</Key>
       <Value>Allumez l’{THING:ItemLabeller}</Value>
+    </Record>
+    <Record>
+      <Key>4CustomName</Key>
+      <Value>Renommer la porte d&apos;intérieure &apos;porte d&apos;intérieure&apos;</Value>
     </Record>
     <Record>
       <Key>4CustomName2</Key>

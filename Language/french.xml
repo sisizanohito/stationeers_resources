@@ -2918,6 +2918,10 @@
       <Value>Kit (Climatiseur portable)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemKitPipeValve</Key>
+      <Value>Kit (Vanne pour tuyaux)</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitDynamicGenerator</Key>
       <Value>Kit (Générateur portable)</Value>
     </RecordThing>
@@ -3723,7 +3727,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitInsulatedPipe</Key>
-      <Value>Kit (Tuyau calfeutré)</Value>
+      <Value>Kit (Tuyau isolé)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureModularRocketEngine01</Key>
@@ -3927,15 +3931,15 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureTankSmallInsulated</Key>
-      <Value>Petit réservoir calfeutré</Value>
+      <Value>Petit réservoir (isolé)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureTankBigInsulated</Key>
-      <Value>Grand réservoir calfeutré</Value>
+      <Value>Grand réservoir (isolé)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitTankInsulated</Key>
-      <Value>Kit (Réservoir calfeutré)</Value>
+      <Value>Kit (Réservoir isolé)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureChairThickSingle</Key>
@@ -4564,6 +4568,10 @@
     <RecordThing>
       <Key>Flag_ODA_4m</Key>
       <Value>Drapeau ODA (4m)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageStructureRTG1</Key>
+      <Value>Débris de RTG</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageTurbineGenerator1</Key>
