@@ -711,6 +711,14 @@ Les emplacements pour votre personnage sont visibles à gauche de l&apos;écran.
       <Value>Piratage de l&apos;ordinateur central</Value>
     </Record>
     <Record>
+      <Key>TutorialHackingTheMainframeDescription</Key>
+      <Value>Maintenant, retirez le DataDisk et allumez la console pour programmer le {THING:StructureAirlock}.
+
+Lorsque vous sélectionnez le sas, assurez-vous que l’option «INTÉRIEUR» est sélectionnée pour la porte intérieure. Le voyant lumineux du sas en question passe du vert au rouge, ce qui vous indique sur quel le sas vous appliquez l&apos;option.
+
+Une fois que vous avez sélectionné un appareil sur la console, il sera sous son contrôle et verrouillé; il ne répondra plus à vos interactions.</Value>
+    </Record>
+    <Record>
       <Key>TutorialHackingTheMainframeTask1</Key>
       <Value>Attribuer les composants du {THING:StructureAirlock}</Value>
     </Record>

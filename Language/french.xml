@@ -7831,6 +7831,10 @@ Soyez très prudent lorsque vous marchez ou sautez, car vous pouvez parcourir un
       <Value>Radio de réglage vertical pour le dispositif</Value>
     </Record>
     <Record>
+      <Key>LogicTypePowerRequired</Key>
+      <Value>Courant demandé par l&apos;appareil et/ou par le réseau</Value>
+    </Record>
+    <Record>
       <Key>LogicTypeIdle</Key>
       <Value>Indique 1 si le périphérique est actuellement inactif, sinon 0</Value>
     </Record>
@@ -8771,23 +8775,23 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>ScriptCommandL</Key>
-      <Value>Charge la variable du dispositif et la stocke dans le registre</Value>
+      <Value>Charge la variable &amp;#91;var&amp;#93; de l&amp;#39;appareil &amp;#91;d?&amp;#93; et la stocke dans le registre &amp;#91;r?&amp;#93;</Value>
     </Record>
     <Record>
       <Key>ScriptCommandLB</Key>
-      <Value>Charge var de tous les périphériques réseau de sortie avec hachage de type fourni en utilisant le mode de lot de fournir. Moyenne (0), Somme (1), Minimum (2), Maximum (3). Peut utiliser soit le mot, ou le nombre.</Value>
+      <Value>Charge la variable &amp;#91;var&amp;#93; de tous les périphériques du circuit de m&amp;ecirc;me type ayant l&amp;#39;ID hash &amp;#91;type&amp;#93; en effectuant un traitement &amp;#91;batchMode&amp;#93; sur les valeurs récoltés puis écrit le résultat dans le registre &amp;#91;r?&amp;#93;. ( batchMode = Moyenne&amp;#124;0, Somme&amp;#124;1, Minimum&amp;#124;2, Maximum&amp;#124;3 )</Value>
     </Record>
     <Record>
       <Key>ScriptCommandS</Key>
-      <Value>Applique la valeur du registre à la variable du dispositif</Value>
+      <Value>Applique la valeur du registre &amp;#91;r?&amp;#93; à la variable &amp;#91;var&amp;#93; du dispositif &amp;#91;d?&amp;#93;.</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSB</Key>
-      <Value>Les magasins enregistrent la valeur à var sur tous les périphériques réseau de sortie avec hachage de type fourni.</Value>
+      <Value>Ecrit la valeur du registre &amp;#91;r?&amp;#93; dans la variable &amp;#91;var&amp;#93; de tous les périphériques de même type ayant, au sein du circuit, l&amp;#39;ID hash &amp;#91;type&amp;#93;.</Value>
     </Record>
     <Record>
       <Key>ScriptCommandLS</Key>
-      <Value>Chargement de l&apos;emplacement var pour s&apos;enregistrer.</Value>
+      <Value>Charge le contenu le la variable &amp;#91;var&amp;#93; du numéro de slot &amp;#91;int&amp;#93; de l&amp;#39;appareil &amp;#91;d?&amp;#93; et le stocke dans le registre &amp;#91;r?&amp;#93; si la variable  est un booléen la valeur renvoyé sera (Faux&amp;#124;0 ou Vrais&amp;#124;1).</Value>
     </Record>
     <Record>
       <Key>ScriptCommandLR</Key>
@@ -8795,31 +8799,31 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>ScriptCommandAlias</Key>
-      <Value>Associe un nom à une référence de registre ou de dispositif, les références de dispositif influencent également ce qui s&apos;affiche sur les vis du support de CI.</Value>
+      <Value>Associe un nom &amp;#91;str&amp;#93; à une référence de registre ou de dispositif &amp;#91;r?&amp;#124;d?&amp;#93;, les références de dispositif influencent également ce qui s&apos;affiche sur les vis du support de CI.</Value>
     </Record>
     <Record>
       <Key>ScriptCommandDefine</Key>
-      <Value>Crée une étiquette qui sera remplacée dans tout le programme par la valeur fournie</Value>
+      <Value>Crée une constante labelisé &amp;#91;str&amp;#93; associé à la valeur numérique &amp;#91;a&amp;#93;. Toute occurrence à ce label dans le code suivant sera implicitement remplacé par sa valeur associée.</Value>
     </Record>
     <Record>
       <Key>ScriptCommandMove</Key>
-      <Value>Register = valeur numérique ou valeur de registre.</Value>
+      <Value>Copie la valeur d&apos;une constante ou d&apos;un registre source &amp;#91;b&amp;#93; vers un registre destination &amp;#91;a&amp;#93;.</Value>
     </Record>
     <Record>
       <Key>ScriptCommandAdd</Key>
-      <Value>Stocke a + b dans le registre</Value>
+      <Value>Effectue une addition de &amp;#91;a&amp;#93; plus &amp;#91;b&amp;#93; et place le résultat dans le registre &amp;#91;r?&amp;#93;.</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSub</Key>
-      <Value>Stocke a - b dans le registre</Value>
+      <Value>Effectue une soustraction de &amp;#91;a&amp;#93; moins &amp;#91;b&amp;#93; et place le résultat dans le registre &amp;#91;r?&amp;#93;.</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSdse</Key>
-      <Value>Stocke 1 dans le registre si l&apos;appareil est défini, sinon 0</Value>
+      <Value>Test au sein de l&apos;IC, si l&amp;#39;appareil &amp;#91;d?&amp;#93; est bien associé à un appareil. Si oui renvoi 1 dans &amp;#91;r?&amp;#93;, sinon 0.</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSdns</Key>
-      <Value>Stocke 1 dans le registre si l&apos;appareil n&apos;est pas défini, sinon 0</Value>
+      <Value>Test au sein de l&apos;IC, si l&amp;#39;appareil &amp;#91;d?&amp;#93; est associé à un appareil. Si oui renvoi 0 dans &amp;#91;r?&amp;#93;, sinon 1.</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSlt</Key>
@@ -8887,31 +8891,31 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>ScriptCommandAnd</Key>
-      <Value>Indique 1 si le périphérique est actuellement inactif, sinon 0</Value>
+      <Value>Renvoi Vrais&amp;#124;1 dans le registre &amp;#91;r?&amp;#93; si les deux opérandes $#91;a&amp;#93; et &amp;#91;b&amp;#93; sont Vrais&amp;#124;1, sinon 0.</Value>
     </Record>
     <Record>
       <Key>ScriptCommandOr</Key>
-      <Value>Indique 1 si le périphérique est actuellement inactif, sinon 0</Value>
+      <Value>Renvoi Vrais&amp;#124;1 dans le registre &amp;#91;r?&amp;#93; si au moins l&apos;un des deux opérandes $#91;a&amp;#93; ou &amp;#91;b&amp;#93; est Vrais&amp;#124;1, sinon 0.</Value>
     </Record>
     <Record>
       <Key>ScriptCommandXor</Key>
-      <Value>Indique 1 si le périphérique est actuellement inactif, sinon 0</Value>
+      <Value>Renvoi Vrais&amp;#124;1 dans le registre &amp;#91;r?&amp;#93; uniquement si l&apos;un des deux opérandes $#91;a&amp;#93; ou &amp;#91;b&amp;#93; est vrais&amp;#124;1, sinon 0.</Value>
     </Record>
     <Record>
       <Key>ScriptCommandNor</Key>
-      <Value>Indique 1 si le périphérique est actuellement inactif, sinon 0</Value>
+      <Value>Renvoi Vrais&amp;#124;1 dans le registre &amp;#91;r?&amp;#93; uniquement si les deux opérandes $#91;a&amp;#93; et &amp;#91;b&amp;#93; sont Faux&amp;#124;0, sinon 0.</Value>
     </Record>
     <Record>
       <Key>ScriptCommandMul</Key>
-      <Value>Stocke a * b dans le registre</Value>
+      <Value>Effectue la multiplication &amp;#91;a&amp;#93; x &amp;#91;b&amp;#93; et écrit le résultat dans le registre &amp;#91;r?&amp;#93;</Value>
     </Record>
     <Record>
       <Key>ScriptCommandDiv</Key>
-      <Value>Stocke a / b dans le registre</Value>
+      <Value>Effectue la division &amp;#91;a&amp;#93; / &amp;#91;b&amp;#93; et écrit le résultat dans le registre &amp;#91;r?&amp;#93;</Value>
     </Record>
     <Record>
       <Key>ScriptCommandMod</Key>
-      <Value>Register = a mod b (note: différent de a % b)</Value>
+      <Value>Ecrit dans le registre &amp;#91;r?&amp;#93; le résultat de &amp;#91;a&amp;#93; modulo &amp;#91;b&amp;#93; (note: différent de a % b)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandJ</Key>
@@ -9147,15 +9151,15 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>ScriptCommandSqrt</Key>
-      <Value>Stocke la racine carrée de a dans le registre</Value>
+      <Value>Stocke la racine carrée de a dans le registre &amp;#91;r?&amp;#93;</Value>
     </Record>
     <Record>
       <Key>ScriptCommandRound</Key>
-      <Value>Stocke a arrondi à l&apos;entier le plus proche dans le registre</Value>
+      <Value>Stocke la valeur &amp;#91;a&amp;#93; arrondi à l&apos;entier le plus proche dans le registre &amp;#91;r?&amp;#93;</Value>
     </Record>
     <Record>
       <Key>ScriptCommandTrunc</Key>
-      <Value>Stocke a sans sa partie fractionnelle dans le registre</Value>
+      <Value>Tronque les décimales du nombre réel &amp;#91;a&amp;#93; et écrit l&amp;#39;entier dans le registre &amp;#91;r?&amp;#93;</Value>
     </Record>
     <Record>
       <Key>ScriptCommandCeil</Key>
@@ -9171,7 +9175,7 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>ScriptCommandMin</Key>
-      <Value>Stocke la plus petite des valeurs a et b dans le registre</Value>
+      <Value>Stocke la plus petite des valeurs entre a et b dans le registre</Value>
     </Record>
     <Record>
       <Key>ScriptCommandAbs</Key>
@@ -9179,19 +9183,23 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>ScriptCommandLog</Key>
-      <Value>Stocke log(a) dans le registre</Value>
+      <Value>Calcule le logarithme de &amp;#91;a&amp;#93; dans le registre &amp;#91;r?&amp;#93;</Value>
     </Record>
     <Record>
       <Key>ScriptCommandExp</Key>
-      <Value>Stocke exp(a) dans le registre</Value>
+      <Value>Calcule l&amp;#39;exponentiel de &amp;#91;a&amp;#93; dans le registre &amp;#91;r?&amp;#93;</Value>
     </Record>
     <Record>
       <Key>ScriptCommandRand</Key>
-      <Value>Stocke dans le registre une valeur x telle que 0 &lt;= x &lt; 1</Value>
+      <Value>Stocke dans le registre une valeur aléatoire x telle que 0 &lt;= x &lt; 1</Value>
     </Record>
     <Record>
       <Key>ScriptCommandYield</Key>
       <Value>Pause de l&apos;exécution pour 1 cycle</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandLabel</Key>
+      <Value>N&amp;#39;est plus utilisé</Value>
     </Record>
     <Record>
       <Key>ScriptCommandPeek</Key>
@@ -9199,11 +9207,11 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>ScriptCommandPush</Key>
-      <Value>Pousse la valeur de a dans la pile et incrémente sp</Value>
+      <Value>Stocke &amp;#91;r?&amp;#93; au sommet de la pile et incrémente ( SP )</Value>
     </Record>
     <Record>
       <Key>ScriptCommandPop</Key>
-      <Value>Stocke la valeur du haut de la pile et décrémente sp</Value>
+      <Value>Restaure dans &amp;#91;r?&amp;#93; la valeur du haut de la pile stocké précédemment par PUSH et décrémente le compteur du nombre de valeur stocké dans la pile ( SP ).</Value>
     </Record>
     <Record>
       <Key>ScriptCommandHcf</Key>
