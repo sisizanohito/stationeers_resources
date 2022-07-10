@@ -9466,6 +9466,10 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
       <Value>Tuyau</Value>
     </Record>
     <Record>
+      <Key>Power</Key>
+      <Value>Courant</Value>
+    </Record>
+    <Record>
       <Key>Data</Key>
       <Value>Données</Value>
     </Record>
@@ -9476,6 +9480,10 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     <Record>
       <Key>Elevator</Key>
       <Value>Ascenseur</Value>
+    </Record>
+    <Record>
+      <Key>PowerAndData</Key>
+      <Value>Courant et Données</Value>
     </Record>
     <Record>
       <Key>All</Key>
