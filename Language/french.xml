@@ -4911,15 +4911,15 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLiquidTankInsulated</Key>
-      <Value/>
+      <Value>Kit (Citerne calfeutré portable)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidTankBigInsulated</Key>
-      <Value/>
+      <Value>Grand réservoir de liquide calfeutré</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidTankSmallInsulated</Key>
-      <Value/>
+      <Value>Petit réservoir de liquide calfeutré</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureModularRocketLiquidTank</Key>
@@ -5057,6 +5057,10 @@
       <Value/>
     </RecordThing>
     <RecordThing>
+      <Key>ItemKitMusicMachines</Key>
+      <Value>Kit (Machine à musique)</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemInsulatedTankConnector</Key>
       <Value/>
     </RecordThing>
@@ -5161,6 +5165,10 @@
       <Value>Composteur portable</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemKitPlanter</Key>
+      <Value>Kit (Planteur)</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureAutomatedOven</Key>
       <Value/>
     </RecordThing>
@@ -5218,23 +5226,23 @@
     </RecordThing>
     <RecordThing>
       <Key>InsulatedLiquidPipeStraight</Key>
-      <Value>Tube calfeutré (Droit)</Value>
+      <Value>Tube isolé (Droit)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedPipeLiquidCorner</Key>
-      <Value>Tube calfeutré (Coin)</Value>
+      <Value>Tube isolé (Coin)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedPipeLiquidCrossJunction</Key>
-      <Value>Tube calfeutré (En Croix)</Value>
+      <Value>Tube isolé (En Croix)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedPipeLiquidCrossJunction4</Key>
-      <Value>Tube calfeutré (Jonction 4 voies)</Value>
+      <Value>Tube isolé (Jonction 4 voies)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeInsulatedLiquidCrossJunction</Key>
-      <Value>Tube calfeutré (En Croix)</Value>
+      <Value>Tube isolé (En Croix)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedPipeLiquidCrossJunction5</Key>
@@ -5242,15 +5250,15 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedPipeLiquidCrossJunction6</Key>
-      <Value>Tube calfeutré (Jonction 6 voies)</Value>
+      <Value>Tube isolé (Jonction 6 voies)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedPipeLiquidStraight</Key>
-      <Value>Tube calfeutré (Droit)</Value>
+      <Value>Tube isolé (Droit)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedPipeLiquidTJunction</Key>
-      <Value>Tube calfeutré (Jonction T)</Value>
+      <Value>Tube isolé (Jonction T)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitTurboVolumePump</Key>
@@ -5281,12 +5289,60 @@
       <Value>Caisse de {THING:StructureRocketModuleSilo}.</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemKitStirlingEngine</Key>
+      <Value>Kit (Moteur Stirling)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePowerTransmitter</Key>
+      <Value>Transmetteur de courant par micro-ondes</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePowerTransmitterReceiver</Key>
+      <Value>Récepteur de courant par micro-ondes</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureShortLocker</Key>
       <Value/>
     </RecordThing>
     <RecordThing>
       <Key>StructureCornerLocker</Key>
       <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitPowerTransmitter</Key>
+      <Value>Kit (Transmetteur de courant)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureInteriorDoorTriangle</Key>
+      <Value>Porte d&apos;intérieure triangulaire</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureInteriorDoorPaddedThin</Key>
+      <Value>Porte d’intérieure rembourrée mince</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureInteriorDoorPadded</Key>
+      <Value>Porte d’intérieure rembourrée</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureInteriorDoorGlass</Key>
+      <Value>Porte d&apos;intérieure vitrée</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitInteriorDoors</Key>
+      <Value>Kit (Portes d&apos;intérieure)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitPowerTransmitterOmni</Key>
+      <Value>Kit (Transmetteur de courant Omni)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePowerTransmitterOmni</Key>
+      <Value>Construction d&apos;un transmetteur de courant Omni</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitLargeExtendableRadiator</Key>
+      <Value>Kit (Grand radiateur extensible)</Value>
     </RecordThing>
   </Things>
   <Slots>
