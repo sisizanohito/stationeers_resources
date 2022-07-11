@@ -8839,23 +8839,23 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>ScriptCommandL</Key>
-      <Value>Charge la variable &amp;#91;var&amp;#93; de l&amp;#39;appareil &amp;#91;d?&amp;#93; et la stocke dans le registre &amp;#91;r?&amp;#93;</Value>
+      <Value>Charge la variable [ var ] de l&apos;appareil [ d? ] et la stocke dans le registre [ r? ].</Value>
     </Record>
     <Record>
       <Key>ScriptCommandLB</Key>
-      <Value>Charge la variable &amp;#91;var&amp;#93; de tous les périphériques du circuit de m&amp;ecirc;me type ayant l&amp;#39;ID hash &amp;#91;type&amp;#93; en effectuant un traitement &amp;#91;batchMode&amp;#93; sur les valeurs récoltés puis écrit le résultat dans le registre &amp;#91;r?&amp;#93;. ( batchMode = Moyenne&amp;#124;0, Somme&amp;#124;1, Minimum&amp;#124;2, Maximum&amp;#124;3 )</Value>
+      <Value>Charge la variable [ var ] de tous les périphériques du circuit de même type ayant le hash [ type ] en effectuant un traitement [ batchMode ] sur les valeurs récoltées puis écrit le résultat dans le registre [ r? ] ( batchMode = moyenne|0, Somme|1, minimum|2, maximum|3 ).</Value>
     </Record>
     <Record>
       <Key>ScriptCommandS</Key>
-      <Value>Applique la valeur du registre &amp;#91;r?&amp;#93; à la variable &amp;#91;var&amp;#93; du dispositif &amp;#91;d?&amp;#93;.</Value>
+      <Value>Applique la valeur du registre [ r? ] à la variable [ var ] du dispositif [ d? ]</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSB</Key>
-      <Value>Ecrit la valeur du registre &amp;#91;r?&amp;#93; dans la variable &amp;#91;var&amp;#93; de tous les périphériques de même type ayant, au sein du circuit, l&amp;#39;ID hash &amp;#91;type&amp;#93;.</Value>
+      <Value>Écris la valeur du registre [ r? ] dans la variable [ var ] de tous les périphériques de même type ayant, au sein du circuit, le hash [ type ]</Value>
     </Record>
     <Record>
       <Key>ScriptCommandLS</Key>
-      <Value>Charge le contenu le la variable &amp;#91;var&amp;#93; du numéro de slot &amp;#91;int&amp;#93; de l&amp;#39;appareil &amp;#91;d?&amp;#93; et le stocke dans le registre &amp;#91;r?&amp;#93; si la variable  est un booléen la valeur renvoyé sera (Faux&amp;#124;0 ou Vrais&amp;#124;1).</Value>
+      <Value>Charge le contenu de la variable [ var ] afférente au numéro de slot [ int ] de l&apos;appareil [ d? ] et le stocke dans le registre [ r? ]. Si la variable est un booléen, la valeur renvoyée sera faux|0 ou vrai|1</Value>
     </Record>
     <Record>
       <Key>ScriptCommandLR</Key>
@@ -8863,11 +8863,11 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>ScriptCommandAlias</Key>
-      <Value>Associe un nom &amp;#91;str&amp;#93; à une référence de registre ou de dispositif &amp;#91;r?&amp;#124;d?&amp;#93;, les références de dispositif influencent également ce qui s&apos;affiche sur les vis du support de CI.</Value>
+      <Value>Associe un nom [ str ] à une référence de registre ou de dispositif [ r?,d? ]; les références de dispositif influencent également ce qui s&apos;affiche sur les vis du support de CI.</Value>
     </Record>
     <Record>
       <Key>ScriptCommandDefine</Key>
-      <Value>Crée une constante labelisé &amp;#91;str&amp;#93; associé à la valeur numérique &amp;#91;a&amp;#93;. Toute occurrence à ce label dans le code suivant sera implicitement remplacé par sa valeur associée.</Value>
+      <Value>Crée une constante labellisé [ str ] associée à la valeur numérique [ a ]; toute occurrence à ce label dans le code suivant sera implicitement remplacé par sa valeur associée.</Value>
     </Record>
     <Record>
       <Key>ScriptCommandMove</Key>
