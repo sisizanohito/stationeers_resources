@@ -4707,7 +4707,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPipeLiquid</Key>
-      <Value>Kit (Tube)</Value>
+      <Value>Kit (Tuyau pour Liquide)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeLiquidCrossJunction</Key>
@@ -7441,7 +7441,7 @@ Température {1}
     </Record>
     <Record>
       <Key>LogicState</Key>
-      <Value>Etat {COLORGREEN:#VAR1#}</Value>
+      <Value>État &lt;color=green&gt;#VAR1#&lt;/color&gt;</Value>
     </Record>
     <Record>
       <Key>LogicNoDevice</Key>
@@ -9271,7 +9271,7 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>ScriptCommandPush</Key>
-      <Value>Stocke &amp;#91;r?&amp;#93; au sommet de la pile et incrémente ( SP )</Value>
+      <Value>Stocke [ r? ] au sommet de la pile et incrémente ( sp )</Value>
     </Record>
     <Record>
       <Key>ScriptCommandPop</Key>
@@ -10133,7 +10133,7 @@ Le programme Stationeers, qui est fondamentalement ouvert à toute l’humanité
     </Record>
     <Record>
       <Key>CrowbarToFlip</Key>
-      <Value>Redresser en utilisant le pied de biche.</Value>
+      <Value>Retourner à l’aide du pied-de-biche</Value>
     </Record>
     <Record>
       <Key>TimerPanel</Key>
