@@ -9295,27 +9295,27 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>ScriptCommandCos</Key>
-      <Value>Renvoie le cosinus de de l&apos;angle spécifié</Value>
+      <Value>Renvoie le cosinus de l&apos;angle spécifié (en radians)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandTan</Key>
-      <Value>Renvoie la tangente de de l&apos;angle spécifié</Value>
+      <Value>Renvoie la tangente de l&apos;angle spécifié (en radians)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandASin</Key>
-      <Value>Renvoie l&apos;angle dont le sinus est la valeur spécifiée</Value>
+      <Value>Renvoie l’angle (en radians) dont le sinus est la valeur spécifiée</Value>
     </Record>
     <Record>
       <Key>ScriptCommandACos</Key>
-      <Value>Renvoie l&apos;angle dont le cosinus est la valeur spécifiée</Value>
+      <Value>Renvoie l’angle (en radians) dont le cosinus est la valeur spécifiée</Value>
     </Record>
     <Record>
       <Key>ScriptCommandATan</Key>
-      <Value>Renvoie l&apos;angle dont la tangente est la valeur spécifiée</Value>
+      <Value>Renvoie l’angle (en radians) dont la tangente est la valeur spécifiée</Value>
     </Record>
     <Record>
       <Key>ScriptCommandATan2</Key>
-      <Value>Renvoie l&apos;angle dont la tangente est la valeur spécifiée</Value>
+      <Value>Renvoie l&apos;angle en radians dans [r?] dont la tangente est le quotient a(y) / b(x)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandCommand</Key>
