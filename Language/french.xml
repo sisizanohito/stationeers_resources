@@ -8967,23 +8967,23 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>ScriptCommandNor</Key>
-      <Value>Renvoi Vrais&amp;#124;1 dans le registre &amp;#91;r?&amp;#93; uniquement si les deux opérandes $#91;a&amp;#93; et &amp;#91;b&amp;#93; sont Faux&amp;#124;0, sinon 0.</Value>
+      <Value>Renvoi vrais|1 dans le registre [ r? ] uniquement si les deux opérandes [ a ] et [ b ] sont faux|0, sinon renvoi 0</Value>
     </Record>
     <Record>
       <Key>ScriptCommandMul</Key>
-      <Value>Effectue la multiplication &amp;#91;a&amp;#93; x &amp;#91;b&amp;#93; et écrit le résultat dans le registre &amp;#91;r?&amp;#93;</Value>
+      <Value>Effectue la multiplication [ a ] x [ b ] et écrit le résultat dans le registre [ r? ]</Value>
     </Record>
     <Record>
       <Key>ScriptCommandDiv</Key>
-      <Value>Effectue la division &amp;#91;a&amp;#93; / &amp;#91;b&amp;#93; et écrit le résultat dans le registre &amp;#91;r?&amp;#93;</Value>
+      <Value>Effectue la division [ a ] : [ b ] et écrit le résultat dans le registre [ r? ]</Value>
     </Record>
     <Record>
       <Key>ScriptCommandMod</Key>
-      <Value>Ecrit dans le registre &amp;#91;r?&amp;#93; le résultat de &amp;#91;a&amp;#93; modulo &amp;#91;b&amp;#93; (note: différent de a % b)</Value>
+      <Value>Écrit dans le registre [ r? ] le résultat de [ a ] modulo [ b ] (note: différent de a % b)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandJ</Key>
-      <Value>Saute à la ligne a</Value>
+      <Value>Saute à la ligne [ a ]</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBdse</Key>
@@ -9059,11 +9059,11 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>ScriptCommandJr</Key>
-      <Value>Fait un saut relatif de a lignes</Value>
+      <Value>Fait un saut relatif de [ a ] lignes vers le bas</Value>
     </Record>
     <Record>
       <Key>ScriptCommandJr</Key>
-      <Value>Fait un saut relatif de a lignes</Value>
+      <Value>Fait un saut relatif de [ a ] lignes vers le bas</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBrdse</Key>
@@ -9139,11 +9139,11 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>ScriptCommandJal</Key>
-      <Value>Saute à la ligne a et stocke le numéro de la ligne suivante dans ra</Value>
+      <Value>Saute à la ligne [ a ] et stocke le numéro de la ligne suivante dans [ ra,r17 ]</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBdseal</Key>
-      <Value>Sauter l&apos;exécution à la ligne a et enregistrer le numéro de la ligne suivante si l&apos;appareil est réglé</Value>
+      <Value>Fait sauter l&apos;exécution à la ligne [ a ] et enregistre le numéro de la ligne suivante en [ ra,r17 ] si le dispositif [ d? ] est initialisé.</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBdnsal</Key>
@@ -9215,15 +9215,15 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>ScriptCommandSqrt</Key>
-      <Value>Stocke la racine carrée de a dans le registre &amp;#91;r?&amp;#93;</Value>
+      <Value>Stocke la racine carrée de a dans le registre [ r? ]</Value>
     </Record>
     <Record>
       <Key>ScriptCommandRound</Key>
-      <Value>Stocke la valeur &amp;#91;a&amp;#93; arrondi à l&apos;entier le plus proche dans le registre &amp;#91;r?&amp;#93;</Value>
+      <Value>Stocke la valeur [ a ] arrondi à l&apos;entier le plus proche dans le registre [ r? ]</Value>
     </Record>
     <Record>
       <Key>ScriptCommandTrunc</Key>
-      <Value>Tronque les décimales du nombre réel &amp;#91;a&amp;#93; et écrit l&amp;#39;entier dans le registre &amp;#91;r?&amp;#93;</Value>
+      <Value>Tronque les décimales du nombre réel [ a ] et écrit l&apos;entier dans le registre [ r? ]</Value>
     </Record>
     <Record>
       <Key>ScriptCommandCeil</Key>
@@ -9231,11 +9231,11 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>ScriptCommandFloor</Key>
-      <Value>Stocke le plus grand entier inférieur à a dans le registre</Value>
+      <Value>Stocke le plus grand entier inférieur à [ a ] dans le registre</Value>
     </Record>
     <Record>
       <Key>ScriptCommandMax</Key>
-      <Value>Stocke la plus grande des valeurs a et b dans le registre</Value>
+      <Value>Stocke la plus grande des valeurs [ a ] et [ b ] dans le registre</Value>
     </Record>
     <Record>
       <Key>ScriptCommandMin</Key>
@@ -9243,15 +9243,15 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>ScriptCommandAbs</Key>
-      <Value>Stocke la valeur absolue de a dans le registre</Value>
+      <Value>Stocke la valeur absolue de [ a ] dans le registre</Value>
     </Record>
     <Record>
       <Key>ScriptCommandLog</Key>
-      <Value>Calcule le logarithme de &amp;#91;a&amp;#93; dans le registre &amp;#91;r?&amp;#93;</Value>
+      <Value>Calcule le logarithme de [ a ] dans le registre [ r? ]</Value>
     </Record>
     <Record>
       <Key>ScriptCommandExp</Key>
-      <Value>Calcule l&amp;#39;exponentiel de &amp;#91;a&amp;#93; dans le registre &amp;#91;r?&amp;#93;</Value>
+      <Value>Calcule l&apos;exponentiel de [ a ] dans le registre [ r? ]</Value>
     </Record>
     <Record>
       <Key>ScriptCommandRand</Key>
@@ -9263,7 +9263,7 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>ScriptCommandLabel</Key>
-      <Value>N&amp;#39;est plus utilisé</Value>
+      <Value>N&apos;est plus utilisé</Value>
     </Record>
     <Record>
       <Key>ScriptCommandPeek</Key>
