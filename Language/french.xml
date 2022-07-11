@@ -9291,7 +9291,7 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>ScriptCommandSin</Key>
-      <Value>Renvoie le sinus de de l&apos;angle spécifié</Value>
+      <Value>Renvoie le sinus de l&apos;angle spécifié (en radians)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandCos</Key>
