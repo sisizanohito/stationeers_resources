@@ -8871,23 +8871,23 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>ScriptCommandMove</Key>
-      <Value>Copie la valeur d&apos;une constante ou d&apos;un registre source &amp;#91;b&amp;#93; vers un registre destination &amp;#91;a&amp;#93;.</Value>
+      <Value>Copie la valeur d&apos;une constante ou d&apos;un registre source [ b ] vers un registre de destination [ a ].</Value>
     </Record>
     <Record>
       <Key>ScriptCommandAdd</Key>
-      <Value>Effectue une addition de &amp;#91;a&amp;#93; plus &amp;#91;b&amp;#93; et place le résultat dans le registre &amp;#91;r?&amp;#93;.</Value>
+      <Value>Effectue une addition de [ a ] + [ b ] et place le résultat dans le registre [ r? ]</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSub</Key>
-      <Value>Effectue une soustraction de &amp;#91;a&amp;#93; moins &amp;#91;b&amp;#93; et place le résultat dans le registre &amp;#91;r?&amp;#93;.</Value>
+      <Value>Effectue une soustraction de [ a ] moins [ b ] et place le résultat dans le registre [ r? ].</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSdse</Key>
-      <Value>Test au sein de l&apos;IC, si l&amp;#39;appareil &amp;#91;d?&amp;#93; est bien associé à un appareil. Si oui renvoi 1 dans &amp;#91;r?&amp;#93;, sinon 0.</Value>
+      <Value>Test au sein du CI, si le registre d&apos;appareil [ d? ] est bien associé à un dispositif. Si oui renvoie 1 dans [ r? ], sinon renvoie 0</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSdns</Key>
-      <Value>Test au sein de l&apos;IC, si l&amp;#39;appareil &amp;#91;d?&amp;#93; est associé à un appareil. Si oui renvoi 0 dans &amp;#91;r?&amp;#93;, sinon 1.</Value>
+      <Value>Test au sein du CI, si le registre d&apos;appareil [ d? ] est associé à un dispositif existant. Si oui renvoie 0 dans [ r? ] sinon renvoie 1</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSlt</Key>
@@ -8955,19 +8955,19 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>ScriptCommandAnd</Key>
-      <Value>Renvoi Vrais&amp;#124;1 dans le registre &amp;#91;r?&amp;#93; si les deux opérandes $#91;a&amp;#93; et &amp;#91;b&amp;#93; sont Vrais&amp;#124;1, sinon 0.</Value>
+      <Value>Renvoie vrai|1 dans le registre [ r? ] si les deux opérandes [ a ] et [ b ] sont vraies|1, sinon renvoie 0</Value>
     </Record>
     <Record>
       <Key>ScriptCommandOr</Key>
-      <Value>Renvoi Vrais&amp;#124;1 dans le registre &amp;#91;r?&amp;#93; si au moins l&apos;un des deux opérandes $#91;a&amp;#93; ou &amp;#91;b&amp;#93; est Vrais&amp;#124;1, sinon 0.</Value>
+      <Value>Renvoie vrai|1 dans le registre [ r? ] si au moins l&apos;un des deux opérandes [ a ] ou [ b ] est vraie|1, sinon renvoi 0</Value>
     </Record>
     <Record>
       <Key>ScriptCommandXor</Key>
-      <Value>Renvoi Vrais&amp;#124;1 dans le registre &amp;#91;r?&amp;#93; uniquement si l&apos;un des deux opérandes $#91;a&amp;#93; ou &amp;#91;b&amp;#93; est vrais&amp;#124;1, sinon 0.</Value>
+      <Value>Renvoie vrai|1 dans le registre [ r? ] uniquement si l&apos;un des deux opérandes [ a ] ou [ b ] est vrai|1, sinon 0.</Value>
     </Record>
     <Record>
       <Key>ScriptCommandNor</Key>
-      <Value>Renvoi vrais|1 dans le registre [ r? ] uniquement si les deux opérandes [ a ] et [ b ] sont faux|0, sinon renvoi 0</Value>
+      <Value>Renvoie vrai|1 dans le registre [ r? ] uniquement si les deux opérandes [ a ] et [ b ] sont faux|0, sinon renvoie 0</Value>
     </Record>
     <Record>
       <Key>ScriptCommandMul</Key>
