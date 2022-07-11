@@ -9275,7 +9275,7 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>ScriptCommandPop</Key>
-      <Value>Restaure dans &amp;#91;r?&amp;#93; la valeur du haut de la pile stocké précédemment par PUSH et décrémente le compteur du nombre de valeur stocké dans la pile ( SP ).</Value>
+      <Value>Restaure dans [r?] la valeur du haut de la pile stocké précédemment par PUSH et décrémente le compteur du nombre de valeur stocké dans la pile ( SP ).</Value>
     </Record>
     <Record>
       <Key>ScriptCommandHcf</Key>
