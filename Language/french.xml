@@ -8959,7 +8959,7 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>ScriptCommandOr</Key>
-      <Value>Renvoie vrai|1 dans le registre [ r? ] si au moins l&apos;un des deux opérandes [ a ] ou [ b ] est vraie|1, sinon renvoi 0</Value>
+      <Value>Renvoie vrai|1 dans le registre [ r? ] si au moins l&apos;un des deux opérandes [ a ] ou [ b ] est vraie|1, sinon renvoie 0</Value>
     </Record>
     <Record>
       <Key>ScriptCommandXor</Key>
