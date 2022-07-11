@@ -9394,10 +9394,6 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
       <Value>Souhaitez-vous déverrouiller cette recherche ?</Value>
     </Record>
     <Record>
-      <Key>WarningSavePathNotWritableDescription</Key>
-      <Value>Impossible d’écrire pour sauver le chemin. Il a été réinitialisé en défaut</Value>
-    </Record>
-    <Record>
       <Key>WarningSavePathNotWritable</Key>
       <Value>Le chemin de sauvegarde n&apos;est pas accessible en écriture</Value>
     </Record>
