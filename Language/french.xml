@@ -8115,11 +8115,15 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>FuelReturnCost</Key>
-      <Value>Obtenir le coût du carburant pour le retour.</Value>
+      <Value>Obtenir le coût du carburant pour le retour de la fusée vers votre monde.</Value>
     </Record>
     <Record>
       <Key>RocketMode</Key>
       <Value>Obsolète</Value>
+    </Record>
+    <Record>
+      <Key>CollectableGoods</Key>
+      <Value>Renvoie 0 ou 1 selon que le système de fusée actuel a ou non la capacité de collecter des ressources sur la planète.</Value>
     </Record>
     <Record>
       <Key>LogicTypeRequestHash</Key>
@@ -8251,7 +8255,7 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>TraderGas</Key>
-      <Value>Gassy Trade</Value>
+      <Value>Commerce du gaz</Value>
     </Record>
     <Record>
       <Key>LoadBackupsTitle</Key>
@@ -9394,6 +9398,10 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
       <Value>Souhaitez-vous déverrouiller cette recherche ?</Value>
     </Record>
     <Record>
+      <Key>WarningSavePathNotWritableDescription</Key>
+      <Value>Impossible d’écrire dans le chemin d&apos;enregistrement, utilisation du chemin par défaut</Value>
+    </Record>
+    <Record>
       <Key>WarningSavePathNotWritable</Key>
       <Value>Le chemin de sauvegarde n&apos;est pas accessible en écriture</Value>
     </Record>
@@ -9662,6 +9670,10 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
       <Value>Activer un/une</Value>
     </Record>
     <Record>
+      <Key>CommandSave</Key>
+      <Value>Sauve la partie avec le nom spécifié en paramètre : &quot;/save nameofsave&quot;</Value>
+    </Record>
+    <Record>
       <Key>CommandStatus</Key>
       <Value>Affiche l&apos;état actuel du serveur et qui est présent actuellement sur le serveur: &quot;/status&quot;</Value>
     </Record>
@@ -9674,8 +9686,16 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
       <Value>Révoquer une interdiction d&apos;un identifiant Steam donné du serveur: &quot;/unban 102039237390&quot;</Value>
     </Record>
     <Record>
+      <Key>CommandKick</Key>
+      <Value>Déconnecte un joueur du serveur a partir de son ID steam : &quot;/kick 102039237390&quot;</Value>
+    </Record>
+    <Record>
       <Key>CommandClearAll</Key>
       <Value>Efface tous les joueurs déconnectés du serveur:  &quot;/clearall&quot;</Value>
+    </Record>
+    <Record>
+      <Key>CommandSetHunger</Key>
+      <Value>Définis la vitesse d&apos;évolution de l&apos;état de faim : &quot;/hungerrate 0.25&quot;</Value>
     </Record>
     <Record>
       <Key>CommandPause</Key>
@@ -9688,6 +9708,18 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     <Record>
       <Key>CommandToggleGod</Key>
       <Value>Active ou désactive l’invincibilité du joueur, y compris la combinaison. : &quot;/tg&quot;</Value>
+    </Record>
+    <Record>
+      <Key>CommandToggleInfinitePower</Key>
+      <Value>Active / désactive l&apos;énergie infini pour le joueur ou le serveur : &quot;/tgp&quot;</Value>
+    </Record>
+    <Record>
+      <Key>CommandToggleGameMode</Key>
+      <Value>Alterne entre le mode de jeu créatif et Survie : &quot;/tgm&quot;</Value>
+    </Record>
+    <Record>
+      <Key>CommandSetTime</Key>
+      <Value>Force la position du soleil via l&apos;offset de celui-ci, cela affecte évidement l&apos;heure du jour : &quot;/settime 0.25&quot;</Value>
     </Record>
     <Record>
       <Key>CommandToggleInstaGrow</Key>
@@ -9718,6 +9750,10 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
       <Value>Affiche l&apos;étape actuelle de la mission et le nombre d&apos;étapes de la mission. : &quot;/showstage&quot;</Value>
     </Record>
     <Record>
+      <Key>CommandFillNeeds</Key>
+      <Value>Alimente et réhydrate un joueur : &quot;/fillneeds&quot;</Value>
+    </Record>
+    <Record>
       <Key>CommandFillHealth</Key>
       <Value>Soigner un joueur. : &quot;/fillhealth&quot;</Value>
     </Record>
@@ -9728,6 +9764,18 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     <Record>
       <Key>CommandAddGas</Key>
       <Value>Ajoute du gaz ou des liquides à un réservoir ou un réseau de canalisations donné. : &quot;/addgas [refID] [gasType 1-8] [molecount]&quot;</Value>
+    </Record>
+    <Record>
+      <Key>CommandCount</Key>
+      <Value>Dénombre toute les choses [ Things ] d&apos;un type particulier au sein de la sauvegarde : &quot;/count [AllThings / Structures / DynamicThings / AnimatorThings / Pipes / Cables / Atmospheres / CableNetworks]&quot;</Value>
+    </Record>
+    <Record>
+      <Key>CommandSetDecay</Key>
+      <Value>Modifie le multiplicateur de vitesse de péremption des aliments.&quot;/setdecay 2&quot;</Value>
+    </Record>
+    <Record>
+      <Key>CommandSetContact</Key>
+      <Value>Définis le canal de communication pour contacter un vendeur  : &quot;/setcontact 10&quot;</Value>
     </Record>
     <Record>
       <Key>CommandHelp</Key>
