@@ -2106,7 +2106,7 @@ If water is present in the furnace, it will gather there until the furnace is co
     <RecordThing>
       <Key>StructureGlassDoor</Key>
       <Value>Glass Door</Value>
-      <Description></Description>
+      <Description />
     </RecordThing>
     <RecordThing>
       <Key>StructureGunTurret</Key>
@@ -6960,6 +6960,16 @@ The transmitter must be aligned to the base station in order to transmit any pow
       <Value>Item Wreckage Large Extendable Radiator01</Value>
       <Description />
     </RecordThing>
+    <RecordThing>
+      <Key>StructureWaterBottleFillerPoweredBottom</Key>
+      <Value>Waterbottle Filler</Value>
+      <Description />
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureWaterBottleFillerPowered</Key>
+      <Value>Waterbottle Filler</Value>
+      <Description />
+    </RecordThing>
   </Things>
   <Slots>
     <Record>
@@ -9138,7 +9148,7 @@ The transmitter must be aligned to the base station in order to transmit any pow
     </Record>
     <Record>
       <Key>LogicState</Key>
-      <Value>State &lt;color=green&gt;#VAR1#&lt;/color></Value>
+      <Value>State &lt;color=green&gt;#VAR1#&lt;/color&gt;</Value>
     </Record>
     <Record>
       <Key>LogicNoDevice</Key>
