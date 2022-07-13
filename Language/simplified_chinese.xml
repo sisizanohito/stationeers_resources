@@ -4960,11 +4960,11 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureWaterBottleFillerPoweredBottom</Key>
-      <Value>水瓶灌装机</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>StructureWaterBottleFillerPowered</Key>
-      <Value>水瓶灌装机</Value>
+      <Value/>
     </RecordThing>
   </Things>
   <Slots>

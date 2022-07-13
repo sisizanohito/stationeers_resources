@@ -5401,11 +5401,11 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureWaterBottleFillerPoweredBottom</Key>
-      <Value>Разливочная Машина Воды</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>StructureWaterBottleFillerPowered</Key>
-      <Value>Разливочная Машина Воды</Value>
+      <Value/>
     </RecordThing>
   </Things>
   <Slots>

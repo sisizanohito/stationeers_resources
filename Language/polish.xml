@@ -4035,11 +4035,11 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureWaterBottleFillerPoweredBottom</Key>
-      <Value>Wypełniacz Butelek Na Wodę</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>StructureWaterBottleFillerPowered</Key>
-      <Value>Wypełniacz Butelek Na Wodę</Value>
+      <Value/>
     </RecordThing>
   </Things>
   <Slots>

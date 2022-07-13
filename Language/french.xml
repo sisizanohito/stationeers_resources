@@ -5354,11 +5354,11 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureWaterBottleFillerPoweredBottom</Key>
-      <Value>Remplisseur de bouteille d’eau</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>StructureWaterBottleFillerPowered</Key>
-      <Value>Remplisseur de bouteille d’eau</Value>
+      <Value/>
     </RecordThing>
   </Things>
   <Slots>

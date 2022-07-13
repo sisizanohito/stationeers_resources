@@ -5484,11 +5484,11 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureWaterBottleFillerPoweredBottom</Key>
-      <Value>Rellenar botella de agua</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>StructureWaterBottleFillerPowered</Key>
-      <Value>Rellenar botella de agua</Value>
+      <Value/>
     </RecordThing>
   </Things>
   <Slots>

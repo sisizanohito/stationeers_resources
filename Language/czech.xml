@@ -5736,11 +5736,11 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureWaterBottleFillerPoweredBottom</Key>
-      <Value>Plnička lahví na vodu</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>StructureWaterBottleFillerPowered</Key>
-      <Value>Plnička lahví na vodu</Value>
+      <Value/>
     </RecordThing>
   </Things>
   <Slots>

@@ -4857,11 +4857,11 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureWaterBottleFillerPoweredBottom</Key>
-      <Value>Vizespalacktöltő</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>StructureWaterBottleFillerPowered</Key>
-      <Value>Vizespalacktöltő</Value>
+      <Value/>
     </RecordThing>
   </Things>
   <Slots>
