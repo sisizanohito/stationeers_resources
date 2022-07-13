@@ -4958,6 +4958,14 @@
       <Key>ItemKitPowerTransmitterOmni</Key>
       <Value/>
     </RecordThing>
+    <RecordThing>
+      <Key>StructureWaterBottleFillerPoweredBottom</Key>
+      <Value>水瓶灌装机</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureWaterBottleFillerPowered</Key>
+      <Value>水瓶灌装机</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>

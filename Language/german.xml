@@ -4590,6 +4590,14 @@
       <Key>ItemKitPowerTransmitterOmni</Key>
       <Value/>
     </RecordThing>
+    <RecordThing>
+      <Key>StructureWaterBottleFillerPoweredBottom</Key>
+      <Value>Wasserflaschen-Befüller</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureWaterBottleFillerPowered</Key>
+      <Value>Wasserflaschen-Befüller</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>

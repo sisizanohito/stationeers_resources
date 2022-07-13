@@ -5399,6 +5399,14 @@
       <Key>ItemKitPowerTransmitterOmni</Key>
       <Value/>
     </RecordThing>
+    <RecordThing>
+      <Key>StructureWaterBottleFillerPoweredBottom</Key>
+      <Value>Разливочная Машина Воды</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureWaterBottleFillerPowered</Key>
+      <Value>Разливочная Машина Воды</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>

@@ -4576,6 +4576,14 @@
       <Key>ItemKitPowerTransmitterOmni</Key>
       <Value>アイテムキット パワートランスミッタ オムニ</Value>
     </RecordThing>
+    <RecordThing>
+      <Key>StructureWaterBottleFillerPoweredBottom</Key>
+      <Value>水筒充填装置</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureWaterBottleFillerPowered</Key>
+      <Value>水筒充填装置</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>

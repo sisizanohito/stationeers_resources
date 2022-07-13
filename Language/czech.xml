@@ -5734,6 +5734,14 @@
       <Key>ItemWreckageLargeExtendableRadiator01</Key>
       <Value>Trosky velkého výsuvného radiátoru 01</Value>
     </RecordThing>
+    <RecordThing>
+      <Key>StructureWaterBottleFillerPoweredBottom</Key>
+      <Value>Plnička lahví na vodu</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureWaterBottleFillerPowered</Key>
+      <Value>Plnička lahví na vodu</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>

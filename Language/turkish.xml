@@ -4946,6 +4946,14 @@
       <Key>ItemKitPowerTransmitterOmni</Key>
       <Value/>
     </RecordThing>
+    <RecordThing>
+      <Key>StructureWaterBottleFillerPoweredBottom</Key>
+      <Value>Su Şişesi Doldurucu</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureWaterBottleFillerPowered</Key>
+      <Value>Su Şişesi Doldurucu</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>

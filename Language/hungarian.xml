@@ -4855,6 +4855,14 @@
       <Key>ItemKitPowerTransmitterOmni</Key>
       <Value/>
     </RecordThing>
+    <RecordThing>
+      <Key>StructureWaterBottleFillerPoweredBottom</Key>
+      <Value>Vizespalacktöltő</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureWaterBottleFillerPowered</Key>
+      <Value>Vizespalacktöltő</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>

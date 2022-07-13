@@ -5352,6 +5352,14 @@
       <Key>ItemKitLargeExtendableRadiator</Key>
       <Value>Kit (Grand radiateur extensible)</Value>
     </RecordThing>
+    <RecordThing>
+      <Key>StructureWaterBottleFillerPoweredBottom</Key>
+      <Value>Remplisseur de bouteille d’eau</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureWaterBottleFillerPowered</Key>
+      <Value>Remplisseur de bouteille d’eau</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>
