@@ -95,10 +95,6 @@ Les emplacements pour votre personnage sont visibles à gauche de l&apos;écran.
       <Value>Le {THING:ItemSpacepack} nécessite un propulseur afin d&apos;utiliser les jets, nous allons utiliser cette bouteille d&apos;azote là-bas.</Value>
     </Record>
     <Record>
-      <Key>TutorialGasItUpTask</Key>
-      <Value>Ajoutez le {THING:ItemGasCanisterNitrogen} à l&apos;emplacement du propulseur.</Value>
-    </Record>
-    <Record>
       <Key>TutorialFeelingHotHotHotTitle</Key>
       <Value>Se sentir chaud chaud chaud</Value>
     </Record>
