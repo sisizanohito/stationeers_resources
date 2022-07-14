@@ -5033,10 +5033,6 @@
       <Value>Refroidisseur à eau</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureWaterBottleFillerBottom</Key>
-      <Value>Remplisseur de bouteille d’eau</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemLiquidDrain</Key>
       <Value/>
     </RecordThing>
@@ -5354,11 +5350,11 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureWaterBottleFillerPoweredBottom</Key>
-      <Value/>
+      <Value>Remplisseur de bouteille d’eau</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWaterBottleFillerPowered</Key>
-      <Value/>
+      <Value>Remplisseur de bouteille d’eau</Value>
     </RecordThing>
   </Things>
   <Slots>
