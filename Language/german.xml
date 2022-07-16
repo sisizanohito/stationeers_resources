@@ -5974,7 +5974,7 @@
     </Record>
     <Record>
       <Key>SettingsAdvertiseServer</Key>
-      <Value>Server Ausschreiben</Value>
+      <Value>Server öffentlich</Value>
     </Record>
     <Record>
       <Key>SettingsServerName</Key>
@@ -5991,10 +5991,6 @@
     <Record>
       <Key>SettingsTitleMultiplayer</Key>
       <Value>Mehrspielereinstellungen</Value>
-    </Record>
-    <Record>
-      <Key>SettingsUpdatePort</Key>
-      <Value>Port erneuern</Value>
     </Record>
     <Record>
       <Key>SettingsGamePort</Key>
@@ -8223,6 +8219,10 @@ Temperatur {1}</Value>
     <Record>
       <Key>ActivateExplosiveTooltipKey1</Key>
       <Value>Mauskontrolle aktivieren</Value>
+    </Record>
+    <Record>
+      <Key>CommandUnBan</Key>
+      <Value>Widerrufen eines Bann&apos;s einer bestimmten Steam-ID vom Server: &quot;/unban 102039237390&quot;</Value>
     </Record>
     <Record>
       <Key>CommandKick</Key>
