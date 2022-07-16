@@ -169,6 +169,11 @@
       <Value>Soja</Value>
       <Unit>g</Unit>
     </RecordReagent>
+    <RecordReagent>
+      <Key>Mushroom</Key>
+      <Value>Pilz</Value>
+      <Unit>g</Unit>
+    </RecordReagent>
   </Reagents>
   <Gases>
     <Record>
@@ -4754,7 +4759,7 @@
     </Record>
     <Record>
       <Key>DataDisk</Key>
-      <Value>Diskettenlauferk</Value>
+      <Value>Diskettenlaufwerk</Value>
     </Record>
     <Record>
       <Key>Appliance1</Key>
@@ -4835,6 +4840,10 @@
     <Record>
       <Key>CircuitBoard</Key>
       <Value>Leiterplatte</Value>
+    </Record>
+    <Record>
+      <Key>ProgrammableChip</Key>
+      <Value>Programmierbarer Chip</Value>
     </Record>
     <Record>
       <Key>CreditCard</Key>
@@ -5341,6 +5350,14 @@
     <Record>
       <Key>Button17</Key>
       <Value>Schaltfläche17</Value>
+    </Record>
+    <Record>
+      <Key>ProgrammableChip</Key>
+      <Value>Programmierbarer Chip</Value>
+    </Record>
+    <Record>
+      <Key>Motherboard</Key>
+      <Value>Hauptplatine</Value>
     </Record>
   </Interactables>
   <Interface>
