@@ -8577,8 +8577,24 @@ Temperatur {1}</Value>
       <Value>Verstorben</Value>
     </Record>
     <Record>
+      <Key>CurrentInstrument</Key>
+      <Value>Aktuelles Instrument</Value>
+    </Record>
+    <Record>
       <Key>NoSoundCartridge</Key>
       <Value>Keine Sound-Kassette</Value>
+    </Record>
+    <Record>
+      <Key>NoNote</Key>
+      <Value>Keine Notiz</Value>
+    </Record>
+    <Record>
+      <Key>Intensity</Key>
+      <Value>Intensität</Value>
+    </Record>
+    <Record>
+      <Key>Waveform</Key>
+      <Value>Wellenform</Value>
     </Record>
     <Record>
       <Key>StationpediaMaxPressure</Key>
@@ -8591,6 +8607,20 @@ Temperatur {1}</Value>
     <Record>
       <Key>StationpediaNutrition</Key>
       <Value>Nährwert</Value>
+    </Record>
+    <Record>
+      <Key>MolePollutantDescription</Key>
+      <Value>Auch als &quot;X&quot; bekannt, entstehen beim Schmelzen bestimmter Metalle Schadstoffe. Eine Konzentration von 0.1 mol oder mehr führt dazu, dass Ihr Anzug vor Gift in der Atmosphäre warnt.
+
+Schadstoff hat eine hohe spezifische Wärme, was es zu einem ausgezeichneten Kühlmittel macht.</Value>
+    </Record>
+    <Record>
+      <Key>MoleWaterDescription</Key>
+      <Value>&lt;/color&gt;Sie können Wasser erhalten, indem Sie {THING:ItemIce} mit einem {THING:StructureFurnace} oder einem {THING:StructureIceCrusher} schmelzen oder zerkleinern oder flüchtige Stoffe und Sauerstoff mit dem {THING:H2Combustor} verbrennen.
+      
+Wasser ist entscheidend dafür, dass &lt;color=#0080FFFF&gt;{LINK:OrganicPage;plants}&lt;/color&gt; am Leben bleibt und &lt;color=#0080FFFF&gt;{LINK:NutritionPage;food}&lt;/color&gt; anbaut. Es ist auch ein außergewöhnliches Kühlmittel mit einer sehr hohen spezifischen Wärmekapazität.
+
+Hinweis: Wasser wurde früher als Gas behandelt, aber ein neues System für Flüssigkeiten wird entwickelt, einschließlich separater Rohre, Tanks, Pumpen usw. für Flüssigkeiten. Wasser ist derzeit die einzige verfügbare Flüssigkeit und ändert derzeit nicht den Zustand.</Value>
     </Record>
     <Record>
       <Key>MoleNitrousOxideDescription</Key>
