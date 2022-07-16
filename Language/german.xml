@@ -251,7 +251,7 @@
     </Record>
     <Record>
       <Key>Consume</Key>
-      <Value>Benutzen</Value>
+      <Value>Verbrauchen</Value>
     </Record>
     <Record>
       <Key>Plant</Key>
@@ -6485,15 +6485,15 @@ Bitte versuche es erneut.</Value>
     </Record>
     <Record>
       <Key>JoinMenuIncompatibleVersions</Key>
-      <Value>Verberge Inkompatible Versionen</Value>
+      <Value>Inkompatible Versionen ausblenden</Value>
     </Record>
     <Record>
       <Key>JoinMenuPasswordProtected</Key>
-      <Value>Verberge Passwort Geschützte</Value>
+      <Value>Passwort geschützte Server ausblenden</Value>
     </Record>
     <Record>
       <Key>JoinWorldEmptyServers</Key>
-      <Value>Verberge Leere Server</Value>
+      <Value>Leere Server ausblenden</Value>
     </Record>
     <Record>
       <Key>WorkshopSubscribedModsTitle</Key>
