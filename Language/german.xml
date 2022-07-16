@@ -7470,7 +7470,7 @@ Temperatur {1}</Value>
     </Record>
     <Record>
       <Key>SettingsDifficulty</Key>
-      <Value>Schwierigkeitseinstellungen</Value>
+      <Value>Schwierigkeitsstufe</Value>
     </Record>
     <Record>
       <Key>WorldCustomTerrainLabel</Key>
@@ -8163,6 +8163,10 @@ Temperatur {1}</Value>
     <Record>
       <Key>ScoreboardTime</Key>
       <Value>Spielzeit</Value>
+    </Record>
+    <Record>
+      <Key>SettingsFirstPersonHelmet</Key>
+      <Value>First Person Helm</Value>
     </Record>
     <Record>
       <Key>SiloDeconstruct</Key>
