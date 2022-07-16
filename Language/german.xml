@@ -3772,6 +3772,10 @@
       <Value>Tank (klein; Kraftstoff)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureSmallTableRectangleSingle</Key>
+      <Value>Klein (Tisch Rechteck Einzel)</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureSmallTableDinnerSingle</Key>
       <Value>Flachwand (gepanzert)</Value>
     </RecordThing>
@@ -4172,6 +4176,10 @@
       <Value>Astroloyplatten</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemMiningBeltAdvanced</Key>
+      <Value>Bergbaugürtel MK II</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureWindTurbine</Key>
       <Value>Windkraftanlage</Value>
     </RecordThing>
@@ -4277,7 +4285,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureWaterBottleFiller</Key>
-      <Value/>
+      <Value>Wasserflaschen-Befüller</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureIceCrusher</Key>
@@ -4370,6 +4378,10 @@
     <RecordThing>
       <Key>StructureLiquidTankSmallInsulated</Key>
       <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureRocketModuleBattery</Key>
+      <Value>Automatisiertes Raketen-Energiespeichermodul</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureRocketModuleMiningJunk</Key>
@@ -8506,7 +8518,8 @@ Temperatur {1}</Value>
     </Record>
     <Record>
       <Key>StationpediaConstructionOptions</Key>
-      <Value>Konstruktionsoptionen</Value>
+      <Value>
+  Konstruktionsoptionen</Value>
     </Record>
     <Record>
       <Key>StationpediaModeHeader</Key>
@@ -8569,12 +8582,24 @@ Temperatur {1}</Value>
       <Value>Zeit</Value>
     </Record>
     <Record>
+      <Key>Pitch</Key>
+      <Value>Tonhöhe</Value>
+    </Record>
+    <Record>
       <Key>Volume</Key>
-      <Value>Gesamtlautstärke</Value>
+      <Value>Lautstärke</Value>
+    </Record>
+    <Record>
+      <Key>Speed</Key>
+      <Value>Geschwindigkeit</Value>
+    </Record>
+    <Record>
+      <Key>Attack</Key>
+      <Value>Angreifen</Value>
     </Record>
     <Record>
       <Key>Release</Key>
-      <Value>Verstorben</Value>
+      <Value>freigeben</Value>
     </Record>
     <Record>
       <Key>CurrentInstrument</Key>
