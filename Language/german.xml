@@ -5757,6 +5757,14 @@
       <Value>Spiel</Value>
     </Record>
     <Record>
+      <Key>SettingsMenuVideo</Key>
+      <Value>Grafik</Value>
+    </Record>
+    <Record>
+      <Key>SettingsMenuAudio</Key>
+      <Value>Sound</Value>
+    </Record>
+    <Record>
       <Key>SettingsMenuControls</Key>
       <Value>Steuerung</Value>
     </Record>
@@ -6011,6 +6019,10 @@
     <Record>
       <Key>SettingsTitleMultiplayer</Key>
       <Value>Mehrspielereinstellungen</Value>
+    </Record>
+    <Record>
+      <Key>SettingsUpdatePort</Key>
+      <Value>Update-Port</Value>
     </Record>
     <Record>
       <Key>SettingsGamePort</Key>
