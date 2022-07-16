@@ -4348,8 +4348,24 @@
       <Value>Stemmeisen MKII</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemMKIIDrill</Key>
+      <Value>Bohrmaschine Mk II</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemMKIIMiningDrill</Key>
+      <Value>Bergbaubohrer Mk II</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemMKIIWireCutters</Key>
+      <Value>Drahtschneider Mk II</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemMKIIWrench</Key>
+      <Value>Schraubenschlüssel Mk II</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemMKIIDuctTape</Key>
-      <Value>Mk II Klebeband</Value>
+      <Value>Klebeband Mk II</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitWaterBottleFiller</Key>
@@ -4369,7 +4385,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLiquidTankInsulated</Key>
-      <Value/>
+      <Value>Kit (Isolierter Flüssigkeitstank)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidTankBigInsulated</Key>
@@ -4384,11 +4400,27 @@
       <Value>Automatisiertes Raketen-Energiespeichermodul</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureRocketModuleGasCollector</Key>
+      <Value>Automatisiertes Raketengas Sammel-modul</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureRocketModuleMiningJunk</Key>
     </RecordThing>
     <RecordThing>
+      <Key>ItemWaterPipeDigitalValve</Key>
+      <Value>Kit (Flüssiges digitales Ventil)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureWaterDigitalValve</Key>
+      <Value>Digitales Flüssigkeitsventil</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemLiquidDrain</Key>
-      <Value/>
+      <Value>Kit (Flüssigkeitsabfluss)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLiquidDrain</Key>
+      <Value>Flüssigkeitsablauf</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemLiquidPipeAnalyzer</Key>
