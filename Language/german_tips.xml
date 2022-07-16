@@ -11,7 +11,9 @@
     <String>{KEY:Descend} sorgt bei aktivem {THING:ItemSpacepack} zum Herabsinken. Ein {THING:ItemSpacepack} mit {KEY:Jetpack} aktiviert und deaktiviert werden..</String>
     <String>Drücken und sofortiges loslassen der Taste {KEY:Drop} wird den - aktuell in der Hand gehaltenen - Gegenstand fallen lassen. Wird {KEY:Drop} gehalten, wird versucht den Gegenstand zu werfen. Desto länger die Taste gehalten wird, desto weiter wird versucht zu werfen.</String>
     <String>Durch drücken von {KEY:Internals}, kann der {THING:ItemSpaceHelmet} schnell geöffnet und geschlossen werden.</String>
+    <String>Drücke {KEY:Chatting}, um mit anderen Spielern zu chatten.</String>
     <String>{KEY:Chatting} erlaubt es Spielern über eine kleine Chatbox in der unteren rechten Ecke deines Bildschirms miteinander zu kommunizieren.</String>
+    <String>Der Raum ist nicht so leer, wie es sich anhört.</String>
     <String>Um zu erfahren wie etwas funktioniert, muss die {THING:CartridgeElectronicReader} in einem {THING:ItemTablet} platziert und mit {KEY:ToggleHandPower} eingeschaltet werden, während es sich in der aktiven Hand befindet.</String>
     <String>Mit einem eingeschalteten {THING:ItemWeldingTorch} in der aktiven und einen Stapel {THING:ItemIronSheets} in der passiven Hand, kann ein {THING:StructureFrameIron} aufgewertet werden.</String>
     <String>Eine gedrückte {KEY:QuantityModifier}-Taste erlaubt es numerische Werte in kleineren Sprüngen einzustellen.</String>
@@ -21,6 +23,7 @@
     <String>{THING:StructureHydraulicPipeBender} erlaubt die Herstellung von Gegenständen zur Änderung und Manipulation der Umluft und Gasen wie z.B. {THING:ItemKitAtmospherics} welche zur Platzierung von {THING:StructureAirConditioner} oder {THING:StructureFiltration} benötigt wird.</String>
     <String>{THING:StructureRecycler} wandelt nicht mehr benötigte Gegenstände in {THING:ItemReagentMix} um. Diese können dann in einer {THING:StructureCentrifuge} zurück in Erz aufgespalten werden welche in einem {THING:StructureFurnace} wieder in Barren umgewandelt werden können...</String>
     <String>Je mehr Schaden dein Anzug erleidet, desto ineffizienter wird er funktionieren.</String>
+    <String>Nachdem das ursprüngliche Stationeers-Handbuch in eine Singularität zusammengebrochen war, wurde es durch die Stationpedia ersetzt. Drücke {KEY:Help}, um es als Anleitung im Spiel zu öffnen.</String>
     <String>Ihr Anfangs-{THING:ItemEVASuit} und {THING:ItemSpaceHelmet} würden bei hohen Temperaturen Feuer fangen. Benutzen sie {THING:ItemHardSuit} in gefährlichen Umgebungen.</String>
     <String>Ihr Anfangs-{THING:ItemEVASuit} und {THING:ItemSpaceHelmet} würden bei hohen Temperaturen Feuer fangen. Benutzen sie {THING:ItemHardSuit} in gefährlichen Umgebungen.</String>
     <String>{THING:ItemHardBackpack} kann zwar mehr Gegenstände tragen, aber dafür nicht dich!</String>

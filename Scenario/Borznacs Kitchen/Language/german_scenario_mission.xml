@@ -3,6 +3,10 @@
   <Code>DE</Code>
   <Interface>
     <Record>
+      <Key>TutoiralGasMixingSubTitle</Key>
+      <Value>Besser kochen</Value>
+    </Record>
+    <Record>
       <Key>CookingForYourLifeSubTitle</Key>
       <Value>Kochen Sie um Ihr Leben!</Value>
     </Record>
