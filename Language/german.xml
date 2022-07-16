@@ -5301,6 +5301,10 @@
       <Value>Türen und Luken</Value>
     </Record>
     <Record>
+      <Key>ChairTableCategory</Key>
+      <Value>Stühle</Value>
+    </Record>
+    <Record>
       <Key>PersonalSuits</Key>
       <Value>Anzüge</Value>
     </Record>
@@ -5527,6 +5531,14 @@
     <Record>
       <Key>JoinMenuServerListRefreshing</Key>
       <Value>Aktualisiere Serverliste</Value>
+    </Record>
+    <Record>
+      <Key>CannotConnectToMetaServer</Key>
+      <Value>Verbindung zum Metaserver kann nicht hergestellt werden</Value>
+    </Record>
+    <Record>
+      <Key>ServerListCannotBeRetrieved</Key>
+      <Value>Serverliste kann nicht abgerufen werden</Value>
     </Record>
     <Record>
       <Key>JoinMenuInputAddressTitle</Key>
@@ -5837,8 +5849,12 @@
       <Value>Kein Zugriff auf den Speicherort der Spielstände möglich, verwenden Sie ein ungültiges Zeichen? Versuchen Sie, das Speicherverzeichnis in den Einstellungen zu ändern.</Value>
     </Record>
     <Record>
+      <Key>PlayerIsConnecting</Key>
+      <Value>Spieler stellt eine Verbindung her</Value>
+    </Record>
+    <Record>
       <Key>GamePaused</Key>
-      <Value>Pause</Value>
+      <Value>Spiel pausiert</Value>
     </Record>
     <Record>
       <Key>AlertButtonClose</Key>
@@ -8575,6 +8591,10 @@ Temperatur {1}</Value>
     <Record>
       <Key>StationpediaNutrition</Key>
       <Value>Nährwert</Value>
+    </Record>
+    <Record>
+      <Key>MoleNitrousOxideDescription</Key>
+      <Value>Lachgas ist ein Inertgas, das Spieler ausknockt, wenn es eingeatmet wird. Es lässt dein {THING:ItemJetpackBasic} whoosh gehen.</Value>
     </Record>
     <Record>
       <Key>SettingsSmoothTerrain</Key>
