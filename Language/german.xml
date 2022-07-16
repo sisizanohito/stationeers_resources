@@ -4834,7 +4834,7 @@
     </Record>
     <Record>
       <Key>CircuitBoard</Key>
-      <Value>Platine</Value>
+      <Value>Leiterplatte</Value>
     </Record>
     <Record>
       <Key>CreditCard</Key>
@@ -4845,12 +4845,24 @@
       <Value>Kassette 2</Value>
     </Record>
     <Record>
+      <Key>Next</Key>
+      <Value>Weiter</Value>
+    </Record>
+    <Record>
+      <Key>Prev</Key>
+      <Value>Zurück</Value>
+    </Record>
+    <Record>
       <Key>Cartridge0</Key>
       <Value>Kassette 0</Value>
     </Record>
     <Record>
       <Key>Cartridge1</Key>
       <Value>Kassette 1</Value>
+    </Record>
+    <Record>
+      <Key>Previous</Key>
+      <Value>Zurück</Value>
     </Record>
     <Record>
       <Key>SensorProcessingUnit</Key>
@@ -8223,6 +8235,10 @@ Temperatur {1}</Value>
     <Record>
       <Key>ControlPrimaryClickDisc</Key>
       <Value>Interagieren</Value>
+    </Record>
+    <Record>
+      <Key>ControlHoldPrimaryClick</Key>
+      <Value>{KEY:PrimaryAction} gedrückt halten</Value>
     </Record>
     <Record>
       <Key>ControlHoldPrimaryClickConstructDisc</Key>
