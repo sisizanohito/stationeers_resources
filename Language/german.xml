@@ -8502,7 +8502,7 @@ Temperatur {1}</Value>
     </Record>
     <Record>
       <Key>StationpediaBeginnerGuides</Key>
-      <Value>Leitfäden</Value>
+      <Value>Anleitungen</Value>
     </Record>
     <Record>
       <Key>StationpediaAdvancedGuides</Key>
@@ -8518,7 +8518,7 @@ Temperatur {1}</Value>
     </Record>
     <Record>
       <Key>StationpediaPaintable</Key>
-      <Value>Färbbar:</Value>
+      <Value>Lackierbar:</Value>
     </Record>
     <Record>
       <Key>StationpediaStackSize</Key>
@@ -8582,7 +8582,7 @@ Temperatur {1}</Value>
     </Record>
     <Record>
       <Key>StationpediaManufactures</Key>
-      <Value>Fertiger</Value>
+      <Value>Fabrikator</Value>
     </Record>
     <Record>
       <Key>StationpediaFoundIn</Key>
@@ -8692,6 +8692,10 @@ Temperatur {1}</Value>
     <Record>
       <Key>Waveform</Key>
       <Value>Wellenform</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaBasePowerUsage</Key>
+      <Value>Basis-Stromverbrauch:</Value>
     </Record>
     <Record>
       <Key>StationpediaMaxPressure</Key>
