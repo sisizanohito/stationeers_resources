@@ -5637,8 +5637,20 @@
       <Value>Vulcan2</Value>
     </Record>
     <Record>
+      <Key>Europa2</Key>
+      <Value>Europa2</Value>
+    </Record>
+    <Record>
       <Key>NewWorldAreaEarth</Key>
       <Value>Erde</Value>
+    </Record>
+    <Record>
+      <Key>NewWorldAreaEuropa2</Key>
+      <Value>Europa2</Value>
+    </Record>
+    <Record>
+      <Key>NewWorldAreaVulcan2</Key>
+      <Value>Vulcan2</Value>
     </Record>
     <Record>
       <Key>NewWorldEnableAwayMissions</Key>
@@ -5946,7 +5958,7 @@
     </Record>
     <Record>
       <Key>ButtoConfirmExitAsServer</Key>
-      <Value>Bist du sicher, dass du das Spiel ohne zu speichern verlassen willst? Jeglicher ungesicherter Fortschritt wird verloren gehen.</Value>
+      <Value>Sind Sie sicher, dass Sie das Spiel ohne zu speichern verlassen wollen? Jeglicher ungesicherter Fortschritt geht verloren.</Value>
     </Record>
     <Record>
       <Key>DialogConfirmNoticeUnsaved</Key>
@@ -5962,7 +5974,7 @@
     </Record>
     <Record>
       <Key>DialogConfirmNoticeClientLeaving</Key>
-      <Value>Bist du sicher, dass du diese Sitzung verlassen willst?</Value>
+      <Value>Sind Sie sicher, dass Sie diese Sitzung verlassen wollen?</Value>
     </Record>
     <Record>
       <Key>SettingsDisplayPortrait</Key>
@@ -6060,7 +6072,7 @@ Also raus mit dir Stationeer!</Value>
     </Record>
     <Record>
       <Key>UnableToConstruct</Key>
-      <Value>&lt;color=red&gt;Bauen unmöglich&lt;/color&gt;.</Value>
+      <Value>&lt;color=red&gt;Bauen nicht möglich&lt;/color&gt;.</Value>
     </Record>
     <Record>
       <Key>PortableConnectionFailure</Key>
