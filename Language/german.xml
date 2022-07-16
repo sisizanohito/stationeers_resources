@@ -4512,7 +4512,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAdvancedComposter</Key>
-      <Value>Triebwerk (Groß)</Value>
+      <Value>Kit: (Fortschrittlicher Komposter)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitFridgeSmall</Key>
@@ -4545,6 +4545,14 @@
     <RecordThing>
       <Key>ItemPoweredEggs</Key>
       <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemFrenchFries</Key>
+      <Value>Pommes frites in Dosen</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCannedRicePudding</Key>
+      <Value>Milchreis in Dosen</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAdvancedPackagingMachine</Key>
