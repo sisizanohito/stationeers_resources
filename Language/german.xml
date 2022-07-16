@@ -5469,6 +5469,10 @@
       <Value>Lebensmittel</Value>
     </Record>
     <Record>
+      <Key>Plants</Key>
+      <Value>Pflanzen und Samen</Value>
+    </Record>
+    <Record>
       <Key>AirContitioningAtmos</Key>
       <Value>Klimatisierung</Value>
     </Record>
@@ -5526,7 +5530,7 @@
     </Record>
     <Record>
       <Key>MainMenuExit</Key>
-      <Value>Stationeers Beenden</Value>
+      <Value>Zurück zum Destop</Value>
     </Record>
     <Record>
       <Key>LoadMenuTitle</Key>
@@ -5562,7 +5566,7 @@
     </Record>
     <Record>
       <Key>WorldInfoButtonDebugLoad</Key>
-      <Value>Debug-Laden</Value>
+      <Value>Debug</Value>
     </Record>
     <Record>
       <Key>LoadWorldButtonLoad</Key>
@@ -5574,7 +5578,7 @@
     </Record>
     <Record>
       <Key>JoinMenuButtonRefresh</Key>
-      <Value>Aktualisiere Liste</Value>
+      <Value>Liste aktualisieren</Value>
     </Record>
     <Record>
       <Key>JoinMenuButtonJoin</Key>
@@ -5582,7 +5586,7 @@
     </Record>
     <Record>
       <Key>JoinMenuServerListRefreshing</Key>
-      <Value>Aktualisiere Serverliste</Value>
+      <Value>Serverliste aktualisieren</Value>
     </Record>
     <Record>
       <Key>CannotConnectToMetaServer</Key>
@@ -5627,6 +5631,10 @@
     <Record>
       <Key>Space</Key>
       <Value>Asteroidengürtel</Value>
+    </Record>
+    <Record>
+      <Key>Vulcan2</Key>
+      <Value>Vulcan2</Value>
     </Record>
     <Record>
       <Key>NewWorldAreaEarth</Key>
@@ -7857,6 +7865,10 @@ Temperatur {1}</Value>
       <Value>Abbruch</Value>
     </Record>
     <Record>
+      <Key>ServerReadyString</Key>
+      <Value>Server kann nun gestartet werden.</Value>
+    </Record>
+    <Record>
       <Key>ScriptCommandSdse</Key>
       <Value>Register = 1 wenn das Gerät eingestellt ist, sonst 0</Value>
     </Record>
@@ -8219,6 +8231,10 @@ Temperatur {1}</Value>
     <Record>
       <Key>ActivateExplosiveTooltipKey1</Key>
       <Value>Mauskontrolle aktivieren</Value>
+    </Record>
+    <Record>
+      <Key>CommandNotice</Key>
+      <Value>Senden Sie eine Nachricht an die Spieler eines Servers. Verwendung: &quot;/notice die Nachricht, die Sie senden möchten&quot;</Value>
     </Record>
     <Record>
       <Key>CommandUnBan</Key>
