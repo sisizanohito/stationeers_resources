@@ -8715,6 +8715,10 @@ Temperatur {1}</Value>
       <Value>Lautstärke</Value>
     </Record>
     <Record>
+      <Key>NoAudioReceiverDevices</Key>
+      <Value>Keine Audio-Receiver-Geräte</Value>
+    </Record>
+    <Record>
       <Key>Speed</Key>
       <Value>Geschwindigkeit</Value>
     </Record>
@@ -8761,6 +8765,14 @@ Temperatur {1}</Value>
     <Record>
       <Key>StationpediaNutrition</Key>
       <Value>Nährwert</Value>
+    </Record>
+    <Record>
+      <Key>MoleVolatilesDescription</Key>
+      <Value>Flüchtige Stoffe sind ein extrem reaktives, komplexes organisches Molekül, das in Verbindung mit Sauerstoff als brennbarer Treibstoff verwendet werden kann. Es wird von {THING:ItemVolatiles} verfeinert.
+      
+Aufgrund obskurer und weitgehend vergessener &lt;color=#0080FFFF&gt;{LINK:ODA;ODA}&lt;/color&gt;-Vorschriften, werden flüchtige Stoffe manchmal von verschiedenen Technologieelementen als &apos;H2&apos; bezeichnet. Obwohl sie Wasserstoff ähnlich sind, sind sie nicht &quot;eigentlich&quot; Wasserstoff. Flüchtige Stoffe produzieren bei der Verbrennung ohne Katalysator kein Wasser (siehe {THING:H2Combustor}). Allein bei der Verbrennung im folgenden Verhältnis entstehen Schadstoffe und Kohlendioxid:
+      
+2 flüchtige Stoffe + 1 O2 -&gt; 3X + 6CO2 + Wärme.</Value>
     </Record>
     <Record>
       <Key>MolePollutantDescription</Key>

@@ -46,6 +46,14 @@
       </Text>
     </StationpediaPage>
     <StationpediaPage>
+      <Key>IngotPage</Key>
+      <Title>Barren</Title>
+      <Text>Diese Gegenstände entstehen typischerweise beim {LINK:SmeltingPage;Schmelzen} von {LINK:OrePage;Erzen} zur Verwendung in einem {LINK:FabricatorPage;Fertiger}.
+
+{LIST_OF_INGOTS}
+      </Text>
+    </StationpediaPage>
+    <StationpediaPage>
       <Key>FoodPage</Key>
       <Title>Nahrung</Title>
       <Text>Hierbei handelt es sich um Gegenstände, die zur Ernährung verwendet werden.
@@ -103,28 +111,12 @@ Selbstentzündung {POS:300}{2}{3}{/LIST}</Text>
 Schmelzdruck {POS:300}{0}</Text>
     </StationpediaPage>
     <StationpediaPage>
-      <Key>CreatorsHeaderTemplate</Key>
-      <Text>{HEADER:Hergestellt durch}{LIST}{0}{/LIST}</Text>
-    </StationpediaPage>
-    <StationpediaPage>
       <Key>ConstructedByHeaderTemplate</Key>
-      <Text>{HEADER:Hergestellt durch}
-{LIST}{0}{/LIST}</Text>
+      <Text>{LIST}{0}{/LIST}</Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>CreatedHeaderTemplate</Key>
-      <Text>{HEADER:Kann Herstellen}
-{LIST}{0}{/LIST}</Text>
-    </StationpediaPage>
-    <StationpediaPage>
-      <Key>ConstructedHeaderTemplate</Key>
-      <Text>{HEADER:Kann Herstellen}
-{LIST}{0}{/LIST}</Text>
-    </StationpediaPage>
-    <StationpediaPage>
-      <Key>LogicTransmitHeaderTemplate</Key>
-      <Text>{HEADER:Hergestellt durch}
-{LIST}{0}{/LIST}</Text>
+      <Text>{LIST}{0}{/LIST}</Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>CreatorTemplate</Key>
