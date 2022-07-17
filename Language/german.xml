@@ -1393,6 +1393,10 @@
       <Value>Hauptplatine (Fertiger)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>MotherboardSorter</Key>
+      <Value>Hauptplatine (Sortiereinheit)</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>MothershipCore</Key>
       <Value>Mutterschiffkern</Value>
     </RecordThing>
@@ -3217,6 +3221,10 @@
       <Value>Schaltbare Leseeinheit</Value>
     </RecordThing>
     <RecordThing>
+      <Key>MotherboardProgrammableChip</Key>
+      <Value>Hauptplatine (IC-Editor)</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitLogicCircuit</Key>
       <Value>IC Gehäuse (Bausatz)</Value>
     </RecordThing>
@@ -4649,11 +4657,11 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureWaterBottleFillerPoweredBottom</Key>
-      <Value/>
+      <Value>Wasserflaschen-Befüller</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWaterBottleFillerPowered</Key>
-      <Value/>
+      <Value>Wasserflaschen-Befüller</Value>
     </RecordThing>
   </Things>
   <Slots>

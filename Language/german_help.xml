@@ -119,34 +119,8 @@ Schmelzdruck {POS:300}{0}</Text>
       <Text>{LIST}{0}{/LIST}</Text>
     </StationpediaPage>
     <StationpediaPage>
-      <Key>CreatorTemplate</Key>
-      <Text>{LIST}{0}{LIST:300}{1}{/LIST}{/LIST}</Text>
-    </StationpediaPage>
-    <StationpediaPage>
-      <Key>LogicTypeHeaderTemplate</Key>
-      <Text>{HEADER:Logik}{LIST}{0}{/LIST}</Text>
-    </StationpediaPage>
-    <StationpediaPage>
-      <Key>ModeStringHeaderTemplate</Key>
-      <Text>{HEADER:Modi}{LIST}{0}{/LIST}</Text>
-    </StationpediaPage>
-    <StationpediaPage>
-      <Key>CreatedGasesTemplate</Key>
-      <Text>{HEADER:Gase}
-{LIST}{0}{/LIST}</Text>
-    </StationpediaPage>
-    <StationpediaPage>
-      <Key>CreatedReagentTemplate</Key>
-      <Text>{HEADER:Reagenzien}
-{LIST}{0}{/LIST}</Text>
-    </StationpediaPage>
-    <StationpediaPage>
-      <Key>ModeStringItemTemplate</Key>
-      <Text>{0}.{POS:100}{1}</Text>
-    </StationpediaPage>
-    <StationpediaPage>
       <Key>GasPageFlamableTemplate</Key>
-      <Text>Entzündungsgrenze {POS:300}{0} bis {1}</Text>
+      <Text>Entzündungsgrenzen {0} bis {1}</Text>
     </StationpediaPage>
   </HelpPage>
 </Language>
