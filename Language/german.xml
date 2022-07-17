@@ -4743,7 +4743,7 @@
     </Record>
     <Record>
       <Key>Cartridge</Key>
-      <Value>Kassette</Value>
+      <Value>Modul</Value>
     </Record>
     <Record>
       <Key>CaptainsSeat</Key>
@@ -4759,7 +4759,7 @@
     </Record>
     <Record>
       <Key>DataDisk</Key>
-      <Value>Diskettenlaufwerk</Value>
+      <Value>Datenträger</Value>
     </Record>
     <Record>
       <Key>Appliance1</Key>
@@ -4851,7 +4851,7 @@
     </Record>
     <Record>
       <Key>Cartridge2</Key>
-      <Value>Kassette 2</Value>
+      <Value>Modul 2</Value>
     </Record>
     <Record>
       <Key>Next</Key>
@@ -4863,11 +4863,11 @@
     </Record>
     <Record>
       <Key>Cartridge0</Key>
-      <Value>Kassette 0</Value>
+      <Value>Modul 0</Value>
     </Record>
     <Record>
       <Key>Cartridge1</Key>
-      <Value>Kassette 1</Value>
+      <Value>Modul 1</Value>
     </Record>
     <Record>
       <Key>Previous</Key>
@@ -5065,7 +5065,7 @@
     </Record>
     <Record>
       <Key>Cartridge</Key>
-      <Value>Kassette</Value>
+      <Value>Modul</Value>
     </Record>
     <Record>
       <Key>CaptainsChair</Key>
@@ -5289,11 +5289,11 @@
     </Record>
     <Record>
       <Key>Cartridge2</Key>
-      <Value>Kassette 2</Value>
+      <Value>Modul 2</Value>
     </Record>
     <Record>
       <Key>Cartridge1</Key>
-      <Value>Kassette 1</Value>
+      <Value>Modul 1</Value>
     </Record>
     <Record>
       <Key>Next</Key>
@@ -5447,7 +5447,7 @@
     </Record>
     <Record>
       <Key>CartridgeCategory</Key>
-      <Value>Kassetten</Value>
+      <Value>Module</Value>
     </Record>
     <Record>
       <Key>PersonalHelmets</Key>
@@ -5491,7 +5491,7 @@
     </Record>
     <Record>
       <Key>Fabricators</Key>
-      <Value>Fertiger</Value>
+      <Value>Fabrikator</Value>
     </Record>
     <Record>
       <Key>Edibles</Key>
@@ -5523,7 +5523,7 @@
     </Record>
     <Record>
       <Key>TraderErrorConnectWires</Key>
-      <Value>Der Händler konnte den Handel nicht abschließen, überprüfe die Verkabelung auf Defekte!</Value>
+      <Value>Der Händler konnte den Handel nicht abschließen. Überprüfe die Verkabelung auf Defekte!</Value>
     </Record>
     <Record>
       <Key>TraderErrorMissingMotherboard</Key>
@@ -5552,10 +5552,6 @@
     <Record>
       <Key>MainMenuSettings</Key>
       <Value>Einstellungen</Value>
-    </Record>
-    <Record>
-      <Key>MainMenuTutorial</Key>
-      <Value>Lernprogramme</Value>
     </Record>
     <Record>
       <Key>MainMenuExit</Key>

@@ -111,6 +111,22 @@
       <Key>MarsTabletStage3Page1</Key>
       <Value>Seite 1 von 5 \n Herstellung \n Obwohl es sehr wahrscheinlich ist, dass bereits Rettungsmaßnahmen durchgeführt werden, kann es einige Zeit dauern, bis diese Sie erreichen können. Es wäre angebracht, einen längeren Aufenthalt zu planen. Sie werden einige grundlegende Fertigungsinfrastrukturen einrichten müssen. Dazu sollten sie mit der Drehmaschine beginnen, denn diese ermöglicht ihnen komplexere Maschinen zu bauen.</Value>
     </Record>
+    <Record>
+      <Key>MarsTabletStage3Page2</Key>
+      <Value>SEITE 2 von 5 \nPOWER TO THE PERSON \n\nHoffentlich haben Sie zu diesem Zeitpunkt einige Batterien gefunden und einige Mittel, um sie aufzuladen.  Die einfachste Möglichkeit, ein Netzwerk mit Strom zu versorgen, besteht darin, Batterien an eine Area Power Control-Einheit anzuschließen.  Um die Leistung bereitzustellen, die Sie für das Schmelzen und die Massenherstellung benötigen, benötigen Sie jedoch etwas Bequemeres.  Der beste Weg, dies zu handhaben, hängt von Ihrer Situation ab, aber zu den Optionen gehören:</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage3Page3</Key>
+      <Value>SEITE 3 von 5 \nFESTBRENNSTOFFGENERATOR \nDies wird Strom erzeugen, indem fossile Kohlenwasserstoffe in fester Form verbrannt werden.  Das Kit kann in einem Elektronikdrucker oder einem Hersteller hergestellt werden.</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage3Page4</Key>
+      <Value>SEITE 4 von 5 \nGASGENERATOR \nDieser entzieht Energie aus der Verbrennung, die sich aus der Zündung eines Wasserstoff-Sauerstoff-Kraftstoffgemischs ergibt.  Eine saubere Verbrennung führt zu einer höheren Leistungsabgabe, aber Sie müssen die Menge des zugeführten Kraftstoffs sorgfältig verwalten und wahrscheinlich einen Transformator verwenden, um die Leistungsabgabe zu begrenzen, oder Sie leiden unter überlasteten Kabeln.</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage3Page5</Key>
+      <Value>SEITE 5 von 5 \nSONNENKOLLEKTOREN \nSonnenkollektoren.  Einmal platziert, müssen Sie sie mit einer Glasscheibe vervollständigen - aber sobald das erledigt ist, erzeugen sie tagsüber eine nominale Menge an Strom.  Sie können Ihren Schraubenschlüssel verwenden, um den vertikalen und horizontalen Winkel einzustellen, um zu versuchen, sich der Sonne zu stellen, aber auf lange Sicht möchten Sie vielleicht eine Logikschaltung und einen Tageslichtsensor verwenden, um sie für Sie zu verfolgen.</Value>
+    </Record>
     <!-- Mission Stage: Food Supply -->
     <Record>
       <Key>MarsTitleFoodSupply</Key>
@@ -135,6 +151,10 @@
     <Record>
       <Key>MarsTabletStage4Page1</Key>
       <Value>SEITE 1 von 2 \n KLEINER GRÜNER DAUMEN \n Das Minimum das Sie für den Anbau von Getreide benötigen, ist eine Hydrokultur Station oder eine tragbare Hydrokultur. Diese muss mit einer Wasserquelle versorgt werden und in einer Atmosphäre von mindestens 20kPa, etwa 20 bis 25 Grad Celsius und mit einer geringen Menge Kohlendioxid gelagert werden.</Value>
+    </Record>
+    <Record>
+      <Key>MarsTabletStage4Page2</Key>
+      <Value>SEITE 2 von 2\nDie schwierigste Anforderung ist es, einige Samen zu beschaffen, um loszulegen.  Jede Rettungskapsel enthält eine Versorgungskiste mit einer nominalen Menge an Samen, um Ihnen den Einstieg zu erleichtern - dieser zu schützen ist entscheidend.  Wenn Sie von Ihrem Escape Pod getrennt wurden, können Sie, wenn Sie eine Tracking-Patrone finden, diese möglicherweise verwenden, um das Pods-Beacon zu verfolgen.</Value>
     </Record>
     <!-- Mission Stage: Spawn Mothership & Engine -->
     <Record>

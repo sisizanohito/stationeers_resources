@@ -3,5 +3,14 @@
   <Name>German</Name>
   <Code>DE</Code>
   <Font>font_extended</Font>
-  <Interface/>
+  <Interface>
+    <Record>
+      <Key>Incident_Storm_Title_v2</Key>
+      <Value>Sofortiges Umschalten des Sturmwetters</Value>
+    </Record>
+    <Record>
+      <Key>Incident_Storm_v2</Key>
+      <Value>Schaltet das Sturmwetter sofort um.</Value>
+    </Record>
+  </Interface>
 </Language>
