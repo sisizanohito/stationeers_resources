@@ -2,8 +2,8 @@
   <Code>DE</Code>
   <GameTip>
     <String>Durch drücken von {KEY:HelmetSlot}, {KEY:SuitSlot}, {KEY:BackSlot}, {KEY:UniformSlot}, oder {KEY:ToolBeltSlot} kann zwischen den Aktionen und Inventaren der angelegten Ausrüstung gewechselt werden. Durch Drücken und Halten der einer der Tasten, kann Ausrüstung zwischen dem Ausrüstungsplatz und der aktiven Hand gewechselt werden. </String>
-    <String>Durch drücken von {KEY:ToggleHandPower} kann ein Gerät schnell ein- oder ausgeschaltet werden.</String>
-    <String>Durch drücken von {KEY:ToggleLight} können die Lampen des {THING:ItemSpaceHelmet} schnell an- und ausgeschaltet werden.</String>
+    <String>Durch drücken von {KEY:ToggleHandPower} oder {KEY:SecondaryAction} kann ein Gerät schnell ein- oder ausgeschaltet werden.</String>
+    <String>Durch drücken von {KEY:ToggleLight} können die Lampen des {THING:ItemSpaceHelmet} an- und ausgeschaltet werden.</String>
     <String>Durch drücken von {KEY:EmoteWave} kann der eigene Charakter anderen Stationeers zuwinken.</String>
     <String>Durch drücken von {KEY:Jetpack} kann das {THING:ItemSpacepack} an- und ausgeschaltet werden.</String>
     <String>Mit {KEY:ToggleUI} kann die UI für z.B. Screenshots oder Videos ein und ausgeblendet werden.</String>
