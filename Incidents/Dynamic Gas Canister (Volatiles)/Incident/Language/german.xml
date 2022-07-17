@@ -8,5 +8,9 @@
       <Key>Incident_Supply_Dynamic_Canister_Volatiles_Title</Key>
       <Value>Portabler Tank (Flüchtige Stoffe)</Value>
     </Record>
+    <Record>
+      <Key>Incident_Supply_Dynamic_Canister_Volatiles</Key>
+      <Value>Satelliten deuten darauf hin, dass eine Kiste in der Nähe abgeworfen wurde. Ihr Peilsignalempfänger sollte Ihnen den Weg weisen.</Value>
+    </Record>
   </Interface>
 </Language>

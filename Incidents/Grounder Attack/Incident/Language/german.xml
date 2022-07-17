@@ -5,6 +5,10 @@
   <Font>font_extended</Font>
   <Interface>
     <Record>
+      <Key>Incident_AlienLife_Title</Key>
+      <Value>Grounder Angriff</Value>
+    </Record>
+    <Record>
       <Key>Incident_AlienLife</Key>
       <Value>Hast du das gehört?</Value>
     </Record>

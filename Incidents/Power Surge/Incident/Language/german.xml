@@ -5,6 +5,10 @@
   <Font>font_extended</Font>
   <Interface>
     <Record>
+      <Key>Incident_ElectroMagnetic_Title</Key>
+      <Value>Stromstoß</Value>
+    </Record>
+    <Record>
       <Key>Incident_ElectroMagnetic</Key>
       <Value>Deine Batterien scheinen Energie verlieren.</Value>
     </Record>
