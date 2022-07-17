@@ -5554,6 +5554,10 @@
       <Value>Einstellungen</Value>
     </Record>
     <Record>
+      <Key>MainMenuCredits</Key>
+      <Value>Danksagungen</Value>
+    </Record>
+    <Record>
       <Key>MainMenuExit</Key>
       <Value>Zurück zum Desktop</Value>
     </Record>
@@ -5659,11 +5663,11 @@
     </Record>
     <Record>
       <Key>Vulcan2</Key>
-      <Value>Vulcan2</Value>
+      <Value>Vulcan 2</Value>
     </Record>
     <Record>
       <Key>Europa2</Key>
-      <Value>Europa2</Value>
+      <Value>Europa 2</Value>
     </Record>
     <Record>
       <Key>NewWorldAreaEarth</Key>
@@ -5671,11 +5675,11 @@
     </Record>
     <Record>
       <Key>NewWorldAreaEuropa2</Key>
-      <Value>Europa2</Value>
+      <Value>Europa 2</Value>
     </Record>
     <Record>
       <Key>NewWorldAreaVulcan2</Key>
-      <Value>Vulcan2</Value>
+      <Value>Vulcan 2</Value>
     </Record>
     <Record>
       <Key>NewWorldEnableAwayMissions</Key>
@@ -5935,7 +5939,7 @@
     </Record>
     <Record>
       <Key>SettingsLanguage</Key>
-      <Value>Sprache (Language)</Value>
+      <Value>Sprache</Value>
     </Record>
     <Record>
       <Key>SettingsVoiceControl</Key>
@@ -5951,7 +5955,7 @@
     </Record>
     <Record>
       <Key>SaveLocationBroken</Key>
-      <Value>Kein Zugriff auf den Speicherort der Spielstände möglich, verwenden Sie ein ungültiges Zeichen? Versuchen Sie, das Speicherverzeichnis in den Einstellungen zu ändern.</Value>
+      <Value>Kein Zugriff auf den Speicherort der Spielstände möglich. Verwenden Sie ungültiges Zeichen? Versuchen Sie, das Speicherverzeichnis in den Einstellungen zu ändern.</Value>
     </Record>
     <Record>
       <Key>PlayerIsConnecting</Key>
@@ -5990,6 +5994,10 @@
       <Value>Passwort</Value>
     </Record>
     <Record>
+      <Key>ButtonBan</Key>
+      <Value>Bann</Value>
+    </Record>
+    <Record>
       <Key>ButtoConfirmExitAsServer</Key>
       <Value>Sind Sie sicher, dass Sie das Spiel ohne zu speichern verlassen wollen? Jeglicher ungesicherter Fortschritt geht verloren.</Value>
     </Record>
@@ -6008,6 +6016,10 @@
     <Record>
       <Key>DialogConfirmNoticeClientLeaving</Key>
       <Value>Sind Sie sicher, dass Sie diese Sitzung verlassen wollen?</Value>
+    </Record>
+    <Record>
+      <Key>SettingsPopupChat</Key>
+      <Value>Popup-Chat</Value>
     </Record>
     <Record>
       <Key>SettingsDisplayPortrait</Key>
