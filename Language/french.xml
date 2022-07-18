@@ -10252,6 +10252,12 @@ Le programme Stationeers, qui est fondamentalement ouvert à toute l’humanité
       <Value>L&apos;azote gazeux peut être mélangé au dioxygène pour réduire les risque de combustion. C&apos;est une ressource en elle même, utile pour générer une atmosphère respirable ( environ 3:1 d&apos;azote et de dioxygène).</Value>
     </Record>
     <Record>
+      <Key>MoleCarbonDioxideDescription</Key>
+      <Value>Vous l&apos;expirez, les &lt;color=#0080FFFF&gt;{LINK:OrganicPage;plantes}&lt;/color&gt; le respirent et ne peuvent grandir sans lui.
+      
+Le dioxyde de carbone a une efficacité thermique modéré, cela en fait un bon élément de régulation de température pour la clim murale {THING:StructureWallCooler}. L&apos;eau est plus efficace, mais elle a des usages bien plus importants.</Value>
+    </Record>
+    <Record>
       <Key>MoleVolatilesDescription</Key>
       <Value>Les volatils sont des molécules organiques complexe et extrêmement réactive, qui peuvent être utilisées en conjonction avec l’oxygène comme combustible. Elles sont raffinées à partir de {THING:ItemVolatiles}.
 
