@@ -9223,7 +9223,7 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>ScriptCommandSqrt</Key>
-      <Value>Stocke la racine carrée de a dans le registre [ r? ]</Value>
+      <Value>Stocke la racine carrée de [ a ] dans le registre [ r? ]</Value>
     </Record>
     <Record>
       <Key>ScriptCommandRound</Key>

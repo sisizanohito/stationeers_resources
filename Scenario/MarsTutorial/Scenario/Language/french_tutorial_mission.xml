@@ -623,14 +623,6 @@ Les emplacements pour votre personnage sont visibles à gauche de l&apos;écran.
       <Value>De l&apos;eau, tu penses à ça ?</Value>
     </Record>
     <Record>
-      <Key>TutorialWaterYaThinkAboutThatDescription</Key>
-      <Value>Remplaçons cette {THING:ItemGasCanisterWater} vide par une jolie boîte fraîche.</Value>
-    </Record>
-    <Record>
-      <Key>TutorialWaterYaThinkAboutThatTask1</Key>
-      <Value>Ajoutez-le {THING:ItemGasCanisterWater} complet au {THING:DynamicHydroponics}</Value>
-    </Record>
-    <Record>
       <Key>TutorialLetItGrowTitle</Key>
       <Value>Laissez-le pousser</Value>
     </Record>
