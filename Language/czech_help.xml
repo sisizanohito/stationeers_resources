@@ -50,35 +50,35 @@
       <Key>TradingPage</Key>
       <Title>Obchodování</Title>
       <DisplayFilter>Guides</DisplayFilter>
-      <Text>Obchodování je nezbytnou součástí existence &lt;color=#0080FFFF&gt;{LINK:Stationeers;Stationeerů}&lt;/color&gt; , zejména na extrémnějších světech, kde mohou mít noví kadeti zpočátku problém přežít bez pomoci.
+      <Text>Obchodování je nezbytnou součástí existence {LINK:Stationeers;Stationeerů}, zejména na extrémnějších světech, kde mohou mít noví kadeti zpočátku problém přežít bez pomoci.
 
 {HEADER:Začátek}
 
-Chcete-li kontaktovat obchodníka, musíte si vytvořit komunikační systém. To vyžaduje následující:
+Abyste mohli kontaktovat obchodníka, musíte si vytvořit komunikační systém. K tomu je zapotřebí následující:
 
-- Napájený {THING:StructureVendingMachine}, který bude sloužit k ukládání a obchodování s předměty.
-- funkční {THING:StructureSatelliteDish} k vyhledávání a identifikaci potenciálních obchodníků.
+- Napájený {THING:StructureVendingMachine}, který slouží k ukládání a obchodování s předměty.
+- Fungující {THING:StructureSatelliteDish} k vyhledávání a identifikaci potenciálních obchodníků.
 - Fungující {THING:StructureComputer} se spuštěnou {THING:MotherboardComms}.
 - Napájený {THING:StructureShuttleLandingPad}, na kterém může obchodník přistát.
 
-Po spuštění systému se na terminálu počítače zobrazí prázdná obrazovka. Upravte polohu satelitní antény, dokud nezaregistruje jednoho nebo více obchodníků. Ti se objeví na obrazovce s hodnocením od 1 do 100 %. To je síla vašeho signálu. Obchodníka lze vyvolat pouze tehdy, když je síla signálu vyšší než 95 %. Jakmile je obchodník kontaktován, následně uvede své jméno. Různí obchodníci poskytují různé kategorie položek.
+Po spuštění systému se na terminálu počítače zobrazí prázdná obrazovka. Upravujte polohu satelitní antény, dokud nezaregistruje jednoho nebo více obchodníků. Ti se objeví na obrazovce s hodnocením od 1 do 100 %. To je síla vašeho signálu. Obchodníka lze vyvolat pouze tehdy, když je síla signálu vyšší než 95 %. Jakmile je obchodník kontaktován, následně uvede své jméno. Různí obchodníci poskytují různé kategorie položek.
 
 {HEADER:Obchodníci}
 
-Elektronika  TechTree Electronics
-Organické látky  Organicon
-Základní  Spes&apos;mall Basics
-Hydraulika  HydrauliKit
-Rudy  MineRiteOres
-Mikrovlny  Microwares
-Chemie  ChemLab
-Exotika  ExoTech
-Barvy  Color Corp Paints
-Nástroje  Tool Corp
-Bezpečnost  Hall Corp Security
-Ostatní  Kolders&apos; Assorted Goods
-Plyn  GasTrade
-Zakázky  Spes&apos;mall
+Elektronika TechTree Electronics
+Organické látky Organicon
+Základní Spes&apos;mall základy
+Hydraulika HydrauliKit
+Ruda MineRiteOres
+Mikrovlnné Microwares
+Chemie ChemLab
+Exotika ExoTech
+Barva Color Corp Barvy
+Nástroje Tool Corp
+Bezpečnost Hall Corp Bezpečnost
+Ostatní Kolders&apos; Assorted Goods
+Plyn GasTrade
+Vlastní Spes&apos;mall
       </Text>
     </StationpediaPage>
     <StationpediaPage>
@@ -109,13 +109,13 @@ Při stavbě je důležité si uvědomit, že tlak se měří jako diferenciál.
       <Key>MusicPage</Key>
       <Title>Tvorba hudby</Title>
       <DisplayFilter>Guides</DisplayFilter>
-      <Text>&lt;color=#0080FFFF&gt;{LINK:ODA;ODA}&lt;/color&gt; neschvaluje zvukové stopy ani jiné rušivé prvky.
-Proto si &lt;color=#0080FFFF&gt;{LINK:Stationeers;Stationeerové}&lt;/color&gt; museli vytvořit vlastní hudební doprovod k náročné práci při budování a údržbě mimozemské infrastruktury.
-Ústředním prvkem této zábavy je krokový sekvencer, který Stationeerům umožňuje sekvencovat krátké hudební vzory nebo smyčky. 
+      <Text>{LINK:ODA;ODA} neschvaluje zvukové stopy ani jiné rušivé prvky.
+Proto si {LINK:Stationeers; Stationeeři} museli vytvořit vlastní hudební doprovod k náročné práci při budování a údržbě mimozemské infrastruktury.
+Ústředním prvkem této zábavy je krokový sekvencer, který umožňuje Stationeerům sekvencovat krátké hudební vzory nebo smyčky. 
 
 {HEADER:DIY HUDBA - ZAČÁTEK}
 
-1: Připojte 8 {THING:DeviceStepUnit} k vašemu krokovému sekvenceru prostřednictvím datového portu na levé straně. 
+1: Připojte 8 {THING:DeviceStepUnit} k vašemu krokovému sekvenceru přes datový port na levé straně.
 
 2: Označte každou krokovou jednotku a poté přiřaďte krokové jednotky 1 až 8 na krokovém sekvenceru pomocí šroubováku.
 
@@ -127,12 +127,12 @@ Proto si &lt;color=#0080FFFF&gt;{LINK:Stationeers;Stationeerové}&lt;/color&gt; 
 
 6: Vložte zvukovou kazetu podle vlastního výběru a stisknutím tlačítek se šipkami umístěných nad a pod slotem pro zvukovou kazetu vyberte, kterou variantu zvuku chcete přehrát.
 
-7: Zvolte výšku přehrávaných zvuků nastavením voliče na každé z 8 krokových jednotek na požadovaný tón. U bicích představuje každá nota jiný zvuk bubnu. Zvuky si můžete vyzkoušet stisknutím tlačítka aktivace na každé krokové jednotce (při neaktivním sekvenceru).
+7: Zvolte výšku přehrávaných zvuků nastavením voliče na každé z 8 krokových jednotek na požadovanou notu. U bicích je každá nota jiným zvukem bubnu. Zvuky si můžete vyzkoušet stisknutím tlačítka aktivace na každé krokové jednotce (při neaktivním sekvenceru).
 
-8: Udělejte si legraci s {THING:DeviceLfoVolume}.
+8: Udělejte si pořádnou šílenost s funkcí {THING:DeviceLfoVolume}.
 
 9: Nakonec aktivujte sekvencer Vibeoneer.
-  </Text>
+      </Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>TemperatureControlPage</Key>
