@@ -3,10 +3,10 @@ e3aae2cbe50846e3461cece75916bdc0f04e16463e5101095cd9f25ec1fe70b8  ./Scenario/Bor
 6826af5a4ebc378158300e92d232f9762cb5e0434ebdcfd6dbece0288a508132  ./Scenario/MarsTutorial/Scenario/Language/english_tutorial_mission.xml
 25a0b96ba176641585b86c9676efad82c416b4bd31a42f9f14bfe24616781bd3  ./Scenario/Tutorial/Language/english_tutorial.xml
 868cdebec10b1ac112d900b46d0847afa9d9a172efadfbe13ca521a2c58bfa24  ./Language/english_tooltips.xml
-08ff1b8f98dbd151ab8edd5e2d354d642f9d61a56bfe31259c9241de126f0d05  ./Language/english_help.xml
+9c4cec7ad4ed2b91ba7fd4a98ecc61fb0427a05aba8dcf0a7c4c75cdddca0ee5  ./Language/english_help.xml
 8c679faebb691c16ac378c36e22950d8a39eca1481ec185c512c433e73c6a606  ./Language/english_tips.xml
 a1d41912fb2da2100186e41633f3a8630301748b3044aa21a637ed56ab1458cf  ./Language/english_keys.xml
-ec430777897854db96e8f622fcd93ac2031f6475b0a76e0492aacae9ee5e5ecd  ./Language/english.xml
+27b5f21224dbfde8348d40be426b43214ee9d71bc8ed6eb97ed9499dce6acdf5  ./Language/english.xml
 a715a2c3cf1487c2b212a27e1fe9a03af9c559d5e4e6d6ddb3aec139c4580bc7  ./Incidents/Storm/Incident/Language/english.xml
 f7d1474bd77ef0dae47335e2a897a4d09b06800228d84cc4e7a74987e61b3bfe  ./Incidents/Supply Crate (Grenade Trap)/Incident/Language/english.xml
 f203fec10b7db77385711340b8ccc846e4eeaf994410a00062650e637ec98081  ./Incidents/Power Surge/Incident/Language/english.xml
@@ -30,7 +30,7 @@ ee8e62635f6129edc9faeb0b2062357413f57df4ff5d851df0f49c9264017297  ./Incidents/Gr
 04c1156a84c498b5631386dfbca9c2b92a59cc295d03f5cd1b8413f6d98fa1d7  ./Tutorial/Tutorial 01 - Basic Concepts/Tutorial/Language/english_tutorial_mission.xml
 f62c37d449d6c8aad0ff271c51251561d7d79a6ea9fd392f6138aea48dac7c73  ./Tutorial/Tutorial 06 - Hydroponics/Tutorial/Language/english_tutorial_mission.xml
 22ced9582f48c701142ea7d385fe783cbbeefb733f8c5bd2f20ed4f89b6bd042  ./Tutorial/Tutorial 08 - Research/Tutorial/Language/english_tutorial_mission.xml
-afbf9e16d14eb2460720271a2c41837d35ff895a5cee23332926808ca44f8a93  ./Tutorial/Tutorial 02 -Constuction/Tutorial/Language/english_tutorial_mission.xml
+5fc4776a0d8eb4f4120c4ccb5cad8c8abcde2cb10ef9dce66b0c15e3e585f7bb  ./Tutorial/Tutorial 02 -Constuction/Tutorial/Language/english_tutorial_mission.xml
 9452dec168c42c4bcf8f852e24c0d5c8774466addf8ca7683fdb8ffcbdfbf617  ./Tutorial/Tutorial 09 - Basic Reseach/Tutorial/Language/english_tutorial_mission.xml
 78ec7eaaa296b0d8491131e9a01d08c1a61f77bf48db85f58464d365b9ac8d9e  ./Tutorial/Tutorial 09 - Rocketry/Tutorial/Language/english_tutorial_mission.xml
 b2d2866beedd9bbcc6223cea0a24aa6ed1161853fb89628f0aac9afef5d4f430  ./Tutorial/Tutorial 04 - Airlocks/Tutorial/Language/english_tutorial_mission.xml

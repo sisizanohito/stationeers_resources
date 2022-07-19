@@ -300,5 +300,9 @@ Turn on the APC to activate the network, and let there be LIGHT.</Value>
 			<Key>2GetFrames</Key>
 			<Value>Get Iron Frames from Crate.</Value>
 		</Record>
+		<Record>
+			<Key>2GetSheets</Key>
+			<Value>Get Iron Sheets from Crate.</Value>
+		</Record>
 	</Interface>
 </Language>

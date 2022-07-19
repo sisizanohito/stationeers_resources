@@ -112,7 +112,7 @@
       <Key>TradingPage</Key>
       <Title>Trading</Title>
       <DisplayFilter>Guides</DisplayFilter>
-      <Text>Trading is an essential part of a &lt;color=#0080FFFF&gt;{LINK:Stationeers;Stationeers}&lt;/color&gt; existence, especially on more extreme worlds, where new cadets may be challenged at first to survive without assistance.
+      <Text>Trading is an essential part of a {LINK:Stationeers;Stationeers} existence, especially on more extreme worlds, where new cadets may be challenged at first to survive without assistance.
 
 {HEADER:Getting started}
 
@@ -173,8 +173,8 @@ When building, it's important to note that pressure is measured as a differentia
       <Key>MusicPage</Key>
       <Title>Making Music</Title>
       <DisplayFilter>Guides</DisplayFilter>
-      <Text>The &lt;color=#0080FFFF&gt;{LINK:ODA;ODA}&lt;/color&gt; does not approve of soundtracks or other distractions.
-As such, &lt;color=#0080FFFF&gt;{LINK:Stationeers;Stationeers}&lt;/color&gt; have had to create their own musical accompaniment to the demanding labor of building and maintaining off-world infrastructure.
+      <Text>The {LINK:ODA;ODA} does not approve of soundtracks or other distractions.
+As such, {LINK:Stationeers;Stationeers} have had to create their own musical accompaniment to the demanding labor of building and maintaining off-world infrastructure.
 Central to this pasttime is the step sequencer, which allows Stationeers to sequence short musical patterns or loops. 
 
 {HEADER:DIY MUSIC - GETTING STARTED}
@@ -323,7 +323,7 @@ Good luck, Cadet!
       <Key>AutomatedRocketPage</Key>
       <Title>Automated Rocket Modules (A.R.M.)</Title>
       <DisplayFilter>Guides</DisplayFilter>
-      <Text>Automated rockets are uncrewed vehicles that can be dispatched offworld to retrieve a range of resources. The rocket can be controlled by &lt;color=#0080FFFF&gt;{LINK:LogicUnitPage;logic}&lt;/color&gt; or &lt;color=#0080FFFF&gt;{LINK:LogicUnitPage;IC}&lt;/color&gt; or a mixture of these systems.
+      <Text>Automated rockets are uncrewed vehicles that can be dispatched offworld to retrieve a range of resources. The rocket can be controlled by {LINK:LogicUnitPage;logic} or {LINK:LogicUnitPage;IC} or a mixture of these systems.
       
 Once launched, automated rockets seek out planets or asteroids with mineable resources, depending on which MODULES they have been constructed with. Rockets can be programmed to mine all available resources, then move to another planet, or return home. Their range - and therefore the amount of resources they can collect - is determined by their available fuel. If they run out of fuel, they are lost to the void forever.
       
@@ -337,17 +337,17 @@ Automated rocket system is composed of four fundamental modules, plus an engine 
 
 * COUPLER - this connects mining modules to storage modules, by passing material from one to the other. Specifically, the {THING:StructureModularRocketCouplingDown} passes resources to a storage module BENEATH it. The {THING:StructureModularRocketCouplingUp} passes resources to a storage module ABOVE it. The rocket will not collect resources without this element.
 
-* STORAGE MODULE - this module receives resources from a mining module via a coupler and stores them until the rocket returns. This currently includes {THING:StructureRocketModuleSilo} for ores and {THING:StructureModularRocketFueltank01} for gas. Storage modules can be connected to an &lt;color=#0080FFFF&gt;{LINK:ImportExportPage;chute network}&lt;/color&gt;, but are closed by default. Use &lt;color=#0080FFFF&gt;{LINK:LogicUnitPage;logic}&lt;/color&gt; to set it to 'open'.
+* STORAGE MODULE - this module receives resources from a mining module via a coupler and stores them until the rocket returns. This currently includes {THING:StructureRocketModuleSilo} for ores and {THING:StructureModularRocketFueltank01} for gas. Storage modules can be connected to an {LINK:ImportExportPage;chute network}, but are closed by default. Use {LINK:LogicUnitPage;logic} to set it to 'open'.
 
 
 {HEADER:LAUNCH CONDITIONS}
-* POWER - all modules of the rocket must be powered. Note that modules are created ‘On’ by default, but can be turned off and on using &lt;color=#0080FFFF&gt;{LINK:LogicUnitPage;logic}&lt;/color&gt; connections.
+* POWER - all modules of the rocket must be powered. Note that modules are created ‘On’ by default, but can be turned off and on using {LINK:LogicUnitPage;logic} connections.
 
 * FUEL - the rocket must have at least one fuel tank and sufficient fuel for takeoff (at least 500 mols). Note that the rocket also requires 500mols to land AND consumes 5 mols per tick during travel phase of operation.
 
 * CONSTRUCTION - The rocket must be correctly assembled (see MODULES above)
 
-* PROGRAMMING - The rocket is controlled by the &lt;color=#0080FFFF&gt;{LINK:LogicUnitPage;IC system}&lt;/color&gt; (see below)
+* PROGRAMMING - The rocket is controlled by the {LINK:LogicUnitPage;IC system} (see below)
 
 
 {HEADER:ROCKET MODES}
@@ -466,7 +466,7 @@ The {THING:StructureModularRocketFueltank01} requires a 2:1 mixture of {GAS:Vola
       <Title>Weather</Title>
       <DisplayFilter>Guides</DisplayFilter>
       <Text>The Solar System's planets are not as calm as they may seem. After seven days on any world with an atmosphere, the inscrutable forces of nature swing into action – hitting unwary Stationeers with blizzards, dust storms and volcanic events.
-As such, the ODA recommends that freshly deployed Stationeers create an airtight base within 7 days of landing.
+As such, the {LINK:ODA;ODA} recommends that freshly deployed Stationeers create an airtight base within 7 days of landing.
 Any dynamic objects left outside in a storm – on Mars, Loulan, Vulcan or Europa – risks being blown far, far away, including your lander.
 Likewise, be aware that solar panels are fragile and may have their glass shattered, or occasionally even be destroyed by a sufficiently ferocious storm. During storms, their output is also drastically reduced.
       </Text>
@@ -674,11 +674,11 @@ Melt Pressure {0}</Text>
 
 Stationeers get hungry eventually, but not all food is created equal. Also, your hunger rate varies depending on settings and difficulty. Eating will only consume that part of an item adequate to restoring your hunger to 100%.
 
-Stationeers receive supplies of food such as &lt;color=#0080FFFF&gt;{LINK:Agrizero;Agrizero}&lt;/color&gt; {THING:ItemCerealBar} in their lander upon arriving on a new world. When these are exhausted, you must find new sources of sustenance - such as growing your own, from the seeds supplied, or contacting a {LINK:TradingPage;Trader}. 
+Stationeers receive supplies of food such as {LINK:Agrizero;Agrizero} {THING:ItemCerealBar} in their lander upon arriving on a new world. When these are exhausted, you must find new sources of sustenance - such as growing your own, from the seeds supplied, or contacting a {LINK:TradingPage;Trader}. 
 
 {HEADER:NUTRITION}
 
-Eating raw ingredients will satisfy hunger less than meals, ie will replace a smaller proportion of your hunger. The basic elements of food are created using &lt;color=#0080FFFF&gt;{LINK:OrganicPage;hydroponics}&lt;/color&gt; systems. These can be processed into recipe ingredients using the {THING:ApplianceReagentProcessor}, then turned into meals using a {THING:ApplianceMicrowave} or {THING:StructureAutomatedOven}.
+Eating raw ingredients will satisfy hunger less than meals, ie will replace a smaller proportion of your hunger. The basic elements of food are created using {LINK:OrganicPage;hydroponics} systems. These can be processed into recipe ingredients using the {THING:ApplianceReagentProcessor}, then turned into meals using a {THING:ApplianceMicrowave} or {THING:StructureAutomatedOven}.
 
 Your hunger rate can be adjusted set in the main settings menu by adjusting the Hunger/Hydration rate slider in the settings. Note that the hunger slider also governs your {LINK:HydrationPage;Thirst}.
 </Text>
@@ -688,11 +688,11 @@ Your hunger rate can be adjusted set in the main settings menu by adjusting the 
       <Key>FarmingPage</Key>
       <Title>Growing Food</Title>
       <DisplayFilter>Guides</DisplayFilter>
-      <Text>To survive on alien worlds, the &lt;color=#0080FFFF&gt;{LINK:ODA;ODA}&lt;/color&gt; expects all &lt;color=#0080FFFF&gt;{LINK:Stationeers;Stationeers}&lt;/color&gt; to set up viable &lt;color=#0080FFFF&gt;{LINK:OrganicPage;hydroponic}&lt;/color&gt; systems, or contact registered local resource {LINK:TradingPage;traders}.
+      <Text>To survive on alien worlds, the {LINK:ODA;ODA} expects all {LINK:Stationeers;Stationeers} to set up viable {LINK:OrganicPage;hydroponic} systems, or contact registered local resource {LINK:TradingPage;traders}.
 
 {HEADER:SETTING UP}
 
-When setting up your hydroponic system, you will need &lt;color=#0080FFFF&gt;{LINK:OrganicPage;seeds}&lt;/color&gt;. Alternatively, you can plant the food itself.
+When setting up your hydroponic system, you will need {LINK:OrganicPage;seeds}. Alternatively, you can plant the food itself.
 
 Common Stationeer hydroponic equipment includes:
 
@@ -701,7 +701,7 @@ Common Stationeer hydroponic equipment includes:
 - {THING:ItemKitHydroponicStation}
 - {THING:StructureHarvie}
 
-All hydroponics systems require water, sunlight and the correct gas mixture - plants require CO2 and produce oxygen (except for {THING:ItemAlienMushroom}). PLants will not grow in the wrong atmosphere. If plants do not have enough light, you will need to build a {THING:StructureGrowLight}.
+All hydroponics systems require water, sunlight and the correct gas mixture - plants require {GAS:CarbonDioxide} and produce oxygen (except for {THING:ItemAlienMushroom}). PLants will not grow in the wrong atmosphere. If plants do not have enough light, you will need to build a {THING:StructureGrowLight}.
 
 Your system will depend on available resources and time, but a well-designed farming system can be almost fully automated given sufficient time and resources.
 
@@ -711,15 +711,15 @@ Most plants have several growth stages. The first stages are the plant growing t
 
 {HEADER:FERTILIZER}
 
-Fertilizer alters plant growth processes, and is created by the {THING:PortableComposter} and the {THING:StructureAdvancedComposter} using &lt;color=#0080FFFF&gt;{LINK:OrganicPage;organic}&lt;/color&gt; matter.
+Fertilizer alters plant growth processes, and is created by the {THING:PortableComposter} and the {THING:StructureAdvancedComposter} using {LINK:OrganicPage;organic} matter.
 
 Fertilizer's affects depend on its ingredients:
 
-- &lt;color=#0080FFFF&gt;{LINK:OrganicPage;Food}&lt;/color&gt; increases individual PLANT YIELD by up to 3 items
+- {LINK:OrganicPage;Food} increases individual PLANT YIELD by up to 3 items
 - {THING:DecayedFood} increases plant GROWTH SPEED up to 3 times
 - {THING:ItemBiomass} increases the NUMBER OF GROWTH CYCLES the fertilizer lasts for to a maximum of 5
 
-The effect of these ingredients depends on their respective proportions in the composter when processing is activated. Fertilizer is produced at a 1:3 ratio of fertilizer to ingredients. When processing, {THING:Nitrogen} and {THING:Volatiles} is released, as well a small amount of heat.
+The effect of these ingredients depends on their respective proportions in the composter when processing is activated. Fertilizer is produced at a 1:3 ratio of fertilizer to ingredients. When processing, {GAS:Nitrogen} and {GAS:Volatiles} is released, as well a small amount of heat.
 </Text>
     </StationpediaPage>
 
@@ -731,19 +731,19 @@ The effect of these ingredients depends on their respective proportions in the c
 
 - TEMPERATURE - Refrigeration will slow decay, but many foods will be damaged by exposure to extreme low pressure, as well as extreme heat. The optimum temperature is 0 kelvin (-272 C).
 
-- FOOD TYPE - Each &lt;color=#0080FFFF&gt;{LINK:OrganicPage;food}&lt;/color&gt; type has its own decay properties. {THING:ItemTomatoSoup} lasts a lot longer than a {THING:ItemTomato}, for instance.
+- FOOD TYPE - Each {LINK:OrganicPage;food} type has its own decay properties. {THING:ItemTomatoSoup} lasts a lot longer than a {THING:ItemTomato}, for instance.
 
 - PRESSURE - Food decays faster when the pressure drops below 1 atmosphere (101kPa). Decay happens exponentially more quickly as the atmosphere approaches a perfect vacuum. There is no effect from higher pressures. 
 
 - ATMOSPHERE - Different gases can slow and accelerate the decay process. The process will take account of respective gas ratios in mixed atmospheres in calculating the decay modifier. The following rates apply across all foods:
 
-> Oxygen x 1.3
-> Nitrogen x 0.6
-> Carbon Dioxide x 0.8
-> Volatiles x 1
-> Pollutant x 3
-> Nitrous Oxide x 1.5
-> Water x 2
+> {GAS:Oxygen} x 1.3
+> {GAS:Nitrogen} x 0.6
+> {GAS:CarbonDioxide} x 0.8
+> {GAS:Volatiles} x 1
+> {GAS:Pollutant} x 3
+> {GAS:NitrousOxide} x 1.5
+> {GAS:Water} x 2
 > Vacuum - see PRESSURE (above).
 </Text>
     </StationpediaPage>
@@ -752,7 +752,7 @@ The effect of these ingredients depends on their respective proportions in the c
       <Key>HydrationPage</Key>
       <Title>Thirst + hydration</Title>
       <DisplayFilter>Guides</DisplayFilter>
-      <Text>Your average Stationeer needs to drink water regularly. However, arcane and possibly misguided &lt;color=#0080FFFF&gt;{LINK:ODA;ODA}&lt;/color&gt; health and safety regulations have long denied Stationeers the right to in-suit hydration mechanisms. Instead, they must take regular drink breaks to open their helmet, and imbibe water. Doing so in an unpressurized environment is unadvised.
+      <Text>Your average Stationeer needs to drink water regularly. However, arcane and possibly misguided {LINK:ODA;ODA} health and safety regulations have long denied Stationeers the right to in-suit hydration mechanisms. Instead, they must take regular drink breaks to open their helmet, and imbibe water. Doing so in an unpressurized environment is unadvised.
 
 How often to drink? This is determined by your difficulty level, the heat of the planet and how much you like to move your body.
 
@@ -779,17 +779,17 @@ Your suit various readouts are at the bottom-right of the screen. Pressing the a
 - Temperature Up / Down (with a range of 0°C to 60°C)
 
 Suits contains 6-8 slots:
-- Air tank (x1) - insert a canister or smart canister containing a breathable gas mix, eg O2 or nitrogen/oxygen 35/65.
+- Air tank (x1) - insert a canister or smart canister containing a breathable gas mix, eg {GAS:Oxygen} or {GAS:Nitrogen}/{GAS:Oxygen} 35/65.
 - Waste tank (x1) - collects gases removed by the filters
 - Life support (x1) - holds one battery, which powers your A/C, lights, etc.
-- Filters (x3) - requires at least one CO2 filter (if human), depending on your breathable gas mix. Note that a {THING:ItemHardSuit} has 4 filter slots.
+- {SLOT:GasFilter} (x3) - requires at least one {SLOT:ItemGasFilterCarbonDioxide} (if human), depending on your breathable gas mix. Note that a {THING:ItemHardSuit} has 4 filter slots.
 - IC - {THING:ItemHardSuit} only.
 
 Pressure: should be set to 50-100 KPa (0.5 to 1 Earth atmospheres). Humans in-game tolerate up to ~250kPa and can survive up to ~300kPA.
 
 Temperature: normally set to 18-21°C, with humans in-game preferring 10-29°C, tolerating 0-39°C and surviving around up to 49°C. In higher temperatures, your A/C will consume more battery power to maintain internal temperature.
 
-Filters: the default filter is the CO2 filter, which captures the gas generated by humans when breathing out. If you are not using 100% oxygen in your breathing gas, add additional filters, eg if you mix 25% Oxygen + 75% nitrogen, the nitrogen will accumulate in your suit over time and suffocate you, unless you have a nitrogen filter. If you have the correct filters and breathable gas, but are still experiencing problems, use the 'Flush' function on your Space Helmet. Low/critical oxygen warnings will sound as your filters cease to function.
+Filters: the default filter is the {GAS:CarbonDioxide} filter, which captures the gas generated by humans when breathing out. If you are not using 100% {GAS:Oxygen} in your breathing gas, add additional filters, eg if you mix 25% {GAS:Oxygen} + 75% {GAS:Nitrogen}, the nitrogen will accumulate in your suit over time and suffocate you, unless you have a nitrogen filter. If you have the correct filters and breathable gas, but are still experiencing problems, use the 'Flush' function on your Space Helmet. Low/critical oxygen warnings will sound as your filters cease to function.
 
 If damaged, your suit can be patched by holding duct tape in your hand and using 'activate' button.
 </Text>
