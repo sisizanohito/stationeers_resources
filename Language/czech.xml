@@ -6770,7 +6770,7 @@
     </Record>
     <Record>
       <Key>LoulanShortDesc</Key>
-      <Value>Po příletu na Loulan si všimnete dýchatelné atmosféry s dostatečně vysokým tlakem pro udržení života, ale jeho velkého nedostatku. Tento písečný obr se nachází v soustavě Gargantua a každým dnem se přibližuje k černé díře, která se nachází v jeho středu. Ačkoli je tato planeta opuštěná a už není zelená a plná vody, stále má funkční atmosféru a vaším úkolem je prohledat pustinu a získat materiály a zdroje potřebné k přežití na této věčné poušti.</Value>
+      <Value>Po příletu na Loulan si všimnete dýchatelné atmosféry s dostatečně vysokým tlakem pro udržení života - ale jeho velkého nedostatku. Tento písečný obr se nachází v soustavě Gargantua a každým dnem se přibližuje k černé díře, která se nachází v jeho středu. Tato planeta je sice opuštěná a již není zelená a plná {GAS:Water}, ale stále má funkční atmosféru a vaším úkolem je prohledat pustinu a získat materiály a zdroje potřebné k přežití na této věčné poušti.</Value>
     </Record>
     <Record>
       <Key>NewWorldAreaVenus</Key>
