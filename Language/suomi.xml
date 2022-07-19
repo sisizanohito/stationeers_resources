@@ -3936,6 +3936,10 @@
       <Key>ItemKitHorizontalAutoMiner</Key>
       <Value>Rakettimoottori</Value>
     </RecordThing>
+    <RecordThing>
+      <Key>ItemNitrice</Key>
+      <Value>Jää (oksiitti)</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>
@@ -7706,5 +7710,6 @@ Spawnaa mikä tahansa esine, testaa ideoita ja rakenna ihme juttuja todella nope
   <HelpPage/>
   <ThingPageOverride/>
   <HomePageButtonsOverride/>
+  <GameStrings/>
   <GameTip/>
 </Language>

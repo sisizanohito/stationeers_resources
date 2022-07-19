@@ -4584,6 +4584,10 @@
       <Key>StructureWaterBottleFillerPowered</Key>
       <Value/>
     </RecordThing>
+    <RecordThing>
+      <Key>ItemNitrice</Key>
+      <Value>氷 (オキサイト)</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>
@@ -8650,5 +8654,6 @@
   <HelpPage/>
   <ThingPageOverride/>
   <HomePageButtonsOverride/>
+  <GameStrings/>
   <GameTip/>
 </Language>

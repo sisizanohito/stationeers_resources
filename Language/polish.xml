@@ -4041,6 +4041,10 @@
       <Key>StructureWaterBottleFillerPowered</Key>
       <Value/>
     </RecordThing>
+    <RecordThing>
+      <Key>ItemNitrice</Key>
+      <Value>Lód (Tlenek)</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>
@@ -5835,6 +5839,10 @@
     <Record>
       <Key>AlertTitlePleaseWait</Key>
       <Value>Proszę czekać...</Value>
+    </Record>
+    <Record>
+      <Key>TooltipNeedMoreKit</Key>
+      <Value>&lt;color=red&gt;Need more {0}&lt;/color&gt;.</Value>
     </Record>
     <Record>
       <Key>JoinMenuSearchPlaceholder</Key>
@@ -9216,5 +9224,6 @@ Uwaga: Woda była poprzednio traktowana jako gaz, ale został wprowadzony nowy s
   <HelpPage/>
   <ThingPageOverride/>
   <HomePageButtonsOverride/>
+  <GameStrings/>
   <GameTip/>
 </Language>

@@ -5742,6 +5742,34 @@
       <Key>StructureWaterBottleFillerPowered</Key>
       <Value/>
     </RecordThing>
+    <RecordThing>
+      <Key>ItemNitrice</Key>
+      <Value>Led (Oxit)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitPassiveLargeRadiator</Key>
+      <Value>Velký výsuvný radiátor (sada)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePassiveLargeRadiator</Key>
+      <Value>Velký výsuvný radiátor</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitPassiveLargeRadiatorGas</Key>
+      <Value>Velký výsuvný radiátor (sada)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitPassiveLargeRadiatorLiquid</Key>
+      <Value>Velký výsuvný radiátor (sada)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePassiveLargeRadiatorLiquid</Key>
+      <Value>Velký výsuvný radiátor</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePassiveLargeRadiatorGas</Key>
+      <Value>Velký výsuvný radiátor</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>
@@ -11951,5 +11979,6 @@ Poznámka: S vodou se dříve zacházelo jako s plynem, ale nyní se vyvíjí no
   <HelpPage/>
   <ThingPageOverride/>
   <HomePageButtonsOverride/>
+  <GameStrings/>
   <GameTip/>
 </Language>

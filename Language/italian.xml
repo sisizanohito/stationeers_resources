@@ -4040,6 +4040,10 @@
       <Key>ItemKitHorizontalAutoMiner</Key>
       <Value>Motore a razzo</Value>
     </RecordThing>
+    <RecordThing>
+      <Key>ItemNitrice</Key>
+      <Value>Ghiaccio (Oxite)</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>
@@ -8264,5 +8268,6 @@ Non essere triste quando ti farai saltare in aria in piccoli, piccolissimi pezzi
   <HelpPage/>
   <ThingPageOverride/>
   <HomePageButtonsOverride/>
+  <GameStrings/>
   <GameTip/>
 </Language>

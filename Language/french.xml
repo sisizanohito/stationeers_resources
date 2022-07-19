@@ -5356,6 +5356,22 @@
       <Key>StructureWaterBottleFillerPowered</Key>
       <Value>Remplisseur de bouteille d’eau</Value>
     </RecordThing>
+    <RecordThing>
+      <Key>ItemNitrice</Key>
+      <Value>Glace (Oxite)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitPassiveLargeRadiator</Key>
+      <Value>Kit (Grand radiateur extensible)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitPassiveLargeRadiatorGas</Key>
+      <Value>Kit (Grand radiateur extensible)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitPassiveLargeRadiatorLiquid</Key>
+      <Value>Kit (Grand radiateur extensible)</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>
@@ -11507,5 +11523,6 @@ Remarque : l’eau était auparavant traitée comme un gaz, mais un nouveau syst
   <HelpPage/>
   <ThingPageOverride/>
   <HomePageButtonsOverride/>
+  <GameStrings/>
   <GameTip/>
 </Language>

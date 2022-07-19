@@ -297,5 +297,9 @@ Zapněte APC, abyste aktivovali síť, a nechť je tu SVĚTLO.</Value>
       <Key>2GetFrames</Key>
       <Value>Vezměte železné rámy z bedny.</Value>
     </Record>
+    <Record>
+      <Key>2GetSheets</Key>
+      <Value>Vezměte železné rámy z bedny.</Value>
+    </Record>
   </Interface>
 </Language>

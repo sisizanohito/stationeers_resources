@@ -2274,6 +2274,10 @@
       <Key>ItemKitHorizontalAutoMiner</Key>
       <Value>Rocket Engine</Value>
     </RecordThing>
+    <RecordThing>
+      <Key>ItemNitrice</Key>
+      <Value>Ice (Oxite)</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>
@@ -2978,9 +2982,17 @@ So get out there, Stationeer!</Value>
       <Value>Invertovať Myš</Value>
     </Record>
     <Record>
+      <Key>MothershipConstruction</Key>
+      <Value>&lt;color=yellow&gt;Constructing on Mothership&lt;/color&gt;.</Value>
+    </Record>
+    <Record>
       <Key>MulticonstructorItem</Key>
       <Value>&lt;color=yellow&gt;Constructing option {0} of {1}&lt;/color&gt;
 Scroll &lt;color=red&gt;Mouse Wheel&lt;/color&gt; for more options.</Value>
+    </Record>
+    <Record>
+      <Key>UnableToConstruct</Key>
+      <Value>&lt;color=red&gt;Unable to Construct&lt;/color&gt;.</Value>
     </Record>
     <Record>
       <Key>TooltipRotateLeftRight</Key>
@@ -3082,6 +3094,10 @@ Scroll &lt;color=red&gt;Mouse Wheel&lt;/color&gt; for more options.</Value>
       <Key>AlertNoResponse</Key>
       <Value>There is no response from the Game Server.
 Please try again.</Value>
+    </Record>
+    <Record>
+      <Key>TooltipNeedMoreKit</Key>
+      <Value>&lt;color=red&gt;Need more {0}&lt;/color&gt;.</Value>
     </Record>
     <Record>
       <Key>SettingsHungerRate</Key>
@@ -3701,5 +3717,6 @@ Just don&apos;t be sad when you blow yourself into tiny, tiny little pieces or g
   <HelpPage/>
   <ThingPageOverride/>
   <HomePageButtonsOverride/>
+  <GameStrings/>
   <GameTip/>
 </Language>

@@ -67,5 +67,9 @@
       <Key>2GetFrames</Key>
       <Value>从箱子拿走铁框架。</Value>
     </Record>
+    <Record>
+      <Key>2GetSheets</Key>
+      <Value>从箱子拿走铁框架。</Value>
+    </Record>
   </Interface>
 </Language>

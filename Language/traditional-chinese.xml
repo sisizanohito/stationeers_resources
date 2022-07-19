@@ -5099,6 +5099,10 @@
       <Key>ItemKitPowerTransmitterOmni</Key>
       <Value/>
     </RecordThing>
+    <RecordThing>
+      <Key>ItemNitrice</Key>
+      <Value>冰塊 (Oxite 氧氣石)</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>
@@ -7169,6 +7173,26 @@
     <Record>
       <Key>HoldForPreviousObject</Key>
       <Value>按住 {KEY:QuantityModifier} for previous object</Value>
+    </Record>
+    <Record>
+      <Key>ChangeSettingToFor</Key>
+      <Value>Cycle to &lt;color=yellow&gt;{0}&lt;/color&gt; for {1}</Value>
+    </Record>
+    <Record>
+      <Key>ChangeSettingToForIn</Key>
+      <Value>Cycle to &lt;color=yellow&gt;{0}&lt;/color&gt; for {3} &lt;color=yellow&gt;({2})&lt;/color&gt; in {1}</Value>
+    </Record>
+    <Record>
+      <Key>ChangeReagentSettingTo</Key>
+      <Value>Cycle to {2}.&lt;color=yellow&gt;{0}&lt;/color&gt;.&lt;color=yellow&gt;{1}&lt;/color&gt;</Value>
+    </Record>
+    <Record>
+      <Key>ChangeSlotSettingToFor</Key>
+      <Value>Cycle to {1}&lt;color=yellow&gt;({0})&lt;/color&gt; for {2}</Value>
+    </Record>
+    <Record>
+      <Key>ChangeSettingToForAll</Key>
+      <Value>Cycle to &lt;color=yellow&gt;{0}&lt;/color&gt;&gt;for all {1}</Value>
     </Record>
     <Record>
       <Key>SettingsAtmosphericScattering</Key>
@@ -9400,5 +9424,6 @@
   <HelpPage/>
   <ThingPageOverride/>
   <HomePageButtonsOverride/>
+  <GameStrings/>
   <GameTip/>
 </Language>

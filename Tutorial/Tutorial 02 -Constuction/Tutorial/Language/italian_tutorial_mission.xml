@@ -34,5 +34,9 @@
       <Key>2GetFrames</Key>
       <Value>Raccogli un {THING:ItemTablet}</Value>
     </Record>
+    <Record>
+      <Key>2GetSheets</Key>
+      <Value>Raccogli un {THING:ItemTablet}</Value>
+    </Record>
   </Interface>
 </Language>

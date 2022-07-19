@@ -51,5 +51,9 @@ Demir çerçeveler ile başla.</Value>
       <Key>2GetFrames</Key>
       <Value>Sandıktan Demir Çerçeveleri al.</Value>
     </Record>
+    <Record>
+      <Key>2GetSheets</Key>
+      <Value>Sandıktan Demir Çerçeveleri al.</Value>
+    </Record>
   </Interface>
 </Language>

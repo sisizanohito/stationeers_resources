@@ -22,5 +22,9 @@
       <Key>2GetFrames</Key>
       <Value>Tag {THING:ItemEvaSuit}en på</Value>
     </Record>
+    <Record>
+      <Key>2GetSheets</Key>
+      <Value>Tag {THING:ItemEvaSuit}en på</Value>
+    </Record>
   </Interface>
 </Language>

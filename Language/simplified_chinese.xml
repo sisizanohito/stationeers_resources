@@ -4966,6 +4966,10 @@
       <Key>StructureWaterBottleFillerPowered</Key>
       <Value/>
     </RecordThing>
+    <RecordThing>
+      <Key>ItemNitrice</Key>
+      <Value>冰(固态氧)</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>
@@ -10871,5 +10875,6 @@ Stationeers就是一切：宇航员、工程师和探险家，仅配备了有限
   <HelpPage/>
   <ThingPageOverride/>
   <HomePageButtonsOverride/>
+  <GameStrings/>
   <GameTip/>
 </Language>

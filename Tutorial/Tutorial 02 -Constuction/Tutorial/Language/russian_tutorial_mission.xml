@@ -293,5 +293,9 @@
       <Key>2GetFrames</Key>
       <Value>Возьмите железные каркасы из ящика.</Value>
     </Record>
+    <Record>
+      <Key>2GetSheets</Key>
+      <Value>Возьмите железные каркасы из ящика.</Value>
+    </Record>
   </Interface>
 </Language>

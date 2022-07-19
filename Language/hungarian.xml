@@ -4863,6 +4863,10 @@
       <Key>StructureWaterBottleFillerPowered</Key>
       <Value/>
     </RecordThing>
+    <RecordThing>
+      <Key>ItemNitrice</Key>
+      <Value>Jég (Oxit)</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>
@@ -10150,5 +10154,6 @@ Leginkább mérnöki, katonai vagy űripari, szoftverfejlesztői vagy bányásza
   <HelpPage/>
   <ThingPageOverride/>
   <HomePageButtonsOverride/>
+  <GameStrings/>
   <GameTip/>
 </Language>

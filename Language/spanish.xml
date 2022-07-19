@@ -5490,6 +5490,10 @@
       <Key>StructureWaterBottleFillerPowered</Key>
       <Value/>
     </RecordThing>
+    <RecordThing>
+      <Key>ItemNitrice</Key>
+      <Value>Hielo (Oxite)</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>
@@ -11703,5 +11707,6 @@ Nota: El agua se trataba anteriormente como un gas, pero se está desarrollando 
   <HelpPage/>
   <ThingPageOverride/>
   <HomePageButtonsOverride/>
+  <GameStrings/>
   <GameTip/>
 </Language>

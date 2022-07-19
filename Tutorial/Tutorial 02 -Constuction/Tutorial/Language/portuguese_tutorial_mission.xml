@@ -62,5 +62,9 @@
       <Key>2GetFrames</Key>
       <Value>Apanha o {THING:ItemIronIngot}.</Value>
     </Record>
+    <Record>
+      <Key>2GetSheets</Key>
+      <Value>Apanha o {THING:ItemIronIngot}.</Value>
+    </Record>
   </Interface>
 </Language>

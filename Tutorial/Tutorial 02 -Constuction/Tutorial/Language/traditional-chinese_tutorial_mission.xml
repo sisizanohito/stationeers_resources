@@ -10,5 +10,9 @@
       <Key>PlaceBatt</Key>
       <Value>在區域電力控制器(APC)中，裝上電池</Value>
     </Record>
+    <Record>
+      <Key>2GetSheets</Key>
+      <Value>Get Iron Frames from Crate.</Value>
+    </Record>
   </Interface>
 </Language>

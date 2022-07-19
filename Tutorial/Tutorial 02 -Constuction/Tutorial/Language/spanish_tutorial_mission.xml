@@ -298,5 +298,9 @@ Presione el botón &quot;Completar&quot; para transmitir sus resultados al Coman
       <Key>2GetFrames</Key>
       <Value>Consigue marcos de hierro de la caja.</Value>
     </Record>
+    <Record>
+      <Key>2GetSheets</Key>
+      <Value>Consigue marcos de hierro de la caja.</Value>
+    </Record>
   </Interface>
 </Language>

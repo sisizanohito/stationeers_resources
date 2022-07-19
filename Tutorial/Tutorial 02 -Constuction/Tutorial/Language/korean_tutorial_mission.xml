@@ -106,5 +106,9 @@
       <Key>2GetFrames</Key>
       <Value>철 틀을 상자에서 주우세요.</Value>
     </Record>
+    <Record>
+      <Key>2GetSheets</Key>
+      <Value>철 틀을 상자에서 주우세요.</Value>
+    </Record>
   </Interface>
 </Language>

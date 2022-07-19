@@ -3180,6 +3180,10 @@
       <Key>ItemKitHorizontalAutoMiner</Key>
       <Value>로켓 엔진</Value>
     </RecordThing>
+    <RecordThing>
+      <Key>ItemNitrice</Key>
+      <Value>얼음 (Oxite)</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>
@@ -6830,5 +6834,6 @@ Just don&apos;t be sad when you blow yourself into tiny, tiny little pieces or g
   <HelpPage/>
   <ThingPageOverride/>
   <HomePageButtonsOverride/>
+  <GameStrings/>
   <GameTip/>
 </Language>

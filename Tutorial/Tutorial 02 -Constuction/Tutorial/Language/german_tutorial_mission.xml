@@ -59,5 +59,9 @@ Schalte die ESV ein, um das Netzwerk zu aktivieren, und lasse es LICHT werden.</
       <Key>2GetFrames</Key>
       <Value>{THING:ItemTablet} aufnehmen</Value>
     </Record>
+    <Record>
+      <Key>2GetSheets</Key>
+      <Value>{THING:ItemTablet} aufnehmen</Value>
+    </Record>
   </Interface>
 </Language>

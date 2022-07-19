@@ -39,5 +39,9 @@
       <Key>2GetFrames</Key>
       <Value>荷箱から鉄フレームを取る。</Value>
     </Record>
+    <Record>
+      <Key>2GetSheets</Key>
+      <Value>荷箱から鉄フレームを取る。</Value>
+    </Record>
   </Interface>
 </Language>

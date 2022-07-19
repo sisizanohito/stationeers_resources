@@ -472,6 +472,10 @@
     <RecordThing>
       <Key>StructureRocketModuleMiningJunk</Key>
     </RecordThing>
+    <RecordThing>
+      <Key>ItemNitrice</Key>
+      <Value>Is (Oxite)</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>
@@ -1393,5 +1397,6 @@
   <HelpPage/>
   <ThingPageOverride/>
   <HomePageButtonsOverride/>
+  <GameStrings/>
   <GameTip/>
 </Language>
