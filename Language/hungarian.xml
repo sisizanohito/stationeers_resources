@@ -4863,10 +4863,6 @@
       <Key>StructureWaterBottleFillerPowered</Key>
       <Value/>
     </RecordThing>
-    <RecordThing>
-      <Key>ItemNitrice</Key>
-      <Value>Jég (Oxit)</Value>
-    </RecordThing>
   </Things>
   <Slots>
     <Record>

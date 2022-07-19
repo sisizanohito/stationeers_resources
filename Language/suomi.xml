@@ -3936,10 +3936,6 @@
       <Key>ItemKitHorizontalAutoMiner</Key>
       <Value>Rakettimoottori</Value>
     </RecordThing>
-    <RecordThing>
-      <Key>ItemNitrice</Key>
-      <Value>Jää (oksiitti)</Value>
-    </RecordThing>
   </Things>
   <Slots>
     <Record>

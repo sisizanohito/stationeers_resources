@@ -5492,7 +5492,9 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemNitrice</Key>
-      <Value>Hielo (Oxite)</Value>
+      <Value>El hielo de oxite está compuesto en gran parte de oxígeno congelado y se encuentra en muchos planetas del Sistema Solar. Muy valioso y buscado, no todos los planetas son &lt;color=#0080FFFF&gt;{LINK:Stationeers;Stationeer}&lt;/color&gt; tendrán oxite. 
+
+Altamente sensible a la temperatura, el oxite comenzará a derretirse tan pronto como se extrae, a menos que la temperatura sea inferior a cero, o se almacene en el {THING:ItemMiningBelt}, {THING:ItemMiningBeltAdvanced} o dispositivos como {THING:StructureIceCrusher} o {THING:StructureFridgeSmall}. Al fundirse, el oxite produce una mezcla de oxígeno y nitrógeno.</Value>
     </RecordThing>
   </Things>
   <Slots>

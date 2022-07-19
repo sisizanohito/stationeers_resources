@@ -5744,31 +5744,33 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemNitrice</Key>
-      <Value>Led (Oxit)</Value>
+      <Value>Oxitový led se skládá převážně ze zmrzlého kyslíku a nachází se na mnoha planetách sluneční soustavy. Je velmi cenný a vyhledávaný, ale ne na všech planetách, které &lt;color=#0080FFFF&gt;{LINK:Stationeers;Stationeer}&lt;/color&gt; navštíví, se nějaký nachází. 
+
+Je velmi citlivý na teplotu, oxit se začne tavit, jakmile je vytěžen, pokud teplota neklesne pod nulu nebo není uložen v {THING:ItemMiningBelt}, {THING:ItemMiningBeltAdvanced} nebo v zařízeních jako {THING:StructureIceCrusher} nebo {THING:StructureFridgeSmall}. Při tavení oxitu vzniká směs kyslíku a dusíku.</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPassiveLargeRadiator</Key>
-      <Value>Velký výsuvný radiátor (sada)</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>StructurePassiveLargeRadiator</Key>
-      <Value>Velký výsuvný radiátor</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPassiveLargeRadiatorGas</Key>
-      <Value>Velký výsuvný radiátor (sada)</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPassiveLargeRadiatorLiquid</Key>
-      <Value>Velký výsuvný radiátor (sada)</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>StructurePassiveLargeRadiatorLiquid</Key>
-      <Value>Velký výsuvný radiátor</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>StructurePassiveLargeRadiatorGas</Key>
-      <Value>Velký výsuvný radiátor</Value>
+      <Value/>
     </RecordThing>
   </Things>
   <Slots>

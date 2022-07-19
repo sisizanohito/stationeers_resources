@@ -4966,10 +4966,6 @@
       <Key>StructureWaterBottleFillerPowered</Key>
       <Value/>
     </RecordThing>
-    <RecordThing>
-      <Key>ItemNitrice</Key>
-      <Value>冰(固态氧)</Value>
-    </RecordThing>
   </Things>
   <Slots>
     <Record>

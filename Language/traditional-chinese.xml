@@ -5099,10 +5099,6 @@
       <Key>ItemKitPowerTransmitterOmni</Key>
       <Value/>
     </RecordThing>
-    <RecordThing>
-      <Key>ItemNitrice</Key>
-      <Value>冰塊 (Oxite 氧氣石)</Value>
-    </RecordThing>
   </Things>
   <Slots>
     <Record>

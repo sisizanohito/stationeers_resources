@@ -5362,15 +5362,15 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPassiveLargeRadiator</Key>
-      <Value>Kit (Grand radiateur extensible)</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPassiveLargeRadiatorGas</Key>
-      <Value>Kit (Grand radiateur extensible)</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPassiveLargeRadiatorLiquid</Key>
-      <Value>Kit (Grand radiateur extensible)</Value>
+      <Value/>
     </RecordThing>
   </Things>
   <Slots>

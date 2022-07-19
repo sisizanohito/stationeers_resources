@@ -4290,10 +4290,6 @@
       <Key>ItemKitHorizontalAutoMiner</Key>
       <Value>Motor de Foguete</Value>
     </RecordThing>
-    <RecordThing>
-      <Key>ItemNitrice</Key>
-      <Value>Gelo (Oxite)</Value>
-    </RecordThing>
   </Things>
   <Slots>
     <Record>

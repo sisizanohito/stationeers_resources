@@ -4663,10 +4663,6 @@
       <Key>StructureWaterBottleFillerPowered</Key>
       <Value>Wasserflaschen-Befüller</Value>
     </RecordThing>
-    <RecordThing>
-      <Key>ItemNitrice</Key>
-      <Value>Eis (Sauerstoff)</Value>
-    </RecordThing>
   </Things>
   <Slots>
     <Record>

@@ -5407,10 +5407,6 @@
       <Key>StructureWaterBottleFillerPowered</Key>
       <Value/>
     </RecordThing>
-    <RecordThing>
-      <Key>ItemNitrice</Key>
-      <Value>Лёд (Оксит)</Value>
-    </RecordThing>
   </Things>
   <Slots>
     <Record>
