@@ -250,38 +250,38 @@ Hodně štěstí, kadete!
       <Key>AutomatedRocketPage</Key>
       <Title>Automatizované raketové moduly (A.R.M.)</Title>
       <DisplayFilter>Guides</DisplayFilter>
-      <Text>Automatické rakety jsou vozidla bez posádky, která lze vyslat mimo Zemi, aby získala různé zdroje. Rakety mohou být řízeny &lt;color=#0080FFFF&gt;{LINK:LogicUnitPage;logikou}&lt;/color&gt; nebo &lt;color=#0080FFFF&gt;{LINK:LogicUnitPage;IC}&lt;/color&gt; nebo kombinací těchto systémů.
-  
-Po vypuštění automatické rakety vyhledávají planety nebo asteroidy s těžitelnými surovinami, podle toho, s jakými MODULY byly zkonstruovány. Rakety mohou být naprogramovány tak, aby vytěžily všechny dostupné zdroje a poté se přesunuly na jinou planetu nebo se vrátily domů. Jejich dolet - a tedy i množství surovin, které mohou nasbírat - je určen dostupným palivem. Pokud jim palivo dojde, jsou navždy ztraceny v prázdnotě.
-  
+      <Text>Automatické rakety jsou vozidla bez posádky, která lze vyslat mimo Zemi, aby získala různé zdroje. Raketu lze ovládat pomocí {LINK:LogicUnitPage;logiky} nebo {LINK:LogicUnitPage;IC}, případně kombinací těchto systémů.
+      
+Po vypuštění automatické rakety vyhledávají planety nebo asteroidy s těžitelnými zdroji, podle toho, s jakými MODULY byly zkonstruovány. Rakety mohou být naprogramovány tak, aby vytěžily všechny dostupné zdroje a poté se přesunuly na jinou planetu nebo se vrátily domů. Jejich dolet - a tedy i množství surovin, které mohou nasbírat - je určen dostupným palivem. Pokud jim palivo dojde, jsou navždy ztraceny v prázdnotě.
+      
 
 {HEADER:MODULY}
 Automatizovaný raketový systém se skládá ze čtyř základních modulů a motoru a palivové nádrže (nádrží):
 
-* MODUL AUTOMATIZACE -{THING:StructureModularRocketAutomation} je řídicí systém, který předává data jednotlivým modulům.
+* AUTOMATIZAČNÍ MODUL - {THING:StructureModularRocketAutomation} je řídicí systém, který předává data jednotlivým modulům.
 
-* MODUL TĚŽBY - provádí těžební operace. V současnosti jsou to {THING:StructureRocketModuleMiningOre}, {THING:StructureModularRocketIceMining}, {THING:StructureRocketModuleMiningJunk} a {THING:StructureModularRocketGasMining}.
+* MODUL TĚŽBY - provádí těžební operace. V současné době jsou to {THING:StructureRocketModuleMiningOre}, {THING:StructureModularRocketIceMining}, {THING:StructureRocketModuleMiningJunk} a {THING:StructureModularRocketGasMining}.
 
-* SPOJKA - spojuje těžební moduly se skladovacími moduly tím, že předává materiál z jednoho do druhého. Konkrétně {THING:StructureModularRocketCouplingDown} předává suroviny do úložného modulu, který se nachází POD ním. Modul {THING:StructureModularRocketCouplingUp} předává zdroje úložnému modulu NAD ním. Bez tohoto prvku nebude raketa shromažďovat prostředky.
+* SPOJKA - spojuje těžební moduly se skladovacími moduly tím, že předává materiál z jednoho do druhého. Konkrétně modul {THING:StructureModularRocketCouplingDown} předává suroviny úložnému modulu, který se nachází POD ním. Modul {THING:StructureModularRocketCouplingUp} předává zdroje úložnému modulu NAD ním. Bez tohoto prvku nebude raketa shromažďovat prostředky.
 
-* SKLADOVACÍ MODUL - tento modul přijímá suroviny z těžebního modulu prostřednictvím spojky a ukládá je, dokud se raketa nevrátí. V současné době sem patří {THING:StructureRocketModuleSilo} pro rudy a {THING:StructureModularRocketFueltank01} pro plyn. Skladovací moduly mohou být připojeny k &lt;color=#0080FFFF&gt;{LINK:ImportExportPage;síťi šachet}&lt;/color&gt;, ale ve výchozím nastavení jsou uzavřené. Pomocí &lt;color=#0080FFFF&gt;{LINK:LogicUnitPage;logiky}&lt;/color&gt; je nastavte na &quot;otevřené&quot;.
-
-
-{HEADER:PODMÍNKY ODPALU}
-* NAPÁJENÍ - všechny moduly rakety musí být napájeny. Všimněte si, že moduly jsou ve výchozím nastavení vytvořeny jako &apos;zapnuté&apos;, ale lze je vypnout a zapnout pomocí &lt;color=#0080FFFF&gt;{LINK:LogicUnitPage;logiky}&lt;/color&gt; spojení.
-
-* PALIVO - raketa musí mít alespoň jednu palivovou nádrž a dostatek paliva pro vzlet (alespoň 500 mols). Všimněte si, že raketa potřebuje také 500 mols na přistání A spotřebuje 5 mols za tiknutí během cestovní fáze provozu.
-
-* KONSTRUKCE - Raketa musí být správně sestavena (viz výše MODULY)
-
-* PROGRAMOVÁNÍ - Raketa se ovládá pomocí &lt;color=#0080FFFF&gt;{LINK:LogicUnitPage;IC systému}&lt;/color&gt; (viz níže)
+* SKLADOVACÍ MODUL - tento modul přijímá suroviny z těžebního modulu prostřednictvím spojky a ukládá je, dokud se raketa nevrátí. V současné době sem patří {THING:StructureRocketModuleSilo} pro rudy a {THING:StructureModularRocketFueltank01} pro plyn. Skladovací moduly mohou být připojeny k síti {LINK:ImportExportPage;šachet}, ale ve výchozím nastavení jsou uzavřené. Pomocí {LINK:LogicUnitPage;logiky} je nastavte na &quot;otevřené&quot;.
 
 
-{HEADER:RAKETOVÉ MODULY}¶
-Režim rakety se nastavuje prostřednictvím hodnoty &apos;aktivovat&apos; zařízení. Režim určuje aktuální chování:
+{HEADER:PODMÍNKY SPUŠTĚNÍ}
+* NAPÁJENÍ - všechny moduly rakety musí být napájeny. Všimněte si, že moduly jsou ve výchozím nastavení vytvořeny &apos;zapnuté&apos;, ale lze je vypnout a zapnout pomocí spojení {LINK:LogicUnitPage;logiky}.
+
+* PALIVO - raketa musí mít alespoň jednu palivovou nádrž a dostatek paliva pro start (alespoň 500 mols). Všimněte si, že raketa také potřebuje 500 mols na přistání A spotřebuje 5 mols za tiknutí během cestovní fáze provozu.
+
+* KONSTRUKCE - raketa musí být správně sestavena (viz výše MODULY).
+
+* PROGRAMOVÁNÍ - Raketa se ovládá pomocí {LINK:LogicUnitPage;IC systému} (viz níže).
+
+
+{HEADER:RAKETOVÉ REŽIMY}
+Režim rakety se nastavuje pomocí hodnoty &apos;aktivace&apos; zařízení. Režim určuje aktuální chování:
 
 0: Nečinnost (na základně)
-1: Odpálení
+1: Odpalování
 2: Cestování
 3: Přílet
 4: Nečinný v cíli (připraven k aktivaci těžebních modulů).
@@ -289,11 +289,12 @@ Režim rakety se nastavuje prostřednictvím hodnoty &apos;aktivovat&apos; zař�
 6: Vrácen
 7: Ztracen
 
+
 {HEADER:UNIKÁTNÍ RAKETOVÉ PŘÍKAZY}
 * ZŮSTATEK PALIVA V NÁDRŽI - Zjistí zbývající palivo v palivové nádrži rakety.
-* NÁKLADY PALIVA NA NÁVRAT - Zjistí náklady na palivo pro návrat rakety do aktuálního světa.
+* NÁKLADY NA PALIVO - Zjistí náklady na palivo pro návrat rakety na váš aktuální svět.
 * REŽIM RAKETY - Získá aktuální hodnotu režimu rakety (0-7).
-* SBÍRATELNÉ ZDROJE - Vrací hodnotu 0 nebo 1 podle toho, zda má aktuální raketový systém možnost sbírat zdroje na planetě.
+* SBÍRATELNÉ ZBOŽÍ - Vrací hodnotu 0 nebo 1 podle toho, zda má aktuální raketový systém možnost sbírat na planetě suroviny.
 
 
       </Text>
@@ -385,11 +386,11 @@ Konzole {THING:StructureModularRocketCommand01} zobrazuje aktuální stav těcht
       <Key>WeatherPage</Key>
       <Title>Počasí</Title>
       <DisplayFilter>Guides</DisplayFilter>
-      <Text>Planety sluneční soustavy nejsou tak klidné, jak by se mohlo zdát. Po sedmi dnech strávených na jakémkoli světě s atmosférou se nevyzpytatelné přírodní síly dají do pohybu a zasáhnou neopatrné Stationeery sněhovými bouřemi, písečnými bouřemi a vulkanickými událostmi.
-Proto ODA doporučuje, aby si čerstvě vyslaní Stationeeři do sedmi dnů od přistání vytvořili neprodyšnou základnu.
-Jakékoli dynamické předměty ponechané venku v bouři - na Marsu, Loulanu, Vulkánu nebo Europě - riskují, že je odnese daleko, daleko, včetně vašeho přistávacího modulu.
-Stejně tak mějte na paměti, že solární panely jsou křehké a jejich sklo se může rozbít, případně je může zničit dostatečně silná bouře. Během bouře se také drasticky sníží jejich výkon.
-  </Text>
+      <Text>Planety Sluneční soustavy nejsou tak klidné, jak by se mohlo zdát. Po sedmi dnech na každém světě s atmosférou se nevyzpytatelné přírodní síly dají do pohybu a zasáhnou neopatrné Stationeery sněhovými bouřemi, prachovými bouřemi a vulkanickými událostmi.
+Proto {LINK:ODA;ODA} doporučuje, aby si čerstvě vyslaní Stationeeři do sedmi dnů od přistání vytvořili neprodyšnou základnu.
+Jakékoli dynamické předměty ponechané venku v bouři - na Marsu, Loulanu, Vulkánu nebo Europě - riskují, že je odfoukne daleko, daleko, včetně vašeho přistávacího modulu.
+Stejně tak mějte na paměti, že solární panely jsou křehké a jejich sklo se může rozbít, nebo je občas dokonce zničí dostatečně divoká bouře. Během bouře se také drasticky snižuje jejich výkon.
+      </Text>
     </StationpediaPage>
     <!--
     ~~~~~~~~~~~~~~~~~~~~~~~~~
