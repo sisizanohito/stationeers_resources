@@ -391,11 +391,11 @@
     </Record>
     <Record>
       <Key>ForceClose</Key>
-      <Value>Vynucené zavření</Value>
+      <Value>Manuálně zavřít</Value>
     </Record>
     <Record>
       <Key>ForceOpen</Key>
-      <Value>Vypáčit</Value>
+      <Value>Manuálně otevřít</Value>
     </Record>
     <Record>
       <Key>Vend</Key>
@@ -411,7 +411,7 @@
     </Record>
     <Record>
       <Key>ForceFeed</Key>
-      <Value>Vypáčit</Value>
+      <Value>Nacpat do chřtánu</Value>
     </Record>
     <Record>
       <Key>FlipRover</Key>
