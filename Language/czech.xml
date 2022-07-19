@@ -5736,11 +5736,11 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureWaterBottleFillerPoweredBottom</Key>
-      <Value/>
+      <Value>Plnička lahví na vodu</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWaterBottleFillerPowered</Key>
-      <Value/>
+      <Value>Plnička lahví na vodu</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemNitrice</Key>
@@ -7245,7 +7245,7 @@
     </Record>
     <Record>
       <Key>MothershipConstruction</Key>
-      <Value>&lt;color=yellow&gt;Stavba na mateřské lodi&lt;/color&gt;.</Value>
+      <Value>&lt;color=yellow&gt;Stavba na mateřské lodi.</Value>
     </Record>
     <Record>
       <Key>MulticonstructorItem</Key>
