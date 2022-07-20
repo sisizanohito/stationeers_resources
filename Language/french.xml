@@ -9694,6 +9694,14 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
       <Value>Sauve la partie avec le nom spécifié en paramètre : &quot;/save nameofsave&quot;</Value>
     </Record>
     <Record>
+      <Key>CommandShutdown</Key>
+      <Value>Arrête le serveur et fait retourner les joueurs à l&apos;écran d&apos;accueil. Vous pouvez ajouter un message et un décompte : &quot;/shutdown&quot;</Value>
+    </Record>
+    <Record>
+      <Key>CommandNotice</Key>
+      <Value>Envoie un message aux autres joueurs d&apos;un même serveur : &quot;/notice [message]&quot;</Value>
+    </Record>
+    <Record>
       <Key>CommandStatus</Key>
       <Value>Affiche l&apos;état actuel du serveur et qui est présent actuellement sur le serveur: &quot;/status&quot;</Value>
     </Record>
