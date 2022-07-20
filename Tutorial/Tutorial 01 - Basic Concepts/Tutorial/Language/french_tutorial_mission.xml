@@ -241,7 +241,7 @@ Cela fonctionne aussi avec votre combinaison, essayez d&apos;ouvrir votre invent
     </Record>
     <Record>
       <Key>Narration9D</Key>
-      <Value>Savoir où quelque chose est, et comment l’obtenir rapidement, fait toute la différence: la gestion des stocks sauve des vies. Commencez par glisser des articles dans votre main à partir de votre inventaire.</Value>
+      <Value>Savoir où est quelque chose, et comment l’obtenir rapidement, fait toute la différence : la gestion des stocks sauve des vies. Commencez par glisser des objets dans votre main à partir de votre inventaire.</Value>
     </Record>
     <Record>
       <Key>HoldMiningBeltT1Disc</Key>
@@ -388,16 +388,16 @@ Bon nombre d’entre eux, notament vos outils, contiennent une pile ou une boute
     </Record>
     <Record>
       <Key>Narration13D</Key>
-      <Value>Tout coûte quelque chose et, loin de chez vous, vous devez utilisez vos ressources avec précaution.
-Les sources d&apos;énergies (batterie ou bouteille de gaz) de nombreux équipements peuvent être retirées et rechargées.</Value>
+      <Value>Tout a un coût et, loin de chez vous, vous devez utiliser vos ressources avec précaution.
+Les sources d’énergie (batterie ou bouteille de gaz) de nombreux équipements peuvent être remplacées et rechargées.</Value>
     </Record>
     <Record>
       <Key>ReplaceBattT1Disc</Key>
-      <Value>Insérer une batterie de la caisse dans la foreuse.</Value>
+      <Value>Prendre une batterie dans la caisse, et l&apos;insérer dans la foreuse.</Value>
     </Record>
     <Record>
       <Key>ChangePowerCell</Key>
-      <Value>Insérer une batterie de la caisse dans la foreuse.</Value>
+      <Value>Prendre une batterie dans la caisse, et l&apos;insérer dans la foreuse.</Value>
     </Record>
     <Record>
       <Key>Narration14T</Key>
@@ -472,8 +472,8 @@ La zone de construction est trop haute pour être atteinte, alors testons votre 
     </Record>
     <Record>
       <Key>Narration18D</Key>
-      <Value>Simples à construire et faciles à pressuriser, les cadres en fer sont la base de toute structure Stationeer.
-Ramassez les cadres, cliquez avec le bouton droit de la souris pour entrer en mode Construction, puis cliquez avec le bouton gauche de la souris pour les placer.</Value>
+      <Value>Simples à construire et faciles à pressuriser, les cadres en fer sont la base de toute structure dans Stationeer.
+Ramassez les cadres dans la caisse. Cliquez avec le bouton droit de la souris pour entrer en mode Construction, puis cliquez avec le bouton gauche de la souris pour les placer.</Value>
     </Record>
     <Record>
       <Key>BuildTheFrames</Key>
