@@ -10,7 +10,7 @@
     <StationpediaPage>
       <Key>CartridgePage</Key>
       <Title>Kazety</Title>
-      <Text>Lze je přidat do {THING:ItemTablet} nebo {THING:ItemAdvancedTablet} a provádět tak různé diagnostické funkce.
+      <Text>Lze je vložit do {THING:ItemTablet} nebo {THING:ItemAdvancedTablet} a provádět tak různé diagnostické funkce.
 {LIST_OF_CARTRIDGES}</Text>
     </StationpediaPage>
     <StationpediaPage>
