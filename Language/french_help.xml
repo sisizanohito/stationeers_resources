@@ -202,9 +202,9 @@ A peindre {POS:300}{2}{3}{/LIST}</Text>
     <StationpediaPage>
       <Key>ThingThermalTemplate</Key>
       <Text>{HEADER:Limites thermique}
-{LIST}Deterioration {POS:300}{0}
-Point de rupture{POS:300}{1}
-Auto-allumage{POS:300}{2}{3}{/LIST}</Text>
+{LIST}Destruction {POS:300}{0}
+Point d&apos;ignition{POS:300}{1}
+Point d’auto-inflammation{POS:300}{2}{3}{/LIST}</Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>ThingSlotItemTemplate</Key>

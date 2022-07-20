@@ -9203,31 +9203,31 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>ScriptCommandBnaal</Key>
-      <Value>Saute à la ligne d si abs(a - b) &lt;= max(c * max(abs(a), abs(b)), float.epsilon * 8) et stocke le numéro de la ligne suivante dans ra</Value>
+      <Value>Effectue un saut à la ligne [ d ] si abs([ a ]-[ b ]) &lt;= max(c * max(abs(a), abs(b)), float.epsilon * 8) et stocke le numéro de la ligne suivante dans le registre ra(r17)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBltzal</Key>
-      <Value>Saute à la ligne b si a &lt; 0 et stocke le numéro de la ligne suivante dans ra</Value>
+      <Value>Effectue un saut à la ligne [ b ] si [ a ] &lt; 0 et stocke le numéro de la ligne suivante dans le registre ra(r17)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBgezal</Key>
-      <Value>Saute à la ligne b si a &gt;= 0 et stocke le numéro de la ligne suivante dans ra</Value>
+      <Value>Effectue un saut à la ligne [ b ] si [ a ] &gt;= 0 et stocke le numéro de la ligne suivante dans le registre ra(r17)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBlezal</Key>
-      <Value>Saute à la ligne b si a &lt;= 0 et stocke le numéro de la ligne suivante dans ra</Value>
+      <Value>Effectue un saut à la ligne [ b ] si [ a ] &lt;= 0 et stocke le numéro de la ligne suivante dans le registre ra(r17)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBgtzal</Key>
-      <Value>Saute à la ligne b si a &gt; 0 et stocke le numéro de la ligne suivante dans ra</Value>
+      <Value>Effectue un saut à la ligne [ b ] si [ a ] &gt; 0 et stocke le numéro de la ligne suivante dans le registre ra(r17)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBeqzal</Key>
-      <Value>Saute à la ligne b si a == 0 et stocke le numéro de la ligne suivante dans ra</Value>
+      <Value>Effectue un saut à la ligne [ b ] si [ a ] == 0 et stocke le numéro de la ligne suivante dans le registre ra(r17)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBnezal</Key>
-      <Value>Saute à la ligne b si a != 0 et stocke le numéro de la ligne suivante dans ra</Value>
+      <Value>Effectue un saut à la ligne [ b ] si [ a ] != 0 et stocke le numéro de la ligne suivante dans le registre ra(r17)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBapzal</Key>
