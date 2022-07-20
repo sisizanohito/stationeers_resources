@@ -8567,7 +8567,7 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>CartridgeElectronicReaderAutoFlashTitle</Key>
-      <Value>Point de fusion:</Value>
+      <Value>Point d&apos;ignition :</Value>
     </Record>
     <Record>
       <Key>CartridgeElectronicReaderAutoITitle</Key>
@@ -9235,7 +9235,7 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>ScriptCommandBnazal</Key>
-      <Value>Saute à la ligne c si abs(a) &gt; float.epsilon * 8</Value>
+      <Value>Effectue un saut à la ligne [ c ] si abs(a) &gt; float.epsilon * 8</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSqrt</Key>
@@ -9248,10 +9248,6 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     <Record>
       <Key>ScriptCommandTrunc</Key>
       <Value>Tronque les décimales du nombre réel [ a ] et écrit l&apos;entier dans le registre [ r? ]</Value>
-    </Record>
-    <Record>
-      <Key>ScriptCommandCeil</Key>
-      <Value>Strocke le plus petit entier supérieur à a dans le registre</Value>
     </Record>
     <Record>
       <Key>ScriptCommandFloor</Key>
@@ -9690,6 +9686,10 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
       <Value>Activer un/une</Value>
     </Record>
     <Record>
+      <Key>ActivateExplosiveTooltipKey2</Key>
+      <Value>Compte à rebours en seconde . Le décompte ne peut être annulé, prudence !</Value>
+    </Record>
+    <Record>
       <Key>CommandSave</Key>
       <Value>Sauve la partie avec le nom spécifié en paramètre : &quot;/save nameofsave&quot;</Value>
     </Record>
@@ -10115,6 +10115,10 @@ Le programme Stationeers, qui est fondamentalement ouvert à toute l’humanité
     <Record>
       <Key>StationpediaShatterHeader</Key>
       <Value>Rupture :</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaFlashpointHeader</Key>
+      <Value>Point d&apos;ignition :</Value>
     </Record>
     <Record>
       <Key>StationpediaAutoIgniteHeader</Key>
