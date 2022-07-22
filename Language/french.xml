@@ -9011,15 +9011,15 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>ScriptCommandBdse</Key>
-      <Value>Saute à la ligne a si le dispositif est configuré</Value>
+      <Value>Saute à la ligne [ a ] si le dispositif [ d? ] est configuré</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBdns</Key>
-      <Value>Saute à la ligne a si le dispositif n&apos;est pas configuré</Value>
+      <Value>Saute à la ligne [ a ] si le dispositif [ d? ] n&apos;est pas configuré</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBlt</Key>
-      <Value>Saute à la ligne c si a &lt; b</Value>
+      <Value>Saute à la ligne [ c ] si [ a ] &lt; [ b ]</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBgt</Key>
@@ -9027,19 +9027,19 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>ScriptCommandBle</Key>
-      <Value>Saute à la ligne c si a &lt;= b</Value>
+      <Value>Saute à la ligne [ c ] si [ a ] &lt;= [ b ]</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBge</Key>
-      <Value>Saute à la ligne c si a &gt;= b</Value>
+      <Value>Saute à la ligne [ c ] si [ a ] &gt;= [ b ]</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBeq</Key>
-      <Value>Saute à la ligne c si a == b</Value>
+      <Value>Saute à la ligne [ c ] si [ a ] == [ b ]</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBne</Key>
-      <Value>Saute à la ligne c si a != b</Value>
+      <Value>Saute à la ligne [ c ] si [ a ] != [ b ]</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBap</Key>
@@ -9051,27 +9051,27 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>ScriptCommandBltz</Key>
-      <Value>Saute à la ligne b si a &lt; 0</Value>
+      <Value>Saute à la ligne [ b ] si [ a ] &lt; 0</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBgez</Key>
-      <Value>Saute à la ligne b si a &gt;= 0</Value>
+      <Value>Saute à la ligne [ b ] si [ a ] &gt;= 0</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBlez</Key>
-      <Value>Saute à la ligne b si a &lt;= 0</Value>
+      <Value>Saute à la ligne [ b ] si [ a ] &lt;= 0</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBgtz</Key>
-      <Value>Saute à la ligne b si a &gt; 0</Value>
+      <Value>Saute à la ligne [ b ] si [ a ] &gt; 0</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBeqz</Key>
-      <Value>Saute à la ligne b si a == 0</Value>
+      <Value>Saute à la ligne [ b ] si [ a ] == 0</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBnez</Key>
-      <Value>Saute à la ligne b si a != 0</Value>
+      <Value>Saute à la ligne [ b ] si [ a ] != 0</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBapz</Key>
