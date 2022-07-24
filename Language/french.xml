@@ -7155,7 +7155,7 @@ Veuillez réessayer.</Value>
     </Record>
     <Record>
       <Key>TooltipNeedMoreKit</Key>
-      <Value>&lt;color=red&gt;Besoin plus de : {0}&lt;/color&gt;.</Value>
+      <Value>&lt;color=red&gt;Pas assez de : {0}.</Value>
     </Record>
     <Record>
       <Key>JoinMenuSearchPlaceholder</Key>
@@ -9191,11 +9191,11 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>ScriptCommandBeqal</Key>
-      <Value>Saute à la ligne c si a == b et stocke le numéro de la ligne suivante dans ra</Value>
+      <Value>Effectue un saut à la ligne [ c ] si [ a ]==[ b ] et stocke le numéro de la ligne suivante dans le registre ra(r17)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBneal</Key>
-      <Value>Saute à la ligne c si a != b et stocke le numéro de la ligne suivante dans ra</Value>
+      <Value>Effectue un saut à la ligne [ c ] si [ a ] != [ b ] et stocke le numéro de la ligne suivante dans le registre ra(r17)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBapal</Key>
@@ -9250,8 +9250,12 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
       <Value>Tronque les décimales du nombre réel [ a ] et écrit l&apos;entier dans le registre [ r? ]</Value>
     </Record>
     <Record>
+      <Key>ScriptCommandCeil</Key>
+      <Value>Stocke l&apos;entier supérieur le plus proche de [ a ] dans le registre [ r? ]</Value>
+    </Record>
+    <Record>
       <Key>ScriptCommandFloor</Key>
-      <Value>Stocke le plus grand entier inférieur à [ a ] dans le registre</Value>
+      <Value>Stocke l&apos;entier immédiatement inférieur à [ a ] dans le registre [ r? ]</Value>
     </Record>
     <Record>
       <Key>ScriptCommandMax</Key>
