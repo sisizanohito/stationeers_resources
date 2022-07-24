@@ -6866,7 +6866,7 @@
     </Record>
     <Record>
       <Key>UnableToConstruct</Key>
-      <Value>&lt;color=red&gt;Impossible de construire&lt;/color&gt;.</Value>
+      <Value>&lt;color=red&gt;Construction impossible</Value>
     </Record>
     <Record>
       <Key>PortableConnectionFailure</Key>
