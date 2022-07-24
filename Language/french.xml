@@ -9143,23 +9143,23 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>ScriptCommandBrgtz</Key>
-      <Value>Fait un saut relatif de b lignes si a &gt; 0</Value>
+      <Value>Fait un saut relatif de [ b ] lignes si [ a ] &gt; 0</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBreqz</Key>
-      <Value>Fait un saut relatif de b lignes si a == 0</Value>
+      <Value>Fait un saut relatif de [ b ] lignes si [ a ] == 0</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBrnez</Key>
-      <Value>Fait un saut relatif de b lignes si a != 0</Value>
+      <Value>Fait un saut relatif de [ c ] lignes si abs([ a ]) != float.epsilon * 8</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBrapz</Key>
-      <Value>Fait un saut relatif de c lignes si abs(a) &lt;= float.epsilon * 8</Value>
+      <Value>Fait un saut relatif de [ c ] lignes si abs([ a ]) &lt;= float.epsilon * 8</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBrnaz</Key>
-      <Value>Fait un saut relatif de c lignes si abs(a) &gt; float.epsilon * 8</Value>
+      <Value>Fait un saut relatif de [ c ] lignes si abs([ a ]) &gt; float.epsilon * 8</Value>
     </Record>
     <Record>
       <Key>ScriptCommandJal</Key>
@@ -9171,23 +9171,23 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>ScriptCommandBdnsal</Key>
-      <Value>Sauter l&apos;exécution à la ligne a et enregistrer le numéro de la ligne suivante si l&apos;appareil n&apos;est pas réglé</Value>
+      <Value>Fait sauter l&apos;exécution à la ligne [ a ] et enregistre le numéro de la ligne suivante en ra(r17) si le dispositif [ d? ] n&apos;est pas initialisé.</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBltal</Key>
-      <Value>Saute à la ligne c si a &lt; b et stocke le numéro de la ligne suivante dans ra</Value>
+      <Value>Effectue un saut à la ligne [ c ] si [ a ] &lt; [ b ] et stocke le numéro de la ligne suivante dans le registre ra(r17)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBgtal</Key>
-      <Value>Saute à la ligne c si a &gt; b et stocke le numéro de la ligne suivante dans ra</Value>
+      <Value>Effectue un saut à la ligne [ c ] si [ a ] &gt; [ b ] et stocke le numéro de la ligne suivante dans le registre ra(r17)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBleal</Key>
-      <Value>Saute à la ligne c si a &lt;= b et stocke le numéro de la ligne suivante dans ra</Value>
+      <Value>Effectue un saut à la ligne [ c ] si [ a ] &lt;= [ b ] et stocke le numéro de la ligne suivante dans le registre ra(r17)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBgeal</Key>
-      <Value>Saute à la ligne c si a &gt;= b et stocke le numéro de la ligne suivante dans ra</Value>
+      <Value>Effectue un saut à la ligne [ c ] si [ a ] &gt;= [ b ] et stocke le numéro de la ligne suivante dans le registre ra(r17)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBeqal</Key>
