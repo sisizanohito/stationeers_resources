@@ -30,6 +30,10 @@
       <Value>Déshydratation critique</Value>
     </Record>
     <Record>
+      <Key>StatusIconToxinCritical</Key>
+      <Value>[TEST] État critique</Value>
+    </Record>
+    <Record>
       <Key>StatusIconOxygenName</Key>
       <Value>Approvisionnement en oxygène</Value>
     </Record>
