@@ -5010,10 +5010,6 @@
       <Key>StructurePassiveLargeRadiatorGas</Key>
       <Value/>
     </RecordThing>
-    <RecordThing>
-      <Key>StructureLogicGate</Key>
-      <Value>逻辑计算器</Value>
-    </RecordThing>
   </Things>
   <Slots>
     <Record>

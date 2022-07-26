@@ -5451,10 +5451,6 @@
       <Key>StructurePassiveLargeRadiatorGas</Key>
       <Value/>
     </RecordThing>
-    <RecordThing>
-      <Key>StructureLogicGate</Key>
-      <Value>Чип (Арифметика)</Value>
-    </RecordThing>
   </Things>
   <Slots>
     <Record>

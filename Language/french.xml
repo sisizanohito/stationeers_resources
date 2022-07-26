@@ -5396,10 +5396,6 @@
       <Key>StructurePassiveLargeRadiatorGas</Key>
       <Value/>
     </RecordThing>
-    <RecordThing>
-      <Key>StructureLogicGate</Key>
-      <Value>Unité Logique: Mathématique</Value>
-    </RecordThing>
   </Things>
   <Slots>
     <Record>

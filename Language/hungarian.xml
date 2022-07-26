@@ -4911,10 +4911,6 @@
       <Key>StructurePassiveLargeRadiatorGas</Key>
       <Value/>
     </RecordThing>
-    <RecordThing>
-      <Key>StructureLogicGate</Key>
-      <Value>Logika: matek</Value>
-    </RecordThing>
   </Things>
   <Slots>
     <Record>

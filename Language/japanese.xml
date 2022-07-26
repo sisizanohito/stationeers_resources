@@ -4636,10 +4636,6 @@
       <Key>StructurePassiveLargeRadiatorGas</Key>
       <Value/>
     </RecordThing>
-    <RecordThing>
-      <Key>StructureLogicGate</Key>
-      <Value>ロジック 計算</Value>
-    </RecordThing>
   </Things>
   <Slots>
     <Record>

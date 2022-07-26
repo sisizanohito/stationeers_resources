@@ -3184,10 +3184,6 @@
       <Key>ItemKitStirlingEngine</Key>
       <Value>로켓 엔진</Value>
     </RecordThing>
-    <RecordThing>
-      <Key>StructureLogicGate</Key>
-      <Value>수학 로직</Value>
-    </RecordThing>
   </Things>
   <Slots>
     <Record>

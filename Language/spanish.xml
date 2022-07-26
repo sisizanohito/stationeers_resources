@@ -5528,10 +5528,6 @@ Altamente sensible a la temperatura, el oxite comenzará a derretirse tan pronto
       <Key>StructurePassiveLargeRadiatorGas</Key>
       <Value/>
     </RecordThing>
-    <RecordThing>
-      <Key>StructureLogicGate</Key>
-      <Value>Matematico Lógico</Value>
-    </RecordThing>
   </Things>
   <Slots>
     <Record>

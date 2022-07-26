@@ -4044,10 +4044,6 @@
       <Key>ItemKitStirlingEngine</Key>
       <Value>Motore a razzo</Value>
     </RecordThing>
-    <RecordThing>
-      <Key>StructureLogicGate</Key>
-      <Value>Unità Logica: Matematica</Value>
-    </RecordThing>
   </Things>
   <Slots>
     <Record>

@@ -5002,10 +5002,6 @@
       <Key>StructurePassiveLargeRadiatorGas</Key>
       <Value/>
     </RecordThing>
-    <RecordThing>
-      <Key>StructureLogicGate</Key>
-      <Value>Mantık Matematiği</Value>
-    </RecordThing>
   </Things>
   <Slots>
     <Record>

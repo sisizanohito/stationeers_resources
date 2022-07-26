@@ -2852,10 +2852,6 @@
     <RecordThing>
       <Key>StructureRocketModuleMiningJunk</Key>
     </RecordThing>
-    <RecordThing>
-      <Key>StructureLogicGate</Key>
-      <Value>Transmissor Lgico</Value>
-    </RecordThing>
   </Things>
   <Slots>
     <Record>

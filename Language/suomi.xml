@@ -3940,10 +3940,6 @@
       <Key>ItemKitStirlingEngine</Key>
       <Value>Rakettimoottori</Value>
     </RecordThing>
-    <RecordThing>
-      <Key>StructureLogicGate</Key>
-      <Value>Matematiikkasuoritin</Value>
-    </RecordThing>
   </Things>
   <Slots>
     <Record>
