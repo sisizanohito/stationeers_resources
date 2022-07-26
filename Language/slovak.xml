@@ -1460,6 +1460,10 @@
       <Value>Circuitboard (Graph Display)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemKitPipeValve</Key>
+      <Value>Item Kit Pipe Valve</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>CircuitboardAdvAirlockControl</Key>
       <Value>Circuitboard (Advanced Airlock)</Value>
     </RecordThing>
@@ -2274,6 +2278,14 @@
       <Key>ItemKitHorizontalAutoMiner</Key>
       <Value>Rocket Engine</Value>
     </RecordThing>
+    <RecordThing>
+      <Key>ItemKitStirlingEngine</Key>
+      <Value>Rocket Engine</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLogicGate</Key>
+      <Value>Logic Math</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>
@@ -2440,6 +2452,10 @@
     </Record>
   </Interactables>
   <Interface>
+    <Record>
+      <Key>RespawnConditionStationeer</Key>
+      <Value>Opustiť Stationeers</Value>
+    </Record>
     <Record>
       <Key>MainMenuContinue</Key>
       <Value>Pokračovať</Value>
@@ -3085,6 +3101,10 @@ Scroll &lt;color=red&gt;Mouse Wheel&lt;/color&gt; for more options.</Value>
     <Record>
       <Key>PromptPublishTitle</Key>
       <Value>Publikovať do Workshopu</Value>
+    </Record>
+    <Record>
+      <Key>PromptDeleteTitle</Key>
+      <Value>Delete Save</Value>
     </Record>
     <Record>
       <Key>AlertNoResponse</Key>

@@ -3971,6 +3971,10 @@
       <Value>Śrubokręt Mk II</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemKitWaterBottleFiller</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitLiquidTankInsulated</Key>
       <Value/>
     </RecordThing>
@@ -3988,6 +3992,26 @@
     <RecordThing>
       <Key>StructureLiquidDrain</Key>
       <Value>Drenaż</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemSoundCartridgeLeads</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemSoundCartridgeSynth</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitMusicMachines</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemInsulatedTankConnector</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemInsulatedTankConnectorLiquid</Key>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>StructureFridgeBig</Key>
@@ -4034,12 +4058,48 @@
       <Value>Silnik Rakietowy (Duzy)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemKitStirlingEngine</Key>
+      <Value>Silnik Rakietowy (Duzy)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitLargeExtendableRadiator</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageLargeExtendableRadiator01</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureWaterBottleFillerPoweredBottom</Key>
       <Value/>
     </RecordThing>
     <RecordThing>
       <Key>StructureWaterBottleFillerPowered</Key>
       <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitPassiveLargeRadiator</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePassiveLargeRadiator</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitPassiveLargeRadiatorGas</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitPassiveLargeRadiatorLiquid</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePassiveLargeRadiatorGas</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLogicGate</Key>
+      <Value>Logic Math</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -4759,6 +4819,10 @@
     </Record>
   </Interactables>
   <Interface>
+    <Record>
+      <Key>RespawnConditionStationeer</Key>
+      <Value>Stationeers</Value>
+    </Record>
     <Record>
       <Key>SoonTM</Key>
       <Value>Wkrótce...</Value>

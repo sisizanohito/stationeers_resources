@@ -4765,7 +4765,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitWaterBottleFiller</Key>
-      <Value>Kit de llenado de botellas de agua</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidTankBig</Key>
@@ -4960,27 +4960,27 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemSoundCartridgeBass</Key>
-      <Value>Artículo Cartucho de sonido Bass</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>ItemSoundCartridgeDrums</Key>
-      <Value>Artículo cartucho de Tambores de sonido</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>ItemSoundCartridgeLeads</Key>
-      <Value>Artículo cartucho de guias de sonido</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>ItemSoundCartridgeSynth</Key>
-      <Value>Artículo cartucho de Sintetizador de sonido</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitMusicMachines</Key>
-      <Value>Kit de Máquinas de música</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>ItemInsulatedTankConnector</Key>
-      <Value>Kit de Conector de tanque aislado</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedTankConnector</Key>
@@ -4988,7 +4988,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemInsulatedTankConnectorLiquid</Key>
-      <Value>Kit de conector de tanque aislado de liquidos</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedTankConnectorLiquid</Key>
@@ -5096,7 +5096,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPlanter</Key>
-      <Value>Kit de artículos Jardinera</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>StructureAutomatedOven</Key>
@@ -5316,11 +5316,11 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemMkIIToolbelt</Key>
-      <Value>Artículo Cinturón de herramientas Mk II </Value>
+      <Value>Un cinturón de herramientas grande de diez ranuras con dos ranuras genéricas adicionales para llevar lo que le apetezca.</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemMiningBeltMKII</Key>
-      <Value>Artículo Cinturón de minería MK II</Value>
+      <Value>Un cinturón minero más grande y espacioso, el Mk II es similar al {THING:ItemMiningBelt}, pero tiene 13 ranuras en lugar de las 8 básicas, para aumentar la duración de sus viajes de minería. También tiene espacio para dos herramientas. </Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidPipeOneWayValve</Key>
@@ -5388,7 +5388,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitStirlingEngine</Key>
-      <Value>Kit de artículos Motor Stirling</Value>
+      <Value>Crea un {THING:StructureStirlingEngine}.</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureStirlingEngine</Key>
@@ -5432,7 +5432,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPowerTransmitter</Key>
-      <Value>Kit de artículos Transmisor de potencia</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>StructureInteriorDoorTriangle</Key>
@@ -5464,7 +5464,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPowerTransmitterOmni</Key>
-      <Value>Kit de artículos Transmisor de potencia Omni</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>StructurePowerTransmitterOmni</Key>
@@ -5472,15 +5472,23 @@
     </RecordThing>
     <RecordThing>
       <Key>Battery_Wireless_cell</Key>
-      <Value>Batería de celdas Inhalámbricas</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>Battery_Wireless_cell_Big</Key>
-      <Value>Batería de celdas Inhalámbricas Grande</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>DynamicLightNetworkTest</Key>
       <Value>Prueba de red de luz dinámica</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitLargeExtendableRadiator</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageLargeExtendableRadiator01</Key>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>StructureWaterBottleFillerPoweredBottom</Key>
@@ -5495,6 +5503,34 @@
       <Value>El hielo de oxite está compuesto en gran parte de oxígeno congelado y se encuentra en muchos planetas del Sistema Solar. Muy valioso y buscado, no todos los planetas son &lt;color=#0080FFFF&gt;{LINK:Stationeers;Stationeer}&lt;/color&gt; tendrán oxite. 
 
 Altamente sensible a la temperatura, el oxite comenzará a derretirse tan pronto como se extrae, a menos que la temperatura sea inferior a cero, o se almacene en el {THING:ItemMiningBelt}, {THING:ItemMiningBeltAdvanced} o dispositivos como {THING:StructureIceCrusher} o {THING:StructureFridgeSmall}. Al fundirse, el oxite produce una mezcla de oxígeno y nitrógeno.</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitPassiveLargeRadiator</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePassiveLargeRadiator</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitPassiveLargeRadiatorGas</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitPassiveLargeRadiatorLiquid</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePassiveLargeRadiatorLiquid</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePassiveLargeRadiatorGas</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLogicGate</Key>
+      <Value>Matematico Lógico</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -6194,6 +6230,10 @@ Altamente sensible a la temperatura, el oxite comenzará a derretirse tan pronto
     </Record>
   </Interactables>
   <Interface>
+    <Record>
+      <Key>RespawnConditionStationeer</Key>
+      <Value>Stationeers</Value>
+    </Record>
     <Record>
       <Key>SlotKey</Key>
       <Value>Ranura</Value>

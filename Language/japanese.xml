@@ -4458,6 +4458,10 @@
       <Value>Mk II ダクトテープ</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemKitWaterBottleFiller</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureLiquidTankBig</Key>
       <Value>大型液体タンク</Value>
     </RecordThing>
@@ -4495,6 +4499,10 @@
     <RecordThing>
       <Key>StopWatch</Key>
       <Value>ストップウォッチ</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitMusicMachines</Key>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>PassiveSpeaker</Key>
@@ -4557,6 +4565,10 @@
       <Value>キット プランター</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemKitPlanter</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitLiquidTurboVolumePump</Key>
       <Value>キット (ターボボリュームポンプ - 液体)</Value>
     </RecordThing>
@@ -4569,12 +4581,32 @@
       <Value>ノート PC</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemKitStirlingEngine</Key>
+      <Value>{THING:StructureStirlingEngine} を作成。</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitInteriorDoors</Key>
       <Value>キット (室内ドア)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPowerTransmitterOmni</Key>
-      <Value>アイテムキット パワートランスミッタ オムニ</Value>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>Battery_Wireless_cell</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>Battery_Wireless_cell_Big</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitLargeExtendableRadiator</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageLargeExtendableRadiator01</Key>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>StructureWaterBottleFillerPoweredBottom</Key>
@@ -4583,6 +4615,30 @@
     <RecordThing>
       <Key>StructureWaterBottleFillerPowered</Key>
       <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitPassiveLargeRadiator</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePassiveLargeRadiator</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitPassiveLargeRadiatorGas</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitPassiveLargeRadiatorLiquid</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePassiveLargeRadiatorGas</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLogicGate</Key>
+      <Value>ロジック 計算</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -5302,6 +5358,10 @@
     </Record>
   </Interactables>
   <Interface>
+    <Record>
+      <Key>RespawnConditionStationeer</Key>
+      <Value>Stationeers</Value>
+    </Record>
     <Record>
       <Key>SlotKey</Key>
       <Value>スロット</Value>

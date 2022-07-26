@@ -4903,7 +4903,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitWaterBottleFiller</Key>
-      <Value>Kit (Remplisseur de bouteille d’eau)</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidTankBig</Key>
@@ -5061,8 +5061,16 @@
       <Value/>
     </RecordThing>
     <RecordThing>
+      <Key>ItemSoundCartridgeLeads</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemSoundCartridgeSynth</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitMusicMachines</Key>
-      <Value>Kit (Machine à musique)</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>ItemInsulatedTankConnector</Key>
@@ -5170,7 +5178,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPlanter</Key>
-      <Value>Kit (Planteur)</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>StructureAutomatedOven</Key>
@@ -5273,14 +5281,6 @@
       <Value>Ce kit crée une {THING:StructureVolumePump}. Ca pompe !</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemMkIIToolbelt</Key>
-      <Value>Ceinture d&apos;outils MK II</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemMiningBeltMKII</Key>
-      <Value>Ceinture de mineur MK II</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>StructureWindowShutter</Key>
       <Value>Volet de fenêtre</Value>
     </RecordThing>
@@ -5294,7 +5294,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitStirlingEngine</Key>
-      <Value>Kit (Moteur Stirling)</Value>
+      <Value>Caisse de {THING:StructureRocketModuleSilo}.</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePowerTransmitter</Key>
@@ -5314,7 +5314,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPowerTransmitter</Key>
-      <Value>Kit (Transmetteur de courant)</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>StructureInteriorDoorTriangle</Key>
@@ -5338,15 +5338,27 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPowerTransmitterOmni</Key>
-      <Value>Kit (Transmetteur de courant Omni)</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>StructurePowerTransmitterOmni</Key>
       <Value>Construction d&apos;un transmetteur de courant Omni</Value>
     </RecordThing>
     <RecordThing>
+      <Key>Battery_Wireless_cell</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>Battery_Wireless_cell_Big</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitLargeExtendableRadiator</Key>
-      <Value>Kit (Grand radiateur extensible)</Value>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageLargeExtendableRadiator01</Key>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>StructureWaterBottleFillerPoweredBottom</Key>
@@ -5365,12 +5377,28 @@
       <Value/>
     </RecordThing>
     <RecordThing>
+      <Key>StructurePassiveLargeRadiator</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitPassiveLargeRadiatorGas</Key>
       <Value/>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPassiveLargeRadiatorLiquid</Key>
       <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePassiveLargeRadiatorLiquid</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePassiveLargeRadiatorGas</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLogicGate</Key>
+      <Value>Unité Logique: Mathématique</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -6078,6 +6106,10 @@
     </Record>
   </Interactables>
   <Interface>
+    <Record>
+      <Key>RespawnConditionStationeer</Key>
+      <Value>Stationeers</Value>
+    </Record>
     <Record>
       <Key>SlotKey</Key>
       <Value>Emplacement</Value>

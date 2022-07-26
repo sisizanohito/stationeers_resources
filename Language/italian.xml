@@ -4040,6 +4040,14 @@
       <Key>ItemKitHorizontalAutoMiner</Key>
       <Value>Motore a razzo</Value>
     </RecordThing>
+    <RecordThing>
+      <Key>ItemKitStirlingEngine</Key>
+      <Value>Motore a razzo</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLogicGate</Key>
+      <Value>Unità Logica: Matematica</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>
@@ -4614,6 +4622,10 @@
     </Record>
   </Interactables>
   <Interface>
+    <Record>
+      <Key>RespawnConditionStationeer</Key>
+      <Value>Esci da Stationeers</Value>
+    </Record>
     <Record>
       <Key>MainMenuContinue</Key>
       <Value>Continua</Value>

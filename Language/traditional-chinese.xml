@@ -4909,6 +4909,10 @@
       <Value>氣密膠帶 MK2</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemKitWaterBottleFiller</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureLiquidTankBig</Key>
       <Value>液體壓力槽大型</Value>
     </RecordThing>
@@ -4953,6 +4957,14 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitHangerDoor</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemSoundCartridgeLeads</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemSoundCartridgeSynth</Key>
       <Value/>
     </RecordThing>
     <RecordThing>
@@ -5098,6 +5110,46 @@
     <RecordThing>
       <Key>ItemKitPowerTransmitterOmni</Key>
       <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>Battery_Wireless_cell</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>Battery_Wireless_cell_Big</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitLargeExtendableRadiator</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageLargeExtendableRadiator01</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitPassiveLargeRadiator</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePassiveLargeRadiator</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitPassiveLargeRadiatorGas</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitPassiveLargeRadiatorLiquid</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePassiveLargeRadiatorGas</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLogicGate</Key>
+      <Value>邏輯計算器</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -5805,6 +5857,10 @@
     </Record>
   </Interactables>
   <Interface>
+    <Record>
+      <Key>RespawnConditionStationeer</Key>
+      <Value>Stationeers</Value>
+    </Record>
     <Record>
       <Key>SlotKey</Key>
       <Value>插槽</Value>

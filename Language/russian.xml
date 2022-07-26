@@ -5026,7 +5026,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitWaterBottleFiller</Key>
-      <Value>Набор (Разливочная Машина Воды)</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidTankBig</Key>
@@ -5193,6 +5193,14 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitHangerDoor</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemSoundCartridgeLeads</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemSoundCartridgeSynth</Key>
       <Value/>
     </RecordThing>
     <RecordThing>
@@ -5400,12 +5408,52 @@
       <Value/>
     </RecordThing>
     <RecordThing>
+      <Key>Battery_Wireless_cell</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>Battery_Wireless_cell_Big</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitLargeExtendableRadiator</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageLargeExtendableRadiator01</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureWaterBottleFillerPoweredBottom</Key>
       <Value/>
     </RecordThing>
     <RecordThing>
       <Key>StructureWaterBottleFillerPowered</Key>
       <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitPassiveLargeRadiator</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePassiveLargeRadiator</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitPassiveLargeRadiatorGas</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitPassiveLargeRadiatorLiquid</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePassiveLargeRadiatorGas</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLogicGate</Key>
+      <Value>Чип (Арифметика)</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -6117,6 +6165,10 @@
     </Record>
   </Interactables>
   <Interface>
+    <Record>
+      <Key>RespawnConditionStationeer</Key>
+      <Value>Станционеры</Value>
+    </Record>
     <Record>
       <Key>SlotKey</Key>
       <Value>Слот</Value>

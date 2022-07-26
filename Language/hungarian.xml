@@ -4716,6 +4716,14 @@
       <Value/>
     </RecordThing>
     <RecordThing>
+      <Key>ItemSoundCartridgeLeads</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemSoundCartridgeSynth</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitMusicMachines</Key>
       <Value/>
     </RecordThing>
@@ -4836,6 +4844,10 @@
       <Value>Elkészít egy {THING:StructureRocketModuleSilo}-t.</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemKitStirlingEngine</Key>
+      <Value>Elkészít egy {THING:StructureRocketModuleSilo}-t.</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureShortLocker</Key>
       <Value/>
     </RecordThing>
@@ -4856,12 +4868,52 @@
       <Value/>
     </RecordThing>
     <RecordThing>
+      <Key>Battery_Wireless_cell</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>Battery_Wireless_cell_Big</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitLargeExtendableRadiator</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageLargeExtendableRadiator01</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureWaterBottleFillerPoweredBottom</Key>
       <Value/>
     </RecordThing>
     <RecordThing>
       <Key>StructureWaterBottleFillerPowered</Key>
       <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitPassiveLargeRadiator</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePassiveLargeRadiator</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitPassiveLargeRadiatorGas</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitPassiveLargeRadiatorLiquid</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePassiveLargeRadiatorGas</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLogicGate</Key>
+      <Value>Logika: matek</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -5445,6 +5497,10 @@
     </Record>
   </Interactables>
   <Interface>
+    <Record>
+      <Key>RespawnConditionStationeer</Key>
+      <Value>Stationeers</Value>
+    </Record>
     <Record>
       <Key>SoonTM</Key>
       <Value>Hamarosan...</Value>

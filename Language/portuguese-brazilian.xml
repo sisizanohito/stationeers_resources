@@ -2852,6 +2852,10 @@
     <RecordThing>
       <Key>StructureRocketModuleMiningJunk</Key>
     </RecordThing>
+    <RecordThing>
+      <Key>StructureLogicGate</Key>
+      <Value>Transmissor Lgico</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>
@@ -3430,6 +3434,10 @@
     </Record>
   </Interactables>
   <Interface>
+    <Record>
+      <Key>RespawnConditionStationeer</Key>
+      <Value>Sair do Stationeers</Value>
+    </Record>
     <Record>
       <Key>MainMenuContinue</Key>
       <Value>Continuar</Value>

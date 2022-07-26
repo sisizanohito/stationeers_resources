@@ -4290,6 +4290,14 @@
       <Key>ItemKitHorizontalAutoMiner</Key>
       <Value>Motor de Foguete</Value>
     </RecordThing>
+    <RecordThing>
+      <Key>ItemKitStirlingEngine</Key>
+      <Value>Motor de Foguete</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLogicGate</Key>
+      <Value>Chip Lógico Unidade Matemática</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>
@@ -4996,6 +5004,10 @@
     </Record>
   </Interactables>
   <Interface>
+    <Record>
+      <Key>RespawnConditionStationeer</Key>
+      <Value>Sair do Stationeers</Value>
+    </Record>
     <Record>
       <Key>MainMenuContinue</Key>
       <Value>Continuar</Value>
