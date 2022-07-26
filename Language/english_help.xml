@@ -413,11 +413,7 @@ The rocket's mode is set via the device's 'activate' value. The mode determines 
 Below are the WORLD TRAVEL IDs. You can use them to travel to specific planets, when combined with a completed {LINK:RocketShuttlePage;Rocket Shuttle} and {LINK:LogicUnitPage;Logic Units}.
        
 Simply write the hash to the setting variable on {THING:StructureLaunchPad} with a {THING:StructureLogicWriter} and a {THING:StructureLogicMemory}. Note: You can click on a hash to copy it to the clipboard.
-      
-
-      {LIST}
-        {WORLD_HASHES}
-      {/LIST}
+{LIST}{WORLD_HASHES}{/LIST}
       </Text>
     </StationpediaPage>
 <StationpediaPage>

@@ -3549,7 +3549,7 @@ Insert a cartridge or color scanner into the tablet, then press the activate but
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPipeValve</Key>
-      <Value>Item Kit Pipe Valve</Value>
+      <Value>Kit (Pipe Valve)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitDynamicGenerator</Key>
@@ -4840,7 +4840,7 @@ When landing, the rocket will deploy a lander, and any cargo contained in the {T
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAirlockGate</Key>
-      <Value>Item Kit Airlock Gate</Value>
+      <Value>Kit (Airlock Gate)</Value>
       <Description>Description coming.</Description>
     </RecordThing>
     <RecordThing>
@@ -5026,27 +5026,27 @@ Able to store up to 9000001 watts of power, there are no practical limits to its
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageElectronicsPrinter1</Key>
-      <Value>Item Wreckage Electronics Printer1</Value>
+      <Value>Wreckage Electronics Printer1</Value>
       <Description>Description coming.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageElectronicsPrinter2</Key>
-      <Value>Item Wreckage Electronics Printer2</Value>
+      <Value>Wreckage Electronics Printer2</Value>
       <Description>Description coming.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageElectronicsPrinter3</Key>
-      <Value>Item Wreckage Electronics Printer3</Value>
+      <Value>Wreckage Electronics Printer3</Value>
       <Description>Description coming.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageElectronicsPrinter4</Key>
-      <Value>Item Wreckage Electronics Printer4</Value>
+      <Value>Wreckage Electronics Printer4</Value>
       <Description>Description coming.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageElectronicsPrinter5</Key>
-      <Value>Item Wreckage Electronics Printer5</Value>
+      <Value>Wreckage Electronics Printer5</Value>
       <Description>Description coming.</Description>
     </RecordThing>
     <RecordThing>
@@ -5898,7 +5898,7 @@ To use on yourself: put duct tape in your active hand, hold RIGHT MOUSE BUTTON t
     </RecordThing>
     <RecordThing>
       <Key>ItemKitWaterBottleFiller</Key>
-      <Value>Item Kit Water Bottle Filler</Value>
+      <Value>Kit (Water Bottle Filler)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
@@ -6183,32 +6183,32 @@ Central to this pasttime is the step sequencer, which allows Stationeers to sequ
     </RecordThing>
     <RecordThing>
       <Key>ItemSoundCartridgeBass</Key>
-      <Value>Item Sound Cartridge Bass</Value>
+      <Value>Sound Cartridge Bass</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemSoundCartridgeDrums</Key>
-      <Value>Item Sound Cartridge Drums</Value>
+      <Value>Sound Cartridge Drums</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemSoundCartridgeLeads</Key>
-      <Value>Item Sound Cartridge Leads</Value>
+      <Value>Sound Cartridge Leads</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemSoundCartridgeSynth</Key>
-      <Value>Item Sound Cartridge Synth</Value>
+      <Value>Sound Cartridge Synth</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemKitMusicMachines</Key>
-      <Value>Item Kit Music Machines</Value>
+      <Value>Kit (Music Machines)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemInsulatedTankConnector</Key>
-      <Value>Kit Insulated Tank Connector</Value>
+      <Value>Insulated (Tank Connector)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
@@ -6218,7 +6218,7 @@ Central to this pasttime is the step sequencer, which allows Stationeers to sequ
     </RecordThing>
     <RecordThing>
       <Key>ItemInsulatedTankConnectorLiquid</Key>
-      <Value>Kit Insulated Tank Connector Liquid</Value>
+      <Value>Kit (Insulated Tank Connector Liquid)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
@@ -6432,7 +6432,7 @@ Note: the Cannifier will flash an error on its activation switch if you attempt 
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPlanter</Key>
-      <Value>Item Kit Planter</Value>
+      <Value>Kit (Planter)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
@@ -6708,12 +6708,12 @@ Note: the Cannifier will flash an error on its activation switch if you attempt 
     </RecordThing>
     <RecordThing>
       <Key>ItemMkIIToolbelt</Key>
-      <Value>Item Mk II Tool Belt</Value>
+      <Value>Tool Belt MK II</Value>
       <Description>A large, ten-slot tool belt with two extra generic slots for carrying whatever takes your fancy.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemMiningBeltMKII</Key>
-      <Value>Item Mining Belt MK II</Value>
+      <Value>Mining Belt MK II</Value>
       <Description>A larger and more capacious mining belt, the Mk II is similar to the {THING:ItemMiningBelt}, but has 13 slots instead of the basic 8, to increase the length of your mining trips. It also has space for two tools. </Description>
     </RecordThing>
     <RecordThing>
@@ -6822,7 +6822,7 @@ The Slaptop requires a {THING:MotherboardProgrammableChip} for operation.</Descr
     </RecordThing>
     <RecordThing>
       <Key>ItemKitStirlingEngine</Key>
-      <Value>Item Kit Stirling Engine</Value>
+      <Value>Kit (Stirling Engine)</Value>
       <Description>Creates a {THING:StructureStirlingEngine}.</Description>
     </RecordThing>
     <RecordThing>
@@ -6883,7 +6883,7 @@ The transmitter must be aligned to the base station in order to transmit any pow
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPowerTransmitter</Key>
-      <Value>Item Kit Power Transmitter</Value>
+      <Value>Kit (Power Transmitter)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
@@ -6923,7 +6923,7 @@ The transmitter must be aligned to the base station in order to transmit any pow
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPowerTransmitterOmni</Key>
-      <Value>Item Kit Power Transmitter Omni</Value>
+      <Value>Kit (Power Transmitter Omni)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
@@ -6933,12 +6933,12 @@ The transmitter must be aligned to the base station in order to transmit any pow
     </RecordThing>
     <RecordThing>
       <Key>Battery_Wireless_cell</Key>
-      <Value>Battery_ Wireless_cell</Value>
+      <Value>Battery Wireless Cell</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>Battery_Wireless_cell_Big</Key>
-      <Value>Battery_ Wireless_cell_ Big</Value>
+      <Value>Battery Wireless Cell (Big)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
@@ -6948,7 +6948,7 @@ The transmitter must be aligned to the base station in order to transmit any pow
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLargeExtendableRadiator</Key>
-      <Value>Item Kit Large Extendable Radiator</Value>
+      <Value>Kit (Large Extendable Radiator)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
@@ -6958,7 +6958,7 @@ The transmitter must be aligned to the base station in order to transmit any pow
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageLargeExtendableRadiator01</Key>
-      <Value>Item Wreckage Large Extendable Radiator01</Value>
+      <Value>Wreckage Large Extendable Radiator</Value>
       <Description />
     </RecordThing>
     <RecordThing>
@@ -6980,33 +6980,38 @@ Highly sensitive to temperature, nitrice will begin to melt as soon as it is min
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPassiveLargeRadiator</Key>
-      <Value>Item Kit Passive Large Radiator</Value>
+      <Value>Kit (Passive Large Radiator)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>StructurePassiveLargeRadiator</Key>
-      <Value>Structure Passive Large Radiator</Value>
+      <Value>Passive Large Radiator</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPassiveLargeRadiatorGas</Key>
-      <Value>Item Kit Passive Large Radiator Gas</Value>
+      <Value>Kit (Passive Large Radiator Gas)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPassiveLargeRadiatorLiquid</Key>
-      <Value>Item Kit Passive Large Radiator Liquid</Value>
+      <Value>Kit (Passive Large Radiator Liquid)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>StructurePassiveLargeRadiatorLiquid</Key>
-      <Value>Structure Passive Large Radiator Liquid</Value>
+      <Value>Passive Large Radiator Liquid</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>StructurePassiveLargeRadiatorGas</Key>
-      <Value>Structure Passive Large Radiator Gas</Value>
+      <Value>Passive Large Radiator Gas</Value>
       <Description />
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLogicGate</Key>
+      <Value>Logic Gate</Value>
+      <Description>A {LINK:LogicPage;logic} device that performs a logical operation on one or more binary inputs that produces a single binary output. An input greater than zero is considered true for operations.</Description>
     </RecordThing>
   </Things>
   <Slots>
@@ -7730,6 +7735,18 @@ Highly sensitive to temperature, nitrice will begin to melt as soon as it is min
     </Record>
   </Interactables>
   <Interface>
+    <Record>
+      <Key>RespawnConditionEasy</Key>
+      <Value>Easy</Value>
+    </Record>
+    <Record>
+      <Key>RespawnConditionNormal</Key>
+      <Value>Normal</Value>
+    </Record>
+    <Record>
+      <Key>RespawnConditionStationeer</Key>
+      <Value>Stationeer</Value>
+    </Record>
     <Record>
       <Key>SlotKey</Key>
       <Value>Slot</Value>
@@ -8762,7 +8779,7 @@ Highly sensitive to temperature, nitrice will begin to melt as soon as it is min
     </Record>
     <Record>
       <Key>PromptDeleteTitle</Key>
-      <Value>Delete Save</Value>
+      <Value>Delete Entire Save</Value>
     </Record>
     <Record>
       <Key>PromptDeleteBody</Key>
@@ -12282,15 +12299,11 @@ Recruiting from civil engineering backgrounds, military and aerospace industries
     </Record>
     <Record>
       <Key>StationpediaLogicHeader</Key>
-      <Value>
-        Logic
-</Value>
+      <Value>Logic</Value>
     </Record>
     <Record>
       <Key>StationpediaLogicSlotHeader</Key>
-      <Value>
-        Logic Slots
-</Value>
+      <Value>Logic Slots</Value>
     </Record>
     <Record>
       <Key>StationpediaTutorialListHeader</Key>
