@@ -5337,6 +5337,10 @@
       <Value>Kit (Portes d&apos;intérieure)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureUnpoweredHatch</Key>
+      <Value>Construction d&apos;une trappe d&apos;accès non alimentée</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitPowerTransmitterOmni</Key>
       <Value/>
     </RecordThing>
