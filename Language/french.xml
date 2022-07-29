@@ -7046,7 +7046,7 @@
     </Record>
     <Record>
       <Key>PromptQuitBody</Key>
-      <Value>Êtes-vous sûr de vouloir quitter ?</Value>
+      <Value>Êtes-vous sûr de vouloir quitter le jeu ?</Value>
     </Record>
     <Record>
       <Key>PromptQuitConfirm</Key>
