@@ -5372,15 +5372,15 @@
     </Record>
     <Record>
       <Key>GrabThighL</Key>
-      <Value>抓住左大腿</Value>
+      <Value>抓住左侧大腿</Value>
     </Record>
     <Record>
       <Key>GrabCalfR</Key>
-      <Value>抓住右小腿</Value>
+      <Value>抓住右侧小腿</Value>
     </Record>
     <Record>
       <Key>GrabCalfL</Key>
-      <Value>抓住左小腿</Value>
+      <Value>抓住左侧小腿</Value>
     </Record>
     <Record>
       <Key>Drag</Key>
@@ -5392,43 +5392,43 @@
     </Record>
     <Record>
       <Key>Button1</Key>
-      <Value>按键1</Value>
+      <Value>1号按键</Value>
     </Record>
     <Record>
       <Key>Slot3</Key>
-      <Value>插槽 3</Value>
+      <Value>3号插槽</Value>
     </Record>
     <Record>
       <Key>Slot4</Key>
-      <Value>插槽4</Value>
+      <Value>4号插槽</Value>
     </Record>
     <Record>
       <Key>Slot5</Key>
-      <Value>插槽5</Value>
+      <Value>5号插槽</Value>
     </Record>
     <Record>
       <Key>Slot6</Key>
-      <Value>插槽6</Value>
+      <Value>6号插槽</Value>
     </Record>
     <Record>
       <Key>Slot7</Key>
-      <Value>插槽7</Value>
+      <Value>7号插槽</Value>
     </Record>
     <Record>
       <Key>Slot8</Key>
-      <Value>插槽8</Value>
+      <Value>8号插槽</Value>
     </Record>
     <Record>
       <Key>Slot9</Key>
-      <Value>插槽9</Value>
+      <Value>9号插槽</Value>
     </Record>
     <Record>
       <Key>Slot10</Key>
-      <Value>插槽10</Value>
+      <Value>10号插槽</Value>
     </Record>
     <Record>
       <Key>Button2</Key>
-      <Value>按键2</Value>
+      <Value>2号按键</Value>
     </Record>
     <Record>
       <Key>SplitOne</Key>
@@ -5488,43 +5488,43 @@
     </Record>
     <Record>
       <Key>Button3</Key>
-      <Value>按键3</Value>
+      <Value>3号按键</Value>
     </Record>
     <Record>
       <Key>Slot11</Key>
-      <Value>插槽11</Value>
+      <Value>11号插槽</Value>
     </Record>
     <Record>
       <Key>Slot12</Key>
-      <Value>插槽12</Value>
+      <Value>12号插槽</Value>
     </Record>
     <Record>
       <Key>Slot13</Key>
-      <Value>插槽13</Value>
+      <Value>13号插槽</Value>
     </Record>
     <Record>
       <Key>Slot14</Key>
-      <Value>插槽14</Value>
+      <Value>14号插槽</Value>
     </Record>
     <Record>
       <Key>Slot15</Key>
-      <Value>插槽15</Value>
+      <Value>15号插槽</Value>
     </Record>
     <Record>
       <Key>Slot16</Key>
-      <Value>插槽16</Value>
+      <Value>16号插槽</Value>
     </Record>
     <Record>
       <Key>Slot17</Key>
-      <Value>插槽17</Value>
+      <Value>17号插槽</Value>
     </Record>
     <Record>
       <Key>Slot18</Key>
-      <Value>插槽18</Value>
+      <Value>18号插槽</Value>
     </Record>
     <Record>
       <Key>Slot19</Key>
-      <Value>插槽19</Value>
+      <Value>19号插槽</Value>
     </Record>
     <Record>
       <Key>Slot20</Key>
