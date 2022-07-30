@@ -5324,11 +5324,11 @@
     </Record>
     <Record>
       <Key>Slot1</Key>
-      <Value>插槽 1</Value>
+      <Value>1号插槽</Value>
     </Record>
     <Record>
       <Key>Slot2</Key>
-      <Value>插槽 2</Value>
+      <Value>2号插槽</Value>
     </Record>
     <Record>
       <Key>GrabLeftHand</Key>
@@ -5736,31 +5736,39 @@
     </Record>
     <Record>
       <Key>Button11</Key>
-      <Value>按键1</Value>
+      <Value>11号按键</Value>
     </Record>
     <Record>
       <Key>Button12</Key>
-      <Value>按键1</Value>
+      <Value>12号按键</Value>
     </Record>
     <Record>
       <Key>Button13</Key>
-      <Value>按键1</Value>
+      <Value>13号按键</Value>
     </Record>
     <Record>
       <Key>Button14</Key>
-      <Value>按键1</Value>
+      <Value>14号按键</Value>
     </Record>
     <Record>
       <Key>Button15</Key>
-      <Value>按键1</Value>
+      <Value>15号按键</Value>
     </Record>
     <Record>
       <Key>Button16</Key>
-      <Value>按键1</Value>
+      <Value>16号按键</Value>
     </Record>
     <Record>
       <Key>Button17</Key>
-      <Value>按键1</Value>
+      <Value>17号按键</Value>
+    </Record>
+    <Record>
+      <Key>ProgrammableChip</Key>
+      <Value>可编程芯片</Value>
+    </Record>
+    <Record>
+      <Key>Motherboard</Key>
+      <Value>主板</Value>
     </Record>
   </Interactables>
   <Interface>
@@ -10916,7 +10924,11 @@ Stationeers就是一切：宇航员、工程师和探险家，仅配备了有限
     </Record>
     <Record>
       <Key>Oxite</Key>
-      <Value>固态氧Oxite</Value>
+      <Value>结晶氧</Value>
+    </Record>
+    <Record>
+      <Key>Nitrice</Key>
+      <Value>亚硝酸盐</Value>
     </Record>
     <Record>
       <Key>Volatiles</Key>
