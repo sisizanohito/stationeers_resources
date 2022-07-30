@@ -95,5 +95,27 @@
       <Key>BorznacsNarration2D</Key>
       <Value>嗯......吃起来还可以。现在我想要一份甜食。给我做一些松饼或者等死吧。</Value>
     </Record>
+    <Record>
+      <Key>BorznacsNarration3D</Key>
+      <Value>啊，这些甜蜜让我陷入了一种面团般的心情。是的，我认为有一些面包会很好吃。</Value>
+    </Record>
+    <Record>
+      <Key>BorznacsNarration4D</Key>
+      <Value>所有这些食物都让我有点渴。我需要喝一杯。来些美味的新鲜牛奶吧。赶紧的！</Value>
+    </Record>
+    <Record>
+      <Key>BorznacsNarration5D</Key>
+      <Value>啊，你比你的前任做得更好。现在来来道经典的菜。我要南瓜派，快给我做一个。我在资源室中打开了一个滑槽。你可以使用最后一个厨师留下的任何东西。</Value>
+    </Record>
+    <Record>
+      <Key>BorznacsNarration6D</Key>
+      <Value>非常好。与你笨手笨脚的先行者不同，你可真合我心意。也许有一天我可能会考虑给你自由。但现在，我已经准备好吃晚饭了。完成三道菜的餐点，否则你将遭受难以形容的后果。</Value>
+    </Record>
+    <Record>
+      <Key>BorznacWinEnd</Key>
+      <Value>你已经证明自己是博兹纳克不可或缺的仆人。
+			
+祝贺。</Value>
+    </Record>
   </Interface>
 </Language>
