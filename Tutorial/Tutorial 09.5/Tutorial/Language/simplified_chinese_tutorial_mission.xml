@@ -255,8 +255,24 @@
       <Value>最后, 打开 {THING:StructureLogicWriter} 的开关。再次确认之前的步骤是否正确,</Value>
     </Record>
     <Record>
+      <Key>FuelUpValve</Key>
+      <Value>加油阀</Value>
+    </Record>
+    <Record>
+      <Key>FuelUpValveDescription</Key>
+      <Value>准备火箭的最后一部分是打开燃料阀并加注火箭的油箱。</Value>
+    </Record>
+    <Record>
+      <Key>FuelUpValveTask1</Key>
+      <Value>打开位于逻辑室上方的燃油阀。</Value>
+    </Record>
+    <Record>
       <Key>LaunchRocket</Key>
       <Value>发射时间</Value>
+    </Record>
+    <Record>
+      <Key>LaunchRocketDescription</Key>
+      <Value>是时候起飞了！乘坐电梯到顶层，一旦火箭装满并准备就绪，您就可以进入命令模块。然后点击“启动”按钮。</Value>
     </Record>
     <Record>
       <Key>LaunchRocketTask1</Key>
