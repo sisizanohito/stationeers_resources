@@ -7,8 +7,21 @@
       <Value>建造</Value>
     </Record>
     <Record>
+      <Key>TutoiralConstructionDescription</Key>
+      <Value>为了建筑发展署的基地，你需要先了解建筑的基础知识。</Value>
+    </Record>
+    <Record>
       <Key>TutoiralConstructionSubTitle</Key>
-      <Value>实践培训：阶段一</Value>
+      <Value>实践培训：阶段二</Value>
+    </Record>
+    <Record>
+      <Key>IntoTutoiralConstructionDescription</Key>
+      <Value>你好，学员。你已经展示了你作为空间站长的基本技能，现在是时候将它们投入使用了。
+空间站长首先是位建筑师。让我们看一看你的基本建筑能力。</Value>
+    </Record>
+    <Record>
+      <Key>2PutAwayScrewDriver</Key>
+      <Value>拿起螺丝刀，放入工具带中。</Value>
     </Record>
     <Record>
       <Key>2Narration1T</Key>

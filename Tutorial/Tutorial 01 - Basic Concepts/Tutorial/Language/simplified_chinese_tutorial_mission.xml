@@ -358,32 +358,291 @@
       <Value>将照明弹从背包放到左手</Value>
     </Record>
     <Record>
+      <Key>LightFlare</Key>
+      <Value>使用次要操作激活照明弹</Value>
+    </Record>
+    <Record>
+      <Key>DropT1 3</Key>
+      <Value>按“Q”键放下照明弹</Value>
+    </Record>
+    <Record>
+      <Key>Narration12T</Key>
+      <Value>物品套娃</Value>
+    </Record>
+    <Record>
+      <Key>Narration12D</Key>
+      <Value>空间站长的装备设计时主要考虑的是耐用性和易于制造，而不是炫酷的外观。
+其中许多装备包含电池或煤气罐等物品，例如电动工具。</Value>
+    </Record>
+    <Record>
+      <Key>ChildOnSlotOpenDisc</Key>
+      <Value>打开背包中的采矿带。</Value>
+    </Record>
+    <Record>
+      <Key>OpeningTheMininngBelt</Key>
+      <Value>打开采矿带</Value>
+    </Record>
+    <Record>
+      <Key>Narration13T</Key>
+      <Value>插入电池</Value>
+    </Record>
+    <Record>
+      <Key>Narration13D</Key>
+      <Value>在这个远离家乡的地方干什么事都会消耗不少资源，你需要小心地维持它们。
+大部分设备都可以取出电池或燃料罐来充电或再填充。</Value>
+    </Record>
+    <Record>
+      <Key>ReplaceBattT1Disc</Key>
+      <Value>将箱子里的电池装到采矿钻机中</Value>
+    </Record>
+    <Record>
+      <Key>ChangePowerCell</Key>
+      <Value>将箱子里的电池装到采矿钻机中</Value>
+    </Record>
+    <Record>
+      <Key>Narration14T</Key>
+      <Value>堆叠物品</Value>
+    </Record>
+    <Record>
+      <Key>Narration14D</Key>
+      <Value>虽然“空间”听起来很空，但是不要被骗到：空间永远不够用。幸运的是，许多物品可以堆叠起来。</Value>
+    </Record>
+    <Record>
+      <Key>MergeFramesT1Disc</Key>
+      <Value>通过将一组物品拖动到另一组物品上来合并堆叠。</Value>
+    </Record>
+    <Record>
+      <Key>Merege de frames</Key>
+      <Value>合并箱子里的两堆铁框架</Value>
+    </Record>
+    <Record>
+      <Key>Narration15T</Key>
+      <Value>使用“`” 键关闭 UI</Value>
+    </Record>
+    <Record>
+      <Key>Narration15D</Key>
+      <Value>如果你的界面比较乱，你可以通过单击X或按“`”键关闭所有窗口。</Value>
+    </Record>
+    <Record>
+      <Key>CloseAllUIT1Disc</Key>
+      <Value>关闭所有打开的窗口</Value>
+    </Record>
+    <Record>
+      <Key>CloseUITask</Key>
+      <Value>关闭所有打开的窗口</Value>
+    </Record>
+    <Record>
+      <Key>ControlCloseUIDisc</Key>
+      <Value>关闭所有打开的窗口</Value>
+    </Record>
+    <Record>
+      <Key>Narration16T</Key>
+      <Value>第二节</Value>
+    </Record>
+    <Record>
+      <Key>Narration16D</Key>
+      <Value>发展署的评估小组确信你已经不会威胁到自身安全。干得好，学员。
+现在让我们转到培训基地的下一个区域进行第二部分教学 - 回顾建筑的基础知识。</Value>
+    </Record>
+    <Record>
+      <Key>EnterAreaT1Disc</Key>
+      <Value>移动到训练基地的B区。</Value>
+    </Record>
+    <Record>
+      <Key>EnterAreaT3</Key>
+      <Value>进入下一扇气闸门</Value>
+    </Record>
+    <Record>
+      <Key>Narration17T</Key>
+      <Value>第二节</Value>
+    </Record>
+    <Record>
+      <Key>ControlJetpackToggleDisc</Key>
+      <Value>打开喷气背包电源</Value>
+    </Record>
+    <Record>
+      <Key>ControlJetpackAsendMovementDisc</Key>
+      <Value>上升</Value>
+    </Record>
+    <Record>
+      <Key>ControlJetpackDesendMovementDisc</Key>
+      <Value>下降</Value>
+    </Record>
+    <Record>
+      <Key>Narration17D</Key>
+      <Value>在这个阶段，你最好在耗尽空气前掌握基本的建筑技能。
+施工区域太高了。让我们试一下用你的喷气背包来到那里。</Value>
+    </Record>
+    <Record>
+      <Key>Narration18T</Key>
+      <Value>框架</Value>
+    </Record>
+    <Record>
+      <Key>Narration18D</Key>
+      <Value>铁框架易于构建和加压，是任何空间站长建筑的基础。
+拿起框架，按右键单击进入建筑模式，然后单击鼠标左键以放置。</Value>
+    </Record>
+    <Record>
+      <Key>BuildTheFrames</Key>
+      <Value>使用铁板和焊枪完成框架建造</Value>
+    </Record>
+    <Record>
+      <Key>Narration19T</Key>
+      <Value>框架</Value>
+    </Record>
+    <Record>
+      <Key>Narration19D</Key>
+      <Value>大多数空间站长的建筑都有几个建筑阶段。下面来完成框架，通过将铁皮焊接到框架上使其具有气密性。
+你需要一只手拿着焊枪，另一只手拿着铁板。</Value>
+    </Record>
+    <Record>
       <Key>PickUpT1 9</Key>
-      <Value>拿起 {THING:ItemIronSheets}. </Value>
+      <Value>从箱子中取出铁框架</Value>
+    </Record>
+    <Record>
+      <Key>BuildFrameT1Disc</Key>
+      <Value>使用铁板造完未完成的屋顶。</Value>
+    </Record>
+    <Record>
+      <Key>IronFrameBuildTaskT1</Key>
+      <Value>在高亮位置建造1号框架。</Value>
+    </Record>
+    <Record>
+      <Key>IronFrameBuildTaskT2</Key>
+      <Value>在高亮位置建造2号框架。</Value>
     </Record>
     <Record>
       <Key>PickUpT1 4</Key>
-      <Value>拿起 {THING:ItemIronSheets}. </Value>
+      <Value>从箱子中取出铁板</Value>
+    </Record>
+    <Record>
+      <Key>UsePrimeControlsBuildDisc</Key>
+      <Value>建造</Value>
+    </Record>
+    <Record>
+      <Key>FinsihFramesT1Disc</Key>
+      <Value>从箱子里中装备焊枪和钢板来修完培训基地。</Value>
+    </Record>
+    <Record>
+      <Key>FillingWithAirT1Disc</Key>
+      <Value>让基地充满可呼吸的空气吧</Value>
+    </Record>
+    <Record>
+      <Key>OpenTheAPCPanel</Key>
+      <Value>从箱子里取出撬棍打开区域电源控制器</Value>
+    </Record>
+    <Record>
+      <Key>TurnOnAPC</Key>
+      <Value>接通区域电源控制器</Value>
+    </Record>
+    <Record>
+      <Key>TurningOnTheOXygen</Key>
+      <Value>等待外部压力达到60kPa。</Value>
     </Record>
     <Record>
       <Key>OpenHelmT1Disc</Key>
       <Value>取出你宇航服里的氧气罐。</Value>
     </Record>
     <Record>
+      <Key>OpenHelmT1Task</Key>
+      <Value>解锁头盔</Value>
+    </Record>
+    <Record>
+      <Key>OpenHelmT2Task</Key>
+      <Value>打开头盔</Value>
+    </Record>
+    <Record>
+      <Key>Narration20T</Key>
+      <Value>框架</Value>
+    </Record>
+    <Record>
+      <Key>FinishFrameT1</Key>
+      <Value>完成框架建造：铁板 + 焊枪（要在激活的手中）</Value>
+    </Record>
+    <Record>
+      <Key>Narration20D</Key>
+      <Value>基地现在是密闭的，所以你可以增加气压了。激活电闸（APC） 以打开主动通风口。启动通风口使气体进入房间。
+在状态面板上监控外部的气压。</Value>
+    </Record>
+    <Record>
       <Key>Narration21T</Key>
       <Value>最后一步</Value>
+    </Record>
+    <Record>
+      <Key>Narration21D</Key>
+      <Value>好的学员，你差不多完成了空间站长实践测试的第一阶段。
+如果您想了解更多信息，请按F1查阅空间站百科。</Value>
     </Record>
     <Record>
       <Key>Narration22T</Key>
       <Value>最后一步</Value>
     </Record>
     <Record>
+      <Key>Narration22D</Key>
+      <Value>好的，学员，你差不多完成了空间站长实践测试的第一阶段。
+如果您想了解更多信息，请按F1查阅空间站百科。在你仔细阅读了空间站百科后，你很快就可以进行更多尝试。但是现在先待在家里。
+脱下宇航服，放在储物柜中。</Value>
+    </Record>
+    <Record>
+      <Key>GettingHelp</Key>
+      <Value>打开空间站百科，然后定位到“个人”条目。</Value>
+    </Record>
+    <Record>
       <Key>GettingHelpClose</Key>
-      <Value>关闭{LINK:Home;百科全书}</Value>
+      <Value>关闭空间站百科</Value>
     </Record>
     <Record>
       <Key>Narration23T</Key>
       <Value>最后一步</Value>
+    </Record>
+    <Record>
+      <Key>Narration23D</Key>
+      <Value>非常棒，学员。这是第一节课程的最后一步。发展署就帮你到这里了。
+按蓝色的“完成”按钮将结果传输到空间站长的总指挥。</Value>
+    </Record>
+    <Record>
+      <Key>HangUpSuitT1Disc</Key>
+      <Value>将宇航服拖入储物柜。</Value>
+    </Record>
+    <Record>
+      <Key>HangHelm</Key>
+      <Value>将太空头盔拖到宇航服储物空间</Value>
+    </Record>
+    <Record>
+      <Key>HangSuit</Key>
+      <Value>将宇航服拖到宇航服储物空间</Value>
+    </Record>
+    <Record>
+      <Key>HangPack</Key>
+      <Value>将背包拖到宇航服储物空间</Value>
+    </Record>
+    <Record>
+      <Key>JetpackOn</Key>
+      <Value>打开喷气背包</Value>
+    </Record>
+    <Record>
+      <Key>JetpackOff</Key>
+      <Value>关闭喷气背包</Value>
+    </Record>
+    <Record>
+      <Key>JetpackT1Disc</Key>
+      <Value>测试你喷气背包的控制。</Value>
+    </Record>
+    <Record>
+      <Key>PickUpT1 6</Key>
+      <Value>从桌上捡起焊枪</Value>
+    </Record>
+    <Record>
+      <Key>FillOutPaperworkT1Disc</Key>
+      <Value>按蓝色大按钮上传结果。</Value>
+    </Record>
+    <Record>
+      <Key>OnButtonPressTaskT1</Key>
+      <Value>按“确认”按钮结束测试</Value>
+    </Record>
+    <Record>
+      <Key>UIBasicsEndDescription</Key>
+      <Value>祝贺。您的结果已由发展署的总指挥收到。</Value>
     </Record>
     <Record>
       <Key>Dropflare</Key>
@@ -391,7 +650,19 @@
     </Record>
     <Record>
       <Key>NarrationClose</Key>
-      <Value>关闭Narration Panel</Value>
+      <Value>关闭旁白面板</Value>
+    </Record>
+    <Record>
+      <Key>1GetWaterBottle</Key>
+      <Value>从制服插槽中拿水瓶</Value>
+    </Record>
+    <Record>
+      <Key>1DrinkWater</Key>
+      <Value>喝水</Value>
+    </Record>
+    <Record>
+      <Key>1NarrationExtra1</Key>
+      <Value>这些训练都让你口渴了。你需要喝水来补充水分。好消息是，你的后背口袋里有一些。</Value>
     </Record>
   </Interface>
 </Language>
