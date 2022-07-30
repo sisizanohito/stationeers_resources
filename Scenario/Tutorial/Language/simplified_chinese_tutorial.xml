@@ -147,7 +147,7 @@
     </Record>
     <Record>
       <Key>TutorialTitleGoInAirlock</Key>
-      <Value>进入 {COLORRED:基友团ID264122911} 空间站</Value>
+      <Value>进入空间站</Value>
     </Record>
     <Record>
       <Key>TutorialDescGoInAirlock1</Key>

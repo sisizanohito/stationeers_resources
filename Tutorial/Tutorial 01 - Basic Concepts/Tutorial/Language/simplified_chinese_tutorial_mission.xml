@@ -23,6 +23,15 @@
       <Value>欢迎学员</Value>
     </Record>
     <Record>
+      <Key>BasicConceptsDescription</Key>
+      <Value>学员，欢迎你来到月球训练基地。地外发展署已经批准了你的申请。让我们来增加您在太阳系中的生存率吧。
+请先通过前方的气闸进入训练基地。
+				
+重要说明：由于教程关卡的局限性，请你务必按照关卡提示的顺序执行操作，否则可能会导致进度卡死。
+如果你在教学任务中出现无法推进的情况，则可能需要重新启动教程。
+因为游戏仍在频繁开发更新，所以教程可能偶尔会无法正常进行。我们将在开发中努力对教程进行改进。</Value>
+    </Record>
+    <Record>
       <Key>WelcomeRecuitDisc</Key>
       <Value>找条路进入训练基地</Value>
     </Record>
