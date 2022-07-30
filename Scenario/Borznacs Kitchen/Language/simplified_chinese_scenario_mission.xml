@@ -42,5 +42,58 @@
       <Key>BreadTask1</Key>
       <Value>烹饪并送2个面包面包。</Value>
     </Record>
+    <Record>
+      <Key>MilkTask1</Key>
+      <Value>制造并交付2盒牛奶。</Value>
+    </Record>
+    <Record>
+      <Key>PumpkinPie1</Key>
+      <Value>烘烤并送2个南瓜馅饼。</Value>
+    </Record>
+    <Record>
+      <Key>TomatoSoup1</Key>
+      <Value>混合并送上一罐番茄汤。</Value>
+    </Record>
+    <Record>
+      <Key>PumpkinSoup1</Key>
+      <Value>混合并送上一罐南瓜汤。</Value>
+    </Record>
+    <Record>
+      <Key>BakedPotato2</Key>
+      <Value>烘烤并送上2个烤土豆。</Value>
+    </Record>
+    <Record>
+      <Key>BreadTask2</Key>
+      <Value>烘烤并送1条面包。</Value>
+    </Record>
+    <Record>
+      <Key>FriesTask2</Key>
+      <Value>油炸并送1包薯条。</Value>
+    </Record>
+    <Record>
+      <Key>PumpkinTask2</Key>
+      <Value>烘烤并送1个南瓜派。</Value>
+    </Record>
+    <Record>
+      <Key>MuffinTask2</Key>
+      <Value>烘烤并送 3 个松饼。</Value>
+    </Record>
+    <Record>
+      <Key>MilkTask2</Key>
+      <Value>制造并交付2盒牛奶。</Value>
+    </Record>
+    <Record>
+      <Key>BorznacsNarration0D</Key>
+      <Value> 我饿了，所以给我做一些烤土豆。但请记住，你一次只能烹饪一个。
+当他们准备好时，通过滑槽将它们交给我。不要让我失望。我最后的厨师既慢又笨。对他们来说，事情并不顺利。</Value>
+    </Record>
+    <Record>
+      <Key>BorznacsNarration1D</Key>
+      <Value>这勉强够用。我想要一些有味道的东西。我要薯条！你肯定还记得如何做吧？</Value>
+    </Record>
+    <Record>
+      <Key>BorznacsNarration2D</Key>
+      <Value>嗯......吃起来还可以。现在我想要一份甜食。给我做一些松饼或者等死吧。</Value>
+    </Record>
   </Interface>
 </Language>
