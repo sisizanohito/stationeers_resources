@@ -146,8 +146,8 @@
     </Record>
     <Record>
       <Key>Narration5D</Key>
-      <Value>到目前为止，你的手状态正常。很好，你会很需要它们。因此，让我们试试丢和扔。
-按 {KEY:Drop} 以丢下物品，或长按{KEY:Drop}以扔出物品。</Value>
+      <Value>到目前为止，你的双手表现很出色。你会很需要它们。因此，让我们试试放下和扔出。
+按 {KEY:Drop} 以放下物品，或长按{KEY:Drop}以扔出物品。</Value>
     </Record>
     <Record>
       <Key>DropItemT1 1</Key>
@@ -171,7 +171,7 @@
     </Record>
     <Record>
       <Key>PrecisionPLaceT1 1</Key>
-      <Value>按 {KEY:PrecisionPlace} 在桌子上精确放置工具</Value>
+      <Value>按 {KEY:PrecisionPlace} 在桌子上准确放置工具</Value>
     </Record>
     <Record>
       <Key>Narration6T</Key>
@@ -286,7 +286,7 @@
     </Record>
     <Record>
       <Key>StationpediaToggleControlsDisc</Key>
-      <Value>打开Stationpedia</Value>
+      <Value>打开空间站百科</Value>
     </Record>
     <Record>
       <Key>QucikEquiptControls</Key>

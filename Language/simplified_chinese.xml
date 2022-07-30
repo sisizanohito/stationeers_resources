@@ -4036,6 +4036,10 @@
       <Value>厨房餐桌(高)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureSmallTableThickSingle</Key>
+      <Value>小桌子(单人厚款)</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureSmallTableThickDouble</Key>
       <Value>小(桌厚双人)</Value>
     </RecordThing>
@@ -4450,6 +4454,10 @@
     <RecordThing>
       <Key>ItemAstroloySheets</Key>
       <Value>Astroloy合金板</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemMiningBeltAdvanced</Key>
+      <Value>MK II 采矿带</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWindTurbine</Key>
@@ -5028,11 +5036,15 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureWaterBottleFillerPoweredBottom</Key>
-      <Value/>
+      <Value>水瓶灌装机</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWaterBottleFillerPowered</Key>
-      <Value/>
+      <Value>水瓶灌装机</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemNitrice</Key>
+      <Value>冰（氮化物）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPassiveLargeRadiator</Key>
@@ -5053,6 +5065,10 @@
     <RecordThing>
       <Key>StructurePassiveLargeRadiatorGas</Key>
       <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLogicGate</Key>
+      <Value>逻辑门</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -5773,8 +5789,24 @@
   </Interactables>
   <Interface>
     <Record>
+      <Key>RespawnConditionEasy</Key>
+      <Value>简单</Value>
+    </Record>
+    <Record>
+      <Key>RespawnConditionNormal</Key>
+      <Value>正常</Value>
+    </Record>
+    <Record>
       <Key>RespawnConditionStationeer</Key>
-      <Value>Stationeers</Value>
+      <Value>空间站长</Value>
+    </Record>
+    <Record>
+      <Key>SlotKey</Key>
+      <Value>插槽</Value>
+    </Record>
+    <Record>
+      <Key>SoonTM</Key>
+      <Value>即将推出。。。</Value>
     </Record>
     <Record>
       <Key>MainMenuContinue</Key>
@@ -5787,6 +5819,10 @@
     <Record>
       <Key>DoorCategory</Key>
       <Value>门和舱门</Value>
+    </Record>
+    <Record>
+      <Key>ChairTableCategory</Key>
+      <Value>椅子</Value>
     </Record>
     <Record>
       <Key>PersonalSuits</Key>
@@ -5898,7 +5934,11 @@
     </Record>
     <Record>
       <Key>Edibles</Key>
-      <Value>食用食品</Value>
+      <Value>食品</Value>
+    </Record>
+    <Record>
+      <Key>Plants</Key>
+      <Value>植物和种子</Value>
     </Record>
     <Record>
       <Key>AirContitioningAtmos</Key>
@@ -6035,6 +6075,14 @@
     <Record>
       <Key>JoinMenuServerListRefreshing</Key>
       <Value>刷新服务器列表</Value>
+    </Record>
+    <Record>
+      <Key>CannotConnectToMetaServer</Key>
+      <Value>无法连接到主服务器</Value>
+    </Record>
+    <Record>
+      <Key>ServerListCannotBeRetrieved</Key>
+      <Value>无法检索服务器列表</Value>
     </Record>
     <Record>
       <Key>JoinMenuInputAddressTitle</Key>
@@ -6417,8 +6465,12 @@
       <Value>无法访问存档位置。您是否使用了非法字符？请尝试在设置中修改保存路径。</Value>
     </Record>
     <Record>
+      <Key>PlayerIsConnecting</Key>
+      <Value>玩家连接中。。。</Value>
+    </Record>
+    <Record>
       <Key>GamePaused</Key>
-      <Value>暂停</Value>
+      <Value>游戏已暂停</Value>
     </Record>
     <Record>
       <Key>AlertButtonClose</Key>
@@ -6443,6 +6495,10 @@
     <Record>
       <Key>InputTextRename</Key>
       <Value>重命名</Value>
+    </Record>
+    <Record>
+      <Key>ButtonOk</Key>
+      <Value>好滴</Value>
     </Record>
     <Record>
       <Key>InputPassword</Key>
@@ -6554,8 +6610,8 @@
     </Record>
     <Record>
       <Key>TutorialCompleteMessage</Key>
-      <Value>还有很多东西需要学习呢.
-                                              所以先离开这里吧, Stationeer!</Value>
+      <Value>还有很多东西需要学习。
+        所以出发吧，空间站长！      </Value>
     </Record>
     <Record>
       <Key>TutorialBackToMenu</Key>
@@ -6581,6 +6637,10 @@
     <Record>
       <Key>UnableToConstruct</Key>
       <Value>&lt;color=red&gt;无法建造&lt;/color&gt;.</Value>
+    </Record>
+    <Record>
+      <Key>PortableConnectionFailure</Key>
+      <Value>只能将{0}连接到此{1}</Value>
     </Record>
     <Record>
       <Key>TooltipRotateLeftRight</Key>
@@ -9718,8 +9778,20 @@ Stationeers就是一切：宇航员、工程师和探险家，仅配备了有限
       <Value>营养</Value>
     </Record>
     <Record>
+      <Key>MoleNitrousOxideDescription</Key>
+      <Value>一氧化二氮是一种惰性气体，玩家吸入会昏迷。它让你的喷气背包发出嘶嘶声。</Value>
+    </Record>
+    <Record>
       <Key>SettingsSmoothTerrain</Key>
-      <Value>地形</Value>
+      <Value>平滑地形</Value>
+    </Record>
+    <Record>
+      <Key>SettingsVirtualizedRendering</Key>
+      <Value>虚拟化渲染</Value>
+    </Record>
+    <Record>
+      <Key>SettingsStartLocalHost</Key>
+      <Value>主持游戏</Value>
     </Record>
   </Interface>
   <Colors>
@@ -10932,7 +11004,7 @@ Stationeers就是一切：宇航员、工程师和探险家，仅配备了有限
     </Record>
     <Record>
       <Key>Volatiles</Key>
-      <Value>固态挥发性有机物</Value>
+      <Value>可燃冰</Value>
     </Record>
     <Record>
       <Key>Gold</Key>
