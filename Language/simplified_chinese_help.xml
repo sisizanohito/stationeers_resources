@@ -8,9 +8,10 @@
     -->
     <!--LEAVE THIS ALONE NEEDED FOR THOSE PAGES-->
     <StationpediaPage>
-      <Key>LogicUnitPage</Key>
-      <Title>逻辑单元</Title>
-      <Text>{LIST_OF_LOGIC_UNITS}</Text>
+      <Key>CartridgePage</Key>
+      <Title>记忆卡</Title>
+      <Text>这些可以添加到{THING:ItemTablet}或{THING:ItemAdvancedTablet}以执行不同的诊断功能。
+{LIST_OF_CARTRIDGES}</Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>FabricatorPage</Key>
@@ -30,14 +31,13 @@
     <StationpediaPage>
       <Key>ImportExportPage</Key>
       <Title>进口/出口和滑槽</Title>
-      <Text>这些是结构,一般来说要对其供电才能用, 有各种专门的功能包括逻辑电路, 大气等等. 它们的建造方式与其他结构相同。
-        {LIST_OF_DEVICES}
-      </Text>
+      <Text>这些是自带动力的结构，能够接收和输出其他物品。大多数都有专业功能，包括{LINK:LogicUnitPage;logic}，{LINK:AtmosphericPage;atmospherics}等。它们的构造方式与其他结构相同。
+        {LIST_OF_IMPORTEXPORT}      </Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>SmeltingPage</Key>
       <Title>冶炼</Title>
-      <Text>一旦你有了{LINK:OrePage;矿石}，你需要把它变成{LINK:IngotPage;锭块}，这样你就可以使用这种{LINK:ReagentPage;化学原料}. 熔炼通常会产生 {LINK:GasPage;气体}. 这种情况不仅仅会发生在 {THING:StructureArcFurnace} (简单配方) 和用于制造复杂 {LINK:AlloyPage;合金} 的 {THING:StructureFurnace} , 甚至在用于制造非常复杂的{LINK:SuperAlloyPage;超级合金} 的 {THING:StructureAdvancedFurnace} 也会出现 . 要制造这些复杂的合金, 你需要按完美的比例混合原料, 同时{LINK:TemperaturePage;温度}, 和{LINK:PressurePage;压力} 也要适合。 
+      <Text>一旦你有了{LINK:OrePage;ore}，你需要把它变成{LINK:IngotPage;ingots}，这样你就可以使用这种{LINK:ReagentPage;reagents} 熔炼通常会产生 {LINK:GasPage;gases}. 这种情况不仅仅会发生在 {THING:StructureArcFurnace} (简单配方) 和用于制造复杂{LINK:AlloyPage;Alloys}的 {THING:StructureAdvancedFurnace} , 甚至在用于制造非常复杂的{LINK:SuperAlloyPage;Superalloys} 的{THING:StructureAdvancedFurnace} 也会出现 . 要制造这些复杂的合金, 你需要按完美的比例混合原料, 同时{LINK:TemperaturePage;Temperature}, 和{LINK:PressurePage;Pressure} 也要适合。 
       </Text>
     </StationpediaPage>
     <StationpediaPage>

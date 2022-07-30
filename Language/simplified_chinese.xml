@@ -4497,55 +4497,55 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageWindTurbine001</Key>
-      <Value/>
+      <Value>风力轮机残骸</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageWindTurbine002</Key>
-      <Value/>
+      <Value>风力轮机残骸</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageWindTurbine003</Key>
-      <Value/>
+      <Value>风力轮机残骸</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageWindTurbine004</Key>
-      <Value/>
+      <Value>风力轮机残骸</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageWindTurbine005</Key>
-      <Value/>
+      <Value>风力轮机残骸</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageStructureWeatherStation001</Key>
-      <Value>残骸结构气象站</Value>
+      <Value>气象站结构残骸</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageStructureWeatherStation002</Key>
-      <Value>残骸结构气象站</Value>
+      <Value>气象站结构残骸</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageStructureWeatherStation003</Key>
-      <Value>残骸结构气象站</Value>
+      <Value>气象站结构残骸</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageStructureWeatherStation004</Key>
-      <Value>残骸结构气象站</Value>
+      <Value>气象站结构残骸</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageStructureWeatherStation005</Key>
-      <Value>残骸结构气象站</Value>
+      <Value>气象站结构残骸</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageStructureWeatherStation006</Key>
-      <Value>残骸结构气象站</Value>
+      <Value>气象站结构残骸</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageStructureWeatherStation007</Key>
-      <Value>残骸结构气象站</Value>
+      <Value>气象站结构残骸</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageStructureWeatherStation008</Key>
-      <Value>残骸结构气象站</Value>
+      <Value>气象站结构残骸</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWaterBottle</Key>
@@ -4557,7 +4557,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureWaterBottleFiller</Key>
-      <Value/>
+      <Value>水瓶灌装机</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureIceCrusher</Key>
@@ -4609,7 +4609,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureBackLiquidPressureRegulator</Key>
-      <Value/>
+      <Value>液体背压调节器</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidPressureRegulator</Key>
@@ -4637,7 +4637,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemMKIIDrill</Key>
-      <Value>Mk II 电钻</Value>
+      <Value>Mk II 手电钻</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemMKIIMiningDrill</Key>
