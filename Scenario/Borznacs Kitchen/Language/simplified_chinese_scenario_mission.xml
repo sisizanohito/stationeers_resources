@@ -10,5 +10,37 @@
       <Key>TutoiralGasMixingSubTitle</Key>
       <Value>如何做好饭</Value>
     </Record>
+    <Record>
+      <Key>ScenariosBorznacsKitchenDescription</Key>
+      <!--Menu Disc-->
+      <Value>在与斯诺泰的几项贸易协议被切断后，博兹纳克五世决定通过控制所有附近的月球基地（包括你的）来建立自己的帝国。
+你被迫成为他新的私人厨师。所以你最好会做饭。</Value>
+    </Record>
+    <Record>
+      <Key>ScenariosBorznacsKitchenIntroDescription</Key>
+      <!--Intro Panel-->
+      <Value>博兹纳克五世并不以他的细微之处而闻名。在与斯诺泰的几项贸易协议中被切断后，他决定建立一个自己的帝国，控制附近的所有月球基地，包括你的。
+你被迫成为他的新私人厨师。你仍然不知道他最后一位厨师发生了什么，你也不想知道。他有相当大的胃口，非常不耐烦。所以你最好会做饭。</Value>
+    </Record>
+    <Record>
+      <Key>CookingForYourLifeSubTitle</Key>
+      <Value>为你的小命做饭！</Value>
+    </Record>
+    <Record>
+      <Key>BakedPotato1</Key>
+      <Value>烹饪并送4个烤土豆。</Value>
+    </Record>
+    <Record>
+      <Key>FriesTask1</Key>
+      <Value>烹饪并送上2包薯条。</Value>
+    </Record>
+    <Record>
+      <Key>MuffinTask1</Key>
+      <Value>烘烤并送3个松饼。</Value>
+    </Record>
+    <Record>
+      <Key>BreadTask1</Key>
+      <Value>烹饪并送2个面包面包。</Value>
+    </Record>
   </Interface>
 </Language>
