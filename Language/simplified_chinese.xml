@@ -4645,7 +4645,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemMKIIWireCutters</Key>
-      <Value>Mk II 角磨机</Value>
+      <Value>Mk II 剪线钳</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemMKIIWrench</Key>
@@ -4657,7 +4657,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitWaterBottleFiller</Key>
-      <Value/>
+      <Value>套件（水瓶灌装机）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidTankBig</Key>
@@ -4673,15 +4673,15 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLiquidTankInsulated</Key>
-      <Value/>
+      <Value>套件（绝缘液体罐）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidTankBigInsulated</Key>
-      <Value/>
+      <Value>大号绝缘液体罐</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidTankSmallInsulated</Key>
-      <Value/>
+      <Value>小号绝缘液体罐</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureModularRocketLiquidTank</Key>
