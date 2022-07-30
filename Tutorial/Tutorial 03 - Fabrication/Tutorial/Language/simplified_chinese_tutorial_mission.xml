@@ -7,20 +7,86 @@
       <Value>采矿 + 制造</Value>
     </Record>
     <Record>
+      <Key>TutoiralFabricationDescription</Key>
+      <Value>探索采矿和制造的基础知识。</Value>
+    </Record>
+    <Record>
       <Key>TutoiralFabricationSubTitle</Key>
       <Value>实践培训：阶段三</Value>
+    </Record>
+    <Record>
+      <Key>IntoTutoiralFabricationDescription</Key>
+      <Value>学员，欢迎你。
+作为一名部署在远离地球的空间站长，你可以选择：用当地的材料锻造自己的资源，或者坐以待毙。
+采矿和制造的基本知识至关重要。修复月球的测试基地，以证明你的技能。</Value>
     </Record>
     <Record>
       <Key>3Narration1T</Key>
       <Value>实践培训：阶段三</Value>
     </Record>
     <Record>
+      <Key>3Narration1D</Key>
+      <Value>设计通常有滞后性：为了修复测试基地，你需要一些组件，而为此你又需要管道液压机...最后你需要资源来制造。
+因此，首先让我们使用平板电脑找一些矿石。</Value>
+    </Record>
+    <Record>
       <Key>3GetTablet</Key>
       <Value>从箱子拿走平板</Value>
     </Record>
     <Record>
+      <Key>3Narration2T</Key>
+      <Value>实践培训：阶段三</Value>
+    </Record>
+    <Record>
+      <Key>3Narration2D</Key>
+      <Value>信工派迪的平板电脑可以执行一系列不同的功能。插入跟踪区块后，它可以帮助您导航到本地信标。</Value>
+    </Record>
+    <Record>
+      <Key>2PutCartInTablet</Key>
+      <Value>将跟踪区块从箱子里装备到平板电脑。</Value>
+    </Record>
+    <Record>
+      <Key>3TabletOn</Key>
+      <Value>打开平板电脑。</Value>
+    </Record>
+    <Record>
+      <Key>3Narration3D</Key>
+      <Value>寻找矿石来建造基地需要时间。我们在附近的铁矿床放置了一个信标以节省时间。使用平板电脑导航到信标，然后进行挖掘。</Value>
+    </Record>
+    <Record>
+      <Key>3EnterAreaT1</Key>
+      <Value>导航到信标</Value>
+    </Record>
+    <Record>
+      <Key>3Narration4D</Key>
+      <Value>三锥旋转式“拓朴”采矿钻头位于您的采矿带中。它硬质合金钻头在真空和大气中能一样良好运行，并且弹性好，能延长轴承寿命并减少剥落。
+好好使用它。</Value>
+    </Record>
+    <Record>
+      <Key>3GetMDrill</Key>
+      <Value>从背包中的采矿带装备采矿钻头。</Value>
+    </Record>
+    <Record>
+      <Key>3MDrillOn</Key>
+      <Value>打开钻头</Value>
+    </Record>
+    <Record>
+      <Key>3GetIronOre</Key>
+      <Value>挖掘30铁。</Value>
+    </Record>
+    <Record>
+      <Key>3Narration5D</Key>
+      <Value>您的采矿带现在应该含有大量的铁矿石。
+把它带回基地，让我们开始冶炼吧！</Value>
+    </Record>
+    <Record>
       <Key>3EnterAreaT2</Key>
       <Value>返回基地</Value>
+    </Record>
+    <Record>
+      <Key>3Narration6D</Key>
+      <Value>在用于建筑之前，矿石必须变成纯锭。最简单的解决方案是电弧炉。
+从箱子中拿起一个套件，并将其放在高亮的区域。</Value>
     </Record>
     <Record>
       <Key>3GetArcFurnaceKit</Key>
@@ -31,24 +97,109 @@
       <Value>将电弧炉放在高亮区域。</Value>
     </Record>
     <Record>
+      <Key>3BuildHeavyCableTutorial</Key>
+      <Value>使用工具带的电缆将电弧炉连接到电源。</Value>
+    </Record>
+    <Record>
+      <Key>3Narration7D</Key>
+      <Value>电弧炉不会在足够高的温度下运行以产生复杂的合金，但它可以很好地冶炼铁。
+将铁矿石加入电弧炉。</Value>
+    </Record>
+    <Record>
+      <Key>3ArcFurnaceOn</Key>
+      <Value>打开电弧炉</Value>
+    </Record>
+    <Record>
+      <Key>3PutOreInFurnace</Key>
+      <Value>将铁矿石加入电弧炉</Value>
+    </Record>
+    <Record>
+      <Key>3ArcFurnaceActive</Key>
+      <Value>激活电弧炉</Value>
+    </Record>
+    <Record>
+      <Key>3Narration8D</Key>
+      <Value>电弧炉简单，快速且相当高效，还会产生可以过滤用于其他目的的气体副产品。
+然而现在你只需要它制造的金属锭 - 它快完成了。</Value>
+    </Record>
+    <Record>
+      <Key>2GetIronIngot</Key>
+      <Value>在电弧炉后面捡起金属锭</Value>
+    </Record>
+    <Record>
+      <Key>3PutIronIngotInAutoLathe</Key>
+      <Value>将金属锭添加到自动车床</Value>
+    </Record>
+    <Record>
+      <Key>3Narration9D</Key>
+      <Value>管道液压机制造管道，以及气体装置和一些便携装备。要用自动车床建造一个，你需要铁，铜和金。
+您需要的其他金属锭都在箱子中。</Value>
+    </Record>
+    <Record>
       <Key>3GetCopperIngot</Key>
       <Value>从箱子里拿起铜锭。</Value>
+    </Record>
+    <Record>
+      <Key>3PutCopperIngotInAutoLathe</Key>
+      <Value>将铜锭加入自动车床。</Value>
     </Record>
     <Record>
       <Key>3GetGoldIngot</Key>
       <Value>从箱子里捡起金锭。</Value>
     </Record>
     <Record>
+      <Key>3PutGoldIngotInAutoLathe</Key>
+      <Value>将金锭添加到自动车床中</Value>
+    </Record>
+    <Record>
+      <Key>3Narration10D</Key>
+      <Value>自动车床是多轴分子合成设备。它制造一系列结构和设备套件，包括不起眼的管道液压机。单击前面的搜索按钮进行搜索以选择项目。</Value>
+    </Record>
+    <Record>
+      <Key>3AutoLatheOn</Key>
+      <Value>打开自动车床。</Value>
+    </Record>
+    <Record>
+      <Key>3PipebenderHash</Key>
+      <Value>使用搜索功能选择管道液压机。</Value>
+    </Record>
+    <Record>
+      <Key>3FabricatePipeBender</Key>
+      <Value>打印管道液压机套件。</Value>
+    </Record>
+    <Record>
       <Key>3GetPipeBender</Key>
-      <Value>拿起液压弯管机套件。</Value>
+      <Value>拿起管道液压机机套件。</Value>
     </Record>
     <Record>
       <Key>3BuildPipebenderTutorial</Key>
-      <Value>将液压弯管机放在高亮位置。</Value>
+      <Value>将管道液压机机放在高亮位置。</Value>
+    </Record>
+    <Record>
+      <Key>3Narration11D</Key>
+      <Value>任何事情都需要一定的时间：像自动车床一样，管道液压机有几个建造阶段。
+按照提示完成建造。</Value>
+    </Record>
+    <Record>
+      <Key>3FinishPipeBender</Key>
+      <Value>使用箱子中的资源来完成管道液压机的建造。</Value>
     </Record>
     <Record>
       <Key>3PipeBenderOn</Key>
-      <Value>打开弯管机。</Value>
+      <Value>打开管道液压机。</Value>
+    </Record>
+    <Record>
+      <Key>3Narration12D</Key>
+      <Value>多功能性总是好的。需要立刻拿到金属锭？制造设备还有资源存储的功能。
+通过拉动拉杆将它们从自动车厢中弹出，然后再将它们添加到另一台机器上。</Value>
+    </Record>
+    <Record>
+      <Key>3OpenAutoLathe</Key>
+      <Value>拉动自动拉杆以弹出金属锭</Value>
+    </Record>
+    <Record>
+      <Key>3PutIronIngotInPipeBender</Key>
+      <Value>将铁锭放入管道液压机中</Value>
     </Record>
     <Record>
       <Key>2EquiptMiningbelt</Key>
