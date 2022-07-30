@@ -4,7 +4,12 @@
   <Interface>
     <Record>
       <Key>TutoiralRocketry</Key>
-      <Value>基础气闸系统</Value>
+      <Value>火箭</Value>
+    </Record>
+    <Record>
+      <Key>TutoiralRocketryDescription</Key>
+      <!--This is the description that appers in the menu-->
+      <Value>火箭。。。额么么，我不会被某个家伙起诉。</Value>
     </Record>
     <Record>
       <Key>TutoiralAtmosphericsSubTitle</Key>

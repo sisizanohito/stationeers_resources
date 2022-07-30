@@ -29,45 +29,202 @@
       <Value>使用套件（逻辑开关）将拉杆放置在高亮处</Value>
     </Record>
     <Record>
+      <Key>8Narration1D</Key>
+      <Value>大多数发展署设备有两个端口：电源和数据。数据端口使用与电源相同的网络传输有关设备当前状态的信息。因此，请将拉杆连接到电缆网络。</Value>
+    </Record>
+    <Record>
       <Key>8ConstructCable</Key>
-      <Value>在高亮位置生成控制台</Value>
+      <Value>将电缆放在高亮处。</Value>
+    </Record>
+    <Record>
+      <Key>8ConstructCable2</Key>
+      <Value>将拉杆上的数据端口连接到电缆网络</Value>
+    </Record>
+    <Record>
+      <Key>8Narration2D</Key>
+      <Value>顾名思义，逻辑读取器是从设备读取逻辑值的方式。
+要从拉杆读取数据，请将逻辑读取器放在高亮处。请注意，逻辑仅在一个方向上流动。</Value>
     </Record>
     <Record>
       <Key>8ConstructReader</Key>
-      <Value>在高亮位置生成控制台</Value>
+      <Value>将逻辑读取器放在高亮处</Value>
+    </Record>
+    <Record>
+      <Key>8Narration3D</Key>
+      <Value>逻辑编写器则不同。它从逻辑读取器接收数据，然后将该数据写入给定设备 - 现在情况下是一盏灯。</Value>
     </Record>
     <Record>
       <Key>8ConstructWriter</Key>
-      <Value>在高亮位置生成控制台</Value>
+      <Value>将逻辑编写器放在高亮处</Value>
+    </Record>
+    <Record>
+      <Key>8Narration4D</Key>
+      <Value>现在是时候对这些逻辑器件进行编程了。从逻辑读取器开始。
+使用螺丝刀将输入 （IN） 设置为“拉杆”。然后将其读取的变量 （VAR） 设置为“打开”。</Value>
+    </Record>
+    <Record>
+      <Key>8LogicReaderLogicInput1</Key>
+      <Value>将逻辑读取器输入 （IN） 设置为“拉杆”</Value>
+    </Record>
+    <Record>
+      <Key>8LogicReaderLogic1</Key>
+      <Value>将逻辑读取器变量 （VAR） 设置为“打开”</Value>
+    </Record>
+    <Record>
+      <Key>8Narration5D</Key>
+      <Value>现在对逻辑编写器进行编程。
+将编写器的输入 （IN） 设置为“逻辑读取器”，将其输出 （OUT） 设置为“壁灯”。
+最后，将输出变量（OUT VAR）设置为“开”，以便它切换灯光的开/关变量。</Value>
+    </Record>
+    <Record>
+      <Key>8LogicWritterInput1</Key>
+      <Value>将逻辑编写器输入 （IN） 设置为“逻辑读取器”</Value>
+    </Record>
+    <Record>
+      <Key>LogicWritterOutput1</Key>
+      <Value>将逻辑编写器输出 （OUT） 设置为“壁灯”</Value>
     </Record>&gt;
 		
     <Record>
+      <Key>8LogicWritterLogic1</Key>
+      <Value>将输出变量 （OUT VAR） 设置为“开”</Value>
+    </Record>
+    <Record>
+      <Key>8Narration6D</Key>
+      <Value>现在逻辑读取器和逻辑编写器已完成编程，可以安全地打开它们。</Value>
+    </Record>
+    <Record>
       <Key>8TurnOnReader</Key>
-      <Value>打开这个逻辑读取的开关。</Value>
+      <Value>打开逻辑读取器</Value>
     </Record>
     <Record>
       <Key>8TurnOnWriter</Key>
-      <Value>打开这个逻辑读取的开关。</Value>
+      <Value>打开逻辑编写器</Value>
+    </Record>
+    <Record>
+      <Key>8Narration7D</Key>
+      <Value>优秀 - 现在您已准备好测试逻辑电路。尝试通过拉动拉杆来开灯。</Value>
+    </Record>
+    <Record>
+      <Key>8TurnOnWallLight</Key>
+      <Value>使用拉杆开灯</Value>
+    </Record>
+    <Record>
+      <Key>8Narration8D</Key>
+      <Value>学员，干得好 - 你已经创建了一个基本的逻辑电路。现在，设置一个系统来同时控制多个灯。首先将房间中的所有灯连接到逻辑网络。</Value>
+    </Record>
+    <Record>
+      <Key>8ConstructCable2</Key>
+      <Value>将拉杆上的数据端口连接到电缆网络</Value>
+    </Record>
+    <Record>
+      <Key>8Narration9D</Key>
+      <Value>要设置这个系统，您需要调整逻辑器件。先关闭它们，否则它们会混乱。</Value>
     </Record>
     <Record>
       <Key>8TurnOffWriter</Key>
-      <Value>打开这个逻辑读取的开关。</Value>
+      <Value>关闭逻辑编写器</Value>
     </Record>
     <Record>
       <Key>8TurnOffReader</Key>
-      <Value>打开这个逻辑读取的开关。</Value>
+      <Value>关闭逻辑读取器</Value>
+    </Record>
+    <Record>
+      <Key>8Narration10D</Key>
+      <Value>关闭逻辑编写器后，你可以复位拉杆，而不用担心将自己扔进可怕的黑暗中。</Value>
+    </Record>
+    <Record>
+      <Key>8Closelever</Key>
+      <Value>复位逻辑拉杆。</Value>
+    </Record>
+    <Record>
+      <Key>8Narration11D</Key>
+      <Value>您需要向网络添加批量编写器。批量编写器就像逻辑编写器一样，只是它可以写入多个设备。 </Value>
     </Record>
     <Record>
       <Key>8ConstructBatchWriter</Key>
-      <Value>在高亮位置生成控制台</Value>
+      <Value>将批量记录器放在高亮处</Value>
+    </Record>
+    <Record>
+      <Key>8Narration12D</Key>
+      <Value>在批量编写器的输出中搜索“壁灯”。这会将它写入网络上的每个壁灯。</Value>
+    </Record>
+    <Record>
+      <Key>8BatchWriterOutput</Key>
+      <Value>将批量器输出（输出类型）设置为“壁灯”</Value>
+    </Record>
+    <Record>
+      <Key>8Narration13D</Key>
+      <Value>现在，将批量编写器的输入 （IN） 设置为“逻辑读取器”。然后将其写入光源的变量 （OUT VAR） 设置为“开”。</Value>
+    </Record>
+    <Record>
+      <Key>8BatchWriterInput</Key>
+      <Value>将批量编写器输入 （IN） 设置为“逻辑读取器”</Value>
+    </Record>
+    <Record>
+      <Key>8BatchWriterLogicType</Key>
+      <Value>将输出变量 （OUT VAR） 设置为“开”。 </Value>
+    </Record>
+    <Record>
+      <Key>8Narration14D</Key>
+      <Value>批处理编写器现已完成编程。你已经准备好打开它以及逻辑读取。</Value>
     </Record>
     <Record>
       <Key>8TurnOnBatchWriter</Key>
-      <Value>按 {KEY:ToggleHandPower} 键打开 {THING:ItemTablet}。</Value>
+      <Value>打开批量编写器</Value>
+    </Record>
+    <Record>
+      <Key>8Narration15D</Key>
+      <Value>好吧，现在让我们测试整个系统 - 拉起杠杆，让那里有光！</Value>
+    </Record>
+    <Record>
+      <Key>8TurnOnWallLight</Key>
+      <Value>使用拉杆开灯</Value>
+    </Record>
+    <Record>
+      <Key>8Narration16D</Key>
+      <Value>学员，很棒的工作 - 你已经掌握了基本的逻辑。但是要传输你的结果，你需要离开这个房间。门是锁着的！使用逻辑来解决这个问题。
+首先，关闭逻辑单元。</Value>
     </Record>
     <Record>
       <Key>8TurnOffBatchWriter</Key>
-      <Value>关闭焊枪</Value>
+      <Value>关闭批量编写器</Value>
+    </Record>
+    <Record>
+      <Key>8Narration17D</Key>
+      <Value>你现在可以在不关闭灯光的情况下复位逻辑拉杆。</Value>
+    </Record>
+    <Record>
+      <Key>8Closelever</Key>
+      <Value>复位逻辑拉杆。</Value>
+    </Record>
+    <Record>
+      <Key>8Narration18D</Key>
+      <Value>对门进行编程很简单。它已经连接到网络 - 因此只需将原始逻辑编写器设置为输出到“玻璃门”，然后写入门的“打开”变量。</Value>
+    </Record>
+    <Record>
+      <Key>8BatchWriterOutput2</Key>
+      <Value>将逻辑写入器输出 （OUT） 设置为“玻璃门”</Value>
+    </Record>
+    <Record>
+      <Key>8BatchWriterLogicType2</Key>
+      <Value>将逻辑编写器变量 （OUT VAR） 设置为“打开”</Value>
+    </Record>
+    <Record>
+      <Key>8Narration19D</Key>
+      <Value>现在使用逻辑拉杆打开门。</Value>
+    </Record>
+    <Record>
+      <Key>8OpenDoor</Key>
+      <Value>使用逻辑拉杆开门</Value>
+    </Record>
+    <Record>
+      <Key>8Narration20D</Key>
+      <Value>学员，你真优秀。您现在拥有创建基本逻辑电路的知识和技能。带上你的新智慧，尝试其他设备、系统和网络。那里有一个充满可能性的世界。按下重要的蓝色按钮，将您的结果传输到发展署。</Value>
+    </Record>
+    <Record>
+      <Key>TutoiralLogicCompleteTutorial</Key>
+      <Value>这证实了该证书的认可持有者已经展示了基本逻辑系统的适当技能和知识。</Value>
     </Record>
   </Interface>
 </Language>

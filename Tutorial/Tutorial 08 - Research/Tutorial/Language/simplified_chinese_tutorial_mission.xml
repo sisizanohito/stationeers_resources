@@ -7,6 +7,11 @@
       <Value>基础研究</Value>
     </Record>
     <Record>
+      <Key>TutoiralResearchDescription</Key>
+      <!--This is the description that appers in the menu-->
+      <Value>在写这些的时候，我应该做更多的研究。我真的不知道我在说什么，我想从某种意义上说，没有人知道任何人对我们都一起乘着生活的浪潮。</Value>
+    </Record>
+    <Record>
       <Key>TutoiralAtmosphericsSubTitle</Key>
       <Value>实践培训：阶段四</Value>
     </Record>

@@ -7,6 +7,10 @@
       <Value>基础火箭</Value>
     </Record>
     <Record>
+      <Key>Tutorial-BasicRocketryDescription</Key>
+      <Value>火箭科学复习。</Value>
+    </Record>
+    <Record>
       <Key>LaunchPlatforms</Key>
       <Value>火箭学入门</Value>
     </Record>
@@ -95,6 +99,10 @@
       <Value>燃料箱</Value>
     </Record>
     <Record>
+      <Key>FuelTanks2Description</Key>
+      <Value>固定器中的火箭使用与其他需要易燃气体的物品（如焊枪或气体发生器）相同的燃料。挥发物和氧气的2：1比例提供最干净的燃烧。</Value>
+    </Record>
+    <Record>
       <Key>FuelTanks2Task1</Key>
       <Value>将 {THING:ItemKitTank} 安装到 {THING:StructureModularRocketFueltank01}</Value>
     </Record>
@@ -111,6 +119,10 @@
       <Value>货舱模块</Value>
     </Record>
     <Record>
+      <Key>CargoModuleDescription</Key>
+      <Value>货运模块允许您将设备和装置带到下一个目的地。您可以构建多个货物模块，但它们必须位于油箱上方。</Value>
+    </Record>
+    <Record>
       <Key>CargoModuleTask1</Key>
       <Value>从左边箱中拿出{THING:ItemKitStructureModularRocketCargo01}</Value>
     </Record>
@@ -121,6 +133,10 @@
     <Record>
       <Key>CargoModule2</Key>
       <Value>建造货舱</Value>
+    </Record>
+    <Record>
+      <Key>CargoModule2Description</Key>
+      <Value>构建货物模块与其他模块类似。建造多个模块将为火箭增加更多的重量，并且需要更多的燃料才能离开地球的引力场。</Value>
     </Record>
     <Record>
       <Key>CargoModule2Task1</Key>
@@ -139,12 +155,24 @@
       <Value>指令舱</Value>
     </Record>
     <Record>
+      <Key>CommandModDescription</Key>
+      <Value>指挥模块是火箭的最后一部分，也是它的中央控制点。它也是控制火箭最终目的地的模块。</Value>
+    </Record>
+    <Record>
       <Key>CommandModTask1</Key>
       <Value>从左边白色箱中拿出{THING:ItemKitStructureModularRocketCommand01}</Value>
     </Record>
     <Record>
       <Key>CommandModTask2</Key>
       <Value>在高亮位置处放置 {THING:StructureModularRocketCommand01}。</Value>
+    </Record>
+    <Record>
+      <Key>CommandMod2</Key>
+      <Value>构建命令模块</Value>
+    </Record>
+    <Record>
+      <Key>CommandMod2Description</Key>
+      <Value>该模块配有外壳隔热罩和钢化铝硅酸盐玻璃板，可以安全地离开并重新进入行星的大气层，而不会对内部的固定器造成风险。它是完全绝缘的，带有主动空调装置和碳洗涤器，以保持最佳温度和透气性。</Value>
     </Record>
     <Record>
       <Key>CommandMod2Task1</Key>
@@ -163,6 +191,10 @@
       <Value>加满燃料</Value>
     </Record>
     <Record>
+      <Key>FuelUpDescription</Key>
+      <Value>是时候为火箭加油了。预先准备好的燃料混合物已添加到大型燃油箱中。您将需要完成新建的火箭燃料模块的管道。指挥舱需要氧气，但这不是必需的，因为你穿着宇航服，有足够的储备氧气来飞行。</Value>
+    </Record>
+    <Record>
       <Key>FuelUpStraight</Key>
       <Value>在高亮位置处搭建{THING:StructureInsulatedPipeStraight}</Value>
     </Record>
@@ -175,6 +207,10 @@
       <Value>无电力</Value>
     </Record>
     <Record>
+      <Key>NoPowerDescription</Key>
+      <Value>火箭似乎没有动力。在电梯后面找到区域电源控制器。</Value>
+    </Record>
+    <Record>
       <Key>NoPower1</Key>
       <Value>打开 {THING:StructureAreaPowerControl}</Value>
     </Record>
@@ -183,8 +219,16 @@
       <Value>设置目的地</Value>
     </Record>
     <Record>
+      <Key>SettingTheDestinationDescription</Key>
+      <Value>在启动之前，您将需要使用有效的目的地对飞行计算机进行编程 - 否则您可能会最终陷入困境。在这种情况下，我们想前往土星的卫星之一Mimas。通过使用逻辑编写器将行星 ID 写入命令模块来执行此操作。</Value>
+    </Record>
+    <Record>
       <Key>SettingTheDestination1</Key>
       <Value>打开Stationpedia</Value>
+    </Record>
+    <Record>
+      <Key>SettingTheDestination2</Key>
+      <Value>导航到“世界旅行”部分，单击“旅行”，阅读有关如何设置目的地的信息，然后单击“Mimas 坐标：-712314497将其复制到剪贴板</Value>
     </Record>
     <Record>
       <Key>SettingTheDestination3</Key>
