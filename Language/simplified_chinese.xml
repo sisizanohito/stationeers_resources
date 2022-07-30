@@ -4884,7 +4884,11 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitFridgeBig</Key>
-      <Value>此套件创建一个 {THING:StructureSDBSilo}。</Value>
+      <Value>套件（大冰箱）。</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureFridgeSmall</Key>
+      <Value>小冰箱</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitVendingMachineRefrigerated</Key>

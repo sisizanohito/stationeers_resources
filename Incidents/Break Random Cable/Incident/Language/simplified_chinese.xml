@@ -6,11 +6,11 @@
   <Interface>
     <Record>
       <Key>Incident_BrokenCable_Title</Key>
-      <Value>随机烧断电线</Value>
+      <Value>烧断随机的电缆</Value>
     </Record>
     <Record>
       <Key>Incident_BrokenCable</Key>
-      <Value>侦测到强大的电流脉冲，注意烧断的电线。</Value>
+      <Value>侦测到电流过大，注意防止烧断的电线。</Value>
     </Record>
   </Interface>
 </Language>
