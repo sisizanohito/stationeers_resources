@@ -4792,11 +4792,15 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemLiquidDrain</Key>
-      <Value/>
+      <Value>套件（液体排放器）</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLiquidDrain</Key>
+      <Value>液体排放器</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemLiquidPipeAnalyzer</Key>
-      <Value/>
+      <Value>套件（液体管道分析仪）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidPipeAnalyzer</Key>
@@ -4805,6 +4809,10 @@
     <RecordThing>
       <Key>ItemKitModularRocketGasMining</Key>
       <Value>此套件创建一个{THING:StructureModularRocketEngine01}.</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitHeatExchanger</Key>
+      <Value>套件（热交换器）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitHangerDoor</Key>
