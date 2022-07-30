@@ -4823,6 +4823,10 @@
       <Value>气体热交换器</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureHeatExchangeLiquidtoGas</Key>
+      <Value>气液热交换器</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitHangerDoor</Key>
       <Value/>
     </RecordThing>
