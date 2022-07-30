@@ -126,7 +126,7 @@
     </Record>
     <Record>
       <Key>TurnOnControls</Key>
-      <Value>开关电源</Value>
+      <Value>启动开关</Value>
     </Record>
     <Record>
       <Key>TurnOnControlsDisc</Key>
@@ -141,17 +141,21 @@
       <Value>关闭焊枪</Value>
     </Record>
     <Record>
+      <Key>Narration5T</Key>
+      <Value>丢弃</Value>
+    </Record>
+    <Record>
       <Key>Narration5D</Key>
       <Value>到目前为止，你的手状态正常。很好，你会很需要它们。因此，让我们试试丢和扔。
 按 {KEY:Drop} 以丢下物品，或长按{KEY:Drop}以扔出物品。</Value>
     </Record>
     <Record>
       <Key>DropItemT1 1</Key>
-      <Value>丢下右手中的工具</Value>
+      <Value>放下右手中的工具</Value>
     </Record>
     <Record>
       <Key>DropWireCutters</Key>
-      <Value>将右手的工具丢下或扔出</Value>
+      <Value>将右手的工具放下或扔出</Value>
     </Record>
     <Record>
       <Key>ThrowControls</Key>
@@ -163,7 +167,7 @@
     </Record>
     <Record>
       <Key>DropControlsDisc</Key>
-      <Value>丢下物品</Value>
+      <Value>放下物品</Value>
     </Record>
     <Record>
       <Key>PrecisionPLaceT1 1</Key>
@@ -175,11 +179,11 @@
     </Record>
     <Record>
       <Key>Narration6D</Key>
-      <Value>有时，你需要更小心地放下物品。它们是 ODA 的财产。使用 {KEY:PrecisionPlace} ，并检查你的太空服的关节处是否平滑。</Value>
+      <Value>你有时需要更小心地放下物品，因为它们是发展署的财产。使用 {KEY:PrecisionPlace} 并测试你的太空服的关节的流畅程度。</Value>
     </Record>
     <Record>
       <Key>PrecisionPlaceControlsDisc</Key>
-      <Value>精确放置模式</Value>
+      <Value>精准放置模式</Value>
     </Record>
     <Record>
       <Key>PrecisionPlaceControlsPlaceDisc</Key>
@@ -187,7 +191,7 @@
     </Record>
     <Record>
       <Key>PrecisionPlace</Key>
-      <Value>使用&quot;精确位置&quot;将焊枪放在桌子上</Value>
+      <Value>使用&quot;精准放置&quot;将焊枪放在桌子上</Value>
     </Record>
     <Record>
       <Key>Narration7T</Key>
@@ -195,8 +199,8 @@
     </Record>
     <Record>
       <Key>Narration7D</Key>
-      <Value>我们不能教会你每一样事，但我们可以确保你已经知晓了一个最基本的道理：你决定了你是否能在太阳系中存活。
-按住 {KEY:MouseControl} 访问你的库存，然后单击面板以打开它。</Value>
+      <Value>我们没法培训你到已万事俱备，但我们可以确保你已经知晓了一个最基本的道理：只有你自己能决定你是否能在太阳系中存活。
+按住 {KEY:MouseControl} 访问你的库存，然后单击面板打开它。</Value>
     </Record>
     <Record>
       <Key>OpenToolControlsDisc</Key>
@@ -219,20 +223,78 @@
       <Value>UI 窗口</Value>
     </Record>
     <Record>
+      <Key>Narration8D</Key>
+      <Value>作为一名空间站长，你要明白条条大路通罗马：你可以尝试一切方法来解决你遇到的问题。
+这个情况也同样适用于你的太空服 - 尝试一下使用数字键打开你的物品栏。</Value>
+    </Record>
+    <Record>
+      <Key>OpenBackPackDisc</Key>
+      <Value>打开工具带</Value>
+    </Record>
+    <Record>
+      <Key>OpenBackPack</Key>
+      <Value>打开背包。</Value>
+    </Record>
+    <Record>
+      <Key>Narration9T</Key>
+      <Value>库存定位。</Value>
+    </Record>
+    <Record>
+      <Key>Narration9D</Key>
+      <Value>知道某样东西在哪里，以及如何快速获得它是很重要的：学会库存管理会在危急时刻救你一命。首先将物品从物品栏中拖入手中。</Value>
+    </Record>
+    <Record>
+      <Key>HoldMiningBeltT1Disc</Key>
+      <Value>用鼠标将采矿带从背包拖到左手中</Value>
+    </Record>
+    <Record>
       <Key>PickUpT1 2</Key>
-      <Value>将采矿带从背包拖到左侧</Value>
+      <Value>用鼠标将采矿带从背包拖到左手中</Value>
     </Record>
     <Record>
       <Key>AltDragControls</Key>
       <Value>{KEY:MouseControl} + 拖</Value>
     </Record>
     <Record>
+      <Key>AltDragControlsDisc</Key>
+      <Value>打开库存界面。</Value>
+    </Record>
+    <Record>
+      <Key>DropT1 2</Key>
+      <Value>放下或扔出采矿带</Value>
+    </Record>
+    <Record>
+      <Key>Narration10T</Key>
+      <Value>库存移动</Value>
+    </Record>
+    <Record>
+      <Key>Narration10D</Key>
+      <Value>作为一名空间站长，你会捡到很多东西。太阳系里就是这样什么都有。
+尝试将物品从外面直接拖到您的物品栏中。</Value>
+    </Record>
+    <Record>
+      <Key>DragFromWorldT1Disc</Key>
+      <Value>将采矿带从地面拖入背包</Value>
+    </Record>
+    <Record>
       <Key>AltClickControlsDisc</Key>
-      <Value>用鼠标交互</Value>
+      <Value>用鼠标操作</Value>
+    </Record>
+    <Record>
+      <Key>OpenMaskControlsDisc</Key>
+      <Value>打开头盔</Value>
     </Record>
     <Record>
       <Key>StationpediaToggleControlsDisc</Key>
       <Value>打开Stationpedia</Value>
+    </Record>
+    <Record>
+      <Key>QucikEquiptControls</Key>
+      <Value>滚轮</Value>
+    </Record>
+    <Record>
+      <Key>QucikEquiptControlsDisc</Key>
+      <Value>选择库存槽位</Value>
     </Record>
     <Record>
       <Key>QuickSelectItemControlsDisc</Key>
@@ -243,8 +305,57 @@
       <Value>打开库存</Value>
     </Record>
     <Record>
+      <Key>SecondaryActionControls</Key>
+      <Value>按住{KEY:SecondaryAction}</Value>
+    </Record>
+    <Record>
+      <Key>SecondaryActionControlsDisc</Key>
+      <Value>次要操作</Value>
+    </Record>
+    <Record>
       <Key>ControlLeftClickBuildDisc</Key>
-      <Value>建造结构。</Value>
+      <Value>建造建筑。</Value>
+    </Record>
+    <Record>
+      <Key>BuildControlsDisc</Key>
+      <Value>进入建造模式。</Value>
+    </Record>
+    <Record>
+      <Key>UseItemControls</Key>
+      <Value>按住{KEY:SecondaryAction}</Value>
+    </Record>
+    <Record>
+      <Key>UseItemControlsDisc</Key>
+      <Value>激活材料</Value>
+    </Record>
+    <Record>
+      <Key>UsePrimeControls</Key>
+      <Value>按住{KEY:PrimaryAction}</Value>
+    </Record>
+    <Record>
+      <Key>UsePrimeControlsDisc</Key>
+      <Value>使用材料</Value>
+    </Record>
+    <Record>
+      <Key>JetpackInsert</Key>
+      <Value>将采矿带从地面拖入背包</Value>
+    </Record>
+    <Record>
+      <Key>Narration11T</Key>
+      <Value>快捷键</Value>
+    </Record>
+    <Record>
+      <Key>Narration11D</Key>
+      <Value>在阿修罗生物媒体培育出三头六臂的空间站长前，你只有两只手。但是有快速的方法可以把物品放到手里。
+使用鼠标滚轮在窗口中选择一个物品，然后按“F”键装备。</Value>
+    </Record>
+    <Record>
+      <Key>RoadFlareT1Disc</Key>
+      <Value>使用快捷键装备照明弹</Value>
+    </Record>
+    <Record>
+      <Key>GetRoadFlare</Key>
+      <Value>将照明弹从背包放到左手</Value>
     </Record>
     <Record>
       <Key>PickUpT1 9</Key>
