@@ -5368,7 +5368,7 @@
     </Record>
     <Record>
       <Key>GrabThighR</Key>
-      <Value>抓住右大腿</Value>
+      <Value>抓住右侧大腿</Value>
     </Record>
     <Record>
       <Key>GrabThighL</Key>
@@ -5664,7 +5664,7 @@
     </Record>
     <Record>
       <Key>Magazine</Key>
-      <Value>弹药库</Value>
+      <Value>弹匣</Value>
     </Record>
     <Record>
       <Key>TemperatureUp</Key>
@@ -5684,11 +5684,11 @@
     </Record>
     <Record>
       <Key>Button5</Key>
-      <Value>按键5</Value>
+      <Value>5号按键</Value>
     </Record>
     <Record>
       <Key>Button6</Key>
-      <Value>按键6</Value>
+      <Value>6号按键</Value>
     </Record>
     <Record>
       <Key>UnpackAll</Key>
@@ -5700,31 +5700,31 @@
     </Record>
     <Record>
       <Key>Cartridge2</Key>
-      <Value>记忆卡 2</Value>
+      <Value>2号记忆卡</Value>
     </Record>
     <Record>
       <Key>Cartridge1</Key>
-      <Value>记忆卡 1</Value>
+      <Value>1号记忆卡</Value>
     </Record>
     <Record>
       <Key>Next</Key>
-      <Value>下一页</Value>
+      <Value>下一个</Value>
     </Record>
     <Record>
       <Key>Prev</Key>
-      <Value>上一页</Value>
+      <Value>上一个</Value>
     </Record>
     <Record>
       <Key>Previous</Key>
-      <Value>上一页</Value>
+      <Value>上一个</Value>
     </Record>
     <Record>
       <Key>Button7</Key>
-      <Value>按键4</Value>
+      <Value>7号按键</Value>
     </Record>
     <Record>
       <Key>Button8</Key>
-      <Value>按键4</Value>
+      <Value>8号按键</Value>
     </Record>
     <Record>
       <Key>Button9</Key>
