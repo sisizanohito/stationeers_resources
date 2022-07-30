@@ -4827,8 +4827,20 @@
       <Value>气液热交换器</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureHeatExchangeLiquidAndGas</Key>
+      <Value>液体和气体热交换</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitHangerDoor</Key>
-      <Value/>
+      <Value>套件（吊柜门）</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>LogicStepSequencer8</Key>
+      <Value>逻辑步进排序器</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StopWatch</Key>
+      <Value>秒表</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemSoundCartridgeLeads</Key>
@@ -4859,8 +4871,16 @@
       <Value/>
     </RecordThing>
     <RecordThing>
+      <Key>StructureShelfMedium</Key>
+      <Value>中型货架</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>PassiveSpeaker</Key>
       <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureFridgeBig</Key>
+      <Value>冰箱（大）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitFridgeBig</Key>
