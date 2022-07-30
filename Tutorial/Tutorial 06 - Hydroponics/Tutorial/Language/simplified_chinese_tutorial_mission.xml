@@ -4,80 +4,213 @@
   <Interface>
     <Record>
       <Key>TutoiralHydroponicsAndFood</Key>
-      <Value>基础水培</Value>
+      <Value>基础水培与食物</Value>
     </Record>
     <Record>
       <Key>TutoiralHydroponicsAndFood</Key>
       <!--This is the description that appers in the menu-->
-      <Value>基础水培</Value>
+      <Value>基础水培与食物</Value>
+    </Record>
+    <Record>
+      <Key>TutoiralHydroponicsAndFoodSubTitle</Key>
+      <Value>饿了吗？测试你在外太空维持自己的能力。</Value>
     </Record>
     <Record>
       <Key>TutoiralHydroponicsAndFoodSubTitle2</Key>
-      <Value>实践培训：阶段一</Value>
+      <Value>实践培训：阶段六</Value>
+    </Record>
+    <Record>
+      <Key>TutoiralHydroponicsAndFoodDescription</Key>
+      <Value>欢迎学员。现在是时候测试你在远离家乡的地方维持自己的能力了。</Value>
+    </Record>
+    <Record>
+      <Key>6Narration1D2</Key>
+      <Value>在这个阶段，我们将研究保持自己的水分，种植作物，并将其烹饪成有用的东西。首先设置一个水瓶加注站。</Value>
+    </Record>
+    <Record>
+      <Key>6Narration1D</Key>
+      <Value>在任何补水系统中，您都需要一个存放水的地方。构建水箱和水箱连接器，以便将其连接到管网。 </Value>
     </Record>
     <Record>
       <Key>6BuildTankConnecter</Key>
-      <Value>在高亮位置生成控制台</Value>
+      <Value>在高亮位置建造水箱连接器</Value>
+    </Record>
+    <Record>
+      <Key>6MoveThingArea</Key>
+      <Value>将水箱抱到水箱连接器上</Value>
+    </Record>
+    <Record>
+      <Key>ConnectTankToConnecter</Key>
+      <Value>使用扳手将水箱连接到水箱连接器。</Value>
+    </Record>
+    <Record>
+      <Key>6Narration3D</Key>
+      <Value>通过将液体管道连接到水箱连接器来完成液体管网。</Value>
     </Record>
     <Record>
       <Key>6GetPipe</Key>
-      <Value>拿起 {THING:ItemIronSheets}. </Value>
+      <Value>从箱子中拿取液体管道</Value>
     </Record>
     <Record>
       <Key>6BuildPipe</Key>
-      <Value>放置物品</Value>
+      <Value>将 T 形连接管放置在高亮位置</Value>
+    </Record>
+    <Record>
+      <Key>6BuildPipept2</Key>
+      <Value>将管道放置于高亮位置</Value>
+    </Record>
+    <Record>
+      <Key>6BuildPipept3</Key>
+      <Value>将 T 形连接管放置在高亮位置</Value>
+    </Record>
+    <Record>
+      <Key>6Narration4D</Key>
+      <Value>在你种植任何东西之前，设置一个生长灯，这样它们可以整夜生长。</Value>
     </Record>
     <Record>
       <Key>6GetGrowLight</Key>
-      <Value>从箱子拿走电弧炉套件。</Value>
+      <Value>从箱子中获取生长灯套件</Value>
     </Record>
     <Record>
       <Key>6BuildGrowLight</Key>
-      <Value>将复合门#1放在高亮位置</Value>
+      <Value>将生长灯放在突出高亮位置</Value>
     </Record>
     <Record>
       <Key>6GrowLightOn</Key>
-      <Value>开启焊枪</Value>
+      <Value>打开生长灯</Value>
+    </Record>
+    <Record>
+      <Key>6Narration5D</Key>
+      <Value>不同的植物需要不同的大气比例。
+但今天，我们只是在测试基础知识：你有水，光和正确的气体混合物，所以是时候在每个水培托盘中种植小麦了。</Value>
     </Record>
     <Record>
       <Key>6GetWheat</Key>
-      <Value>从箱子拿走煤炭</Value>
+      <Value>从箱子中获取小麦种子</Value>
+    </Record>
+    <Record>
+      <Key>6PlantWheat</Key>
+      <Value>在水培托盘中种植小麦。</Value>
+    </Record>
+    <Record>
+      <Key>6Narration6D</Key>
+      <Value>我们将在下一阶段测试你的气体系统技能，但现在，只需等待小麦生长即可。我们添加了一点超级肥料来加快速度。</Value>
+    </Record>
+    <Record>
+      <Key>6WaitForWheatToGrow</Key>
+      <Value>等待小麦生长。</Value>
+    </Record>
+    <Record>
+      <Key>6Narration6D</Key>
+      <Value>我们将在下一阶段测试你的气体系统技能，但现在，只需等待小麦生长即可。我们添加了一点超级肥料来加快速度。</Value>
+    </Record>
+    <Record>
+      <Key>6HarvestWheat</Key>
+      <Value>收获20小麦</Value>
+    </Record>
+    <Record>
+      <Key>6PutWheatInProcessor</Key>
+      <Value>将小麦添加到试剂处理器中</Value>
     </Record>
     <Record>
       <Key>6BenchOn</Key>
-      <Value>按 {KEY:ToggleHandPower} 键打开 {THING:ItemTablet}。</Value>
+      <Value>打开工作台</Value>
+    </Record>
+    <Record>
+      <Key>6ReagentProcessorOn</Key>
+      <Value>打开试剂处理器</Value>
+    </Record>
+    <Record>
+      <Key>6Narration8D</Key>
+      <Value>过一会儿，你会有面粉，所以你可以开始烘焙。您可以在微波炉中烹饪各种食物，包括美味的松饼。确保严格遵循食谱，因为烘焙是一门科学。</Value>
+    </Record>
+    <Record>
+      <Key>6PutEggInMicrowave</Key>
+      <Value>将鸡蛋加入微波炉</Value>
+    </Record>
+    <Record>
+      <Key>6PutMilkInMicrowave</Key>
+      <Value>将10毫升牛奶加入微波炉中</Value>
+    </Record>
+    <Record>
+      <Key>6PutFlourInMicrowave</Key>
+      <Value>将50克面粉加入微波炉中</Value>
     </Record>
     <Record>
       <Key>6MicrowaveOn</Key>
-      <Value>打开这个逻辑读取的开关。</Value>
+      <Value>打开微波炉</Value>
     </Record>
     <Record>
       <Key>6BakeMuffin</Key>
-      <Value>烤 {THING:ItemMuffin}</Value>
+      <Value>烘烤松饼</Value>
+    </Record>
+    <Record>
+      <Key>6Narration9D</Key>
+      <Value>你即将拿到农业史上最好的松饼之一。学员，享受它并消除饥饿。</Value>
+    </Record>
+    <Record>
+      <Key>6EatMuffin</Key>
+      <Value>吃松饼</Value>
+    </Record>
+    <Record>
+      <Key>6Narration10D</Key>
+      <Value>学员，干得好。你已经表现出高度的自给自足，以及良好的烹饪天赋。空间站长总指挥会为你感到骄傲。按重按蓝色按钮传输成绩。</Value>
     </Record>
     <Record>
       <Key>6OnButtonPressTask</Key>
-      <Value>按“Cycle to Interior”(意为对气闸进行复压操作)。</Value>
+      <Value>按下重要按钮</Value>
+    </Record>
+    <Record>
+      <Key>6FlourCreated</Key>
+      <Value>制作面粉</Value>
+    </Record>
+    <Record>
+      <Key>6NarrationInsert1D</Key>
+      <Value>现在你有了供水，让我们开始种植。水培托盘为种植各种植物提供了一个简单有效的系统。通过向阵列添加另一个托盘来完成网络。</Value>
     </Record>
     <Record>
       <Key>6MicrowaveClosed</Key>
-      <Value>打开这个逻辑读取的开关。</Value>
+      <Value>关闭微波炉</Value>
     </Record>
     <Record>
       <Key>6MicrowaveOpened</Key>
-      <Value>打开这个逻辑读取的开关。</Value>
+      <Value>打开微波炉</Value>
     </Record>
     <Record>
       <Key>6HydroponicTray</Key>
-      <Value>水培固定</Value>
+      <Value>安装水培托盘</Value>
     </Record>
     <Record>
       <Key>6BuildCables</Key>
-      <Value>在高亮位置生成控制台</Value>
+      <Value>在高亮位置安装电缆</Value>
+    </Record>
+    <Record>
+      <Key>6PickUpCable</Key>
+      <Value>拾取电缆</Value>
+    </Record>
+    <Record>
+      <Key>6PickUpCable</Key>
+      <Value>拾取电缆</Value>
+    </Record>
+    <Record>
+      <Key>6PickUpItemHydroponicTray</Key>
+      <Value>拿起水培托盘</Value>
+    </Record>
+    <Record>
+      <Key>6GetFlour</Key>
+      <Value>从试剂处理器获取面粉</Value>
+    </Record>
+    <Record>
+      <Key>6EndScreenText</Key>
+      <Value>学员，干得好。您已经展示了良好的供水和水培技能。</Value>
+    </Record>
+    <Record>
+      <Key>6WaitForGrow</Key>
+      <Value>等待小麦生长</Value>
     </Record>
     <Record>
       <Key>6GetWaterBottleFiller</Key>
-      <Value>从箱子拿起主动通风口</Value>
+      <Value>从箱子中获取水瓶灌装机套件</Value>
     </Record>
     <Record>
       <Key>6BuildWaterBottleFiller</Key>

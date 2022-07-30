@@ -235,35 +235,112 @@
     </Record>
     <Record>
       <Key>4.5HowToMakeSteel</Key>
-      <Value>关闭{LINK:Home;百科全书}</Value>
+      <Value>查阅空间站百科内钢锭页面</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration17D</Key>
+      <Value>当您从熔炉中加入碳（煤）和铁时，炉子将自动开始冶炼合金。如果你在加入煤之前将铁弹出，你只能制作出一个铁锭。</Value>
+    </Record>
+    <Record>
+      <Key>4.5AddIrontoFurnace</Key>
+      <Value>加入24铁</Value>
+    </Record>
+    <Record>
+      <Key>4.5AddCoaltoFurnace</Key>
+      <Value>添加8煤</Value>
+    </Record>
+    <Record>
+      <Key>4.5SmeltSteel</Key>
+      <Value>等待钢锭完成冶炼</Value>
     </Record>
     <Record>
       <Key>4.5PickUpSteel</Key>
-      <Value>从箱子里捡起金锭。</Value>
+      <Value>弹出并拾取钢锭</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration18D</Key>
+      <Value>干得好，学员。现在，您拥有建造电池站升级电源系统所需的一切。使用电子打印机打印套件（电池）。</Value>
+    </Record>
+    <Record>
+      <Key>4.5MakeStationBattery</Key>
+      <Value>打印套件（电池）</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration19D</Key>
+      <Value>非常好。电池站可让您存储多余的电力，因此您无需持续发电。将其与阵列中的其他电池一起放置。</Value>
     </Record>
     <Record>
       <Key>4.5BuildStationBattery</Key>
-      <Value>在高亮位置生成控制台</Value>
+      <Value>将套件（电池）放在高亮的位置</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration20D</Key>
+      <Value>为了安全起见，必须打开电池才能通电。电池的电源开关位于侧面。</Value>
+    </Record>
+    <Record>
+      <Key>4.5TurnBattery</Key>
+      <Value>使用侧面开关打开电池</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration21D</Key>
+      <Value>快搞定了！打开电池网络的区域电源控制器以将其连接到主电源网络。区域电源控制器分离电池网络，确保稳定的电源流入主网络。</Value>
+    </Record>
+    <Record>
+      <Key>4.5TurnAPC1</Key>
+      <Value>打开电池网络的区域电源控制器</Value>
     </Record>
     <Record>
       <Key>4.5TurnAPC</Key>
-      <Value>开启焊枪</Value>
+      <Value>打开主电源区域电源控制器</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration22D</Key>
+      <Value>恭喜！你的基地的电力系统完成了！这是实际测试的最后一步，第五阶段。
+按重要的“完成”按钮将结果传输到总指挥。</Value>
+    </Record>
+    <Record>
+      <Key>4.5OnButtonPressTaskT1</Key>
+      <Value>按下重要按钮完成测试</Value>
+    </Record>
+    <Record>
+      <Key>4.5AddCoppertoFurnace</Key>
+      <Value>将50铜矿石插入炉中</Value>
     </Record>
     <Record>
       <Key>4.5TurnOffVolPump</Key>
-      <Value>关闭 {THING:StructureVolumePump}</Value>
+      <Value>关闭容积泵</Value>
+    </Record>
+    <Record>
+      <Key>4.5CloseFurnace</Key>
+      <Value>用释放杆关闭熔炉</Value>
+    </Record>
+    <Record>
+      <Key>TutoiralSmeltingEndDescription</Key>
+      <Value>出色的工作，学员，你已经掌握了基本的钢铁冶炼。</Value>
     </Record>
     <Record>
       <Key>4.5OpenMiningbelt</Key>
-      <Value>装备采矿腰带.</Value>
+      <Value>打开采矿带.</Value>
+    </Record>
+    <Record>
+      <Key>4.5PediaNavigationClose</Key>
+      <Value>阅读完后关闭空间站百科</Value>
     </Record>
     <Record>
       <Key>4.5RemoveDataDisk</Key>
-      <Value>把数据磁盘从 {THING:StructureConsole}里移走。</Value>
+      <Value>把数据磁盘从控制台里取出</Value>
+    </Record>
+    <Record>
+      <Key>4.5NarrationInsert1D</Key>
+      <Value>你的铜锭已完成。拉动拉杆以卸下完成的金属锭</Value>
+    </Record>
+    <Record>
+      <Key>4.5NarrationInsert2D</Key>
+      <Value>现在打开主电源网络，然后...要有光</Value>
     </Record>
     <Record>
       <Key>4.5OpenAPCTask</Key>
-      <Value>开启焊枪</Value>
+      <Value>打开主电网区域电源控制器</Value>
     </Record>
   </Interface>
 </Language>
