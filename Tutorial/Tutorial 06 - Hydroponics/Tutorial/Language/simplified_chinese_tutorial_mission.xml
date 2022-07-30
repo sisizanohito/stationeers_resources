@@ -214,19 +214,35 @@
     </Record>
     <Record>
       <Key>6BuildWaterBottleFiller</Key>
-      <Value>在高亮位置处放置 {THING:StructureGasMixer}。</Value>
+      <Value>将水瓶灌装机放在高亮位置</Value>
+    </Record>
+    <Record>
+      <Key>6NarrationExtra1</Key>
+      <Value>你已经准备好装满你的水瓶了。从箱子中取出一个空瓶子，然后将其插入瓶子灌装机中。</Value>
     </Record>
     <Record>
       <Key>6GetWaterBottle</Key>
-      <Value>从箱子拿起主动通风口</Value>
+      <Value>从箱子中拿取空水瓶</Value>
+    </Record>
+    <Record>
+      <Key>6AddWaterbottletofiller</Key>
+      <Value>将水瓶放入灌装机</Value>
+    </Record>
+    <Record>
+      <Key>6NarrationExtra2</Key>
+      <Value>非常好。现在是时候向液体管网中添加水了。从箱子中取出采矿带。然后使用碎冰机将冰处理成水。</Value>
     </Record>
     <Record>
       <Key>6GetMingBelt</Key>
-      <Value>从箱子里捡起金锭。</Value>
+      <Value>从箱子中获取采矿带</Value>
+    </Record>
+    <Record>
+      <Key>6AddIceToCrusher</Key>
+      <Value>从采矿带拿出冰并加入碎冰机</Value>
     </Record>
     <Record>
       <Key>6MIceCrusherOn</Key>
-      <Value>打开这个逻辑读取的开关。</Value>
+      <Value>打开碎冰机灌装瓶子</Value>
     </Record>
   </Interface>
 </Language>

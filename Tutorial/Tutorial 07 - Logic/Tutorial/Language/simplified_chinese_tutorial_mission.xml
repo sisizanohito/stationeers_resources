@@ -3,12 +3,30 @@
   <Code>CN</Code>
   <Interface>
     <Record>
+      <Key>TutoiralLogic</Key>
+      <Value>逻辑电路</Value>
+    </Record>
+    <Record>
+      <Key>TutoiralLogicDescription</Key>
+      <!--This is the description that appers in the menu-->
+      <Value>增强您对基本逻辑系统的理解。</Value>
+    </Record>
+    <Record>
       <Key>TutoiralLogicSubTitle</Key>
-      <Value>实践培训：阶段三</Value>
+      <Value>实践培训：阶段八</Value>
+    </Record>
+    <Record>
+      <Key>IntoTutoiralLogicDescription</Key>
+      <Value>学员，欢迎回来。总指挥想要测试您对基本逻辑电路的理解。
+通过设计照明控制系统来展示您的技能。</Value>
+    </Record>
+    <Record>
+      <Key>8Narration0D</Key>
+      <Value>与银河系中的大多数逻辑系统一样，空间站长设备使用两个值：0和1来设置“开/关”，“打开/关闭”和“锁定/解锁”等状态。今天，您将使用逻辑系统来控制照明系统。首先放置一个电灯开关。使用套件（逻辑开关）中的拉杆。</Value>
     </Record>
     <Record>
       <Key>8ConstructLever</Key>
-      <Value>在高亮位置生成控制台</Value>
+      <Value>使用套件（逻辑开关）将拉杆放置在高亮处</Value>
     </Record>
     <Record>
       <Key>8ConstructCable</Key>

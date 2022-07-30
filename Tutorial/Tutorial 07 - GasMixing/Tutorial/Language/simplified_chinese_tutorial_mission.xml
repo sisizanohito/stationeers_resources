@@ -4,151 +4,321 @@
   <Interface>
     <Record>
       <Key>TutoiralGasMixing</Key>
-      <Value>气体混合和说明</Value>
+      <Value>气体混合</Value>
     </Record>
     <Record>
       <Key>TutoiralGasMixingSubTitle</Key>
       <Value>实践培训：阶段四</Value>
     </Record>
     <Record>
+      <Key>GasMixingDescription</Key>
+      <Value>扩展你在气体混合和过滤领域的技能，以创造空气，燃料等。</Value>
+    </Record>
+    <Record>
+      <Key>IntoTutoiralGasMixingDescription</Key>
+      <Value>学员，欢迎你！作为一个空间站长，你需要为遥远的发展署基地创造各种燃料和空气。因此，让我们来探索一下您在气体过滤和混合方面的知识。</Value>
+    </Record>
+    <Record>
+      <Key>7Narration0D</Key>
+      <Value>一个空间站长的工作永远做不完，但你的焊枪已经没气了！是时候制造更多的燃料了。首先，你需要一个氧气来源。
+您的植物从 CO2 中产生氧气，而您的宇航服废气罐中有很多二氧化碳。只需在水培室通风即可。</Value>
+    </Record>
+    <Record>
       <Key>7WasteTankOpened</Key>
-      <Value>取出你宇航服里的氧气罐。</Value>
+      <Value>打开宇航服废气罐</Value>
+    </Record>
+    <Record>
+      <Key>7WasteTankClosed</Key>
+      <Value>关闭宇航服废气罐</Value>
+    </Record>
+    <Record>
+      <Key>7Narration1D</Key>
+      <Value>为了从这个房间的大气中提取氧气，请在高亮处安装一个主动通风口。用它来将大气泵送到您的过滤系统。</Value>
     </Record>
     <Record>
       <Key>7GetActiveVent</Key>
       <Value>从箱子拿起主动通风口</Value>
     </Record>
     <Record>
+      <Key>7BuildActiveVent</Key>
+      <Value>在高亮处安装主动通风口</Value>
+    </Record>
+    <Record>
+      <Key>7Narration2D</Key>
+      <Value>现在，暂时不要理会你的绿色植物。穿过气闸进入大气室，搭建你的气体混合系统。</Value>
+    </Record>
+    <Record>
+      <Key>7MoveToArea</Key>
+      <Value>进入气体室</Value>
+    </Record>
+    <Record>
+      <Key>7Narration3D</Key>
+      <Value>要从水培室空气中提取氧气，您需要反转熵。这就是为什么下一步是建造过滤装置。</Value>
+    </Record>
+    <Record>
       <Key>7GetAtmospherics</Key>
-      <Value>从箱子拿起主动通风口</Value>
+      <Value>从箱子中拿取空气套件</Value>
     </Record>
     <Record>
       <Key>7BuildAtmospherics</Key>
-      <Value>在高亮位置生成控制台</Value>
+      <Value>在高亮处建造过滤器</Value>
+    </Record>
+    <Record>
+      <Key>7Narration4D</Key>
+      <Value>为了将水培室的空气泵送到过滤器中，请完成绿色的氧气管网。</Value>
     </Record>
     <Record>
       <Key>7GetPipeKit</Key>
-      <Value>从箱子拿起主动通风口</Value>
+      <Value>从箱子中拿取管道</Value>
+    </Record>
+    <Record>
+      <Key>7BuildPipe</Key>
+      <Value>完成氧气管网</Value>
+    </Record>
+    <Record>
+      <Key>7Narration5D</Key>
+      <Value>过滤器产生两种东西：可用气体和废气。将过滤装置的废气出口连接到废气网络，以便您可以将不需要的气体排出到无限的真空中。</Value>
     </Record>
     <Record>
       <Key>7GetPipeKitW</Key>
-      <Value>从箱子拿起主动通风口</Value>
+      <Value>从箱子中获取第二个管道套件</Value>
     </Record>
     <Record>
       <Key>7BuildPipeW</Key>
-      <Value>从箱子拿起主动通风口</Value>
+      <Value>完成废气网络</Value>
+    </Record>
+    <Record>
+      <Key>7Narration6D</Key>
+      <Value>过滤装置可以同时过滤出两种气体，但现在你只需要氧气来混合焊枪燃料。因此，在装置中添加氧气过滤器。</Value>
     </Record>
     <Record>
       <Key>7GetFilter</Key>
-      <Value>拿起 {THING:ItemIronSheets}. </Value>
+      <Value>从箱子中获取氧气过滤器</Value>
+    </Record>
+    <Record>
+      <Key>7AddFilterToFilitration</Key>
+      <Value>在过滤装置中插入氧气过滤罐</Value>
+    </Record>
+    <Record>
+      <Key>7Narration7D</Key>
+      <Value>为了减少燃料意外点燃的机会，你最好冷却气体。许多空间站长以我们不希望的方式了解到了这一点。为了冷却管道，请将它们运行到室外并安装管道散热器，以分散热量。</Value>
     </Record>
     <Record>
       <Key>7GetPipeRadiator</Key>
-      <Value>拿起 {THING:ItemIronSheets}. </Value>
+      <Value>从箱子中拿取管道散热器</Value>
     </Record>
     <Record>
       <Key>7BuildPipeRadiator</Key>
-      <Value>将复合门#1放在高亮位置</Value>
+      <Value>在高亮处安装管道散热器</Value>
+    </Record>
+    <Record>
+      <Key>7Narration8D</Key>
+      <Value>碎冰机是从冰矿石中获取气体的好方法。将碎冰机的气体输出连接到“挥发性”气体网络。 </Value>
     </Record>
     <Record>
       <Key>7GetIceCrusher</Key>
-      <Value>拿起 {THING:ItemIronSheets}. </Value>
+      <Value>从箱子中拿取碎冰机</Value>
     </Record>
     <Record>
       <Key>7BuildIceCrusher</Key>
-      <Value>在高亮位置生成控制台</Value>
+      <Value>在高亮处建造碎冰机</Value>
     </Record>
     <Record>
       <Key>7ConstructIceCruhser</Key>
-      <Value>打开这个逻辑读取的开关。</Value>
+      <Value>在碎冰机上安装铁皮</Value>
     </Record>
     <Record>
       <Key>7ConstructIceCruhser2</Key>
-      <Value>搭建好玻璃门。</Value>
+      <Value>用电缆完成碎冰机</Value>
+    </Record>
+    <Record>
+      <Key>7Narration9D</Key>
+      <Value>最常用的燃料有两种成分：氧气和挥发性气体。		
+箱子的采矿带中有挥发性冰块。在碎冰机中加入一些进行处理。注意：挥发物只有在采矿带或破碎机内部才不会迅速升华。</Value>
     </Record>
     <Record>
       <Key>7GetMiningBelt</Key>
-      <Value>从箱子里捡起金锭。</Value>
+      <Value>从箱子中获取采矿带</Value>
     </Record>
     <Record>
       <Key>7AddIceToCrusher</Key>
-      <Value>打开这个逻辑读取的开关。</Value>
+      <Value>向碎冰机中添加挥发物</Value>
+    </Record>
+    <Record>
+      <Key>7Narration10D</Key>
+      <Value>要混合燃料，您需要使用气体混合器连接氧气和挥发性网络。混合器可让您设置正确的比例，避免不良混合的无用和失望。</Value>
     </Record>
     <Record>
       <Key>7GetGasMixer</Key>
-      <Value>从箱子拿起主动通风口</Value>
+      <Value>从箱子中获取气体混合器</Value>
     </Record>
     <Record>
       <Key>7BuildGasMixer</Key>
       <Value>在高亮位置建造气体传感器</Value>
     </Record>
     <Record>
+      <Key>7Narration11D</Key>
+      <Value>为了确保你的罐子不会压力超标，请添加一个压力调节器 - 对于想要保持身体完整的空间站长来说，这是另一个重要的教训。</Value>
+    </Record>
+    <Record>
       <Key>7GetRegulator</Key>
-      <Value>从箱子拿起主动通风口</Value>
+      <Value>从箱子中拿取压力调节器</Value>
     </Record>
     <Record>
       <Key>7BuildRegulator</Key>
-      <Value>在高亮位置建造压力传感器</Value>
+      <Value>在高亮位置建造压力调节器</Value>
+    </Record>
+    <Record>
+      <Key>7Narration12D</Key>
+      <Value>你不希望气体在你准备好之前就混合。因此，你需要使用阀门打开和关闭管道。我们已经为你准备好了一个。将另一个安装到您的氧气网络中。</Value>
     </Record>
     <Record>
       <Key>7GetValve</Key>
-      <Value>从箱子拿起主动通风口</Value>
+      <Value>从箱子中拿取管道阀</Value>
     </Record>
     <Record>
       <Key>7BuildValve</Key>
-      <Value>在高亮位置生成控制台</Value>
+      <Value>将阀门安装于高亮处</Value>
+    </Record>
+    <Record>
+      <Key>7Narration13D</Key>
+      <Value>要为燃料罐填充，请将其放入储罐存储单元中。它们可以直接连接到管网。在指定位置构建一个。</Value>
     </Record>
     <Record>
       <Key>7GetTankConnector</Key>
-      <Value>从箱子拿起主动通风口</Value>
+      <Value>从箱子中拿取储罐存储单元</Value>
     </Record>
     <Record>
       <Key>7BuildTankConnector</Key>
-      <Value>在高亮位置生成控制台</Value>
+      <Value>在高亮处安装储罐存储单元</Value>
+    </Record>
+    <Record>
+      <Key>7Narration14D</Key>
+      <Value>非常好！您的气体网络现在已经建设完毕。将焊枪的空燃料罐插入存储单元，以重新加注。</Value>
     </Record>
     <Record>
       <Key>7GetEmptyTank</Key>
-      <Value>从箱子拿走电池</Value>
+      <Value>从存储单元中拿回容器</Value>
+    </Record>
+    <Record>
+      <Key>7AddCanisterToTankConnector</Key>
+      <Value>将焊枪燃料罐插入储罐存储单元</Value>
+    </Record>
+    <Record>
+      <Key>7Narration15D</Key>
+      <Value>要找到燃料的正确气体混合比，请参阅空间站百科（燃料） 页面。</Value>
+    </Record>
+    <Record>
+      <Key>7SetGasMix</Key>
+      <Value>将气体混合阀设置为 66：34</Value>
     </Record>
     <Record>
       <Key>7PediaNavigation</Key>
-      <Value>关闭{LINK:Home;百科全书}</Value>
+      <Value>查阅空间站百科中的罐（燃料）页面</Value>
+    </Record>
+    <Record>
+      <Key>7PediaNavigationClose</Key>
+      <Value>关闭空间站百科</Value>
+    </Record>
+    <Record>
+      <Key>7Narration16D</Key>
+      <Value>很好，现在在压力调节器上设置压力。这将阻止你的罐子过度加压和爆炸。罐子的安全压力为1950kPa，尽管它们可以承受近10MPa。</Value>
     </Record>
     <Record>
       <Key>7LimitRegulator</Key>
-      <Value>在 {THING:StructurePressureRegulator} 设置压力为1950kpa</Value>
+      <Value>将压力调节器压力设定为1950kPa</Value>
+    </Record>
+    <Record>
+      <Key>7Narration17D</Key>
+      <Value>学员，干得漂亮！一切都准备就绪。你现在可以安全地开始打开设备以开始生产燃料。</Value>
+    </Record>
+    <Record>
+      <Key>7ActiveVentOn</Key>
+      <Value>水培室：打开主动通风口</Value>
     </Record>
     <Record>
       <Key>7IceCrusherOn</Key>
-      <Value>打开这个逻辑读取的开关。</Value>
+      <Value>打开碎冰机</Value>
     </Record>
     <Record>
       <Key>7FilterOn</Key>
-      <Value>按 {KEY:ToggleHandPower} 键打开 {THING:ItemTablet}。</Value>
+      <Value>打开过滤器</Value>
+    </Record>
+    <Record>
+      <Key>7GasMixerOn</Key>
+      <Value>打开气体混合器</Value>
     </Record>
     <Record>
       <Key>7PressureReg</Key>
-      <Value>压力调节器</Value>
+      <Value>打开压力调节器</Value>
+    </Record>
+    <Record>
+      <Key>7Narration17DB</Key>
+      <Value>挥发物和氧气目前在管道中等待。打开阀门，让它们通过气体混合器流入焊枪罐。</Value>
+    </Record>
+    <Record>
+      <Key>7VolatilesValveOn</Key>
+      <Value>开式挥发物气体管道阀</Value>
+    </Record>
+    <Record>
+      <Key>7OxideValveOn</Key>
+      <Value>打开氧气管道阀</Value>
+    </Record>
+    <Record>
+      <Key>7Narration18D</Key>
+      <Value>学员，很好。你的燃料罐现已重新加注。发展署对你的自给自足感到宽慰和印象深刻。将燃料罐重新装回焊枪。</Value>
+    </Record>
+    <Record>
+      <Key>7AddTankToWeilder</Key>
+      <Value>将燃料罐装回焊枪</Value>
+    </Record>
+    <Record>
+      <Key>7Narration19D</Key>
+      <Value>学员，你真是非常有前途。发展署将听到您可以信任过滤和混合可燃燃料。出色的进步。按下神秘的蓝色按钮以传输您的成绩。</Value>
     </Record>
     <Record>
       <Key>7OpenSuit</Key>
-      <Value>取出你宇航服里的氧气罐。</Value>
+      <Value>打开宇航服界面</Value>
     </Record>
     <Record>
       <Key>7OpenWasteTankMenu</Key>
-      <Value>取出你宇航服里的氧气罐。</Value>
+      <Value>选择废气罐</Value>
     </Record>
     <Record>
       <Key>7FinishDoor</Key>
-      <Value>循环气密门</Value>
+      <Value>完成气闸建造</Value>
+    </Record>
+    <Record>
+      <Key>7Narration19AD</Key>
+      <Value>现在，您可以通过使用完全加油的焊枪修建气闸来完成这个房间。让我们一起来建造吧！</Value>
     </Record>
     <Record>
       <Key>7GetTablet</Key>
-      <Value>从箱子拿走平板</Value>
+      <Value>从背包装备平板电脑</Value>
     </Record>
     <Record>
       <Key>7InsertCart</Key>
-      <Value>将 {THING:CartridgeAtmosAnalyser} 放入 {THING:ItemTablet}</Value>
+      <Value>将空气分析仪插入平板电脑</Value>
+    </Record>
+    <Record>
+      <Key>7TabletOn</Key>
+      <Value>打开平板电脑扫描气体管道</Value>
+    </Record>
+    <Record>
+      <Key>7TabletOff</Key>
+      <Value>扫描后关闭平板电脑</Value>
+    </Record>
+    <Record>
+      <Key>7Narration18DTablet</Key>
+      <Value>非常好。当罐子装满后，使用平板电脑检查氧气是否进入管道。您需要插入空气分析模块，然后将平板放在管道上。</Value>
+    </Record>
+    <Record>
+      <Key>7ActiveVentInward</Key>
+      <Value>水培室：将主动通风口设置为“向内”</Value>
+    </Record>
+    <Record>
+      <Key>GasMixingCompleteTutorial</Key>
+      <Value>发展署特此承认该证书的持有者在气体混合和过滤学科中具有一定程度的基本熟练程度。</Value>
     </Record>
   </Interface>
 </Language>
