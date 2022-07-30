@@ -4,7 +4,12 @@
   <Interface>
     <Record>
       <Key>TutoiralSmelting</Key>
-      <Value>基础熔炼</Value>
+      <Value>合金冶炼</Value>
+    </Record>
+    <Record>
+      <Key>TutoiralSmeltingDescription</Key>
+      <!--This is the description that appers in the menu-->
+      <Value>升级摸的冶炼技能，并学习为建造更雄心勃勃的建筑而冶炼金属合金。</Value>
     </Record>
     <Record>
       <Key>TutoiralAtmosphericsSubTitle</Key>
@@ -16,67 +21,217 @@
     </Record>
     <Record>
       <Key>TutoiralSmletingSubTitle</Key>
-      <Value>实践培训：阶段四</Value>
+      <Value>实践培训：阶段五</Value>
+    </Record>
+    <Record>
+      <Key>TutoiralSmletingDescription</Key>
+      <Value>欢迎你，学员。总指挥对你的进步感到满意。他们已授权您升级技能。在此阶段，我们将测试您的合金冶炼能力，以创建更先进的结构和设备。</Value>
     </Record>
     <Record>
       <Key>4.5Narration1T</Key>
       <Value>基础熔炼</Value>
     </Record>
     <Record>
+      <Key>4.5Narration1D</Key>
+      <Value>您已经向基地中添加了很多设备，但电力越来越紧张。一个电池站可以帮助你存储多余的电量以在其他时间使用。这些设备需要钢来制造。所以首先，你必须建造一个熔炼合金的炉子。</Value>
+    </Record>
+    <Record>
       <Key>4.5GetFurnace</Key>
-      <Value>从箱子拿走电弧炉套件。</Value>
+      <Value>从箱子拿走熔炉套件。</Value>
     </Record>
     <Record>
       <Key>4.5BuildFurnace</Key>
-      <Value>在高亮位置生成控制台</Value>
+      <Value>在高亮位置建造熔炉</Value>
     </Record>
     <Record>
       <Key>4.5FinishFurnace</Key>
-      <Value>完成焊接框架</Value>
+      <Value>完成熔炉建造</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration2D</Key>
+      <Value>熔炉产生金属锭、热量和废气。空间站长手册建议你收集这些气体用于其他地方，但你还没有为此做好准备。所以你需要把它泵到外面，以避免毒害自己。这也可以让你之后为熔炉排气。</Value>
     </Record>
     <Record>
       <Key>4.5BuildPipe</Key>
-      <Value>将电弧炉放在高亮区域。</Value>
+      <Value>将管道放置在高亮区域</Value>
     </Record>
     <Record>
       <Key>4.5PickUpPipe</Key>
-      <Value>从箱子拿起主动通风口</Value>
+      <Value>从箱子中拿取管道</Value>
     </Record>
     <Record>
       <Key>4.5PickUpPassiveVent</Key>
-      <Value>从箱子拿起主动通风口</Value>
+      <Value>从箱子拿起被动通风口</Value>
     </Record>
     <Record>
       <Key>4.5BuildPassiveVent</Key>
-      <Value>将复合门#1放在高亮位置</Value>
+      <Value>将通风口放在外部的高亮位置</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration3D</Key>
+      <Value>对于一个站长来说，一天的工作就是在贫瘠、无气的岩石上管理气压。因此，容积泵非常方便。在您的管网中添加一个将充当阀门来维持炉子中的压力，并让你在完成冶炼时去除废气。</Value>
     </Record>
     <Record>
       <Key>4.5BuildPump</Key>
-      <Value>将电弧炉放在高亮区域。</Value>
+      <Value>将容积泵放在高亮区域。</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration4D</Key>
+      <Value>有趣的事情是：与熔炉有关的事故是去年空间站长减员的主要原因。您必须始终监控其压力和温度，否则可能会导致“不愉快”。设置控制台以在炉子旁边为您显示此信息。</Value>
     </Record>
     <Record>
       <Key>4.5PlaceConsole</Key>
-      <Value>在高亮位置生成控制台</Value>
+      <Value>在高亮位置安装控制台</Value>
+    </Record>
+    <Record>
+      <Key>4.5PutGasCircuitInConsole</Key>
+      <Value>将气体显示电路板添加到未完成的控制台</Value>
     </Record>
     <Record>
       <Key>4.5Finishconsole</Key>
-      <Value>搭建好玻璃门。</Value>
+      <Value>用玻璃板完成控制台的安装</Value>
+    </Record>
+    <Record>
+      <Key>4.5PutDataDiskInConsole</Key>
+      <Value>将数据磁盘插入控制台的侧插槽</Value>
     </Record>
     <Record>
       <Key>4.5ConsoleOn</Key>
-      <Value>启动 {THING:ItemTablet}。</Value>
+      <Value>启动控制台</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration5D</Key>
+      <Value>要对控制台进行编程以显示窑炉温度，请单击当前分配给“压力”的设置，将模式切换为“温度”。</Value>
+    </Record>
+    <Record>
+      <Key>4.5ConfigureGasSensorTask</Key>
+      <Value>将控制台设置为“温度”模式</Value>
+    </Record>
+    <Record>
+      <Key>4,5ConfigureGasSensorTask1</Key>
+      <Value>从设备列表中选择熔炉</Value>
+    </Record>
+    <Record>
+      <Key>4,5ConfigureGasSensorTask2</Key>
+      <Value>第二个控制台配置为“压力”</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration6D</Key>
+      <Value>非常好。你已经准备好闻到你以前从未问过的冶炼的味道。查阅空间站百科全书，了解如何为熔炉添加燃料。</Value>
+    </Record>
+    <Record>
+      <Key>4.5HowToMakeBattery</Key>
+      <Value>在空间站百科查询套件（电池）页面</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration7D</Key>
+      <Value>非常好。你几乎已经准备好闻到你以前从未问过的冶炼的味道。窑炉在稳定的气体供应下效果最好，但您也可以使用燃料混合物。您必须非常小心地添加正确的燃料量。在空间站百科中找到燃料配方和比率。</Value>
+    </Record>
+    <Record>
+      <Key>4.5PediaNavigation1</Key>
+      <Value>查阅空间站百科中的“熔炉”页面，了解燃料配方</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration8D</Key>
+      <Value>发展署需要你在那里，尽快为太阳系服务。因此，我们为您提供了氧化物和挥发物。你会发现它们存放在箱子的采矿带里。</Value>
     </Record>
     <Record>
       <Key>4.5PickUpMiningBelt</Key>
-      <Value>从箱子里捡起金锭。</Value>
+      <Value>从箱子中取出采矿带</Value>
     </Record>
     <Record>
       <Key>4.5EquiptMiningbelt</Key>
-      <Value>装备采矿腰带.</Value>
+      <Value>装备采矿带</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration10D</Key>
+      <Value>资源并不总是以你需要的确切数量提供的，因此你需要拆分它们。冰块很容易被你强大的握力抓裂。</Value>
+    </Record>
+    <Record>
+      <Key>OpenOxiteMenu</Key>
+      <Value>点击氧化物矿石</Value>
+    </Record>
+    <Record>
+      <Key>4.5SplitStack</Key>
+      <Value>将氧化物矿石分成两半（6）</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration11D</Key>
+      <Value>让我们把这个东西点燃。这并不是发展署的“最佳实践”，但直接在熔炉中添加矿石目前是有效的。您必须通过多次按“激活”按钮单独处理每块氧化石。在氧化物被充分处理后熔炉盖会自动打开。</Value>
+    </Record>
+    <Record>
+      <Key>4.5AddOxitetoFurnace</Key>
+      <Value>向熔炉中加入6氧化物矿石</Value>
+      <!--Change to match tutorial-->
+    </Record>
+    <Record>
+      <Key>4.5IgnitingTheFurnace</Key>
+      <Value>处理氧化物矿石：按“激活”按钮，直到盖子打开</Value>
+    </Record>
+    <Record>
+      <Key>4.5AddVolatilestoFurnace</Key>
+      <Value>向熔炉中加入12个挥发物矿石</Value>
+      <!--Change to match tutorial-->
+    </Record>
+    <Record>
+      <Key>4.5IgnitingTheFurnace</Key>
+      <Value>处理氧化物矿石：按“激活”按钮，直到盖子打开</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration12D</Key>
+      <Value>这个房间里没有空气，所以你听不到炉子的轰鸣声。准备好其他成分：打印工作站电池还需要铜和金。我们已经把矿石放在了储物柜里。注意：熔炉较高的温度和压力使其可以快速冶炼。</Value>
+    </Record>
+    <Record>
+      <Key>5AddCoppertoFurnace</Key>
+      <Value>向熔炉内添加50个铜矿石</Value>
+    </Record>
+    <Record>
+      <Key>4.5OpenFurnaceC</Key>
+      <Value>冶炼完成时拉炉杆</Value>
+    </Record>
+    <Record>
+      <Key>4.5SmeltCopper</Key>
+      <Value>等待铜锭冶炼</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration13D</Key>
+      <Value>非常好。现在冶炼一个金锭，你这个宇宙炼丹家。</Value>
     </Record>
     <Record>
       <Key>4.5AddGoldtoFurnace</Key>
-      <Value>放置 {THING:ItemIronOre} 到这个熔炉里</Value>
+      <Value>将50金矿石插入熔炉中</Value>
+    </Record>
+    <Record>
+      <Key>4.5OpenFurnace</Key>
+      <Value>弹出金锭</Value>
+    </Record>
+    <Record>
+      <Key>4.5SmeltGold</Key>
+      <Value>等待金锭冶炼</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration14D</Key>
+      <Value>学员，如果你做到了这一点，你活着通过这项测试的机会远远超过50%。但熔炉即使在冷却时也能保持压力。因此，除非你想“砰”一声，否则请将熔炉通风以重置它。</Value>
+    </Record>
+    <Record>
+      <Key>4.5TurnOnVolPump</Key>
+      <Value>打开容积泵以排出气体</Value>
+    </Record>
+    <Record>
+      <Key>4.5VentingTheGases</Key>
+      <Value>让压力降至99kPa以下</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration15D</Key>
+      <Value>现在炉子压力已经降低到安全水平，关闭容积泵并为熔炉添加燃料使其再次运行。如果你需要额外的矿石，第二个储物柜中还有更多。</Value>
+    </Record>
+    <Record>
+      <Key>4.5VentingTheGases2</Key>
+      <Value>让熔炉再次运转。</Value>
+    </Record>
+    <Record>
+      <Key>4.5Narration16D</Key>
+      <Value>就像火箭和派对计划一样，获得正确的完整比例对于合金冶炼至关重要。查阅 空间站百科以查找冶炼钢的最佳铁和碳比例，以及适当的压力和温度。</Value>
     </Record>
     <Record>
       <Key>4.5HowToMakeSteel</Key>

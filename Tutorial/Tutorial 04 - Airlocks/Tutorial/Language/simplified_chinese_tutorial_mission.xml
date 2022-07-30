@@ -7,28 +7,111 @@
       <Value>气闸</Value>
     </Record>
     <Record>
+      <Key>TutoiralAirlocksDescription</Key>
+      <!--This is the description that appears in the menu-->
+      <Value>刷新您对气闸结构的了解。</Value>
+    </Record>
+    <Record>
       <Key>TutoiralAtmosphericsSubTitle</Key>
       <Value>实践培训：阶段四</Value>
+    </Record>
+    <Record>
+      <Key>IntoTutoiralAirlocksDescription</Key>
+      <!--This is the intro panel at the start of the tutorial-->
+      <Value>欢迎你，学员。为了完成这一阶段的测试并为你的基地加压，我们将引导你完成基本的气闸结构。</Value>
     </Record>
     <Record>
       <Key>4Narration1T</Key>
       <Value>实践培训：阶段四</Value>
     </Record>
     <Record>
+      <Key>4Narration1D</Key>
+      <Value>在我们开始之前，看起来你的宇航服受到了一些伤害。使用胶带修复它。</Value>
+    </Record>
+    <Record>
+      <Key>4GetDucktape</Key>
+      <Value>从箱子中用激活的手装备胶带。</Value>
+    </Record>
+    <Record>
+      <Key>4UseDuctTape</Key>
+      <Value>修理宇航服。</Value>
+    </Record>
+    <Record>
+      <Key>4Narration2D</Key>
+      <Value>让我们开始吧。要构建气闸，请先打印两个门套件。你需要将金属锭从箱子添加到自动车床中。</Value>
+    </Record>
+    <Record>
+      <Key>4PutCopperIngotInAutoLathe</Key>
+      <Value>将铜锭添加到自动车床中</Value>
+    </Record>
+    <Record>
+      <Key>4PutGoldIngotInAutoLathe</Key>
+      <Value>将金锭添加到自动车床中</Value>
+    </Record>
+    <Record>
+      <Key>4Narration3D</Key>
+      <Value>你现在可以使用多轴分子合成设备（又称自动车床）打印两个门套件，并将自己与太空的孤独和失望隔离开来。</Value>
+    </Record>
+    <Record>
+      <Key>4FabricateDoor</Key>
+      <Value>打印两个门套件</Value>
+    </Record>
+    <Record>
+      <Key>4Narration4D</Key>
+      <Value>在建造替换的门之前，开发署协议规定您必须拆除被破坏的门。</Value>
+    </Record>
+    <Record>
+      <Key>T4Deconstruct1</Key>
+      <Value>拆除损坏的1号门。</Value>
+    </Record>
+    <Record>
+      <Key>T4Deconstruct2</Key>
+      <Value>拆除损坏的2号门。</Value>
+    </Record>
+    <Record>
+      <Key>4Narration5D</Key>
+      <Value>干得好。现在，在高亮位置建造复合门。
+您需要使用鼠标滚轮浏览循环选项才能获得正确的门类型。</Value>
+    </Record>
+    <Record>
       <Key>4BuildPDoor1Tutorial</Key>
-      <Value>将复合门#1放在高亮位置</Value>
+      <Value>将1号复合门放在高亮位置</Value>
     </Record>
     <Record>
       <Key>4BuildDoor2Tutorial</Key>
-      <Value>将复合门#2放置在高亮位置</Value>
+      <Value>将2号复合门放在高亮位置</Value>
+    </Record>
+    <Record>
+      <Key>4BuildCornerCable1Tutorial</Key>
+      <Value>将1号门连接到逻辑和电力网络</Value>
+    </Record>
+    <Record>
+      <Key>4BuildCornerCable2Tutorial</Key>
+      <Value>将2号门连接到逻辑和电力网络</Value>
+    </Record>
+    <Record>
+      <Key>4Narration6D</Key>
+      <Value>安装气体传感器以监测气闸中的压力。您需要查阅空间站百科以了解使用哪个设备来制造它。</Value>
     </Record>
     <Record>
       <Key>OnStationpediaOpen</Key>
-      <Value>打开Stationpedia(F1)</Value>
+      <Value>打开空间站百科(F1)</Value>
+    </Record>
+    <Record>
+      <Key>4PediaNavigation</Key>
+      <Value>导航到“套件（传感器）”页面以查找制造设备</Value>
+    </Record>
+    <Record>
+      <Key>4FabricateSensorKit</Key>
+      <Value>制造传感器套件</Value>
     </Record>
     <Record>
       <Key>4BuildGasSensorTutorial</Key>
-      <Value>在高亮位置建造气体传感器</Value>
+      <Value>在高亮位置安装气体传感器</Value>
+    </Record>
+    <Record>
+      <Key>4Narration7D</Key>
+      <Value>您需要一个主动通风口来循环空气以对气闸加压，以及一个被动通风口，来允许大气进入管网。</Value>
     </Record>
     <Record>
       <Key>4FabricateItemPassiveVent</Key>
@@ -40,55 +123,164 @@
     </Record>
     <Record>
       <Key>4BuildStructureActiveVent</Key>
-      <Value>在气闸内高亮位置建立主动通风口</Value>
+      <Value>在气闸内高亮位置安装主动通风口</Value>
     </Record>
     <Record>
       <Key>4BuildStructurePassiveVent</Key>
-      <Value>在基地墙壁上高亮位置建造被动通风口</Value>
+      <Value>在基地墙壁上高亮位置安装被动通风口</Value>
+    </Record>
+    <Record>
+      <Key>4Narration8D</Key>
+      <Value>将通风口与管网连接，以便将空气从房间泵入气闸。</Value>
+    </Record>
+    <Record>
+      <Key>4BuildPipeCorner1Tutorial</Key>
+      <Value>将1号管道连接到管网</Value>
+    </Record>
+    <Record>
+      <Key>4BuildPipeCorner2Tutorial</Key>
+      <Value>将2号管道连接到管网</Value>
+    </Record>
+    <Record>
+      <Key>4Narration9D</Key>
+      <Value>诺赛克控制台允许您控制和监视各种系统，哪种模式取决于其具体配置。你可以把它想象成一个小而简单的大脑。</Value>
     </Record>
     <Record>
       <Key>4BuildConsoleTutorial</Key>
-      <Value>在高亮位置生成控制台</Value>
+      <Value>在高亮位置安装控制台</Value>
+    </Record>
+    <Record>
+      <Key>4Narration10D</Key>
+      <Value>电路板为控制台提供了一系列不同的功能。你需要一个气闸电路板和一个数据磁盘来对其进行编程。</Value>
+    </Record>
+    <Record>
+      <Key>4FabricateAirlcokCircuit</Key>
+      <Value>制造气闸电路板</Value>
+    </Record>
+    <Record>
+      <Key>4FabricateDataDisk</Key>
+      <Value>制造数据盘</Value>
     </Record>
     <Record>
       <Key>4FinsihConsole</Key>
-      <Value>搭建好玻璃门。</Value>
+      <Value>使用玻璃板完成控制台的安装</Value>
     </Record>
     <Record>
       <Key>4ConsoleOn</Key>
-      <Value>启动 {THING:ItemTablet}。</Value>
+      <Value>启动控制台</Value>
+    </Record>
+    <Record>
+      <Key>4Narration11D</Key>
+      <Value>要对气闸进行编程，您需要一个数据磁盘。然后选择您希望控制台操作的项目。
+设备会绿底红字高亮显示选中的项目。</Value>
     </Record>
     <Record>
       <Key>4PediaOpen</Key>
-      <Value>打开Stationpedia</Value>
+      <Value>按F1打开空间站百科</Value>
+    </Record>
+    <Record>
+      <Key>4Narration12D</Key>
+      <Value>现在选择气闸门：选择外门作为“外部”将导致另一个默认为“内部”。</Value>
     </Record>
     <Record>
       <Key>4GetpipeKit</Key>
-      <Value>拿起 {THING:ItemIronSheets}. </Value>
+      <Value>从箱子拿起管道</Value>
     </Record>
     <Record>
       <Key>4GetConsole</Key>
-      <Value>拿起 {THING:ItemIronSheets}. </Value>
+      <Value>从箱子拿起控制台</Value>
+    </Record>
+    <Record>
+      <Key>4Narration13D</Key>
+      <Value>成功完成气闸设置后，主机侧面的开关将呈绿色亮起。从控制台中取出数据盘以将其锁定。</Value>
+    </Record>
+    <Record>
+      <Key>4PutCircuitInConsole</Key>
+      <Value>将气闸电路板添加到控制台。</Value>
+    </Record>
+    <Record>
+      <Key>4Narration14D</Key>
+      <Value>气闸已准备就绪，因此现在您可以对基地加压了！打开区域电源控制器，让房间充满空气。该系统将保持100kPa的压力。</Value>
+    </Record>
+    <Record>
+      <Key>4Narration15D</Key>
+      <Value>当房间充满空气时，您的宇航服将记录外部压力和温度变化。</Value>
+    </Record>
+    <Record>
+      <Key>4TurningOnTheOXygen</Key>
+      <Value>等待压力达到92kPa</Value>
+    </Record>
+    <Record>
+      <Key>4Narration16D</Key>
+      <Value>现在基地已加压，您可以通过按控制台上的“循环到外部”按钮来测试气闸。</Value>
     </Record>
     <Record>
       <Key>4OpenAirlock</Key>
-      <Value>循环气密门</Value>
+      <Value>循环气闸</Value>
+    </Record>
+    <Record>
+      <Key>4Narration17D</Key>
+      <Value>学员，干得漂亮。您已经建立了一个密闭的加压基地。这是实践测试的最后一步，第四阶段。返回内部并按“完成”按钮将您的结果传输到发展署的总指挥。</Value>
+    </Record>
+    <Record>
+      <Key>4AirlockProggramGasSensor</Key>
+      <Value>选择气体传感器</Value>
+    </Record>
+    <Record>
+      <Key>4AirlockProggramActiveVent</Key>
+      <Value>选择主动通风口</Value>
+    </Record>
+    <Record>
+      <Key>4AirlockExternalDoor</Key>
+      <Value>选择外门作为“外门”</Value>
+    </Record>
+    <Record>
+      <Key>4AirlockInternalDoor</Key>
+      <Value>选择“内门”作为“内部”</Value>
+    </Record>
+    <Record>
+      <Key>4GetDataDisk2</Key>
+      <Value>取出数据磁盘</Value>
+    </Record>
+    <Record>
+      <Key>4FlipSwitch</Key>
+      <Value>打开区域电源控制器以开始增压。</Value>
     </Record>
     <Record>
       <Key>4FinishDoor1</Key>
-      <Value>完成框架1的建造。</Value>
+      <Value>完成1号门的施工</Value>
     </Record>
     <Record>
       <Key>4FinishDoor2</Key>
-      <Value>完成框架2的建造。</Value>
+      <Value>完成2号门的施工</Value>
+    </Record>
+    <Record>
+      <Key>4Narration55D</Key>
+      <Value>作为一名空间站站长，你需要完成一些事情：使用箱子中的资源和你内置的AI“工具提示”HUD助手来完成门的建造。</Value>
+    </Record>
+    <Record>
+      <Key>4Narration56D</Key>
+      <Value>在网络上命名项目可减少混淆：使用标签机为数据网络上的内门和外门命名。</Value>
     </Record>
     <Record>
       <Key>4GetLabeler</Key>
-      <Value>从箱中拿出 {THING:ItemLabeller}。</Value>
+      <Value>从箱子中拿取标签机</Value>
     </Record>
     <Record>
       <Key>4LabelerOn</Key>
-      <Value>启动 {THING:ItemTablet}。</Value>
+      <Value>启动标签机</Value>
+    </Record>
+    <Record>
+      <Key>4CustomName</Key>
+      <Value>将内门标记为“室内门”</Value>
+    </Record>
+    <Record>
+      <Key>4CustomName2</Key>
+      <Value>将外门标记为“室外门”</Value>
+    </Record>
+    <Record>
+      <Key>4PutDataDiskInConsole</Key>
+      <Value>将数据磁盘插入控制台</Value>
     </Record>
   </Interface>
 </Language>

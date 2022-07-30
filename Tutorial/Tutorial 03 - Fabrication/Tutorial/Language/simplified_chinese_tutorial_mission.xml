@@ -202,8 +202,60 @@
       <Value>将铁锭放入管道液压机中</Value>
     </Record>
     <Record>
+      <Key>3PutCopperIngotInPipeBender</Key>
+      <Value>将铜锭放入管道液压机中</Value>
+    </Record>
+    <Record>
+      <Key>3PutGoldIngotInPipeBender</Key>
+      <Value>将金锭放入管道液压机中</Value>
+    </Record>
+    <Record>
+      <Key>3Narration13D</Key>
+      <Value>主动通风口是关键的气闸组件：你现在可以使用液压管道液压机制造一个！</Value>
+    </Record>
+    <Record>
+      <Key>3ActiveVentHash</Key>
+      <Value>选择管道液压机上的主动通风口。</Value>
+    </Record>
+    <Record>
+      <Key>3FabricateActiveVent</Key>
+      <Value>使用管道液压机制造主动通风口。</Value>
+    </Record>
+    <Record>
+      <Key>3PipeBenderOff</Key>
+      <Value>制造完成后关闭管道液压机。</Value>
+    </Record>
+    <Record>
+      <Key>3GetItemActiveVent</Key>
+      <Value>拿起主动通风口。</Value>
+    </Record>
+    <Record>
+      <Key>3Narration14D</Key>
+      <Value>学员，干得好。您已经创建了一个完整的制造体系。
+这是实践测试的最后一步，第三阶段。按“完成”按钮将结果传输到总指挥。</Value>
+    </Record>
+    <Record>
+      <Key>3OnButtonPressTaskT1</Key>
+      <Value>按传输按钮完成测试。</Value>
+    </Record>
+    <Record>
+      <!--Equip Mining belt-->
+      <Key>3Narration15D</Key>
+      <Value>您的采矿带可以做两件事：它容纳您的采矿工具，并存储您开采的矿石。
+当它装备在您的“皮带”插槽中时，任何开采的矿石都会自动存储在那里。</Value>
+    </Record>
+    <Record>
       <Key>2EquiptMiningbelt</Key>
-      <Value>装备采矿腰带.</Value>
+      <Value>装备采矿带.</Value>
+    </Record>
+    <Record>
+      <!--Equip Tool belt-->
+      <Key>3Narration16D</Key>
+      <Value>就是这样，你现在已经完成了采矿。请换回工具带 - 你很快就会需要它。</Value>
+    </Record>
+    <Record>
+      <Key>2EquiptToolbelt</Key>
+      <Value>装备工具带。</Value>
     </Record>
   </Interface>
 </Language>
