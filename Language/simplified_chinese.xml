@@ -4815,6 +4815,14 @@
       <Value>套件（热交换器）</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureHeatExchangerLiquidtoLiquid</Key>
+      <Value>液体热交换器</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureHeatExchangerGastoGas</Key>
+      <Value>气体热交换器</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitHangerDoor</Key>
       <Value/>
     </RecordThing>
