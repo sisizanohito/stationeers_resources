@@ -5033,6 +5033,10 @@
       <Value>Refroidisseur à eau</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureWaterBottleFillerBottom</Key>
+      <Value>Bas du remplisseur de bouteille d’eau</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemLiquidDrain</Key>
       <Value/>
     </RecordThing>
