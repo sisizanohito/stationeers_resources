@@ -9233,11 +9233,11 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>ScriptCommandBapal</Key>
-      <Value>Saute à la ligne d si abs(a - b) &lt;= max(c * max(abs(a), abs(b)), float.epsilon * 8) et stocke le numéro de la ligne suivante dans ra</Value>
+      <Value>Effectue un saut à la ligne [ d ] si abs([ a ] - [ b ])&lt;= max(c * max(abs([ a ]), abs([ b ])), float.epsilon * 8) et stocke le numéro de la ligne suivante dans ra(r17)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBnaal</Key>
-      <Value>Effectue un saut à la ligne [ d ] si abs([ a ]-[ b ]) &lt;= max(c * max(abs(a), abs(b)), float.epsilon * 8) et stocke le numéro de la ligne suivante dans le registre ra(r17)</Value>
+      <Value>Effectue un saut à la ligne [ d ] si abs([ a ]-[ b ]) &lt;= max(c * max(abs([ a ]), abs([ b ])), float.epsilon * 8) et stocke le numéro de la ligne suivante dans le registre ra(r17)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBltzal</Key>
