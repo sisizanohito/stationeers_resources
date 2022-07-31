@@ -5278,7 +5278,27 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitStirlingEngine</Key>
-      <Value>创建一个 {THING:StructureRocketModuleSilo}.</Value>
+      <Value>套件（斯特林发动机）</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureStirlingEngine</Key>
+      <Value>斯特林发动机</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePowerTransmitter</Key>
+      <Value>微波功率变送器</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePowerTransmitterReceiver</Key>
+      <Value>微波功率接收器</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureOverheadShortCornerLocker</Key>
+      <Value>高位转角储物柜</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureOverheadShortLocker</Key>
+      <Value>高位储物柜</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureShortLocker</Key>
