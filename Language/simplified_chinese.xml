@@ -5301,24 +5301,56 @@
       <Value>高位储物柜</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureShortCornerLocker</Key>
+      <Value>短转角储物柜</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureShortLocker</Key>
-      <Value/>
+      <Value>短储物柜</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCornerLocker</Key>
-      <Value/>
+      <Value>转角储物柜</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemPlantEndothermic_Creative</Key>
+      <Value>吸热植物</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemPlantThermogenic_Creative</Key>
+      <Value>产热植物</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPowerTransmitter</Key>
-      <Value/>
+      <Value>套件（变压器）</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureInteriorDoorTriangle</Key>
+      <Value>室内三角门</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureInteriorDoorPaddedThin</Key>
+      <Value>室内门软垫薄</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureInteriorDoorPadded</Key>
+      <Value>室内门软垫</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureInteriorDoorGlass</Key>
+      <Value>室内门玻璃</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitInteriorDoors</Key>
-      <Value/>
+      <Value>套件（室内门）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureUnpoweredHatch</Key>
-      <Value/>
+      <Value>无动力舱口</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureManualHatch</Key>
+      <Value>手动舱口</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPowerTransmitterOmni</Key>
