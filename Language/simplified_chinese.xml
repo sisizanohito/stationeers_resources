@@ -4982,15 +4982,19 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPlanter</Key>
-      <Value/>
+      <Value>套件（花盆）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureAutomatedOven</Key>
-      <Value/>
+      <Value>自动烤箱</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAutomatedOven</Key>
-      <Value/>
+      <Value>套件（自动烘箱）</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCannedMushroom</Key>
+      <Value>蘑菇罐头</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemPoweredEggs</Key>
