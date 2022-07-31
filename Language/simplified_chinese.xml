@@ -5021,6 +5021,10 @@
       <Value>毛豆罐头</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemCannedPowderedEggs</Key>
+      <Value>罐装鸡蛋粉</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitAdvancedPackagingMachine</Key>
       <Value>创建一个 {THING:StructureRocketModuleSilo}.</Value>
     </RecordThing>
