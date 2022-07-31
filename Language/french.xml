@@ -9760,6 +9760,10 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
       <Value>Efface tous les joueurs déconnectés du serveur:  &quot;/clearall&quot;</Value>
     </Record>
     <Record>
+      <Key>CommandThreadStatus</Key>
+      <Value>Affiche l&apos;état actuel des processus du jeu : &quot;/threadstatus&quot;</Value>
+    </Record>
+    <Record>
       <Key>CommandSetHunger</Key>
       <Value>Définis la vitesse d&apos;évolution de l&apos;état de faim : &quot;/hungerrate 0.25&quot;</Value>
     </Record>
@@ -10260,6 +10264,14 @@ Le programme Stationeers, qui est fondamentalement ouvert à toute l’humanité
     <Record>
       <Key>LogicTypeTime</Key>
       <Value>Temps</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeEnvironmentEfficiency</Key>
+      <Value>Efficacité environnementale, rapportée par l&apos;appareil. Donnée entre 0 et 1 de type virgule flottante.</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeWorkingGasEfficiency</Key>
+      <Value>L&apos;efficacité du gaz de travail, rapporté par la machine. Donnée entre 0 et 1 de type virgule flottante.</Value>
     </Record>
     <Record>
       <Key>NoAudioReceiverDevices</Key>
