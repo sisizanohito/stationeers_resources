@@ -5026,51 +5026,111 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureAdvancedPackagingMachine</Key>
-      <Value>高级包装机</Value>
+      <Value>高级灌装机</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAdvancedPackagingMachine</Key>
-      <Value>创建一个 {THING:StructureRocketModuleSilo}.</Value>
+      <Value>套件（先进灌装机）</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCookedSoybean</Key>
+      <Value>煮熟的大豆</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCookedTomato</Key>
+      <Value>煮熟的番茄</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCookedCorn</Key>
+      <Value>煮熟的玉米</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCookedRice</Key>
+      <Value>米饭</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCookedPumpkin</Key>
+      <Value>煮熟的南瓜</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCookedMushroom</Key>
+      <Value>煮熟的蘑菇</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCookedPowderedEggs</Key>
+      <Value>鸡蛋粉</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCookedCondensedMilk</Key>
+      <Value>炼乳</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemTropicalPlant</Key>
+      <Value>热带百合</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemPeaceLily</Key>
+      <Value>和平百合</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemDecorFern</Key>
+      <Value>装饰蕨类植物</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemFilterFern</Key>
+      <Value>达加蕨</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitInsulatedWaterPipe</Key>
-      <Value/>
+      <Value>保温水管套件</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitInsulatedLiquidPipe</Key>
-      <Value/>
+      <Value>保温液体管（套件）</Value>
     </RecordThing>
     <RecordThing>
       <Key>InsulatedLiquidPipeCorner</Key>
-      <Value/>
+      <Value>保温液体管角</Value>
     </RecordThing>
     <RecordThing>
       <Key>InsulatedLiquidPipeCrossJunction</Key>
-      <Value/>
+      <Value>保温液体管交叉接头</Value>
     </RecordThing>
     <RecordThing>
       <Key>InsulatedLiquidPipeCrossJunction3</Key>
-      <Value/>
+      <Value>保温液体管交叉接头3</Value>
     </RecordThing>
     <RecordThing>
       <Key>InsulatedLiquidPipeCrossJunction4</Key>
-      <Value/>
+      <Value>保温液体管交叉接头4</Value>
     </RecordThing>
     <RecordThing>
       <Key>InsulatedLiquidPipeCrossJunction5</Key>
-      <Value/>
+      <Value>保温液体管交叉接头5</Value>
     </RecordThing>
     <RecordThing>
       <Key>InsulatedLiquidPipeCrossJunction6</Key>
-      <Value/>
+      <Value>保温液体管交叉接头6</Value>
     </RecordThing>
     <RecordThing>
       <Key>InsulatedLiquidPipeJunction</Key>
-      <Value/>
+      <Value>保温液体管接头</Value>
     </RecordThing>
     <RecordThing>
       <Key>InsulatedLiquidPipeStraight</Key>
-      <Value/>
+      <Value>保温液体直管</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureInsulatedPipeLiquidCorner</Key>
+      <Value>保温液体管（角）</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureInsulatedPipeLiquidCrossJunction</Key>
+      <Value>保温液体管（交叉接头）</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureInsulatedPipeLiquidCrossJunction4</Key>
+      <Value>保温液体管（交叉接头4）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitTurboVolumePump</Key>
