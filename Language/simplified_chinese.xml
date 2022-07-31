@@ -5225,8 +5225,48 @@
       <Value>项目 基础性爆炸</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemMiningCharge</Key>
+      <Value>采矿费</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureReinforcedCompositeWindow</Key>
+      <Value>加固窗口（复合）</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureReinforcedCompositeWindowSteel</Key>
+      <Value>加固窗（复合钢）</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureReinforcedWallPaddedWindow</Key>
+      <Value>加固窗（带衬垫）</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureReinforcedWallPaddedWindowThin</Key>
+      <Value>加固窗（薄）</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemStelliteGlassSheets</Key>
+      <Value>项目 司立特玻璃板</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitReinforcedWindows</Key>
+      <Value>加固窗（套件）</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitHorizontalAutoMiner</Key>
-      <Value>创建一个 {THING:StructureRocketModuleSilo}.</Value>
+      <Value>套件（垂直采矿机）</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemLaptop</Key>
+      <Value>笔记本电脑</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemPlantEndothermic_Genepool1</Key>
+      <Value>寒巢（Alpha变种）</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemPlantEndothermic_Genepool2</Key>
+      <Value>寒巢（Beta 变种）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitStirlingEngine</Key>
