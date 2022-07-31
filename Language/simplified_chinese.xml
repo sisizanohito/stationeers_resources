@@ -4997,8 +4997,28 @@
       <Value>蘑菇罐头</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemPowderedeggs</Key>
+      <Value>鸡蛋粉</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemPoweredEggs</Key>
-      <Value/>
+      <Value>鸡蛋粉</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemFrenchFries</Key>
+      <Value>罐装炸薯条</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCannedRicePudding</Key>
+      <Value>米罐头布丁</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCannedCondensedMilk</Key>
+      <Value>炼乳罐头</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCannedEdamame</Key>
+      <Value>毛豆罐头</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAdvancedPackagingMachine</Key>
