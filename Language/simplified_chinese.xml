@@ -12,107 +12,107 @@
     <RecordReagent>
       <Key>Milk</Key>
       <Value>牛奶</Value>
-      <Unit>ml</Unit>
+      <Unit>毫升</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Egg</Key>
       <Value>蛋</Value>
-      <Unit/>
+      <Unit>个</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Iron</Key>
       <Value>铁</Value>
-      <Unit>g</Unit>
+      <Unit>克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Gold</Key>
       <Value>金</Value>
-      <Unit>g</Unit>
+      <Unit>克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Carbon</Key>
       <Value>碳</Value>
-      <Unit>g</Unit>
+      <Unit>克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Uranium</Key>
       <Value>铀</Value>
-      <Unit>g</Unit>
+      <Unit>克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Copper</Key>
       <Value>铜</Value>
-      <Unit>g</Unit>
+      <Unit>克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Steel</Key>
       <Value>钢</Value>
-      <Unit>g</Unit>
+      <Unit>克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Hydrocarbon</Key>
       <Value>烃</Value>
-      <Unit>g</Unit>
+      <Unit>克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Silver</Key>
       <Value>银</Value>
-      <Unit>g</Unit>
+      <Unit>克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Nickel</Key>
       <Value>镍</Value>
-      <Unit>g</Unit>
+      <Unit>克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Lead</Key>
       <Value>铅</Value>
-      <Unit>g</Unit>
+      <Unit>克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Electrum</Key>
       <Value>琥珀合金</Value>
-      <Unit>g</Unit>
+      <Unit>克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Invar</Key>
       <Value>殷钢</Value>
-      <Unit>g</Unit>
+      <Unit>克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Constantan</Key>
       <Value>康铜</Value>
-      <Unit>g</Unit>
+      <Unit>克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Solder</Key>
       <Value>焊锡</Value>
-      <Unit>g</Unit>
+      <Unit>克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Plastic</Key>
       <Value>塑料</Value>
-      <Unit>g</Unit>
+      <Unit>克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Silicon</Key>
       <Value>硅</Value>
-      <Unit>g</Unit>
+      <Unit>克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>SalicylicAcid</Key>
       <Value>水杨酸</Value>
-      <Unit>g</Unit>
+      <Unit>克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Alcohol</Key>
       <Value>酒精</Value>
-      <Unit>ml</Unit>
+      <Unit>毫升</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Oil</Key>
       <Value>油</Value>
-      <Unit>ml</Unit>
+      <Unit>毫升</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Potato</Key>
@@ -127,32 +127,32 @@
     <RecordReagent>
       <Key>Fenoxitone</Key>
       <Value>苯氧酮</Value>
-      <Unit>g</Unit>
+      <Unit>克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>ColorRed</Key>
       <Value>红色着色剂</Value>
-      <Unit>g</Unit>
+      <Unit>克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>ColorGreen</Key>
       <Value>绿色着色剂</Value>
-      <Unit>g</Unit>
+      <Unit>克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>ColorBlue</Key>
       <Value>蓝色着色剂</Value>
-      <Unit>g</Unit>
+      <Unit>克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>ColorYellow</Key>
       <Value>黄色着色剂</Value>
-      <Unit>g</Unit>
+      <Unit>克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>ColorOrange</Key>
       <Value>橙色着色剂</Value>
-      <Unit>g</Unit>
+      <Unit>克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Pumpkin</Key>
@@ -162,42 +162,47 @@
     <RecordReagent>
       <Key>Rice</Key>
       <Value>水稻</Value>
-      <Unit>g</Unit>
+      <Unit>克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Waspaloy</Key>
       <Value>沃斯帕洛伊合金</Value>
-      <Unit>g</Unit>
+      <Unit>克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Stellite</Key>
       <Value>司太立合金</Value>
-      <Unit>g</Unit>
+      <Unit>克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Inconel</Key>
       <Value>因康镍合金</Value>
-      <Unit>g</Unit>
+      <Unit>克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Hastelloy</Key>
       <Value>哈氏合金</Value>
-      <Unit>g</Unit>
+      <Unit>克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Astroloy</Key>
       <Value>Astroloy合金</Value>
-      <Unit>g</Unit>
+      <Unit>克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Cobalt</Key>
       <Value>钴</Value>
-      <Unit>g</Unit>
+      <Unit>克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Corn</Key>
       <Value>玉米</Value>
-      <Unit>g</Unit>
+      <Unit>克</Unit>
+    </RecordReagent>
+    <RecordReagent>
+      <Key>Wheat</Key>
+      <Value>小麦</Value>
+      <Unit>克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Biomass</Key>
@@ -207,7 +212,12 @@
     <RecordReagent>
       <Key>Soy</Key>
       <Value>大豆</Value>
-      <Unit>g</Unit>
+      <Unit>克</Unit>
+    </RecordReagent>
+    <RecordReagent>
+      <Key>Mushroom</Key>
+      <Value>蘑菇</Value>
+      <Unit>株</Unit>
     </RecordReagent>
   </Reagents>
   <Gases>
