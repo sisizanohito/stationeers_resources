@@ -9265,11 +9265,11 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>ScriptCommandBapzal</Key>
-      <Value>Saute à la ligne c si abs(a) &lt;= float.epsilon * 8</Value>
+      <Value>Effectue un saut à la ligne [ c ] si ((abs[ a ])&lt;= float.epsilon * 8</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBnazal</Key>
-      <Value>Effectue un saut à la ligne [ c ] si abs(a) &gt; float.epsilon * 8</Value>
+      <Value>Effectue un saut à la ligne [ c ] si abs([ a ]) &gt; float.epsilon * 8</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSqrt</Key>
@@ -9293,11 +9293,11 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>ScriptCommandMax</Key>
-      <Value>Stocke la plus grande des valeurs [ a ] et [ b ] dans le registre</Value>
+      <Value>Stocke la plus grande des valeurs [ a ] et [ b ] dans le registre [ r? ]</Value>
     </Record>
     <Record>
       <Key>ScriptCommandMin</Key>
-      <Value>Stocke la plus petite des valeurs entre a et b dans le registre</Value>
+      <Value>Stocke la plus petite des valeurs entre [ a ] et [ b ] dans le registre [ r? ]</Value>
     </Record>
     <Record>
       <Key>ScriptCommandAbs</Key>
@@ -9325,7 +9325,7 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>ScriptCommandPeek</Key>
-      <Value>Stocke la valeur du haut de la pile dans le registre</Value>
+      <Value>Copie la valeur de la pile pointée par ( SP ) dans le registre [ r? ] spécifié.</Value>
     </Record>
     <Record>
       <Key>ScriptCommandPush</Key>
@@ -9333,7 +9333,7 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>ScriptCommandPop</Key>
-      <Value>Restaure dans [r?] la valeur du haut de la pile stocké précédemment par PUSH et décrémente le compteur du nombre de valeur stocké dans la pile ( SP ).</Value>
+      <Value>Restaure dans [ r? ] la valeur du haut de la pile stocké précédemment par PUSH et décrémente le compteur du nombre de valeur stocké dans la pile ( SP ).</Value>
     </Record>
     <Record>
       <Key>ScriptCommandHcf</Key>
@@ -9341,11 +9341,11 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>ScriptCommandSelect</Key>
-      <Value>Stocke b dans le registre si a est différent de zéro, sinon c</Value>
+      <Value>Stocke [ b ] dans le registre [ r? ] si [ a ] est différent de zéro. Sinon, [ c ] y est stocké</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSleep</Key>
-      <Value>Met l&apos;exécution du CI en pause pour a seconde(s)</Value>
+      <Value>Met l&apos;exécution du programme sur le CI en pause pour [a] seconde(s)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSin</Key>
