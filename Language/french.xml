@@ -10315,7 +10315,7 @@ Le programme Stationeers, qui est fondamentalement ouvert à toute l’humanité
     </Record>
     <Record>
       <Key>MoleNitrogenDescription</Key>
-      <Value>L&apos;azote gazeux peut être mélangé au dioxygène pour réduire les risque de combustion. C&apos;est une ressource en elle même, utile pour générer une atmosphère respirable ( environ 3:1 d&apos;azote et de dioxygène).</Value>
+      <Value>Le {GAS:Nitrogen} peut être mélangé avec l&apos;{GAS:Oxygen} pour réduire les risques de combustion ainsi que la toxicité de l&apos;{GAS:Oxygen} à forte concentration. C&apos;est une ressource importante pour générer une atmosphère respirable (ratio 3:1 {GAS:Nitrogen} et {GAS:Oxygen}). La source la plus rentable de {GAS:Nitrogen} sont les dépôts de {THING:ItemNitrice} trouvés un peu partout dans le système solaire.</Value>
     </Record>
     <Record>
       <Key>MoleCarbonDioxideDescription</Key>
