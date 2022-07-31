@@ -4914,7 +4914,11 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitVendingMachineRefrigerated</Key>
-      <Value/>
+      <Value>套件（冷藏自动售货机）</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>SeedBag_Potato</Key>
+      <Value>土豆种子</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAdvancedComposter</Key>
@@ -9794,6 +9798,14 @@ Stationeers就是一切：宇航员、工程师和探险家，仅配备了有限
     <Record>
       <Key>StationpediaNutrition</Key>
       <Value>营养</Value>
+    </Record>
+    <Record>
+      <Key>MoleWaterDescription</Key>
+      <Value>你可以通过使用熔炉或碎冰机冶炼或粉碎冰来获得水，或者通过使用氢气轮机燃烧可燃冰和氧气来获得水。
+      
+水对于植物保持活力和生长至关重要。它也是一种特殊的冷却剂，具有非常高的比热容。
+
+注意：水以前被处理为气体，但正在开发一种新的液体系统，包括单独的液体管道，罐，泵等。水是目前唯一可用的液体，目前不会改变状态。</Value>
     </Record>
     <Record>
       <Key>MoleNitrousOxideDescription</Key>
