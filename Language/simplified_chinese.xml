@@ -7,7 +7,7 @@
     <RecordReagent>
       <Key>Flour</Key>
       <Value>面粉</Value>
-      <Unit>g</Unit>
+      <Unit>克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Milk</Key>
@@ -247,7 +247,7 @@
     </Record>
     <Record>
       <Key>Paint</Key>
-      <Value>喷涂</Value>
+      <Value>上色</Value>
     </Record>
     <Record>
       <Key>Mine</Key>
@@ -296,6 +296,10 @@
     <Record>
       <Key>Plant</Key>
       <Value>种植</Value>
+    </Record>
+    <Record>
+      <Key>Water</Key>
+      <Value>浇水</Value>
     </Record>
     <Record>
       <Key>Harvest</Key>
@@ -419,11 +423,11 @@
     </Record>
     <Record>
       <Key>Link</Key>
-      <Value>链接</Value>
+      <Value>连接</Value>
     </Record>
     <Record>
       <Key>UnLink</Key>
-      <Value>取消链接</Value>
+      <Value>解除链接</Value>
     </Record>
     <Record>
       <Key>ForceFeed</Key>
@@ -5301,6 +5305,10 @@
       <Value>上一个</Value>
     </Record>
     <Record>
+      <Key>SensorProcessingUnit</Key>
+      <Value>传感器处理单元</Value>
+    </Record>
+    <Record>
       <Key>LiquidCanister</Key>
       <Value>液体罐</Value>
     </Record>
@@ -5310,7 +5318,7 @@
     </Record>
     <Record>
       <Key>BottleSlot</Key>
-      <Value>便携式插槽</Value>
+      <Value>水瓶插槽</Value>
     </Record>
   </Slots>
   <Interactables>
