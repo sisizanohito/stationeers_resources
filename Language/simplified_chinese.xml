@@ -5193,12 +5193,36 @@
       <Value>套件（涡轮容积泵 - 气体）</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureLiquidTurboVolumePump</Key>
+      <Value>涡轮容积泵（液体）</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitLiquidTurboVolumePump</Key>
-      <Value>创建一个 {THING:StructureRocketModuleSilo}.</Value>
+      <Value>套件（涡轮容积泵 - 液体）</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemMkIIToolbelt</Key>
+      <Value>工具带 MK II</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemMiningBeltMKII</Key>
+      <Value>采矿带 MK II</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLiquidPipeOneWayValve</Key>
+      <Value>单向阀（液体）</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureWindowShutter</Key>
+      <Value>百叶窗</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitWindowShutter</Key>
-      <Value>此套件生成{THING:StructureWindTurbine}.</Value>
+      <Value>套件（百叶窗）</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemExplosiveBasic</Key>
+      <Value>项目 基础性爆炸</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitHorizontalAutoMiner</Key>
