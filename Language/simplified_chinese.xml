@@ -4958,11 +4958,15 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAdvancedComposter</Key>
-      <Value>创建一个 {THING:StructureRocketModuleSilo}.</Value>
+      <Value>套件（高级堆肥机）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitFridgeSmall</Key>
       <Value>创建一个 {THING:StructureRocketModuleSilo}.</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePlanter</Key>
+      <Value>花盆</Value>
     </RecordThing>
     <RecordThing>
       <Key>KitPlanter</Key>
