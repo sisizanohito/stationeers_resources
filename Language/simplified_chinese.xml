@@ -4977,6 +4977,10 @@
       <Value>便携式堆肥机</Value>
     </RecordThing>
     <RecordThing>
+      <Key>AppliancePackagingMachine</Key>
+      <Value>基本包装机</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitPlanter</Key>
       <Value/>
     </RecordThing>
