@@ -6420,7 +6420,7 @@
     </Record>
     <Record>
       <Key>LoulanShortDesc</Key>
-      <Value>Loulan : à votre arrivée, vous remarquerez une atmosphère respirable, une pression suffisamment élevée pour maintenir la vie - mais une absence de vie. Ce géant de sable est situé dans le Système Gargantuesque, se rapprochant chaque jour un peu plus du trou noir situé en son centre. Bien qu&apos;elle soit abandonnée et qu&apos;elle ne soit plus verte et pleine d&apos;eau, cette planète possède toujours une atmosphère viable et vous êtes chargé de parcourir ses terres incultes pour acquérir les matériaux et les ressources nécessaires à la survie dans ce désert éternel.</Value>
+      <Value>Loulan : à votre arrivée, vous remarquerez une atmosphère respirable, une pression suffisamment élevée pour maintenir la vie, mais une absence totale de celle-ci. Ce géant de sable est situé dans le Système Gargantuesque, se rapprochant chaque jour un peu plus du trou noir situé en son centre. Bien qu&apos;elle soit abandonnée, qu&apos;elle ne soit plus verte et pleine d&apos;{GAS:Water}, cette planète possède toujours une atmosphère viable. Vous êtes chargé de parcourir ses terres vierges pour acquérir les matériaux et les ressources nécessaires à la survie dans ce désert interminable.</Value>
     </Record>
     <Record>
       <Key>NewWorldAreaVenus</Key>
@@ -10333,7 +10333,7 @@ En raison de réglementations de l’&lt;color=#0080FFFF&gt;{LINK:ODA;ODA}&lt;/c
     </Record>
     <Record>
       <Key>MolePollutantDescription</Key>
-      <Value>Aussi connu comme [ X ], les polluants sont générés lors de la fonte de certains métaux. Un minimum de 0.1 mol provoquera l&apos;alarme anti-pollution de votre combinaison. Ces polluants ont une bonne conductivité thermique, ce qui en fait un excellent élément de circuit de refroidissement.</Value>
+      <Value>Aussi connu comme &quot;X&quot;, le {GAS:Pollutant} est généré lors de la fonte de certains métaux. Dépasser le seuil de 0,1 mol provoquera le déclenchement de l&apos;alarme antipollution de votre combinaison. Les polluants ont une bonne conductivité thermique, ce qui en fait un excellent élément caloporteur de circuit de refroidissement. Malheureusement ils sont extrêmement toxiques pour les organismes vivants basés sur le {REAGENT:Carbone}.</Value>
     </Record>
     <Record>
       <Key>MoleWaterDescription</Key>
