@@ -7866,7 +7866,7 @@ Soyez très prudent lorsque vous marchez ou sautez, car vous pouvez parcourir un
     </Record>
     <Record>
       <Key>LogicTypeRatioCarbonDioxide</Key>
-      <Value>Le ratio de CO2 dans l&apos;atmosphère du dispositif</Value>
+      <Value>Le ratio de {GAS:CarbonDioxide} dans l&apos;atmosphère du dispositif</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioNitrogen</Key>
@@ -7886,7 +7886,7 @@ Soyez très prudent lorsque vous marchez ou sautez, car vous pouvez parcourir un
     </Record>
     <Record>
       <Key>LogicTypeRatioNitrousOxide</Key>
-      <Value>Le ratio de protoxyde d&apos;azote dans l&apos;atmosphère du dispositif</Value>
+      <Value>Le ratio de {GAS:NitrousOxide} dans l&apos;atmosphère du dispositif</Value>
     </Record>
     <Record>
       <Key>LogicTypeCombustion</Key>
@@ -9009,15 +9009,15 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>ScriptCommandSnaz</Key>
-      <Value>Registre = 1 si |a| &gt; float.epsilon, sinon 0</Value>
+      <Value>Renvoie (vrais|1) dans le registre [ r? ] si |[ a ]| &gt; float.epsilon, sinon (faux|0)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandAnd</Key>
-      <Value>Renvoie vrai|1 dans le registre [ r? ] si les deux opérandes [ a ] et [ b ] sont vraies|1, sinon renvoie 0</Value>
+      <Value>Renvoie (vrai|1) dans le registre [ r? ] si les deux opérandes [ a ] et [ b ] sont (vraies|1), sinon renvoie (faux|0)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandOr</Key>
-      <Value>Renvoie vrai|1 dans le registre [ r? ] si au moins l&apos;un des deux opérandes [ a ] ou [ b ] est vraie|1, sinon renvoie 0</Value>
+      <Value>Renvoie (vrai|1) dans le registre [ r? ] si au moins l&apos;un des deux opérandes [ a ] ou [ b ] est (vraie|1), sinon renvoie (faux|0)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandXor</Key>
