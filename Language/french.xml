@@ -9021,11 +9021,11 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>ScriptCommandXor</Key>
-      <Value>Renvoie vrai|1 dans le registre [ r? ] uniquement si l&apos;un des deux opérandes [ a ] ou [ b ] est vrai|1, sinon 0.</Value>
+      <Value>Renvoie (vrais|1) dans le registre [ r? ] uniquement si l&apos;un des deux opérandes [ a ] ou [ b ] est (vraie|1), sinon (faux|0).</Value>
     </Record>
     <Record>
       <Key>ScriptCommandNor</Key>
-      <Value>Renvoie vrai|1 dans le registre [ r? ] uniquement si les deux opérandes [ a ] et [ b ] sont faux|0, sinon renvoie 0</Value>
+      <Value>Renvoie (vrais|1) dans le registre [ r? ] uniquement si les deux opérandes [ a ] et [ b ] sont (faux|0), sinon renvoie (faux|0)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandMul</Key>
