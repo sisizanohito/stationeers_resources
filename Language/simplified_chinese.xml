@@ -4921,6 +4921,26 @@
       <Value>土豆种子</Value>
     </RecordThing>
     <RecordThing>
+      <Key>SeedBag_Corn</Key>
+      <Value>玉米种子</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>SeedBag_Wheet</Key>
+      <Value>小麦种子</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>SeedBag_Tomato</Key>
+      <Value>西红柿种子</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>SeedBag_Soybean</Key>
+      <Value>大豆种子</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>SeedBag_Rice</Key>
+      <Value>水稻种子</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitAdvancedComposter</Key>
       <Value>创建一个 {THING:StructureRocketModuleSilo}.</Value>
     </RecordThing>
