@@ -8927,7 +8927,7 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>ScriptCommandDefine</Key>
-      <Value>Crée une constante labellisé [ str ] associée à la valeur numérique [ a ]. Toute occurrence de ce label dans le code sera implicitement remplacé par la valeur associée.</Value>
+      <Value>Crée une constante labellisé [ str ] associée à la valeur numérique [ a ]. Toute occurrence de ce label dans le code sera implicitement remplacée par la valeur associée.</Value>
     </Record>
     <Record>
       <Key>ScriptCommandMove</Key>
