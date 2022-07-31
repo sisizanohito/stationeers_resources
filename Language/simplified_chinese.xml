@@ -4941,6 +4941,18 @@
       <Value>水稻种子</Value>
     </RecordThing>
     <RecordThing>
+      <Key>SeedBag_Pumpkin</Key>
+      <Value>南瓜籽</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>SeedBag_Fern</Key>
+      <Value>蕨类种子</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>Fertilizer</Key>
+      <Value>肥料</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitAdvancedComposter</Key>
       <Value>创建一个 {THING:StructureRocketModuleSilo}.</Value>
     </RecordThing>
