@@ -5354,23 +5354,35 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPowerTransmitterOmni</Key>
-      <Value/>
+      <Value>套件（全频变压器）</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePowerTransmitterOmni</Key>
+      <Value>全向功率发射器</Value>
     </RecordThing>
     <RecordThing>
       <Key>Battery_Wireless_cell</Key>
-      <Value/>
+      <Value>无线电池</Value>
     </RecordThing>
     <RecordThing>
       <Key>Battery_Wireless_cell_Big</Key>
-      <Value/>
+      <Value>无线电池（大）</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>DynamicLightNetworkTest</Key>
+      <Value>动态光网络测试</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLargeExtendableRadiator</Key>
-      <Value/>
+      <Value>套件（大型可伸缩散热器）</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLargeExtendableRadiator</Key>
+      <Value>结构大型可伸缩散热器</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageLargeExtendableRadiator01</Key>
-      <Value/>
+      <Value>大型可伸缩散热器残骸</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWaterBottleFillerPoweredBottom</Key>
@@ -5386,23 +5398,27 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPassiveLargeRadiator</Key>
-      <Value/>
+      <Value>套件（被动大型散热器）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePassiveLargeRadiator</Key>
-      <Value/>
+      <Value>被动大型散热器</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPassiveLargeRadiatorGas</Key>
-      <Value/>
+      <Value>套件（被动气体大型散热器）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPassiveLargeRadiatorLiquid</Key>
-      <Value/>
+      <Value>套件（被动液体大型散热器）</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePassiveLargeRadiatorLiquid</Key>
+      <Value>大型被动液体散热器</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePassiveLargeRadiatorGas</Key>
-      <Value/>
+      <Value>大型被动气体散热器</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLogicGate</Key>
