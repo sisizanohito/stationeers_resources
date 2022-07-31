@@ -9349,31 +9349,31 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>ScriptCommandSin</Key>
-      <Value>Renvoie le sinus de l&apos;angle spécifié (en radians)</Value>
+      <Value>Renvoie en [ r? ] le sinus de l&apos;angle [ a ] spécifié (en radians)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandCos</Key>
-      <Value>Renvoie le cosinus de l&apos;angle spécifié (en radians)</Value>
+      <Value>Renvoie en [ r? ] le cosinus de l&apos;angle [ a ] spécifié (en radians)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandTan</Key>
-      <Value>Renvoie la tangente de l&apos;angle spécifié (en radians)</Value>
+      <Value>Renvoie en [ r? ] la tangente de l&apos;angle [ a ] spécifié (en radians)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandASin</Key>
-      <Value>Renvoie l’angle (en radians) dont le sinus est la valeur spécifiée</Value>
+      <Value>Renvoie l’angle (en radians) dans [ r? ] dont le sinus est la valeur spécifiée en [ a ]</Value>
     </Record>
     <Record>
       <Key>ScriptCommandACos</Key>
-      <Value>Renvoie l’angle (en radians) dont le cosinus est la valeur spécifiée</Value>
+      <Value>Renvoie l’angle (en radians) dans [ r? ] dont le cosinus est la valeur spécifiée en [ a ]</Value>
     </Record>
     <Record>
       <Key>ScriptCommandATan</Key>
-      <Value>Renvoie l’angle (en radians) dont la tangente est la valeur spécifiée</Value>
+      <Value>Renvoie l’angle (en radians) dans [ r? ] dont la tangente est la valeur spécifiée en [ a ]</Value>
     </Record>
     <Record>
       <Key>ScriptCommandATan2</Key>
-      <Value>Renvoie l&apos;angle en radians dans [r?] dont la tangente est le quotient a(y) / b(x)</Value>
+      <Value>Renvoie l&apos;angle en radians dans [ r? ] dont la tangente est le quotient a(y) / b(x)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandCommand</Key>
@@ -9762,6 +9762,10 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     <Record>
       <Key>CommandThreadStatus</Key>
       <Value>Affiche l&apos;état actuel des processus du jeu : &quot;/threadstatus&quot;</Value>
+    </Record>
+    <Record>
+      <Key>CommandResetThread</Key>
+      <Value>Réinitialise le processus spécifié : &quot;/resetthread atmospherics&quot;</Value>
     </Record>
     <Record>
       <Key>CommandSetHunger</Key>
