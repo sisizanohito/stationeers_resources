@@ -5269,6 +5269,14 @@
       <Value>寒巢（Beta 变种）</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemPlantThermogenic_Genepool1</Key>
+      <Value>哈迪斯花（阿尔法菌株）</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemPlantThermogenic_Genepool2</Key>
+      <Value>哈迪斯花（贝塔菌株）</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitStirlingEngine</Key>
       <Value>创建一个 {THING:StructureRocketModuleSilo}.</Value>
     </RecordThing>
