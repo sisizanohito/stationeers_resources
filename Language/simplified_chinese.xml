@@ -5025,6 +5025,10 @@
       <Value>罐装鸡蛋粉</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureAdvancedPackagingMachine</Key>
+      <Value>高级包装机</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitAdvancedPackagingMachine</Key>
       <Value>创建一个 {THING:StructureRocketModuleSilo}.</Value>
     </RecordThing>
