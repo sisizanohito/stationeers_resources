@@ -4970,7 +4970,11 @@
     </RecordThing>
     <RecordThing>
       <Key>KitPlanter</Key>
-      <Value>创建一个 {THING:StructureRocketModuleSilo}.</Value>
+      <Value>花盆套件</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>PortableComposter</Key>
+      <Value>便携式堆肥机</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPlanter</Key>
