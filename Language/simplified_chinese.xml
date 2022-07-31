@@ -4953,6 +4953,10 @@
       <Value>肥料</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureAdvancedComposter</Key>
+      <Value>高级堆肥机</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitAdvancedComposter</Key>
       <Value>创建一个 {THING:StructureRocketModuleSilo}.</Value>
     </RecordThing>
