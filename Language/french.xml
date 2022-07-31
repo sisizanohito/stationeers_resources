@@ -6895,10 +6895,8 @@
     </Record>
     <Record>
       <Key>MulticonstructorItem</Key>
-      <Value>
-        &lt;color=yellow&gt;Option de construction {0} de {1}&lt;/color&gt;
-        défiler avec &lt;color=red&gt;Molette de la souris&lt;/color&gt; pour plus d&apos;options.
-      </Value>
+      <Value>&lt;color=yellow&gt;Option de construction {0} de {1}&lt;/color&gt;
+Défilez avec la &lt;color=red&gt;molette de la souris&lt;/color&gt; pour sélectionner les autres options.</Value>
     </Record>
     <Record>
       <Key>UnableToConstruct</Key>
