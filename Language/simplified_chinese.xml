@@ -5157,8 +5157,40 @@
       <Value>管道加热器（气体）</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructurePipeOneWayValve</Key>
+      <Value>单向阀（气体）</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureOneWayValve</Key>
+      <Value>单向阀（气体）</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureWaterPipeHeater</Key>
+      <Value>管道加热器（气体）</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemPipeHeater</Key>
+      <Value>管道加热器套件（气体）</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWaterPipeHeater</Key>
+      <Value>管道加热器套件（液体）</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemLiquidPipeHeater</Key>
+      <Value>管道加热器套件（液体）</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLiquidPipeHeater</Key>
+      <Value>管道加热器（液体）</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureTurboVolumePump</Key>
+      <Value>涡轮容积泵（气体）</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitTurboVolumePump</Key>
-      <Value>创建一个 {THING:StructureRocketModuleSilo}.</Value>
+      <Value>套件（涡轮容积泵 - 气体）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLiquidTurboVolumePump</Key>
