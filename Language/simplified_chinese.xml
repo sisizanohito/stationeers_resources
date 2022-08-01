@@ -4050,12 +4050,24 @@
       <Value>厨房餐桌(高)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>KitchenTableShort</Key>
+      <Value>厨房桌（短）</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureSmallTableThickSingle</Key>
       <Value>小桌子(单人厚款)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureSmallTableThickDouble</Key>
       <Value>小(桌厚双人)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureSmallTableRectangleSingle</Key>
+      <Value>小（长方形单人桌）</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureSmallTableRectangleDouble</Key>
+      <Value>小（长方形双人桌）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureSmallTableDinnerSingle</Key>
@@ -4098,12 +4110,16 @@
       <Value>床</Value>
     </RecordThing>
     <RecordThing>
+      <Key>TriggerZone</Key>
+      <Value>触发区</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureEmergencyButton</Key>
       <Value>紧急按钮</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAirlockGate</Key>
-      <Value>套件(气闸门)</Value>
+      <Value>套件（气闸门）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureAirlockGate</Key>
@@ -4111,7 +4127,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureBatteryLarge</Key>
-      <Value>大电池</Value>
+      <Value>电池站（大）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitBatteryLarge</Key>
