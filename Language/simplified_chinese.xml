@@ -5225,36 +5225,52 @@
       <Value>逻辑步进排序器</Value>
     </RecordThing>
     <RecordThing>
+      <Key>DeviceStepUnit</Key>
+      <Value>设备步进单元</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>StopWatch</Key>
       <Value>秒表</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemSoundCartridgeBass</Key>
+      <Value>声带低音</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemSoundCartridgeDrums</Key>
+      <Value>声筒鼓</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemSoundCartridgeLeads</Key>
-      <Value/>
+      <Value>声筒引线</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemSoundCartridgeSynth</Key>
-      <Value/>
+      <Value>声卡合成器</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitMusicMachines</Key>
-      <Value/>
+      <Value>套件（音乐机）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemInsulatedTankConnector</Key>
-      <Value/>
+      <Value>绝缘（气罐连接器）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedTankConnector</Key>
-      <Value/>
+      <Value>绝缘气罐连接器</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemInsulatedTankConnectorLiquid</Key>
-      <Value/>
+      <Value>套件（绝缘液罐连接器）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedTankConnectorLiquid</Key>
-      <Value/>
+      <Value>绝缘液罐连接器</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>DecayedFood</Key>
+      <Value>腐烂的食物</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureShelfMedium</Key>
@@ -5262,7 +5278,11 @@
     </RecordThing>
     <RecordThing>
       <Key>PassiveSpeaker</Key>
-      <Value/>
+      <Value>被动扬声器</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>DeviceLfoVolume</Key>
+      <Value>低频振荡器</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureFridgeBig</Key>
