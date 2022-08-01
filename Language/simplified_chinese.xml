@@ -2430,6 +2430,10 @@
       <Value>大豆油</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemFries</Key>
+      <Value>炸薯条</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureCableCornerH3</Key>
       <Value>高压电线(3路连接)</Value>
     </RecordThing>
@@ -2547,7 +2551,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureDockShipSide</Key>
-      <Value>飞船对接端口 2</Value>
+      <Value>船坞停泊侧</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLightLong</Key>
@@ -3019,7 +3023,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPipeValve</Key>
-      <Value>(套件)管道阀门</Value>
+      <Value>套件（管道阀）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitDynamicGenerator</Key>
