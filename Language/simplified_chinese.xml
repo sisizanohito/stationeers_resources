@@ -4523,107 +4523,107 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageHydroponicsStation1</Key>
-      <Value>残骸水培站</Value>
+      <Value>水培站残骸</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageHydroponicsStation2</Key>
-      <Value>残骸水培站</Value>
+      <Value>水培站残骸</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSDBSilo1</Key>
-      <Value>残骸 SDB 仓库</Value>
+      <Value>SDB仓库残骸</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSDBSilo2</Key>
-      <Value>残骸 SDB 仓库</Value>
+      <Value>SDB仓库残骸</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSDBSilo3</Key>
-      <Value>残骸 SDB 仓库</Value>
+      <Value>SDB仓库残骸</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSDBSilo4</Key>
-      <Value>残骸 SDB 仓库</Value>
+      <Value>SDB仓库残骸</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSDBSilo5</Key>
-      <Value>残骸 SDB 仓库</Value>
+      <Value>SDB仓库残骸</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageShuttleLandingPad1</Key>
-      <Value>残骸航天飞机着陆垫</Value>
+      <Value>航天飞机着陆台残骸</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageShuttleLandingPad2</Key>
-      <Value>残骸航天飞机着陆垫</Value>
+      <Value>航天飞机着陆台残骸</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageShuttleLandingPad3</Key>
-      <Value>残骸航天飞机着陆垫</Value>
+      <Value>航天飞机着陆台残骸</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageShuttleLandingPad4</Key>
-      <Value>残骸航天飞机着陆垫</Value>
+      <Value>航天飞机着陆台残骸</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageShuttleLandingPad5</Key>
-      <Value>残骸航天飞机着陆垫</Value>
+      <Value>航天飞机着陆台残骸</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageBlastDoor1</Key>
-      <Value>残骸防爆门</Value>
+      <Value>防爆门残骸</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageBlastDoor2</Key>
-      <Value>残骸防爆门</Value>
+      <Value>防爆门残骸</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageCompositeDoor1</Key>
-      <Value>残骸复合门</Value>
+      <Value>复合门残骸</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageCompositeDoor2</Key>
-      <Value>残骸复合门</Value>
+      <Value>复合门残骸</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageCompositeDoor3</Key>
-      <Value>残骸复合门</Value>
+      <Value>复合门残骸</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageAirlock1</Key>
-      <Value>残骸气闸</Value>
+      <Value>气闸残骸</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageAirlock2</Key>
-      <Value>残骸气闸</Value>
+      <Value>气闸残骸</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageCompositeDoorGlass1</Key>
-      <Value>残骸复合门玻璃</Value>
+      <Value>复合门玻璃残骸</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageCompositeDoorGlass2</Key>
-      <Value>残骸复合门玻璃</Value>
+      <Value>复合门玻璃残骸</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageElevatorShaftIndustrial1</Key>
-      <Value>残骸电梯</Value>
+      <Value>电梯残骸</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageElevatorShaftIndustrial2</Key>
-      <Value>残骸电梯</Value>
+      <Value>电梯残骸</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageElevatorShaftIndustrial3</Key>
-      <Value>残骸电梯</Value>
+      <Value>电梯残骸</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageElevatorLevelFront1</Key>
-      <Value>残骸电梯</Value>
+      <Value>电梯残骸</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageElevatorLevelFront2</Key>
-      <Value>残骸电梯</Value>
+      <Value>电梯残骸</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitHarvie</Key>
@@ -4647,7 +4647,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageHydroponicsTray1</Key>
-      <Value>残骸水培托盘</Value>
+      <Value>水培托盘残骸</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasTankAdvanced</Key>
@@ -4703,35 +4703,35 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageStructureRTG1</Key>
-      <Value>残骸结构 RTG</Value>
+      <Value>RTG结构残骸</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageTurbineGenerator1</Key>
-      <Value>残骸涡轮发电机</Value>
+      <Value>涡轮发电机残骸</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageTurbineGenerator2</Key>
-      <Value>残骸涡轮发电机</Value>
+      <Value>涡轮发电机残骸</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageTurbineGenerator3</Key>
-      <Value>残骸涡轮发电机</Value>
+      <Value>涡轮发电机残骸</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageAirConditioner1</Key>
-      <Value>残骸空调</Value>
+      <Value>空调残骸</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageAirConditioner2</Key>
-      <Value>残骸空调</Value>
+      <Value>空调残骸</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageWallCooler1</Key>
-      <Value>残骸墙冷却器</Value>
+      <Value>壁挂式冷却器残骸</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageWallCooler2</Key>
-      <Value>残骸墙冷却器</Value>
+      <Value>壁挂式冷却器残骸</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitRoverMKI</Key>
