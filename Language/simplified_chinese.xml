@@ -3670,6 +3670,30 @@
       <Value>小型 细型 肖像相框</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructurePictureFrameThinLandscapeLarge</Key>
+      <Value>大型风景挂画</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePictureFrameThickPortraitSmall</Key>
+      <Value>小型肖像画</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePictureFrameThickMountPortraitSmall</Key>
+      <Value>小型骑乘肖像画</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePictureFrameThickMountPortraitLarge</Key>
+      <Value>大型骑乘肖像画</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePictureFrameThickMountLandscapeSmall</Key>
+      <Value>小型风景挂画</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePictureFrameThickMountLandscapeLarge</Key>
+      <Value>大型风景挂画</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>StructurePictureFrameThickLandscapeSmall</Key>
       <Value>相框厚景观小</Value>
     </RecordThing>
@@ -3727,7 +3751,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureAutoMinerSmall</Key>
-      <Value>小型自动挖矿机</Value>
+      <Value>自动挖矿机（小型）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAutoMinerSmall</Key>
