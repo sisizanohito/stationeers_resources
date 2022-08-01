@@ -4913,6 +4913,10 @@
       <Value>小冰箱</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureRefrigeratedVendingMachine</Key>
+      <Value>冷藏自动售货机</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitVendingMachineRefrigerated</Key>
       <Value>套件（冷藏自动售货机）</Value>
     </RecordThing>
@@ -4962,7 +4966,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitFridgeSmall</Key>
-      <Value>创建一个 {THING:StructureRocketModuleSilo}.</Value>
+      <Value>套件（小冰箱）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePlanter</Key>
@@ -5226,7 +5230,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemMiningCharge</Key>
-      <Value>采矿费</Value>
+      <Value>采矿炸药</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureReinforcedCompositeWindow</Key>
