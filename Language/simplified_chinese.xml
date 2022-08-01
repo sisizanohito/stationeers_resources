@@ -4030,6 +4030,38 @@
       <Value>套件(隔热储罐)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemKitDebug</Key>
+      <Value>套件（调试）</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureChairThickSingle</Key>
+      <Value>椅子（厚单人）</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureChairThickDouble</Key>
+      <Value>椅子（厚双人）</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureChairRectangleSingle</Key>
+      <Value>椅子（长方形单人）</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureChairRectangleDouble</Key>
+      <Value>椅子（长方形双人）</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureChairBoothMiddle</Key>
+      <Value>椅子（展位中间）</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureChairBoothCornerRight</Key>
+      <Value>椅子（展位右角）</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureChairBoothCornerLeft</Key>
+      <Value>椅子（展位左角）</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureChairBacklessSingle</Key>
       <Value>椅子(无背单人)</Value>
     </RecordThing>
@@ -4042,12 +4074,24 @@
       <Value>长凳(平)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureAngledBench</Key>
+      <Value>工作台（转角）</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitTables</Key>
       <Value>套件(桌子)</Value>
     </RecordThing>
     <RecordThing>
       <Key>KitchenTableTall</Key>
       <Value>厨房餐桌(高)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>KitchenTableSimpleTall</Key>
+      <Value>厨房桌（简约高）</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>KitchenTableSimpleShort</Key>
+      <Value>厨房桌（简约短）</Value>
     </RecordThing>
     <RecordThing>
       <Key>KitchenTableShort</Key>
