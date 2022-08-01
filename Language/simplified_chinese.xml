@@ -3783,19 +3783,19 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedPipeCrossJunction3</Key>
-      <Value>隔热管道 3路接口</Value>
+      <Value>绝缘管道交叉口（3叉型）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedPipeCrossJunction4</Key>
-      <Value>隔热管道 4路接口</Value>
+      <Value>绝缘管道交叉口（4叉型）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedPipeCrossJunction5</Key>
-      <Value>隔热管道 5路接口</Value>
+      <Value>绝缘管道交叉口（5叉型）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedPipeCrossJunction6</Key>
-      <Value>隔热管道 6路接口</Value>
+      <Value>绝缘管道交叉口（6叉型）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedPipeTJunction</Key>
