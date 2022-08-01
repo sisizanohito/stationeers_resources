@@ -5190,7 +5190,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitModularRocketGasMining</Key>
-      <Value>此套件创建一个{THING:StructureModularRocketEngine01}.</Value>
+      <Value>套件（自动火箭气体开采模块）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitHeatExchanger</Key>
