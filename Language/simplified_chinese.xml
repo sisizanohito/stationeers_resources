@@ -4138,8 +4138,116 @@
       <Value>残骸 离心机</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemWreckageGasGenerator1</Key>
+      <Value>气体发电机残骸</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemWreckageGasGenerator2</Key>
       <Value>气体发生器（残骸）</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageVent1</Key>
+      <Value>通风口残骸</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageSatelliteDish1</Key>
+      <Value>卫星天线残骸</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageSatelliteDish2</Key>
+      <Value>卫星天线残骸</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageSatelliteDish3</Key>
+      <Value>卫星天线残骸</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageElectrolysis1</Key>
+      <Value>电解机残骸</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageElectrolysis2</Key>
+      <Value>电解机残骸</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageLight1</Key>
+      <Value>灯残骸</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageLight2</Key>
+      <Value>灯残骸</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageLightLongAngled1</Key>
+      <Value>长斜灯残骸</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageLightLongAngled2</Key>
+      <Value>长斜灯残骸</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageLightLongWide1</Key>
+      <Value>长宽灯残骸</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageLightLongWide2</Key>
+      <Value>长宽灯残骸</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageWallLightBatteryPowered1</Key>
+      <Value>电池墙灯残骸</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageWallLightBatteryPowered2</Key>
+      <Value>电池墙灯残骸</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageRecycler1</Key>
+      <Value>回收机残骸</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageRecycler2</Key>
+      <Value>回收机残骸</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageRecycler3</Key>
+      <Value>回收机残骸</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageRecycler4</Key>
+      <Value>回收机残骸</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageRecycler5</Key>
+      <Value>回收机残骸</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageRecycler6</Key>
+      <Value>回收机残骸</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageFlashingLight1</Key>
+      <Value>闪光灯残骸</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageFlashingLight2</Key>
+      <Value>闪光灯残骸</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageActiveVent1</Key>
+      <Value>主动通风口残骸</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckagePassiveVent1</Key>
+      <Value>被动通风口残骸</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageCoalGenerator1</Key>
+      <Value>煤发电机残骸</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageCoalGenerator2</Key>
+      <Value>涡轮发电机残骸</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageCoalGenerator3</Key>
@@ -4375,7 +4483,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitRoverMKI</Key>
-      <Value/>
+      <Value>套件（漫游者Mk I）</Value>
     </RecordThing>
     <RecordThing>
       <Key>Rover_MkI_build_states</Key>
@@ -4826,7 +4934,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidPipeAnalyzer</Key>
-      <Value/>
+      <Value>液体管道分析仪</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitModularRocketGasMining</Key>
