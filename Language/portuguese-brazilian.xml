@@ -208,10 +208,6 @@
       <Value>Minerar</Value>
     </Record>
     <Record>
-      <Key>Swap</Key>
-      <Value>Trocar</Value>
-    </Record>
-    <Record>
       <Key>Clear</Key>
       <Value>Limpar</Value>
     </Record>
@@ -370,10 +366,6 @@
     <Record>
       <Key>Vend</Key>
       <Value>Vender</Value>
-    </Record>
-    <Record>
-      <Key>Link</Key>
-      <Value>Conectar</Value>
     </Record>
     <Record>
       <Key>UnLink</Key>
