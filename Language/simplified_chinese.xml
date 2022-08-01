@@ -3371,7 +3371,7 @@
     </RecordThing>
     <RecordThing>
       <Key>MotherboardComms</Key>
-      <Value>通信</Value>
+      <Value>通信主板</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemMarineBodyArmor</Key>
@@ -3443,15 +3443,15 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAutoMiner</Key>
-      <Value>套件(自动挖矿机)</Value>
+      <Value>套件（自动挖矿机）</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterNitrousOxide</Key>
-      <Value>便携储罐(氧化亚氮)</Value>
+      <Value>便携式储气罐（一氧化二氮）</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterPollutants</Key>
-      <Value>便携储罐(污染物)</Value>
+      <Value>便携式储气罐（污染物）</Value>
     </RecordThing>
     <RecordThing>
       <Key>Lander</Key>
