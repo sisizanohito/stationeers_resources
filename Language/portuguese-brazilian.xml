@@ -357,11 +357,11 @@
     </Record>
     <Record>
       <Key>ForceClose</Key>
-      <Value>Fechar  fora</Value>
+      <Value>Fechar à Força</Value>
     </Record>
     <Record>
       <Key>ForceOpen</Key>
-      <Value>Abrir  fora</Value>
+      <Value>Abrir à força</Value>
     </Record>
     <Record>
       <Key>Vend</Key>
@@ -373,7 +373,11 @@
     </Record>
     <Record>
       <Key>ForceFeed</Key>
-      <Value>Abrir  fora</Value>
+      <Value>Alimentar a força</Value>
+    </Record>
+    <Record>
+      <Key>FlipRover</Key>
+      <Value>Virar Rover</Value>
     </Record>
   </Actions>
   <Things>
