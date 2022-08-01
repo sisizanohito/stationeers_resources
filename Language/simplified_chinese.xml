@@ -2323,7 +2323,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureSolarPanelDual</Key>
-      <Value>太阳能板</Value>
+      <Value>太阳能电池板（双向）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLogicBatchWriter</Key>
