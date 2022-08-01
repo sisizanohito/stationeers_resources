@@ -167,19 +167,19 @@
   <Gases>
     <Record>
       <Key>Oxygen</Key>
-      <Value>Oxignio</Value>
+      <Value>Oxigênio</Value>
     </Record>
     <Record>
       <Key>CarbonDioxide</Key>
-      <Value>Dixido de Carbono</Value>
+      <Value>Dióxido de Carbono</Value>
     </Record>
     <Record>
       <Key>Nitrogen</Key>
-      <Value>Nitrognio</Value>
+      <Value>Nitrogênio</Value>
     </Record>
     <Record>
       <Key>Volatiles</Key>
-      <Value>Volteis</Value>
+      <Value>Voláteis</Value>
     </Record>
     <Record>
       <Key>Pollutant</Key>
@@ -187,11 +187,11 @@
     </Record>
     <Record>
       <Key>Water</Key>
-      <Value>gua</Value>
+      <Value>Água</Value>
     </Record>
     <Record>
       <Key>NitrousOxide</Key>
-      <Value>xido Nitroso</Value>
+      <Value>Óxido Nitroso</Value>
     </Record>
   </Gases>
   <Actions>
@@ -206,6 +206,10 @@
     <Record>
       <Key>Mine</Key>
       <Value>Minerar</Value>
+    </Record>
+    <Record>
+      <Key>Swap</Key>
+      <Value>Trocar</Value>
     </Record>
     <Record>
       <Key>Clear</Key>
@@ -246,6 +250,10 @@
     <Record>
       <Key>Plant</Key>
       <Value>Plantar</Value>
+    </Record>
+    <Record>
+      <Key>Water</Key>
+      <Value>Água</Value>
     </Record>
     <Record>
       <Key>Harvest</Key>
@@ -366,6 +374,10 @@
     <Record>
       <Key>Vend</Key>
       <Value>Vender</Value>
+    </Record>
+    <Record>
+      <Key>Link</Key>
+      <Value>Conectar</Value>
     </Record>
     <Record>
       <Key>UnLink</Key>
