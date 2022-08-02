@@ -1087,31 +1087,31 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitBattery</Key>
-      <Value>(套件)蓄电池</Value>
+      <Value>套件（电池）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitCentrifuge</Key>
-      <Value>(套件)离心机</Value>
+      <Value>套件（离心机）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitChute</Key>
-      <Value>(套件)滑槽</Value>
+      <Value>套件（滑槽）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitComputer</Key>
-      <Value>(套件)电脑</Value>
+      <Value>套件（电脑）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitConsole</Key>
-      <Value>(套件)LED显示屏</Value>
+      <Value>套件（控制台）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitConveyor</Key>
-      <Value>(套件)输送带</Value>
+      <Value>套件（传送带）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitCryoTube</Key>
-      <Value>(套件)冷冻舱</Value>
+      <Value>套件（冷冻舱）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitEngine</Key>
@@ -1119,19 +1119,19 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitFabricator</Key>
-      <Value>(套件)装配机</Value>
+      <Value>套件（制造机）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitFurnace</Key>
-      <Value>(套件)熔炉</Value>
+      <Value>套件（熔炉）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitFurniture</Key>
-      <Value>(套件)家具</Value>
+      <Value>套件（家具）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitGyroscope</Key>
-      <Value>(套件)陀螺仪</Value>
+      <Value>套件（陀螺仪）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitRegulator</Key>
@@ -1139,19 +1139,19 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSensor</Key>
-      <Value>(套件)传感器</Value>
+      <Value>套件（传感器）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSign</Key>
-      <Value>(套件)标志牌</Value>
+      <Value>套件（标志牌）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSleeper</Key>
-      <Value>(套件)睡眠舱</Value>
+      <Value>套件（睡眠舱）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSolarPanel</Key>
-      <Value>(套件)太阳能板</Value>
+      <Value>套件（太阳能电池板）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitStairs</Key>
