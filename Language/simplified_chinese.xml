@@ -775,7 +775,7 @@
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterVolatiles</Key>
-      <Value>便携储罐(挥发性有机物)</Value>
+      <Value>便携储气罐(挥发性有机物)</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterWater</Key>
@@ -795,7 +795,7 @@
     </RecordThing>
     <RecordThing>
       <Key>DynamicScrubber</Key>
-      <Value>便携式空气过滤器</Value>
+      <Value>便携式空气过滤机</Value>
     </RecordThing>
     <RecordThing>
       <Key>EffectSplatEgg</Key>
@@ -819,7 +819,7 @@
     </RecordThing>
     <RecordThing>
       <Key>EntityGraylien</Key>
-      <Value>Graylien实体</Value>
+      <Value>格雷林实体</Value>
     </RecordThing>
     <RecordThing>
       <Key>EntityRoosterBlack</Key>
@@ -835,7 +835,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemActiveVent</Key>
-      <Value>(套件)主动通风口</Value>
+      <Value>套件（主动通风口）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemAreaPowerControl</Key>
