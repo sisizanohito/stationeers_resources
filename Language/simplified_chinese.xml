@@ -1399,11 +1399,11 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemTankConnector</Key>
-      <Value>套件(储罐连接底座)</Value>
+      <Value>套件(储气罐连接底座)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemTankConnectorLiquid</Key>
-      <Value>套件(储罐连接底座)</Value>
+      <Value>套件(储液罐连接底座)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemToolBelt</Key>
