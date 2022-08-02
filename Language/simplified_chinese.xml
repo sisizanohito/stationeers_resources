@@ -1155,11 +1155,11 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitStairs</Key>
-      <Value>(套件)楼梯</Value>
+      <Value>套件（楼梯）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitStellarAnchor</Key>
-      <Value>恒星锚</Value>
+      <Value>套件（恒星锚）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitStorage</Key>
@@ -1167,23 +1167,23 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitTank</Key>
-      <Value>(套件)压力罐</Value>
+      <Value>套件（罐子）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitTorpedoTube</Key>
-      <Value>鱼雷发射器</Value>
+      <Value>套件（鱼雷发射器）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitTurret</Key>
-      <Value>(套件)炮塔</Value>
+      <Value>套件（炮塔）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitWall</Key>
-      <Value>复合墙</Value>
+      <Value>套件（墙面）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemLabeller</Key>
-      <Value>贴标机</Value>
+      <Value>标签机</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemLightSword</Key>
