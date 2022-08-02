@@ -1315,11 +1315,11 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemSecurityCamera</Key>
-      <Value>监视器</Value>
+      <Value>安保摄像头</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemSpaceCleaner</Key>
-      <Value>空间清洁剂</Value>
+      <Value>太空清洁剂</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemSpaceHelmet</Key>
