@@ -1551,7 +1551,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureChuteJunction</Key>
-      <Value>滑槽(接口)</Value>
+      <Value>滑槽(交叉)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureChuteOutlet</Key>
@@ -1559,7 +1559,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureChuteStraight</Key>
-      <Value>滑槽(直行)</Value>
+      <Value>滑槽(直线)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeDoor</Key>
