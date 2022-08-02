@@ -1511,19 +1511,19 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunction</Key>
-      <Value>电线(接头)</Value>
+      <Value>电缆(交叉)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunction4</Key>
-      <Value>电缆(4路接头)</Value>
+      <Value>电缆(4叉)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunction6</Key>
-      <Value>电线(6路接头)</Value>
+      <Value>电缆(6叉)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableStraight</Key>
-      <Value>电线(直线)</Value>
+      <Value>电缆(直线)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCamera</Key>
@@ -1539,7 +1539,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureChuteBin</Key>
-      <Value>滑槽</Value>
+      <Value>滑槽箱</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureChuteCorner</Key>
