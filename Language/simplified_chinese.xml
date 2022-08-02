@@ -1639,11 +1639,11 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureCryoTube</Key>
-      <Value>冷冻舱(低温管)</Value>
+      <Value>冷冻舱</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureDaylightSensor</Key>
-      <Value>日光传感器</Value>
+      <Value>阳光传感器</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureDigitalValve</Key>
