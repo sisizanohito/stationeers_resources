@@ -1223,15 +1223,15 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemPipeAnalyizer</Key>
-      <Value>(套件)管道分析仪</Value>
+      <Value>套件（管道分析仪）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemPipeCorner</Key>
-      <Value>管道(转角)</Value>
+      <Value>套件（转角管）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemPipeCrossJunction</Key>
-      <Value>管道(十字接口)</Value>
+      <Value>套件（十字管）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemPipeCrossJunction3</Key>
