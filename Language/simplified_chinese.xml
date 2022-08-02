@@ -955,7 +955,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemFlashingLight</Key>
-      <Value>(套件)闪光灯</Value>
+      <Value>套件（闪烁灯）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemFlour</Key>
@@ -963,15 +963,15 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemGasCanisterCarbonDioxide</Key>
-      <Value>金属罐(二氧化碳)</Value>
+      <Value>储气瓶(二氧化碳)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasCanisterPollutants</Key>
-      <Value>金属罐(污染物)</Value>
+      <Value>储气瓶(污染物)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasCanisterEmpty</Key>
-      <Value>金属罐</Value>
+      <Value>储气瓶</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasCanisterFuel</Key>
