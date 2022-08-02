@@ -1571,7 +1571,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeWall</Key>
-      <Value>复合墙体(类型 1)</Value>
+      <Value>复合墙(1型)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeWallRound</Key>
@@ -1579,19 +1579,19 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeWallType1</Key>
-      <Value>复合墙体(类型 1)</Value>
+      <Value>复合墙(1型)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeWallType2</Key>
-      <Value>复合墙体(类型 2)</Value>
+      <Value>复合墙(2型)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeWallType3</Key>
-      <Value>复合墙体(类型 3)</Value>
+      <Value>复合墙(3型)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeWallType4</Key>
-      <Value>复合墙体(类型4)</Value>
+      <Value>复合墙(4型)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeWindow</Key>
