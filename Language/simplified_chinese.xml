@@ -1647,7 +1647,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureDigitalValve</Key>
-      <Value>数字阀门</Value>
+      <Value>数控阀门</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureFabricator</Key>
@@ -1659,7 +1659,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureFlashingLight</Key>
-      <Value>闪光灯</Value>
+      <Value>闪烁灯</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureFrame</Key>
