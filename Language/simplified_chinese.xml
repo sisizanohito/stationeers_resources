@@ -839,7 +839,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemAreaPowerControl</Key>
-      <Value>(套件)电源控制器</Value>
+      <Value>套件（电源控制器）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemBatteryCell</Key>
@@ -855,7 +855,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemBatteryCharger</Key>
-      <Value>(套件)充电器</Value>
+      <Value>套件（电池充电器）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemBook</Key>
@@ -863,7 +863,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemCableCoil</Key>
-      <Value>电线</Value>
+      <Value>电缆</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemChemLightBlue</Key>
