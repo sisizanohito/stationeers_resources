@@ -975,23 +975,23 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemGasCanisterFuel</Key>
-      <Value>金属罐(燃料)</Value>
+      <Value>储气瓶(燃料)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasCanisterVolatiles</Key>
-      <Value>金属罐(挥发性有机物)</Value>
+      <Value>储气瓶(挥发性有机物)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasCanisterNitrogen</Key>
-      <Value>金属罐(氮)</Value>
+      <Value>储气瓶(氮)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasCanisterOxygen</Key>
-      <Value>金属罐(氧)</Value>
+      <Value>储气瓶（氧气）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasCanisterWater</Key>
-      <Value>储液罐（水）</Value>
+      <Value>储液瓶（水）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemLiquidCanisterEmpty</Key>
