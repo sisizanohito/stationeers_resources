@@ -1435,11 +1435,23 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemWireCutters</Key>
-      <Value>钢丝钳</Value>
+      <Value>剪线钳</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWrench</Key>
       <Value>扳手</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>MotherboardLogic</Key>
+      <Value>逻辑主板</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>MotherboardManufacturing</Key>
+      <Value>制造主板</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>MotherboardSorter</Key>
+      <Value>分拣机主板</Value>
     </RecordThing>
     <RecordThing>
       <Key>MothershipCore</Key>
