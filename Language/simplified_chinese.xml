@@ -1623,19 +1623,19 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureConveyorRiser</Key>
-      <Value>输送带(上下)</Value>
+      <Value>输送带(垂直)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureConveyorStraight</Key>
-      <Value>输送带(直行)</Value>
+      <Value>输送带(直线)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureConveyorStraightLong</Key>
-      <Value>输送带(加长)</Value>
+      <Value>输送带(直线长)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureConveyorStraightShort</Key>
-      <Value>输送带(短的)</Value>
+      <Value>输送机（直线短）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCryoTube</Key>
