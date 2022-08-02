@@ -1735,23 +1735,23 @@
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeCrossJunction</Key>
-      <Value>管道(接口)</Value>
+      <Value>管道(交叉)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeCrossJunction3</Key>
-      <Value>管道(三路连接)</Value>
+      <Value>管道(3叉)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeCrossJunction5</Key>
-      <Value>管道(五路连接)</Value>
+      <Value>管道(5叉)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeCrossJunction6</Key>
-      <Value>管道(六路连接)</Value>
+      <Value>管道(6叉)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeLabel</Key>
-      <Value>(套件)管道标志</Value>
+      <Value>管道标签</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeMeter</Key>
@@ -1763,7 +1763,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeStraight</Key>
-      <Value>管道(直)</Value>
+      <Value>管道(直线)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeTJunction</Key>
@@ -1771,7 +1771,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructurePowerConnector</Key>
-      <Value>便携式发电机连接件</Value>
+      <Value>电源连接器</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePressureRegulator</Key>
