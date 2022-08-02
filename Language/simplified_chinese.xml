@@ -755,23 +755,23 @@
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterCarbonDioxide</Key>
-      <Value>便携储罐(二氧化碳)</Value>
+      <Value>便携式储气罐（二氧化碳）</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterEmpty</Key>
-      <Value>便携储罐(空)</Value>
+      <Value>便携式储气罐</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterFuel</Key>
-      <Value>便携储罐(燃料)</Value>
+      <Value>便携式储气罐（燃料）</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterNitrogen</Key>
-      <Value>便携储罐(氮)</Value>
+      <Value>便携式储气罐（氮气）</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterOxygen</Key>
-      <Value>便携储罐(氧)</Value>
+      <Value>便携式储气罐（氧气）</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterVolatiles</Key>
