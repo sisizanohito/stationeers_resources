@@ -1687,11 +1687,11 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureGasTankStorage</Key>
-      <Value>气瓶填充器</Value>
+      <Value>气罐填充器</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidTankStorage</Key>
-      <Value>气瓶填充器</Value>
+      <Value>液罐填充器</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureGlassDoor</Key>
