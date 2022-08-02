@@ -1035,7 +1035,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemGoldIngot</Key>
-      <Value>锭(金)</Value>
+      <Value>金属锭(金)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGoldOre</Key>
@@ -1055,7 +1055,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemHydroponicTray</Key>
-      <Value>(套件)水培盆栽</Value>
+      <Value>套件（水培托盘）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemIce</Key>
@@ -1063,15 +1063,15 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemIgniter</Key>
-      <Value>点火器</Value>
+      <Value>套件（点火器）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemInsulation</Key>
-      <Value>绝缘</Value>
+      <Value>保温</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemIronIngot</Key>
-      <Value>锭(铁)</Value>
+      <Value>金属锭(铁)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemIronOre</Key>
@@ -1079,11 +1079,11 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAirlock</Key>
-      <Value>(套件)气闸门</Value>
+      <Value>套件（气闸）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAtmospherics</Key>
-      <Value>(套件)空调机</Value>
+      <Value>套件（气体处理机）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitBattery</Key>
