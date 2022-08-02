@@ -891,11 +891,11 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemCompositeFloorGrating</Key>
-      <Value>复合地板格栅(4种)</Value>
+      <Value>复合地板格栅</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemCopperIngot</Key>
-      <Value>锭(铜)</Value>
+      <Value>金属锭(铜)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemCopperOre</Key>
@@ -915,7 +915,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemDrill</Key>
-      <Value>手钻</Value>
+      <Value>手电钻</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemDuctTape</Key>
