@@ -1498,16 +1498,20 @@
       <Value>电池充电器</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureBench</Key>
+      <Value>通电工作台</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureBlastDoor</Key>
-      <Value>防护门</Value>
+      <Value>防爆门</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableCorner</Key>
-      <Value>电线(转角)</Value>
+      <Value>电缆(拐角)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableCorner3</Key>
-      <Value>电线(3路拐角)</Value>
+      <Value>电缆(3叉)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunction</Key>
