@@ -1778,6 +1778,10 @@
       <Value>压力调节器</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureRailing</Key>
+      <Value>工业栏杆（1型）</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureRocketEngine</Key>
       <Value>火箭发动机</Value>
     </RecordThing>
@@ -1791,7 +1795,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureRTG</Key>
-      <Value>创造模式同位素温差发电机</Value>
+      <Value>创造同位素温差发电机</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureSleeper</Key>
@@ -1807,11 +1811,11 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureStacker</Key>
-      <Value>堆垛机</Value>
+      <Value>堆叠器</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureStackerReverse</Key>
-      <Value>堆垛机</Value>
+      <Value>堆叠器</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureStairs4x2</Key>
@@ -2007,7 +2011,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureChuteWindow</Key>
-      <Value>斜道(窗口)</Value>
+      <Value>滑槽(窗口)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureArcFurnace</Key>
@@ -2019,11 +2023,11 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitFabrication</Key>
-      <Value>工具包(制造)</Value>
+      <Value>套件(制造)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPipe</Key>
-      <Value>(套件)管道</Value>
+      <Value>套件（管道）</Value>
     </RecordThing>
     <RecordThing>
       <Key>CartridgeElectronicReader</Key>
