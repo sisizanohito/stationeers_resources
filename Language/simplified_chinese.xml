@@ -991,7 +991,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemGasCanisterWater</Key>
-      <Value>金属罐(水)</Value>
+      <Value>储液罐（水）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemLiquidCanisterEmpty</Key>
@@ -999,35 +999,35 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterCarbonDioxide</Key>
-      <Value>次级滤芯(二氧化碳)</Value>
+      <Value>滤芯(二氧化碳)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterPollutants</Key>
-      <Value>次级滤芯(污染物)</Value>
+      <Value>滤芯(污染物)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterNitrogen</Key>
-      <Value>次级滤芯(氮)</Value>
+      <Value>滤芯(氮)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterOxygen</Key>
-      <Value>次级滤芯(氧)</Value>
+      <Value>滤芯(氧)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterVolatiles</Key>
-      <Value>次级滤芯(挥发性有机物)</Value>
+      <Value>滤芯(挥发性有机物)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterWater</Key>
-      <Value>次级滤芯(水)</Value>
+      <Value>滤芯（水）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasTankStorage</Key>
-      <Value>(套件)气瓶填充器</Value>
+      <Value>套件（气体储瓶）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemLiquidTankStorage</Key>
-      <Value>套件(储液瓶填充器)</Value>
+      <Value>套件（液体储瓶）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGlassSheets</Key>
