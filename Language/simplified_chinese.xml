@@ -1471,7 +1471,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureAirConditioner</Key>
-      <Value>空调机</Value>
+      <Value>空调</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureAirlock</Key>
@@ -1479,11 +1479,11 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureAreaPowerControl</Key>
-      <Value>区域电源控制</Value>
+      <Value>区域电源控制器</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureAreaPowerControlReversed</Key>
-      <Value>区域电源控制</Value>
+      <Value>区域电源控制器</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureBackPressureRegulator</Key>
@@ -1491,7 +1491,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureBattery</Key>
-      <Value>电池</Value>
+      <Value>电池站</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureBatteryCharger</Key>
