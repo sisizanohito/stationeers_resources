@@ -1199,7 +1199,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemMiningDrill</Key>
-      <Value>采矿钻机</Value>
+      <Value>采矿钻头</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemMuffin</Key>
@@ -1207,11 +1207,11 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemPassiveVent</Key>
-      <Value>(套件)被动通风口</Value>
+      <Value>套件（被动通风口）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemPickaxe</Key>
-      <Value>鹤嘴锄</Value>
+      <Value>镐头</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemPillHeal</Key>
