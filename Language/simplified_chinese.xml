@@ -10332,6 +10332,14 @@ Stationeers就是一切：宇航员、工程师和探险家，仅配备了有限
       <Value>物品选择</Value>
     </Record>
     <Record>
+      <Key>ControlQuickMoveDisc</Key>
+      <Value>快速移动项目</Value>
+    </Record>
+    <Record>
+      <Key>WeatherEventsField</Key>
+      <Value>有天气事件</Value>
+    </Record>
+    <Record>
       <Key>ControlUseItemDisc</Key>
       <Value>使用物品</Value>
     </Record>
@@ -10344,6 +10352,14 @@ Stationeers就是一切：宇航员、工程师和探险家，仅配备了有限
       <Value>食用</Value>
     </Record>
     <Record>
+      <Key>HelpCommand</Key>
+      <Value>测试 /n 测试 /n 测试</Value>
+    </Record>
+    <Record>
+      <Key>ToggleChangeLog</Key>
+      <Value>切换更改日志</Value>
+    </Record>
+    <Record>
       <Key>ShowPreviousVideoText</Key>
       <Value>显示上一个视频</Value>
     </Record>
@@ -10353,7 +10369,11 @@ Stationeers就是一切：宇航员、工程师和探险家，仅配备了有限
     </Record>
     <Record>
       <Key>LightString</Key>
-      <Value>亮度</Value>
+      <Value>光</Value>
+    </Record>
+    <Record>
+      <Key>FixedWeatherEventMissing</Key>
+      <Value>没有发现这个世界的天气系统。已应用默认天气系统。预计会有一些动荡。</Value>
     </Record>
     <Record>
       <Key>AdvancedTutorialButton</Key>
@@ -10366,6 +10386,10 @@ Stationeers就是一切：宇航员、工程师和探险家，仅配备了有限
     <Record>
       <Key>NextTutoiralButtonFail</Key>
       <Value>无法加载下一个教程。请返回菜单。</Value>
+    </Record>
+    <Record>
+      <Key>ImportExportCategoryKey</Key>
+      <Value>输入/输出</Value>
     </Record>
     <Record>
       <Key>TravelCategoryKey</Key>
@@ -10392,6 +10416,10 @@ Stationeers就是一切：宇航员、工程师和探险家，仅配备了有限
       <Value>有机物和食品</Value>
     </Record>
     <Record>
+      <Key>StructureCategoryKey</Key>
+      <Value>结构</Value>
+    </Record>
+    <Record>
       <Key>LogicCategoryKey</Key>
       <Value>逻辑设备</Value>
     </Record>
@@ -10416,6 +10444,10 @@ Stationeers就是一切：宇航员、工程师和探险家，仅配备了有限
       <Value>气体</Value>
     </Record>
     <Record>
+      <Key>ConstructionKitsCategoryKey</Key>
+      <Value>结构套件</Value>
+    </Record>
+    <Record>
       <Key>FabricatorCategoryKey</Key>
       <Value>装配机器</Value>
     </Record>
@@ -10432,20 +10464,60 @@ Stationeers就是一切：宇航员、工程师和探险家，仅配备了有限
       <Value>矿石</Value>
     </Record>
     <Record>
+      <Key>PersonalCategoryKey</Key>
+      <Value>个人</Value>
+    </Record>
+    <Record>
       <Key>PressureKeySPDA</Key>
       <Value>最大压力</Value>
+    </Record>
+    <Record>
+      <Key>CableMaxPowerSPDA</Key>
+      <Value>最大功率：</Value>
     </Record>
     <Record>
       <Key>StationpediaSearch</Key>
       <Value>研究</Value>
     </Record>
     <Record>
+      <Key>StationpediaBeginnerGuides</Key>
+      <Value>指南</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaAdvancedGuides</Key>
+      <Value>宇宙</Value>
+    </Record>
+    <Record>
       <Key>StationpediaConstructWith</Key>
       <Value>建造工具</Value>
     </Record>
     <Record>
+      <Key>StationpediaPrefabHash</Key>
+      <Value>预制哈希：</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaPaintable</Key>
+      <Value>可涂装：</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaStackSize</Key>
+      <Value>堆叠大小：</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaThingUnit</Key>
+      <Value>单位：</Value>
+    </Record>
+    <Record>
       <Key>StationpediaReagentsHeader</Key>
       <Value>化学原料</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaHeatHeader</Key>
+      <Value>比热：</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaShatterHeader</Key>
+      <Value>粉碎：</Value>
     </Record>
     <Record>
       <Key>StationpediaFlashpointHeader</Key>
@@ -10464,6 +10536,14 @@ Stationeers就是一切：宇航员、工程师和探险家，仅配备了有限
       <Value>所有插槽</Value>
     </Record>
     <Record>
+      <Key>StationpediaHowToManufacture</Key>
+      <Value>如何制造</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaBuildStates</Key>
+      <Value>建造状态</Value>
+    </Record>
+    <Record>
       <Key>StationpediaMachineVersion</Key>
       <Value>版本</Value>
     </Record>
@@ -10472,32 +10552,60 @@ Stationeers就是一切：宇航员、工程师和探险家，仅配备了有限
       <Value>气体</Value>
     </Record>
     <Record>
+      <Key>StationpediaResoucesHeader</Key>
+      <Value>使用的资源</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaUsedIn</Key>
+      <Value>用于</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaManufactures</Key>
+      <Value>制造</Value>
+    </Record>
+    <Record>
       <Key>StationpediaFoundIn</Key>
       <Value>源地</Value>
     </Record>
     <Record>
       <Key>StationpediaConstructionOptions</Key>
-      <Value>建造选项</Value>
+      <Value>施工选项</Value>
     </Record>
     <Record>
       <Key>StationpediaModeHeader</Key>
       <Value>游戏模式</Value>
     </Record>
     <Record>
+      <Key>StationpediaLogicHeader</Key>
+      <Value>逻辑</Value>
+    </Record>
+    <Record>
       <Key>StationpediaLogicSlotHeader</Key>
-      <Value>逻辑槽位</Value>
+      <Value>逻辑插槽</Value>
     </Record>
     <Record>
       <Key>StationpediaTutorialListHeader</Key>
       <Value>教程</Value>
     </Record>
     <Record>
+      <Key>StationpediaNoResults</Key>
+      <Value>未找到任何结果...</Value>
+    </Record>
+    <Record>
       <Key>HydrationSPDAKey</Key>
       <Value>水分</Value>
     </Record>
     <Record>
+      <Key>EvaSPDAKey</Key>
+      <Value>舱外活动</Value>
+    </Record>
+    <Record>
       <Key>NutritionSPDAKey</Key>
       <Value>营养</Value>
+    </Record>
+    <Record>
+      <Key>StatusIconHydrationDesc</Key>
+      <Value>水分正在下降</Value>
     </Record>
     <Record>
       <Key>StatusIconHydrationKey</Key>
@@ -10512,8 +10620,20 @@ Stationeers就是一切：宇航员、工程师和探险家，仅配备了有限
       <Value>水分极低</Value>
     </Record>
     <Record>
+      <Key>Guides</Key>
+      <Value>指南</Value>
+    </Record>
+    <Record>
+      <Key>Lore</Key>
+      <Value>博学</Value>
+    </Record>
+    <Record>
       <Key>SettingsLightShadowDistance</Key>
       <Value>阴影距离</Value>
+    </Record>
+    <Record>
+      <Key>CrowbarToFlip</Key>
+      <Value>使用撬棍翻转</Value>
     </Record>
     <Record>
       <Key>TimerPanel</Key>
