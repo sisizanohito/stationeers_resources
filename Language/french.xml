@@ -10365,10 +10365,9 @@ En raison de réglementations de l’&lt;color=#0080FFFF&gt;{LINK:ODA;ODA}&lt;/c
     </Record>
     <Record>
       <Key>MoleWaterDescription</Key>
-      <Value>Vous pouvez obtenir de l’eau en fondant ou en broyant de la {THING:ItemIce} à l’aide d&apos;un {THING:StructureFurnace}, d&apos;un {THING:StructureIceCrusher}, ou en brûlant de l’hydrogène et de l&apos;oxygène à l’aide du {THING:H2Combustor}.
+      <Value>Vous pouvez obtenir de l’eau en fondant de la {THING:ItemIce} à l’aide d&apos;un {THING:StructureFurnace} ou en la broyant à l&apos;aide d&apos;un {THING:StructureIceCrusher}. Vous pouvez aussi en obtenir en brûlant de l’hydrogène et de l&apos;oxygène à l’aide du {THING:H2Combustor}.
 L’eau est essentielle pour que les &lt;color=#0080FFFF&gt;{LINK:OrganicPage;plantes}&lt;/color&gt; restent en vie, mais aussi pour faire pousser de la &lt;color=#0080FFFF&gt;{LINK:NutritionPage;nourriture}&lt;/color&gt;. C’est aussi un fluide caloporteur exceptionnel avec une capacité calorifique très élevée.
-Remarque : l’eau était auparavant traitée comme un gaz, mais un nouveau système pour les liquides est en cours de développement, comprenant des tuyaux, des réservoirs, des pompes, etc. L’eau est actuellement le seul liquide disponible et, pour le moment, ne change pas d’états.
- </Value>
+Remarque : l’eau était auparavant traitée comme un gaz, mais un nouveau système pour les liquides est en cours de développement, comprenant des tuyaux, des réservoirs, des pompes, etc. L’eau est actuellement le seul liquide disponible et, pour le moment, ne change pas d’état.</Value>
     </Record>
     <Record>
       <Key>MoleNitrousOxideDescription</Key>
