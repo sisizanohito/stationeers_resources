@@ -687,23 +687,23 @@
     </RecordThing>
     <RecordThing>
       <Key>Character</Key>
-      <Value>字符</Value>
+      <Value>角色</Value>
     </RecordThing>
     <RecordThing>
       <Key>CircuitboardAirControl</Key>
-      <Value>电路板(空气控制)</Value>
+      <Value>空气控制芯片</Value>
     </RecordThing>
     <RecordThing>
       <Key>CircuitboardAirlockControl</Key>
-      <Value>电路板(气闸控制)</Value>
+      <Value>气闸芯片</Value>
     </RecordThing>
     <RecordThing>
       <Key>CircuitboardCameraDisplay</Key>
-      <Value>摄像显示</Value>
+      <Value>监控芯片</Value>
     </RecordThing>
     <RecordThing>
       <Key>CircuitboardDoorControl</Key>
-      <Value>电路板(门禁)</Value>
+      <Value>门控芯片</Value>
     </RecordThing>
     <RecordThing>
       <Key>CircuitboardGasDisplay</Key>
