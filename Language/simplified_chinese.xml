@@ -10312,6 +10312,12 @@ Norsec的轨道空间系统部门负责设计和生产了&lt;color=#0080FFFF&gt;
 </Value>
     </Record>
     <Record>
+      <Key>TKDesc</Key>
+      <Value>坦桑尼亚动能系统公司最初是一家专门从事蛮力、高功率武器的国防承包商，它执行了一项大规模的和平时期支点，成为非洲议会高速货物输送机的领先设计者。
+现在生产一系列溜槽网络设计和组件，由于21世纪后期的非洲 - 中国伙伴关系，TK在外太空拥有强大的影响力。该公司总部设在达累斯萨拉姆的“侦察”基甘博尼区，与{LINK:CHAC;CHAC}拥有伙伴关系，因此，他们的许多产品显示出明显的相似之处。
+        毕竟，这是“高速货物输送机”而不是枪。      </Value>
+    </Record>
+    <Record>
       <Key>XigoDesc</Key>
       <Value>2150CE的一项调查显示，Xigo的“X”是世界上是世界上最知名的符号之一。然而，很少有参与者能清楚地描述公司的实际业务范围。
 这家公司的发展历程一直是无数理论、财务研究和诉讼的主题——这家大型企业集团最初只是一个价格比较网站，后来发展到包括数据、分销，最后是生产。
@@ -10321,15 +10327,51 @@ Norsec的轨道空间系统部门负责设计和生产了&lt;color=#0080FFFF&gt;
     <Record>
       <Key>StationeersDesc</Key>
       <Value>22世纪初，地球正从一场大灾难中走出来。它的资源被侵蚀，我们的人口在减少，重建是时代的主题。
-由&lt;color=#0080FFFF&gt;{LINK:ODA;Offworld Development Agency}&lt;/color&gt; (ODA)于2095年发起，Stationeers计划致力于一个简单的理想：确保人类仍旧仰望星空。
-Stationeers就是一切：宇航员、工程师和探险家，仅配备了有限的设备和工具，接受的训练是用更少的资源做更多的事情。利用环境优势，他们的工作是为太空中的人类提供基础设施，而成本只是传统太空计划的一小部分。
-从月球到土卫一甚至是更遥远的地方都能建立和维护基地，stationeers是我们在宇宙中的先锋。在外星生存、采矿和建筑技术、基础冶金、电子、火箭、水培和更多“神秘”科学的教育下，Stationeers想尽一切办法来生存和发展。
-以没有进入标准而闻名，从来就没有“典型”的statiuoneer。心理分析表明，成功的学员表现出的“基准线”在于实用主义和专心致志，但一些最著名的站stationeers却不具备这两种素质。
-招募自土木工程背景，军事和航空航天工业，软件开发，矿业集团以及科学领域甚至宗教，从根本上说，Stationeers 计划对全人类开放。</Value>
+由外星发展署 (ODA)于2095年发起，空间站长计划致力于一个简单的理想：确保人类仍旧仰望星空。
+空间站长就是一切：宇航员、工程师和探险家，仅配备了有限的设备和工具，接受的训练是用更少的资源做更多的事情。利用环境优势，他们的工作是为太空中的人类提供基础设施，而成本只是传统太空计划的一小部分。
+从月球到土卫一甚至是更遥远的地方都能建立和维护基地，空间站长是我们在宇宙中的先锋。在外星生存、采矿和建筑技术、基础冶金、电子、火箭、水培和更多“神秘”科学的教育下，空间站长想尽一切办法来生存和发展。
+以没有进入标准而闻名，从来就没有“典型”的空间站长。心理分析表明，成功的学员表现出的“底线”在于实用主义和专心致志，但一些最著名的空间站长却不具备这两种素质。
+招募自土木工程背景，军事和航空航天工业，软件开发，矿业集团以及科学领域甚至宗教，从根本上说，空间站长计划对全人类开放。</Value>
+    </Record>
+    <Record>
+      <Key>ControlMouseControlDisc</Key>
+      <Value>激活鼠标控制</Value>
+    </Record>
+    <Record>
+      <Key>ControlMouseDrag</Key>
+      <Value>按住并拖动{KEY:PrimaryAction}</Value>
+    </Record>
+    <Record>
+      <Key>ControlMouseDragDisc</Key>
+      <Value>移动所选内容</Value>
+    </Record>
+    <Record>
+      <Key>ControlSecondaryActionBuildModeDisc</Key>
+      <Value>切换建造模式</Value>
+    </Record>
+    <Record>
+      <Key>ControlScrollWheelSelectDisc</Key>
+      <Value>切换建造模式</Value>
+    </Record>
+    <Record>
+      <Key>ControlAutoRotateDisc</Key>
+      <Value>自动旋转</Value>
+    </Record>
+    <Record>
+      <Key>ControlMouseScroll</Key>
+      <Value>鼠标滚动</Value>
     </Record>
     <Record>
       <Key>ControlMouseScrollDisc</Key>
       <Value>物品选择</Value>
+    </Record>
+    <Record>
+      <Key>ControlTurnOnDisc</Key>
+      <Value>开</Value>
+    </Record>
+    <Record>
+      <Key>ControlQuickMove</Key>
+      <Value>滚轮 + {KEY:InventorySelect}</Value>
     </Record>
     <Record>
       <Key>ControlQuickMoveDisc</Key>
