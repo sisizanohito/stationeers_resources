@@ -627,7 +627,7 @@
     </RecordThing>
     <RecordThing>
       <Key>BodyPartRoosterBlackLegL</Key>
-      <Value>身体部位 黑公鸡左腿</Value>
+      <Value>身体部位 公鸡黑腿</Value>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartRoosterBlackLegR</Key>
@@ -639,7 +639,7 @@
     </RecordThing>
     <RecordThing>
       <Key>BodyPartRoosterBlackWingL</Key>
-      <Value>身体部位 黑公鸡左翅膀</Value>
+      <Value>身体部位 公鸡黑翅膀</Value>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartRoosterBlackWingR</Key>
@@ -647,27 +647,27 @@
     </RecordThing>
     <RecordThing>
       <Key>BodyPartRoosterBrownBody</Key>
-      <Value>身体部位 灰公鸡身体</Value>
+      <Value>身体部位 公鸡 棕色 身体</Value>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartRoosterBrownHead</Key>
-      <Value>身体部位 灰公鸡头</Value>
+      <Value>身体部位 公鸡棕色头</Value>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartRoosterBrownLegL</Key>
-      <Value>身体部位 灰公鸡左腿</Value>
+      <Value>身体部位 公鸡棕色腿</Value>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartRoosterBrownLegR</Key>
-      <Value>身体部位 灰公鸡右腿</Value>
+      <Value>身体部位 公鸡棕色右腿</Value>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartRoosterBrownTail</Key>
-      <Value>身体部位 灰公鸡尾巴</Value>
+      <Value>身体部位 公鸡棕色尾巴</Value>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartRoosterBrownWingL</Key>
-      <Value>身体部位 灰公鸡左翅膀</Value>
+      <Value>身体部位 公鸡棕翼</Value>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartRoosterBrownWingR</Key>
