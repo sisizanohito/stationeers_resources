@@ -671,19 +671,19 @@
     </RecordThing>
     <RecordThing>
       <Key>BodyPartRoosterBrownWingR</Key>
-      <Value>身体部位 灰公鸡右翅膀</Value>
+      <Value>身体部位 公鸡棕色右翅</Value>
     </RecordThing>
     <RecordThing>
       <Key>CartridgeAtmosAnalyser</Key>
-      <Value>大气分析仪</Value>
+      <Value>气体分析芯片</Value>
     </RecordThing>
     <RecordThing>
       <Key>CartridgeMedicalAnalyser</Key>
-      <Value>记忆卡(医疗分析)</Value>
+      <Value>健康分析芯片</Value>
     </RecordThing>
     <RecordThing>
       <Key>CartridgeNetworkAnalyser</Key>
-      <Value>网络分析仪</Value>
+      <Value>网络分析芯片</Value>
     </RecordThing>
     <RecordThing>
       <Key>Character</Key>
