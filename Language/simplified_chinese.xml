@@ -7915,21 +7915,18 @@
     </Record>
     <Record>
       <Key>NewWorldMoonDesc</Key>
-      <Value>现在你被困在月球上了, 但情况也没有你想得那么坏.当然, 这里温度很低, 环境恶劣, 且景色非常单调, 但至少太阳还高挂在头上. 也就是说太阳能电池板对你是有用的, 还有电源控制器... 电弧炉也可能非常有用.
-                                              在其他的箱子里甚至还有一些食物和氧气, 不过不会帮你太久就是了. 还有你的电池.
-                                              你最好开始好好思考你该如何在这里生存下去. 弄个气闸舱室能有多难呢? 发电机会成问题吗? 熔炼矿石来建造基地会是你的终极问题吗?
-                                              无论如何，看来你得在这里呆一段时间了.</Value>
+      <Value>所以你被困在月球上，但这并不全是坏事。当然，它很冷，很刺耳，很单调，但至少阳光明媚。太阳能电池板将是有用的，而电源控制器...可能还有电弧炉。
+                                              其他板条箱里甚至还有一点食物和氧气，尽管它绝对不会永远持续下去。也不是你的电池。
+                                              你最好开始思考你将如何生存。安装气闸有多难？发电机？也许甚至可以闻到一些矿石并为自己建立一个基地？
+        看起来你会在这里呆一会儿。      </Value>
     </Record>
     <Record>
       <Key>NewWorldSpaceDesc</Key>
-      <Value>这是Stationeers的创造模式！你可以在这里快速调出游戏中的任意物品，建造或测试你任何有趣的想法。
-&lt;color=yellow&gt;(创造模式专用，/调出生成窗口，输入要生成的物品的key值，√勾选后，按F9，在角色面前生成一组刚才勾选的物品)&lt;/color&gt;
-
-&lt;color=red&gt;此模式目前处于实验性阶段&lt;/color&gt; 
-
-与要命的生存模式相比，你可以把它想象成一个很自由的太空派对，但在这里可能会发生一些令人兴奋的和意想不到的事情* .
-                                              所以当你不小心地漂入虚空时或是被成群的野鸡塞爆基地时，不要过于伤心...
-                                              *bugs</Value>
+      <Value>这是播音员创意模式！在任何物品中生成，测试想法并快速构建疯狂的东西。
+                                              &lt;color=red&gt;此模式是实验性的。把它想象成一个自由形式的太空派对，与生存模式更可靠的濒死体验相比，令人兴奋和意想不到的事情*可以而且将要发生。
+                                              只是不要难过，当你把自己吹成很小的碎片，或者被鸡野蛮地袭击，或者在独自漂流到无限的虚空中时慢慢爆炸。
+        *错误
+      &lt;/color=red&gt;</Value>
     </Record>
     <Record>
       <Key>TextboxEnterName</Key>
@@ -7958,6 +7955,10 @@
     <Record>
       <Key>Incident_Supply</Key>
       <Value>卫星显示，一个箱子落到了附近，你的信标跟踪器可以告诉你方向。</Value>
+    </Record>
+    <Record>
+      <Key>TradingNoMoneyHash</Key>
+      <Value>没有足够的钱来完成这笔交易，请确保您和交易者有足够的钱来完成交易。</Value>
     </Record>
     <Record>
       <Key>SomethingWentWrongTrading</Key>
@@ -8001,8 +8002,8 @@
     </Record>
     <Record>
       <Key>FurnaceChamberText</Key>
-      <Value>压力 {0}
-                                     温度 {1}</Value>
+      <Value>压力{0}
+        温度{1}      </Value>
     </Record>
     <Record>
       <Key>FurnaceSmelting</Key>
@@ -8010,7 +8011,7 @@
     </Record>
     <Record>
       <Key>LogicState</Key>
-      <Value>状态 {COLORGREEN:#VAR1#}</Value>
+      <Value>状态 &lt;color=green&gt;#VAR1#</Value>
     </Record>
     <Record>
       <Key>LogicNoDevice</Key>
@@ -8026,11 +8027,11 @@
     </Record>
     <Record>
       <Key>LogicNoSlot</Key>
-      <Value>&lt;color=red&gt;无插槽&lt;/color&gt;</Value>
+      <Value>&lt;color=red&gt;无插槽</Value>
     </Record>
     <Record>
       <Key>LogicNoAvailableSlots</Key>
-      <Value>&lt;color=red&gt;没有可用的插槽&lt;/color&gt;</Value>
+      <Value>&lt;color=red&gt;没有可用的插槽</Value>
     </Record>
     <Record>
       <Key>LogicNoAdditionalSlotsFor</Key>
@@ -8057,8 +8058,20 @@
       <Value>(待译)Cycle to {0}</Value>
     </Record>
     <Record>
+      <Key>ChangeSettingToAll</Key>
+      <Value>循环到{0}</Value>
+    </Record>
+    <Record>
       <Key>HoldForPreviousObject</Key>
       <Value>按住 {KEY:QuantityModifier} 对上一个对象</Value>
+    </Record>
+    <Record>
+      <Key>ChangeSettingToFor</Key>
+      <Value>接受1时循环到0</Value>
+    </Record>
+    <Record>
+      <Key>ChangeSettingToForIn</Key>
+      <Value>接受2、3在1里时循环到0</Value>
     </Record>
     <Record>
       <Key>ChangeReagentSettingTo</Key>

@@ -47,17 +47,51 @@
       </Text>
     </StationpediaPage>
     <StationpediaPage>
+      <Key>TradingPage</Key>
+      <Title>贸易</Title>
+      <DisplayFilter>Guides</DisplayFilter>
+      <Text>交易是空间站长在更极端的世界中求生的关键，特别对于新成员来说在没有帮助的情况下生存是很困难的。
+
+{HEADER:Getting started}
+
+要联系交易者，您需要建立一个通信系统。这需要满足以下条件：
+
+- 一个强大的{THING:StructureVendingMachine}来存储和交易物品。
+- 一个操作性的{THING:StructureSatelliteDish}来定位和识别潜在的交易者。
+- 一个工作{THING:StructureComputer}，运行一个{THING:MotherboardComms}。
+- 一个强大的{THING:StructureShuttleLandingPad}，供交易者降落。
+
+当您的系统启动并运行时，您将在计算机终端上看到一个空屏幕。调整卫星天线的位置，直到它注册一个或多个交易者。这些将出现在屏幕上，评级为1-100%。这是你的信号强度。只有当信号强度高于95%时，才能召唤交易者。一旦联系到交易者，它将随后提供一个名称。不同的交易者提供不同类别的物品。
+
+{HEADER:Traders}
+
+电子科技树电子
+有机物
+基本的斯佩斯商场基础知识
+液压液压套件
+矿山矿石
+微波微器皿
+化学实验室
+异国情调的外太空科技
+颜料公司
+工具公司
+保安大厅公司保安
+其他科德什锦
+天然气贸易
+定制斯佩斯商场      </Text>
+    </StationpediaPage>
+    <StationpediaPage>
       <Key>ConstructionPage</Key>
       <Title>搭建</Title>
       <DisplayFilter>Guides</DisplayFilter>
-      <Text>{HEADER:开始}
-通常，您可以使用 {LINK:KitPage;套件} 来开始初始化蓝图，然后使用各种{LINK:ToolPage;工具}和{LINK:ResourcePage;资源}来完成建造。 请密切注意需要多少套件来构造所选设备，因为某些设备需要使用多个数量的资源。 对于某些套件，您将有多种选择来建造想要的类型，使用{COLORRED:Scroll Wheel}来切换当前的类型。
+      <Text>{HEADER:Getting Started}
+通常，您可以使用{LINK:KitPage;kits}来开始初始化蓝图，然后使用各种{LINK:ToolPage;tools}和{LINK:ResourcePage;resources}来完成建造。 请密切注意需要多少套件来构造所选设备，因为某些设备需要使用多个数量的资源。 对于某些套件，您将有多种选择来建造想要的类型，使用{COLORRED:Scroll Wheel}来切换当前的类型。
 
-{HEADER:建造状态}
+{HEADER:Build States}
 某些结构将有多个建造状态，需要多次建造才能完成。 工具提示会告诉你需要什么材料和工具能完成建造。有时，您需要同时拥有两个物品，每只手一个，才能完成当前建造状态。有些工具需要先打开开关，可以按{KEY:ToggleHandPower}打开。
 
-{HEADER:工具提示}
-如果你直接移向一个不完整的结构，你得到要完成建造该结构的材料和工具需求的提示。如果你使用的是错误的{LINK:ToolPage;工具}，将会出现一个提示，告诉你需要使用什么来拆卸它。
+{HEADER:Tooltips}
+如果你直接移向一个不完整的结构，你得到要完成建造该结构的材料和工具需求的提示。如果你使用的是错误的{LINK:ToolPage;tool}，将会出现一个提示，告诉你需要使用什么来拆卸它。
       </Text>
     </StationpediaPage>
     <StationpediaPage>
