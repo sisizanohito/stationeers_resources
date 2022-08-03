@@ -5193,12 +5193,20 @@
       <Value/>
     </RecordThing>
     <RecordThing>
-      <Key>ItemPoweredEggs</Key>
-      <Value/>
+      <Key>ItemPowderedeggs</Key>
+      <Value>Œufs en poudre</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCannedPowderedEggs</Key>
+      <Value>Boîte d’œufs en poudre</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAdvancedPackagingMachine</Key>
       <Value>Caisse de {THING:StructureRocketModuleSilo}.</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCookedPowderedEggs</Key>
+      <Value>Œufs en poudre</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemDecorFern</Key>
