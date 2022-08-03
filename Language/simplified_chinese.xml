@@ -8061,6 +8061,18 @@
       <Value>按住 {KEY:QuantityModifier} 对上一个对象</Value>
     </Record>
     <Record>
+      <Key>ChangeReagentSettingTo</Key>
+      <Value>接受0、1时循环到2</Value>
+    </Record>
+    <Record>
+      <Key>ChangeSlotSettingToFor</Key>
+      <Value>接受2时循环到0、1</Value>
+    </Record>
+    <Record>
+      <Key>ChangeSettingToForAll</Key>
+      <Value>接受1时循环到0</Value>
+    </Record>
+    <Record>
       <Key>InteractionTemporarilyDisabledOnThisObject</Key>
       <Value>在此对象上暂时禁用的操作</Value>
     </Record>
@@ -8106,7 +8118,7 @@
     </Record>
     <Record>
       <Key>NewWorldMarsShortDesc</Key>
-      <Value>一个荒凉的尘土飞扬的红球, 火星的特点是更多样的地形, 可以到达天空, 和一个寒冷的气氛, 没有好处的呼吸, 但也许它可以用于一些东西..。</Value>
+      <Value>火星是一个荒凉的尘土飞扬的红色球，具有更多样化的地形，可以伸向天空，以及寒冷的气氛，不利于呼吸，但也许它可以用于某些事情......</Value>
     </Record>
     <Record>
       <Key>NewWorldMoonShortDesc</Key>
@@ -8115,6 +8127,10 @@
     <Record>
       <Key>NewWorldSpaceShortDesc</Key>
       <Value>虽然没有重力和大气层，但至少这里有很多空间可以用来建造！  你会发现你处在几颗小行星之中，这些小行星可能含有各种各样的矿石和冰块，你可以用来在这里生存。</Value>
+    </Record>
+    <Record>
+      <Key>NewWorldVenusShortDesc</Key>
+      <Value>万无一失的极端温度和超高压使金星成为胆小者的地方。只有最有成就的工兵才能在我们曾经的姊妹星球上生存，现在是一块贫瘠的岩石。深入挖掘，或回家。</Value>
     </Record>
     <Record>
       <Key>NewWorldEuropaShortDesc</Key>
@@ -8394,7 +8410,11 @@
     </Record>
     <Record>
       <Key>LogicTypeRatioNitrousOxide</Key>
-      <Value>空气中氧化亚氮的比例</Value>
+      <Value>空气中氮的比例</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeCombustion</Key>
+      <Value>评估气体着火了。如果气体着火，则返回 1;如果不是，则返回 0。</Value>
     </Record>
     <Record>
       <Key>LogicTypeHorizontal</Key>
@@ -8467,6 +8487,25 @@
     <Record>
       <Key>LogicTypeIdle</Key>
       <Value>如果设备当前处于闲置状态, 则返回 1, 否则为0</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeColor</Key>
+      <Value>无论是出于对清晰度，安全性还是简单美学的关注空间站长可以使用一小道彩虹色来建造他们的建筑。这些是设备的颜色设置，表示为整数。
+
+0：蓝色
+1：灰色
+2：绿色
+3：橙色
+4：红色
+5：黄色
+6：白
+7：黑色
+8：棕色
+9：卡其色
+10：粉红色
+11：紫色
+
+这是一个坚定不移的普遍法则，任何高于11的东西都是紫色的。发展署无力改变这一点。同样，任何低于 0 的值都将为蓝色。      </Value>
     </Record>
     <Record>
       <Key>LogicTypeElevatorSpeed</Key>
@@ -8729,6 +8768,22 @@
       <Value>返回插槽中项目的最大堆栈大小</Value>
     </Record>
     <Record>
+      <Key>FuelInTankRemaining</Key>
+      <Value>获取火箭油箱中剩余的燃料。</Value>
+    </Record>
+    <Record>
+      <Key>FuelReturnCost</Key>
+      <Value>获取将火箭返回到当前世界的燃料成本。</Value>
+    </Record>
+    <Record>
+      <Key>RocketMode</Key>
+      <Value>荒废的。</Value>
+    </Record>
+    <Record>
+      <Key>CollectableGoods</Key>
+      <Value>根据当前火箭系统是否具有在地球上收集资源的能力，返回 0 或 1。</Value>
+    </Record>
+    <Record>
       <Key>LogicTypeRequestHash</Key>
       <Value>当设置为唯一标识符时, 从设备请求一个该类型的物品</Value>
     </Record>
@@ -8813,16 +8868,36 @@
       <Value>已经有人在与此交易员互动，请稍后重试。</Value>
     </Record>
     <Record>
+      <Key>ContactLandingRequestFailVendingMachine</Key>
+      <Value>您需要在网络上有一台通电的自动售货机来与该交易者进行交互。</Value>
+    </Record>
+    <Record>
+      <Key>ContactLandingRequestFailSatellite</Key>
+      <Value>您的卫星有问题。检查它是否已连接到网络并已通电。</Value>
+    </Record>
+    <Record>
+      <Key>ContactLandingRequestFailStorm</Key>
+      <Value>交易者无法在这场风暴中旅行。</Value>
+    </Record>
+    <Record>
       <Key>InputTextTradingTitle</Key>
       <Value>交易终端</Value>
     </Record>
     <Record>
       <Key>TraderElectronics</Key>
-      <Value>科技树</Value>
+      <Value>电子科技树</Value>
     </Record>
     <Record>
       <Key>TraderOrganics</Key>
       <Value>有机物</Value>
+    </Record>
+    <Record>
+      <Key>TraderBasic</Key>
+      <Value>斯佩斯商场基础知识</Value>
+    </Record>
+    <Record>
+      <Key>TraderHydraulic</Key>
+      <Value>液压套件</Value>
     </Record>
     <Record>
       <Key>TraderOre</Key>
