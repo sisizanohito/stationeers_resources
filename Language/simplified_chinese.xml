@@ -707,19 +707,19 @@
     </RecordThing>
     <RecordThing>
       <Key>CircuitboardGasDisplay</Key>
-      <Value>电路板(气体显示)</Value>
+      <Value>气体显示芯片</Value>
     </RecordThing>
     <RecordThing>
       <Key>CircuitboardModeControl</Key>
-      <Value>电路板(模式控制)</Value>
+      <Value>模式控制芯片</Value>
     </RecordThing>
     <RecordThing>
       <Key>CircuitboardPowerControl</Key>
-      <Value>电路板(电源控制)</Value>
+      <Value>电源控制芯片</Value>
     </RecordThing>
     <RecordThing>
       <Key>CircuitboardShipDisplay</Key>
-      <Value>船舶显示</Value>
+      <Value>飞船显示器芯片</Value>
     </RecordThing>
     <RecordThing>
       <Key>CircuitboardSolarControl</Key>
