@@ -751,7 +751,7 @@
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterAir</Key>
-      <Value>便携储罐(空气)</Value>
+      <Value>便携式储气罐（空气）</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterCarbonDioxide</Key>
@@ -2363,7 +2363,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureRecycler</Key>
-      <Value>回收站</Value>
+      <Value>回收机</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitRecycler</Key>
