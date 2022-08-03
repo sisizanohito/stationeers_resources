@@ -8977,47 +8977,47 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>ScriptCommandSeq</Key>
-      <Value>Stocke 1 dans le registre si a == b, sinon 0</Value>
+      <Value>Renvoie (vrai|1) dans le registre [ r? ] si [ a ] == [ b ], sinon (faux|0)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSne</Key>
-      <Value>Stocke 1 dans le registre si a != b, sinon 0</Value>
+      <Value>Renvoie (vrai|1) dans le registre [ r? ] si [ a ] != [ b ], sinon (faux|0)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSap</Key>
-      <Value>Stocke 1 dans le registre si abs(a - b) &lt;= max(c * max(abs(a), abs(b)), float.epsilon * 8), sinon 0</Value>
+      <Value>Renvoie (vrai|1) dans le registre [ r? ] si abs([ a ]-[ b ]) &lt;= max([ c ] * max(abs([ a ]), abs([ b ])), float.epsilon * 8), sinon (faux|0)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSna</Key>
-      <Value>Stocke 1 dans le registre si abs(a - b) &gt; max(c * max(abs(a), abs(b)), float.epsilon * 8), sinon 0</Value>
+      <Value>Renvoie (vrai|1) dans le registre [ r? ] si abs([ a ]-[ b ]) &gt; max([ c ] * max(abs([ a ]), abs([ b ])), float.epsilon * 8), sinon (faux|0)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSltz</Key>
-      <Value>Stocke 1 dans le registre si a &lt; 0, sinon 0</Value>
+      <Value>Renvoie (vrai|1) dans le registre [ r? ] si [ a ] &lt; 0, sinon (faux|0)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSgtz</Key>
-      <Value>Stocke 1 dans le registre si a &gt; 0, sinon 0</Value>
+      <Value>Renvoie (vrai|1) dans le registre [ r? ] si [ a ] &gt; 0, sinon (faux|0)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSlez</Key>
-      <Value>Stocke 1 dans le registre si a &lt;= 0, sinon 0</Value>
+      <Value>Renvoie (vrai|1) dans le registre [ r? ] si [ a ] &lt;= 0, sinon (faux|0)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSgez</Key>
-      <Value>Stocke 1 dans le registre si a &gt;= 0, sinon 0</Value>
+      <Value>Renvoie (vrai|1) dans le registre [ r? ] si [ a ] &gt;= 0, sinon (faux|0)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSeqz</Key>
-      <Value>Stocke 1 dans le registre si a == 0, sinon 0</Value>
+      <Value>Renvoie (vrai|1) dans le registre [ r? ] si [ a ] == (nul|0), sinon (faux|0)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSnez</Key>
-      <Value>Stocke 1 dans le registre si a != 0, sinon 0</Value>
+      <Value>Renvoie (vrai|1) dans le registre [ r? ] si [ a ] != (nul|0), sinon (faux|0)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSapz</Key>
-      <Value>Register = 1 if |a| &lt;= float.epsilon * 8, sinon 0</Value>
+      <Value>Renvoie (vrai|1) dans le registre [ r? ] si |[ a ]| &lt;= float.epsilon, sinon (faux|0)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSnaz</Key>
@@ -9197,27 +9197,27 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>ScriptCommandBrnez</Key>
-      <Value>Fait un saut relatif de [ c ] lignes si abs([ a ]) != float.epsilon * 8</Value>
+      <Value>Effectue un saut relatif de [ c ] lignes si abs([ a ]) != float.epsilon * 8</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBrapz</Key>
-      <Value>Fait un saut relatif de [ c ] lignes si abs([ a ]) &lt;= float.epsilon * 8</Value>
+      <Value>Effectue un saut relatif de [ c ] lignes si abs([ a ]) &lt;= float.epsilon * 8</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBrnaz</Key>
-      <Value>Fait un saut relatif de [ c ] lignes si abs([ a ]) &gt; float.epsilon * 8</Value>
+      <Value>Effectue un saut relatif de [ c ] lignes si abs([ a ]) &gt; float.epsilon * 8</Value>
     </Record>
     <Record>
       <Key>ScriptCommandJal</Key>
-      <Value>Saute à la ligne [ a ] et stocke le numéro de la ligne suivante dans [ ra,r17 ]</Value>
+      <Value>Effectue un saut à la ligne [ a ] et stocke le numéro de la ligne suivante dans ra(r17)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBdseal</Key>
-      <Value>Fait sauter l&apos;exécution à la ligne [ a ] et enregistre le numéro de la ligne suivante en [ ra,r17 ] si le dispositif [ d? ] est initialisé.</Value>
+      <Value>Effectue un saut à la ligne [ a ] et enregistre le numéro de la ligne suivante en ra(r17) si le dispositif [ d? ] est initialisé.</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBdnsal</Key>
-      <Value>Fait sauter l&apos;exécution à la ligne [ a ] et enregistre le numéro de la ligne suivante en ra(r17) si le dispositif [ d? ] n&apos;est pas initialisé.</Value>
+      <Value>Effectue un saut à la ligne [ a ] et enregistre le numéro de la ligne suivante en ra(r17) si le dispositif [ d? ] n&apos;est pas initialisé.</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBltal</Key>
