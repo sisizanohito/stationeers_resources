@@ -10517,31 +10517,112 @@ Stationeers就是一切：宇航员、工程师和探险家，仅配备了有限
     </Record>
     <Record>
       <Key>TimerPanel</Key>
-      <Value>时间</Value>
+      <Value>定时器</Value>
     </Record>
     <Record>
       <Key>LogicTypeTime</Key>
       <Value>时间</Value>
     </Record>
     <Record>
+      <Key>LogicTypeBpm</Key>
+      <Value>BPM</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeEnvironmentEfficiency</Key>
+      <Value>机器报告的环境效率，介于作为 0 到 1 之间</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeWorkingGasEfficiency</Key>
+      <Value>机器报告的工作气体效率，介于0到1之间</Value>
+    </Record>
+    <Record>
+      <Key>Pitch</Key>
+      <Value>投</Value>
+    </Record>
+    <Record>
       <Key>Volume</Key>
-      <Value>主音量</Value>
+      <Value>音量</Value>
+    </Record>
+    <Record>
+      <Key>NoAudioReceiverDevices</Key>
+      <Value>无音频接收器设备</Value>
+    </Record>
+    <Record>
+      <Key>Speed</Key>
+      <Value>速度</Value>
+    </Record>
+    <Record>
+      <Key>Attack</Key>
+      <Value>攻击</Value>
     </Record>
     <Record>
       <Key>Release</Key>
-      <Value>已死亡</Value>
+      <Value>释放</Value>
+    </Record>
+    <Record>
+      <Key>CurrentInstrument</Key>
+      <Value>当前设备</Value>
     </Record>
     <Record>
       <Key>NoSoundCartridge</Key>
-      <Value>记忆卡</Value>
+      <Value>无声卡</Value>
+    </Record>
+    <Record>
+      <Key>NoNote</Key>
+      <Value>无备注</Value>
+    </Record>
+    <Record>
+      <Key>Intensity</Key>
+      <Value>强度</Value>
+    </Record>
+    <Record>
+      <Key>Waveform</Key>
+      <Value>波形</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaBasePowerUsage</Key>
+      <Value>基本功耗：</Value>
     </Record>
     <Record>
       <Key>StationpediaMaxPressure</Key>
-      <Value>最大压力</Value>
+      <Value>最大压力：</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaVolume</Key>
+      <Value>卷：</Value>
     </Record>
     <Record>
       <Key>StationpediaNutrition</Key>
-      <Value>营养</Value>
+      <Value>营养：</Value>
+    </Record>
+    <Record>
+      <Key>MoleOxygenDescription</Key>
+      <Value>氧气在燃烧中释放时提供能量，并与氢气结合以产生{GAS:Water}。它是由{LINK:OrganicPage;plants}以及处理{THING:ItemOxite}创建的。它在低温下高度易燃。</Value>
+    </Record>
+    <Record>
+      <Key>MoleNitrogenDescription</Key>
+      <Value>{GAS:Nitrogen}可以与{GAS:Oxygen}混合以稳定其可燃性并避免{GAS:Oxygen}毒性，并且本身就是一种资源，可用于创造可呼吸的大气层（大约为3：1 {GAS:Nitrogen}和{GAS:Oxygen}）。{GAS:Nitrogen}最有效的来源来自太阳系周围发现的{THING:ItemNitrice}沉积物。</Value>
+    </Record>
+    <Record>
+      <Key>MoleCarbonDioxideDescription</Key>
+      <Value>你呼出它，{LINK:OrganicPage;plants}吸进它。没有它，他们就不会成长。你可以使用放置在 {SLOT:GasFilter}插槽中的物品将其从大气中移除。
+      
+{GAS:CarbonDioxide}具有适度高的比热，这意味着它对于像壁挂式冷却机这样的设备来说是一个很好的冷却剂。
+{THING:StructureWallCooler}{GAS:Water}更好，但通常具有更重要的用途。</Value>
+    </Record>
+    <Record>
+      <Key>MoleVolatilesDescription</Key>
+      <Value>挥发物是一种反应性极强的复杂有机分子，可与氧气一起用作可燃燃料。它是从{THING:ItemVolatiles}提炼而来的。
+      
+由于晦涩难懂且基本上被遗忘的发展署法规，挥发物有时会被各种技术项目标记为“H2”。然而，尽管它们类似于氢，但它们并不是“实际上”的氢。{GAS:Volatiles}在没有催化剂的情况下燃烧时不会产生{GAS:Water}（参见{THING:H2Combustor}）。当在以下比例燃烧时，它们会产生{GAS:Pollutant}和{GAS:CarbonDioxide}：
+      
+2{GAS:Volatiles}+ 1{GAS:Oxygen}-&gt; 3{GAS:Pollutant}+ 6{GAS:CarbonDioxide} + 热量。</Value>
+    </Record>
+    <Record>
+      <Key>MolePollutantDescription</Key>
+      <Value>{GAS:Pollutant}是在冶炼某些金属时产生的，也被称为“X”。浓度为0.1 mol或更高将导致您的防护服发出中毒警报。
+      
+污染物具有高比热，使其成为一种极好的冷却剂。不幸的是，它对有机生物非常有害，并且会严重损害大多数生物的肺部。</Value>
     </Record>
     <Record>
       <Key>MoleWaterDescription</Key>
