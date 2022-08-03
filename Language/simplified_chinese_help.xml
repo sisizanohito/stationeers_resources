@@ -535,7 +535,7 @@ Paintable {POS:300}{2}{3}{/LIST}</Text>
       <Key>EVAPage</Key>
       <Title>EVA防护服</Title>
       <DisplayFilter>Guides</DisplayFilter>
-      <Text>你的宇航服为你提供了一个可移动的大气层，有可调整的压力和空调（温度）设置，以及一个警告系统，如果宇航服内的大气变得危险，它将提醒你。它的功能与合适的头盔以及合适的气罐和太空服各个插槽中的过滤器结合起来才能正常运作。这些都需要定期更换，也可以使用{THING:StructureSuitStorage}进行充电（或耗尽）。
+      <Text>你的宇航服为你提供了一个可移动的空气，有可调整的压力和空调（温度）设置，以及一个警告系统，如果宇航服内的大气变得危险，它将提醒你。它的功能与合适的头盔以及合适的气罐和太空服各个插槽中的过滤器结合起来才能正常运作。这些都需要定期更换，也可以使用{THING:StructureSuitStorage}进行充电。
 
 有几个宇航服，包括{THING:ItemEvaSuit}和更耐压和耐温的{THING:ItemHardSuit}。
 
