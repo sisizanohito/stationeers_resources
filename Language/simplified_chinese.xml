@@ -10252,10 +10252,26 @@ abs()--绝对值运算函数 max()--最大值函数</Value>
       <Value>矿物渲染距离</Value>
     </Record>
     <Record>
+      <Key>CommandSetDecay</Key>
+      <Value>设置全球食物腐败系数。： “/setdecay 2”</Value>
+    </Record>
+    <Record>
+      <Key>CommandSetContact</Key>
+      <Value>设置联系交易者所需的信号量。： “/setcontact 10”</Value>
+    </Record>
+    <Record>
+      <Key>CommandHelp</Key>
+      <Value>显示命令列表。：“/help”</Value>
+    </Record>
+    <Record>
+      <Key>Seedsstring</Key>
+      <Value>种子</Value>
+    </Record>
+    <Record>
       <Key>AgrizeroDesc</Key>
       <Value>Agrizero是一家农业生物技术公司，专注于研究和开发外太空农业技术。该公司的目标是提供一个自给自足的“生物工厂”网络，最终将为太空中预计100万人提供食物。
 从21世纪末的环境灾难中脱颖而出，该公司源于中国拯救世界的人工农业计划，目前已扩展到小行星带的设施，其所提供的小行星冰为垂直农业和可控环境农业带来了广阔的前景。
-尽管还有许多设施没有建成，Agrizero已通过其不断扩大的贸易网络成为了众多外星集团的主要供应商之一，例如&lt;color=#0080FFFF&gt;{LINK:ODA;ODA}&lt;/color&gt;、 &lt;color=#0080FFFF&gt;{LINK:Sinotai;Sinotai}&lt;/color&gt; 和 &lt;color=#0080FFFF&gt;{LINK:ExMin;ExMin}&lt;/color&gt;。</Value>
+尽管还有许多设施没有建成，Agrizero已通过其不断扩大的贸易网络成为了众多外星集团的主要供应商之一，例如{LINK:ODA;ODA}、{LINK:Sinotai;Sinotai}和{LINK:ExMin;ExMin}。</Value>
     </Record>
     <Record>
       <Key>Asura</Key>
@@ -10270,9 +10286,9 @@ Gurwaja在生物工程公司的背景使该公司从一开始就处于生物科�
     </Record>
     <Record>
       <Key>CHACDesc</Key>
-      <Value>成立于2085年，专门为&lt;color=#0080FFFF&gt;{LINK:Sinotai;Sinotai}&lt;/color&gt;的太空部队提供武器，该公司以生产成本低廉、可靠性高的武器而闻名于世。
-他们的务实方法体现在他们专注于适合3D打印和大规模生产的设计，以及跨模型和武器类别的组件高度重用上。
-因此，尽管CHAC的武器在任何一个特定领域都不突出, and have certainly never been accused of gretness（←这个词没整明白），但没有重大的缺陷，并且在大多数已知标准下表现足够出色使其设计者赢得了“太阳系军械师”的非正式头衔。</Value>
+      <Value>成立于2085年，为{LINK:Sinotai;Sinotai}的太空部队，该公司以制造高度可靠和负担得起的武器供外世界使用而闻名。
+他们的务实方法反映在他们对适合3D打印和大规模生产的设计的关注上，以及跨模型和武器类别的高度重用组件。
+因此，尽管CHAC枪没有在特定类别中表现出色，并且肯定从未被指控为贪婪，但它们没有遭受太大的失败，并且通过大多数已知的措施表现得足够好，为他们的设计师赢得了“太阳系装甲师”的非正式称号。      </Value>
     </Record>
     <Record>
       <Key>ExMinDesc</Key>
