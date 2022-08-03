@@ -723,7 +723,7 @@
     </RecordThing>
     <RecordThing>
       <Key>CircuitboardSolarControl</Key>
-      <Value>太阳能控制</Value>
+      <Value>太阳能控制芯片</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicAirConditioner</Key>
@@ -731,23 +731,23 @@
     </RecordThing>
     <RecordThing>
       <Key>DynamicCrate</Key>
-      <Value>便携箱</Value>
+      <Value>箱子</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicCrateBuildingSupplies</Key>
-      <Value>便携箱(建材补给)</Value>
+      <Value>箱子(建材补给)</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicCrateCableSupplies</Key>
-      <Value>便携箱(电线补给)</Value>
+      <Value>箱子(电线补给)</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicCrateConveyorSupplies</Key>
-      <Value>便携箱(传送带补给)</Value>
+      <Value>箱子(传送带补给)</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicCratePipeSupplies</Key>
-      <Value>便携箱(管材补给)</Value>
+      <Value>箱子(管材补给)</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterAir</Key>
