@@ -9337,7 +9337,7 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>ScriptCommandPeek</Key>
-      <Value>Copie la valeur de la pile pointée par ( SP ) dans le registre [ r? ] spécifié.</Value>
+      <Value>Copie la valeur de la pile pointée par ( sp ) dans le registre [ r? ] spécifié.</Value>
     </Record>
     <Record>
       <Key>ScriptCommandPush</Key>
@@ -9345,7 +9345,7 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>ScriptCommandPop</Key>
-      <Value>Restaure dans [ r? ] la valeur du haut de la pile stocké précédemment par PUSH et décrémente le compteur du nombre de valeur stocké dans la pile ( SP ).</Value>
+      <Value>Restaure dans [ r? ] la valeur du haut de la pile stocké précédemment par ( push ) et décrémente le compteur ( sp ) du nombre de valeur stocké dans la pile.</Value>
     </Record>
     <Record>
       <Key>ScriptCommandHcf</Key>
@@ -9373,19 +9373,19 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>ScriptCommandASin</Key>
-      <Value>Renvoie l’angle (en radians) dans [ r? ] dont le sinus est la valeur spécifiée en [ a ]</Value>
+      <Value>Renvoie dans [ r? ] l’angle (en radians) dont le sinus est la valeur spécifiée en [ a ]</Value>
     </Record>
     <Record>
       <Key>ScriptCommandACos</Key>
-      <Value>Renvoie l’angle (en radians) dans [ r? ] dont le cosinus est la valeur spécifiée en [ a ]</Value>
+      <Value>Renvoie dans [ r? ] l’angle (en radians) dont le cosinus est la valeur spécifiée en [ a ]</Value>
     </Record>
     <Record>
       <Key>ScriptCommandATan</Key>
-      <Value>Renvoie l’angle (en radians) dans [ r? ] dont la tangente est la valeur spécifiée en [ a ]</Value>
+      <Value>Renvoie dans [ r? ] l’angle (en radians) dont la tangente est la valeur spécifiée en [ a ]</Value>
     </Record>
     <Record>
       <Key>ScriptCommandATan2</Key>
-      <Value>Renvoie l&apos;angle en radians dans [ r? ] dont la tangente est le quotient a(y) / b(x)</Value>
+      <Value>Renvoie dans [ r? ] l&apos;angle en radians dont la tangente est le quotient a(y) / b(x)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandCommand</Key>
