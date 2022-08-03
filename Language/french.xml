@@ -9305,7 +9305,7 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>ScriptCommandMax</Key>
-      <Value>Stocke la plus grande des valeurs [ a ] et [ b ] dans le registre [ r? ]</Value>
+      <Value>Stocke la plus grande des valeurs, de [ a ] ou de [ b ], dans le registre [ r? ]</Value>
     </Record>
     <Record>
       <Key>ScriptCommandMin</Key>
