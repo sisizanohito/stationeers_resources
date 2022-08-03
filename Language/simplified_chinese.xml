@@ -10252,6 +10252,42 @@ abs()--绝对值运算函数 max()--最大值函数</Value>
       <Value>矿物渲染距离</Value>
     </Record>
     <Record>
+      <Key>CommandToggleNoClip</Key>
+      <Value>切换玩家冲突。： “/tnc”</Value>
+    </Record>
+    <Record>
+      <Key>CommandSkipStage</Key>
+      <Value>跳过当前任务阶段。：“/skipstage”</Value>
+    </Record>
+    <Record>
+      <Key>CommandSetStage</Key>
+      <Value>设置当前任务阶段。： “/setstage”</Value>
+    </Record>
+    <Record>
+      <Key>CommandShowStage</Key>
+      <Value>显示当前任务阶段以及任务中有多少个阶段。： “/showstage”</Value>
+    </Record>
+    <Record>
+      <Key>CommandFillNeeds</Key>
+      <Value>填补玩家的饥饿感和水分。：“/fillneeds”</Value>
+    </Record>
+    <Record>
+      <Key>CommandFillHealth</Key>
+      <Value>治愈玩家。：“/fillhealth”</Value>
+    </Record>
+    <Record>
+      <Key>CommandAddGas</Key>
+      <Value>将气体或液体添加到给定的罐或管道中。： “/addgas [refID] [gasType 1-8] [molecount]”</Value>
+    </Record>
+    <Record>
+      <Key>CommandAddGas</Key>
+      <Value>将气体或液体添加到给定的罐或管道中。： “/addgas [refID] [gasType 1-8] [molecount]”</Value>
+    </Record>
+    <Record>
+      <Key>CommandCount</Key>
+      <Value>对保存中指定类型的所有内容进行计数。： “/count [AllThings / Structures / DynamicThings / AnimatorThings / Pipes / Cable / Atmosphere / CableNetworks]”</Value>
+    </Record>
+    <Record>
       <Key>CommandSetDecay</Key>
       <Value>设置全球食物腐败系数。： “/setdecay 2”</Value>
     </Record>
