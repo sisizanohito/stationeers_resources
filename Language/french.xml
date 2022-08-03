@@ -8909,7 +8909,7 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>ScriptCommandL</Key>
-      <Value>Charge la variable [ var ] de l&apos;appareil [ d? ] et la stocke dans le registre [ r? ].</Value>
+      <Value>Charge le contenu de la variable [ var ] de l&apos;appareil [ d? ] et la stocke dans le registre [ r? ].</Value>
     </Record>
     <Record>
       <Key>ScriptCommandLB</Key>
@@ -8945,7 +8945,7 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>ScriptCommandAdd</Key>
-      <Value>Effectue une addition de [ a ] + [ b ] et place le résultat dans le registre [ r? ]</Value>
+      <Value>Effectue une addition de [ a ] + [ b ] et place le résultat dans le registre [ r? ].</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSub</Key>
@@ -8953,27 +8953,27 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>ScriptCommandSdse</Key>
-      <Value>Test au sein du CI, si le registre d&apos;appareil [ d? ] est bien associé à un dispositif. Si oui renvoie 1 dans [ r? ], sinon renvoie 0</Value>
+      <Value>Test au sein du CI, si le registre d&apos;appareils [ d? ] est bien associé à un dispositif. Si oui renvoie (vrai|1) dans [ r? ], sinon renvoie (faux|0).</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSdns</Key>
-      <Value>Test au sein du CI, si le registre d&apos;appareil [ d? ] est associé à un dispositif existant. Si oui renvoie 0 dans [ r? ] sinon renvoie 1</Value>
+      <Value>Test au sein du CI, si le registre d&apos;appareils [ d? ] est associé à un dispositif existant. Si oui renvoie (faux|0) dans [ r? ] sinon renvoie (vrai|1).</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSlt</Key>
-      <Value>Stocke 1 dans le registre si a &lt; b, sinon 0</Value>
+      <Value>Renvoie (vrai|1) dans le registre [ r? ] si [ a ] &lt; [ b ], sinon (faux|0)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSgt</Key>
-      <Value>Stocke 1 dans le registre si a &gt; b, sinon 0</Value>
+      <Value>Renvoie (vrai|1) dans le registre [ r? ] si [ a ] &gt; [ b ], sinon (faux|0)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSle</Key>
-      <Value>Stocke 1 dans le registre si a &lt;= b, sinon 0</Value>
+      <Value>Renvoie (vrai|1) dans le registre [ r? ] si [ a ] &lt;= [ b ], sinon (faux|0)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSge</Key>
-      <Value>Stocke 1 dans le registre si a &gt;= b, sinon 0</Value>
+      <Value>Renvoie (vrai|1) dans le registre [ r? ] si [ a ] &gt;= [ b ], sinon (faux|0)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSeq</Key>
