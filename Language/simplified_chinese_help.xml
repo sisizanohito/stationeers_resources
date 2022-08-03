@@ -102,6 +102,34 @@
       </Text>
     </StationpediaPage>
     <StationpediaPage>
+      <Key>MusicPage</Key>
+      <Title>制作音乐</Title>
+      <DisplayFilter>Guides</DisplayFilter>
+      <Text>发展署不批准配乐或其他娱乐。
+因此，空间站长不得不创造自己的音乐伴奏，以应对建造和维护外海基础设施的艰巨劳动。
+这个过去时间的核心是步进音序器，它允许表演者对短音乐模式或循环进行排序。
+
+{HEADER:DIY MUSIC - GETTING STARTED}
+
+1：通过左侧的数据端口将 8 个 {THING:DeviceStepUnit}连接到步进序列器。
+
+2：标记每个步骤单元，然后使用螺旋潜水器在步骤排序器上分配步骤单元1到8。
+
+3：选择输出扬声器（例如{THING:PassiveSpeaker}），音序器将播放声音。这需要连接到定序器右侧的逻辑网络。
+
+4：放置一个{THING:StopWatch}，并使用{THING:StructureLogicReader}和{THING:StructureLogicWriter} 将时间写入排序器上的时间变量。
+
+5：使用{THING:StructureLogicDial}和{THING:StructureLogicWriter}在音序器上设置 BPM，以写入音序器的 BPM 变量。较高的 bpm 将更快地播放序列。
+
+6：插入你选择的声卡，并通过按下位于声卡插槽上方和下方的箭头按钮来选择要播放的声音类型。
+
+7：通过将8个步进单元中每个单元上的拨盘设置为所需的音符来选择要播放的声音的音高。对于鼓，每个音符都是不同的鼓声。您可以通过按下每个步进单元上的激活按钮（音序器处于非活动状态）来试用声音。
+
+8：对{THING:DeviceLfoVolume}感到怪异。
+
+9：最后，激活音序器，颤抖吧。      </Text>
+    </StationpediaPage>
+    <StationpediaPage>
       <Key>GasPage</Key>
       <Title>气体</Title>
       <Text>这些是某些化工气体。{LIST_OF_GASES}
