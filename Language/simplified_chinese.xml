@@ -8825,6 +8825,10 @@
       <Value>有机物</Value>
     </Record>
     <Record>
+      <Key>TraderOre</Key>
+      <Value>开矿仪式</Value>
+    </Record>
+    <Record>
       <Key>TraderMicrowave</Key>
       <Value>微波炉</Value>
     </Record>
@@ -8833,8 +8837,12 @@
       <Value>化学实验室</Value>
     </Record>
     <Record>
+      <Key>TraderExotics</Key>
+      <Value>外星科技</Value>
+    </Record>
+    <Record>
       <Key>TraderPaint</Key>
-      <Value>颜色公司</Value>
+      <Value>彩色公司涂料</Value>
     </Record>
     <Record>
       <Key>TraderTool</Key>
@@ -8842,15 +8850,15 @@
     </Record>
     <Record>
       <Key>TraderSecurity</Key>
-      <Value>Hall公司</Value>
+      <Value>霍尔公司安全</Value>
     </Record>
     <Record>
       <Key>TraderOther</Key>
-      <Value>Kolders商品批发</Value>
+      <Value>科德斯的什锦商品</Value>
     </Record>
     <Record>
       <Key>TraderGas</Key>
-      <Value>Gassy贸易中心</Value>
+      <Value>气体贸易</Value>
     </Record>
     <Record>
       <Key>TraderCustom</Key>
@@ -9154,7 +9162,7 @@
     </Record>
     <Record>
       <Key>CartridgeAtmosAnalyserTitle</Key>
-      <Value>记忆卡(大气分析)</Value>
+      <Value>大气分析卡</Value>
     </Record>
     <Record>
       <Key>BigWarning</Key>
@@ -9195,6 +9203,10 @@
     <Record>
       <Key>ElectronicReaderOxite</Key>
       <Value>氧</Value>
+    </Record>
+    <Record>
+      <Key>ElectronicReaderNitrice</Key>
+      <Value>亚硝酸盐</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderVolatiles</Key>
@@ -9386,7 +9398,7 @@
     </Record>
     <Record>
       <Key>NetworkAnalyserTitle</Key>
-      <Value>记忆卡(网络分析)</Value>
+      <Value>电网分析卡</Value>
     </Record>
     <Record>
       <Key>CartridgeElectronicReaderTitle</Key>
@@ -9473,8 +9485,24 @@
       <Value>开始研究程序。</Value>
     </Record>
     <Record>
+      <Key>ManualGetResearchPodsRequired</Key>
+      <Value>设置 Pod 类型以在分解 Pod 时搜索某个 Pod。</Value>
+    </Record>
+    <Record>
       <Key>CurrentResearchPodType</Key>
       <Value>返回存储在机器中的pod类型。</Value>
+    </Record>
+    <Record>
+      <Key>MineablesInVicinity</Key>
+      <Value>返回 AIMEe 周围扩展区域内的潜在可开采量。</Value>
+    </Record>
+    <Record>
+      <Key>MineablesInQueue</Key>
+      <Value>返回 AIMEe 排队到矿井的可开采量。</Value>
+    </Record>
+    <Record>
+      <Key>NextWeatherEventTime</Key>
+      <Value>当下一个天气事件入站时，以秒为单位返回。</Value>
     </Record>
     <Record>
       <Key>ResearchFilter</Key>
@@ -9493,16 +9521,32 @@
       <Value>取消</Value>
     </Record>
     <Record>
+      <Key>ServerReadyString</Key>
+      <Value>现在可以启动服务器。</Value>
+    </Record>
+    <Record>
       <Key>ScriptCommandL</Key>
       <Value>加载设备 var 的值到寄存器 r 中。</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandLB</Key>
+      <Value>使用提供批处理模式从所有输出网络设备加载 var，并提供类型哈希。平均值 （0）、总和 （1）、最小值 （2）、最大值 （3）。可以使用单词或数字。</Value>
     </Record>
     <Record>
       <Key>ScriptCommandS</Key>
       <Value>将寄存器 r 的值写入到设备 var</Value>
     </Record>
     <Record>
+      <Key>ScriptCommandSB</Key>
+      <Value>使用提供的类型哈希在所有输出网络设备上存储寄存器值到 var。</Value>
+    </Record>
+    <Record>
       <Key>ScriptCommandLS</Key>
       <Value>将设备d上的插槽数据载入进寄存器r</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandLR</Key>
+      <Value>加载设备试剂模式的试剂以进行配准。内容 （0）， 必需 （1）， 食谱 （2）.可以使用单词或数字。</Value>
     </Record>
     <Record>
       <Key>ScriptCommandAlias</Key>
@@ -9937,31 +9981,31 @@ abs()--绝对值运算函数 max()--最大值函数</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSin</Key>
-      <Value>返回指定角度的sin值</Value>
+      <Value>返回指定角度（弧度）的正弦值</Value>
     </Record>
     <Record>
       <Key>ScriptCommandCos</Key>
-      <Value>返回指定角度的Cos值</Value>
+      <Value>返回指定角度（弧度）的余弦值</Value>
     </Record>
     <Record>
       <Key>ScriptCommandTan</Key>
-      <Value>返回指定角度的tan值</Value>
+      <Value>返回指定角度的正切（弧度） </Value>
     </Record>
     <Record>
       <Key>ScriptCommandASin</Key>
-      <Value>返回指定sin值的角度，即Arcsin</Value>
+      <Value>返回正弦值对应的角度（弧度）</Value>
     </Record>
     <Record>
       <Key>ScriptCommandACos</Key>
-      <Value>返回指定cos值的角度，即ArcCos</Value>
+      <Value>返回余弦值对应的角度（弧度）</Value>
     </Record>
     <Record>
       <Key>ScriptCommandATan</Key>
-      <Value>返回指定tan值的角度，即arctan</Value>
+      <Value>返回正切值对应的角度（弧度）</Value>
     </Record>
     <Record>
       <Key>ScriptCommandATan2</Key>
-      <Value>返回指定tan值的角度，即arctan</Value>
+      <Value>返回角度（弧度），其切线是两个指定值的商：a （y） 和 b （x）</Value>
     </Record>
     <Record>
       <Key>ScriptCommandCommand</Key>
@@ -10156,6 +10200,10 @@ abs()--绝对值运算函数 max()--最大值函数</Value>
       <Value>{0} / {1}</Value>
     </Record>
     <Record>
+      <Key>Stage1Contains</Key>
+      <Value>包含{0}在{2}舞台{1}{3}</Value>
+    </Record>
+    <Record>
       <Key>PlantWillCreate</Key>
       <Value>这将创建{2}{0}{3} x {1}</Value>
     </Record>
@@ -10240,8 +10288,32 @@ abs()--绝对值运算函数 max()--最大值函数</Value>
       <Value>游戏时间</Value>
     </Record>
     <Record>
+      <Key>SettingsFirstPersonHelmet</Key>
+      <Value>第一人称头盔</Value>
+    </Record>
+    <Record>
+      <Key>SiloDeconstruct</Key>
+      <Value>在拆除之前，您的筒仓必须是空的。</Value>
+    </Record>
+    <Record>
       <Key>PressEnterToContinue</Key>
-      <Value>按下 &lt;color=#FBB03B&gt;空格&lt;/color&gt; 继续</Value>
+      <Value>按空间继续</Value>
+    </Record>
+    <Record>
+      <Key>TutorialCompleteDateOfCompletion</Key>
+      <Value>完成日期：</Value>
+    </Record>
+    <Record>
+      <Key>BottleSlot</Key>
+      <Value>水瓶插槽</Value>
+    </Record>
+    <Record>
+      <Key>TutorialCompleteDeanHall</Key>
+      <Value>院长大厅</Value>
+    </Record>
+    <Record>
+      <Key>TutorialCompleteTruly</Key>
+      <Value>发展署总指挥</Value>
     </Record>
     <Record>
       <Key>TutorialCompleteNextTutorial</Key>
@@ -10250,6 +10322,142 @@ abs()--绝对值运算函数 max()--最大值函数</Value>
     <Record>
       <Key>SettingsMineableRenderDistance</Key>
       <Value>矿物渲染距离</Value>
+    </Record>
+    <Record>
+      <Key>SetSpawnMessage</Key>
+      <Value>用于设置重生点</Value>
+    </Record>
+    <Record>
+      <Key>SetSpawnTitle</Key>
+      <Value>重生点</Value>
+    </Record>
+    <Record>
+      <Key>ControlPrimaryClickDisc</Key>
+      <Value>交互</Value>
+    </Record>
+    <Record>
+      <Key>ControlHoldPrimaryClick</Key>
+      <Value>按住{KEY:PrimaryAction}</Value>
+    </Record>
+    <Record>
+      <Key>ControlHoldPrimaryClickConstructDisc</Key>
+      <Value>建造</Value>
+    </Record>
+    <Record>
+      <Key>ControlHoldPrimaryClickDeconstructDisc</Key>
+      <Value>拆除</Value>
+    </Record>
+    <Record>
+      <Key>ControlHoldPrimaryClickPlaceDisc</Key>
+      <Value>放置</Value>
+    </Record>
+    <Record>
+      <Key>ControlHoldPrimaryClickPlantDisc</Key>
+      <Value>种植</Value>
+    </Record>
+    <Record>
+      <Key>ControlHoldPrimaryClickHarvestDisc</Key>
+      <Value>收获</Value>
+    </Record>
+    <Record>
+      <Key>ControlPlayerMovementDisc</Key>
+      <Value>移动</Value>
+    </Record>
+    <Record>
+      <Key>ControlSwapHandsDisc</Key>
+      <Value>换只手</Value>
+    </Record>
+    <Record>
+      <Key>ActivateExplosiveKey</Key>
+      <Value>激活倒计时</Value>
+    </Record>
+    <Record>
+      <Key>ActivateExplosiveTooltipKey1</Key>
+      <Value>激活</Value>
+    </Record>
+    <Record>
+      <Key>ActivateExplosiveTooltipKey2</Key>
+      <Value>第二个计时器。计时器无法关闭。建议谨慎行事。</Value>
+    </Record>
+    <Record>
+      <Key>CommandSave</Key>
+      <Value>保存游戏并将其命名为给定参数。用法： “/save nameofsave”</Value>
+    </Record>
+    <Record>
+      <Key>CommandShutdown</Key>
+      <Value>关闭游戏服务器并将玩家返回到大厅，可以附加计时器和消息。用法：“/shutdown”</Value>
+    </Record>
+    <Record>
+      <Key>CommandNotice</Key>
+      <Value>向服务器的玩家发送消息。用法：“/notice the message you want to send”</Value>
+    </Record>
+    <Record>
+      <Key>CommandStatus</Key>
+      <Value>显示服务器的当前状态以及服务器中的当前用户：“/status”</Value>
+    </Record>
+    <Record>
+      <Key>CommandBan</Key>
+      <Value>从服务器中禁止给定的 Steam ID：“/ban102039237390”</Value>
+    </Record>
+    <Record>
+      <Key>CommandUnBan</Key>
+      <Value>从服务器撤销给定 Steam ID 的封禁：“/unban102039237390”</Value>
+    </Record>
+    <Record>
+      <Key>CommandKick</Key>
+      <Value>从服务器踢出给定的 Steam ID 中的玩家：“/kick 102039237390”</Value>
+    </Record>
+    <Record>
+      <Key>CommandClearAll</Key>
+      <Value>清除所有断开播放器与服务器的连接：“/clearall”</Value>
+    </Record>
+    <Record>
+      <Key>CommandThreadStatus</Key>
+      <Value>显示游戏线程的当前状态：“/threadstatus”</Value>
+    </Record>
+    <Record>
+      <Key>CommandResetThread</Key>
+      <Value>重置给定线程。：“/resetthread atmospherics”</Value>
+    </Record>
+    <Record>
+      <Key>CommandSetHunger</Key>
+      <Value>设置饥饿率。：“/hungerrate 0.25”</Value>
+    </Record>
+    <Record>
+      <Key>CommandPause</Key>
+      <Value>为所有连接的玩家暂停游戏。：“/pause”</Value>
+    </Record>
+    <Record>
+      <Key>CommandResume</Key>
+      <Value>为所有连接的玩家恢复游戏。：“/resume”</Value>
+    </Record>
+    <Record>
+      <Key>CommandToggleGod</Key>
+      <Value>切换玩家的无敌能力，包括套装。： “/tg”</Value>
+    </Record>
+    <Record>
+      <Key>CommandToggleInfinitePower</Key>
+      <Value>在播放器或服务器范围内切换无限电源。： “/tgp”</Value>
+    </Record>
+    <Record>
+      <Key>CommandToggleGameMode</Key>
+      <Value>在生存和创意之间切换游戏模式。： “/tgm”</Value>
+    </Record>
+    <Record>
+      <Key>CommandSetTime</Key>
+      <Value>设置太阳偏移效果改变一天中的时间。： “/settime 0.25”</Value>
+    </Record>
+    <Record>
+      <Key>CommandToggleInstaGrow</Key>
+      <Value>切换服务器或游戏上的即时植物生长。： “/tgrow”</Value>
+    </Record>
+    <Record>
+      <Key>CommandStopWeather</Key>
+      <Value>立即阻止风暴。：“/stopweather”</Value>
+    </Record>
+    <Record>
+      <Key>CommandStartWeather</Key>
+      <Value>立即开始新的风暴。：“/startweather”</Value>
     </Record>
     <Record>
       <Key>CommandToggleNoClip</Key>
