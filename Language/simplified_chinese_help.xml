@@ -327,14 +327,10 @@
 - 向{THING:StructureLaunchPad}提供电源
 - 所有玩家坐在{THING:StructureModularRocketCommand01}中
 
-下面是世界旅行的ID。你可以用它们来旅行到特定的星球，当与完成的{LINK:RocketShuttlePage;火箭飞船}和{LINK:LogicUnitPage;逻辑单元}相结合时。
+下面是世界旅行的ID。你可以用它们来旅行到特定的星球，当与完成的{LINK:RocketShuttlePage;Rocket Shuttle}和{LINK:LogicUnitPage;Logic Units}相结合时。
        
 只要用{THING:StructureLaunchPad}上的{THING:StructureLogicWriter}和{THING:StructureLogicMemory}将哈希值写入设置变量即可。注意：你可以点击哈希值，将其复制到剪贴板上。
-      
-
-      {LIST}
-        {WORLD_HASHES}
-      {/LIST} {WORLD_HASHES}
+{LIST}{WORLD_HASHES}{/LIST}
       </Text>
     </StationpediaPage>
     <StationpediaPage>
@@ -382,7 +378,7 @@
       <Title>天气</Title>
       <DisplayFilter>Guides</DisplayFilter>
       <Text>太阳系的行星并不像它们看起来那样平静。在任何有大气层的世界上停留7天后，不可捉摸的自然力量就会开始行动--用暴风雪、沙尘暴和火山事件来打击不小心的驻扎者。
-因此，官方发展援助建议新部署的Stationeers在着陆后7天内建立一个密封的基地。
+因此，官方发展援助建议新部署的空间站长在着陆后7天内建立一个密封的基地。
 任何在风暴中留在外面的动态物体——在火星、楼兰、火神或木卫二上——都有被吹到很远很远的危险，包括你的着陆器。
 同样地，要注意太阳能电池板是脆弱的，它们的玻璃可能会破碎，或者偶尔甚至会被一场足够猛烈的风暴摧毁。在风暴期间，它们的产量也会大幅减少。
       </Text>
@@ -449,21 +445,91 @@ Paintable {POS:300}{2}{3}{/LIST}</Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>NutritionPage</Key>
-      <Title>Stationeers最终会饿，但不是所有的食物都是一样的。另外，你的饥饿率根据设置和难度的不同而不同。吃东西只会消耗物品中足以使你的饥饿感恢复到100%的部分。
-
-Stationeers在到达一个新的世界时，会在他们的着陆器中收到诸如&lt;color=#0080FFFF&gt;{LINK:Agrizero;Agrizero}&lt;/color&gt;{THING:ItemCerealBar}之类的食物供应。当这些东西用完后，你必须找到新的食物来源。
-
-吃原材料比吃正餐更能满足你的饥饿感，也就是说，你的饥饿感所占的比例会更小。食物的基本元素是通过&lt;color=#0080FFFF&gt;{LINK:OrganicsPage;hydroponics}&lt;/color&gt;系统制造的。这些可以用{THING:ApplianceReagentProcessor}加工成食谱配料，然后用{THING:ApplianceMicrowave}加工成食物。
-
-你的饥饿率可以在主设置菜单中通过调整饥饿/补水率滑块进行调整设置。</Title>
+      <Title>饥饿与营养</Title>
       <DisplayFilter>Guides</DisplayFilter>
-      <Text>Stationeers最终会饿，但不是所有的食物都是一样的。另外，你的饥饿率根据设置和难度的不同而不同。吃东西只会消耗物品中足以使你的饥饿感恢复到100%的部分。
+      <Text>{HEADER:HUNGER}
 
-Stationeers在到达一个新的世界时，会在他们的着陆器中收到诸如&lt;color=#0080FFFF&gt;{LINK:Agrizero;Agrizero}&lt;/color&gt;{THING:ItemCerealBar}之类的食物供应。当这些东西用完后，你必须找到新的食物来源。
+空间站长总会感到饥饿的，但并非所有食物都一样。此外，您的饥饿率因设置和难度而异。进食只会消耗足以将饥饿感恢复到100%的那部分。
 
-吃原材料比吃正餐更能满足你的饥饿感，也就是说，你的饥饿感所占的比例会更小。食物的基本元素是通过&lt;color=#0080FFFF&gt;{LINK:OrganicsPage;hydroponics}&lt;/color&gt;系统制造的。这些可以用{THING:ApplianceReagentProcessor}加工成食谱配料，然后用{THING:ApplianceMicrowave}加工成食物。
+空间站长在到达新世界后在他们的着陆器中会受到如{LINK:Agrizero;Agrizero}{THING:ItemCerealBar}的食物。当这些都用尽时，你必须找到新的食物来源 - 例如种植自己的种子，从提供的种子，或联系{LINK:TradingPage;Trader}
 
-你的饥饿率可以在主设置菜单中通过调整饥饿/补水率滑块进行调整设置。</Text>
+{HEADER:NUTRITION}
+
+吃原料会比吃饭更不能满足饥饿感，即会取代你饥饿感的一小部分。食物的基本元素是使用{LINK:OrganicPage;hydroponics}系统创建的。这些可以使用{THING:ApplianceReagentProcessor}加工成食谱成分，然后使用{THING:ApplianceMicrowave}或{THING:StructureAutomatedOven}变成饭菜。
+
+您的饥饿率可以通过调整设置中的饥饿/补水率滑块在主设置菜单中设置。请注意，饥饿滑块也控制您的{LINK:HydrationPage;Thirst}。</Text>
+    </StationpediaPage>
+    <StationpediaPage>
+      <Key>FarmingPage</Key>
+      <Title>种植粮食</Title>
+      <DisplayFilter>Guides</DisplayFilter>
+      <Text>为了在外星世界中生存，发展署期望所有空间站长建立可行的{LINK:OrganicPage;hydroponic}系统，或联系注册的本地资源{LINK:TradingPage;traders}。
+
+{HEADER:SETTING UP}
+
+在设置水培系统时，您将需要{LINK:OrganicPage;seeds}。或者，您可以种植食物本身。
+
+常见的水培设备包括：
+
+- {THING:DynamicHydroponics}
+- {THING:ItemHydroponicTray}
+- {THING:ItemKitHydroponicStation}
+- {THING:StructureHarvie}
+
+所有水培系统都需要水，阳光和正确的气体混合物 - 工厂需要{GAS:CarbonDioxide}并产生氧气（除了{THING:ItemAlienMushroom}）。植物不会在错误的空气中生长。如果植物没有足够的光，你需要建立一个{THING:StructureGrowLight}。
+
+您的系统将依赖于可用的资源和时间，但是如果有足够的时间和资源，设计良好的农业系统几乎可以完全自动化。
+
+{HEADER:HARVESTING}
+
+大多数植物有几个生长阶段。第一阶段是植物在其生命周期中生长。在第三阶段，可以从植物中收获种子。在第四阶段，植物将结出果实。之后，除非清除，否则植物将死亡。
+
+{HEADER:FERTILIZER}
+
+肥料改变植物生长过程，由{THING:PortableComposter}和{THING:StructureAdvancedComposter}使用{LINK:OrganicPage;organic}物质创建。
+
+肥料的影响取决于其成分：
+
+- {LINK:OrganicPage;Food}将单个植物产量提高多达 3 个项目
+- {THING:DecayedFood}增加植物生长速度高达3倍
+- {THING:ItemBiomass}增加了肥料持续的生长周期数，最多5个
+
+这些成分的作用取决于它们在加工被激活时在堆肥机中的各自比例。肥料以肥料与成分的1：3比例生产。在加工时，{GAS:Nitrogen}和{GAS:Volatiles}被释放出来，以及少量的热量。</Text>
+    </StationpediaPage>
+    <StationpediaPage>
+      <Key>DecayPage</Key>
+      <Title>食物腐烂</Title>
+      <DisplayFilter>Guides</DisplayFilter>
+      <Text>食物会随着时间的流逝而腐烂成{THING:DecayedFood}，除非在可干燥的气氛中冷藏。衰变的确切速度因以下因素而异：
+
+- 温度 - 冷藏会减缓腐烂，但许多食物会因暴露在极低的压力以及极端高温下而损坏。最佳温度为0开尔文（-272摄氏度）。
+
+- 食物类型 - 每种{LINK:OrganicPage;food}类型都有自己的腐烂特性。例如，{THING:ItemTomatoSoup}的持续时间比{THING:ItemTomato}长得多。
+
+- 压力 - 当压力降至1个大气压（101kPa）以下时，食物衰变得更快。当大气接近完美真空时，衰变发生的速度呈指数级增长。没有较高压力的影响。
+
+- 大气层 - 不同的气体可以减缓和加速衰变过程。该过程在计算衰变改性剂时将考虑混合气氛中各自的气体比率。以下价格适用于所有食品：
+
+&gt; {GAS:Oxygen} x 1.3
+&gt; {GAS:Nitrogen} x 0.6
+&gt; {GAS:CarbonDioxide} x 0.8
+&gt; {GAS:Volatiles} x 1
+&gt; {GAS:Pollutant} x 3
+&gt; {GAS:NitrousOxide} x 1.5
+&gt; {GAS:Water} x 2
+&gt;真空 - 参见压力（上图）。</Text>
+    </StationpediaPage>
+    <StationpediaPage>
+      <Key>HydrationPage</Key>
+      <Title>口渴 + 补水</Title>
+      <DisplayFilter>Guides</DisplayFilter>
+      <Text>你需要定期喝水。然而，晦涩难懂且可能被误导的发展署健康和安全法规长期以来剥夺了空间站长的权利，让他们无法使用装备中的补水装置。相反，他们必须定期休息，打开头盔，喝点水。不建议在未加压的环境中这样做。
+
+多久喝一次?这是由你的难度等级、星球的温度和你想移动身体的程度决定的。
+
+水有多种形式。至少有一个{THING:ItemWaterBottle}在登陆新星球时作为口粮提供给空间站长，还有更多的水在你的登陆器箱子里。这些水瓶可以用{THING:ItemWaterBottleFiller}来补充，它本身必须连接到一个液体管道网络。管网本身可以用{THING:StructureIceCrusher}来填充适当的冰块供应。
+
+你的口渴率可以在主设置菜单上通过调整你的饥饿/补水率滑块来调整设置。</Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>EVAPage</Key>
