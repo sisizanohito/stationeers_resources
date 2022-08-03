@@ -5181,6 +5181,10 @@
       <Value>Composteur portable</Value>
     </RecordThing>
     <RecordThing>
+      <Key>AppliancePackagingMachine</Key>
+      <Value>Machine de conditionnement basique</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitPlanter</Key>
       <Value/>
     </RecordThing>
