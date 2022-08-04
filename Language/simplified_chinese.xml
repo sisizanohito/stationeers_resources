@@ -6178,7 +6178,7 @@
     </Record>
     <Record>
       <Key>Button1</Key>
-      <Value>1号按键</Value>
+      <Value>按钮 1</Value>
     </Record>
     <Record>
       <Key>Slot3</Key>
@@ -6214,15 +6214,15 @@
     </Record>
     <Record>
       <Key>Button2</Key>
-      <Value>2号按键</Value>
+      <Value>按钮 2</Value>
     </Record>
     <Record>
       <Key>SplitOne</Key>
-      <Value>拆分一个</Value>
+      <Value>分出一个</Value>
     </Record>
     <Record>
       <Key>SplitHalf</Key>
-      <Value>拆分一半</Value>
+      <Value>对半分</Value>
     </Record>
     <Record>
       <Key>NextPage</Key>
@@ -6238,11 +6238,11 @@
     </Record>
     <Record>
       <Key>Export</Key>
-      <Value>输出</Value>
+      <Value>出口</Value>
     </Record>
     <Record>
       <Key>Import</Key>
-      <Value>输入</Value>
+      <Value>进口</Value>
     </Record>
     <Record>
       <Key>PressureUp</Key>
@@ -6254,7 +6254,7 @@
     </Record>
     <Record>
       <Key>Flush</Key>
-      <Value>泄压(重置)</Value>
+      <Value>冲洗</Value>
     </Record>
     <Record>
       <Key>Battery</Key>
@@ -6262,19 +6262,19 @@
     </Record>
     <Record>
       <Key>Cartridge</Key>
-      <Value>记忆卡</Value>
+      <Value>芯片</Value>
     </Record>
     <Record>
       <Key>CaptainsChair</Key>
-      <Value>船长的椅子</Value>
+      <Value>船长座椅</Value>
     </Record>
     <Record>
       <Key>PassengersChair</Key>
-      <Value>乘客的椅子</Value>
+      <Value>乘客座椅</Value>
     </Record>
     <Record>
       <Key>Button3</Key>
-      <Value>3号按键</Value>
+      <Value>按钮 3</Value>
     </Record>
     <Record>
       <Key>Slot11</Key>
@@ -6378,7 +6378,7 @@
     </Record>
     <Record>
       <Key>Export2</Key>
-      <Value>2号输出</Value>
+      <Value>出口 2</Value>
     </Record>
     <Record>
       <Key>Launch</Key>
@@ -6402,7 +6402,7 @@
     </Record>
     <Record>
       <Key>Button4</Key>
-      <Value>4号按键</Value>
+      <Value>按钮 4</Value>
     </Record>
     <Record>
       <Key>Output</Key>
@@ -6470,11 +6470,11 @@
     </Record>
     <Record>
       <Key>Button5</Key>
-      <Value>5号按键</Value>
+      <Value>按钮 5</Value>
     </Record>
     <Record>
       <Key>Button6</Key>
-      <Value>6号按键</Value>
+      <Value>按钮 6</Value>
     </Record>
     <Record>
       <Key>UnpackAll</Key>
@@ -6486,11 +6486,11 @@
     </Record>
     <Record>
       <Key>Cartridge2</Key>
-      <Value>2号记忆卡</Value>
+      <Value>芯片 2</Value>
     </Record>
     <Record>
       <Key>Cartridge1</Key>
-      <Value>1号记忆卡</Value>
+      <Value>芯片 1</Value>
     </Record>
     <Record>
       <Key>Next</Key>
@@ -6506,47 +6506,47 @@
     </Record>
     <Record>
       <Key>Button7</Key>
-      <Value>7号按键</Value>
+      <Value>按钮 7</Value>
     </Record>
     <Record>
       <Key>Button8</Key>
-      <Value>8号按键</Value>
+      <Value>按钮 8</Value>
     </Record>
     <Record>
       <Key>Button9</Key>
-      <Value>9号按键</Value>
+      <Value>按钮 9</Value>
     </Record>
     <Record>
       <Key>Button10</Key>
-      <Value>10号按键</Value>
+      <Value>按钮 10</Value>
     </Record>
     <Record>
       <Key>Button11</Key>
-      <Value>11号按键</Value>
+      <Value>按钮 11</Value>
     </Record>
     <Record>
       <Key>Button12</Key>
-      <Value>12号按键</Value>
+      <Value>按钮 12</Value>
     </Record>
     <Record>
       <Key>Button13</Key>
-      <Value>13号按键</Value>
+      <Value>按钮 13</Value>
     </Record>
     <Record>
       <Key>Button14</Key>
-      <Value>14号按键</Value>
+      <Value>按钮 14</Value>
     </Record>
     <Record>
       <Key>Button15</Key>
-      <Value>15号按键</Value>
+      <Value>按钮 15</Value>
     </Record>
     <Record>
       <Key>Button16</Key>
-      <Value>16号按键</Value>
+      <Value>按钮 16</Value>
     </Record>
     <Record>
       <Key>Button17</Key>
-      <Value>17号按键</Value>
+      <Value>按钮 17</Value>
     </Record>
     <Record>
       <Key>ProgrammableChip</Key>
