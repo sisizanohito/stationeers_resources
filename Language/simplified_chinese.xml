@@ -691,59 +691,59 @@
     </RecordThing>
     <RecordThing>
       <Key>CircuitboardAirControl</Key>
-      <Value>空气控制芯片</Value>
+      <Value>电路板（空气控制）</Value>
     </RecordThing>
     <RecordThing>
       <Key>CircuitboardAirlockControl</Key>
-      <Value>气闸芯片</Value>
+      <Value>电路板（气闸控制）</Value>
     </RecordThing>
     <RecordThing>
       <Key>CircuitboardCameraDisplay</Key>
-      <Value>监控芯片</Value>
+      <Value>电路板（摄像头画面显示）</Value>
     </RecordThing>
     <RecordThing>
       <Key>CircuitboardDoorControl</Key>
-      <Value>门控芯片</Value>
+      <Value>电路板（门控制）</Value>
     </RecordThing>
     <RecordThing>
       <Key>CircuitboardGasDisplay</Key>
-      <Value>气体显示芯片</Value>
+      <Value>电路板（气体信息显示）</Value>
     </RecordThing>
     <RecordThing>
       <Key>CircuitboardModeControl</Key>
-      <Value>模式控制芯片</Value>
+      <Value>电路板（模式控制）</Value>
     </RecordThing>
     <RecordThing>
       <Key>CircuitboardPowerControl</Key>
-      <Value>电源控制芯片</Value>
+      <Value>电路板（电力控制）</Value>
     </RecordThing>
     <RecordThing>
       <Key>CircuitboardShipDisplay</Key>
-      <Value>飞船显示器芯片</Value>
+      <Value>电路板（船舶信息显示）</Value>
     </RecordThing>
     <RecordThing>
       <Key>CircuitboardSolarControl</Key>
-      <Value>太阳能控制芯片</Value>
+      <Value>电路板（太阳能电池板控制）</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicAirConditioner</Key>
-      <Value>便携式空调</Value>
+      <Value>移动式空调机</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicCrate</Key>
-      <Value>箱子</Value>
+      <Value>移动式储物箱</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicCrateBuildingSupplies</Key>
-      <Value>箱子(建材补给)</Value>
+      <Value>移动式储物箱（建材）</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicCrateCableSupplies</Key>
-      <Value>箱子(电线补给)</Value>
+      <Value>移动式储物箱（电缆）</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicCrateConveyorSupplies</Key>
-      <Value>箱子(传送带补给)</Value>
+      <Value>移动式储物箱（传送带）</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicCratePipeSupplies</Key>
