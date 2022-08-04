@@ -147,15 +147,15 @@
     </Record>
     <Record>
       <Key>StatusIconHydrationName</Key>
-      <Value>当前口渴值</Value>
+      <Value>警告：水分含量低</Value>
     </Record>
     <Record>
       <Key>StatusIconUnconsciousName</Key>
-      <Value>失去意识</Value>
+      <Value>警告：失去意识</Value>
     </Record>
     <Record>
       <Key>DeconstructCanisterFull</Key>
-      <Value>无法拆除。容器必须是空的</Value>
+      <Value>无法拆除：容器必须是空的</Value>
     </Record>
   </ScreenSpaceToolTips>
 </Language>

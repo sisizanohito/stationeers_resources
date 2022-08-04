@@ -5860,7 +5860,7 @@
     </Record>
     <Record>
       <Key>Suit</Key>
-      <Value>宇航服</Value>
+      <Value>航天服</Value>
     </Record>
     <Record>
       <Key>Back</Key>
@@ -5868,7 +5868,7 @@
     </Record>
     <Record>
       <Key>Brain</Key>
-      <Value>脑</Value>
+      <Value>脑部</Value>
     </Record>
     <Record>
       <Key>Uniform</Key>
@@ -5876,7 +5876,7 @@
     </Record>
     <Record>
       <Key>Lungs</Key>
-      <Value>肺</Value>
+      <Value>肺部</Value>
     </Record>
     <Record>
       <Key>Glasses</Key>
@@ -5892,11 +5892,11 @@
     </Record>
     <Record>
       <Key>GasCanister</Key>
-      <Value>气瓶</Value>
+      <Value>储气瓶</Value>
     </Record>
     <Record>
       <Key>GasFilter</Key>
-      <Value>气体滤芯</Value>
+      <Value>滤芯</Value>
     </Record>
     <Record>
       <Key>AirTank</Key>
