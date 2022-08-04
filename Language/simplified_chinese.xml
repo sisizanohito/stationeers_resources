@@ -1375,7 +1375,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemSprayCanYellow</Key>
-      <Value>喷漆(黄色)</Value>
+      <Value>喷漆罐（黄色）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemSteelFrames</Key>
@@ -1383,7 +1383,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemSteelIngot</Key>
-      <Value>锭(钢)</Value>
+      <Value>Ingot (Steel) 锭（钢）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemSteelSheets</Key>
@@ -1391,39 +1391,39 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemSuitStorage</Key>
-      <Value>宇航服收纳柜</Value>
+      <Value>套件包（航天服收纳架）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemTablet</Key>
-      <Value>平板电脑</Value>
+      <Value>掌上平板电脑</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemTankConnector</Key>
-      <Value>套件(储气罐连接底座)</Value>
+      <Value>套件包（移动式储气罐连接底座）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemTankConnectorLiquid</Key>
-      <Value>套件(储液罐连接底座)</Value>
+      <Value>套件包（移动式储液罐连接底座）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemToolBelt</Key>
-      <Value>工具带</Value>
+      <Value>工具腰带</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemUraniumOre</Key>
-      <Value>矿石(铀)</Value>
+      <Value>Ore (Uranium) 矿石（铀）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWallCooler</Key>
-      <Value>(套件)壁挂式冷却器</Value>
+      <Value>套件包（壁挂式冷却器）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWallHeater</Key>
-      <Value>(套件)壁挂式加热器</Value>
+      <Value>套件包（壁挂式加热器）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWallLight</Key>
-      <Value>(套件)灯</Value>
+      <Value>套件包（壁灯）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWeldingTorch</Key>
