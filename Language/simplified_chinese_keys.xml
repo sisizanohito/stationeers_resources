@@ -369,113 +369,111 @@
     </Record>
     <Record>
       <Key>Mouse5</Key>
-      <Value>&lt;size=40%&gt;Mouse&lt;/size&gt;
-5</Value>
+      <Value>Mouse 5</Value>
     </Record>
     <Record>
       <Key>Mouse6</Key>
-      <Value>&lt;size=40%&gt;Mouse&lt;/size&gt;
-6</Value>
+      <Value>Mouse 6</Value>
     </Record>
     <Record>
       <Key>JoystickButton0</Key>
-      <Value>&lt;size=40%&gt;Joystick&lt;/size&gt;
-0</Value>
+      <Value>&amp;lt;size=40%&amp;gt;Joystick&amp;lt;/size&amp;gt;
+Button 0</Value>
     </Record>
     <Record>
       <Key>JoystickButton1</Key>
-      <Value>&lt;size=40%&gt;Joystick&lt;/size&gt;
-1</Value>
+      <Value>&amp;lt;size=40%&amp;gt;Joystick&amp;lt;/size&amp;gt;
+Button 1</Value>
     </Record>
     <Record>
       <Key>JoystickButton2</Key>
-      <Value>&lt;size=40%&gt;Joystick&lt;/size&gt;
-2</Value>
+      <Value>&amp;lt;size=40%&amp;gt;Joystick&amp;lt;/size&amp;gt;
+Button 2</Value>
     </Record>
     <Record>
       <Key>JoystickButton3</Key>
-      <Value>&lt;size=40%&gt;Joystick&lt;/size&gt;
-3</Value>
+      <Value>&amp;lt;size=40%&amp;gt;Joystick&amp;lt;/size&amp;gt;
+Button 3</Value>
     </Record>
     <Record>
       <Key>JoystickButton4</Key>
-      <Value>&lt;size=40%&gt;Joystick&lt;/size&gt;
-4</Value>
+      <Value>&amp;lt;size=40%&amp;gt;Joystick&amp;lt;/size&amp;gt;
+Button 4</Value>
     </Record>
     <Record>
       <Key>JoystickButton5</Key>
-      <Value>&lt;size=40%&gt;Joystick&lt;/size&gt;
-5</Value>
+      <Value>&amp;lt;size=40%&amp;gt;Joystick&amp;lt;/size&amp;gt;
+Button 5</Value>
     </Record>
     <Record>
       <Key>JoystickButton6</Key>
-      <Value>&lt;size=40%&gt;Joystick&lt;/size&gt;
-6</Value>
+      <Value>&amp;lt;size=40%&amp;gt;Joystick&amp;lt;/size&amp;gt;
+Button 6</Value>
     </Record>
     <Record>
       <Key>JoystickButton7</Key>
-      <Value>&lt;size=40%&gt;Joystick&lt;/size&gt;
-7</Value>
+      <Value>&amp;lt;size=40%&amp;gt;Joystick&amp;lt;/size&amp;gt;
+Button 7</Value>
     </Record>
     <Record>
       <Key>JoystickButton8</Key>
-      <Value>&lt;size=40%&gt;Joystick&lt;/size&gt;
-8</Value>
+      <Value>&amp;lt;size=40%&amp;gt;Joystick&amp;lt;/size&amp;gt;
+Button 8</Value>
     </Record>
     <Record>
       <Key>JoystickButton9</Key>
-      <Value>&lt;size=40%&gt;Joystick&lt;/size&gt;
-9</Value>
+      <Value>&amp;lt;size=40%&amp;gt;Joystick&amp;lt;/size&amp;gt;
+Button 9</Value>
     </Record>
     <Record>
       <Key>JoystickButton10</Key>
-      <Value>&lt;size=40%&gt;Joystick&lt;/size&gt;
-10</Value>
+      <Value>&amp;lt;size=40%&amp;gt;Joystick&amp;lt;/size&amp;gt;
+Button 10</Value>
     </Record>
     <Record>
       <Key>JoystickButton11</Key>
-      <Value>&lt;size=40%&gt;Joystick&lt;/size&gt;
-11</Value>
+      <Value>&amp;lt;size=40%&amp;gt;Joystick&amp;lt;/size&amp;gt;
+Button 11</Value>
     </Record>
     <Record>
       <Key>JoystickButton12</Key>
-      <Value>&lt;size=40%&gt;Joystick&lt;/size&gt;
-12</Value>
+      <Value>&amp;lt;size=40%&amp;gt;Joystick&amp;lt;/size&amp;gt;
+Button 12</Value>
     </Record>
     <Record>
       <Key>JoystickButton13</Key>
-      <Value>&lt;size=40%&gt;Joystick&lt;/size&gt;
-13</Value>
+      <Value>&amp;lt;size=40%&amp;gt;Joystick&amp;lt;/size&amp;gt;
+Button 13</Value>
     </Record>
     <Record>
       <Key>JoystickButton14</Key>
-      <Value>&lt;size=40%&gt;Joystick&lt;/size&gt;
-14</Value>
+      <Value>&amp;lt;size=40%&amp;gt;Joystick&amp;lt;/size&amp;gt;
+Button 14</Value>
     </Record>
     <Record>
       <Key>JoystickButton15</Key>
-      <Value>&lt;size=40%&gt;Joystick&lt;/size&gt;
-15</Value>
+      <Value>&amp;lt;size=40%&amp;gt;Joystick&amp;lt;/size&amp;gt;
+Button 15</Value>
     </Record>
     <Record>
       <Key>JoystickButton16</Key>
-      <Value>&lt;size=40%&gt;Joystick&lt;/size&gt;
-16</Value>
+      <Value>&amp;lt;size=40%&amp;gt;Joystick&amp;lt;/size&amp;gt;
+Button 16</Value>
     </Record>
     <Record>
       <Key>JoystickButton17</Key>
-      <Value>&lt;size=40%&gt;Joystick&lt;/size&gt;
-17</Value>
+      <Value>&amp;lt;size=40%&amp;gt;Joystick&amp;lt;/size&amp;gt;
+Button 17</Value>
     </Record>
     <Record>
       <Key>JoystickButton18</Key>
-      <Value>&lt;size=40%&gt;Joystick&lt;/size&gt;
-18</Value>
+      <Value>&amp;lt;size=40%&amp;gt;Joystick&amp;lt;/size&amp;gt;
+Button 18</Value>
     </Record>
     <Record>
       <Key>JoystickButton19</Key>
-      <Value>&lt;size=40%&gt;Joystick&lt;/size&gt;
-19</Value>
+      <Value>&amp;lt;size=40%&amp;gt;Joystick&amp;lt;/size&amp;gt;
+Button 19</Value>
     </Record>
     <Record>
       <Key>Joystick1Button0</Key>
