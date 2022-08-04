@@ -8958,31 +8958,31 @@
     </Record>
     <Record>
       <Key>BuildTimeMultiplier</Key>
-      <Value>建造时间乘数</Value>
+      <Value>建造时间倍数</Value>
     </Record>
     <Record>
       <Key>MaterialCostMultiplier</Key>
-      <Value>材料花费乘数</Value>
+      <Value>材料消耗倍数</Value>
     </Record>
     <Record>
       <Key>EnergyCostMultiplier</Key>
-      <Value>能量消耗乘数</Value>
+      <Value>能量消耗倍数</Value>
     </Record>
     <Record>
       <Key>CreationMultiplier</Key>
-      <Value>制造乘数</Value>
+      <Value>创造倍数</Value>
     </Record>
     <Record>
       <Key>TierThree</Key>
-      <Value>Tier 3</Value>
+      <Value>等级3</Value>
     </Record>
     <Record>
       <Key>TierOne</Key>
-      <Value>Tier 1</Value>
+      <Value>等级1</Value>
     </Record>
     <Record>
       <Key>TierTwo</Key>
-      <Value>Tier 2</Value>
+      <Value>等级2</Value>
     </Record>
     <Record>
       <Key>TravelMenuTitle</Key>
@@ -9002,7 +9002,7 @@
     </Record>
     <Record>
       <Key>PromptTravelBody</Key>
-      <Value>您确定要旅行到该地图吗？</Value>
+      <Value>你确定要旅行至该地图吗？</Value>
     </Record>
     <Record>
       <Key>TravelMenuNamePlaceholder</Key>
@@ -9022,7 +9022,7 @@
     </Record>
     <Record>
       <Key>TravelMenuButtonTravelLoad</Key>
-      <Value>加载世界</Value>
+      <Value>载入世界</Value>
     </Record>
     <Record>
       <Key>SettingsDifficulty</Key>
