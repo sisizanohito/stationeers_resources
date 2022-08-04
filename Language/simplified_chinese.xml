@@ -9178,7 +9178,7 @@
     </Record>
     <Record>
       <Key>CartridgeAtmosAnalyserTitle</Key>
-      <Value>大气分析卡</Value>
+      <Value>大气分析仪</Value>
     </Record>
     <Record>
       <Key>BigWarning</Key>
@@ -9186,7 +9186,7 @@
     </Record>
     <Record>
       <Key>DialogConfirmLastSaveIsAutoSave</Key>
-      <Value>您确定吗？您上次保存的是自动保存。如果您现在不保存，可能会丢失进度。</Value>
+      <Value>你确定吗？你的上一次保存是自动保存。如果现在不保存，你可能会丢失进度。</Value>
     </Record>
     <Record>
       <Key>GameMenuButtonCancel</Key>
@@ -9194,7 +9194,7 @@
     </Record>
     <Record>
       <Key>CartridgeElectronicReaderRecipeTitle</Key>
-      <Value>条目：</Value>
+      <Value>配方：</Value>
     </Record>
     <Record>
       <Key>CartridgeElectronicReaderRecipeOrder</Key>
@@ -9206,7 +9206,11 @@
     </Record>
     <Record>
       <Key>CartridgeElectronicReaderAutoITitle</Key>
-      <Value>燃点：</Value>
+      <Value>自燃点：</Value>
+    </Record>
+    <Record>
+      <Key>CartridgeElectronicReaderAutoHashTitle</Key>
+      <Value>Hash：</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderIron</Key>
@@ -9214,19 +9218,19 @@
     </Record>
     <Record>
       <Key>ElectronicReaderIce</Key>
-      <Value>冰</Value>
+      <Value>冰（水）</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderOxite</Key>
-      <Value>氧</Value>
+      <Value>冰（氧气）</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderNitrice</Key>
-      <Value>亚硝酸盐</Value>
+      <Value>冰（氮气）</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderVolatiles</Key>
-      <Value>挥发性有机物</Value>
+      <Value>冰（挥发性气体）</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderGold</Key>
@@ -9330,23 +9334,23 @@
     </Record>
     <Record>
       <Key>ElectronicReaderColorRed</Key>
-      <Value>红色</Value>
+      <Value>红色着色剂</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderColorBlue</Key>
-      <Value>蓝色</Value>
+      <Value>蓝色着色剂</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderColorYellow</Key>
-      <Value>黄色</Value>
+      <Value>黄色着色剂</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderColorOrange</Key>
-      <Value>橙色</Value>
+      <Value>橙色着色剂</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderColorGreen</Key>
-      <Value>绿色</Value>
+      <Value>绿色着色剂</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderMilk</Key>
@@ -9366,7 +9370,7 @@
     </Record>
     <Record>
       <Key>ElectronicReaderLiquidMeasurement</Key>
-      <Value>毫升</Value>
+      <Value>ElectronicReaderTime</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderTime</Key>
