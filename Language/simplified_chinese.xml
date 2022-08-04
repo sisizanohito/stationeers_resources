@@ -1091,59 +1091,59 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitCentrifuge</Key>
-      <Value>套件（离心机）</Value>
+      <Value>套件包（离心机）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitChute</Key>
-      <Value>套件（滑槽）</Value>
+      <Value>套件包（滑槽）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitComputer</Key>
-      <Value>套件（电脑）</Value>
+      <Value>套件包（电脑）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitConsole</Key>
-      <Value>套件（控制台）</Value>
+      <Value>套件包（控制台）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitConveyor</Key>
-      <Value>套件（传送带）</Value>
+      <Value>套件包（传送带）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitCryoTube</Key>
-      <Value>套件（冷冻舱）</Value>
+      <Value>套件包（低温休眠舱）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitEngine</Key>
-      <Value>引擎</Value>
+      <Value>套件包（发动机）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitFabricator</Key>
-      <Value>套件（制造机）</Value>
+      <Value>套件包（制造机）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitFurnace</Key>
-      <Value>套件（熔炉）</Value>
+      <Value>套件包（熔炉）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitFurniture</Key>
-      <Value>套件（家具）</Value>
+      <Value>套件包（家具）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitGyroscope</Key>
-      <Value>套件（陀螺仪）</Value>
+      <Value>套件包（陀螺仪）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitRegulator</Key>
-      <Value>套件(压力调节器)</Value>
+      <Value>套件包（压力调节阀）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSensor</Key>
-      <Value>套件（传感器）</Value>
+      <Value>套件包（传感器）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSign</Key>
-      <Value>套件（标志牌）</Value>
+      <Value>套件包（指示牌）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSleeper</Key>
