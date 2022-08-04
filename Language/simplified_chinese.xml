@@ -6567,10 +6567,6 @@
       <Value>正常</Value>
     </Record>
     <Record>
-      <Key>RespawnConditionStationeer</Key>
-      <Value>空间站长</Value>
-    </Record>
-    <Record>
       <Key>SlotKey</Key>
       <Value>插槽</Value>
     </Record>
@@ -10650,35 +10646,47 @@ Recurso Espaciais（太空资源集团）主要专注于大宗矿产和金属，
     </Record>
     <Record>
       <Key>SinotaiDesc</Key>
-      <Value>作为在外太空政治中存在的唯一“传统”国家实体，东泰的影响力和权力仅次于发展署。一个极其复杂的地球企业官僚机构的子机构的结构使中泰在许多方面取得了令人难以置信的成就。
-在21世纪初，通过把第一批人类送上火星，建立了第一个外太空吉瓦级电力系统，以及第一个太空燃料精炼厂，证明了它的勇气，很少有太空组织能与中泰没有关联。一个常见的笑话是，没有它们，就不可能在太空中做任何事情。
-不管真相如何，东泰的外海发展方法涉及“软实力”方法，从与{LINK:Recurso;Recurso}的谅解备忘录（让他们优先进入马瑙斯太空电梯）到与一系列团体建立笼统的同盟。      </Value>
+      <Value>唯一在外太空政局中生存的“传统”政府实体，Sinotai（中泰集团）的影响力仅次于 {LINK:ODA;ODA} 。从许多角度来看，Sinotai是旧时代的遗产 – 一个在地球范围内活动的结构极其复杂的公司-官僚机构的子机构 – 它的组成架构促使它取得了令人难以置信的成就。
+Sinotai通过将第一批人类送上火星，建立外太空第一个千兆瓦特级的供电系统，以及建立第一个星载燃料精炼厂，在21世纪早期证明了它的勇气与决心，几乎所有的太空机构都与Sinotai有着或多或少的联系。一个广为流传的玩笑话是，在太空中，如没有他们，任何事情都做不成。
+无论真相如何，Sinotai在他们的外太空发展之路上更倾向于使用“软实力输出”的方式，从与 {LINK:Recurso;Recurso} 签订谅解备忘录（MOU）（给予他们对玛瑙斯太空电梯（Manaus space elevator）的优先使用权），到与一系列的贸易集团建立关系更为暧昧的互利互惠联盟，都可窥见其端倪。
+      </Value>
     </Record>
     <Record>
       <Key>TK</Key>
-      <Value>TK系统</Value>
+      <Value>坦桑尼亚动力集团</Value>
     </Record>
     <Record>
       <Key>TKDesc</Key>
-      <Value>坦桑尼亚动能系统公司最初是一家专门从事蛮力、高功率武器的国防承包商，它执行了一项大规模的和平时期支点，成为非洲议会高速货物输送机的领先设计者。
-现在生产一系列溜槽网络设计和组件，由于21世纪后期的非洲 - 中国伙伴关系，TK在外太空拥有强大的影响力。该公司总部设在达累斯萨拉姆的“侦察”基甘博尼区，与{LINK:CHAC;CHAC}拥有伙伴关系，因此，他们的许多产品显示出明显的相似之处。
-        毕竟，这是“高速货物输送机”而不是枪。      </Value>
+      <Value>Tanzanian Kinetic Systems（坦桑尼亚动力集团）最初是一家专门从事大威力强力武器研究的国防承包商，它在和平时期的实施了一项大规模的枢纽工程，从而成为了非洲集团中高速货运设备的主力设计者。
+目前TK集团正致力于一系列滑槽网络的设计工作以及其部件的生产，由于21世纪后期的中国-非洲合作伙伴关系，TK在外太空拥有很强的影响力。TK集团的总部位于达累斯萨拉姆（Dar es Salaam）“重建”的基甘博尼（Kigamboni）地区，该企业经常与 {LINK:CHAC;CHAC} 签订发展合作伙伴协议，正因如此，它们的许多产品表现出明显的相似性。
+说到底，枪支也是一种“高速货运设备”。
+      </Value>
+    </Record>
+    <Record>
+      <Key>Xigo</Key>
+      <Value>齐戈集团</Value>
     </Record>
     <Record>
       <Key>XigoDesc</Key>
-      <Value>2150CE的一项调查显示，Xigo的“X”是世界上是世界上最知名的符号之一。然而，很少有参与者能清楚地描述公司的实际业务范围。
-这家公司的发展历程一直是无数理论、财务研究和诉讼的主题——这家大型企业集团最初只是一个价格比较网站，后来发展到包括数据、分销，最后是生产。
-这似乎是一种不分青红皂白的扩张，不是针对一个行业，而是针对所有行业——所涉及的领域如此之多，以至于商业分析师在很大程度上拒绝了将Xigo视作一个单一实体的想法。 相反，它是对人类活动某一分支的概念性分组。虽然这些统计数据（就其本质而言）很难得到证实，但最近的估估算显示，Xigo的雇员人数占全人类的1.5%以上。
-可以说，它几乎生产一切。</Value>
+      <Value>公元2150年的一项调查显示，Xigo（齐戈集团）的“X”是世界上最知名的符号之一。然而，在调查的参与者中，鲜有人能够清楚地描述出该企业的实际业务范围。
+准确地描述出这家企业的业务范围一直是不计其数的理论、金融研究和诉讼争论的主题 – 该企业集团最初只是一个比价网站，随后先后将其业务领域延伸到了数据、分销和生产。
+这似乎是一种不局限于单一行业，而是面向所有行业的恣意的扩张 – 不过考虑到涉及的领域之多，业务分析师多半反对将Xigo看作单一实体。更确切地讲，它是人类活动的一个分支的一种概念上的集合。此外，尽管某些统计数据 – 就其本质而言 – 是难以证实的，但是还是值得一提，最近的估算表明，Xigo雇佣的员工超过了全人类总数的1.5%。
+可以说，它几乎生产一切。
+      </Value>
+    </Record>
+    <Record>
+      <Key>Stationeers</Key>
+      <Value>Stationeers计划</Value>
     </Record>
     <Record>
       <Key>StationeersDesc</Key>
-      <Value>22世纪初，地球正从一场大灾难中走出来。它的资源被侵蚀，我们的人口在减少，重建是时代的主题。
-由外星发展署 (ODA)于2095年发起，空间站长计划致力于一个简单的理想：确保人类仍旧仰望星空。
-空间站长就是一切：宇航员、工程师和探险家，仅配备了有限的设备和工具，接受的训练是用更少的资源做更多的事情。利用环境优势，他们的工作是为太空中的人类提供基础设施，而成本只是传统太空计划的一小部分。
-从月球到土卫一甚至是更遥远的地方都能建立和维护基地，空间站长是我们在宇宙中的先锋。在外星生存、采矿和建筑技术、基础冶金、电子、火箭、水培和更多“神秘”科学的教育下，空间站长想尽一切办法来生存和发展。
-以没有进入标准而闻名，从来就没有“典型”的空间站长。心理分析表明，成功的学员表现出的“底线”在于实用主义和专心致志，但一些最著名的空间站长却不具备这两种素质。
-招募自土木工程背景，军事和航空航天工业，软件开发，矿业集团以及科学领域甚至宗教，从根本上说，空间站长计划对全人类开放。</Value>
+      <Value>22世纪早期，地球正在从一场大灾难中恢复出来。地球资源受到严重的侵蚀，人口锐减，重建是那个时代的主旋律。
+由 {LINK:ODA;外太空开发总署} （ODA）在公元2095年发起的Stationeers计划致力于一个单纯的理想：让人类始终仰望星空。
+Stationeer们意味着一切：宇航员、工程师和探险家，他们在被部署时只装备了有限的设备和工具，被训练用更少资源完成更多的任务。他们将周遭的环境转化为他们的优势，他们的工作是，仅以传统太空计划成本的零头，为太空中的人类提供基础设施。
+Stationeer们能够在任何地方建造和维护基地，从月球到土卫一，甚至更远，他们是宇宙中的先驱者。Stationeer们需要学习外太空生存、开采与建造技术、基础冶金学、电子学、火箭技术、水培法和其它更多“神秘”的自然科学学科，他们必须竭尽所能地生存和发展。
+众所周知，由于没有准入门槛，所以并不存在所谓“典型”的Stationeer。心理分析结果表明，成功的学员们大多展现出一种“底线”般的务实和专注，不过有些最为著名的Stationeer其实这两种品质都不具备。
+Stationeers计划从土木工程从业人员、军事和航空航天工业、软件开发行业、矿业集团、各大科学领域乃至宗教团体中招募人才，这项计划 – 从根本上说 – 是向全人类开放的。
+      </Value>
     </Record>
     <Record>
       <Key>ControlMouseControlDisc</Key>
@@ -10686,11 +10694,11 @@ Recurso Espaciais（太空资源集团）主要专注于大宗矿产和金属，
     </Record>
     <Record>
       <Key>ControlMouseDrag</Key>
-      <Value>按住并拖动{KEY:PrimaryAction}</Value>
+      <Value>按住并拖动 {KEY:PrimaryAction}</Value>
     </Record>
     <Record>
       <Key>ControlMouseDragDisc</Key>
-      <Value>移动所选内容</Value>
+      <Value>移动选中部分</Value>
     </Record>
     <Record>
       <Key>ControlSecondaryActionBuildModeDisc</Key>
@@ -10706,7 +10714,7 @@ Recurso Espaciais（太空资源集团）主要专注于大宗矿产和金属，
     </Record>
     <Record>
       <Key>ControlMouseScroll</Key>
-      <Value>鼠标滚动</Value>
+      <Value>鼠标滚轮滚动</Value>
     </Record>
     <Record>
       <Key>ControlMouseScrollDisc</Key>
@@ -10714,19 +10722,19 @@ Recurso Espaciais（太空资源集团）主要专注于大宗矿产和金属，
     </Record>
     <Record>
       <Key>ControlTurnOnDisc</Key>
-      <Value>开</Value>
+      <Value>开启</Value>
     </Record>
     <Record>
       <Key>ControlQuickMove</Key>
-      <Value>滚轮 + {KEY:InventorySelect}</Value>
+      <Value>鼠标滚轮 + {KEY:InventorySelect}</Value>
     </Record>
     <Record>
       <Key>ControlQuickMoveDisc</Key>
-      <Value>快速移动项目</Value>
+      <Value>快速移动物品</Value>
     </Record>
     <Record>
       <Key>WeatherEventsField</Key>
-      <Value>有天气事件</Value>
+      <Value>开启天气事件</Value>
     </Record>
     <Record>
       <Key>ControlUseItemDisc</Key>
