@@ -9086,7 +9086,7 @@
     </Record>
     <Record>
       <Key>MineablesField</Key>
-      <Value>矿物设置</Value>
+      <Value>矿产设置</Value>
     </Record>
     <Record>
       <Key>LevelLevelField</Key>
@@ -9110,7 +9110,7 @@
     </Record>
     <Record>
       <Key>SolarScaleField</Key>
-      <Value>太阳强度倍数</Value>
+      <Value>太阳强度等级</Value>
     </Record>
     <Record>
       <Key>DawnTemperatureField</Key>
@@ -9134,7 +9134,7 @@
     </Record>
     <Record>
       <Key>HasCustomTemperatureField</Key>
-      <Value>使用自定义温度</Value>
+      <Value>开启自定义温度</Value>
     </Record>
     <Record>
       <Key>LavaLevelField</Key>
@@ -9142,7 +9142,7 @@
     </Record>
     <Record>
       <Key>SolidTerrainColourField</Key>
-      <Value>地形颜色</Value>
+      <Value>纯色地形颜色</Value>
     </Record>
     <Record>
       <Key>CartridgeTrackerTitle</Key>
@@ -9170,7 +9170,7 @@
     </Record>
     <Record>
       <Key>CartridgeAtmosAnalyserPressureTitle</Key>
-      <Value>压力</Value>
+      <Value>压强</Value>
     </Record>
     <Record>
       <Key>CartridgeAtmosAnalyserTemperatureTitle</Key>
