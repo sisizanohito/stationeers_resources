@@ -11050,45 +11050,40 @@ Stationeers计划从土木工程从业人员、军事和航空航天工业、软
       <Value>波形</Value>
     </Record>
     <Record>
-      <Key>StationpediaMaxPressure</Key>
-      <Value>最大压力：</Value>
-    </Record>
-    <Record>
-      <Key>StationpediaVolume</Key>
-      <Value>卷：</Value>
-    </Record>
-    <Record>
-      <Key>StationpediaNutrition</Key>
-      <Value>营养：</Value>
-    </Record>
-    <Record>
       <Key>MoleOxygenDescription</Key>
-      <Value>氧气在燃烧中释放时提供能量，并与氢气结合以产生{GAS:Water}。它是由{LINK:OrganicPage;plants}以及处理{THING:ItemOxite}创建的。它在低温下高度易燃。</Value>
+      <Value>氧气在燃烧的过程中释放能量，同时还能与氢结合产生 {GAS:Water} 。氧气能够由 {LINK:OrganicPage;植物} 产生，或者通过加工 {THING:ItemOxite} 获得。它在低温下高度易燃。</Value>
     </Record>
     <Record>
       <Key>MoleNitrogenDescription</Key>
-      <Value>{GAS:Nitrogen}可以与{GAS:Oxygen}混合以稳定其可燃性并避免{GAS:Oxygen}毒性，并且本身就是一种资源，可用于创造可呼吸的大气层（大约为3：1 {GAS:Nitrogen}和{GAS:Oxygen}）。{GAS:Nitrogen}最有效的来源来自太阳系周围发现的{THING:ItemNitrice}沉积物。</Value>
+      <Value>{GAS:Nitrogen} 可以与 {GAS:Oxygen} 混合，从而稳定氧气的易燃性以及避免 {GAS:Oxygen} 中毒，而且氮气本身就是一种资源，常用于创造一个可供呼吸的大气环境（约为3:1的 {GAS:Nitrogen} 和 {GAS:Oxygen} ）。最高效的 {GAS:Nitrogen} 来源是太阳系各处发现的 {THING:ItemNitrice} 沉积物。</Value>
     </Record>
     <Record>
       <Key>MoleCarbonDioxideDescription</Key>
-      <Value>你呼出它，{LINK:OrganicPage;plants}吸进它。没有它，他们就不会成长。你可以使用放置在 {SLOT:GasFilter}插槽中的物品将其从大气中移除。
+      <Value>你呼出二氧化碳，而 {LINK:OrganicPage;植物} 却吸入它。倘若没有二氧化碳，植物就不能生长。你可以使用二氧化碳 {SLOT:Filter} 从大气环境中去除这种气体。
       
-{GAS:CarbonDioxide}具有适度高的比热，这意味着它对于像壁挂式冷却机这样的设备来说是一个很好的冷却剂。
-{THING:StructureWallCooler}{GAS:Water}更好，但通常具有更重要的用途。</Value>
+{GAS:CarbonDioxide} 的比热容适中，意味着它对 {THING:StructureWallCooler} 这类而言设备良好的冷却剂。 {GAS:Water} 的效果更好，但通常它有更为重要的作用。</Value>
     </Record>
     <Record>
       <Key>MoleVolatilesDescription</Key>
-      <Value>挥发物是一种反应性极强的复杂有机分子，可与氧气一起用作可燃燃料。它是从{THING:ItemVolatiles}提炼而来的。
+      <Value>挥发性气体是一种活性极强的复杂有机分子，它可以与氧气混合作为燃料使用。它是从 {THING:ItemVolatiles} 中提炼出来的。
       
-由于晦涩难懂且基本上被遗忘的发展署法规，挥发物有时会被各种技术项目标记为“H2”。然而，尽管它们类似于氢，但它们并不是“实际上”的氢。{GAS:Volatiles}在没有催化剂的情况下燃烧时不会产生{GAS:Water}（参见{THING:H2Combustor}）。当在以下比例燃烧时，它们会产生{GAS:Pollutant}和{GAS:CarbonDioxide}：
+依照晦涩难懂且几乎被遗忘的 {LINK:ODA;ODA} 章程，挥发性气体有时被各种技术项目标记为“H2”。然而，尽管它们与氢气十分相似，但它们并不是“真正”的氢气。 {GAS:Volatiles} 在没有催化剂（参见 {THING:H2Combustor} ）的情况下燃烧时不会产生 {GAS:Water} 。此时，当以如下比例燃烧时，它们会产生相应比例的 {GAS:Pollutant} 和 {GAS:CarbonDioxide} ：
       
-2{GAS:Volatiles}+ 1{GAS:Oxygen}-&gt; 3{GAS:Pollutant}+ 6{GAS:CarbonDioxide} + 热量。</Value>
+2 {GAS:Volatiles} + 1 {GAS:Oxygen} -&amp;gt; 3 {GAS:Pollutant} + 6 {GAS:CarbonDioxide} + 热量。</Value>
     </Record>
     <Record>
       <Key>MolePollutantDescription</Key>
-      <Value>{GAS:Pollutant}是在冶炼某些金属时产生的，也被称为“X”。浓度为0.1 mol或更高将导致您的防护服发出中毒警报。
+      <Value>{GAS:Pollutant} 也被为“X”，在熔炼某些金属时产生。0.1mol或者更高的浓度将会导致你的航天服对大气中存在有毒物质发出警告。
       
-污染物具有高比热，使其成为一种极好的冷却剂。不幸的是，它对有机生物非常有害，并且会严重损害大多数生物的肺部。</Value>
+污染性气体具有很高的比热容，这使它成为了一种极佳的冷却剂。很不幸的是，它对有机生物危害极大，且会严重损害大部分碳基生物的肺部。&lt;/Value&gt;
+    &lt;/Record&gt;
+    &lt;Record&gt;
+      &lt;Key&gt;MoleWaterDescription&lt;/Key&gt;
+      &lt;Value&gt;你能够通过用一台 {THING:StructureFurnace} 或一台 {THING:StructureIceCrusher} 融化或粉碎 {THING:ItemIce} ，或者通过使用 {THING:H2Combustor} 燃烧 {GAS:Volatiles} 和氧气从而获得水。
+      
+{GAS:Water} 对于 {LINK:OrganicPage;植物} 的生存和长成 {LINK:NutritionPage;食物} 来说至关重要。它也是一种具有极高比热容的极佳的冷却剂。
+
+注意： {GAS:Water} 在游戏中曾经被当作一种气体对待，但是目前正在开发一个新的液体系统，包括专为液体使用的管道、储罐、泵等。 {GAS:Water} 是目前游戏中唯一可用的液体，且短期内不会改变这种状态。</Value>
     </Record>
     <Record>
       <Key>MoleWaterDescription</Key>
@@ -11100,7 +11095,7 @@ Stationeers计划从土木工程从业人员、军事和航空航天工业、软
     </Record>
     <Record>
       <Key>MoleNitrousOxideDescription</Key>
-      <Value>一氧化二氮是一种惰性气体，玩家吸入会昏迷。它让你的喷气背包发出嘶嘶声。</Value>
+      <Value>一氧化二氮是一种麻醉性气体，如果吸入，会导致玩家昏迷。它能够被用作 {THING:ItemJetpackBasic} 的推进剂。</Value>
     </Record>
     <Record>
       <Key>SettingsSmoothTerrain</Key>
@@ -11108,11 +11103,11 @@ Stationeers计划从土木工程从业人员、军事和航空航天工业、软
     </Record>
     <Record>
       <Key>SettingsVirtualizedRendering</Key>
-      <Value>虚拟化渲染</Value>
+      <Value>虚拟渲染</Value>
     </Record>
     <Record>
       <Key>SettingsStartLocalHost</Key>
-      <Value>主持游戏</Value>
+      <Value>本地主机</Value>
     </Record>
   </Interface>
   <Colors>
