@@ -5528,6 +5528,10 @@ Altamente sensible a la temperatura, el oxite comenzará a derretirse tan pronto
       <Key>StructurePassiveLargeRadiatorGas</Key>
       <Value/>
     </RecordThing>
+    <RecordThing>
+      <Key>StructureNitrolyzer</Key>
+      <Value>Estructura Relleno de botellas de agua</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>

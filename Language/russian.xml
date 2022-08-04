@@ -5451,6 +5451,10 @@
       <Key>StructurePassiveLargeRadiatorGas</Key>
       <Value/>
     </RecordThing>
+    <RecordThing>
+      <Key>StructureNitrolyzer</Key>
+      <Value>Разливочная Машина Воды</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>

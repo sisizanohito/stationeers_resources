@@ -5416,6 +5416,10 @@
       <Key>StructurePassiveLargeRadiatorGas</Key>
       <Value/>
     </RecordThing>
+    <RecordThing>
+      <Key>StructureNitrolyzer</Key>
+      <Value>Remplisseur de bouteille d’eau</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>

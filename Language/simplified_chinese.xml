@@ -5832,6 +5832,10 @@
       <Key>StructureLogicGate</Key>
       <Value>逻辑门</Value>
     </RecordThing>
+    <RecordThing>
+      <Key>StructureNitrolyzer</Key>
+      <Value>结构水瓶填料</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>
