@@ -9382,11 +9382,11 @@
     </Record>
     <Record>
       <Key>SettingsThingRenderDistance</Key>
-      <Value>渲染距离</Value>
+      <Value>物体渲染距离</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderEnergy</Key>
-      <Value>电量</Value>
+      <Value>能量</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderTemperature</Key>
@@ -9394,7 +9394,7 @@
     </Record>
     <Record>
       <Key>ElectronicReaderPressure</Key>
-      <Value>压力</Value>
+      <Value>压强</Value>
     </Record>
     <Record>
       <Key>NetworkAnalyserNetwork</Key>
@@ -9402,23 +9402,23 @@
     </Record>
     <Record>
       <Key>NetworkAnalyserActual</Key>
-      <Value>实际值</Value>
+      <Value>实际功率</Value>
     </Record>
     <Record>
       <Key>NetworkAnalyserPotential</Key>
-      <Value>可用量</Value>
+      <Value>潜在功率</Value>
     </Record>
     <Record>
       <Key>NetworkAnalyserDevices</Key>
-      <Value>设备数</Value>
+      <Value>设备</Value>
     </Record>
     <Record>
       <Key>NetworkAnalyserRequired</Key>
-      <Value>需求量</Value>
+      <Value>需用功率</Value>
     </Record>
     <Record>
       <Key>NetworkAnalyserTitle</Key>
-      <Value>电网分析卡</Value>
+      <Value>网络分析仪</Value>
     </Record>
     <Record>
       <Key>CartridgeElectronicReaderTitle</Key>
@@ -9430,7 +9430,7 @@
     </Record>
     <Record>
       <Key>ScenariosTitle</Key>
-      <Value>场景</Value>
+      <Value>情境模拟</Value>
     </Record>
     <Record>
       <Key>ScenariosObjectiveTitle</Key>
@@ -9450,11 +9450,11 @@
     </Record>
     <Record>
       <Key>ResetInventoryTitle</Key>
-      <Value>重置窗口</Value>
+      <Value>重置库存窗口</Value>
     </Record>
     <Record>
       <Key>ResetInventoryDescription</Key>
-      <Value>这将重置所有未贴附的库存界面窗口。</Value>
+      <Value>这将重置所有未吸附的库存窗口。</Value>
     </Record>
     <Record>
       <Key>ConfirmReset</Key>
@@ -9462,67 +9462,67 @@
     </Record>
     <Record>
       <Key>Construction Supplies 1</Key>
-      <Value>建造物资 1</Value>
+      <Value>建材补给 1</Value>
     </Record>
     <Record>
       <Key>Construction Supplies 2</Key>
-      <Value>建造物资 2</Value>
+      <Value>建材补给 2</Value>
     </Record>
     <Record>
       <Key>Organic Supplies</Key>
-      <Value>有机物资</Value>
+      <Value>有机物补给</Value>
     </Record>
     <Record>
       <Key>Organic Supplies 1</Key>
-      <Value>有机物资 1</Value>
+      <Value>有机物补给 1</Value>
     </Record>
     <Record>
       <Key>Organic Supplies 2</Key>
-      <Value>有机物资 2</Value>
+      <Value>有机物补给 2</Value>
     </Record>
     <Record>
       <Key>Consumables Supplies</Key>
-      <Value>消耗性物资</Value>
+      <Value>消耗品补给</Value>
     </Record>
     <Record>
       <Key>Portable Appliance Kits</Key>
-      <Value>便携式小型设备套件</Value>
+      <Value>便携式电器设备套件包</Value>
     </Record>
     <Record>
       <Key>Misc Crate</Key>
-      <Value>杂物箱</Value>
+      <Value>杂物储物箱</Value>
     </Record>
     <Record>
       <Key>Communications Crate</Key>
-      <Value>通信箱</Value>
+      <Value>通信储物箱</Value>
     </Record>
     <Record>
       <Key>SettingsTerrainClutterMultiplier</Key>
-      <Value>地形崎岖系数</Value>
+      <Value>地形崎岖倍数</Value>
     </Record>
     <Record>
       <Key>ActivateResearch</Key>
-      <Value>开始研究程序。</Value>
+      <Value>开始研究流程。</Value>
     </Record>
     <Record>
       <Key>ManualGetResearchPodsRequired</Key>
-      <Value>设置 Pod 类型以在分解 Pod 时搜索某个 Pod。</Value>
+      <Value>设置科研胶囊类型，从而在分解科研胶囊时搜索特定的科研胶囊。</Value>
     </Record>
     <Record>
       <Key>CurrentResearchPodType</Key>
-      <Value>返回存储在机器中的pod类型。</Value>
+      <Value>返回机器中存储的科研胶囊的类型。</Value>
     </Record>
     <Record>
       <Key>MineablesInVicinity</Key>
-      <Value>返回 AIMEe 周围扩展区域内的潜在可开采量。</Value>
+      <Value>返回AIMeE机器人周围扩展区域内潜在的矿产资源总量。</Value>
     </Record>
     <Record>
       <Key>MineablesInQueue</Key>
-      <Value>返回 AIMEe 排队到矿井的可开采量。</Value>
+      <Value>返回已加入AIMeE机器人开采队列的矿产资源总量。</Value>
     </Record>
     <Record>
       <Key>NextWeatherEventTime</Key>
-      <Value>当下一个天气事件入站时，以秒为单位返回。</Value>
+      <Value>以秒为单位返回下一个天气事件到达的时间。</Value>
     </Record>
     <Record>
       <Key>ResearchFilter</Key>
@@ -9530,7 +9530,7 @@
     </Record>
     <Record>
       <Key>ResearchTitle</Key>
-      <Value>研究</Value>
+      <Value>搜索</Value>
     </Record>
     <Record>
       <Key>ResearchConfirm</Key>
@@ -9542,27 +9542,31 @@
     </Record>
     <Record>
       <Key>ServerReadyString</Key>
-      <Value>现在可以启动服务器。</Value>
+      <Value>服务器现在可以启动。</Value>
     </Record>
     <Record>
       <Key>ScriptCommandL</Key>
-      <Value>加载设备 var 的值到寄存器 r 中。</Value>
+      <Value>将设备 d 的变量 var 值载入给寄存器 r 。</Value>
     </Record>
     <Record>
       <Key>ScriptCommandLB</Key>
-      <Value>使用提供批处理模式从所有输出网络设备加载 var，并提供类型哈希。平均值 （0）、总和 （1）、最小值 （2）、最大值 （3）。可以使用单词或数字。</Value>
+      <Value>用指定的批处理模式 batchMode 从指定类型 type（Hash值）的所有输出网络设备中将变量 var 载入给寄存器 r 。批处理模式：Average (0), Sum (1), Minimum (2), Maximum (3)。既可以使用单词，也可以使用数字。
+Average：求平均
+Sum：求和
+Minimum：求最小值
+Maximum：求最大值</Value>
     </Record>
     <Record>
       <Key>ScriptCommandS</Key>
-      <Value>将寄存器 r 的值写入到设备 var</Value>
+      <Value>将寄存器 r 的值存储给设备 d 上的变量 var 。</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSB</Key>
-      <Value>使用提供的类型哈希在所有输出网络设备上存储寄存器值到 var。</Value>
+      <Value>将寄存器 r 的值存储给指定类型 type（Hash值）的所有输出网络设备上的变量 var 。</Value>
     </Record>
     <Record>
       <Key>ScriptCommandLS</Key>
-      <Value>将设备d上的插槽数据载入进寄存器r</Value>
+      <Value>将设备 d 上的插槽变量 var 载入给寄存器 r 。</Value>
     </Record>
     <Record>
       <Key>ScriptCommandLR</Key>

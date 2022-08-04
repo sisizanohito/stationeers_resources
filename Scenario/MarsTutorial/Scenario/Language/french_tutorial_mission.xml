@@ -95,6 +95,10 @@ Les emplacements pour votre personnage sont visibles à gauche de l&apos;écran.
       <Value>Le {THING:ItemSpacepack} nécessite un propulseur afin d&apos;utiliser les jets, nous allons utiliser cette bouteille d&apos;azote là-bas.</Value>
     </Record>
     <Record>
+      <Key>TutorialGasItUpTask</Key>
+      <Value>Placez la {THING:ItemGasCanisterNitrogen} dans l&apos;emplacement à propergol du propulseur.</Value>
+    </Record>
+    <Record>
       <Key>TutorialFeelingHotHotHotTitle</Key>
       <Value>Se sentir chaud chaud chaud</Value>
     </Record>
@@ -587,6 +591,10 @@ Les emplacements pour votre personnage sont visibles à gauche de l&apos;écran.
       <Value>Bon travail, maintenant il semble que votre AirTank soit vide ? Il se passe quelque chose de louche ici.</Value>
     </Record>
     <Record>
+      <Key>TutorialStatusUpdates1Task1</Key>
+      <Value>Remplacer le réservoir d&apos;air</Value>
+    </Record>
+    <Record>
       <Key>TutorialStatusUpdates2Description</Key>
       <Value>Ce filtre est usagé, ajoutez un nouveau à votre combinaison, il peut en contenir jusqu&apos;à trois !</Value>
     </Record>
@@ -621,6 +629,14 @@ Les emplacements pour votre personnage sont visibles à gauche de l&apos;écran.
     <Record>
       <Key>TutorialWaterYaThinkAboutThatTitle</Key>
       <Value>De l&apos;eau, tu penses à ça ?</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWaterYaThinkAboutThatDescription</Key>
+      <Value>Remplaçons cette {THING:ItemGasCanisterWater} vide par une jolie bouteille fraîche.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWaterYaThinkAboutThatTask1</Key>
+      <Value>Ajoutez la {THING:ItemGasCanisterWater} pleine au {THING:DynamicHydroponics}</Value>
     </Record>
     <Record>
       <Key>TutorialLetItGrowTitle</Key>
