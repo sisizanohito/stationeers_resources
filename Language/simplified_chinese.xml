@@ -6550,11 +6550,11 @@
     </Record>
     <Record>
       <Key>ProgrammableChip</Key>
-      <Value>可编程芯片</Value>
+      <Value>可编程芯片（IC芯片）</Value>
     </Record>
     <Record>
       <Key>Motherboard</Key>
-      <Value>主板</Value>
+      <Value>电脑主板</Value>
     </Record>
   </Interactables>
   <Interface>
@@ -6576,7 +6576,7 @@
     </Record>
     <Record>
       <Key>SoonTM</Key>
-      <Value>即将推出。。。</Value>
+      <Value>即将到来...</Value>
     </Record>
     <Record>
       <Key>MainMenuContinue</Key>
@@ -6584,7 +6584,7 @@
     </Record>
     <Record>
       <Key>KitCategory</Key>
-      <Value>施工套件</Value>
+      <Value>施工套件包</Value>
     </Record>
     <Record>
       <Key>DoorCategory</Key>
@@ -6596,11 +6596,11 @@
     </Record>
     <Record>
       <Key>PersonalSuits</Key>
-      <Value>宇航服</Value>
+      <Value>航天服</Value>
     </Record>
     <Record>
       <Key>BatteryCategory</Key>
-      <Value>电力存储</Value>
+      <Value>电力储存</Value>
     </Record>
     <Record>
       <Key>CableCategory</Key>
@@ -6616,7 +6616,7 @@
     </Record>
     <Record>
       <Key>FoodCategory</Key>
-      <Value>消耗性物资</Value>
+      <Value>消耗品</Value>
     </Record>
     <Record>
       <Key>WallFloorCategory</Key>
@@ -6652,11 +6652,11 @@
     </Record>
     <Record>
       <Key>FrozenOreHeader</Key>
-      <Value>冷冻矿石</Value>
+      <Value>冰矿石</Value>
     </Record>
     <Record>
       <Key>CartridgeCategory</Key>
-      <Value>记忆卡</Value>
+      <Value>芯片</Value>
     </Record>
     <Record>
       <Key>PersonalHelmets</Key>
@@ -6664,11 +6664,11 @@
     </Record>
     <Record>
       <Key>PersonalToolbelt</Key>
-      <Value>工具带</Value>
+      <Value>工具腰带</Value>
     </Record>
     <Record>
       <Key>Other</Key>
-      <Value>其他</Value>
+      <Value>其它</Value>
     </Record>
     <Record>
       <Key>PowerTool</Key>
