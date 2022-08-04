@@ -8654,99 +8654,99 @@
     </Record>
     <Record>
       <Key>LogicTypePositionX</Key>
-      <Value>世界坐标 X 轴的当前位置</Value>
+      <Value>当前位置的X坐标</Value>
     </Record>
     <Record>
       <Key>LogicTypePositionY</Key>
-      <Value>世界坐标 Y 轴的当前位置</Value>
+      <Value>当前位置的Y坐标</Value>
     </Record>
     <Record>
       <Key>LogicTypePositionZ</Key>
-      <Value>世界坐标 z 轴的当前位置</Value>
+      <Value>当前位置的Z坐标</Value>
     </Record>
     <Record>
       <Key>LogicTypeVelocityMagnitude</Key>
-      <Value>速度矢量的电流大小</Value>
+      <Value>速度矢量的当前量级</Value>
     </Record>
     <Record>
       <Key>LogicTypeVelocityRelativeX</Key>
-      <Value>相对于正向矢量的电流速度 z</Value>
+      <Value>相对于X轴正向矢量的速度</Value>
     </Record>
     <Record>
       <Key>LogicTypeVelocityRelativeY</Key>
-      <Value>相对于正向矢量的电流速度 z</Value>
+      <Value>相对于Y轴正向矢量的速度</Value>
     </Record>
     <Record>
       <Key>LogicTypeVelocityRelativeZ</Key>
-      <Value>相对于正向矢量的电流速度 z</Value>
+      <Value>相对于Z轴正向矢量的速度</Value>
     </Record>
     <Record>
       <Key>LogicTypePrefabHash</Key>
-      <Value>结构的哈希</Value>
+      <Value>此结构件的Hash值</Value>
     </Record>
     <Record>
       <Key>LogicTypeForceWrite</Key>
-      <Value>强制逻辑写入设备重写值</Value>
+      <Value>强制Logic写入设备重写值</Value>
     </Record>
     <Record>
       <Key>LogicTypeSignalStrength</Key>
-      <Value>返回来自此卫星的最强的信号的强度</Value>
+      <Value>返回从该卫星接收到的最强信号的强度</Value>
     </Record>
     <Record>
       <Key>LogicTypeSignalID</Key>
-      <Value>返回来自此卫星的信号最强的联系人ID</Value>
+      <Value>返回从该卫星接收到的信号最强的联系人ID</Value>
     </Record>
     <Record>
       <Key>LogicSlotTypeNone</Key>
-      <Value>无说明</Value>
+      <Value>无描述</Value>
     </Record>
     <Record>
       <Key>LogicSlotTypeOccupied</Key>
-      <Value>当插槽未占用返回0，插槽被占用返回1</Value>
+      <Value>当插槽未被占用时返回 0 ，当插槽被占用时返回 1</Value>
     </Record>
     <Record>
       <Key>LogicSlotTypeOccupantHash</Key>
-      <Value>返回当前物品的哈希，是物品的唯一识别代码</Value>
+      <Value>返回当前占用插槽的物品的Hash值，即该物品的唯一标识符</Value>
     </Record>
     <Record>
       <Key>LogicSlotTypeQuantity</Key>
-      <Value>返回插槽中物料的当前数量 (如堆栈大小)</Value>
+      <Value>返回插槽中物品的当前数量，例如堆栈大小</Value>
     </Record>
     <Record>
       <Key>LogicSlotTypeDamage</Key>
-      <Value>返回插槽中的项目损坏状态</Value>
+      <Value>返回插槽中的物品的损坏情况</Value>
     </Record>
     <Record>
       <Key>LogicSlotTypeEfficiency</Key>
-      <Value>返回水槽中植物的生长效率</Value>
+      <Value>返回插槽中植物的生长效率</Value>
     </Record>
     <Record>
       <Key>LogicSlotTypeMature</Key>
-      <Value>如果此插槽中的植物成熟则返回1，否则返回0</Value>
+      <Value>如果此插槽中的植物已成熟，则返回 1 ，否则返回 0</Value>
     </Record>
     <Record>
       <Key>LogicSlotTypeHealth</Key>
-      <Value>返回插槽中的植物的运行状况</Value>
+      <Value>返回插槽中的植物的健康状况</Value>
     </Record>
     <Record>
       <Key>LogicSlotTypeGrowth</Key>
-      <Value>返回插槽中工厂的当前生长状态</Value>
+      <Value>返回插槽中植物的当前生长状态</Value>
     </Record>
     <Record>
       <Key>LogicSlotTypePressure</Key>
-      <Value>返回插槽乘员内部大气的压力</Value>
+      <Value>返回插槽占用者的内部大气的气压</Value>
     </Record>
     <Record>
       <Key>LogicSlotTypeTemperature</Key>
-      <Value>返回插槽乘员内部大气的温度</Value>
+      <Value>返回插槽占用者的内部大气的温度</Value>
     </Record>
     <Record>
       <Key>LogicSlotTypeCharge</Key>
-      <Value>返回电流能量充电插槽乘员持有的</Value>
+      <Value>返回插槽占用者的当前能量负荷</Value>
     </Record>
     <Record>
       <Key>LogicSlotTypeChargeRatio</Key>
-      <Value>返回电流能量充电插槽乘员持有的比率在0和1之间的最大</Value>
+      <Value>以比率形式返回插槽占用者的当前能量负荷，相对于其最大值，在 0 到 1 之间</Value>
     </Record>
     <Record>
       <Key>LogicSlotTypeClass</Key>
