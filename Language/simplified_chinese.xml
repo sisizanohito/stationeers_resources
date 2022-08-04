@@ -1643,31 +1643,31 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureConveyorStraight</Key>
-      <Value>输送带(直线)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureConveyorStraightLong</Key>
-      <Value>输送带(直线长)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureConveyorStraightShort</Key>
       <Value>传送带（直道）</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureConveyorStraightLong</Key>
+      <Value>传送带（长直道）</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureConveyorStraightShort</Key>
+      <Value>传送带（短直道）</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureCryoTube</Key>
-      <Value>冷冻舱</Value>
+      <Value>低温休眠舱</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureDaylightSensor</Key>
-      <Value>阳光传感器</Value>
+      <Value>日光传感器</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureDigitalValve</Key>
-      <Value>数控阀门</Value>
+      <Value>数码阀门</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureFabricator</Key>
-      <Value>装配机</Value>
+      <Value>制造机</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureFiltration</Key>
@@ -1675,7 +1675,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureFlashingLight</Key>
-      <Value>闪烁灯</Value>
+      <Value>闪光灯</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureFrame</Key>
@@ -1683,11 +1683,11 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureFrameCorner</Key>
-      <Value>钢框架(拐角)</Value>
+      <Value>钢框架（拐角）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureFrameSide</Key>
-      <Value>钢框架(侧面)</Value>
+      <Value>钢框架（斜面）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureFurnace</Key>
@@ -1703,7 +1703,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureGasTankStorage</Key>
-      <Value>气罐填充器</Value>
+      <Value>储气瓶装填器</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidTankStorage</Key>
