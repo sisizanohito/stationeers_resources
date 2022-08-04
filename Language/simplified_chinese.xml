@@ -10923,15 +10923,15 @@ Stationeers计划从土木工程从业人员、军事和航空航天工业、软
     </Record>
     <Record>
       <Key>StationpediaModeHeader</Key>
-      <Value>游戏模式</Value>
+      <Value>模式</Value>
     </Record>
     <Record>
       <Key>StationpediaLogicHeader</Key>
-      <Value>逻辑</Value>
+      <Value>Logic设备变量</Value>
     </Record>
     <Record>
       <Key>StationpediaLogicSlotHeader</Key>
-      <Value>逻辑插槽</Value>
+      <Value>Logic插槽变量</Value>
     </Record>
     <Record>
       <Key>StationpediaTutorialListHeader</Key>
@@ -10939,7 +10939,7 @@ Stationeers计划从土木工程从业人员、军事和航空航天工业、软
     </Record>
     <Record>
       <Key>StationpediaNoResults</Key>
-      <Value>未找到任何结果...</Value>
+      <Value>未找到结果...</Value>
     </Record>
     <Record>
       <Key>HydrationSPDAKey</Key>
@@ -10947,7 +10947,7 @@ Stationeers计划从土木工程从业人员、军事和航空航天工业、软
     </Record>
     <Record>
       <Key>EvaSPDAKey</Key>
-      <Value>舱外活动</Value>
+      <Value>舱外活动（EVA）</Value>
     </Record>
     <Record>
       <Key>NutritionSPDAKey</Key>
@@ -10955,19 +10955,19 @@ Stationeers计划从土木工程从业人员、军事和航空航天工业、软
     </Record>
     <Record>
       <Key>StatusIconHydrationDesc</Key>
-      <Value>水分正在下降</Value>
+      <Value>水分即将耗尽</Value>
     </Record>
     <Record>
       <Key>StatusIconHydrationKey</Key>
-      <Value>水分低</Value>
+      <Value>水分含量低</Value>
     </Record>
     <Record>
       <Key>HydrationCaution</Key>
-      <Value>水分下降</Value>
+      <Value>警告：水分含量低</Value>
     </Record>
     <Record>
       <Key>HydrationCritical</Key>
-      <Value>水分极低</Value>
+      <Value>严重警告：水分含量极低</Value>
     </Record>
     <Record>
       <Key>Guides</Key>
@@ -10975,11 +10975,11 @@ Stationeers计划从土木工程从业人员、军事和航空航天工业、软
     </Record>
     <Record>
       <Key>Lore</Key>
-      <Value>博学</Value>
+      <Value>知识</Value>
     </Record>
     <Record>
       <Key>SettingsLightShadowDistance</Key>
-      <Value>阴影距离</Value>
+      <Value>光影距离</Value>
     </Record>
     <Record>
       <Key>CrowbarToFlip</Key>
@@ -10987,7 +10987,7 @@ Stationeers计划从土木工程从业人员、军事和航空航天工业、软
     </Record>
     <Record>
       <Key>TimerPanel</Key>
-      <Value>定时器</Value>
+      <Value>计时器</Value>
     </Record>
     <Record>
       <Key>LogicTypeTime</Key>
@@ -10995,19 +10995,19 @@ Stationeers计划从土木工程从业人员、军事和航空航天工业、软
     </Record>
     <Record>
       <Key>LogicTypeBpm</Key>
-      <Value>BPM</Value>
+      <Value>每分钟节拍数（BPM）</Value>
     </Record>
     <Record>
       <Key>LogicTypeEnvironmentEfficiency</Key>
-      <Value>机器报告的环境效率，介于作为 0 到 1 之间</Value>
+      <Value>机器报告的环境效率，为 0 和 1 之间的浮点值</Value>
     </Record>
     <Record>
       <Key>LogicTypeWorkingGasEfficiency</Key>
-      <Value>机器报告的工作气体效率，介于0到1之间</Value>
+      <Value>机器报告的工作气体效率，为 0 和 1 之间的浮点值</Value>
     </Record>
     <Record>
       <Key>Pitch</Key>
-      <Value>投</Value>
+      <Value>音高</Value>
     </Record>
     <Record>
       <Key>Volume</Key>
@@ -11031,7 +11031,7 @@ Stationeers计划从土木工程从业人员、军事和航空航天工业、软
     </Record>
     <Record>
       <Key>CurrentInstrument</Key>
-      <Value>当前设备</Value>
+      <Value>当前仪表</Value>
     </Record>
     <Record>
       <Key>NoSoundCartridge</Key>
@@ -11039,7 +11039,7 @@ Stationeers计划从土木工程从业人员、军事和航空航天工业、软
     </Record>
     <Record>
       <Key>NoNote</Key>
-      <Value>无备注</Value>
+      <Value>无注释</Value>
     </Record>
     <Record>
       <Key>Intensity</Key>
@@ -11048,10 +11048,6 @@ Stationeers计划从土木工程从业人员、军事和航空航天工业、软
     <Record>
       <Key>Waveform</Key>
       <Value>波形</Value>
-    </Record>
-    <Record>
-      <Key>StationpediaBasePowerUsage</Key>
-      <Value>基本功耗：</Value>
     </Record>
     <Record>
       <Key>StationpediaMaxPressure</Key>
