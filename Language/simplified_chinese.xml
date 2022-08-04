@@ -8590,67 +8590,67 @@
     </Record>
     <Record>
       <Key>LogicTypeRequestHash</Key>
-      <Value>当设置为唯一标识符时, 从设备请求一个该类型的物品</Value>
+      <Value>当被设置为唯一标识符时，从设备请求一个所提供的类型的物品</Value>
     </Record>
     <Record>
       <Key>LogicTypeCompletionRatio</Key>
-      <Value>此设备当前生产的完成程度, 在0和1之间</Value>
+      <Value>此设备的当前生产完成进度，值介于 0 和 1 之间</Value>
     </Record>
     <Record>
       <Key>LogicTypeClearMemory</Key>
-      <Value>设置为 1时, 清除计数器内存 ExportCount。将在激活时将自身设置回0</Value>
+      <Value>当被设置为 1 时，清除计数器记忆（例如ExportCount）。当行动完成后将会将自己设置回 0</Value>
     </Record>
     <Record>
       <Key>LogicTypeExportCount</Key>
-      <Value>导出之前的ClearMemory数量</Value>
+      <Value>自从上次ClearMemory以来输出的物品数量</Value>
     </Record>
     <Record>
       <Key>LogicTypeImportCount</Key>
-      <Value>自上次 clearmemory 之后导入的项目数</Value>
+      <Value>自从上次ClearMemory以来输入的物品数量</Value>
     </Record>
     <Record>
       <Key>LogicTypePowerGeneration</Key>
-      <Value>返回发电的功率</Value>
+      <Value>返回当前发电功率</Value>
     </Record>
     <Record>
       <Key>LogicTypeTotalMoles</Key>
-      <Value>返回设备的总摩尔数量</Value>
+      <Value>返回设备的总mol数</Value>
     </Record>
     <Record>
       <Key>LogicTypeVolume</Key>
-      <Value>返回设备的空气容量</Value>
+      <Value>返回设备的气体体积容量</Value>
     </Record>
     <Record>
       <Key>LogicTypePlant</Key>
-      <Value>对任何以植物为基础的机械执行种植操作</Value>
+      <Value>对任何基于植物的机器执行种植动作</Value>
     </Record>
     <Record>
       <Key>LogicTypeHarvest</Key>
-      <Value>对任何基于设备的机械执行收获操作</Value>
+      <Value>对任何基于植物的机器执行收获动作</Value>
     </Record>
     <Record>
       <Key>LogicTypeOutput</Key>
-      <Value>排序处理设备 (如堆垛机或分拣器) 的输出操作, 在逻辑模式下, 当设置为零或更高的设备时, 该设备将只执行一次重复操作, 然后返回到-1 并等待进一步的指示</Value>
+      <Value>控制分拣处理设备（如堆垛机或分拣机）的输出，在Logic模式下，当被设置为 0 或更高的值时，设备将只会重复一次动作，然后值回到 -1 并等待进一步指示</Value>
     </Record>
     <Record>
       <Key>LogicTypePressureSetting</Key>
-      <Value>对象内部压力的当前设置 (例如, 宇航服内的空气释放), 单位为kpa </Value>
+      <Value>对象内部气压的当前设置（例如强化型舱外航天服的放气阀（Air）），单位为kPa</Value>
     </Record>
     <Record>
       <Key>LogicTypeTemperatureSetting</Key>
-      <Value>对象内部温度的当前设置 (例如, 宇航服 A/C)</Value>
+      <Value>对象内部温度的当前设置（例如强化型舱外航天服的温度控制（A/C））</Value>
     </Record>
     <Record>
       <Key>LogicTypeTemperatureExternal</Key>
-      <Value>设备外部的温度, 通常是指它周围的环境空气温度</Value>
+      <Value>设备外部的温度，通常是指其周围的大气温度</Value>
     </Record>
     <Record>
       <Key>LogicTypeFiltration</Key>
-      <Value>过滤系统的当前状态，例如对于宇航服 = 1将过滤设置为On</Value>
+      <Value>过滤系统的当前状态，例如，对于过滤系统（Filter）设置为“开”的强化型舱外航天服，Filtration = 1</Value>
     </Record>
     <Record>
       <Key>LogicTypeAirRelease</Key>
-      <Value>空气释放系统的当前状态, 例如空气释放 = 1 为一套硬具设置空气释放设置为</Value>
+      <Value>放气系统的当前状态，例如，对于放气阀（Air）设置为“开”的强化型舱外航天服，AirRelease = 1</Value>
     </Record>
     <Record>
       <Key>LogicTypePositionX</Key>
@@ -8782,7 +8782,7 @@
     </Record>
     <Record>
       <Key>LogicTypeRequestHash</Key>
-      <Value>当设置为唯一标识符时, 从设备请求一个该类型的物品</Value>
+      <Value>当被设置为唯一标识符时，从设备请求一个所提供的类型的物品</Value>
     </Record>
     <Record>
       <Key>LogicSlotTypePrefabHash</Key>
