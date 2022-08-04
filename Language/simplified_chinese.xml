@@ -1487,23 +1487,23 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureAirlock</Key>
-      <Value>气闸门</Value>
+      <Value>气闸</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureAreaPowerControl</Key>
-      <Value>区域电源控制器</Value>
+      <Value>区域电力控制器</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureAreaPowerControlReversed</Key>
-      <Value>区域电源控制器</Value>
+      <Value>区域电力控制器</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureBackPressureRegulator</Key>
-      <Value>背压调节器</Value>
+      <Value>背压调节阀</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureBattery</Key>
-      <Value>电池站</Value>
+      <Value>蓄电池</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureBatteryCharger</Key>
@@ -1511,7 +1511,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureBench</Key>
-      <Value>通电工作台</Value>
+      <Value>可通电工作台</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureBlastDoor</Key>
@@ -1519,31 +1519,31 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureCableCorner</Key>
-      <Value>电缆(拐角)</Value>
+      <Value>电缆（拐角）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableCorner3</Key>
-      <Value>电缆(3叉)</Value>
+      <Value>电缆（三向拐角）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunction</Key>
-      <Value>电缆(交叉)</Value>
+      <Value>电缆（三向枢纽）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunction4</Key>
-      <Value>电缆(4叉)</Value>
+      <Value>电缆（四向枢纽）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunction6</Key>
-      <Value>电缆(6叉)</Value>
+      <Value>电缆（六向枢纽）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableStraight</Key>
-      <Value>电缆(直线)</Value>
+      <Value>电缆（直）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCamera</Key>
-      <Value>摄像机</Value>
+      <Value>摄像头</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCentrifuge</Key>
@@ -1551,23 +1551,23 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureChair</Key>
-      <Value>椅子</Value>
+      <Value>椅</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureChuteBin</Key>
-      <Value>滑槽箱</Value>
+      <Value>滑槽仓</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureChuteCorner</Key>
-      <Value>滑槽(拐角)</Value>
+      <Value>滑槽（拐角）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureChuteInlet</Key>
-      <Value>滑槽入口</Value>
+      <Value>滑槽进口</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureChuteJunction</Key>
-      <Value>滑槽(交叉)</Value>
+      <Value>滑槽（枢纽）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureChuteOutlet</Key>
@@ -1575,15 +1575,15 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureChuteStraight</Key>
-      <Value>滑槽(直线)</Value>
+      <Value>滑槽（直）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeDoor</Key>
-      <Value>复合门</Value>
+      <Value>复合材料门</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeFloorGrating</Key>
-      <Value>复合地板格栅</Value>
+      <Value>栅状复合材料地板</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeWall</Key>
