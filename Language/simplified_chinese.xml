@@ -1147,43 +1147,43 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSleeper</Key>
-      <Value>套件（睡眠舱）</Value>
+      <Value>套件包（睡眠舱）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSolarPanel</Key>
-      <Value>套件（太阳能电池板）</Value>
+      <Value>套件包（太阳能电池板）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitStairs</Key>
-      <Value>套件（楼梯）</Value>
+      <Value>套件包（楼梯）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitStellarAnchor</Key>
-      <Value>套件（恒星锚）</Value>
+      <Value>套件包（星锚）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitStorage</Key>
-      <Value>(套件)储藏柜</Value>
+      <Value>套件包（航天服收纳架）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitTank</Key>
-      <Value>套件（罐子）</Value>
+      <Value>套件包（储气罐）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitTorpedoTube</Key>
-      <Value>套件（鱼雷发射器）</Value>
+      <Value>套件包（鱼雷发射管）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitTurret</Key>
-      <Value>套件（炮塔）</Value>
+      <Value>套件包（炮台）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitWall</Key>
-      <Value>套件（墙面）</Value>
+      <Value>套件包（墙体）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemLabeller</Key>
-      <Value>标签机</Value>
+      <Value>贴标机</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemLightSword</Key>
@@ -1191,75 +1191,75 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemMilk</Key>
-      <Value>牛奶</Value>
+      <Value>Milk 牛奶</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemMiningBelt</Key>
-      <Value>采矿带</Value>
+      <Value>采矿腰带</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemMiningDrill</Key>
-      <Value>采矿钻头</Value>
+      <Value>采矿钻机</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemMuffin</Key>
-      <Value>松饼</Value>
+      <Value>玛芬蛋糕</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemPassiveVent</Key>
-      <Value>套件（被动通风口）</Value>
+      <Value>套件包（被动式通风口）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemPickaxe</Key>
-      <Value>镐头</Value>
+      <Value>镐</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemPillHeal</Key>
-      <Value>药片(医疗)</Value>
+      <Value>药片（治疗）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemPillStun</Key>
-      <Value>药片(麻痹)</Value>
+      <Value>药丸（麻痹）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemPipeAnalyizer</Key>
-      <Value>套件（管道分析仪）</Value>
+      <Value>套件包（管道分析仪）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemPipeCorner</Key>
-      <Value>套件（转角管）</Value>
+      <Value>套件包（管道拐角）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemPipeCrossJunction</Key>
-      <Value>套件（十字管）</Value>
+      <Value>套件包（管道十字枢纽）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemPipeCrossJunction3</Key>
-      <Value>套件（3叉管）</Value>
+      <Value>套件包（管道三向枢纽）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemPipeCrossJunction5</Key>
-      <Value>套件（5叉管）</Value>
+      <Value>套件包（管道五向枢纽）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemPipeCrossJunction6</Key>
-      <Value>套件（ 6 叉管）</Value>
+      <Value>套件包（管道六向枢纽）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemPipeDigitalValve</Key>
-      <Value>套件（数控阀门）</Value>
+      <Value>套件包（管道数码阀门）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemPipeGasMixer</Key>
-      <Value>套件（气体混配器）</Value>
+      <Value>套件包（气体混合器）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemPipeLabel</Key>
-      <Value>套件（管道标签）</Value>
+      <Value>套件包（管道标签贴）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemPipeMeter</Key>
-      <Value>套件（管道表）</Value>
+      <Value>套件包（管道压力表）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemPipeRadiator</Key>
