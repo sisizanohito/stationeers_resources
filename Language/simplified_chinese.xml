@@ -975,15 +975,15 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemGasCanisterFuel</Key>
-      <Value>储气瓶(燃料)</Value>
+      <Value>储气瓶（燃料）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasCanisterVolatiles</Key>
-      <Value>储气瓶(挥发性有机物)</Value>
+      <Value>储气瓶（挥发性气体）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasCanisterNitrogen</Key>
-      <Value>储气瓶(氮)</Value>
+      <Value>储气瓶（氮气）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasCanisterOxygen</Key>
@@ -999,19 +999,19 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterCarbonDioxide</Key>
-      <Value>滤芯(二氧化碳)</Value>
+      <Value>普通滤芯（二氧化碳）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterPollutants</Key>
-      <Value>滤芯(污染物)</Value>
+      <Value>普通滤芯（污染性气体）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterNitrogen</Key>
-      <Value>滤芯(氮)</Value>
+      <Value>普通滤芯（氮气）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterOxygen</Key>
-      <Value>滤芯(氧)</Value>
+      <Value>普通滤芯（氧气）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterVolatiles</Key>
