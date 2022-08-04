@@ -7232,15 +7232,15 @@
     </Record>
     <Record>
       <Key>SaveLocationBroken</Key>
-      <Value>无法访问存档位置。您是否使用了非法字符？请尝试在设置中修改保存路径。</Value>
+      <Value>无法访问存档位置，你是否使用了非法字符？请尝试在设置中更改保存路径。</Value>
     </Record>
     <Record>
       <Key>PlayerIsConnecting</Key>
-      <Value>玩家连接中。。。</Value>
+      <Value>玩家正在连接</Value>
     </Record>
     <Record>
       <Key>GamePaused</Key>
-      <Value>游戏已暂停</Value>
+      <Value>游戏暂停</Value>
     </Record>
     <Record>
       <Key>AlertButtonClose</Key>
@@ -7252,7 +7252,7 @@
     </Record>
     <Record>
       <Key>ServerSettingsButtonReset</Key>
-      <Value>重新设置</Value>
+      <Value>重置设置</Value>
     </Record>
     <Record>
       <Key>ButtonConfirm</Key>
@@ -7267,10 +7267,6 @@
       <Value>重命名</Value>
     </Record>
     <Record>
-      <Key>ButtonOk</Key>
-      <Value>好滴</Value>
-    </Record>
-    <Record>
       <Key>InputPassword</Key>
       <Value>密码</Value>
     </Record>
@@ -7280,15 +7276,15 @@
     </Record>
     <Record>
       <Key>ButtonBan</Key>
-      <Value>请出房间</Value>
+      <Value>列入黑名单</Value>
     </Record>
     <Record>
       <Key>ButtoConfirmExitAsServer</Key>
-      <Value>您确定要退出游戏而不保存吗？任何未保存的进度将会丢失.</Value>
+      <Value>你确定要在未保存的情况下退出游戏吗？任何未保存的进度都将丢失。</Value>
     </Record>
     <Record>
       <Key>DialogConfirmNoticeUnsaved</Key>
-      <Value>您确定要离开连接而不保存吗？任何未保存的进度将会丢失.</Value>
+      <Value>你确定要在未保存的情况下离开会话吗？任何未保存的进度都将丢失。</Value>
     </Record>
     <Record>
       <Key>ButtonExit</Key>
@@ -7300,11 +7296,11 @@
     </Record>
     <Record>
       <Key>DialogConfirmNoticeClientLeaving</Key>
-      <Value>您确定要离开连线吗？</Value>
+      <Value>你确定要离开会话吗？</Value>
     </Record>
     <Record>
       <Key>SettingsPopupChat</Key>
-      <Value>弹出聊天</Value>
+      <Value>弹出聊天窗</Value>
     </Record>
     <Record>
       <Key>SettingsDisplayPortrait</Key>
@@ -7336,7 +7332,7 @@
     </Record>
     <Record>
       <Key>SettingsServerMaxPlayers</Key>
-      <Value>玩家数量上限</Value>
+      <Value>最大玩家数量</Value>
     </Record>
     <Record>
       <Key>SettingsTitleMultiplayer</Key>
@@ -7356,7 +7352,7 @@
     </Record>
     <Record>
       <Key>TutorialFirstTimePlaying</Key>
-      <Value>第一次玩?</Value>
+      <Value>第一次玩？</Value>
     </Record>
     <Record>
       <Key>TutorialGetStarted</Key>
