@@ -8249,15 +8249,15 @@
     </Record>
     <Record>
       <Key>ButtonLibrary</Key>
-      <Value>IC目录</Value>
+      <Value>源代码库</Value>
     </Record>
     <Record>
       <Key>SettingsMenuAdvanced</Key>
-      <Value>高级图像设置</Value>
+      <Value>高级</Value>
     </Record>
     <Record>
       <Key>SettingsLegacyInventory</Key>
-      <Value>旧的库存控制</Value>
+      <Value>旧版库存控制</Value>
     </Record>
     <Record>
       <Key>SettingsDisableWaterVisualizer</Key>
@@ -8265,11 +8265,11 @@
     </Record>
     <Record>
       <Key>SettingsInterface</Key>
-      <Value>接口</Value>
+      <Value>界面</Value>
     </Record>
     <Record>
       <Key>SettingsUPNPEnabled</Key>
-      <Value>启用UPNP</Value>
+      <Value>启用通用即插即用（UPnP）协议</Value>
     </Record>
     <Record>
       <Key>SettingsEnableClouds</Key>
@@ -8280,20 +8280,16 @@
       <Value>启用云</Value>
     </Record>
     <Record>
-      <Key>InvalidDegrees</Key>
-      <Value>真空</Value>
-    </Record>
-    <Record>
       <Key>SettingsSoundFX</Key>
-      <Value>声音效果</Value>
+      <Value>音效</Value>
     </Record>
     <Record>
       <Key>WarningControlConflict</Key>
-      <Value>控制冲突</Value>
+      <Value>按键冲突</Value>
     </Record>
     <Record>
       <Key>WarningControlConflictDescription</Key>
-      <Value>请访问控制分配窗口并清除冲突</Value>
+      <Value>请访问按键分配窗口并清除按键冲突</Value>
     </Record>
     <Record>
       <Key>NewWorldGameMode</Key>
@@ -8309,7 +8305,7 @@
     </Record>
     <Record>
       <Key>NewWorldPressure</Key>
-      <Value>压力</Value>
+      <Value>气压</Value>
     </Record>
     <Record>
       <Key>NewWorldSolarEnergy</Key>
@@ -8317,7 +8313,7 @@
     </Record>
     <Record>
       <Key>NewWorldSolarAngle</Key>
-      <Value>太阳角度</Value>
+      <Value>太阳高度角</Value>
     </Record>
     <Record>
       <Key>SettingsMenuAppearance</Key>
@@ -8329,23 +8325,23 @@
     </Record>
     <Record>
       <Key>LogicTypeNone</Key>
-      <Value>无说明</Value>
+      <Value>没有说明</Value>
     </Record>
     <Record>
       <Key>LogicTypePower</Key>
-      <Value>如果设备正确供电或未通电, 则可读取返回, 通过电源系统设置, 如果通电, 则返回 1; 如果未, 则返回0</Value>
+      <Value>被读取时能够返回设备是否正确通电的值，通过电力系统设置，如果已通电则返回 1 ，如果未通电则返回 0</Value>
     </Record>
     <Record>
       <Key>LogicTypeOpen</Key>
-      <Value>如果设备处于打开状态, 则为 1, 否则为0</Value>
+      <Value>当设备处于打开状态时，则返回 1 ，否则返回 0</Value>
     </Record>
     <Record>
       <Key>LogicTypeMode</Key>
-      <Value>对于模式状态的整数, 不同的设备将有不同的模式状态可供他们使用</Value>
+      <Value>模式状态的整数数值，不同的设备有不同的可供使用的模式状态</Value>
     </Record>
     <Record>
       <Key>LogicTypeError</Key>
-      <Value>如果设备处于错误状态, 则为 1, 否则为0</Value>
+      <Value>当设备处于错误状态时，则返回 1 ，否则返回 0</Value>
     </Record>
     <Record>
       <Key>LogicTypeLock</Key>
