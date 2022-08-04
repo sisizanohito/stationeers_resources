@@ -10082,7 +10082,7 @@ acos：返回余弦为指定值 a 的角度（弧度制）</Value>
     </Record>
     <Record>
       <Key>ResearchMilitary</Key>
-      <Value>军事</Value>
+      <Value>军用</Value>
     </Record>
     <Record>
       <Key>ResearchProduction</Key>
@@ -10098,15 +10098,11 @@ acos：返回余弦为指定值 a 的角度（弧度制）</Value>
     </Record>
     <Record>
       <Key>ResearchOrganics</Key>
-      <Value>有机体</Value>
+      <Value>有机物</Value>
     </Record>
     <Record>
       <Key>ResearchConstruction</Key>
-      <Value>建筑</Value>
-    </Record>
-    <Record>
-      <Key>ResearchLogic</Key>
-      <Value>逻辑电路</Value>
+      <Value>建造</Value>
     </Record>
     <Record>
       <Key>ResearchVehicles</Key>
@@ -10114,23 +10110,23 @@ acos：返回余弦为指定值 a 的角度（弧度制）</Value>
     </Record>
     <Record>
       <Key>ResearchShowLocked</Key>
-      <Value>显示锁定研究</Value>
+      <Value>显示锁定的项目</Value>
     </Record>
     <Record>
       <Key>ResearchCantAfford</Key>
-      <Value>你不能解锁该项研究。</Value>
+      <Value>你无法解锁该科研项目。</Value>
     </Record>
     <Record>
       <Key>ResearchRequirementNotMet</Key>
-      <Value>未满足解锁研究的要求。</Value>
+      <Value>你不符合解锁该科研项目的要求。</Value>
     </Record>
     <Record>
       <Key>ResearchUnlockConfirm</Key>
-      <Value>你想解锁这项研究项目吗？</Value>
+      <Value>你要解锁该科研项目吗？</Value>
     </Record>
     <Record>
       <Key>WarningSavePathNotWritableDescription</Key>
-      <Value>无法写入保存路径。已重置为默认值</Value>
+      <Value>无法写入至保存路径。保存路径已重置为默认值</Value>
     </Record>
     <Record>
       <Key>WarningSavePathNotWritable</Key>
@@ -10138,19 +10134,19 @@ acos：返回余弦为指定值 a 的角度（弧度制）</Value>
     </Record>
     <Record>
       <Key>FramerateLock</Key>
-      <Value>帧数上限 </Value>
+      <Value>帧率上限</Value>
     </Record>
     <Record>
       <Key>SaveBeforeTravel</Key>
-      <Value>在前往另一颗星球之前， 你需要保存您的游戏！ </Value>
+      <Value>在前往另一个世界之前，你需要保存你的游戏！</Value>
     </Record>
     <Record>
       <Key>LaunchRocketAlert</Key>
-      <Value>你想发射这枚火箭吗</Value>
+      <Value>你要发射这枚火箭吗</Value>
     </Record>
     <Record>
       <Key>StatusWindowVitals</Key>
-      <Value>体征</Value>
+      <Value>生命体征</Value>
     </Record>
     <Record>
       <Key>StatusWindowJetpack</Key>
@@ -10166,7 +10162,7 @@ acos：返回余弦为指定值 a 的角度（弧度制）</Value>
     </Record>
     <Record>
       <Key>LockedKey</Key>
-      <Value>锁定</Value>
+      <Value>已锁定</Value>
     </Record>
     <Record>
       <Key>TutorialScoreboardHeading</Key>
@@ -10178,15 +10174,15 @@ acos：返回余弦为指定值 a 的角度（弧度制）</Value>
     </Record>
     <Record>
       <Key>ScenarioSelectKey</Key>
-      <Value>场景选择</Value>
+      <Value>情境模拟选择</Value>
     </Record>
     <Record>
       <Key>TankPressure</Key>
-      <Value>罐内压力</Value>
+      <Value>储罐压强</Value>
     </Record>
     <Record>
       <Key>CrowbarToOpen</Key>
-      <Value>使用 {THING:ItemCrowbar} 来打开</Value>
+      <Value>使用一根 {THING:ItemCrowbar} 以打开</Value>
     </Record>
     <Record>
       <Key>Display</Key>
@@ -10202,7 +10198,7 @@ acos：返回余弦为指定值 a 的角度（弧度制）</Value>
     </Record>
     <Record>
       <Key>Unconscious</Key>
-      <Value>无意识</Value>
+      <Value>昏迷</Value>
     </Record>
     <Record>
       <Key>Contents</Key>
