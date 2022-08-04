@@ -16,212 +16,214 @@
     <StationpediaPage>
       <Key>FabricatorPage</Key>
       <Title>制造机器</Title>
-      <Text>这些是需要通电来加工制造你需要的物品的设备。 他们通常用{LINK:IngotPage;锭块}来提供制造东西所需的{LINK:ReagentPage;化学原料}
+      <Text>这些是可以用来制造你在游戏中所需物品的由电力驱动的结构件。它们通常需要消耗 {LINK:IngotPage;锭} 作为它们制造物品的 {LINK:ReagentPage;化学原料} 。
         {LIST_OF_FABRICATORS}
-      
       </Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>DevicePage</Key>
       <Title>设备</Title>
-      <Text>这些是结构,一般来说要对其供电才能用, 有各种专门的功能包括逻辑电路, 大气控制等等. 它们的建造方式与其他结构相同。
+      <Text>这些是结构件，通常需要电力驱动，它们具有一些专业功能，包括Logic运算，大气控制等。它们的建造方式与其它结构件相同。
         {LIST_OF_DEVICES}
       </Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>ImportExportPage</Key>
       <Title>进口/出口和滑槽</Title>
-      <Text>这些是自带动力的结构，能够接收和输出其他物品。大多数都有专业功能，包括{LINK:LogicUnitPage;logic}，{LINK:AtmosphericPage;atmospherics}等。它们的构造方式与其他结构相同。
-        {LIST_OF_IMPORTEXPORT}      </Text>
+      <Text>这些是结构件，通常需要电力驱动，能够接收或输出其它物品，或者为此提供帮助。它们大多数都有专业功能，包括 {LINK:LogicUnitPage;Logic运算} ， {LINK:AtmosphericPage;大气控制} 等。它们的建造方式与其它结构件相同。
+        {LIST_OF_IMPORTEXPORT}
+      </Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>SmeltingPage</Key>
-      <Title>冶炼</Title>
-      <Text>一旦你有了{LINK:OrePage;ore}，你需要把它变成{LINK:IngotPage;ingots}，这样你就可以使用这种{LINK:ReagentPage;reagents} 熔炼通常会产生 {LINK:GasPage;gases}. 这种情况不仅仅会发生在 {THING:StructureArcFurnace} (简单配方) 和用于制造复杂{LINK:AlloyPage;Alloys}的 {THING:StructureAdvancedFurnace} , 甚至在用于制造非常复杂的{LINK:SuperAlloyPage;Superalloys} 的{THING:StructureAdvancedFurnace} 也会出现 . 要制造这些复杂的合金, 你需要按完美的比例混合原料, 同时{LINK:TemperaturePage;Temperature}, 和{LINK:PressurePage;Pressure} 也要适合。 
+      <Title>熔炼</Title>
+      <Text>一旦你拥有了 {LINK:OrePage;矿石} ，你需要将它们转变为 {LINK:IngotPage;锭} ，这样你就可以使用它们的 {LINK:ReagentPage;化学原料} 。熔炼通常会产生 {LINK:GasPage;气体} 。熔炼可以在 {THING:StructureArcFurnace} 中进行（使用简单配方），或者在 {THING:StructureFurnace} 中进行以打造更加复杂的 {LINK:AlloyPage;合金} ，也可以在 {THING:StructureAdvancedFurnace} 中进行以打造十分复杂的 {LINK:SuperAlloyPage;超级合金} 。为了打造复杂的合金，你将需要将混合物调配成准确的比例，在适当的 {LINK:TemperaturePage;温度} 和 {LINK:PressurePage;压强} 下进行熔炼。 
       </Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>MiningPage</Key>
       <Title>采矿</Title>
-      <Text>你可以用{THING:ItemMiningDrill} 来挖掘 {LINK:OrePage;矿石}. 如果你身上装备了 {THING:ItemMiningBelt} 那么你所开采的 {LINK:OrePage;矿石} 将会被自动收集进去。
+      <Text>你可以用一台 {THING:ItemMiningDrill} 来开采 {LINK:OrePage;矿石} 。如果你装备了一条 {THING:ItemMiningBelt} ，你开采的 {LINK:OrePage;矿石} 将会自动被收集进去。
       </Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>TradingPage</Key>
-      <Title>贸易</Title>
+      <Title>交易</Title>
       <DisplayFilter>Guides</DisplayFilter>
-      <Text>交易是空间站长在更极端的世界中求生的关键，特别对于新成员来说在没有帮助的情况下生存是很困难的。
+      <Text>交易是一位 {LINK:Stationeers;Stationeer} 的生活中必不可少的一部分，尤其在环境更加极端的世界中，新学员可能会在没有援助的情况下首先面临生存挑战。
 
-{HEADER:Getting started}
+{HEADER:新手入门}
 
-要联系交易者，您需要建立一个通信系统。这需要满足以下条件：
+要联系一位贸易商，你需要建立一个通信系统。这需要以下几点：
 
-- 一个强大的{THING:StructureVendingMachine}来存储和交易物品。
-- 一个操作性的{THING:StructureSatelliteDish}来定位和识别潜在的交易者。
-- 一个工作{THING:StructureComputer}，运行一个{THING:MotherboardComms}。
-- 一个强大的{THING:StructureShuttleLandingPad}，供交易者降落。
+- 一台已供电的 {THING:StructureVendingMachine} 用来储存和交易物品。
+- 一架可使用的 {THING:StructureSatelliteDish} 用来定位并识别潜在的贸易商。
+- 一台装有一块 {THING:MotherboardComms} 的工作中的 {THING:StructureComputer} 用来运行。
+- 一个已供电的 {THING:StructureShuttleLandingPad} 用来让贸易商着陆。
 
-当您的系统启动并运行时，您将在计算机终端上看到一个空屏幕。调整卫星天线的位置，直到它注册一个或多个交易者。这些将出现在屏幕上，评级为1-100%。这是你的信号强度。只有当信号强度高于95%时，才能召唤交易者。一旦联系到交易者，它将随后提供一个名称。不同的交易者提供不同类别的物品。
+当你的系统启动并运行时，你将会在计算机终端上看到一片空屏幕。调整卫星天线的位置，直到它显示一个或多个贸易商。他们将以1-100%的等级出现在屏幕上。这是你的信号强度。一位贸易商只能在信号强度高于95%时被召唤。一旦一位贸易商能够被联系上，他将会在屏幕上显示一个名称。不同的贸易商提供不同类别的商品。
 
-{HEADER:Traders}
+{HEADER:贸易商}
 
-电子科技树电子
-有机物
-基本的斯佩斯商场基础知识
-液压液压套件
-矿山矿石
-微波微器皿
-化学实验室
-异国情调的外太空科技
-颜料公司
-工具公司
-保安大厅公司保安
-其他科德什锦
-天然气贸易
-定制斯佩斯商场      </Text>
+电子设备           TechTree Electronics
+有机物               Organicon
+基础设施           Spes&apos;mall Basics
+水利设施           HydrauliKit
+矿石                   MineRiteOres
+微波制品           Microwares
+化学品               ChemLab
+外星科技           ExoTech
+颜料                   Color Corp Paints
+工具                   Tool Corp
+安保设施           Hall Corp Security
+其它商品           Kolders&apos; Assorted Goods
+气体                   GasTrade
+客制化               Spes&apos;mall
+
+{HEADER:译者特别提醒}
+在交易终端界面中，会出现汉字显示为“口口口口”的错误，但是不用担心，点击可交易物品左侧的“i”按钮即可查看其详细信息。
+      </Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>ConstructionPage</Key>
-      <Title>搭建</Title>
+      <Title>建造</Title>
       <DisplayFilter>Guides</DisplayFilter>
-      <Text>{HEADER:Getting Started}
-通常，您可以使用{LINK:KitPage;kits}来开始初始化蓝图，然后使用各种{LINK:ToolPage;tools}和{LINK:ResourcePage;resources}来完成建造。 请密切注意需要多少套件来构造所选设备，因为某些设备需要使用多个数量的资源。 对于某些套件，您将有多种选择来建造想要的类型，使用{COLORRED:Scroll Wheel}来切换当前的类型。
+      <Text>{HEADER:新手入门}
+通常你将使用 {LINK:KitPage;套件包} 开始建造，然后使用各种 {LINK:ToolPage;工具} 和 {LINK:ResourcePage;资源} 完成建造。请密切关注建造你所选择的结构件需要多少套件包，因为一些结构件需要消耗多于一个的套件包。对于一些套件包，你将拥有多个建造选项，使用 {COLORRED:鼠标滚轮} 变更你期待建造的结构件的当前建造选项。
 
-{HEADER:Build States}
-某些结构将有多个建造状态，需要多次建造才能完成。 工具提示会告诉你需要什么材料和工具能完成建造。有时，您需要同时拥有两个物品，每只手一个，才能完成当前建造状态。有些工具需要先打开开关，可以按{KEY:ToggleHandPower}打开。
+{HEADER:建造状态}
+一些结构件将拥有多个建造状态，它们需要不同的工具和材料的组合以完成建造。你的工具提示将会为你提供你需要何种组合以完成结构件建造的建议。有时你将需要拥有两件物品，一手各拿一件，以完成一个建造状态。一些工具需要事先开启，当这些工具拿在你手中时，可以通过按 {KEY:ToggleHandPower} 以开启。
 
-{HEADER:Tooltips}
-如果你直接移向一个不完整的结构，你得到要完成建造该结构的材料和工具需求的提示。如果你使用的是错误的{LINK:ToolPage;tool}，将会出现一个提示，告诉你需要使用什么来拆卸它。
+{HEADER:工具提示}
+如果你径直地看向一个不完整的结构件，你将会得到完成建造所需物品的信息。如果你的手中持有一个 {LINK:ToolPage;工具} 但是它不是正确的 {LINK:ToolPage;工具} ，一条工具提示将会出现，告诉你你将需要用什么来拆除此结构件。
+
+{HEADER:压强}
+在建造时，需要留意的是，压强是以两侧差值的大小来测量的。大多数结构件所能承受的压强上限是200kPa：如果内侧和外侧之间的压强差值大于它，你就有麻烦了。
       </Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>ReagentPage</Key>
       <Title>化学原料</Title>
-      <Text>某些类型化学原料量.
+      <Text>这些是某些种类的化学原料。
       {LIST_OF_REAGENTS}
       </Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>MusicPage</Key>
-      <Title>制作音乐</Title>
+      <Title>编曲</Title>
       <DisplayFilter>Guides</DisplayFilter>
-      <Text>发展署不批准配乐或其他娱乐。
-因此，空间站长不得不创造自己的音乐伴奏，以应对建造和维护外海基础设施的艰巨劳动。
-这个过去时间的核心是步进音序器，它允许表演者对短音乐模式或循环进行排序。
+      <Text>{LINK:ODA;ODA} 不赞成配乐或其它娱乐活动。
+因此， {LINK:Stationeers;Stationeer} 们不得不创作他们自己的音乐伴奏以满足建造和维护外太空基础设施的费力劳动。
+这种消遣方式的核心是步进音序器，有了它，Stationeer们就能够对简短的音乐样式或循环进行排序。
 
-{HEADER:DIY MUSIC - GETTING STARTED}
+{HEADER:DIY音乐 - 新手入门}
 
-1：通过左侧的数据端口将 8 个 {THING:DeviceStepUnit}连接到步进序列器。
+1：通过左侧的数据端口将8个 {THING:DeviceStepUnit} 连接到你的步进音序器上。
 
-2：标记每个步骤单元，然后使用螺旋潜水器在步骤排序器上分配步骤单元1到8。
+2：用贴标机标明每个步进单元，然后使用螺丝刀在步进音序器上指派步进单元1至8。
 
-3：选择输出扬声器（例如{THING:PassiveSpeaker}），音序器将播放声音。这需要连接到定序器右侧的逻辑网络。
+3：选择能够使步进音序器播放声音的扬声器（例如 {THING:PassiveSpeaker} ）。它需要被连接至步进音序器右侧的Logic网络中。
 
-4：放置一个{THING:StopWatch}，并使用{THING:StructureLogicReader}和{THING:StructureLogicWriter} 将时间写入排序器上的时间变量。
+4：放置一块 {THING:StopWatch} 并使用 {THING:StructureLogicReader} 和 {THING:StructureLogicWriter} 将时间写入步进音序器
+上的时间变量中。
 
-5：使用{THING:StructureLogicDial}和{THING:StructureLogicWriter}在音序器上设置 BPM，以写入音序器的 BPM 变量。较高的 bpm 将更快地播放序列。
+5：使用 {THING:StructureLogicDial} 和 {THING:StructureLogicWriter} 在步进音序器上设置BPM（每分钟节拍数），以写入步进音序器的BPM。BPM越高，播放音序的速度就越快。
 
-6：插入你选择的声卡，并通过按下位于声卡插槽上方和下方的箭头按钮来选择要播放的声音类型。
+6：插入你选择的一张声卡，然后通过按下位于声卡插槽上方和下方的箭头按钮选择你想要播放的声音的变体。
 
-7：通过将8个步进单元中每个单元上的拨盘设置为所需的音符来选择要播放的声音的音高。对于鼓，每个音符都是不同的鼓声。您可以通过按下每个步进单元上的激活按钮（音序器处于非活动状态）来试用声音。
+7：通过设置每个步进单元上的调节旋钮为你想要的音符，以选择你想要播放的声音的音高（Pitch）和音量（Volume）。例如对于鼓而言，每一个音符都对应一种不同的鼓声。你可以通过按下每个步进单元上的激活按钮（当步进音序器处于未激活状态时）以试听你的声音。
 
-8：对{THING:DeviceLfoVolume}感到怪异。
+8：为 {THING:DeviceLfoVolume} 感到痴狂。
 
-9：最后，激活音序器，颤抖吧。      </Text>
+9：最后，激活你的步进音序器，Vibeoneer。
+      </Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>TemperatureControlPage</Key>
       <Title>温度控制</Title>
       <DisplayFilter>Guides</DisplayFilter>
-      <Text>为了控制一个系统的温度，我们要么给它加热从而提高它的温度，要么从中放热从而冷却它，这是温度控制的基本思想。为您实现此目标的设备有{THING:ItemWallHeater}、{THING:ItemWallCooler}、{THING:StructurePipeRadiator}和{THING:StructureAirConditioner}。
+      <Text>为了控制一个系统的温度，我们要么给它加热，这样它的温度就会升高，或者将热量排出，从而使其冷却，这是温度控制的基本思想。能够让你完成这个目标的设备有 {THING:ItemWallHeater} ， {THING:ItemWallCooler} ， {THING:StructurePipeRadiator} 以及 {THING:StructureAirConditioner} 。
 
-注：有许多温度控制方法。有些不涉及上述设备。在这里，我们将介绍基本知识。
+注：温度控制有许多种方法。有些方法不涉及到上述设备。在这里，我们将介绍基本知识。
 
-在安装任何类型的温度控制之前，了解您的环境是很重要的。选择温度控制方法时，气体或液体体积是一个重要因素。一个{THING:StructureTankSmall}可以容纳6000L，而一个{THING:StructureTankBig}可以存储50000L，这意味着如果两者都满了，小油箱对温度变化的反应会更快。房间是一个可以容纳一定量气体的空间。它越大，它所能容纳的体积就越大，因此同样的规则通常适用于储罐和房间。
+在安装任何类型的温度控制设备之前，了解你所处的环境非常重要。在选择温度控制的方法时，气体或液体的体积是一个重要因素。一个 {THING:StructureTankSmall} 最高可容纳6,000L，而一个 {THING:StructureTankBig} 最高可容纳50,000L，这意味着如果两者都已满，小型储罐将会对温度的变化反应更快。一个房间是一个可以容纳一定量气体的空间。这个空间越大，它所能容纳的体积就越大，这样的规则通常适用于储罐和房间。
 
-{HEADER:PIPE NETWORKS}
-管网是一个或多个相互连接的管段，在任何点上都没有分离。无论管网有多大，它在管道沿线的任何地方都共享相同的大气。如果改变管网一端的温度或压力，最远端将立即经历相同的变化。
+{HEADER:管道网络}
+一个管道网络是由一段或多段相互连接的管段组成的，这些管段在任何一点上都不应分开。一个管道网络沿着管道各处共享相同的大气环境，无论它有多大。如果你改变管道网络某一端的温度或者压强，最远的另一端也将立即经历相同的变化，没有延迟。
 
-向网络中添加设备可能会将其分为两个不同的网络。例如，将{THING:StructureVolumePump}添加到管网中会将网络拆分为两个网络：一个在泵之前，另一个在它之后。
+在一个管道网络中增添设备可以将其拆分为两个不同的管道网络。例如，将一台 {THING:StructureVolumePump} 安装到一个管道网络中将会将这个管道网络拆分为两个不同的管道网络：一个在泵之前，另一个在泵之后。
 
-使用安装了{THING:CartridgeAtmosAnalyser}的{THING:ItemTablet}查看有关任何管网内容的信息。
+使用安装有 {THING:CartridgeAtmosAnalyser} 的 {THING:ItemTablet} 以查看有关任何管道网络的内容物的信息。
 
-{HEADER:RADIATORS}
+{HEADER:散热器}
+一台在弯管机中制造的 {THING:StructurePipeRadiator} 将帮助你在管道及其周围环境之间进行热交换。它们既适用于隔热管道和普通管道，同时也适用于液体管道和隔热液体管道。
 
-在管道液压机中制造的{THING:StructurePipeRadiator}将帮助您在管道及其周围环境之间交换热量。它们既适用于保温管道，也适用于水管。
+在正常情况下，一段管段将会与其周围的环境进行热交换，但在该管段上安装一台散热器将会大大加快该热交换的过程。一段管段将会持续与周围的大气环境进行热交换，直到两者温度相等。
 
-在正常情况下，管段将与其周围环境进行热量交换，但在该管段中添加散热器将大大加快该过程。管段将保持与周围大气的热交换，直到两者温度平衡。
+{HEADER:被动冷却}
+你可以使用一台 {THING:StructurePipeRadiator} 冷却或加热任何环境，从而在在两个大气环境之间进行热交换。这方面的一个例子是，在墙上放置一段管道，将其充满气体，然后在管道上安装散热器。现在，管道中和房间中的两个大气环境将会进行热交换，直到两者温度相等。
 
-{HEADER:PASSIVE COOLING}
+{HEADER:壁挂式加热器}
+{THING:ItemWallHeater} 是一台简单的设备，它可以被安装在一面墙或者一个框架上，并且接通电源。当开关开启时，它将会开始给周围的大气环境加热。它的耗电功率为1010W，并且当温度达到一定水平时，它能够在Logic芯片的控制下运行。
 
-您可以通过使用{THING:StructurePipeRadiator}在两个大气之间交换热量来冷却或加热任何环境。例如，在墙上放置一根管道，将其充满气体，然后在管道上放置散热器。现在，管道和房间的两个大气将交换温度，直到它们的环境平衡。
+{HEADER:壁挂式冷却器}
+{THING:ItemWallCooler} 与壁挂式加热器互补，壁挂式加热器只能升高温度。壁挂式冷却器的功能是从周围的大气环境中吸收热量，并将吸收的热量添加到与它相连的管道网络中。要想正确地运行壁挂式冷却器，你将需要把管道连接到壁挂式冷却器上，并用任何类型的气体填充连接上的管道网络。气体的热容和体积将会决定它对温度变化的反应快慢。
 
-{HEADER:WALL HEATER}
+管道中与房间内储存的气体温差越大，壁挂式冷却器的效率就越低。因此，要想让壁挂式冷却器以令人满意的效率运行，你将需要清除连接到壁挂式冷却器的管道中积聚的热量。一种常见的做法是，将管道铺设到房间外部，并在外部管段上使用散热器进行散热。
 
-{THING:ItemWallHeater}是一个简单的设备，可以安装在墙上或框架上并连接到电源。打开后，它将开始加热周围环境。它耗电1010W，可由逻辑芯片控制，在温度达到一定水平时运行。
+壁挂式冷却器的效率越低，它所消耗的电力就越少。在最大工作效率下，它的耗电功率为1010W。当温度达到一定程度时，壁挂式冷却器能够在Logic芯片的控制下运行。
 
-{HEADER:WALL COOLER}
+如果壁挂式冷却器在闪灯报错，那么说明它具有以下问题之一：
+- 缺少与壁挂式冷却器的管道连接。
+- 与之相连的管道中缺少气体，或者气体压强太低。
+- 周围环境中缺少大气，或者大气压强太低。
 
-{THING:ItemWallCooler}是对墙壁加热器的补充，它只能提高温度。壁冷器的功能是从周围大气中吸收热量，并将热量添加到其管网中。为了使壁冷器正常运行，需要将管道连接到壁冷器，并用任何类型的气体填充连接的管网。气体的热容和体积将决定其对温度变化的反应速度。
+{HEADER:空调机}
+{THING:StructureAirConditioner} 在它的基础形态下工作原理与壁挂式冷却器一样，你可以从与壁挂式冷却器相同的设计方案中获益。不过，它比壁挂式冷却器更加强大。它冷却的速度更快，并且取决于具体情况，它比壁挂式冷却器消耗多相当多的电力，因此它更适合处理大体积和大区域的情况。具体取决于设置，它可以进行加热或冷却工作。
 
-管道中储存的气体与房间之间的温差越大，壁冷器的效率越低。因此，为了使壁冷器保持在可接受的效率下运行，您需要清除与之相连的管道中积聚的热量。一种常见的做法是将管道铺设到外部，并在管道的外部部分使用散热器来散热。
+空调机：工作原理
+空调机有3个管道接口（输入，输出，废弃物）。气体通过输入端进入空调机，接着，取决于具体设置，空调机将会向进入的气体中添加或去除热量，并且向废弃物管道排出的气体施加相反的效果。然后，输出的气体将通过连接的输出管道排出，变得更冷或者更热取决于具体设置。
+你可以将输入管道连接到输出管道（如果它们拥有相同的网络编号，则你可以查看它们是否已连接）：这会让你更好地控制温度，因为气体在第一次通过后不会达到目标温度。从任何气体中去除或添加热量都需要消耗时间和能量。
 
-壁冷器效率越低，耗电越少。在最大效率下，它将消耗1010W。当温度达到一定程度时，壁冷器可以由逻辑芯片控制运行。
+你安装和设置空调机所采用的方式取决于你想要冷却或者加热的目标。对于一个房间来说，你将需要在房间内安装一台被动式通风口，连接到空调机的输入和输出端，与此同时废弃物管道必须装满一种气体冷却剂。
 
-如果壁冷器闪烁错误，则缺少以下内容之一：
--与壁冷却器的管道连接。
--连接管道中有气体，或压力过低。
--周围环境中的大气或压力过低。
+空调机并非一定要安装在房间内部。这套设施中唯一必须安装在房间内部的是被动式通风口，被动式通风口将会使房间内的大气循环流动通过空调机，从而被冷却或加热。
 
-{HEADER:AIR CONDITIONER}
+你在使用一台空调机时，既可以用它制热，也可以用它制冷。你仅需要改变空调机面板上的目标温度设置。但是，如果你想同时自动化地制冷和制热，你将需要两台空调机，一台用来制冷，另一台用来制热，因为空调机面板上的温度设置只能手动修改。
 
-基本形式的{THING:StructureAirConditioner}与壁式冷却器一样工作，可以从相同的设计中受益。然而，它更强大。它冷却速度更快，并根据情况使用更大的功率，因此更适合处理大容量和大面积。根据设置，它可以加热或冷却。
+如果你需要加快制热或制冷的速度，或者你需要使用一些空调机制热，并且使用另一些制冷，那么在同一个管道网络中安装多台空调机会是相当有帮助的。要实现此目的，你需要将这些空调机的输入端和输出端连接到一起，从而使这些空调机的输入端和输出端共享同一个管道网络。这些空调机的废弃物管道也可以共享，但是必须与输入端/输出端的管道网络分开。当使用空调机控制储罐温度时，同样的构思也适用。但是，此时你需要将储罐直接连接到空调机，而不是使用被动式通风口。
 
-空调：工作原理
-空调有3个管道连接（输入、输出、废物）。气体通过输入侧进入，然后根据设置，从输入气体中添加或去除热量，并添加到废水管中。然后，输出气体将通过输出连接、冷却器或加热器排出，具体取决于设置。
+空调机：牢记于心
+- 输入管道和废弃物管道之间的温差越大，空调机的耗电功率也越大。
+- 空调机的耗电功率可能会超过5kW，因此建议使用重型电缆为空调机供电。
+- 将废弃物管道安装在室外，并且使其与外部大气温度平衡，并不总是最佳选择：你放入废弃物管道的气体可以被应用于你基地中的其它地方。
 
-您可以将输入管道连接到输出管道（如果它们具有相同的网络号，则可以查看它们是否连接）：这将使您能够更好地控制温度，因为气体在第一次通过后不会达到目标温度。从任何气体中移除或添加热量都需要时间和精力。
-
-你安装和设置空调的方式取决于你想冷却或加热什么。对于房间，您需要在房间内安装一个被动通风口，连接到空调的输入和输出，而废水管必须充满冷却气体。
-
-空调不一定要在房间里。该设置中唯一必须在房间内的部分是被动通风孔，该通风孔将使房间的大气循环至空调进行冷却或加热。
-
-你可以用一台空调来加热和制冷。您只需要更改面板上的目标温度设置。但是，如果您想同时自动冷却和加热，则需要一台空调用于冷却，另一台用于加热，因为面板上的设置只能手动更改。
-
-如果您需要更快地运行，或者需要使用一些空调来供暖，而其他空调用于制冷，那么在同一管网上设置多个空调可能会很有用。通过将空调的输入和输出连接在一起，并使其输入和输出共享相同的管网来实现这一点。废水管网也可以在它们之间共享，但必须与输入/输出管网分开。当使用空调控制油箱温度时，同样的想法也适用。但是，您需要将油箱直接连接到空调，而不是使用被动通风口。
-
-空调：切记
--输入管和废气管之间的温差越大，空调将使用的功率越大
--空调消耗的功率可能超过5kW，因此建议使用重型电缆为空调供电。
--在室外运行废水管并使其与外部大气平衡并不总是最佳选择：你放在里面的气体可以应用于基地的其他地方。
-
-空调：基本温度控制
-有很多方法可以使用空调来控制基地的温度-这是实现这一目标的一种方法：
-第1步：在你的基地周围运行一个单一的管网，并在每个你希望受此设置控制的房间安装连接到此管道的被动通风口。这是“网络A”
-第2步：将“网络A”连接到空调的输入和输出。
-第3步：将废气管连接到不同的网络，并将其运行到外部。在此网络上安装散热器。
-
-这是基本设置。要实现自动化，您需要网络S上的管道分析仪，然后读取温度并相应地运行空调。
-
-祝你好运，学员！</Text>
+空调机：基地温度控制
+通过使用空调机，有很多方法可以控制你基地的温度 - 这是实现这个目标的一种方式：
+第1步：在你的基地四周安装一个单一的管道网络，并且在每间你希望由这套设施控制的房间内安装连接到该管道网络的被动式通风口。这是“网络A”。
+第2步：将“网络A”连接到一台空调机的输入端和输出端。
+第3步：将废弃物端连接到一个不同的管道网络，并且将其延伸到房间外部。在这个管道网络上安装散热器。
+这是基础的温度控制设施。要实现自动化，你需要在网络A上安装一台管道分析仪，然后读取温度数据并且由此运行你的空调机。
+祝你好运，学员！
+      </Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>GasPage</Key>
       <Title>气体</Title>
-      <Text>这些是某些化工气体。{LIST_OF_GASES}
+      <Text>这些是某些类型的化学气体。{LIST_OF_GASES}
       </Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>OrePage</Key>
       <Title>矿石</Title>
-      <Text>这些物品可以被{LINK:MiningPage;mined}通常也可以被{LINK:SmeltingPage;smelted}. 你可以用{THING:StructureRecycler}回收物品得到矿石混合物 然后通过{THING:StructureCentrifuge}分离出 {LINK:OrePage;ore}来进行{LINK:SmeltingPage;smelting}。
-        有些矿石暴露在阳光下或处在一定的热量环境中会融化并产生{LINK:GasPage;gases}. 比如 {THING:ItemIce} 融化产生{GAS:Water}和{GAS:Oxygen}。在你真的想让它们融化之前，小心不要让它们被阳光照射或是靠近热源。{LIST_OF_ORES}
+      <Text>这些是能被 {LINK:MiningPage;开采} 的物品，并且它们通常可以被 {LINK:SmeltingPage;熔炼} 。你也可以通过在 {THING:StructureRecycler} 中回收物品以获得混合矿石，然后使其通过 {THING:StructureCentrifuge} 将其分解为 {LINK:OrePage;矿石} 以供 {LINK:SmeltingPage;熔炼} 。
+        有些矿石暴露在阳光或高温下时会融化并且产生 {LINK:GasPage;气体} 。例如 {THING:ItemIce} 会融化成 {GAS:Water} 和 {GAS:Oxygen} 。注意不要让这些东西受热或阳光照射，除非你真的想让它们融化。{LIST_OF_ORES}
       </Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>IngotPage</Key>
       <Title>锭</Title>
-      <Text>这被用于{LINK:FabricatorPage;fabricators}的物品通常是通过{LINK:SmeltingPage;Smelting}{LINK:OrePage;ores}得到的.
+      <Text>这些物品通常由 {LINK:SmeltingPage;熔炼} {LINK:OrePage;矿石} 制成，在 {LINK:FabricatorPage;制造机器} 中使用。
 
 {LIST_OF_INGOTS}
       </Text>
@@ -229,7 +231,7 @@
     <StationpediaPage>
       <Key>ToolPage</Key>
       <Title>工具</Title>
-      <Text>这些物品放在在专门工具槽位中，用于{LINK:ConstructionPage;Construction}或是其他任务。
+      <Text>这些物品可以被放入专用工具槽中，它们被用于 {LINK:ConstructionPage;建造} 和其它任务。
 
 {LIST_OF_TOOLS}
       </Text>
@@ -237,99 +239,106 @@
     <StationpediaPage>
       <Key>ResourcePage</Key>
       <Title>资源</Title>
-      <Text>这些是在{LINK:ConstructionPage;建造}或其他任务要用到的物品.
+      <Text>这些物品会在 {LINK:ConstructionPage;建造} 和其它任务期间被消耗。
 {LIST_OF_RESOURCES}
       </Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>KitPage</Key>
-      <Title>套件</Title>
-      <Text>这些是在 {LINK:ConstructionPage;建造} 或是其他任务中要用到的物品。
+      <Title>套件包</Title>
+      <Text>这些物品会在 {LINK:ConstructionPage;建造} 和其它任务期间被消耗。
 {LIST_OF_KITS}
       </Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>AutomatedRocketPage</Key>
-      <Title>自动火箭模块（A.R.M.）</Title>
+      <Title>自动化火箭模块（A.R.M.）</Title>
       <DisplayFilter>Guides</DisplayFilter>
-      <Text>自动火箭是无人驾驶的车辆，可以被派往世界之外以检索一系列资源。火箭可以通过{LINK:LogicUnitPage;logic}或{LINK:LogicUnitPage;IC}或这些系统的混合物来控制。
+      <Text>自动化火箭是一种无人驾驶的运载工具，能够被派往世界各地收集一系列资源。火箭可以由 {LINK:LogicUnitPage;Logic单元} 或 {LINK:LogicUnitPage;集成电路（IC）} 或这些系统的结合体控制。
       
-一旦发射，自动火箭就会寻找具有可开采资源的行星或小行星，这取决于它们被建造成的模块。火箭可以被编程为挖掘所有可用的资源，然后移动到另一个星球，或者回家。它们的范围 - 因此它们可以收集的资源量 - 由其可用燃料决定。如果它们耗尽了燃料，它们将永远消失在虚空中。
+一旦发射升空，自动化火箭便会寻找具有可开采资源的行星或小行星，一切取决于建造它们所使用的模块。火箭可以被编程，从而被用于开采所有可获得的资源，接着移动到另一颗行星，或者返回。它们的活动范围 - 以及它们所能收集的资源量 - 取决于它们的可用燃料。如果它们的燃料耗尽，那么将永远迷失在茫茫太空中。
       
-{HEADER:MODULES}
-自动火箭系统由四个基本模块以及发动机和油箱组成：
 
-*自动化模块 - {THING:StructureModularRocketAutomation}是控制系统，将数据传递到各个模块。
+{HEADER:模块}
+自动化火箭系统由四个基本模块组成，外加一台发动机和燃料箱：
 
-*挖矿模块 - 这执行挖矿操作。目前这些是{THING:StructureRocketModuleMiningOre}，{THING:StructureModularRocketIceMining}，{THING:StructureRocketModuleMiningJunk}和{THING:StructureModularRocketGasMining}。
+* 自动化模块 - {THING:StructureModularRocketAutomation} 是控制系统，负责将数据传输给其它各个模块。
 
-耦合器 - 通过将材料从一个模块传递到另一个模块，将采矿模块连接到存储模块。具体来说，{THING:StructureModularRocketCouplingDown}将资源传递到其下方的存储模块。{THING:StructureModularRocketCouplingUp}将资源传递到其上方的存储模块。没有这个元素，火箭就不会收集资源。
+* 采掘模块 - 这些模块负责执行开采工作。目前它们有 {THING:StructureRocketModuleMiningOre} ， {THING:StructureModularRocketIceMining} ， {THING:StructureRocketModuleMiningJunk} 和 {THING:StructureModularRocketGasMining} 。
 
-*存储模块 - 该模块通过耦合器从采矿模块接收资源并存储它们，直到火箭返回。目前包括用于矿石的{THING:StructureRocketModuleSilo}和用于天然气的{THING:StructureModularRocketFueltank01}。存储模块可以连接到 {LINK:ImportExportPage;chute network}，但默认情况下处于关闭状态。使用{LINK:LogicUnitPage;logic}将其设置为“open”。
+* 耦合模块 - 这些模块通过将原料从一个模块传输到另一个模块，从而使采掘模块与存储模块相连。具体而言， {THING:StructureModularRocketCouplingDown} 将资源传输给它下方的存储模块。 {THING:StructureModularRocketCouplingUp} 将资源传输给它上方的存储模块。如果没有安装这种模块，火箭将无法收集资源。
 
-{HEADER:LAUNCH CONDITIONS}
-*电源 - 火箭的所有模块都必须供电。请注意，默认情况下，模块是“On”创建的，但可以使用 {LINK:LogicUnitPage;logic}连接关闭和打开。
+* 存储模块 - 这些模块通过耦合模块接受来自采掘模块的资源，并将其储存，直至火箭返回。目前它们包括用以储存矿石的 {THING:StructureRocketModuleSilo} 以及用以储存气体的 {THING:StructureModularRocketFueltank01} 。存储模块可以连接到一个 {LINK:ImportExportPage;滑槽网络} ，但在默认情况下是关闭状态。使用 {LINK:LogicUnitPage;Logic单元} 将其设置为“open”。
 
-燃料 - 火箭必须至少有一个燃料箱和足够的燃料起飞（至少500摩尔）。请注意，火箭还需要500摩尔才能着陆，并且在操作的行程阶段每刻消耗5摩尔。
 
-*结构 - 火箭必须正确组装（见上面的模块）
+{HEADER:发射条件}
+* 电力 - 火箭的所有模块都必须通电。请注意，在默认情况下模块在被创造时是“On”状态，但是可以通过与 {LINK:LogicUnitPage;Logic单元} 连接关闭和开启。
 
-*编程 - 火箭由{LINK:LogicUnitPage;IC system}控制（见下文）
+* 燃料 - 火箭必须至少有一个油箱和足够的燃料用于起飞（至少500mol）。请注意，火箭在着陆时也需要消耗500mol燃料，并且在行动的行进阶段每tick消耗5mol燃料。
 
-{HEADER:ROCKET MODES}
-火箭的模式通过设备的“激活”值进行设置。该模式决定了当前的行为：
+* 建造 - 火箭必须被正确组装（参见上方的模块版块）
 
-0：空闲（在底部）
-1：启动
-2： 旅行
-3： 到达
-4：在目标处空闲（准备激活挖矿模块）。
-5： 回家
-6：已退回
-7： 迷失
+* 程序设计 - 火箭由 {LINK:LogicUnitPage;集成电路（IC）系统} 控制（参见下文）
 
-{HEADER:UNIQUE ROCKET COMMANDS}
-*油箱中的燃料剩余 - 获取火箭油箱中剩余的燃料。
-*燃料返回成本 - 获取将火箭返回到当前世界的燃料成本。
-* 火箭模式 - 获取当前火箭模式值 （0-7）。
-*可收集的货物 - 根据当前火箭系统是否具有收集地球上资源的能力，返回0或1。      </Text>
+
+{HEADER:火箭模式}
+火箭的模式通过设备的“activate”值设置。火箭的模式确定了火箭目前的行为：
+
+0：闲置（在基地）
+1：发射中
+2：行进中
+3：已抵达
+4：在目的地闲置（准备激活采掘模块）
+5：返程中
+6：已返回
+7：迷失
+
+
+{HEADER:特有火箭指令}
+* FUEL IN TANK REMAINING - 获取火箭油箱中剩余的燃料量。
+* FUEL RETURN COST - 获取火箭返回当前世界所需的燃料量。
+* ROCKET MODE - 获取当前的RocketMode值（0-7）。
+* COLLECTABLE GOODS - 根据当前火箭系统是否有能力收集所在星球上的资源，返回值0或1。
+
+
+      </Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>FoodPage</Key>
       <Title>食物</Title>
-      <Text>这些物品能给你提供营养
+      <Text>这些是在被消耗后能够提供营养的物品。
         {LIST_OF_FOOD}
       </Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>ClothingPage</Key>
       <Title>服装</Title>
-      <Text>这些物品可以被穿戴.
+      <Text>这些是能够被实体穿戴在插槽中的物品。
 {LIST_OF_CLOTHING}
       </Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>AppliancePage</Key>
-      <Title>小型设备</Title>
-      <Text>这些物品可以安置在 工作桌 上. 你也必须把它们安在 工作桌 上，然后用扳手来固定住.
+      <Title>电器设备</Title>
+      <Text>这些是可以被安置在工作台上的物品。你必须将它们放置在工作台上，并且用扳手固定，从而将其安装在工作台上。
 {LIST_OF_APPLIANCES}
       </Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>TravelPage</Key>
-      <Title>前往其他星球</Title>
+      <Title>星际旅行</Title>
       <DisplayFilter>Guides</DisplayFilter>
-      <Text>等等!先别关我!发射时必须满足以下条件:
+      <Text>等等！先别关掉我！想要发射火箭，必须满足以下条件：
 
-- 完全建成的火箭:至少有3个核心模块
-- 充满燃料的{THING:StructureModularRocketFueltank01}。
-- 燃料混合比例正确{GAS:Volatiles}和{GAS:Oxygen}的2:1混合物。
-- 向{THING:StructureLaunchPad}提供电源
-- 所有玩家坐在{THING:StructureModularRocketCommand01}中
+- 完全建成的火箭：拥有至少3个核心模块
+- 燃料充足的 {THING:StructureModularRocketFueltank01}
+- 燃料混合比正确 - 将 {GAS:Volatiles} 和 {GAS:Oxygen} 以2:1的比例混合
+- 向 {THING:StructureLaunchPad} 供电
+- 所有玩家坐进 {THING:StructureModularRocketCommand01} 中
 
-下面是世界旅行的ID。你可以用它们来旅行到特定的星球，当与完成的{LINK:RocketShuttlePage;Rocket Shuttle}和{LINK:LogicUnitPage;Logic Units}相结合时。
+以下是星际旅行ID。当与一枚完整的 {LINK:RocketShuttlePage;火箭} 和 {LINK:LogicUnitPage;Logic单元} 配合使用时，你可以用它们前往特定的行星。
        
-只要用{THING:StructureLaunchPad}上的{THING:StructureLogicWriter}和{THING:StructureLogicMemory}将哈希值写入设置变量即可。注意：你可以点击哈希值，将其复制到剪贴板上。
+只需使用 {THING:StructureLogicWriter} 和 {THING:StructureLogicMemory} 将Hash值写入 {THING:StructureLaunchPad} 上的变量设置中。请注意：你可以点击一个Hash值将其复制到剪贴板中。
 {LIST}{WORLD_HASHES}{/LIST}
       </Text>
     </StationpediaPage>
@@ -339,48 +348,48 @@
       <DisplayFilter>Guides</DisplayFilter>
       <Text>{HEADER:模块化火箭货舱}
 
-{THING:StructureModularRocketCargo01} 有2排10格的格子存储物品. 你可以在你的火箭上安装多个货舱模块. 火箭总共最多支持发射7个模块.
+{THING:StructureModularRocketCargo01} 能够容纳两个十插槽的储物箱。你可以在你的火箭上安装多个货舱模块。火箭最多总共可以携带七个模块发射升空。
 
 {HEADER:模块化火箭指令舱}
 
-{THING:StructureModularRocketCommand01} 必须放置在火箭的最上面. 它能够显示和评估火箭的飞行准备情况. 当所有条件都满足后, 所有的玩家也都坐上此模块, 此时才可以点击控制台上的‘发射’(Launch)来发射火箭.
+{THING:StructureModularRocketCommand01} 必须被安装在火箭顶部。它将评估火箭的发射就绪情况。一旦所有发射条件都满足，且所有玩家都坐进指令舱模块中时，按下控制台上的“IGNITION”按钮，火箭就会发射升空。
 
-发射必须满足以下条件:
+发射火箭必须满足以下条件：
 
-燃料满载
+燃料充足
 燃料混合比正确
-所有玩家已就坐
-发射台已供电
-火箭建造完整
+所有玩家均已落座
+向发射平台供电
+完全建成的火箭
 
-{THING:StructureModularRocketCommand01} 控制台上能显示这些条件的当前状态. 它也不需要注入空气才能发射 - 你太空服里的空气就够了.
+{THING:StructureModularRocketCommand01} 的控制台会显示这些前提条件的当前完成状态。火箭发射前不需要向指令舱模块中充入空气 - 你的航天服中拥有足够的空气。
 
-{HEADER:模块化火箭引擎}
+{HEADER:模块化火箭发动机}
 
-{THING:StructureModularRocketEngine01} 最多推动七个模块 (包括自身).
+{THING:StructureModularRocketEngine01} 最多能够携带七个模块发射升空（包括它本身）。
 
 {HEADER:模块化火箭燃料箱}
 
-{THING:StructureModularRocketFueltank01} 中的 {GAS:Volatiles} 和 {GAS:Oxygen} 的燃料混合配比必须为2:1. 如果配置比例超过, 或者你放入的是其他的气体, {THING:StructureModularRocketCommand01} 控制台会显示 ‘Invalid(无效)’ 错误.
+{THING:StructureModularRocketFueltank01} 需要以2:1比例混合的 {GAS:Volatiles} 和 {GAS:Oxygen} 的混合气体。如果混合气体不符合这个比例，或者你将其它气体注入燃料箱中， {THING:StructureModularRocketCommand01} 的控制台将会显示“Invalid”报错。
 
           </Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>RocketShuttlePage</Key>
       <Title>火箭</Title>
-      <Text>这些是火箭模块，用于在星球之间移动。要建造火箭 {THING:StructureLaunchPad} 是最基本的东西。
+      <Text>这些是火箭模块，用于星际旅行。需要 {THING:StructureLaunchPad} 以建造一枚火箭。
 {HEADER:火箭模块列表}
 {LIST_OF_ROCKET_SHUTTLE}
       </Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>WeatherPage</Key>
-      <Title>天气</Title>
+      <Title>气象</Title>
       <DisplayFilter>Guides</DisplayFilter>
-      <Text>太阳系的行星并不像它们看起来那样平静。在任何有大气层的世界上停留7天后，不可捉摸的自然力量就会开始行动--用暴风雪、沙尘暴和火山事件来打击不小心的驻扎者。
-因此，官方发展援助建议新部署的空间站长在着陆后7天内建立一个密封的基地。
-任何在风暴中留在外面的动态物体——在火星、楼兰、火神或木卫二上——都有被吹到很远很远的危险，包括你的着陆器。
-同样地，要注意太阳能电池板是脆弱的，它们的玻璃可能会破碎，或者偶尔甚至会被一场足够猛烈的风暴摧毁。在风暴期间，它们的产量也会大幅减少。
+      <Text>太阳系中的行星并不像它们看上去那样平静。在任何一个有大气层的世界中生活了七天后，大自然难以捉摸的力量就会开始发挥作用 – 用暴风雪、沙尘暴和火山活动打击粗心大意的Stationeer。
+因此， {LINK:ODA;ODA} 建议新部署的Stationeer在着陆后的7天内建立一个密封的基地。
+在一场风暴中，任何留在室外的可移动物体 – 无论是在火星、楼兰、火神星还是在木卫二上 – 都有被吹到很远很远的地方的风险，包括你的着陆器。
+同样，谨记太阳能电池板是相当脆弱的，它们的玻璃可能会被打碎，有时甚至会被一场足够猛烈的风暴整个摧毁。在风暴期间，它们的电力输出也会急剧下降。
       </Text>
     </StationpediaPage>
     <!--
@@ -392,16 +401,17 @@
       <Key>ThingTemplate</Key>
       <Text>{0}
 
-{HEADER:常规}
-{LIST}预设哈希值 {POS:300}{1}
-Paintable {POS:300}{2}{3}{/LIST}</Text>
+{HEADER:General}
+{LIST}预设Hash值 {POS:300}{1}
+可着色 {POS:300}{2}{3}{/LIST}</Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>ThingThermalTemplate</Key>
-      <Text>{HEADER:温度限值}
-{LIST}熔点 {POS:300}{0}
+      <Text>{HEADER:热界限}
+{LIST}熔毁点 {POS:300}{0}
 闪点{POS:300}{1}
-自燃点{POS:300}{2}{3}{/LIST}</Text>
+自燃点{POS:300}{2}{3}{/LIST}&lt;/Text&gt;
+    </Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>ThingSlotItemTemplate</Key>
@@ -409,12 +419,12 @@ Paintable {POS:300}{2}{3}{/LIST}</Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>ThingTransmissibleTemplate</Key>
-      <Text>连接到 {POS:300}{THING:StructureLogicTransmitter}</Text>
+      <Text>连接至 {POS:300}{THING:StructureLogicTransmitter}</Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>IceMeltingTemplate</Key>
-      <Text>熔体温度 {1}
-熔体压力 {0}</Text>
+      <Text>熔融温度 {1}
+熔融压强 {0}</Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>ConstructedByHeaderTemplate</Key>
@@ -422,7 +432,8 @@ Paintable {POS:300}{2}{3}{/LIST}</Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>ReagentPageTemplate</Key>
-      <Text>一种 {LINK:ReagentPage;化学原料}, 通常在其变为 {LINK:IngotPage;锭块} 的形式时使用.
+      <Text>一种 {LINK:ReagentPage;化学原料} ，通常在成为 {LINK:IngotPage;锭} 形式时可以被使用。
+
 
 {LIST}单位 {1}{/LIST}
 
@@ -431,7 +442,7 @@ Paintable {POS:300}{2}{3}{/LIST}</Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>GasPageTemplate</Key>
-      <Text>一种{LINK:GasPage;气体}, 通常在进行{LINK:SmeltingPage;熔炼}操作时产出.
+      <Text>一种 {LINK:GasPage;气体} ，通常在 {LINK:SmeltingPage;熔炼} 时产生。
 
 
 {LIST}比热容 {1}{2}{/LIST}
@@ -441,7 +452,7 @@ Paintable {POS:300}{2}{3}{/LIST}</Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>GasPageFlamableTemplate</Key>
-      <Text>可燃极限 {0} 到 {1}</Text>
+      <Text>可燃范围 {0} 到 {1}</Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>NutritionPage</Key>
