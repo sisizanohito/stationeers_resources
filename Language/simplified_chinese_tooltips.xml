@@ -3,7 +3,7 @@
   <ScreenSpaceToolTips>
     <Record>
       <Key>StatusIconToxinName</Key>
-      <Value>毒素</Value>
+      <Value>警告：中毒</Value>
     </Record>
     <Record>
       <Key>StatusIconToxinDesc</Key>

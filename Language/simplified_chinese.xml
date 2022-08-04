@@ -12,11 +12,11 @@
     <RecordReagent>
       <Key>Milk</Key>
       <Value>牛奶</Value>
-      <Unit>毫升</Unit>
+      <Unit>ml</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Egg</Key>
-      <Value>蛋</Value>
+      <Value>鸡蛋</Value>
       <Unit/>
     </RecordReagent>
     <RecordReagent>
