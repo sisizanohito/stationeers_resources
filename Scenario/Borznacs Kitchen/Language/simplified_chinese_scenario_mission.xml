@@ -13,109 +13,108 @@
     <Record>
       <Key>ScenariosBorznacsKitchenDescription</Key>
       <!--Menu Disc-->
-      <Value>在与斯诺泰的几项贸易协议被切断后，博兹纳克五世决定通过控制所有附近的月球基地（包括你的）来建立自己的帝国。
-你被迫成为他新的私人厨师。所以你最好会做饭。</Value>
+      <Value>在与Sinotai的几笔贸易交易被取消后，Borznac五世决定通过控制附近所有的月球基地来建立自己的帝国，包括你的在内。你被迫成为他的私人厨师。所以你最好开始烹饪。</Value>
     </Record>
     <Record>
       <Key>ScenariosBorznacsKitchenIntroDescription</Key>
       <!--Intro Panel-->
-      <Value>博兹纳克五世并不以他的细微之处而闻名。在与斯诺泰的几项贸易协议中被切断后，他决定建立一个自己的帝国，控制附近的所有月球基地，包括你的。
-你被迫成为他的新私人厨师。你仍然不知道他最后一位厨师发生了什么，你也不想知道。他有相当大的胃口，非常不耐烦。所以你最好会做饭。</Value>
+      <Value>Borznac五世并不以注重细节著称。在与Sinotai的几笔贸易交易被取消后，他决定通过控制附近所有的月球基地来建立自己的帝国，包括你的在内。
+你被迫成为他的私人厨师。你还不知道他上一任厨师发生了什么，你也不想知道。他很有胃口，而且很没耐心。所以你最好开始烹饪。</Value>
     </Record>
     <Record>
       <Key>CookingForYourLifeSubTitle</Key>
-      <Value>为你的小命做饭！</Value>
+      <Value>为你的生命烹饪！</Value>
     </Record>
     <Record>
       <Key>BakedPotato1</Key>
-      <Value>烹饪并送4个烤土豆。</Value>
+      <Value>烹饪并交付 4 个烤马铃薯。</Value>
     </Record>
     <Record>
       <Key>FriesTask1</Key>
-      <Value>烹饪并送上2包薯条。</Value>
+      <Value>烹饪并交付 2 包炸薯条。</Value>
     </Record>
     <Record>
       <Key>MuffinTask1</Key>
-      <Value>烘烤并送3个松饼。</Value>
+      <Value>烘培并交付 3 杯玛芬蛋糕。</Value>
     </Record>
     <Record>
       <Key>BreadTask1</Key>
-      <Value>烹饪并送2个面包面包。</Value>
+      <Value>烹饪并交付 2 条面包。</Value>
     </Record>
     <Record>
       <Key>MilkTask1</Key>
-      <Value>制造并交付2盒牛奶。</Value>
+      <Value>加工并交付 2 盒牛奶。</Value>
     </Record>
     <Record>
       <Key>PumpkinPie1</Key>
-      <Value>烘烤并送2个南瓜馅饼。</Value>
+      <Value>烘培并交付 2 个南瓜派。</Value>
     </Record>
     <Record>
       <Key>TomatoSoup1</Key>
-      <Value>混合并送上一罐番茄汤。</Value>
+      <Value>调配并交付 1 罐番茄汤。</Value>
     </Record>
     <Record>
       <Key>PumpkinSoup1</Key>
-      <Value>混合并送上一罐南瓜汤。</Value>
+      <Value>调配并交付 1 罐南瓜汤。</Value>
     </Record>
     <Record>
       <Key>BakedPotato2</Key>
-      <Value>烘烤并送上2个烤土豆。</Value>
+      <Value>烘培并交付 2 个烤马铃薯。</Value>
     </Record>
     <Record>
       <Key>BreadTask2</Key>
-      <Value>烘烤并送1条面包。</Value>
+      <Value>烘培并交付 1 条面包。</Value>
     </Record>
     <Record>
       <Key>FriesTask2</Key>
-      <Value>油炸并送1包薯条。</Value>
+      <Value>油炸并交付 1 包炸薯条。</Value>
     </Record>
     <Record>
       <Key>PumpkinTask2</Key>
-      <Value>烘烤并送1个南瓜派。</Value>
+      <Value>烘培并交付 1 个南瓜派。</Value>
     </Record>
     <Record>
       <Key>MuffinTask2</Key>
-      <Value>烘烤并送 3 个松饼。</Value>
+      <Value>烘培并交付 3 杯玛芬蛋糕。</Value>
     </Record>
     <Record>
       <Key>MilkTask2</Key>
-      <Value>制造并交付2盒牛奶。</Value>
+      <Value>加工并交付 2 盒牛奶。</Value>
     </Record>
     <Record>
       <Key>BorznacsNarration0D</Key>
-      <Value> 我饿了，所以给我做一些烤土豆。但请记住，你一次只能烹饪一个。
-当他们准备好时，通过滑槽将它们交给我。不要让我失望。我最后的厨师既慢又笨。对他们来说，事情并不顺利。</Value>
+      <Value>我饿了，给我做些烤马铃薯吧。但是记住，你一次只能做一个。
+准备好时，通过滑槽将它们交付给我。别让我失望。我的上一任厨师又慢又蠢。他的结局不太好。</Value>
     </Record>
     <Record>
       <Key>BorznacsNarration1D</Key>
-      <Value>这勉强够用。我想要一些有味道的东西。我要薯条！你肯定还记得如何做吧？</Value>
+      <Value>这还不够。我想要一些有味道的东西。我点了炸薯条！你一定还记得怎么做吧？</Value>
     </Record>
     <Record>
       <Key>BorznacsNarration2D</Key>
-      <Value>嗯......吃起来还可以。现在我想要一份甜食。给我做一些松饼或者等死吧。</Value>
+      <Value>Mmmmm ... 这好些了。现在我想要一份甜点。给我做些玛芬蛋糕，不然就尝尝我的愤怒。</Value>
     </Record>
     <Record>
       <Key>BorznacsNarration3D</Key>
-      <Value>啊，这些甜蜜让我陷入了一种面团般的心情。是的，我认为有一些面包会很好吃。</Value>
+      <Value>啊，所有的甜蜜让我的心都软了。是的，我想一些面包会很好吃的。</Value>
     </Record>
     <Record>
       <Key>BorznacsNarration4D</Key>
-      <Value>所有这些食物都让我有点渴。我需要喝一杯。来些美味的新鲜牛奶吧。赶紧的！</Value>
+      <Value>这些食物让我有点口干舌燥。我需要一些喝的。一些新鲜的牛奶将是完美的。就这样做！</Value>
     </Record>
     <Record>
       <Key>BorznacsNarration5D</Key>
-      <Value>啊，你比你的前任做得更好。现在来来道经典的菜。我要南瓜派，快给我做一个。我在资源室中打开了一个滑槽。你可以使用最后一个厨师留下的任何东西。</Value>
+      <Value>哈，你比你的前任做得好多了。现在来些经典的。我需要一个南瓜派。立刻给我做一个。我在资源室里开启了一个滑槽。你可以使用上一位厨师留下的任何东西。</Value>
     </Record>
     <Record>
       <Key>BorznacsNarration6D</Key>
-      <Value>非常好。与你笨手笨脚的先行者不同，你可真合我心意。也许有一天我可能会考虑给你自由。但现在，我已经准备好吃晚饭了。完成三道菜的餐点，否则你将遭受难以形容的后果。</Value>
+      <Value>好极了。不像你的白痴前辈，你或许真的有能力为我服务。或许有一天我甚至会考虑给你自由。大概吧。但是现在，我准备好吃晚饭了。完成一顿三道菜的饭，否则后果不堪设想。</Value>
     </Record>
     <Record>
       <Key>BorznacWinEnd</Key>
-      <Value>你已经证明自己是博兹纳克不可或缺的仆人。
-			
-祝贺。</Value>
+      <Value>你已经证明了你是Borznac不可或缺的仆人。
+
+祝贺你。</Value>
     </Record>
   </Interface>
 </Language>
