@@ -253,7 +253,7 @@
   <Actions>
     <Record>
       <Key>Reload</Key>
-      <Value>再装填</Value>
+      <Value>重新装填</Value>
     </Record>
     <Record>
       <Key>Paint</Key>
@@ -261,7 +261,7 @@
     </Record>
     <Record>
       <Key>Mine</Key>
-      <Value>采矿</Value>
+      <Value>采掘</Value>
     </Record>
     <Record>
       <Key>Swap</Key>
@@ -285,7 +285,7 @@
     </Record>
     <Record>
       <Key>Remove</Key>
-      <Value>去除</Value>
+      <Value>移除</Value>
     </Record>
     <Record>
       <Key>Pickup</Key>
@@ -341,11 +341,11 @@
     </Record>
     <Record>
       <Key>Powered</Key>
-      <Value>已供电</Value>
+      <Value>已通电</Value>
     </Record>
     <Record>
       <Key>Unpowered</Key>
-      <Value>无供能</Value>
+      <Value>未通电</Value>
     </Record>
     <Record>
       <Key>False</Key>
@@ -357,7 +357,7 @@
     </Record>
     <Record>
       <Key>Construct</Key>
-      <Value>搭建</Value>
+      <Value>建造</Value>
     </Record>
     <Record>
       <Key>Deconstruct</Key>
@@ -365,7 +365,7 @@
     </Record>
     <Record>
       <Key>Disconnect</Key>
-      <Value>断开</Value>
+      <Value>断开连接</Value>
     </Record>
     <Record>
       <Key>Connect</Key>
@@ -397,7 +397,7 @@
     </Record>
     <Record>
       <Key>Rename</Key>
-      <Value>改名</Value>
+      <Value>重命名</Value>
     </Record>
     <Record>
       <Key>Up</Key>
@@ -409,7 +409,7 @@
     </Record>
     <Record>
       <Key>CallElevator</Key>
-      <Value>启动</Value>
+      <Value>呼叫电梯</Value>
     </Record>
     <Record>
       <Key>Set</Key>
@@ -437,7 +437,7 @@
     </Record>
     <Record>
       <Key>UnLink</Key>
-      <Value>解除链接</Value>
+      <Value>取消链接</Value>
     </Record>
     <Record>
       <Key>ForceFeed</Key>
@@ -445,7 +445,7 @@
     </Record>
     <Record>
       <Key>FlipRover</Key>
-      <Value>翻转</Value>
+      <Value>翻转漫游车</Value>
     </Record>
   </Actions>
   <Things>

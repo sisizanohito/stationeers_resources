@@ -4,11 +4,11 @@
   <Interface>
     <Record>
       <Key>ScenariosBorznacsKitchen</Key>
-      <Value>博兹纳克的厨房</Value>
+      <Value>Borznac的厨房</Value>
     </Record>
     <Record>
       <Key>TutoiralGasMixingSubTitle</Key>
-      <Value>如何做好饭</Value>
+      <Value>最好开始烹饪</Value>
     </Record>
     <Record>
       <Key>ScenariosBorznacsKitchenDescription</Key>
