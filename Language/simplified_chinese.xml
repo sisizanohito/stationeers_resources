@@ -6800,11 +6800,11 @@
     </Record>
     <Record>
       <Key>WorldInfoTextAsteroids</Key>
-      <Value>小行星：</Value>
+      <Value>小行星:</Value>
     </Record>
     <Record>
       <Key>WorldInfoTextVersion</Key>
-      <Value>版本：</Value>
+      <Value>版本:</Value>
     </Record>
     <Record>
       <Key>WorldInfoButtonDelete</Key>
@@ -7765,7 +7765,7 @@
     </Record>
     <Record>
       <Key>ChangeAppearanceTitle</Key>
-      <Value>改变外观</Value>
+      <Value>更改外观</Value>
     </Record>
     <Record>
       <Key>AppearanceTitleGender</Key>
@@ -7773,11 +7773,11 @@
     </Record>
     <Record>
       <Key>AppearanceTitleFace</Key>
-      <Value>脸</Value>
+      <Value>面部</Value>
     </Record>
     <Record>
       <Key>AppearanceTitleHairStyle</Key>
-      <Value>头发</Value>
+      <Value>发型</Value>
     </Record>
     <Record>
       <Key>AppearanceTitleHairColor</Key>
@@ -7785,7 +7785,7 @@
     </Record>
     <Record>
       <Key>AppearanceTitleEyeColor</Key>
-      <Value>眼睛颜色</Value>
+      <Value>瞳色</Value>
     </Record>
     <Record>
       <Key>AppearanceTitleSkinColor</Key>
@@ -7793,23 +7793,23 @@
     </Record>
     <Record>
       <Key>AppearanceTitleFacialHairStyle</Key>
-      <Value>面部毛发</Value>
+      <Value>面部发型</Value>
     </Record>
     <Record>
       <Key>SettingsStartingCondition</Key>
-      <Value>启动条件</Value>
+      <Value>初始条件</Value>
     </Record>
     <Record>
       <Key>SettingsTitleGameSettings</Key>
-      <Value>游戏设定</Value>
+      <Value>游戏设置</Value>
     </Record>
     <Record>
       <Key>SettingsHungerRate</Key>
-      <Value>饥饿/水分</Value>
+      <Value>饱食度/水分含量下降率</Value>
     </Record>
     <Record>
       <Key>JoinWorldSortBy</Key>
-      <Value>排序</Value>
+      <Value>排序方式</Value>
     </Record>
     <Record>
       <Key>JoinMenuFiltersTitle</Key>
@@ -7821,19 +7821,19 @@
     </Record>
     <Record>
       <Key>JoinMenuIncompatibleVersions</Key>
-      <Value>隐藏不兼容的版本</Value>
+      <Value>隐藏版本不兼容的服务器</Value>
     </Record>
     <Record>
       <Key>JoinMenuPasswordProtected</Key>
-      <Value>隐藏密码保护</Value>
+      <Value>隐藏有密码保护的服务器</Value>
     </Record>
     <Record>
       <Key>JoinWorldEmptyServers</Key>
-      <Value>隐藏空的服务器</Value>
+      <Value>隐藏无人服务器</Value>
     </Record>
     <Record>
       <Key>WorkshopSubscribedModsTitle</Key>
-      <Value>订阅mods</Value>
+      <Value>订阅模组</Value>
     </Record>
     <Record>
       <Key>WorkshopPageButton</Key>
@@ -7841,7 +7841,7 @@
     </Record>
     <Record>
       <Key>WorkshopUnsubscribeButton</Key>
-      <Value>退订</Value>
+      <Value>取消订阅</Value>
     </Record>
     <Record>
       <Key>OpenWorkshopButton</Key>
@@ -7849,11 +7849,11 @@
     </Record>
     <Record>
       <Key>WorldPresetTitle</Key>
-      <Value>世界预置</Value>
+      <Value>世界预设</Value>
     </Record>
     <Record>
       <Key>WorldPresetLabel</Key>
-      <Value>预置</Value>
+      <Value>预设</Value>
     </Record>
     <Record>
       <Key>WorldNameLabel</Key>
@@ -7861,11 +7861,11 @@
     </Record>
     <Record>
       <Key>WorldDescriptionLabel</Key>
-      <Value>描述/类型</Value>
+      <Value>描述</Value>
     </Record>
     <Record>
       <Key>WorldAtmosphere</Key>
-      <Value>大气</Value>
+      <Value>大气环境</Value>
     </Record>
     <Record>
       <Key>GameSettingsTitle</Key>
@@ -7893,7 +7893,7 @@
     </Record>
     <Record>
       <Key>WorldAtmospherePresetLabel</Key>
-      <Value>大气</Value>
+      <Value>大气环境</Value>
     </Record>
     <Record>
       <Key>WorldSettingsTitle</Key>
@@ -7904,27 +7904,25 @@
       <Value>重置</Value>
     </Record>
     <Record>
-      <Key>WorldSaveButton</Key>
-      <Value>保存</Value>
-    </Record>
-    <Record>
       <Key>NewWorldAreaCustom</Key>
-      <Value>自定义/习惯</Value>
+      <Value>自定义</Value>
     </Record>
     <Record>
       <Key>NewWorldMoonDesc</Key>
-      <Value>所以你被困在月球上，但这并不全是坏事。当然，它很冷，很刺耳，很单调，但至少阳光明媚。太阳能电池板将是有用的，而电源控制器...可能还有电弧炉。
-                                              其他板条箱里甚至还有一点食物和氧气，尽管它绝对不会永远持续下去。也不是你的电池。
-                                              你最好开始思考你将如何生存。安装气闸有多难？发电机？也许甚至可以闻到一些矿石并为自己建立一个基地？
-        看起来你会在这里呆一会儿。      </Value>
+      <Value>
+        所以你现在被困在月球上了，但也不全是坏事。诚然，它是寒冷、环境恶劣且相当单调乏味的，但至少阳光是明媚的。太阳能电池板将会相当有用，电力控制器也是 ... 可能还有电弧炉。
+                                              在其它储物箱里甚至还有少许食物和氧气，尽管它们肯定不会永远够用。你的电池也是如此。
+                                              你最好开始思考你将如何生存。建成一个气闸室能有多难呢？一台发电机又如何？甚至也许熔炼些矿石，给自己建个基地呢？
+        看上去你得在这儿呆一阵子了。
+      </Value>
     </Record>
     <Record>
       <Key>NewWorldSpaceDesc</Key>
-      <Value>这是播音员创意模式！在任何物品中生成，测试想法并快速构建疯狂的东西。
-                                              &lt;color=red&gt;此模式是实验性的。把它想象成一个自由形式的太空派对，与生存模式更可靠的濒死体验相比，令人兴奋和意想不到的事情*可以而且将要发生。
-                                              只是不要难过，当你把自己吹成很小的碎片，或者被鸡野蛮地袭击，或者在独自漂流到无限的虚空中时慢慢爆炸。
-        *错误
-      &lt;/color=red&gt;</Value>
+      <Value>
+        这是Stationeers创造模式！快速地生成任何物品，测试你的想法并建造疯狂的事物。
+                                              &amp;lt;color=red&amp;gt;此模式是实验性的。&amp;lt;/color&amp;gt; 把它想象成一场自由的太空派对，相较于生存模式更加真实的濒死体验，在此模式下将会发生激动人心和意想不到的事。
+                                              只是当你把自己炸成碎片时，或者被鸡袭击时，又或者独自漂流在无尽的真空中缓缓爆炸时，请别难过。
+      </Value>
     </Record>
     <Record>
       <Key>TextboxEnterName</Key>
@@ -7932,7 +7930,7 @@
     </Record>
     <Record>
       <Key>TextboxEnterDescription</Key>
-      <Value>输入说明...</Value>
+      <Value>输入描述...</Value>
     </Record>
     <Record>
       <Key>TextboxEnterSeed</Key>
