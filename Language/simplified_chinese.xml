@@ -807,55 +807,55 @@
     </RecordThing>
     <RecordThing>
       <Key>EntityChick</Key>
-      <Value>小鸡</Value>
+      <Value>实体：小鸡</Value>
     </RecordThing>
     <RecordThing>
       <Key>EntityChickenBrown</Key>
-      <Value>黄鸡</Value>
+      <Value>实体：棕鸡</Value>
     </RecordThing>
     <RecordThing>
       <Key>EntityChickenWhite</Key>
-      <Value>白鸡</Value>
+      <Value>实体：白鸡</Value>
     </RecordThing>
     <RecordThing>
       <Key>EntityGraylien</Key>
-      <Value>格雷林实体</Value>
+      <Value>实体：灰人</Value>
     </RecordThing>
     <RecordThing>
       <Key>EntityRoosterBlack</Key>
-      <Value>黑色鸡</Value>
+      <Value>实体：黑公鸡</Value>
     </RecordThing>
     <RecordThing>
       <Key>EntityRoosterBrown</Key>
-      <Value>褐色公鸡</Value>
+      <Value>实体：棕公鸡</Value>
     </RecordThing>
     <RecordThing>
       <Key>GasTankAir</Key>
-      <Value>储气罐(空气)</Value>
+      <Value>移动式储气罐（空气）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemActiveVent</Key>
-      <Value>套件（主动通风口）</Value>
+      <Value>套件包（主动式通风口）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemAreaPowerControl</Key>
-      <Value>套件（电源控制器）</Value>
+      <Value>套件包（区域电力控制器）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemBatteryCell</Key>
-      <Value>电池(小)</Value>
+      <Value>电池（小）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemBatteryCellLarge</Key>
-      <Value>电池(大)</Value>
+      <Value>电池（大）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemBatteryCellNuclear</Key>
-      <Value>电池(核)</Value>
+      <Value>电池（核能）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemBatteryCharger</Key>
-      <Value>套件（电池充电器）</Value>
+      <Value>套件包（电池充电器）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemBook</Key>
@@ -863,47 +863,47 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemCableCoil</Key>
-      <Value>电缆</Value>
+      <Value>电缆线圈</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemChemLightBlue</Key>
-      <Value>荧光棒(蓝色)</Value>
+      <Value>荧光棒（蓝）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemChemLightGreen</Key>
-      <Value>荧光棒(绿色)</Value>
+      <Value>荧光棒（绿）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemChemLightRed</Key>
-      <Value>荧光棒(红)</Value>
+      <Value>荧光棒（红）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemChemLightWhite</Key>
-      <Value>荧光棒(白色)</Value>
+      <Value>荧光棒（白）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemChemLightYellow</Key>
-      <Value>荧光棒(黄色)</Value>
+      <Value>荧光棒（黄）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemCoalOre</Key>
-      <Value>矿石(煤炭)</Value>
+      <Value>Ore (Coal) 矿石（煤炭）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemCompositeFloorGrating</Key>
-      <Value>复合地板格栅</Value>
+      <Value>栅状复合材料地板</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemCopperIngot</Key>
-      <Value>金属锭(铜)</Value>
+      <Value>Ingot (Copper) 锭（铜）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemCopperOre</Key>
-      <Value>矿石(铜)</Value>
+      <Value>Ore (Copper) 矿石（铜）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemCorn</Key>
-      <Value>玉米</Value>
+      <Value>Corn 玉米</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemCrowbar</Key>
@@ -915,11 +915,11 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemDrill</Key>
-      <Value>手电钻</Value>
+      <Value>手钻</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemDuctTape</Key>
-      <Value>胶带</Value>
+      <Value>万用胶带</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemDynamite</Key>
@@ -927,7 +927,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemEgg</Key>
-      <Value>蛋</Value>
+      <Value>Egg 鸡蛋</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemEggBottom</Key>
