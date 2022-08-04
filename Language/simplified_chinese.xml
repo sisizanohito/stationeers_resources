@@ -7938,11 +7938,11 @@
     </Record>
     <Record>
       <Key>SettingsDisableParticlesOnMenu</Key>
-      <Value>关闭主菜单动态效果</Value>
+      <Value>禁用主菜单粒子效果</Value>
     </Record>
     <Record>
       <Key>SettingsMouseWheelZoom</Key>
-      <Value>鼠标滚轮缩放视角</Value>
+      <Value>鼠标滚轮缩放镜头</Value>
     </Record>
     <Record>
       <Key>Incident_Supply_Title</Key>
@@ -7950,19 +7950,19 @@
     </Record>
     <Record>
       <Key>Incident_Supply</Key>
-      <Value>卫星显示，一个箱子落到了附近，你的信标跟踪器可以告诉你方向。</Value>
+      <Value>卫星侦测到一个补给箱降落在附近，你的信标追踪器将为你指明方向。</Value>
     </Record>
     <Record>
       <Key>TradingNoMoneyHash</Key>
-      <Value>没有足够的钱来完成这笔交易，请确保您和交易者有足够的钱来完成交易。</Value>
+      <Value>你没有足够的钱来完成这笔交易，请确保你和贸易商有足够的钱来完成交易。</Value>
     </Record>
     <Record>
       <Key>SomethingWentWrongTrading</Key>
-      <Value>处理交易时出现错误，一些东西离开了供应商！</Value>
+      <Value>处理交易时发生错误，有些东西离开了供应商！</Value>
     </Record>
     <Record>
       <Key>SomethingWentWrongTrading2</Key>
-      <Value>处理交易时出现错误，您没有信用卡！</Value>
+      <Value>处理交易时发生错误，你没有信用卡！</Value>
     </Record>
     <Record>
       <Key>GameMenuRespawn</Key>
@@ -7970,19 +7970,19 @@
     </Record>
     <Record>
       <Key>MainMenuScenarios</Key>
-      <Value>场景</Value>
+      <Value>情境模拟</Value>
     </Record>
     <Record>
       <Key>ScenariosStartButton</Key>
-      <Value>启动场景</Value>
+      <Value>开始情境模拟</Value>
     </Record>
     <Record>
       <Key>SettingsSunOrbitPeriod</Key>
-      <Value>太阳轨道速率</Value>
+      <Value>太阳轨道周期</Value>
     </Record>
     <Record>
       <Key>SettingsExtendedTerrain</Key>
-      <Value>扩展地形</Value>
+      <Value>额外的地形</Value>
     </Record>
     <Record>
       <Key>RenameThing</Key>
@@ -7994,12 +7994,14 @@
     </Record>
     <Record>
       <Key>FurnaceChamber</Key>
-      <Value>炉膛</Value>
+      <Value>炉腔</Value>
     </Record>
     <Record>
       <Key>FurnaceChamberText</Key>
-      <Value>压力{0}
-        温度{1}      </Value>
+      <Value>
+        气压 {0}
+        温度 {1}
+      </Value>
     </Record>
     <Record>
       <Key>FurnaceSmelting</Key>
@@ -8007,7 +8009,7 @@
     </Record>
     <Record>
       <Key>LogicState</Key>
-      <Value>状态 &lt;color=green&gt;#VAR1#</Value>
+      <Value>状态 &amp;lt;color=green&amp;gt;#VAR1#&amp;lt;/color&amp;gt;</Value>
     </Record>
     <Record>
       <Key>LogicNoDevice</Key>
@@ -8019,19 +8021,19 @@
     </Record>
     <Record>
       <Key>LogicNoAdditionalSettingsFor</Key>
-      <Value>{0}没有其他设置</Value>
+      <Value>{0} 没有额外设置</Value>
     </Record>
     <Record>
       <Key>LogicNoSlot</Key>
-      <Value>&lt;color=red&gt;无插槽</Value>
+      <Value>&amp;lt;color=red&amp;gt;无插槽&amp;lt;/color&amp;gt;</Value>
     </Record>
     <Record>
       <Key>LogicNoAvailableSlots</Key>
-      <Value>&lt;color=red&gt;没有可用的插槽</Value>
+      <Value>&amp;lt;color=red&amp;gt;没有可用的插槽&amp;lt;/color&amp;gt;</Value>
     </Record>
     <Record>
       <Key>LogicNoAdditionalSlotsFor</Key>
-      <Value>{0}没有额外的插槽</Value>
+      <Value>{0} 没有额外的插槽</Value>
     </Record>
     <Record>
       <Key>RequiresScrewdriver</Key>

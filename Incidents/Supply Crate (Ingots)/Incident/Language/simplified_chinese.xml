@@ -10,7 +10,7 @@
     </Record>
     <Record>
       <Key>Incident_Supply</Key>
-      <Value>卫星显示，一个箱子落到了附近，你的信标跟踪器可以告诉你方向。</Value>
+      <Value>卫星侦测到一个补给箱降落在附近，你的信标追踪器将为你指明方向。</Value>
     </Record>
   </Interface>
 </Language>
