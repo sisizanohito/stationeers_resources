@@ -1431,11 +1431,11 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemWheat</Key>
-      <Value>小麦</Value>
+      <Value>Wheat 小麦</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWireCutters</Key>
-      <Value>剪线钳</Value>
+      <Value>钢丝钳</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWrench</Key>
@@ -1443,15 +1443,15 @@
     </RecordThing>
     <RecordThing>
       <Key>MotherboardLogic</Key>
-      <Value>逻辑主板</Value>
+      <Value>电脑主板（Logic）</Value>
     </RecordThing>
     <RecordThing>
       <Key>MotherboardManufacturing</Key>
-      <Value>制造主板</Value>
+      <Value>电脑主板（制造）</Value>
     </RecordThing>
     <RecordThing>
       <Key>MotherboardSorter</Key>
-      <Value>分拣机主板</Value>
+      <Value>电脑主板（分拣）</Value>
     </RecordThing>
     <RecordThing>
       <Key>MothershipCore</Key>
@@ -1463,27 +1463,27 @@
     </RecordThing>
     <RecordThing>
       <Key>NpcGrounder</Key>
-      <Value>NPC昆虫</Value>
+      <Value>NPC外星昆虫</Value>
     </RecordThing>
     <RecordThing>
       <Key>OrganBrain</Key>
-      <Value>人脑</Value>
+      <Value>人类大脑</Value>
     </RecordThing>
     <RecordThing>
       <Key>OrganLungs</Key>
-      <Value>人的肺</Value>
+      <Value>人类肺部</Value>
     </RecordThing>
     <RecordThing>
       <Key>SpaceShuttle</Key>
-      <Value>航天飞机</Value>
+      <Value>太空梭</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureActiveVent</Key>
-      <Value>主动通风口</Value>
+      <Value>主动式通风口</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureAirConditioner</Key>
-      <Value>空调</Value>
+      <Value>空调机</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureAirlock</Key>
