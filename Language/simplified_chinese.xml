@@ -747,51 +747,51 @@
     </RecordThing>
     <RecordThing>
       <Key>DynamicCratePipeSupplies</Key>
-      <Value>箱子(管材补给)</Value>
+      <Value>移动式储物箱（管道）</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterAir</Key>
-      <Value>便携式储气罐（空气）</Value>
+      <Value>移动式储气罐（空气）</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterCarbonDioxide</Key>
-      <Value>便携式储气罐（二氧化碳）</Value>
+      <Value>移动式储气罐（二氧化碳）</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterEmpty</Key>
-      <Value>便携式储气罐</Value>
+      <Value>移动式储气罐</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterFuel</Key>
-      <Value>便携式储气罐（燃料）</Value>
+      <Value>移动式储气罐（燃料）</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterNitrogen</Key>
-      <Value>便携式储气罐（氮气）</Value>
+      <Value>移动式储气罐（氮气）</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterOxygen</Key>
-      <Value>便携式储气罐（氧气）</Value>
+      <Value>移动式储气罐（氧气）</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterVolatiles</Key>
-      <Value>便携储气罐(挥发性有机物)</Value>
+      <Value>移动式储气罐（挥发性气体）</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterWater</Key>
-      <Value>便携储液罐(水)</Value>
+      <Value>移动式储液罐（水）</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicLiquidCanisterEmpty</Key>
-      <Value>便携储液罐(空)</Value>
+      <Value>移动式储液罐</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGenerator</Key>
-      <Value>便携式发电机</Value>
+      <Value>移动式发电机</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicLight</Key>
-      <Value>便携式灯具</Value>
+      <Value>移动式电灯</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicScrubber</Key>
@@ -799,11 +799,11 @@
     </RecordThing>
     <RecordThing>
       <Key>EffectSplatEgg</Key>
-      <Value>效果蛋</Value>
+      <Value>效果触发蛋</Value>
     </RecordThing>
     <RecordThing>
       <Key>EntityAlien</Key>
-      <Value>外星人</Value>
+      <Value>实体：外星生物</Value>
     </RecordThing>
     <RecordThing>
       <Key>EntityChick</Key>
@@ -3035,7 +3035,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemDynamicScrubber</Key>
-      <Value>(套件)便携式空气过滤器</Value>
+      <Value>移动式空气过滤机</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemDynamicAirCon</Key>
