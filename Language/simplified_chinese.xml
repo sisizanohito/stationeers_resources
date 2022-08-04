@@ -9849,97 +9849,103 @@ float.epsilon：大于零的最小可能浮点值</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBrlez</Key>
-      <Value>如果 a &lt;= 0 则代码相对转移到行b</Value>
+      <Value>若 a &amp;lt;= 0 ，则相对跳转至行 b 执行</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBrgtz</Key>
-      <Value>如果 a &gt; 0 则相对转移到行b</Value>
+      <Value>若 a &amp;gt; 0 ，则相对跳转至行 b 执行</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBreqz</Key>
-      <Value>如果 a == 0 则相对转移到行b</Value>
+      <Value>若 a == 0 ，则相对跳转至行 b 执行</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBrnez</Key>
-      <Value>如果 a != 0 则代码相对转移到行b</Value>
+      <Value>若 a != 0 ，则相对跳转至行 b 执行</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBrapz</Key>
-      <Value>如果abs(a) &lt;= float.epsilon * 8 则代码相对转移至行c</Value>
+      <Value>若 abs(a) &amp;lt;= float.epsilon * 8 ，则相对跳转至行 c 执行
+abs( )：取绝对值
+float.epsilon：大于零的最小可能浮点值</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBrnaz</Key>
-      <Value>如果abs(a) &gt; float.epsilon * 8 则代码相对转移至行c</Value>
+      <Value>若 abs(a) &amp;gt; float.epsilon * 8 ，则相对跳转至行 c 执行
+abs( )：取绝对值
+float.epsilon：大于零的最小可能浮点值</Value>
     </Record>
     <Record>
       <Key>ScriptCommandJal</Key>
-      <Value>跳转到第 a 行执行代码 并存储下一行行号到ra寄存器</Value>
+      <Value>跳转至行 a 执行，并将下一行的行号储存进寄存器 ra</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBdseal</Key>
-      <Value>如果设备已连接 则转移到行 a</Value>
+      <Value>若设备 d 已被设置，则跳转至行 a 执行</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBdnsal</Key>
-      <Value>如果设备 d 未连接 则转移到行 a</Value>
+      <Value>若设备 d 未被设置，则跳转至行 a 执行</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBltal</Key>
-      <Value>如果 a &lt; b 跳到第 c 行执行代码 并存储下一行行号到ra寄存器</Value>
+      <Value>若 a &amp;lt; b ，则分支至行 c 执行，并将下一行的行号储存进寄存器 ra</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBgtal</Key>
-      <Value>如果 a &gt; b 跳到第 c 行执行代码 并存储下一行行号到ra寄存器</Value>
+      <Value>若 a &amp;gt; b ，则分支至行 c 执行，并将下一行的行号储存进寄存器 ra</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBleal</Key>
-      <Value>如果 a &lt;= b 跳到第 c 行执行代码 并存储下一行行号到ra寄存器</Value>
+      <Value>若 a &amp;lt;= b ，则分支至行 c 执行，并将下一行的行号储存进寄存器 ra</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBgeal</Key>
-      <Value>如果 a &gt;= b 跳到第 c 行执行代码 并存储下一行行号到ra寄存器</Value>
+      <Value>若 a &amp;gt;= b ，则分支至行 c 执行，并将下一行的行号储存进寄存器 ra</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBeqal</Key>
-      <Value>如果a==b 即a等于b时 跳到第 c 行执行代码 并存储下一行行号到ra寄存器</Value>
+      <Value>若 a == b ，则分支至行 c 执行，并将下一行的行号储存进寄存器 ra</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBneal</Key>
-      <Value>如果 a != b 即a不等于b时 跳到第c行执行代码 并存储下一行行号到ra寄存器</Value>
+      <Value>若 a != b ，则分支至行 c 执行，并将下一行的行号储存进寄存器 ra</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBapal</Key>
-      <Value>如果 abs(a - b) &lt;= max(c * max(abs(a), abs(b)), float.epsilon * 8) 跳到第 d 行执行代码 并存储下一行行号到ra寄存器中
-abs()--绝对值运算函数 max()--最大值函数</Value>
+      <Value>若 abs(a - b) &amp;lt;= max(c * max(abs(a), abs(b)), float.epsilon * 8) ，则分支至行 d 执行，并将下一行的行号储存进寄存器 ra
+abs( )：取绝对值
+float.epsilon：大于零的最小可能浮点值</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBnaal</Key>
-      <Value>如果 abs(a - b) &lt;= max(c * max(abs(a), abs(b)), float.epsilon * 8) 跳到第 d 行执行代码 并存储下一行行号到ra寄存器中
-abs()--绝对值运算函数 max()--最大值函数</Value>
+      <Value>若 abs(a - b) &amp;lt;= max(c * max(abs(a), abs(b)), float.epsilon * 8) ，则分支至行 d 执行，并将下一行的行号储存进寄存器 ra
+abs( )：取绝对值
+float.epsilon：大于零的最小可能浮点值</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBltzal</Key>
-      <Value>如果 a &lt; 0 跳到第 b 行执行代码 并存储下一行行号到ra寄存器</Value>
+      <Value>若 a &amp;lt; 0 ，则分支至行 b 执行，并将下一行的行号储存进寄存器 ra</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBgezal</Key>
-      <Value>如果 a &gt;= 0 跳到第 b 行执行代码 并存储下一行行号到ra寄存器中</Value>
+      <Value>若 a &amp;gt;= 0 ，则分支至行 b 执行，并将下一行的行号储存进寄存器 ra</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBlezal</Key>
-      <Value>如果 a &lt;= 0 跳到第b行执行代码 并存储下一行行号到ra寄存器</Value>
+      <Value>若 a &amp;lt;= 0 ，则分支至行 b 执行，并将下一行的行号储存进寄存器 ra</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBgtzal</Key>
-      <Value>如果 a &gt; 0 跳到第 b 行执行代码 并存储下一行行号到ra寄存器</Value>
+      <Value>若 a &amp;gt; 0 ，则分支至行 b 执行，并将下一行的行号储存进寄存器 ra</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBeqzal</Key>
-      <Value>如果 a == 0 即a等于0时 转移到第 b 行执行代码 并存储下一行行号到ra寄存器</Value>
+      <Value>若 a == 0 ，则分支至行 b 执行，并将下一行的行号储存进寄存器 ra</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBnezal</Key>
-      <Value>如果 a != 0 即a不为0时 转移第 b 行执行代码并存储下一行行号到ra寄存器中</Value>
+      <Value>若 a != 0 ，则分支至行 b 执行，并将下一行的行号储存进寄存器 ra</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBapzal</Key>
