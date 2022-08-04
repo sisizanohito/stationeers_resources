@@ -8345,35 +8345,35 @@
     </Record>
     <Record>
       <Key>LogicTypeLock</Key>
-      <Value>如果设备被锁定, 则为 1, 否则为0可在大多数设备中设置, 并禁止使用</Value>
+      <Value>当设备被锁定时，则返回 1 ，否则返回 0 ，可以在大多数设备中设置，阻止用户访问它们的数值</Value>
     </Record>
     <Record>
       <Key>LogicTypePressure</Key>
-      <Value>当前压力读数</Value>
+      <Value>设备当前气压读数</Value>
     </Record>
     <Record>
       <Key>LogicTypeTemperature</Key>
-      <Value>当前温度读数</Value>
+      <Value>设备当前温度读数</Value>
     </Record>
     <Record>
       <Key>LogicTypePressureExternal</Key>
-      <Value>外部压力安全设置, kpa</Value>
+      <Value>外部气压安全设置，单位为kPa</Value>
     </Record>
     <Record>
       <Key>LogicTypePressureInternal</Key>
-      <Value>内部压力安全设置, kpa</Value>
+      <Value>内部气压安全设置，单位为kPa</Value>
     </Record>
     <Record>
       <Key>LogicTypeActivate</Key>
-      <Value>1如果设备被激活 (通常意味着正在运行), 否则0</Value>
+      <Value>当设备被激活（通常意味着正在运行）时，则返回 1 ，否则返回 0</Value>
     </Record>
     <Record>
       <Key>LogicTypeCharge</Key>
-      <Value>设备的当前充电</Value>
+      <Value>设备当前电量</Value>
     </Record>
     <Record>
       <Key>LogicTypeSetting</Key>
-      <Value>可读取或写入的变量设置, 具体取决于设备</Value>
+      <Value>可被读取或写入的变量设置，具体取决于设备</Value>
     </Record>
     <Record>
       <Key>LogicTypeReagents</Key>
@@ -8381,75 +8381,75 @@
     </Record>
     <Record>
       <Key>LogicTypeRatioOxygen</Key>
-      <Value>空气中氧的比例</Value>
+      <Value>设备中的 {GAS:Oxygen} 比例</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioCarbonDioxide</Key>
-      <Value>空气中二氧化碳的比例</Value>
+      <Value>设备中的 {GAS:CarbonDioxide} 比例</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioNitrogen</Key>
-      <Value>空气中氮的比例</Value>
+      <Value>设备中的 {GAS:Nitrogen} 比例</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioPollutant</Key>
-      <Value>空气中污染物的比例</Value>
+      <Value>设备中的 {GAS:Pollutant} 比例</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioVolatiles</Key>
-      <Value>空气中挥发物的比例</Value>
+      <Value>设备中的 {GAS:Volatiles} 比例</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioWater</Key>
-      <Value>空气中水的比例</Value>
+      <Value>设备中的 {GAS:Water} 比例</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioNitrousOxide</Key>
-      <Value>空气中氮的比例</Value>
+      <Value>设备中的 {GAS:NitrousOxide} 比例</Value>
     </Record>
     <Record>
       <Key>LogicTypeCombustion</Key>
-      <Value>评估气体着火了。如果气体着火，则返回 1;如果不是，则返回 0。</Value>
+      <Value>评估大气环境中是否存在火情。如果大气环境中存在火情则返回 1 ，没有火情则返回 0</Value>
     </Record>
     <Record>
       <Key>LogicTypeHorizontal</Key>
-      <Value>水平角度设置</Value>
+      <Value>设备水平位置设置</Value>
     </Record>
     <Record>
       <Key>LogicTypeVertical</Key>
-      <Value>垂直角度设置</Value>
+      <Value>设备垂直位置设置</Value>
     </Record>
     <Record>
       <Key>LogicTypeSolarAngle</Key>
-      <Value>设备的太阳角度</Value>
+      <Value>设备的太阳高度角</Value>
     </Record>
     <Record>
       <Key>LogicTypeMaximum</Key>
-      <Value>设备的最大设置</Value>
+      <Value>设备的最大限度设置</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatio</Key>
-      <Value>具体数值取决于设备，比率的取值区间为0到1</Value>
+      <Value>具体数值取决于设备，基于比例而定，值从 0 到 1</Value>
     </Record>
     <Record>
       <Key>LogicTypePowerPotential</Key>
-      <Value>电网提供电量</Value>
+      <Value>设备或网络的潜在电力提供功率</Value>
     </Record>
     <Record>
       <Key>LogicTypePowerActual</Key>
-      <Value>电网实际耗电量</Value>
+      <Value>设备或网络的实际电力消耗功率</Value>
     </Record>
     <Record>
       <Key>LogicTypeQuantity</Key>
-      <Value>设备上的物品总数量</Value>
+      <Value>设备上的物品总量</Value>
     </Record>
     <Record>
       <Key>LogicTypeOn</Key>
-      <Value>设备的当前状态, 0 为关闭, 1 表示</Value>
+      <Value>设备的当前状态，若设备关闭则返回 0 ，若设备开启则返回 1</Value>
     </Record>
     <Record>
       <Key>LogicTypeImportQuantity</Key>
-      <Value>设备输入物品的总数</Value>
+      <Value>设备输入的物品总量</Value>
     </Record>
     <Record>
       <Key>LogicTypeImportSlotOccupant</Key>
@@ -8457,7 +8457,7 @@
     </Record>
     <Record>
       <Key>LogicTypeExportQuantity</Key>
-      <Value>设备输出物品的总数</Value>
+      <Value>设备输出的物品总量</Value>
     </Record>
     <Record>
       <Key>LogicTypeExportSlotOccupant</Key>
@@ -8465,54 +8465,56 @@
     </Record>
     <Record>
       <Key>LogicTypeRequiredPower</Key>
-      <Value>闲置运行功率, 不一定包括额外的需求功率</Value>
+      <Value>闲置时的电力需求总功率，不一定包含额外的电力需求</Value>
     </Record>
     <Record>
       <Key>LogicTypeHorizontalRatio</Key>
-      <Value>设备水平设置无线电</Value>
+      <Value>设备水平位置比例设置</Value>
     </Record>
     <Record>
       <Key>LogicTypeVerticalRatio</Key>
-      <Value>设备垂直设置无线电</Value>
+      <Value>设备垂直位置比例设置</Value>
     </Record>
     <Record>
       <Key>LogicTypePowerRequired</Key>
-      <Value>从设备和网络请求的电源</Value>
+      <Value>从设备和/或网络中请求的电力</Value>
     </Record>
     <Record>
       <Key>LogicTypeIdle</Key>
-      <Value>如果设备当前处于闲置状态, 则返回 1, 否则为0</Value>
+      <Value>如果设备当前处于闲置状态，则返回 1 ，否则返回 0</Value>
     </Record>
     <Record>
       <Key>LogicTypeColor</Key>
-      <Value>无论是出于对清晰度，安全性还是简单美学的关注空间站长可以使用一小道彩虹色来建造他们的建筑。这些是设备的颜色设置，表示为整数。
+      <Value>
+        无论是出于对清晰度、安全性还是朴素美学的考虑， &amp;lt;color=#0080FFFF&amp;gt;{LINK:Stationeers;Stationeer}&amp;lt;/color&amp;gt; 们都可以在自己的建筑中看到一道小小的彩虹。这些是设备的颜色设置，用整数表示。
 
-0：蓝色
-1：灰色
-2：绿色
-3：橙色
-4：红色
-5：黄色
-6：白
-7：黑色
-8：棕色
-9：卡其色
-10：粉红色
-11：紫色
+0: 蓝色
+1: 灰色
+2: 绿色
+3: 橙色
+4: 红色
+5: 黄色
+6: 白色
+7: 黑色
+8: 棕色
+9: 卡其色
+10: 粉色
+11: 紫色
 
-这是一个坚定不移的普遍法则，任何高于11的东西都是紫色的。发展署无力改变这一点。同样，任何低于 0 的值都将为蓝色。      </Value>
+        任何值高于 11 的东西都将是紫色的，这是亘古不变的宇宙法则。 &amp;lt;color=#0080FFFF&amp;gt;{LINK:ODA;ODA}&amp;lt;/color&amp;gt; 也无权改变这一点。与之相似的是，任何值低于 0 的东西都将是蓝色的。
+      </Value>
     </Record>
     <Record>
       <Key>LogicTypeElevatorSpeed</Key>
-      <Value>显示电梯的速度</Value>
+      <Value>电梯当前速度</Value>
     </Record>
     <Record>
       <Key>LogicTypeElevatorLevel</Key>
-      <Value>显示电梯的楼层</Value>
+      <Value>电梯当前所在楼层</Value>
     </Record>
     <Record>
       <Key>LogicTypeRecipeHash</Key>
-      <Value>设备设置为生产的配方的当前哈希</Value>
+      <Value>设备被设置生产的配方的当前Hash值</Value>
     </Record>
     <Record>
       <Key>LogicTypeExportSlotHash</Key>
