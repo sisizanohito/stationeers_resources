@@ -1707,7 +1707,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidTankStorage</Key>
-      <Value>液罐填充器</Value>
+      <Value>储液瓶装填器</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureGlassDoor</Key>
@@ -1739,7 +1739,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructurePassiveVent</Key>
-      <Value>被动通风口</Value>
+      <Value>被动式通风口</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeAnalysizer</Key>
@@ -1747,31 +1747,31 @@
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeCorner</Key>
-      <Value>管道(拐角)</Value>
+      <Value>管道（拐角）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeCrossJunction</Key>
-      <Value>管道(交叉)</Value>
+      <Value>管道（十字枢纽）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeCrossJunction3</Key>
-      <Value>管道(3叉)</Value>
+      <Value>管道（三向枢纽）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeCrossJunction5</Key>
-      <Value>管道(5叉)</Value>
+      <Value>管道（五向枢纽）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeCrossJunction6</Key>
-      <Value>管道(6叉)</Value>
+      <Value>管道（六向枢纽）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeLabel</Key>
-      <Value>管道标签</Value>
+      <Value>管道标签贴</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeMeter</Key>
-      <Value>管道仪表</Value>
+      <Value>管道压力表</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeRadiator</Key>
