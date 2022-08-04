@@ -10,7 +10,7 @@
     </Record>
     <Record>
       <Key>Incident_BrokenPipe</Key>
-      <Value>警告，管道压力将会增加。</Value>
+      <Value>警告：管道压力将会增加。</Value>
     </Record>
   </Interface>
 </Language>

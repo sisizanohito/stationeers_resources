@@ -10,7 +10,7 @@
     </Record>
     <Record>
       <Key>Incident_PlantInfected</Key>
-      <Value>警告，真菌已经感染了该地区的一些植物</Value>
+      <Value>警告：真菌已经感染了该地区的一些植物。</Value>
     </Record>
   </Interface>
 </Language>

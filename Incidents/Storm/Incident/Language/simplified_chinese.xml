@@ -6,11 +6,11 @@
   <Interface>
     <Record>
       <Key>Incident_Storm_Title</Key>
-      <Value>切换风暴天气</Value>
+      <Value>风暴天气将至</Value>
     </Record>
     <Record>
       <Key>Incident_Storm</Key>
-      <Value>切换风暴天气</Value>
+      <Value>风暴天气将至。</Value>
     </Record>
   </Interface>
 </Language>

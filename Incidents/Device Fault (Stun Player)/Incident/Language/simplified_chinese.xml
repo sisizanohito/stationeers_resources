@@ -10,7 +10,7 @@
     </Record>
     <Record>
       <Key>Incident_Device_Fault</Key>
-      <Value>设备出现故障！</Value>
+      <Value>有台设备出现故障！</Value>
     </Record>
   </Interface>
 </Language>

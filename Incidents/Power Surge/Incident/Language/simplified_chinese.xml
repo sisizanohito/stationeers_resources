@@ -10,7 +10,7 @@
     </Record>
     <Record>
       <Key>Incident_ElectroMagnetic</Key>
-      <Value>你的电池似乎在漏电。</Value>
+      <Value>你的电池似乎正在损失电力。</Value>
     </Record>
   </Interface>
 </Language>
