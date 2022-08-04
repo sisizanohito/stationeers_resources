@@ -7,83 +7,83 @@
     </Record>
     <Record>
       <Key>StatusIconToxinDesc</Key>
-      <Value>当前毒性水平</Value>
+      <Value>处于中毒状态</Value>
     </Record>
     <Record>
       <Key>StatusIconToxinWarning</Key>
-      <Value>需要注意</Value>
+      <Value>警告：中毒</Value>
     </Record>
     <Record>
       <Key>StatusIconHydrationDesc</Key>
-      <Value>水分正在下降</Value>
+      <Value>水分即将耗尽</Value>
     </Record>
     <Record>
       <Key>StatusIconHydrationKey</Key>
-      <Value>水分不足</Value>
+      <Value>警告：水分含量低</Value>
     </Record>
     <Record>
       <Key>HydrationCaution</Key>
-      <Value>注意水分</Value>
+      <Value>警告：水分含量低</Value>
     </Record>
     <Record>
       <Key>HydrationCritical</Key>
-      <Value>水分极低</Value>
+      <Value>严重警告：水分含量极低</Value>
     </Record>
     <Record>
       <Key>StatusIconToxinCritical</Key>
-      <Value>处于紧急状态</Value>
+      <Value>严重警告：严重中毒</Value>
     </Record>
     <Record>
       <Key>StatusIconOxygenName</Key>
-      <Value>氧气供应</Value>
+      <Value>警告：氧气供应低</Value>
     </Record>
     <Record>
       <Key>StatusIconOxygenDesc</Key>
-      <Value>你所呼吸的气体正在对你的肺部造成损伤。</Value>
+      <Value>氧气供应不足</Value>
     </Record>
     <Record>
       <Key>StatusIconOxygenWarning</Key>
-      <Value>需要注意，宇航服氧气罐含量越来越低</Value>
+      <Value>警告：航天服氧气供应低</Value>
     </Record>
     <Record>
       <Key>StatusIconOxyegnCritical</Key>
-      <Value>宇航服氧气罐含量处于紧急状态，更换你的氧气罐</Value>
+      <Value>严重警告：航天服氧气供应极低</Value>
     </Record>
     <Record>
       <Key>StatusIconPressureName</Key>
-      <Value>内部压强</Value>
+      <Value>警告：航天服压强警告</Value>
     </Record>
     <Record>
       <Key>StatusIconPressureDesc</Key>
-      <Value>当前压力水平，监测宇航服的压力</Value>
+      <Value>航天服内部压强达到临界值</Value>
     </Record>
     <Record>
       <Key>StatusIconPressureWarning</Key>
-      <Value>宇航服压力水平低</Value>
+      <Value>警告：航天服压强低</Value>
     </Record>
     <Record>
       <Key>StatusIconPressureCritical</Key>
-      <Value>宇航服压力极低</Value>
+      <Value>严重警告：航天服压强极低</Value>
     </Record>
     <Record>
       <Key>StatusIconTemperatureName</Key>
-      <Value>内部温度</Value>
+      <Value>警告：航天服温度警告</Value>
     </Record>
     <Record>
       <Key>StatusIconTemperatureDesc</Key>
-      <Value>宇航服当前内部温度</Value>
+      <Value>航天服内部温度达到临界值</Value>
     </Record>
     <Record>
       <Key>StatusIconTempuratureWarning</Key>
-      <Value>显示当前毒性水平</Value>
+      <Value>警告：温度警告</Value>
     </Record>
     <Record>
       <Key>StatusIconTempuratureCritical</Key>
-      <Value>显示当前毒性水平</Value>
+      <Value>严重警告：温度达到临界值</Value>
     </Record>
     <Record>
       <Key>StatusIconLeakingName</Key>
-      <Value>宇航服发生泄漏</Value>
+      <Value>警告：航天服需要修补</Value>
     </Record>
     <Record>
       <Key>StatusIconPowerName</Key>
@@ -91,7 +91,7 @@
     </Record>
     <Record>
       <Key>StatusIconGravityName</Key>
-      <Value>失重</Value>
+      <Value>注意：无重力</Value>
     </Record>
     <Record>
       <Key>StatusIconJetpackName</Key>
@@ -103,7 +103,7 @@
     </Record>
     <Record>
       <Key>StatusIconLightName</Key>
-      <Value>开关头灯</Value>
+      <Value>开/关 头灯</Value>
     </Record>
     <Record>
       <Key>StatusIconInternalsName</Key>
