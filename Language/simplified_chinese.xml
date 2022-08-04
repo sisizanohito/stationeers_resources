@@ -1779,15 +1779,15 @@
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeStraight</Key>
-      <Value>管道(直线)</Value>
+      <Value>管道（直）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeTJunction</Key>
-      <Value>管道(T型)</Value>
+      <Value>管道（T型枢纽）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePowerConnector</Key>
-      <Value>电源连接器</Value>
+      <Value>移动式发电机连接底座</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePressureRegulator</Key>
