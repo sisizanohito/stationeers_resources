@@ -6952,7 +6952,7 @@
     </Record>
     <Record>
       <Key>NewWorldEnableAwayMissions</Key>
-      <Value>开启逃离任务</Value>
+      <Value>启动逃离任务</Value>
     </Record>
     <Record>
       <Key>InventorySlotBelt</Key>
@@ -6972,7 +6972,7 @@
     </Record>
     <Record>
       <Key>InventorySlotSuit</Key>
-      <Value>外套</Value>
+      <Value>航天服</Value>
     </Record>
     <Record>
       <Key>InventorySlotHelmet</Key>
@@ -7008,7 +7008,7 @@
     </Record>
     <Record>
       <Key>GameMenuButtonChangeCharacter</Key>
-      <Value>改变外观</Value>
+      <Value>更改外观</Value>
     </Record>
     <Record>
       <Key>GameMenuButtonSettings</Key>
@@ -7016,11 +7016,11 @@
     </Record>
     <Record>
       <Key>GameMenuButtonLeave</Key>
-      <Value>退出</Value>
+      <Value>离开会话</Value>
     </Record>
     <Record>
       <Key>GameMenuButtonExitDesktop</Key>
-      <Value>退出到桌面</Value>
+      <Value>退出至桌面</Value>
     </Record>
     <Record>
       <Key>SaveMenuTitle</Key>
@@ -7028,7 +7028,7 @@
     </Record>
     <Record>
       <Key>SaveMenuListTitle</Key>
-      <Value>已保存</Value>
+      <Value>已保存的世界</Value>
     </Record>
     <Record>
       <Key>ButtonBack</Key>
@@ -7040,7 +7040,7 @@
     </Record>
     <Record>
       <Key>WorkshopUploadProgress</Key>
-      <Value>处理配置数据</Value>
+      <Value>处理配置数据中</Value>
     </Record>
     <Record>
       <Key>ButtonConfirmWarning</Key>
@@ -7056,7 +7056,7 @@
     </Record>
     <Record>
       <Key>SettingsMenuGameplay</Key>
-      <Value>游戏设置</Value>
+      <Value>游戏性</Value>
     </Record>
     <Record>
       <Key>SettingsMenuVideo</Key>
@@ -7064,7 +7064,7 @@
     </Record>
     <Record>
       <Key>SettingsMenuAudio</Key>
-      <Value>音频</Value>
+      <Value>声音</Value>
     </Record>
     <Record>
       <Key>SettingsMenuControls</Key>
