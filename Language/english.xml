@@ -7013,6 +7013,11 @@ Highly sensitive to temperature, nitrice will begin to melt as soon as it is min
       <Value>Logic Gate</Value>
       <Description>A {LINK:LogicPage;logic} device that performs a logical operation on one or more binary inputs that produces a single binary output. An input greater than zero is considered true for operations.</Description>
     </RecordThing>
+    <RecordThing>
+      <Key>StructureNitrolyzer</Key>
+      <Value>Structure Nitrolyzer</Value>
+      <Description />
+    </RecordThing>
   </Things>
   <Slots>
     <Record>
