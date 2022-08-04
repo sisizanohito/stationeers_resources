@@ -7080,11 +7080,11 @@
     </Record>
     <Record>
       <Key>SettingsAutosaveInterval</Key>
-      <Value>间隔时间(秒)</Value>
+      <Value>间隔时间（秒）</Value>
     </Record>
     <Record>
       <Key>SettingsHUDScale</Key>
-      <Value>HUD缩放</Value>
+      <Value>平视显示器（HUD）缩放</Value>
     </Record>
     <Record>
       <Key>SettingsDisplayLatency</Key>
@@ -7092,7 +7092,7 @@
     </Record>
     <Record>
       <Key>SettingsDisplayFPS</Key>
-      <Value>显示FPS</Value>
+      <Value>显示每秒帧数（FPS）</Value>
     </Record>
     <Record>
       <Key>ButtonResetDefaults</Key>
@@ -7124,7 +7124,7 @@
     </Record>
     <Record>
       <Key>SettingsScreenMode</Key>
-      <Value>显示模式</Value>
+      <Value>屏幕显示模式</Value>
     </Record>
     <Record>
       <Key>SettingsVsync</Key>
@@ -7140,7 +7140,7 @@
     </Record>
     <Record>
       <Key>SettingsFOV</Key>
-      <Value>视野</Value>
+      <Value>视场角（FOV）</Value>
     </Record>
     <Record>
       <Key>SettingsOverallQuality</Key>
@@ -7148,7 +7148,7 @@
     </Record>
     <Record>
       <Key>SettingsTextureQuality</Key>
-      <Value>纹理质量</Value>
+      <Value>贴图质量</Value>
     </Record>
     <Record>
       <Key>SettingsParticleQuality</Key>
@@ -7156,7 +7156,7 @@
     </Record>
     <Record>
       <Key>SettingsSoftParticles</Key>
-      <Value>软粒子</Value>
+      <Value>柔化粒子</Value>
     </Record>
     <Record>
       <Key>SettingsVolumetricLighting</Key>
@@ -7164,7 +7164,7 @@
     </Record>
     <Record>
       <Key>SettingsPixelLightCount</Key>
-      <Value>像素光数</Value>
+      <Value>像素光源数量</Value>
     </Record>
     <Record>
       <Key>SettingsShadows</Key>
@@ -7196,7 +7196,7 @@
     </Record>
     <Record>
       <Key>SettingsTitleMixer</Key>
-      <Value>混合器</Value>
+      <Value>调音台</Value>
     </Record>
     <Record>
       <Key>SettingsSound</Key>
@@ -7208,11 +7208,11 @@
     </Record>
     <Record>
       <Key>SettingsTitleKeybinds</Key>
-      <Value>按键设置</Value>
+      <Value>按键绑定</Value>
     </Record>
     <Record>
       <Key>SettingsTitleMisc</Key>
-      <Value>其他设置</Value>
+      <Value>杂项设置</Value>
     </Record>
     <Record>
       <Key>SettingsLanguage</Key>
@@ -7224,7 +7224,7 @@
     </Record>
     <Record>
       <Key>SettingsCameraSensitivity</Key>
-      <Value>镜头灵敏度</Value>
+      <Value>NotificationTitle</Value>
     </Record>
     <Record>
       <Key>NotificationTitle</Key>
