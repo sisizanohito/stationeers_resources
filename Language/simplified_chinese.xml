@@ -1587,27 +1587,27 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeWall</Key>
-      <Value>复合墙(1型)</Value>
+      <Value>复合材料墙体（类型 1）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeWallRound</Key>
-      <Value>圆形复合墙</Value>
+      <Value>复合材料墙体（圆形）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeWallType1</Key>
-      <Value>复合墙(1型)</Value>
+      <Value>复合材料墙体（类型 1）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeWallType2</Key>
-      <Value>复合墙(2型)</Value>
+      <Value>复合材料墙体（类型 2）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeWallType3</Key>
-      <Value>复合墙(3型)</Value>
+      <Value>复合材料墙体（类型 3）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeWallType4</Key>
-      <Value>复合墙(4型)</Value>
+      <Value>复合材料墙体（类型 4）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeWindow</Key>
@@ -1623,11 +1623,11 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureConsoleDual</Key>
-      <Value>双端口控制台</Value>
+      <Value>控制台（双端口）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureConsoleMonitor</Key>
-      <Value>控制台监视器</Value>
+      <Value>控制台（监视器）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureControlChair</Key>
@@ -1635,11 +1635,11 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureConveyorCorner</Key>
-      <Value>输送带(拐角)</Value>
+      <Value>传送带（拐角）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureConveyorRiser</Key>
-      <Value>输送带(垂直)</Value>
+      <Value>传送带（向上/向下）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureConveyorStraight</Key>
@@ -1651,7 +1651,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureConveyorStraightShort</Key>
-      <Value>输送机（直线短）</Value>
+      <Value>传送带（直道）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCryoTube</Key>
@@ -3919,7 +3919,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeWallWindow</Key>
-      <Value>复合窗</Value>
+      <Value>复合材料窗</Value>
     </RecordThing>
     <RecordThing>
       <Key>RailingElegant01</Key>
