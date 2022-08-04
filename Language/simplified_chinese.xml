@@ -6238,11 +6238,11 @@
     </Record>
     <Record>
       <Key>Export</Key>
-      <Value>出口</Value>
+      <Value>输出</Value>
     </Record>
     <Record>
       <Key>Import</Key>
-      <Value>进口</Value>
+      <Value>输入</Value>
     </Record>
     <Record>
       <Key>PressureUp</Key>
@@ -6378,7 +6378,7 @@
     </Record>
     <Record>
       <Key>Export2</Key>
-      <Value>出口 2</Value>
+      <Value>输出 2</Value>
     </Record>
     <Record>
       <Key>Launch</Key>
@@ -6394,7 +6394,7 @@
     </Record>
     <Record>
       <Key>CreatePlan</Key>
-      <Value>创建计划</Value>
+      <Value>制定计划</Value>
     </Record>
     <Record>
       <Key>Search</Key>
@@ -6414,7 +6414,7 @@
     </Record>
     <Record>
       <Key>Grow</Key>
-      <Value>增长</Value>
+      <Value>种植</Value>
     </Record>
     <Record>
       <Key>LayEgg</Key>
@@ -6442,7 +6442,7 @@
     </Record>
     <Record>
       <Key>Color</Key>
-      <Value>颜色</Value>
+      <Value>着色</Value>
     </Record>
     <Record>
       <Key>Access</Key>
@@ -6454,19 +6454,19 @@
     </Record>
     <Record>
       <Key>TemperatureUp</Key>
-      <Value>增加温度</Value>
+      <Value>升高温度</Value>
     </Record>
     <Record>
       <Key>TemperatureDown</Key>
-      <Value>减少温度</Value>
+      <Value>降低温度</Value>
     </Record>
     <Record>
       <Key>ThrustUp</Key>
-      <Value>增加推力</Value>
+      <Value>增大推力</Value>
     </Record>
     <Record>
       <Key>ThrustDown</Key>
-      <Value>减少推力</Value>
+      <Value>减小推力</Value>
     </Record>
     <Record>
       <Key>Button5</Key>
@@ -6478,11 +6478,11 @@
     </Record>
     <Record>
       <Key>UnpackAll</Key>
-      <Value>全部打开</Value>
+      <Value>全部拆开</Value>
     </Record>
     <Record>
       <Key>Unpack</Key>
-      <Value>打开</Value>
+      <Value>拆开</Value>
     </Record>
     <Record>
       <Key>Cartridge2</Key>
