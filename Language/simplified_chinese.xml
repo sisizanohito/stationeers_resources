@@ -6816,15 +6816,15 @@
     </Record>
     <Record>
       <Key>WorldInfoButtonDebugLoad</Key>
-      <Value>调试加载</Value>
+      <Value>载入调试</Value>
     </Record>
     <Record>
       <Key>LoadWorldButtonLoad</Key>
-      <Value>加载游戏</Value>
+      <Value>载入世界</Value>
     </Record>
     <Record>
       <Key>JoinMenuTitle</Key>
-      <Value>加入游戏</Value>
+      <Value>加入世界</Value>
     </Record>
     <Record>
       <Key>JoinMenuButtonRefresh</Key>
@@ -6832,7 +6832,7 @@
     </Record>
     <Record>
       <Key>JoinMenuButtonJoin</Key>
-      <Value>加入游戏</Value>
+      <Value>加入世界</Value>
     </Record>
     <Record>
       <Key>JoinMenuServerListName</Key>
@@ -6848,7 +6848,7 @@
     </Record>
     <Record>
       <Key>CannotConnectToMetaServer</Key>
-      <Value>无法连接到主服务器</Value>
+      <Value>无法连接至元数据服务器</Value>
     </Record>
     <Record>
       <Key>ServerListCannotBeRetrieved</Key>
@@ -6860,7 +6860,7 @@
     </Record>
     <Record>
       <Key>NewWorldTitle</Key>
-      <Value>新游戏</Value>
+      <Value>新世界</Value>
     </Record>
     <Record>
       <Key>NewWorldButtonBack</Key>
@@ -6884,7 +6884,7 @@
     </Record>
     <Record>
       <Key>LoulanShortDesc</Key>
-      <Value>楼兰，在到达这颗星球后你会发现它拥有可呼吸的大气层，也有足够的气压来维持生命——但却鲜有生命存在。这个被沙子覆盖的巨型行星位于卡冈图雅星系中，每天都在越来越接近星系中心的黑洞。虽然被抛弃了，也不再覆盖绿色或充满水资源，这颗星球仍然有一个可用的大气层。你的任务就是搜刮这片荒地，以获得所需的材料和资源，从而生存在这个永恒的沙漠中。</Value>
+      <Value>楼兰（Loulan），当你抵达这颗星球时，就会注意到它有可呼吸的大气环境，以及足够维持生命的气压 - 但却鲜有生命存在。这个被沙漠覆盖的巨大行星位于Gargantuan星系中，且每天都在向坐落于星系中心的黑洞靠近。虽然这是个被遗弃的世界，也不再由绿色植物和水资源覆盖，但这颗星球仍然有正常运转的大气环境，所以你的任务是搜刮这片废土，以获取在这片永恒的沙漠中生存所需的材料和资源。</Value>
     </Record>
     <Record>
       <Key>NewWorldAreaVenus</Key>
