@@ -6114,7 +6114,7 @@
     </Record>
     <Record>
       <Key>Slot2</Key>
-      <Value>2号插槽</Value>
+      <Value>插槽 2</Value>
     </Record>
     <Record>
       <Key>GrabLeftHand</Key>
@@ -6154,23 +6154,23 @@
     </Record>
     <Record>
       <Key>GrabThighR</Key>
-      <Value>抓住右侧大腿</Value>
+      <Value>抓住右大腿</Value>
     </Record>
     <Record>
       <Key>GrabThighL</Key>
-      <Value>抓住左侧大腿</Value>
+      <Value>抓住左大腿</Value>
     </Record>
     <Record>
       <Key>GrabCalfR</Key>
-      <Value>抓住右侧小腿</Value>
+      <Value>抓住右小腿</Value>
     </Record>
     <Record>
       <Key>GrabCalfL</Key>
-      <Value>抓住左侧小腿</Value>
+      <Value>抓住左小腿</Value>
     </Record>
     <Record>
       <Key>Drag</Key>
-      <Value>拖动</Value>
+      <Value>拖曳</Value>
     </Record>
     <Record>
       <Key>Mode</Key>
@@ -6182,31 +6182,31 @@
     </Record>
     <Record>
       <Key>Slot3</Key>
-      <Value>3号插槽</Value>
+      <Value>插槽 3</Value>
     </Record>
     <Record>
       <Key>Slot4</Key>
-      <Value>4号插槽</Value>
+      <Value>插槽 4</Value>
     </Record>
     <Record>
       <Key>Slot5</Key>
-      <Value>5号插槽</Value>
+      <Value>插槽 5</Value>
     </Record>
     <Record>
       <Key>Slot6</Key>
-      <Value>6号插槽</Value>
+      <Value>插槽 6</Value>
     </Record>
     <Record>
       <Key>Slot7</Key>
-      <Value>7号插槽</Value>
+      <Value>插槽 7</Value>
     </Record>
     <Record>
       <Key>Slot8</Key>
-      <Value>8号插槽</Value>
+      <Value>插槽 8</Value>
     </Record>
     <Record>
       <Key>Slot9</Key>
-      <Value>9号插槽</Value>
+      <Value>插槽 9</Value>
     </Record>
     <Record>
       <Key>Slot10</Key>
@@ -6314,47 +6314,47 @@
     </Record>
     <Record>
       <Key>Slot20</Key>
-      <Value>20号插槽</Value>
+      <Value>插槽 20</Value>
     </Record>
     <Record>
       <Key>Slot21</Key>
-      <Value>21号插槽</Value>
+      <Value>插槽 21</Value>
     </Record>
     <Record>
       <Key>Slot22</Key>
-      <Value>22号插槽</Value>
+      <Value>插槽 22</Value>
     </Record>
     <Record>
       <Key>Slot23</Key>
-      <Value>23号插槽</Value>
+      <Value>插槽 23</Value>
     </Record>
     <Record>
       <Key>Slot24</Key>
-      <Value>24号插槽</Value>
+      <Value>插槽 24</Value>
     </Record>
     <Record>
       <Key>Slot25</Key>
-      <Value>25号插槽</Value>
+      <Value>插槽 25</Value>
     </Record>
     <Record>
       <Key>Slot26</Key>
-      <Value>26号插槽</Value>
+      <Value>插槽 26</Value>
     </Record>
     <Record>
       <Key>Slot27</Key>
-      <Value>27号插槽</Value>
+      <Value>插槽 27</Value>
     </Record>
     <Record>
       <Key>Slot28</Key>
-      <Value>28号插槽</Value>
+      <Value>插槽 28</Value>
     </Record>
     <Record>
       <Key>Slot29</Key>
-      <Value>29号插槽</Value>
+      <Value>插槽 29</Value>
     </Record>
     <Record>
       <Key>Slot30</Key>
-      <Value>30号插槽</Value>
+      <Value>插槽 30</Value>
     </Record>
     <Record>
       <Key>TiltUpwards</Key>
