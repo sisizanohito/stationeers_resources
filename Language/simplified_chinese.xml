@@ -931,7 +931,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemEggBottom</Key>
-      <Value>蛋的底部</Value>
+      <Value>鸡蛋底部</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemEggCarton</Key>
@@ -939,15 +939,15 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemEggTop</Key>
-      <Value>蛋顶</Value>
+      <Value>鸡蛋顶部</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemEvaSuit</Key>
-      <Value>宇航服</Value>
+      <Value>舱外航天服</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemFertilizedEgg</Key>
-      <Value>受精卵</Value>
+      <Value>受精蛋</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemFireExtinguisher</Key>
@@ -955,19 +955,19 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemFlashingLight</Key>
-      <Value>套件（闪烁灯）</Value>
+      <Value>套件包（闪光灯）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemFlour</Key>
-      <Value>面粉</Value>
+      <Value>Flour 面粉</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasCanisterCarbonDioxide</Key>
-      <Value>储气瓶(二氧化碳)</Value>
+      <Value>储气瓶（二氧化碳）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasCanisterPollutants</Key>
-      <Value>储气瓶(污染物)</Value>
+      <Value>储气瓶（污染性气体）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasCanisterEmpty</Key>
