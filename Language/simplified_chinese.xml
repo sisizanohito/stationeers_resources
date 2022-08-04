@@ -7,7 +7,7 @@
     <RecordReagent>
       <Key>Flour</Key>
       <Value>面粉</Value>
-      <Unit>克</Unit>
+      <Unit>g</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Milk</Key>
@@ -162,47 +162,47 @@
     <RecordReagent>
       <Key>Rice</Key>
       <Value>水稻</Value>
-      <Unit>克</Unit>
+      <Unit>g</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Waspaloy</Key>
       <Value>沃斯帕洛伊合金</Value>
-      <Unit>克</Unit>
+      <Unit>g</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Stellite</Key>
       <Value>司太立合金</Value>
-      <Unit>克</Unit>
+      <Unit>g</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Inconel</Key>
       <Value>因康镍合金</Value>
-      <Unit>克</Unit>
+      <Unit>g</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Hastelloy</Key>
       <Value>哈氏合金</Value>
-      <Unit>克</Unit>
+      <Unit>g</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Astroloy</Key>
-      <Value>Astroloy合金</Value>
-      <Unit>克</Unit>
+      <Value>阿斯特洛伊合金</Value>
+      <Unit>g</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Cobalt</Key>
       <Value>钴</Value>
-      <Unit>克</Unit>
+      <Unit>g</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Corn</Key>
       <Value>玉米</Value>
-      <Unit>克</Unit>
+      <Unit>g</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Wheat</Key>
       <Value>小麦</Value>
-      <Unit>克</Unit>
+      <Unit/>
     </RecordReagent>
     <RecordReagent>
       <Key>Biomass</Key>
@@ -212,12 +212,12 @@
     <RecordReagent>
       <Key>Soy</Key>
       <Value>大豆</Value>
-      <Unit>克</Unit>
+      <Unit>g</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Mushroom</Key>
       <Value>蘑菇</Value>
-      <Unit>株</Unit>
+      <Unit/>
     </RecordReagent>
   </Reagents>
   <Gases>
@@ -12282,19 +12282,19 @@ Stationeers计划从土木工程从业人员、军事和航空航天工业、软
     </Record>
     <Record>
       <Key>Ice</Key>
-      <Value>冰Ice</Value>
+      <Value>冰（水）</Value>
     </Record>
     <Record>
       <Key>Oxite</Key>
-      <Value>结晶氧</Value>
+      <Value>冰（氧气）</Value>
     </Record>
     <Record>
       <Key>Nitrice</Key>
-      <Value>亚硝酸盐</Value>
+      <Value>冰（氮气）</Value>
     </Record>
     <Record>
       <Key>Volatiles</Key>
-      <Value>可燃冰</Value>
+      <Value>冰（挥发性气体）</Value>
     </Record>
     <Record>
       <Key>Gold</Key>
