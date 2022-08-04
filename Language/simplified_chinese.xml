@@ -619,71 +619,71 @@
     </RecordThing>
     <RecordThing>
       <Key>BodyPartRoosterBlackBody</Key>
-      <Value>身体部位 黑公鸡身体</Value>
+      <Value>身体部位：黑公鸡身体</Value>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartRoosterBlackHead</Key>
-      <Value>身体部位 黑公鸡头</Value>
+      <Value>身体部位：黑公鸡头部</Value>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartRoosterBlackLegL</Key>
-      <Value>身体部位 公鸡黑腿</Value>
+      <Value>身体部位：黑公鸡左腿</Value>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartRoosterBlackLegR</Key>
-      <Value>身体部位 黑公鸡右腿</Value>
+      <Value>身体部位：黑公鸡右腿</Value>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartRoosterBlackTail</Key>
-      <Value>身体部位 黑公鸡尾巴</Value>
+      <Value>身体部位：黑公鸡尾巴</Value>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartRoosterBlackWingL</Key>
-      <Value>身体部位 公鸡黑翅膀</Value>
+      <Value>身体部位：黑公鸡左翅</Value>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartRoosterBlackWingR</Key>
-      <Value>身体部位 黑公鸡右翅膀</Value>
+      <Value>身体部位：黑公鸡右翅</Value>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartRoosterBrownBody</Key>
-      <Value>身体部位 公鸡 棕色 身体</Value>
+      <Value>身体部位：棕公鸡身体</Value>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartRoosterBrownHead</Key>
-      <Value>身体部位 公鸡棕色头</Value>
+      <Value>身体部位：棕公鸡头部</Value>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartRoosterBrownLegL</Key>
-      <Value>身体部位 公鸡棕色腿</Value>
+      <Value>身体部位：棕公鸡左腿</Value>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartRoosterBrownLegR</Key>
-      <Value>身体部位 公鸡棕色右腿</Value>
+      <Value>身体部位：棕公鸡右腿</Value>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartRoosterBrownTail</Key>
-      <Value>身体部位 公鸡棕色尾巴</Value>
+      <Value>身体部位：棕公鸡尾巴</Value>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartRoosterBrownWingL</Key>
-      <Value>身体部位 公鸡棕翼</Value>
+      <Value>身体部位：棕公鸡左翅</Value>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartRoosterBrownWingR</Key>
-      <Value>身体部位 公鸡棕色右翅</Value>
+      <Value>身体部位：棕公鸡右翅</Value>
     </RecordThing>
     <RecordThing>
       <Key>CartridgeAtmosAnalyser</Key>
-      <Value>气体分析芯片</Value>
+      <Value>芯片（气体分析仪）</Value>
     </RecordThing>
     <RecordThing>
       <Key>CartridgeMedicalAnalyser</Key>
-      <Value>健康分析芯片</Value>
+      <Value>芯片（医疗分析仪）</Value>
     </RecordThing>
     <RecordThing>
       <Key>CartridgeNetworkAnalyser</Key>
-      <Value>网络分析芯片</Value>
+      <Value>芯片（网络分析仪）</Value>
     </RecordThing>
     <RecordThing>
       <Key>Character</Key>
