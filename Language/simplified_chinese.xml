@@ -11756,19 +11756,23 @@ Button 19</Value>
     </Record>
     <Record>
       <Key>Joystick2Button0</Key>
-      <Value>Joystick2 Button0</Value>
+      <Value>&amp;lt;size=40%&amp;gt;Joystick2&amp;lt;/size&amp;gt;
+Button 0</Value>
     </Record>
     <Record>
       <Key>Joystick2Button1</Key>
-      <Value>Joystick2 Button1</Value>
+      <Value>&amp;lt;size=40%&amp;gt;Joystick2&amp;lt;/size&amp;gt;
+Button 1</Value>
     </Record>
     <Record>
       <Key>Joystick2Button2</Key>
-      <Value>Joystick2 Button2</Value>
+      <Value>&amp;lt;size=40%&amp;gt;Joystick2&amp;lt;/size&amp;gt;
+Button 2</Value>
     </Record>
     <Record>
       <Key>Joystick2Button3</Key>
-      <Value>Joystick2 Button3</Value>
+      <Value>&amp;lt;size=40%&amp;gt;Joystick2&amp;lt;/size&amp;gt;
+Button 3</Value>
     </Record>
     <Record>
       <Key>Joystick2Button4</Key>
