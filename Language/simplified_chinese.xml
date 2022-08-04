@@ -455,19 +455,19 @@
     </RecordThing>
     <RecordThing>
       <Key>ApplianceReagentProcessor</Key>
-      <Value>试剂处理器</Value>
+      <Value>化学原料处理机</Value>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartAstronautFemaleArmL</Key>
-      <Value>身体部位 女性宇航员左手臂</Value>
+      <Value>身体部位：女性宇航员左臂</Value>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartAstronautFemaleArmR</Key>
-      <Value>身体部位 女性宇航员右手臂</Value>
+      <Value>身体部位：女性宇航员右臂</Value>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartAstronautFemaleHead</Key>
-      <Value>身体部分 女性宇航员头部</Value>
+      <Value>身体部位：女性宇航员头部</Value>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartAstronautFemaleLegL</Key>
@@ -475,27 +475,27 @@
     </RecordThing>
     <RecordThing>
       <Key>BodyPartAstronautFemaleLegR</Key>
-      <Value>身体部位 女性宇航员右腿</Value>
+      <Value>身体部位：女性宇航员右腿</Value>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartAstronautFemaleTorso</Key>
-      <Value>身体部位 女性宇航员身体躯干</Value>
+      <Value>身体部位：女性宇航员躯干</Value>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartAstronautMaleArmL</Key>
-      <Value>身体部位 男性宇航员左手臂</Value>
+      <Value>身体部位：男性宇航员左臂</Value>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartAstronautMaleArmR</Key>
-      <Value>身体部位 男性宇航员右手臂</Value>
+      <Value>身体部位：男性宇航员右臂</Value>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartAstronautMaleHead</Key>
-      <Value>身体部位 男性宇航员头</Value>
+      <Value>身体部位：男性宇航员头部</Value>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartAstronautMaleLegL</Key>
-      <Value>身体部位 男性宇航员左腿</Value>
+      <Value>身体部位：男性宇航员左腿</Value>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartAstronautMaleLegR</Key>

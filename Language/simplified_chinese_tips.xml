@@ -33,17 +33,17 @@
     <String>如果你的站点弥漫着忧郁的氛围，用 {THING:StructureKlaxon} 中的曲调提升你的情绪，或者用Logic系统建造你自己的音乐采样器。</String>
     <String>{THING:StructureHarvie} 能够完全自动化植物的种植、培育和收获。</String>
     <String>可以在“Settings”菜单中打开/关闭额外的提示信息。</String>
-    <String>您可以按{KEY:HideAllWindows}来一次性清除屏幕上的所有打开的窗口。</String>
-    <String>{THING:ItemCrowbar} 可用于打开未供电的门和电源控制器。</String>
-    <String>{THING:ItemMiningDrill}可以转换为“平整”模式，来帮助你在采矿时创造平整的地面。</String>
-    <String>{THING:ItemWearLamp}可用于在不带头盔时提供照明。</String>
-    <String>通过按住{KEY:MouseControl}，您可以启用鼠标光标，并通过拖拽的方式来在不同槽位之间移动道具。</String>
-    <String>基础太空头盔保护空间站长免受从硬真空到奇怪的烹饪气味的所有东西的伤害。</String>
-    <String>物理学一直是你的朋友，至少到它不是之前。</String>
-    <String>摩擦力附着调节器由一个双向旋转模组和一个柱状通用握柄组成。不仅仅是把螺丝刀</String>
-    <String>它实际上不是“牛奶”，而是Agrizero专利的{THING:ItemSoyOil}和{THING:ItemFern}的合成，在{THING:ApplianceChemistryStation}中巧妙地混合在一起。</String>
-    <String>自成都事故以来核能电池便不允许在地球上使用了。不过Norsec在外太空发现了一个崭新且安全意识极低的市场。</String>
-    <String>饿了吗？谷物棒体积小巧且营养丰富，几乎不含有辐射。</String>
-    <String>厌倦了替换次级滤芯吗？中级和高级滤芯分别能够持续5倍和20倍的时间，但它们的成本也更高。</String>
+    <String>你可以按下 {KEY:HideAllWindows} 一次性清除屏幕上的所有打开的窗口。</String>
+    <String>可以使用 {THING:ItemCrowbar} 打开未供电的门和区域电力控制器。</String>
+    <String>{THING:ItemMiningDrill} 可以切换为“Flatten”模式，帮助你在采矿时创造平整的地面。</String>
+    <String>{THING:ItemWearLamp} 可以在不戴头盔时提供照明。</String>
+    <String>按住 {KEY:MouseControl} 启用鼠标光标，在你不同的库存和槽位之间通过拖动的方式来移动物品。</String>
+    <String>基础的太空头盔能让Stationeer们免受从艰难的真空环境到奇怪的烹饪气味的一切影响。</String>
+    <String>物理学是你的朋友。一如既往。</String>
+    <String>摩擦附着调节器是一个有着柱状单握把的双螺旋结构模型。它不仅仅是一把螺丝刀。</String>
+    <String>此“牛奶”其实非彼“牛奶”，而是一种由Agrizero专利打造的 {THING:ItemSoyOil} 和 {THING:ItemFern} 的合成物，在 {THING:ApplianceChemistryStation} 中巧妙地混合得到。</String>
+    <String>自成都事件以来，Norsec核能电池在地球上被列为非法，但它在外太空找到了一个新的、安全意识极低的市场。</String>
+    <String>饿了吗？谷物棒体积小巧、营养丰富，而且辐射出奇得低。</String>
+    <String>厌倦了替换普通滤芯吗？中型和重型滤芯的使用寿命分别是它的5倍和20倍，但它们的成本也更高。</String>
   </GameTip>
 </Language>
