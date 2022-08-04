@@ -10754,7 +10754,7 @@ Stationeers计划从土木工程从业人员、军事和航空航天工业、软
     </Record>
     <Record>
       <Key>ToggleChangeLog</Key>
-      <Value>切换更改日志</Value>
+      <Value>更新日志</Value>
     </Record>
     <Record>
       <Key>ShowPreviousVideoText</Key>
@@ -10766,11 +10766,11 @@ Stationeers计划从土木工程从业人员、军事和航空航天工业、软
     </Record>
     <Record>
       <Key>LightString</Key>
-      <Value>光</Value>
+      <Value>照明</Value>
     </Record>
     <Record>
       <Key>FixedWeatherEventMissing</Key>
-      <Value>没有发现这个世界的天气系统。已应用默认天气系统。预计会有一些动荡。</Value>
+      <Value>在该世界中没有找到天气系统。已应用默认天气系统。预计会出现一些湍流。</Value>
     </Record>
     <Record>
       <Key>AdvancedTutorialButton</Key>
@@ -10782,11 +10782,11 @@ Stationeers计划从土木工程从业人员、军事和航空航天工业、软
     </Record>
     <Record>
       <Key>NextTutoiralButtonFail</Key>
-      <Value>无法加载下一个教程。请返回菜单。</Value>
+      <Value>无法加载下一个教程。请返回至菜单。</Value>
     </Record>
     <Record>
       <Key>ImportExportCategoryKey</Key>
-      <Value>输入/输出</Value>
+      <Value>进口/出口</Value>
     </Record>
     <Record>
       <Key>TravelCategoryKey</Key>
@@ -10798,7 +10798,7 @@ Stationeers计划从土木工程从业人员、军事和航空航天工业、软
     </Record>
     <Record>
       <Key>CartidgeCategoryKey</Key>
-      <Value>记忆卡</Value>
+      <Value>芯片</Value>
     </Record>
     <Record>
       <Key>WeatherCategoryKey</Key>
@@ -10814,23 +10814,23 @@ Stationeers计划从土木工程从业人员、军事和航空航天工业、软
     </Record>
     <Record>
       <Key>StructureCategoryKey</Key>
-      <Value>结构</Value>
+      <Value>结构件</Value>
     </Record>
     <Record>
       <Key>LogicCategoryKey</Key>
-      <Value>逻辑设备</Value>
+      <Value>Logic设备</Value>
     </Record>
     <Record>
       <Key>PowerCategoryKey</Key>
-      <Value>电力设备</Value>
+      <Value>电子设备</Value>
     </Record>
     <Record>
       <Key>AppliancesCategoryKey</Key>
-      <Value>小型设备</Value>
+      <Value>电器设备</Value>
     </Record>
     <Record>
       <Key>AtmopshericsCategoryKey</Key>
-      <Value>大气</Value>
+      <Value>大气设备</Value>
     </Record>
     <Record>
       <Key>ReagentsCategoryKey</Key>
@@ -10842,15 +10842,15 @@ Stationeers计划从土木工程从业人员、军事和航空航天工业、软
     </Record>
     <Record>
       <Key>ConstructionKitsCategoryKey</Key>
-      <Value>结构套件</Value>
+      <Value>结构件套件包</Value>
     </Record>
     <Record>
       <Key>FabricatorCategoryKey</Key>
-      <Value>装配机器</Value>
+      <Value>制造机器</Value>
     </Record>
     <Record>
       <Key>IngotsCategoryKey</Key>
-      <Value>铸锭</Value>
+      <Value>锭</Value>
     </Record>
     <Record>
       <Key>OreCategoryKey</Key>
@@ -10862,19 +10862,11 @@ Stationeers计划从土木工程从业人员、军事和航空航天工业、软
     </Record>
     <Record>
       <Key>PersonalCategoryKey</Key>
-      <Value>个人</Value>
-    </Record>
-    <Record>
-      <Key>PressureKeySPDA</Key>
-      <Value>最大压力</Value>
-    </Record>
-    <Record>
-      <Key>CableMaxPowerSPDA</Key>
-      <Value>最大功率：</Value>
+      <Value>个人物品</Value>
     </Record>
     <Record>
       <Key>StationpediaSearch</Key>
-      <Value>研究</Value>
+      <Value>搜索</Value>
     </Record>
     <Record>
       <Key>StationpediaBeginnerGuides</Key>
@@ -10885,52 +10877,12 @@ Stationeers计划从土木工程从业人员、军事和航空航天工业、软
       <Value>宇宙</Value>
     </Record>
     <Record>
-      <Key>StationpediaConstructWith</Key>
-      <Value>建造工具</Value>
-    </Record>
-    <Record>
-      <Key>StationpediaPrefabHash</Key>
-      <Value>预制哈希：</Value>
-    </Record>
-    <Record>
-      <Key>StationpediaPaintable</Key>
-      <Value>可涂装：</Value>
-    </Record>
-    <Record>
-      <Key>StationpediaStackSize</Key>
-      <Value>堆叠大小：</Value>
-    </Record>
-    <Record>
-      <Key>StationpediaThingUnit</Key>
-      <Value>单位：</Value>
-    </Record>
-    <Record>
-      <Key>StationpediaReagentsHeader</Key>
-      <Value>化学原料</Value>
-    </Record>
-    <Record>
-      <Key>StationpediaHeatHeader</Key>
-      <Value>比热：</Value>
-    </Record>
-    <Record>
-      <Key>StationpediaShatterHeader</Key>
-      <Value>粉碎：</Value>
-    </Record>
-    <Record>
-      <Key>StationpediaFlashpointHeader</Key>
-      <Value>闪点：</Value>
-    </Record>
-    <Record>
-      <Key>StationpediaAutoIgniteHeader</Key>
-      <Value>燃点：</Value>
-    </Record>
-    <Record>
       <Key>StationpediaConstructedFrom</Key>
-      <Value>建造 从</Value>
+      <Value>建造 由</Value>
     </Record>
     <Record>
       <Key>StationpediaSlotsHeader</Key>
-      <Value>所有插槽</Value>
+      <Value>插槽</Value>
     </Record>
     <Record>
       <Key>StationpediaHowToManufacture</Key>
@@ -10938,19 +10890,19 @@ Stationeers计划从土木工程从业人员、军事和航空航天工业、软
     </Record>
     <Record>
       <Key>StationpediaBuildStates</Key>
-      <Value>建造状态</Value>
+      <Value>建造过程</Value>
     </Record>
     <Record>
       <Key>StationpediaMachineVersion</Key>
-      <Value>版本</Value>
+      <Value>升级需要</Value>
     </Record>
     <Record>
       <Key>StationpediaGasHeader</Key>
-      <Value>气体</Value>
+      <Value>气体副产物</Value>
     </Record>
     <Record>
       <Key>StationpediaResoucesHeader</Key>
-      <Value>使用的资源</Value>
+      <Value>资源使用</Value>
     </Record>
     <Record>
       <Key>StationpediaUsedIn</Key>
@@ -10958,15 +10910,16 @@ Stationeers计划从土木工程从业人员、军事和航空航天工业、软
     </Record>
     <Record>
       <Key>StationpediaManufactures</Key>
-      <Value>制造</Value>
+      <Value>制成品</Value>
     </Record>
     <Record>
       <Key>StationpediaFoundIn</Key>
-      <Value>源地</Value>
+      <Value>产于</Value>
     </Record>
     <Record>
       <Key>StationpediaConstructionOptions</Key>
-      <Value>施工选项</Value>
+      <Value>
+建造选项</Value>
     </Record>
     <Record>
       <Key>StationpediaModeHeader</Key>
