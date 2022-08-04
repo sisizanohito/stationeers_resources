@@ -5900,15 +5900,15 @@
     </Record>
     <Record>
       <Key>AirTank</Key>
-      <Value>空气罐</Value>
+      <Value>空气瓶</Value>
     </Record>
     <Record>
       <Key>WasteTank</Key>
-      <Value>废气罐</Value>
+      <Value>废气瓶</Value>
     </Record>
     <Record>
       <Key>LifeSupport</Key>
-      <Value>维生设备</Value>
+      <Value>生命维持</Value>
     </Record>
     <Record>
       <Key>Filter</Key>
@@ -5924,7 +5924,7 @@
     </Record>
     <Record>
       <Key>DirtCanister</Key>
-      <Value>泥土罐</Value>
+      <Value>土壤储罐</Value>
     </Record>
     <Record>
       <Key>Propellent</Key>
@@ -5932,39 +5932,39 @@
     </Record>
     <Record>
       <Key>Cartridge</Key>
-      <Value>记忆卡</Value>
+      <Value>芯片</Value>
     </Record>
     <Record>
       <Key>CaptainsSeat</Key>
-      <Value>船长的座位</Value>
+      <Value>船长座位</Value>
     </Record>
     <Record>
       <Key>PassengerSeatLeft</Key>
-      <Value>乘客座位 左</Value>
+      <Value>乘客座位（左）</Value>
     </Record>
     <Record>
       <Key>PassengerSeatRight</Key>
-      <Value>乘客座位 右</Value>
+      <Value>乘客座位（右）</Value>
     </Record>
     <Record>
       <Key>DataDisk</Key>
-      <Value>数据盘</Value>
+      <Value>数据磁盘</Value>
     </Record>
     <Record>
       <Key>Appliance1</Key>
-      <Value>设备1</Value>
+      <Value>电器设备 1</Value>
     </Record>
     <Record>
       <Key>Appliance2</Key>
-      <Value>设备2</Value>
+      <Value>电器设备 2</Value>
     </Record>
     <Record>
       <Key>Import</Key>
-      <Value>输入</Value>
+      <Value>进口</Value>
     </Record>
     <Record>
       <Key>Export</Key>
-      <Value>输出</Value>
+      <Value>出口</Value>
     </Record>
     <Record>
       <Key>Seat</Key>
@@ -5972,11 +5972,11 @@
     </Record>
     <Record>
       <Key>TransportSlot</Key>
-      <Value>运输槽</Value>
+      <Value>运输</Value>
     </Record>
     <Record>
       <Key>Motherboard</Key>
-      <Value>主板</Value>
+      <Value>电脑主板</Value>
     </Record>
     <Record>
       <Key>Entity</Key>
@@ -5988,7 +5988,7 @@
     </Record>
     <Record>
       <Key>PortableSlot</Key>
-      <Value>便携式插槽</Value>
+      <Value>移动式设备</Value>
     </Record>
     <Record>
       <Key>Bed</Key>
@@ -6004,11 +6004,11 @@
     </Record>
     <Record>
       <Key>LoadingRail</Key>
-      <Value>加载轨道</Value>
+      <Value>装载轨道</Value>
     </Record>
     <Record>
       <Key>AccessCard</Key>
-      <Value>访问卡</Value>
+      <Value>门禁卡</Value>
     </Record>
     <Record>
       <Key>Magazine</Key>
@@ -6016,7 +6016,7 @@
     </Record>
     <Record>
       <Key>ContainerSlot</Key>
-      <Value>便携箱底座</Value>
+      <Value>容器</Value>
     </Record>
     <Record>
       <Key>Plant</Key>
@@ -6024,7 +6024,7 @@
     </Record>
     <Record>
       <Key>Storage</Key>
-      <Value>储藏处</Value>
+      <Value>存储空间</Value>
     </Record>
     <Record>
       <Key>Circuit</Key>
@@ -6044,7 +6044,7 @@
     </Record>
     <Record>
       <Key>Cartridge2</Key>
-      <Value>记忆卡2</Value>
+      <Value>芯片 2</Value>
     </Record>
     <Record>
       <Key>Next</Key>
@@ -6056,11 +6056,11 @@
     </Record>
     <Record>
       <Key>Cartridge0</Key>
-      <Value>记忆卡0</Value>
+      <Value>芯片 0</Value>
     </Record>
     <Record>
       <Key>Cartridge1</Key>
-      <Value>记忆卡1</Value>
+      <Value>芯片 1</Value>
     </Record>
     <Record>
       <Key>Previous</Key>
