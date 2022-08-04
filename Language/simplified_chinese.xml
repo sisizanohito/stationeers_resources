@@ -6036,11 +6036,11 @@
     </Record>
     <Record>
       <Key>ProgrammableChip</Key>
-      <Value>可编程芯片</Value>
+      <Value>可编程芯片（IC芯片）</Value>
     </Record>
     <Record>
       <Key>CreditCard</Key>
-      <Value>银行卡</Value>
+      <Value>信用卡</Value>
     </Record>
     <Record>
       <Key>Cartridge2</Key>
@@ -6068,11 +6068,11 @@
     </Record>
     <Record>
       <Key>SensorProcessingUnit</Key>
-      <Value>传感器处理单元</Value>
+      <Value>勘探设备数据处理单元</Value>
     </Record>
     <Record>
       <Key>LiquidCanister</Key>
-      <Value>液体罐</Value>
+      <Value>储液瓶</Value>
     </Record>
     <Record>
       <Key>HandSlot</Key>
@@ -6080,7 +6080,7 @@
     </Record>
     <Record>
       <Key>BottleSlot</Key>
-      <Value>水瓶插槽</Value>
+      <Value>水瓶</Value>
     </Record>
   </Slots>
   <Interactables>
