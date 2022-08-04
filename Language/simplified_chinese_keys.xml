@@ -208,55 +208,64 @@
     </Record>
     <Record>
       <Key>Keypad8</Key>
-      <Value>Num 8</Value>
+      <Value>&amp;lt;size=40%&amp;gt;Numpad &amp;lt;/size&amp;gt;
+8</Value>
     </Record>
     <Record>
       <Key>Keypad9</Key>
-      <Value>Num 9</Value>
+      <Value>&amp;lt;size=40%&amp;gt;Numpad &amp;lt;/size&amp;gt;
+9</Value>
     </Record>
     <Record>
       <Key>KeypadPeriod</Key>
-      <Value>Num .</Value>
+      <Value>&amp;lt;size=40%&amp;gt;Numpad &amp;lt;/size&amp;gt;
+ .</Value>
     </Record>
     <Record>
       <Key>KeypadDivide</Key>
-      <Value>Num /</Value>
+      <Value>&amp;lt;size=40%&amp;gt;Numpad &amp;lt;/size&amp;gt;
+ /</Value>
     </Record>
     <Record>
       <Key>KeypadMultiply</Key>
-      <Value>Num *</Value>
+      <Value>&amp;lt;size=40%&amp;gt;Numpad &amp;lt;/size&amp;gt;
+ *</Value>
     </Record>
     <Record>
       <Key>KeypadMinus</Key>
-      <Value>Num -</Value>
+      <Value>&amp;lt;size=40%&amp;gt;Numpad &amp;lt;/size&amp;gt;
+ -</Value>
     </Record>
     <Record>
       <Key>KeypadPlus</Key>
-      <Value>Num +</Value>
+      <Value>&amp;lt;size=40%&amp;gt;Numpad &amp;lt;/size&amp;gt;
+ +</Value>
     </Record>
     <Record>
       <Key>KeypadEnter</Key>
-      <Value>Num Enter</Value>
+      <Value>&amp;lt;size=40%&amp;gt;Numpad &amp;lt;/size&amp;gt;
+ Enter</Value>
     </Record>
     <Record>
       <Key>KeypadEquals</Key>
-      <Value>Num =</Value>
+      <Value>&amp;lt;size=40%&amp;gt;Numpad &amp;lt;/size&amp;gt;
+ =</Value>
     </Record>
     <Record>
       <Key>UpArrow</Key>
-      <Value>↑</Value>
+      <Value>Up Arrow</Value>
     </Record>
     <Record>
       <Key>DownArrow</Key>
-      <Value>↓</Value>
+      <Value>Down Arrow</Value>
     </Record>
     <Record>
       <Key>RightArrow</Key>
-      <Value>→</Value>
+      <Value>Right Arrow</Value>
     </Record>
     <Record>
       <Key>LeftArrow</Key>
-      <Value>←</Value>
+      <Value>Left Arrow</Value>
     </Record>
     <Record>
       <Key>PageUp</Key>
