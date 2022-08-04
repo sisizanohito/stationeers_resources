@@ -6,7 +6,7 @@
   <Interface>
     <Record>
       <Key>Incident_BrokenPipe_Title</Key>
-      <Value>管道破裂</Value>
+      <Value>管道随机破损</Value>
     </Record>
     <Record>
       <Key>Incident_BrokenPipe</Key>

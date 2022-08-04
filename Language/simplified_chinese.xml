@@ -223,7 +223,7 @@
   <Gases>
     <Record>
       <Key>Oxygen</Key>
-      <Value>氧</Value>
+      <Value>氧气</Value>
     </Record>
     <Record>
       <Key>CarbonDioxide</Key>
@@ -231,15 +231,15 @@
     </Record>
     <Record>
       <Key>Nitrogen</Key>
-      <Value>氮</Value>
+      <Value>氮气</Value>
     </Record>
     <Record>
       <Key>Volatiles</Key>
-      <Value>挥发性有机物</Value>
+      <Value>挥发性气体</Value>
     </Record>
     <Record>
       <Key>Pollutant</Key>
-      <Value>污染物</Value>
+      <Value>污染性气体</Value>
     </Record>
     <Record>
       <Key>Water</Key>
@@ -247,7 +247,7 @@
     </Record>
     <Record>
       <Key>NitrousOxide</Key>
-      <Value>氧化亚氮</Value>
+      <Value>一氧化二氮</Value>
     </Record>
   </Gases>
   <Actions>

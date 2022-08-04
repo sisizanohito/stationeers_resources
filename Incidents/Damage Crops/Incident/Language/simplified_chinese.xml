@@ -6,7 +6,7 @@
   <Interface>
     <Record>
       <Key>Incident_PlantInfected_Title</Key>
-      <Value>植物被真菌感染</Value>
+      <Value>植物遭到真菌感染</Value>
     </Record>
     <Record>
       <Key>Incident_PlantInfected</Key>
