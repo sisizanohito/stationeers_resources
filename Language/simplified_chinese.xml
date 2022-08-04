@@ -11166,12 +11166,8 @@ Stationeers计划从土木工程从业人员、军事和航空航天工业、软
       <Value/>
     </Record>
     <Record>
-      <Key>Backspace</Key>
-      <Value>退格(BackSpace)</Value>
-    </Record>
-    <Record>
       <Key>Return</Key>
-      <Value>回车(Enter)</Value>
+      <Value>Enter</Value>
     </Record>
     <Record>
       <Key>Escape</Key>
@@ -11179,7 +11175,7 @@ Stationeers计划从土木工程从业人员、军事和航空航天工业、软
     </Record>
     <Record>
       <Key>Space</Key>
-      <Value>空格(Space)</Value>
+      <Value>Space Bar</Value>
     </Record>
     <Record>
       <Key>Exclaim</Key>
@@ -11203,11 +11199,11 @@ Stationeers计划从土木工程从业人员、军事和航空航天工业、软
     </Record>
     <Record>
       <Key>Ampersand</Key>
-      <Value>&amp;</Value>
+      <Value>&amp;amp;</Value>
     </Record>
     <Record>
       <Key>Quote</Key>
-      <Value>&quot;</Value>
+      <Value>&apos;</Value>
     </Record>
     <Record>
       <Key>LeftParen</Key>
@@ -11291,7 +11287,7 @@ Stationeers计划从土木工程从业人员、军事和航空航天工业、软
     </Record>
     <Record>
       <Key>Less</Key>
-      <Value>&lt;</Value>
+      <Value>&amp;lt;</Value>
     </Record>
     <Record>
       <Key>Equals</Key>
@@ -11299,7 +11295,7 @@ Stationeers计划从土木工程从业人员、军事和航空航天工业、软
     </Record>
     <Record>
       <Key>Greater</Key>
-      <Value>&gt;</Value>
+      <Value>&amp;gt;</Value>
     </Record>
     <Record>
       <Key>Question</Key>
@@ -11351,35 +11347,43 @@ Stationeers计划从土木工程从业人员、军事和航空航天工业、软
     </Record>
     <Record>
       <Key>Keypad0</Key>
-      <Value>Num 0</Value>
+      <Value>&amp;lt;size=40%&amp;gt;Numpad &amp;lt;/size&amp;gt;
+0</Value>
     </Record>
     <Record>
       <Key>Keypad1</Key>
-      <Value>Num 1</Value>
+      <Value>&amp;lt;size=40%&amp;gt;Numpad &amp;lt;/size&amp;gt;
+1</Value>
     </Record>
     <Record>
       <Key>Keypad2</Key>
-      <Value>Num 2</Value>
+      <Value>&amp;lt;size=40%&amp;gt;Numpad &amp;lt;/size&amp;gt;
+2</Value>
     </Record>
     <Record>
       <Key>Keypad3</Key>
-      <Value>Num 3</Value>
+      <Value>&amp;lt;size=40%&amp;gt;Numpad &amp;lt;/size&amp;gt;
+3</Value>
     </Record>
     <Record>
       <Key>Keypad4</Key>
-      <Value>Num 4</Value>
+      <Value>&amp;lt;size=40%&amp;gt;Numpad &amp;lt;/size&amp;gt;
+4</Value>
     </Record>
     <Record>
       <Key>Keypad5</Key>
-      <Value>Num 5</Value>
+      <Value>&amp;lt;size=40%&amp;gt;Numpad &amp;lt;/size&amp;gt;
+5</Value>
     </Record>
     <Record>
       <Key>Keypad6</Key>
-      <Value>Num 6</Value>
+      <Value>&amp;lt;size=40%&amp;gt;Numpad &amp;lt;/size&amp;gt;
+6</Value>
     </Record>
     <Record>
       <Key>Keypad7</Key>
-      <Value>Num 7</Value>
+      <Value>&amp;lt;size=40%&amp;gt;Numpad &amp;lt;/size&amp;gt;
+7</Value>
     </Record>
     <Record>
       <Key>Keypad8</Key>
