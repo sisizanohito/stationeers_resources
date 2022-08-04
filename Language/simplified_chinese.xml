@@ -8141,23 +8141,23 @@
     </Record>
     <Record>
       <Key>NewWorldVenusShortDesc</Key>
-      <Value>亘古不变的极端温度和超高气压使得金星不适合胆小的人。只有最有才华的Stationeer才能在这颗我们曾经的姐妹星球上生存下来，但现在这颗星球是一片不毛之地。向深处挖，否则就等着完蛋吧。</Value>
+      <Value>亘古不变的极端温度和超高气压使得金星（Venus）不适合胆小的人。只有最有才华的Stationeer才能在这颗我们曾经的姊妹星球上生存下来，但现在这颗星球是一片不毛之地。向深处挖，否则就等着完蛋吧。</Value>
     </Record>
     <Record>
       <Key>NewWorldEuropaShortDesc</Key>
-      <Value>融化的冰终于让这颗寒冷的星球拥有了一个大气层，但这上面寒冷刺骨的环境对于一个stationeers来说会是极其严峻的挑战。要对抗极端的寒冷需要很多很多的电池，因此获得稳定的电源和找到温暖的位置是你的首要任务。</Value>
+      <Value>一些冰层的融化终于让这个寒冷的世界拥有了大气层，但木卫二（Europa）极端严寒的环境是对Stationeer们的严峻挑战。这样极端寒冷的环境会导致电池迅速耗电，因此，获取稳定的电力供应和温暖的住所是你的首要任务。</Value>
     </Record>
     <Record>
       <Key>NewWorldVulcanShortDesc</Key>
-      <Value>火神星上到处可见的挥发性有机环境对于极少数生物来说是可生存的，但对于那些有冒险精神的商人来说，它那坑坑洼洼的地面和丰富的矿藏就是高风险高回报的天堂。</Value>
+      <Value>由于火神星（Vulcan）反复无常的环境，极少有有机生物能够在这里生存，但对于那些富有创业精神的贸易商们来说，火神星破碎的地表和丰富的矿藏使这里成为了一个机遇与挑战并存的世界。</Value>
     </Record>
     <Record>
       <Key>NewWorldVulcan2ShortDesc</Key>
-      <Value>由于环绕着一个非常巨大的黑洞，这颗星球已经被巨大的潮汐力撕裂。对于到达火神星的有机生物来说，这里几乎没有生存的希望。破碎的星球表面之下，却蕴含着丰富的矿物。因此对于星际贸易商来说，这里的回报也像风险一样可观。一定要当心这些看不到底的裂缝，因为这下面很可能流淌着致命的岩浆！</Value>
+      <Value>这是一个被它所环绕的超大质量黑洞的巨大潮汐力撕裂的世界。对任何来到火神星（Vulcan）的有机生物来说，这里几乎没有生存的希望，但对于那些富有创业精神的贸易商们来说，火神星破碎的地表和丰富的矿藏使这里成为了一个机遇与挑战并存的世界。务必小心那些深邃的裂隙，因为在地表下流淌着致命的岩浆！</Value>
     </Record>
     <Record>
       <Key>NewWorldMimasShortDesc</Key>
-      <Value>这是一个在土星壮观的行星环下的一颗荒凉的岩石卫星，土卫一微小的体型反映出了它具有极低的重力，而且土卫一的表面也布满了大量的撞击坑。由于与太阳的距离较远，在这里太阳能设备只能接收到很少的太阳能。在你行走或跳跃的时候一定要加倍小心，因为这里的低重力，你能轻易地达到很高的速度并跨过很长的距离。</Value>
+      <Value>这是一颗坐落在土星壮观的行星环之下的荒凉星球。土卫一（Mimas）的小个子在它极低的重力上反映了出来，并且由于那些来自行星环的难以控制的“入侵者”，它的表面布满了陨石撞击坑。由于这里距离太阳很远，太阳能设备在这里几乎不提供电力。当你在行走或跳跃时，请务必加倍小心，由于这里极低的重力，你一下能跳得很远，并且速度能达到很快。</Value>
     </Record>
     <Record>
       <Key>SettingsTitleAudioAlerts</Key>
@@ -8165,7 +8165,7 @@
     </Record>
     <Record>
       <Key>InventoryCloseAll</Key>
-      <Value>关闭所有</Value>
+      <Value>关闭全部</Value>
     </Record>
     <Record>
       <Key>ButtonResetWindows</Key>
@@ -8173,7 +8173,7 @@
     </Record>
     <Record>
       <Key>ConnectionFiltered</Key>
-      <Value>过滤</Value>
+      <Value>已过滤</Value>
     </Record>
     <Record>
       <Key>ConnectionUnfiltered</Key>
@@ -8185,7 +8185,7 @@
     </Record>
     <Record>
       <Key>ConnectionInput2</Key>
-      <Value>输入2</Value>
+      <Value>输入 2</Value>
     </Record>
     <Record>
       <Key>ConnectionOutput</Key>
@@ -8193,11 +8193,11 @@
     </Record>
     <Record>
       <Key>ConnectionOutput2</Key>
-      <Value>输出2</Value>
+      <Value>输出 2</Value>
     </Record>
     <Record>
       <Key>ConnectionWaste</Key>
-      <Value>废物</Value>
+      <Value>废弃物</Value>
     </Record>
     <Record>
       <Key>ConnectionBreathing</Key>
@@ -8209,7 +8209,7 @@
     </Record>
     <Record>
       <Key>SettingsChunkRenderDistance</Key>
-      <Value>块渲染距离</Value>
+      <Value>区块渲染距离</Value>
     </Record>
     <Record>
       <Key>ScenarioScoreboardBackToMenu</Key>
@@ -8221,7 +8221,7 @@
     </Record>
     <Record>
       <Key>ScenarioScoreboardHeading</Key>
-      <Value>场景完成</Value>
+      <Value>情境模拟完成</Value>
     </Record>
     <Record>
       <Key>ButtonCopy</Key>
@@ -8236,28 +8236,16 @@
       <Value>帮助</Value>
     </Record>
     <Record>
-      <Key>ButtonVariables</Key>
-      <Value>X</Value>
-    </Record>
-    <Record>
-      <Key>ButtonSlotVar</Key>
-      <Value>s (x)</Value>
-    </Record>
-    <Record>
       <Key>HeadingHelp</Key>
       <Value>帮助</Value>
     </Record>
     <Record>
       <Key>ButtonLoad</Key>
-      <Value>加载</Value>
+      <Value>载入</Value>
     </Record>
     <Record>
       <Key>HeadingEdit</Key>
       <Value>编辑</Value>
-    </Record>
-    <Record>
-      <Key>ButtonFunctions</Key>
-      <Value> f</Value>
     </Record>
     <Record>
       <Key>ButtonLibrary</Key>
