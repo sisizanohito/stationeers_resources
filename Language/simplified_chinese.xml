@@ -9900,15 +9900,11 @@ float.epsilon：大于零的最小可能浮点值</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBapal</Key>
-      <Value>若 abs(a - b) &amp;lt;= max(c * max(abs(a), abs(b)), float.epsilon * 8) ，则分支至行 d 执行，并将下一行的行号储存进寄存器 ra
-abs( )：取绝对值
-float.epsilon：大于零的最小可能浮点值</Value>
+      <Value>若 abs(a - b) &amp;lt;= max(c * max(abs(a), abs(b)), float.epsilon * 8) ，则分支至行 d 执行，并将下一行的行号储存进寄存器 ra</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBnaal</Key>
-      <Value>若 abs(a - b) &amp;lt;= max(c * max(abs(a), abs(b)), float.epsilon * 8) ，则分支至行 d 执行，并将下一行的行号储存进寄存器 ra
-abs( )：取绝对值
-float.epsilon：大于零的最小可能浮点值</Value>
+      <Value>若 abs(a - b) &amp;lt;= max(c * max(abs(a), abs(b)), float.epsilon * 8) ，则分支至行 d 执行，并将下一行的行号储存进寄存器 ra</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBltzal</Key>
@@ -9936,59 +9932,60 @@ float.epsilon：大于零的最小可能浮点值</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBapzal</Key>
-      <Value>如果abs(a) &lt;= float.epsilon * 8 则转移第 c 行执行代码</Value>
+      <Value>若 abs(a) &amp;lt;= float.epsilon * 8 ，则分支至行 c 执行</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBnazal</Key>
-      <Value>如果abs(a) &gt; float.epsilon * 8 则转移第 c 行执行代码</Value>
+      <Value>若 abs(a) &amp;gt; float.epsilon * 8 ，则分支至行 c 执行</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSqrt</Key>
-      <Value>寄存器 r 的值 = 对a的平方根运算</Value>
+      <Value>寄存器 r 的值 = a 的平方根</Value>
     </Record>
     <Record>
       <Key>ScriptCommandRound</Key>
-      <Value>寄存器 r 的值 = 对a四舍五入的整数</Value>
+      <Value>寄存器 r 的值 = 将 a 四舍五入至最接近的整数</Value>
     </Record>
     <Record>
       <Key>ScriptCommandTrunc</Key>
-      <Value>寄存器 r 的值 = a去掉小数部分的值 (如 trunc r1 1.5 此时r1的值为1)</Value>
+      <Value>寄存器 r 的值 = 将 a 的小数部分去除</Value>
     </Record>
     <Record>
       <Key>ScriptCommandCeil</Key>
-      <Value>寄存器 r 的值 = 大于a的最小整数</Value>
+      <Value>寄存器 r 的值 = 大于 a 的最小整数</Value>
     </Record>
     <Record>
       <Key>ScriptCommandFloor</Key>
-      <Value>寄存器 r 的值 = 小于a的最大整数</Value>
+      <Value>寄存器 r 的值 = 小于 a 的最大整数</Value>
     </Record>
     <Record>
       <Key>ScriptCommandMax</Key>
-      <Value>寄存器 r 的值 = a和b之间的最大值</Value>
+      <Value>寄存器 r 的值 = a 和 b 间的最大值</Value>
     </Record>
     <Record>
       <Key>ScriptCommandMin</Key>
-      <Value>寄存器 r 的值 = a和b之间的最小值</Value>
+      <Value>寄存器 r 的值 = a 和 b 间的最小值</Value>
     </Record>
     <Record>
       <Key>ScriptCommandAbs</Key>
-      <Value>寄存器 r 的值 = a的绝对值</Value>
+      <Value>寄存器 r 的值 = a 的绝对值</Value>
     </Record>
     <Record>
       <Key>ScriptCommandLog</Key>
-      <Value>寄存器 r 的值 = log(a) 对数函数 返回以10为底a的对数值</Value>
+      <Value>寄存器 r 的值 = log(a)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandExp</Key>
-      <Value>寄存器 r 的值 = exp(a) 指数函数 返回自然对数e的a次方的值</Value>
+      <Value>寄存器 r 的值 = exp(a)
+exp(a)：自然常数 e 的 a 次方</Value>
     </Record>
     <Record>
       <Key>ScriptCommandRand</Key>
-      <Value>寄存器 r 值等于随机的x数，x区间0 &lt;= x &lt;1</Value>
+      <Value>寄存器 r 的值 = 随机值 x（0 &amp;lt;= x &amp;lt; 1）</Value>
     </Record>
     <Record>
       <Key>ScriptCommandYield</Key>
-      <Value>暂停程序1 tick时长</Value>
+      <Value>暂停程序执行 1 tick</Value>
     </Record>
     <Record>
       <Key>ScriptCommandLabel</Key>
