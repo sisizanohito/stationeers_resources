@@ -111,39 +111,39 @@
     </Record>
     <Record>
       <Key>StatusIconHandPowerName</Key>
-      <Value>开/关 手中的设备</Value>
+      <Value>开/关 手中设备</Value>
     </Record>
     <Record>
       <Key>StatusIconInSlotName</Key>
-      <Value>你正在访问一个插槽</Value>
+      <Value>提示：你正处于一个座位中，按下“Q”以离开</Value>
     </Record>
     <Record>
       <Key>StatusIconHungerName</Key>
-      <Value>当前饥饿值</Value>
+      <Value>警告：饱食度低</Value>
     </Record>
     <Record>
       <Key>StatusIconStunName</Key>
-      <Value>昏迷值</Value>
+      <Value>警告：眩晕</Value>
     </Record>
     <Record>
       <Key>StatusIconAirTankName</Key>
-      <Value>当前气罐容量</Value>
+      <Value>警告：氧气即将耗尽</Value>
     </Record>
     <Record>
       <Key>StatusIconJetpackWarningName</Key>
-      <Value>推进剂容量</Value>
+      <Value>警告：推进剂储量低</Value>
     </Record>
     <Record>
       <Key>StatusIconFilterName</Key>
-      <Value>滤芯容量</Value>
+      <Value>警告：滤芯容量低</Value>
     </Record>
     <Record>
       <Key>StatusIconWasteName</Key>
-      <Value>废气容量</Value>
+      <Value>警告：废气罐容量低</Value>
     </Record>
     <Record>
       <Key>StatusIconHealthName</Key>
-      <Value>当前生命值</Value>
+      <Value>警告：生命值低</Value>
     </Record>
     <Record>
       <Key>StatusIconHydrationName</Key>
