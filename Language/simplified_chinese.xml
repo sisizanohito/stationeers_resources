@@ -7356,7 +7356,7 @@
     </Record>
     <Record>
       <Key>TutorialGetStarted</Key>
-      <Value>开始使用本教程</Value>
+      <Value>从教程开始游玩</Value>
     </Record>
     <Record>
       <Key>TutorialSkipButton</Key>
@@ -7376,8 +7376,10 @@
     </Record>
     <Record>
       <Key>TutorialCompleteMessage</Key>
-      <Value>还有很多东西需要学习。
-        所以出发吧，空间站长！      </Value>
+      <Value>
+        还有很多东西要学。
+        所以赶紧离开那里，Stationeer！
+      </Value>
     </Record>
     <Record>
       <Key>TutorialBackToMenu</Key>
@@ -7385,96 +7387,98 @@
     </Record>
     <Record>
       <Key>SettingsMiscInvertMouse</Key>
-      <Value>反转鼠标</Value>
+      <Value>鼠标反转</Value>
     </Record>
     <Record>
       <Key>SettingsInvertMouse</Key>
-      <Value>反转鼠标</Value>
+      <Value>鼠标反转</Value>
     </Record>
     <Record>
       <Key>MothershipConstruction</Key>
-      <Value>&lt;color=yellow&gt;安装在母舰上&lt;/color&gt;.</Value>
+      <Value>&amp;lt;color=yellow&amp;gt;在母舰上建造&amp;lt;/color&amp;gt; 。</Value>
     </Record>
     <Record>
       <Key>MulticonstructorItem</Key>
-      <Value>&lt;color=yellow&gt;建造选项 {0}/{1}&lt;/color&gt;
-                                              滚动&lt;color=red&gt;鼠标滚轮&lt;/color&gt;来选择.</Value>
+      <Value>
+        &amp;lt;color=yellow&amp;gt;建造选项 {0} / {1}&amp;lt;/color&amp;gt;
+        滚动 &amp;lt;color=red&amp;gt;鼠标滚轮&amp;lt;/color&amp;gt; 查看更多选项。
+      </Value>
     </Record>
     <Record>
       <Key>UnableToConstruct</Key>
-      <Value>&lt;color=red&gt;无法建造&lt;/color&gt;.</Value>
+      <Value>&amp;lt;color=red&amp;gt;无法建造&amp;lt;/color&amp;gt; 。</Value>
     </Record>
     <Record>
       <Key>PortableConnectionFailure</Key>
-      <Value>只能将{0}连接到此{1}</Value>
+      <Value>只能将 {0} 连接到此 {1}</Value>
     </Record>
     <Record>
       <Key>TooltipRotateLeftRight</Key>
-      <Value>按下 {KEY:RotateLeft} 和 {KEY:RotateRight} 左右旋转.</Value>
+      <Value>左右转动 = {KEY:RotateLeft} 和 {KEY:RotateRight} 。</Value>
     </Record>
     <Record>
       <Key>TooltipRotateUpDown</Key>
-      <Value>按下 {KEY:RotateUp} 和 {KEY:RotateDown} 来上下旋转.</Value>
+      <Value>上下转动 = {KEY:RotateUp} 和 {KEY:RotateDown} 。</Value>
     </Record>
     <Record>
       <Key>TooltipRollLeftRight</Key>
-      <Value>使用 {KEY:RotateRollLeft} 和 {KEY:RotateRollRight} 来左右滚动.</Value>
+      <Value>左右滚转 = {KEY:RotateRollLeft} 和 {KEY:RotateRollRight} 。</Value>
     </Record>
     <Record>
       <Key>SettingsExtendedTooltips</Key>
-      <Value>扩展的工具提示</Value>
+      <Value>额外的提示信息</Value>
     </Record>
     <Record>
       <Key>TooltipUpgrade2</Key>
-      <Value>一旦放置，请使用{0} 和 {1} 进行升级.</Value>
+      <Value>放置后，使用 {0} 和 {1} 进行升级。</Value>
     </Record>
     <Record>
       <Key>TooltipUpgrade</Key>
-      <Value>一旦放置使用 {0} 进行升级.</Value>
+      <Value>放置后，使用 {0} 进行升级。</Value>
     </Record>
     <Record>
       <Key>TooltipAllowsMounting</Key>
-      <Value>允许安装墙壁放置设备。升级以允许更好的放置区域。</Value>
+      <Value>现可安装壁挂式设备。继续升级以创造更好的放置条件。</Value>
     </Record>
     <Record>
       <Key>TooltipPlacementSnapGrid</Key>
-      <Value>放置在网格上.</Value>
+      <Value>可放置在网格中。</Value>
     </Record>
     <Record>
       <Key>TooltipPlacementSnapFace</Key>
-      <Value>放置在网格面上.</Value>
+      <Value>可放置在网格表面。</Value>
     </Record>
     <Record>
       <Key>TooltipPlacementSnapFaceMount</Key>
-      <Value>放置在小网格上</Value>
+      <Value>可放置在小网格中。</Value>
     </Record>
     <Record>
       <Key>TooltipPlacementSnapFaceMountMissingFrame</Key>
-      <Value>只允许摆放在{THING:StructureFrameIron} 和 {THING:StructureFrame} 上</Value>
+      <Value>仅可放置在 {THING:StructureFrameIron} 和 {THING:StructureFrame} 上</Value>
     </Record>
     <Record>
       <Key>TooltipPlacementSnapFaceMountMissingSupport</Key>
-      <Value>放置点需要支撑</Value>
+      <Value>放置位置需要支撑物</Value>
     </Record>
     <Record>
       <Key>TooltipPlacementSnapFaceMountBlockedDynamic</Key>
-      <Value>放置点被 #VAR1# 挡住</Value>
+      <Value>放置位置被 #VAR1# 阻挡</Value>
     </Record>
     <Record>
       <Key>TooltipPlacementSnapFaceMountBlockedFallback</Key>
-      <Value>无法摆放</Value>
+      <Value>放置位置被阻挡</Value>
     </Record>
     <Record>
       <Key>TooltipPlacementSnapFaceNotMountableDynamic</Key>
-      <Value>#VAR1# 不允许安装</Value>
+      <Value>#VAR1# 无法安装</Value>
     </Record>
     <Record>
       <Key>TooltipPlacementSnapFaceNotMountableFallback</Key>
-      <Value>其中一个结构不允许安装</Value>
+      <Value>其中一个结构件无法安装</Value>
     </Record>
     <Record>
       <Key>TooltipPlacementSnapFaceWrongFaceDynamic</Key>
-      <Value>无法安装到#VAR1#这个面, 试试安装在别的地方</Value>
+      <Value>无法安装在 #VAR1# 的这一面上，尝试安装在它的另一面上</Value>
     </Record>
     <Record>
       <Key>TooltipPlacementSnapFaceWrongFaceFallback</Key>
