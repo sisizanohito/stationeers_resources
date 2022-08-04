@@ -9,13 +9,13 @@
     <!--LEAVE THIS ALONE NEEDED FOR THOSE PAGES-->
     <StationpediaPage>
       <Key>CartridgePage</Key>
-      <Title>记忆卡</Title>
-      <Text>这些可以添加到{THING:ItemTablet}或{THING:ItemAdvancedTablet}以执行不同的诊断功能。
+      <Title>芯片</Title>
+      <Text>它们可以被插入 {THING:ItemTablet} 或 {THING:ItemAdvancedTablet} 中以实现不同的诊断功能。
 {LIST_OF_CARTRIDGES}</Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>FabricatorPage</Key>
-      <Title>装配机器</Title>
+      <Title>制造机器</Title>
       <Text>这些是需要通电来加工制造你需要的物品的设备。 他们通常用{LINK:IngotPage;锭块}来提供制造东西所需的{LINK:ReagentPage;化学原料}
         {LIST_OF_FABRICATORS}
       
