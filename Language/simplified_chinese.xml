@@ -8057,35 +8057,35 @@
     </Record>
     <Record>
       <Key>ChangeSettingToAll</Key>
-      <Value>循环到{0}</Value>
+      <Value>切换至所有 {0}</Value>
     </Record>
     <Record>
       <Key>HoldForPreviousObject</Key>
-      <Value>按住 {KEY:QuantityModifier} 对上一个对象</Value>
+      <Value>为上一个对象按住 {KEY:QuantityModifier}</Value>
     </Record>
     <Record>
       <Key>ChangeSettingToFor</Key>
-      <Value>接受1时循环到0</Value>
+      <Value>为 {1} 切换至 &amp;lt;color=yellow&amp;gt;{0}&amp;lt;/color&amp;gt;</Value>
     </Record>
     <Record>
       <Key>ChangeSettingToForIn</Key>
-      <Value>接受2、3在1里时循环到0</Value>
+      <Value>在 {1} 中为 {3} &amp;lt;color=yellow&amp;gt;（{2}）&amp;lt;/color&amp;gt; 切换至 &amp;lt;color=yellow&amp;gt;{0}&amp;lt;/color&amp;gt;</Value>
     </Record>
     <Record>
       <Key>ChangeReagentSettingTo</Key>
-      <Value>接受0、1时循环到2</Value>
+      <Value>切换至 {2} 。 &amp;lt;color=yellow&amp;gt;{0}&amp;lt;/color&amp;gt; 。 &amp;lt;color=yellow&amp;gt;{1}&amp;lt;/color&amp;gt;</Value>
     </Record>
     <Record>
       <Key>ChangeSlotSettingToFor</Key>
-      <Value>接受2时循环到0、1</Value>
+      <Value>为 {2} 切换至 {1} &amp;lt;color=yellow&amp;gt;（{0}）&amp;lt;/color&amp;gt;</Value>
     </Record>
     <Record>
       <Key>ChangeSettingToForAll</Key>
-      <Value>接受1时循环到0</Value>
+      <Value>为所有 {1} 切换至 &amp;lt;color=yellow&amp;gt;{0}&amp;lt;/color&amp;gt;&amp;gt;</Value>
     </Record>
     <Record>
       <Key>InteractionTemporarilyDisabledOnThisObject</Key>
-      <Value>在此对象上暂时禁用的操作</Value>
+      <Value>在此对象上暂时禁用交互功能</Value>
     </Record>
     <Record>
       <Key>UnableToInteractAsYouDoNotHaveTheRequiredAccessCard</Key>
