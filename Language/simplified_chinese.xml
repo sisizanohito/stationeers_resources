@@ -8037,23 +8037,23 @@
     </Record>
     <Record>
       <Key>RequiresScrewdriver</Key>
-      <Value>你需要一个 {THING:ItemScrewdriver} 去更改设置</Value>
+      <Value>你需要一把 {THING:ItemScrewdriver} 以更改设置</Value>
     </Record>
     <Record>
       <Key>LogicNoReadableDevices</Key>
-      <Value>网络上没有其他可读设备</Value>
+      <Value>网络中没有其它可读设备</Value>
     </Record>
     <Record>
       <Key>LogicNoReadableTypes</Key>
-      <Value>网络上没有其他可读类型</Value>
+      <Value>网络中没有其它可读类型</Value>
     </Record>
     <Record>
       <Key>LogicNoWritableDevices</Key>
-      <Value>网络上没有其他可写设备</Value>
+      <Value>网络中没有其它可写设备</Value>
     </Record>
     <Record>
       <Key>ChangeSettingTo</Key>
-      <Value>(待译)Cycle to {0}</Value>
+      <Value>切换至 {0}</Value>
     </Record>
     <Record>
       <Key>ChangeSettingToAll</Key>
