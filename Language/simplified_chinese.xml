@@ -11455,8 +11455,12 @@ Stationeers计划从土木工程从业人员、军事和航空航天工业、软
       <Value>Page Down</Value>
     </Record>
     <Record>
+      <Key>Numlock</Key>
+      <Value>Num Lock</Value>
+    </Record>
+    <Record>
       <Key>CapsLock</Key>
-      <Value>大写锁定(CapsLock)</Value>
+      <Value>Caps Lock</Value>
     </Record>
     <Record>
       <Key>ScrollLock</Key>
@@ -11464,27 +11468,27 @@ Stationeers计划从土木工程从业人员、军事和航空航天工业、软
     </Record>
     <Record>
       <Key>RightShift</Key>
-      <Value>R SHIFT</Value>
+      <Value>Right Shift</Value>
     </Record>
     <Record>
       <Key>LeftShift</Key>
-      <Value>L SHIFT</Value>
+      <Value>Left Shift</Value>
     </Record>
     <Record>
       <Key>RightControl</Key>
-      <Value>R Control</Value>
+      <Value>Right Ctrl</Value>
     </Record>
     <Record>
       <Key>LeftControl</Key>
-      <Value>L Control</Value>
+      <Value>Left Ctrl</Value>
     </Record>
     <Record>
       <Key>RightAlt</Key>
-      <Value>R Alt</Value>
+      <Value>Right Alt</Value>
     </Record>
     <Record>
       <Key>LeftAlt</Key>
-      <Value>L Alt</Value>
+      <Value>Left Alt</Value>
     </Record>
     <Record>
       <Key>RightApple</Key>
@@ -11492,11 +11496,11 @@ Stationeers计划从土木工程从业人员、军事和航空航天工业、软
     </Record>
     <Record>
       <Key>RightCommand</Key>
-      <Value>Right Command</Value>
+      <Value>Right Windows</Value>
     </Record>
     <Record>
       <Key>LeftCommand</Key>
-      <Value>Left Command</Value>
+      <Value>Left Windows</Value>
     </Record>
     <Record>
       <Key>LeftApple</Key>
@@ -11515,24 +11519,24 @@ Stationeers计划从土木工程从业人员、军事和航空航天工业、软
       <Value>Alt Gr</Value>
     </Record>
     <Record>
-      <Key>Help</Key>
-      <Value>F1</Value>
+      <Key>Print</Key>
+      <Value>Print Screen</Value>
     </Record>
     <Record>
       <Key>SysReq</Key>
-      <Value>Sys Req</Value>
+      <Value>Print Screen</Value>
     </Record>
     <Record>
       <Key>Mouse0</Key>
-      <Value>鼠标左键(Mouse 0)</Value>
+      <Value>Left Mouse</Value>
     </Record>
     <Record>
       <Key>Mouse1</Key>
-      <Value>鼠标右键(Mouse 1)</Value>
+      <Value>Right Mouse</Value>
     </Record>
     <Record>
       <Key>Mouse2</Key>
-      <Value>鼠标中键(Mouse 2)</Value>
+      <Value>Middle Mouse</Value>
     </Record>
     <Record>
       <Key>Mouse3</Key>
@@ -11540,8 +11544,7 @@ Stationeers计划从土木工程从业人员、军事和航空航天工业、软
     </Record>
     <Record>
       <Key>Mouse4</Key>
-      <Value>&lt;size=40%&gt;Mouse&lt;/size&gt;
-4</Value>
+      <Value>Mouse 4</Value>
     </Record>
     <Record>
       <Key>Mouse5</Key>
