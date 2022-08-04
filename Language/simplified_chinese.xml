@@ -8590,7 +8590,7 @@
     </Record>
     <Record>
       <Key>LogicTypeRequestHash</Key>
-      <Value>当被设置为唯一标识符时，从设备请求一个所提供的类型的物品</Value>
+      <Value>当其被设置为唯一标识符时，从设备请求属于指定类型的一件物品</Value>
     </Record>
     <Record>
       <Key>LogicTypeCompletionRatio</Key>
@@ -8750,43 +8750,43 @@
     </Record>
     <Record>
       <Key>LogicSlotTypeClass</Key>
-      <Value>返回表示对象类的整数</Value>
+      <Value>返回表示对象类型的整数</Value>
     </Record>
     <Record>
       <Key>LogicSlotTypePressureWaste</Key>
-      <Value>返回压力在垃圾桶的废物罐在这个插槽</Value>
+      <Value>返回此插槽中航天服的废气瓶压强</Value>
     </Record>
     <Record>
       <Key>LogicSlotTypePressureAir</Key>
-      <Value>返回压力的喷气背包在这个插槽</Value>
+      <Value>返回此插槽中航天服的空气瓶压强</Value>
     </Record>
     <Record>
       <Key>LogicSlotTypeMaxQuantity</Key>
-      <Value>返回插槽中项目的最大堆栈大小</Value>
+      <Value>返回插槽中物品的最大堆栈大小</Value>
     </Record>
     <Record>
       <Key>FuelInTankRemaining</Key>
-      <Value>获取火箭油箱中剩余的燃料。</Value>
+      <Value>获取你的火箭油箱中的剩余燃料量。</Value>
     </Record>
     <Record>
       <Key>FuelReturnCost</Key>
-      <Value>获取将火箭返回到当前世界的燃料成本。</Value>
+      <Value>获取将火箭送回你当前所在世界的燃料成本。</Value>
     </Record>
     <Record>
       <Key>RocketMode</Key>
-      <Value>荒废的。</Value>
+      <Value>已弃用</Value>
     </Record>
     <Record>
       <Key>CollectableGoods</Key>
-      <Value>根据当前火箭系统是否具有在地球上收集资源的能力，返回 0 或 1。</Value>
+      <Value>基于当前火箭系统是否有能力收集该行星上的资源，返回 0 或 1 。</Value>
     </Record>
     <Record>
       <Key>LogicTypeRequestHash</Key>
-      <Value>当被设置为唯一标识符时，从设备请求一个所提供的类型的物品</Value>
+      <Value>当其被设置为唯一标识符时，从设备请求属于指定类型的一件物品</Value>
     </Record>
     <Record>
       <Key>LogicSlotTypePrefabHash</Key>
-      <Value>返回插槽中结构的哈希</Value>
+      <Value>返回插槽中结构件的Hash值</Value>
     </Record>
     <Record>
       <Key>AppearanceButtonRandomize</Key>
@@ -8798,15 +8798,15 @@
     </Record>
     <Record>
       <Key>SettingsP2PHostNote</Key>
-      <Value>如果启用了P2P主机，Stationeers 将使用Steam的数据包中继，以便您可以在 NAT 或 VPN 模式下与好友一起玩。它不兼容 TCP/IP ，并强制不通告服务器。</Value>
+      <Value>如果P2P主机被启用，Stationeers将会使用Steam数据包中继（SDR），这样你就可以在NAT或VPN网络下与你的朋友一起游玩。它与TCP/IP协议不兼容，并强制不广播服务器。</Value>
     </Record>
     <Record>
       <Key>SettingsSavePath</Key>
-      <Value>路径</Value>
+      <Value>保存路径</Value>
     </Record>
     <Record>
       <Key>AppearanceTitleSpecies</Key>
-      <Value>种族</Value>
+      <Value>物种</Value>
     </Record>
     <Record>
       <Key>SpinnerPannelSaving</Key>
@@ -8822,7 +8822,7 @@
     </Record>
     <Record>
       <Key>OpenIncidentUI</Key>
-      <Value>打开事件</Value>
+      <Value>打开突发事件</Value>
     </Record>
     <Record>
       <Key>ContactsTrading</Key>
@@ -8842,59 +8842,43 @@
     </Record>
     <Record>
       <Key>ContactEventDefault</Key>
-      <Value>没有回复。</Value>
+      <Value>没有回应。</Value>
     </Record>
     <Record>
       <Key>ContactTradeRequest</Key>
-      <Value>一个商人请求着陆许可。</Value>
+      <Value>一位贸易商已请求着陆许可。</Value>
     </Record>
     <Record>
       <Key>TraderInUse</Key>
-      <Value>此联系人正在与某人互动中，请稍后重试。</Value>
+      <Value>此联系人已经在与某人交互中，请稍后重试。</Value>
     </Record>
     <Record>
       <Key>ContactNoResponse</Key>
-      <Value>没有回复。</Value>
+      <Value>没有回应。</Value>
     </Record>
     <Record>
       <Key>ContactTradeRequestFail</Key>
-      <Value>交易员请求安全着陆。请确保着陆空间畅通且已通电。</Value>
+      <Value>贸易商请求安全着陆。需要一个已通电的着陆平台以继续。</Value>
     </Record>
     <Record>
       <Key>ContactTradeRequestFailInUse</Key>
-      <Value>已经有人在与此交易员互动，请稍后重试。</Value>
+      <Value>有人已经在与此贸易商交互，请稍后重试。</Value>
     </Record>
     <Record>
       <Key>ContactLandingRequestFailVendingMachine</Key>
-      <Value>您需要在网络上有一台通电的自动售货机来与该交易者进行交互。</Value>
+      <Value>你需要在网络中连接一台已通电的自动售货机，从而与此贸易商交互。</Value>
     </Record>
     <Record>
       <Key>ContactLandingRequestFailSatellite</Key>
-      <Value>您的卫星有问题。检查它是否已连接到网络并已通电。</Value>
+      <Value>你的卫星天线存在问题。检查它是否已经连接到网络并通电。</Value>
     </Record>
     <Record>
       <Key>ContactLandingRequestFailStorm</Key>
-      <Value>交易者无法在这场风暴中旅行。</Value>
+      <Value>贸易商无法在这场风暴中行进。</Value>
     </Record>
     <Record>
       <Key>InputTextTradingTitle</Key>
       <Value>交易终端</Value>
-    </Record>
-    <Record>
-      <Key>TraderElectronics</Key>
-      <Value>电子科技树</Value>
-    </Record>
-    <Record>
-      <Key>TraderOrganics</Key>
-      <Value>有机物</Value>
-    </Record>
-    <Record>
-      <Key>TraderBasic</Key>
-      <Value>斯佩斯商场基础知识</Value>
-    </Record>
-    <Record>
-      <Key>TraderHydraulic</Key>
-      <Value>液压套件</Value>
     </Record>
     <Record>
       <Key>TraderOre</Key>
