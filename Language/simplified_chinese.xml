@@ -7610,15 +7610,15 @@
     </Record>
     <Record>
       <Key>PromptDebugLoadTitle</Key>
-      <Value>调试加载</Value>
+      <Value>载入调试</Value>
     </Record>
     <Record>
       <Key>PromptDebugLoadBody</Key>
-      <Value>您确定要加载这个只有一个字符的世界吗？</Value>
+      <Value>你确定要单人载入此世界吗？</Value>
     </Record>
     <Record>
       <Key>PromptDebugLoadConfirm</Key>
-      <Value>调试加载</Value>
+      <Value>载入调试</Value>
     </Record>
     <Record>
       <Key>PromptRespawnTitle</Key>
@@ -7626,7 +7626,7 @@
     </Record>
     <Record>
       <Key>PromptRespawnBody</Key>
-      <Value>你死了.</Value>
+      <Value>你死了。</Value>
     </Record>
     <Record>
       <Key>PromptRespawnConfirm</Key>
@@ -7638,7 +7638,7 @@
     </Record>
     <Record>
       <Key>PromptGiveUpBody</Key>
-      <Value>你陷入无意识状态。你想放弃然后重生吗？</Value>
+      <Value>你已失去意识。你想要放弃并重生吗？</Value>
     </Record>
     <Record>
       <Key>PromptGiveUpConfirm</Key>
@@ -7646,11 +7646,11 @@
     </Record>
     <Record>
       <Key>AlertYourSaveFileIsBroken</Key>
-      <Value>文件{0}无效，请检查世界{1}。</Value>
+      <Value>文件 {0} 无效。请检查世界 {1} 。</Value>
     </Record>
     <Record>
       <Key>AlertInvalidIP</Key>
-      <Value>无效的IP地址 {0} \n检查IP地址或URL是否有效</Value>
+      <Value>无效的IP地址 {0} \n请检查IP地址或URL是否有效</Value>
     </Record>
     <Record>
       <Key>AlertNoBackups</Key>
@@ -7658,36 +7658,38 @@
     </Record>
     <Record>
       <Key>AlertPlayerCountExceeded</Key>
-      <Value>服务器已满.</Value>
+      <Value>服务器已满。</Value>
     </Record>
     <Record>
       <Key>AlertVersionMismatch</Key>
-      <Value>游戏版本与服务器不匹配.</Value>
+      <Value>游戏版本与服务器不匹配。</Value>
     </Record>
     <Record>
       <Key>AlertNoResponse</Key>
-      <Value>游戏服务器无响应.
-                                              请重试.</Value>
+      <Value>
+        游戏服务器未响应。
+        请重试。
+      </Value>
     </Record>
     <Record>
       <Key>AlertKicked</Key>
-      <Value>你被踢出了服务器.</Value>
+      <Value>你已被移除出服务器。</Value>
     </Record>
     <Record>
       <Key>AlertWrongPassword</Key>
-      <Value>服务器密码不正确.</Value>
+      <Value>服务器密码不正确。</Value>
     </Record>
     <Record>
       <Key>AlertInvalidPort</Key>
-      <Value>端口值必须介于0到65535之间.</Value>
+      <Value>端口值必须介于0和65535之间。</Value>
     </Record>
     <Record>
       <Key>AlertCannotUpdatePort</Key>
-      <Value>无法在服务器运行时修改更新端口.</Value>
+      <Value>无法在服务器运行时修改更新端口。</Value>
     </Record>
     <Record>
       <Key>AlertBlankSaveName</Key>
-      <Value>您必须输入世界名称才能保存.</Value>
+      <Value>你必须输入世界名称才能保存。</Value>
     </Record>
     <Record>
       <Key>AlertTitleAttention</Key>
@@ -7699,15 +7701,15 @@
     </Record>
     <Record>
       <Key>TooltipNeedMoreKit</Key>
-      <Value>&lt;color=red&gt;需要更多{0}&lt;/color&gt;.</Value>
+      <Value>&amp;lt;color=red&amp;gt;需要更多 {0}&amp;lt;/color&amp;gt; 。</Value>
     </Record>
     <Record>
       <Key>JoinMenuSearchPlaceholder</Key>
-      <Value>服务器名搜索</Value>
+      <Value>按服务器名称搜索</Value>
     </Record>
     <Record>
       <Key>JoinMenuAddressPlaceholder</Key>
-      <Value>此处输入 [IP地址 : 端口号] ...</Value>
+      <Value>在此处输入[IP地址:端口号]...</Value>
     </Record>
     <Record>
       <Key>JoinMenuServerDetailConnectButton</Key>
