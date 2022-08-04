@@ -10234,11 +10234,11 @@ acos：返回余弦为指定值 a 的角度（弧度制）</Value>
     </Record>
     <Record>
       <Key>Stage1Contains</Key>
-      <Value>包含{0}在{2}舞台{1}{3}</Value>
+      <Value>在 {2}阶段 {1}{3} 包含 {0}</Value>
     </Record>
     <Record>
       <Key>PlantWillCreate</Key>
-      <Value>这将创建{2}{0}{3} x {1}</Value>
+      <Value>这将创造 {2}{0}{3} x {1}</Value>
     </Record>
     <Record>
       <Key>PlantGrowing</Key>
@@ -10250,27 +10250,27 @@ acos：返回余弦为指定值 a 的角度（弧度制）</Value>
     </Record>
     <Record>
       <Key>PlantHydrate</Key>
-      <Value>{0} 缺乏 {1}水{2}</Value>
+      <Value>此 {0} 缺乏 {1}水分{2}</Value>
     </Record>
     <Record>
       <Key>NoAtmos</Key>
-      <Value>此 {0} 无任何 {1}气体{2}</Value>
+      <Value>此 {0} 没有 {1}气体{2}</Value>
     </Record>
     <Record>
       <Key>PlantTemperature</Key>
-      <Value>{0} 未处在正确的 {1}温度{2}</Value>
+      <Value>此 {0} 未处在正确的 {1}温度{2} 下</Value>
     </Record>
     <Record>
       <Key>PlantNoSunlight</Key>
-      <Value>{0}没有所需的{1}太阳光{2}</Value>
+      <Value>此 {0} 没有所需的 {1}阳光{2}</Value>
     </Record>
     <Record>
       <Key>PlantToxic</Key>
-      <Value>由于空气中的高 {1} 污染物{2}, {0} 在遭受损害</Value>
+      <Value>此 {0} 正在由于大气环境中的高浓度 {1}污染性气体{2} 而受到损害</Value>
     </Record>
     <Record>
       <Key>holdhotkey</Key>
-      <Value>(按住)</Value>
+      <Value>（按住）</Value>
     </Record>
     <Record>
       <Key>Pipe</Key>
@@ -10278,15 +10278,15 @@ acos：返回余弦为指定值 a 的角度（弧度制）</Value>
     </Record>
     <Record>
       <Key>Power</Key>
-      <Value>电源</Value>
+      <Value>电力</Value>
     </Record>
     <Record>
       <Key>Data</Key>
-      <Value>数据口</Value>
+      <Value>数据</Value>
     </Record>
     <Record>
       <Key>Chute</Key>
-      <Value>溜槽</Value>
+      <Value>滑槽</Value>
     </Record>
     <Record>
       <Key>Elevator</Key>
@@ -10294,7 +10294,7 @@ acos：返回余弦为指定值 a 的角度（弧度制）</Value>
     </Record>
     <Record>
       <Key>PowerAndData</Key>
-      <Value>电源/数据</Value>
+      <Value>电力和数据</Value>
     </Record>
     <Record>
       <Key>All</Key>
@@ -10302,7 +10302,7 @@ acos：返回余弦为指定值 a 的角度（弧度制）</Value>
     </Record>
     <Record>
       <Key>DeconstructToolTipText</Key>
-      <Value>解构需要 {0}</Value>
+      <Value>需要 {0} 以拆除</Value>
     </Record>
     <Record>
       <Key>SettingsDoubleClickDelay</Key>
@@ -10322,15 +10322,15 @@ acos：返回余弦为指定值 a 的角度（弧度制）</Value>
     </Record>
     <Record>
       <Key>SettingsFirstPersonHelmet</Key>
-      <Value>第一人称头盔</Value>
+      <Value>第一人称视角显示头盔</Value>
     </Record>
     <Record>
       <Key>SiloDeconstruct</Key>
-      <Value>在拆除之前，您的筒仓必须是空的。</Value>
+      <Value>在拆除筒仓之前，它必须是空的。</Value>
     </Record>
     <Record>
       <Key>PressEnterToContinue</Key>
-      <Value>按空间继续</Value>
+      <Value>按下 &amp;lt;color=#FBB03B&amp;gt;空格&amp;lt;/color&amp;gt; 以继续</Value>
     </Record>
     <Record>
       <Key>TutorialCompleteDateOfCompletion</Key>
