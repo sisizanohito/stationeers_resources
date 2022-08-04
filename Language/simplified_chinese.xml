@@ -6788,15 +6788,15 @@
     </Record>
     <Record>
       <Key>WorldInfoTextDate</Key>
-      <Value>已保存：</Value>
+      <Value>已保存:</Value>
     </Record>
     <Record>
       <Key>WorldInfoTextPlaytime</Key>
-      <Value>游戏时间：</Value>
+      <Value>游戏时间:</Value>
     </Record>
     <Record>
       <Key>WorldInfoMapName</Key>
-      <Value>地图：</Value>
+      <Value>地图:</Value>
     </Record>
     <Record>
       <Key>WorldInfoTextAsteroids</Key>
@@ -7717,35 +7717,27 @@
     </Record>
     <Record>
       <Key>JoinMenuServerDetailInfoButton</Key>
-      <Value>显示信息</Value>
+      <Value>查看信息</Value>
     </Record>
     <Record>
       <Key>JoinMenuServerDetailUnFavoriteButton</Key>
-      <Value>删除收藏</Value>
+      <Value>移除收藏</Value>
     </Record>
     <Record>
       <Key>JoinMenuServerDetailFavoriteButton</Key>
       <Value>收藏</Value>
     </Record>
     <Record>
-      <Key>SaveMenuSaveWorldButton</Key>
-      <Value>保存世界</Value>
-    </Record>
-    <Record>
-      <Key>SaveMenuOverwriteButton</Key>
-      <Value>覆盖世界</Value>
-    </Record>
-    <Record>
       <Key>SaveMenuNamePlaceholder</Key>
-      <Value>输入保存的名字</Value>
+      <Value>输入存档名称...</Value>
     </Record>
     <Record>
       <Key>NewWorldModeCreative</Key>
-      <Value>创造</Value>
+      <Value>创造模式</Value>
     </Record>
     <Record>
       <Key>NewWorldModeSurvival</Key>
-      <Value>生存</Value>
+      <Value>生存模式</Value>
     </Record>
     <Record>
       <Key>JoinMenuServerListMap</Key>
@@ -7753,7 +7745,7 @@
     </Record>
     <Record>
       <Key>JoinMenuInfoIPAddress</Key>
-      <Value>IP 地址:</Value>
+      <Value>IP地址:</Value>
     </Record>
     <Record>
       <Key>JoinMenuInfoMap</Key>
