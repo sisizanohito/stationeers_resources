@@ -1015,19 +1015,19 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterVolatiles</Key>
-      <Value>滤芯(挥发性有机物)</Value>
+      <Value>普通滤芯（挥发性气体）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterWater</Key>
-      <Value>滤芯（水）</Value>
+      <Value>普通滤芯（水）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasTankStorage</Key>
-      <Value>套件（气体储瓶）</Value>
+      <Value>套件包（储气瓶装填器）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemLiquidTankStorage</Key>
-      <Value>套件（液体储瓶）</Value>
+      <Value>套件包（储液瓶装填器）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGlassSheets</Key>
@@ -1035,11 +1035,11 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemGoldIngot</Key>
-      <Value>金属锭(金)</Value>
+      <Value>Ingot (Gold) 锭（金）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGoldOre</Key>
-      <Value>矿石(金)</Value>
+      <Value>Ore (Gold) 矿石（金）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGrenade</Key>
@@ -1055,39 +1055,39 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemHydroponicTray</Key>
-      <Value>套件（水培托盘）</Value>
+      <Value>套件包（水培托盘）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemIce</Key>
-      <Value>冰(水)</Value>
+      <Value>Ice (Water) 冰（水）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemIgniter</Key>
-      <Value>套件（点火器）</Value>
+      <Value>套件包（点火器）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemInsulation</Key>
-      <Value>保温</Value>
+      <Value>绝热材料</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemIronIngot</Key>
-      <Value>金属锭(铁)</Value>
+      <Value>Ingot (Iron) 锭（铁）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemIronOre</Key>
-      <Value>矿石(铁)</Value>
+      <Value>Ore (Iron) 矿石（铁）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAirlock</Key>
-      <Value>套件（气闸）</Value>
+      <Value>套件包（气闸）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAtmospherics</Key>
-      <Value>套件（气体处理机）</Value>
+      <Value>套件包（大气设备）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitBattery</Key>
-      <Value>套件（电池）</Value>
+      <Value>套件包（蓄电池）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitCentrifuge</Key>
