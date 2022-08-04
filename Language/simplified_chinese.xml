@@ -8881,46 +8881,6 @@
       <Value>交易终端</Value>
     </Record>
     <Record>
-      <Key>TraderOre</Key>
-      <Value>开矿仪式</Value>
-    </Record>
-    <Record>
-      <Key>TraderMicrowave</Key>
-      <Value>微波炉</Value>
-    </Record>
-    <Record>
-      <Key>TraderChemistry</Key>
-      <Value>化学实验室</Value>
-    </Record>
-    <Record>
-      <Key>TraderExotics</Key>
-      <Value>外星科技</Value>
-    </Record>
-    <Record>
-      <Key>TraderPaint</Key>
-      <Value>彩色公司涂料</Value>
-    </Record>
-    <Record>
-      <Key>TraderTool</Key>
-      <Value>工具公司</Value>
-    </Record>
-    <Record>
-      <Key>TraderSecurity</Key>
-      <Value>霍尔公司安全</Value>
-    </Record>
-    <Record>
-      <Key>TraderOther</Key>
-      <Value>科德斯的什锦商品</Value>
-    </Record>
-    <Record>
-      <Key>TraderGas</Key>
-      <Value>气体贸易</Value>
-    </Record>
-    <Record>
-      <Key>TraderCustom</Key>
-      <Value>Spes购物中心</Value>
-    </Record>
-    <Record>
       <Key>ButtonContact</Key>
       <Value>联络</Value>
     </Record>
@@ -8930,7 +8890,7 @@
     </Record>
     <Record>
       <Key>BackupMenuFileListTitle</Key>
-      <Value>备份</Value>
+      <Value>备份文件</Value>
     </Record>
     <Record>
       <Key>Experiments</Key>
@@ -8938,7 +8898,7 @@
     </Record>
     <Record>
       <Key>OcclusionTickSpeed</Key>
-      <Value>碰撞检测的Tick速度</Value>
+      <Value>环境光遮蔽的Tick速度</Value>
     </Record>
     <Record>
       <Key>RoomControlTickSpeed</Key>
@@ -8946,15 +8906,15 @@
     </Record>
     <Record>
       <Key>LogicTypeTargetX</Key>
-      <Value>世界坐标下目标在X轴上的位置</Value>
+      <Value>目标位置的X坐标</Value>
     </Record>
     <Record>
       <Key>LogicTypeTargetY</Key>
-      <Value>世界坐标下目标在Y轴上的位置</Value>
+      <Value>目标位置的Y坐标</Value>
     </Record>
     <Record>
       <Key>LogicTypeTargetZ</Key>
-      <Value>世界坐标下目标在Z轴上的位置</Value>
+      <Value>目标位置的Z坐标</Value>
     </Record>
     <Record>
       <Key>LogicTypeSettingInputHash</Key>
@@ -8966,15 +8926,15 @@
     </Record>
     <Record>
       <Key>ButtonDepart</Key>
-      <Value>分离</Value>
+      <Value>启程</Value>
     </Record>
     <Record>
       <Key>SettingsShowSlotTooltips</Key>
-      <Value>显示插槽提示</Value>
+      <Value>显示插槽提示信息</Value>
     </Record>
     <Record>
       <Key>SettingsWorldOrigin</Key>
-      <Value>始终处于世界中心</Value>
+      <Value>世界原点重设</Value>
     </Record>
     <Record>
       <Key>GameMenuButtonPause</Key>
