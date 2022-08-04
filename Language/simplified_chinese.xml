@@ -9993,55 +9993,56 @@ exp(a)：自然常数 e 的 a 次方</Value>
     </Record>
     <Record>
       <Key>ScriptCommandPeek</Key>
-      <Value>取栈顶值放入寄存器 r 中</Value>
+      <Value>寄存器 r 的值 = 堆栈栈顶值</Value>
     </Record>
     <Record>
       <Key>ScriptCommandPush</Key>
-      <Value>入栈操作. 将a值压入堆栈中，并将sp寄存器的值加1</Value>
+      <Value>将 a 的值压入寄存器 sp 处的堆栈中，并将寄存器 sp 的值递增（入栈）</Value>
     </Record>
     <Record>
       <Key>ScriptCommandPop</Key>
-      <Value>出栈操作. 取堆栈顶部的值放入寄存器 r 中，并且将sp寄存器的值减一</Value>
+      <Value>寄存器 r 的值 = 堆栈栈顶值，并将寄存器 sp 的值递减（出栈）</Value>
     </Record>
     <Record>
       <Key>ScriptCommandHcf</Key>
-      <Value>Halt and catch fire, 早期计算机的机器指令，作用是让CPU去做循环的寻址动作，CPU不停地做读取大量数据的循环，如果寻到不存在的内存地址(此时为Catch fire)，将会锁定计算机，即Halt. </Value>
+      <Value>宕机并烧毁（HCF）：早期计算机命令，执行后将使计算机进入竞态条件，迫使所有指令同时争夺优先权。将无法重新获得对计算机的控制。</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSelect</Key>
-      <Value>如果a不为0，则寄存器值为b，否则为c</Value>
+      <Value>寄存器 r 的值 = 若 a 非零则为 b ，否则为 c</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSleep</Key>
-      <Value>IC程序暂停执行1秒钟</Value>
+      <Value>暂停IC上的程序执行 a 秒</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSin</Key>
-      <Value>返回指定角度（弧度）的正弦值</Value>
+      <Value>返回指定角度 a（弧度制）的正弦值</Value>
     </Record>
     <Record>
       <Key>ScriptCommandCos</Key>
-      <Value>返回指定角度（弧度）的余弦值</Value>
+      <Value>cos：返回指定角度 a（弧度制）的余弦值
+acos：返回余弦为指定值 a 的角度（弧度制）</Value>
     </Record>
     <Record>
       <Key>ScriptCommandTan</Key>
-      <Value>返回指定角度的正切（弧度） </Value>
+      <Value>返回指定角度 a（弧度制）的正切值</Value>
     </Record>
     <Record>
       <Key>ScriptCommandASin</Key>
-      <Value>返回正弦值对应的角度（弧度）</Value>
+      <Value>返回正弦为指定值 a 的角度（弧度制）</Value>
     </Record>
     <Record>
       <Key>ScriptCommandACos</Key>
-      <Value>返回余弦值对应的角度（弧度）</Value>
+      <Value>返回余弦为指定值 a 的角度（弧度制）</Value>
     </Record>
     <Record>
       <Key>ScriptCommandATan</Key>
-      <Value>返回正切值对应的角度（弧度）</Value>
+      <Value>返回正切为指定值 a 的角度（弧度制）</Value>
     </Record>
     <Record>
       <Key>ScriptCommandATan2</Key>
-      <Value>返回角度（弧度），其切线是两个指定值的商：a （y） 和 b （x）</Value>
+      <Value>返回角度（弧度制），其正切值为两个指定值的商：a (y) 和 b (x)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandCommand</Key>
@@ -10065,15 +10066,15 @@ exp(a)：自然常数 e 的 a 次方</Value>
     </Record>
     <Record>
       <Key>SettingsResearch</Key>
-      <Value>研究功能</Value>
+      <Value>科研资源选择</Value>
     </Record>
     <Record>
       <Key>DialogConfirmResearchUnlock</Key>
-      <Value>是否要解锁该研究?</Value>
+      <Value>你要解锁该科研项目吗？</Value>
     </Record>
     <Record>
       <Key>ResearchRequirementTitle</Key>
-      <Value>需求</Value>
+      <Value>必要条件</Value>
     </Record>
     <Record>
       <Key>ResearchUnlocksTitle</Key>
