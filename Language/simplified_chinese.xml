@@ -7482,15 +7482,15 @@
     </Record>
     <Record>
       <Key>TooltipPlacementSnapFaceWrongFaceFallback</Key>
-      <Value>无法安装到这个面，试试安装在其他地方</Value>
+      <Value>无法安装在这一面上，尝试安装在另一面上</Value>
     </Record>
     <Record>
       <Key>GameMenuClearDisconnectedPlayers</Key>
-      <Value>清除断开连接的玩家</Value>
+      <Value>清除离线玩家</Value>
     </Record>
     <Record>
       <Key>SettingsInvertMouseWheelInventory</Key>
-      <Value>反转物品选择滚轴</Value>
+      <Value>库存控制鼠标滚轮反转</Value>
     </Record>
     <Record>
       <Key>SettingsTitleMultiplayerAdvanced</Key>
@@ -7498,11 +7498,11 @@
     </Record>
     <Record>
       <Key>SettingsUPNPNote</Key>
-      <Value>如果您的路由器启用了通用即插即用（UPNP），当您主持游戏时，这些端口将自动转发.</Value>
+      <Value>如果在此设备和你的路由器上启用了通用即插即用协议（UPnP），这些端口将会在你创建游戏时自动转发。</Value>
     </Record>
     <Record>
       <Key>SettingsTooltipOpacity</Key>
-      <Value>提示文本透明度</Value>
+      <Value>提示信息不透明度</Value>
     </Record>
     <Record>
       <Key>MenuDownloadDriverButton</Key>
@@ -7510,11 +7510,11 @@
     </Record>
     <Record>
       <Key>MenuDownloadDriverWarning</Key>
-      <Value>许多AMD显卡用户报告了游戏的问题，通过更新驱动程序解决了这些问题.  我们 &lt;b&gt;强烈建议&lt;/b&gt; 你在玩之前更新</Value>
+      <Value>许多AMD显卡用户报告他们通过更新驱动程序解决了游戏问题。我们 &amp;lt;b&amp;gt;强烈&amp;lt;/b&amp;gt; 建议你在游玩之前更新驱动程序。</Value>
     </Record>
     <Record>
       <Key>SettingsChatFadeTimer</Key>
-      <Value>聊天淡出延迟</Value>
+      <Value>聊天窗淡出延迟</Value>
     </Record>
     <Record>
       <Key>PromptResetSettingsTitle</Key>
@@ -7522,7 +7522,7 @@
     </Record>
     <Record>
       <Key>PromptResetSettingsBody</Key>
-      <Value>你确定？</Value>
+      <Value>你确定吗？</Value>
     </Record>
     <Record>
       <Key>PromptResetSettingsConfirm</Key>
@@ -7534,7 +7534,7 @@
     </Record>
     <Record>
       <Key>SteamErrorBody</Key>
-      <Value>无法连接到Steam。  尝试重新启动Steam，然后再重新游戏</Value>
+      <Value>无法连接至Steam。尝试在重启Stationeers前先重启Steam客户端。</Value>
     </Record>
     <Record>
       <Key>SteamErrorButton</Key>
@@ -7542,11 +7542,11 @@
     </Record>
     <Record>
       <Key>WaitingTitle</Key>
-      <Value>保存中警告</Value>
+      <Value>警告：保存中</Value>
     </Record>
     <Record>
       <Key>WaitingBody</Key>
-      <Value>仍在保存世界数据。请在保存完成后重试。</Value>
+      <Value>世界数据仍在保存中。请在保存完成后重试。</Value>
     </Record>
     <Record>
       <Key>PromptQuitTitle</Key>
@@ -7554,7 +7554,7 @@
     </Record>
     <Record>
       <Key>PromptQuitBody</Key>
-      <Value>您确定要退出吗？</Value>
+      <Value>你确定要退出吗？</Value>
     </Record>
     <Record>
       <Key>PromptQuitConfirm</Key>
@@ -7566,7 +7566,7 @@
     </Record>
     <Record>
       <Key>PromptUnsubscribeBody</Key>
-      <Value>确定要取消订阅此工坊项目吗？</Value>
+      <Value>你确定要取消订阅此创意工坊项目吗？</Value>
     </Record>
     <Record>
       <Key>PromptUnsubscribeConfirm</Key>
@@ -7578,7 +7578,7 @@
     </Record>
     <Record>
       <Key>PromptOverwriteBody</Key>
-      <Value>您确定要覆盖现有的已保存的游戏吗？</Value>
+      <Value>你确定要覆盖现有的已保存世界吗？</Value>
     </Record>
     <Record>
       <Key>PromptOverwriteConfirm</Key>
@@ -7586,11 +7586,11 @@
     </Record>
     <Record>
       <Key>PromptPublishTitle</Key>
-      <Value>发布到创意工坊</Value>
+      <Value>发布至创意工坊</Value>
     </Record>
     <Record>
       <Key>PromptPublishBody</Key>
-      <Value>您确定要将这个世界发布到创意工坊吗？</Value>
+      <Value>你确定要将此世界发布至创意工坊吗？</Value>
     </Record>
     <Record>
       <Key>PromptPublishConfirm</Key>
@@ -7602,7 +7602,7 @@
     </Record>
     <Record>
       <Key>PromptDeleteBody</Key>
-      <Value>你确定？</Value>
+      <Value>你确定吗？</Value>
     </Record>
     <Record>
       <Key>PromptDeleteConfirm</Key>
