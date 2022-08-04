@@ -9743,13 +9743,12 @@ mod：取余（运算结果仅能为正）
       <Key>ScriptCommandBap</Key>
       <Value>若 abs(a - b) &amp;lt;= max(c * max(abs(a), abs(b)), float.epsilon * 8) ，则分支至行 d 执行
 abs( )：取绝对值
+max( )：取最大值
 float.epsilon：大于零的最小可能浮点值</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBna</Key>
-      <Value>若 abs(a - b) &amp;gt; max(c * max(abs(a), abs(b)), float.epsilon * 8) ，则分支至行 d 执行
-abs( )：取绝对值
-float.epsilon：大于零的最小可能浮点值</Value>
+      <Value>若 abs(a - b) &amp;gt; max(c * max(abs(a), abs(b)), float.epsilon * 8) ，则分支至行 d 执行</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBltz</Key>
@@ -9777,15 +9776,11 @@ float.epsilon：大于零的最小可能浮点值</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBapz</Key>
-      <Value>若 abs(a) &amp;lt;= float.epsilon * 8 ，则分支至行 c 执行
-abs( )：取绝对值
-float.epsilon：大于零的最小可能浮点值</Value>
+      <Value>若 abs(a) &amp;lt;= float.epsilon * 8 ，则分支至行 c 执行</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBnaz</Key>
-      <Value>若 abs(a) &amp;gt; float.epsilon * 8 ，则分支至行 c 执行
-abs( )：取绝对值
-float.epsilon：大于零的最小可能浮点值</Value>
+      <Value>若 abs(a) &amp;gt; float.epsilon * 8 ，则分支至行 c 执行</Value>
     </Record>
     <Record>
       <Key>ScriptCommandJr</Key>
@@ -9829,15 +9824,11 @@ float.epsilon：大于零的最小可能浮点值</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBrap</Key>
-      <Value>若 abs(a - b) &amp;lt;= max(c * max(abs(a), abs(b)), float.epsilon * 8) ，则相对跳转至行 d 执行
-abs( )：取绝对值
-float.epsilon：大于零的最小可能浮点值</Value>
+      <Value>若 abs(a - b) &amp;lt;= max(c * max(abs(a), abs(b)), float.epsilon * 8) ，则相对跳转至行 d 执行</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBrna</Key>
-      <Value>若 abs(a - b) &amp;gt; max(c * max(abs(a), abs(b)), float.epsilon * 8) ，则相对跳转至行 d 执行
-abs( )：取绝对值
-float.epsilon：大于零的最小可能浮点值</Value>
+      <Value>若 abs(a - b) &amp;gt; max(c * max(abs(a), abs(b)), float.epsilon * 8) ，则相对跳转至行 d 执行</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBrltz</Key>
@@ -9865,15 +9856,11 @@ float.epsilon：大于零的最小可能浮点值</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBrapz</Key>
-      <Value>若 abs(a) &amp;lt;= float.epsilon * 8 ，则相对跳转至行 c 执行
-abs( )：取绝对值
-float.epsilon：大于零的最小可能浮点值</Value>
+      <Value>若 abs(a) &amp;lt;= float.epsilon * 8 ，则相对跳转至行 c 执行</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBrnaz</Key>
-      <Value>若 abs(a) &amp;gt; float.epsilon * 8 ，则相对跳转至行 c 执行
-abs( )：取绝对值
-float.epsilon：大于零的最小可能浮点值</Value>
+      <Value>若 abs(a) &amp;gt; float.epsilon * 8 ，则相对跳转至行 c 执行</Value>
     </Record>
     <Record>
       <Key>ScriptCommandJal</Key>
