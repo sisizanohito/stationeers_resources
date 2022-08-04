@@ -458,54 +458,56 @@
       <Key>NutritionPage</Key>
       <Title>饥饿与营养</Title>
       <DisplayFilter>Guides</DisplayFilter>
-      <Text>{HEADER:HUNGER}
+      <Text>{HEADER:饥饿}
 
-空间站长总会感到饥饿的，但并非所有食物都一样。此外，您的饥饿率因设置和难度而异。进食只会消耗足以将饥饿感恢复到100%的那部分。
+Stationeer们最终会感到饥饿，但并不是所有的食物都是生而平等的。此外，你的饱食度的下降率取决于你的具体设置和难度设定。在进食时，只会消耗足以将你的饱食度恢复到100%的那部分食物。
 
-空间站长在到达新世界后在他们的着陆器中会受到如{LINK:Agrizero;Agrizero}{THING:ItemCerealBar}的食物。当这些都用尽时，你必须找到新的食物来源 - 例如种植自己的种子，从提供的种子，或联系{LINK:TradingPage;Trader}
+当Stationeer们到达一个新世界时，可以在他们的着陆器中获得食物供应，比如 {LINK:Agrizero;Agrizero} {THING:ItemCerealBar} 。当这些食物耗尽时，你必须找到新的食物来源 - 比如用供应的种子自己种植，或者联络一位 {LINK:TradingPage;贸易商} 。
 
-{HEADER:NUTRITION}
+{HEADER:营养}
 
-吃原料会比吃饭更不能满足饥饿感，即会取代你饥饿感的一小部分。食物的基本元素是使用{LINK:OrganicPage;hydroponics}系统创建的。这些可以使用{THING:ApplianceReagentProcessor}加工成食谱成分，然后使用{THING:ApplianceMicrowave}或{THING:StructureAutomatedOven}变成饭菜。
+食用食物原料将小幅恢复你的饱食度，没有食用制成的食品恢复得多。食物的基本成分是由 {LINK:OrganicPage;水培} 系统生产的。它们可以被 {THING:ApplianceReagentProcessor} 加工成食谱原料，接着用 {THING:ApplianceMicrowave} 或 {THING:StructureAutomatedOven} 将其制成食品。
 
-您的饥饿率可以通过调整设置中的饥饿/补水率滑块在主设置菜单中设置。请注意，饥饿滑块也控制您的{LINK:HydrationPage;Thirst}。</Text>
+你的饱食度下降率可以在主设置菜单中，通过调节饱食度/水分含量下降率的滑块设置。请注意，饱食度滑块同时也会控制你的 {LINK:HydrationPage;水分含量下降率} 。
+      </Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>FarmingPage</Key>
-      <Title>种植粮食</Title>
+      <Title>种植食物</Title>
       <DisplayFilter>Guides</DisplayFilter>
-      <Text>为了在外星世界中生存，发展署期望所有空间站长建立可行的{LINK:OrganicPage;hydroponic}系统，或联系注册的本地资源{LINK:TradingPage;traders}。
+      <Text>为了在外星世界生存， {LINK:ODA;ODA} 要求所有的 {LINK:Stationeers;Stationeer} 建立可独立发展的 {LINK:OrganicPage;水培} 系统，或者联络已注册的本地资源 {LINK:TradingPage;贸易商} 。
 
-{HEADER:SETTING UP}
+{HEADER:组建}
 
-在设置水培系统时，您将需要{LINK:OrganicPage;seeds}。或者，您可以种植食物本身。
+当组建你的水培系统时，你将需要 {LINK:OrganicPage;种子} 。或者，你也可以种植食物本身。
 
-常见的水培设备包括：
+常见的Stationeer水培设备有：
 
 - {THING:DynamicHydroponics}
 - {THING:ItemHydroponicTray}
 - {THING:ItemKitHydroponicStation}
 - {THING:StructureHarvie}
 
-所有水培系统都需要水，阳光和正确的气体混合物 - 工厂需要{GAS:CarbonDioxide}并产生氧气（除了{THING:ItemAlienMushroom}）。植物不会在错误的空气中生长。如果植物没有足够的光，你需要建立一个{THING:StructureGrowLight}。
+所有的水培系统都需要水、阳光和正确的混合气体 - 植物需要消耗 {GAS:CarbonDioxide} ，并产生氧气（除了 {THING:ItemAlienMushroom} ）。植物不会再错误的大气环境中生长。如果植物没有得到充足的光照，你将需要建造一盏 {THING:StructureGrowLight} 。
 
-您的系统将依赖于可用的资源和时间，但是如果有足够的时间和资源，设计良好的农业系统几乎可以完全自动化。
+你的水培系统的生产效率取决于可用的资源和时间，但如果有充足的时间和资源，一个设计良好的农业系统几乎可以完全实现自动化。
 
-{HEADER:HARVESTING}
+{HEADER:收获}
 
-大多数植物有几个生长阶段。第一阶段是植物在其生命周期中生长。在第三阶段，可以从植物中收获种子。在第四阶段，植物将结出果实。之后，除非清除，否则植物将死亡。
+大多数植物都有多个生长阶段。第一第二阶段，是植物生命周期中的生长阶段。在第三阶段期间，在植物中可以收获种子。在第四阶段中，植物会结出果实。在那之后，除非植物被清除，否则其将会死亡。
 
-{HEADER:FERTILIZER}
+{HEADER:肥料}
 
-肥料改变植物生长过程，由{THING:PortableComposter}和{THING:StructureAdvancedComposter}使用{LINK:OrganicPage;organic}物质创建。
+肥料能加快植物的生长过程，它由 {LINK:OrganicPage;有机} 物质在 {THING:PortableComposter} 和 {THING:StructureAdvancedComposter} 中生产。
 
-肥料的影响取决于其成分：
+肥料的效果取决于其配料：
 
-- {LINK:OrganicPage;Food}将单个植物产量提高多达 3 个项目
-- {THING:DecayedFood}增加植物生长速度高达3倍
-- {THING:ItemBiomass}增加了肥料持续的生长周期数，最多5个
+- {LINK:OrganicPage;食物} 能增多单株植物产量，最多增多至3倍
+- {THING:DecayedFood} 能加快植物的生长速度，最多加快至3倍
+- {THING:ItemBiomass} 能增加肥料持续起作用的生长周期，最多增加到5个
 
-这些成分的作用取决于它们在加工被激活时在堆肥机中的各自比例。肥料以肥料与成分的1：3比例生产。在加工时，{GAS:Nitrogen}和{GAS:Volatiles}被释放出来，以及少量的热量。</Text>
+这些配料造成的具体效果取决于它们各自在堆肥机中投料的比例。肥料由肥料与配料1:3的比例生产。在生产肥料时，会释放出 {GAS:Nitrogen} 和 {GAS:Volatiles} ，以及少量的热。
+      </Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>DecayPage</Key>
