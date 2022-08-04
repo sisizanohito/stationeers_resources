@@ -9661,87 +9661,95 @@ float.epsilon：大于零的最小可能浮点值</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSnez</Key>
-      <Value>如果 a != 0 寄存器 r = 1 否则为0</Value>
+      <Value>寄存器 r 的值 = 若 a != 0 则为 1 ，否则为 0</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSapz</Key>
-      <Value>如果|a| &lt;= float.epsilon * 8，寄存器r 的值为1 ，否则为0</Value>
+      <Value>寄存器 r 的值 = 若 |a| &amp;lt;= float.epsilon * 8 则为 1 ，否则为 0
+float.epsilon：大于零的最小可能浮点值</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSnaz</Key>
-      <Value>如果|a| &gt; float.epsilon寄存器 r 的值 = 1,否则为0</Value>
+      <Value>寄存器 r 的值 = 若 |a| &amp;gt; float.epsilon 则为 1 ，否则为 0
+float.epsilon：大于零的最小可能浮点值</Value>
     </Record>
     <Record>
       <Key>ScriptCommandAnd</Key>
-      <Value>与运算，当且仅当a,b都为1时寄存器为1，否则为0</Value>
+      <Value>寄存器 r 的值 = 若 a 与 b 皆非零则为 1 ，否则为 0 （与门）</Value>
     </Record>
     <Record>
       <Key>ScriptCommandOr</Key>
-      <Value>或运算, 当且仅当a,b不全为0时，寄存器为1，否则为0</Value>
+      <Value>寄存器 r 的值 = 若 a 或 b 至少有一个非零则为 1 ，否则为 0 （或门）</Value>
     </Record>
     <Record>
       <Key>ScriptCommandXor</Key>
-      <Value>异或运算，当且仅当a,b值都不相同时寄存器为1，否则为0</Value>
+      <Value>寄存器 r 的值 = 若仅有 a 或 b 其中之一非零则为 1 ，否则为 0 （异或门）</Value>
     </Record>
     <Record>
       <Key>ScriptCommandNor</Key>
-      <Value>或非运算，当且仅当a, b都为0时, 寄存器 = 1，否则为0</Value>
+      <Value>寄存器 r 的值 = 若 a 与 b 皆为零则为 1 ，否则为 0 （或非门）</Value>
     </Record>
     <Record>
       <Key>ScriptCommandMul</Key>
-      <Value>寄存器 r = a * b</Value>
+      <Value>寄存器 r 的值 = a * b</Value>
     </Record>
     <Record>
       <Key>ScriptCommandDiv</Key>
-      <Value>寄存器r = a / b</Value>
+      <Value>寄存器 r 的值 = a / b</Value>
     </Record>
     <Record>
       <Key>ScriptCommandMod</Key>
-      <Value>寄存器r的值为 a mod b (注意：不是 a % b)</Value>
+      <Value>寄存器 r 的值 = a mod b （注意：不是 a % b）
+mod：取余（运算结果仅能为正）
+%：取余（运算结果可正可负，符号取决于左操作数）</Value>
     </Record>
     <Record>
       <Key>ScriptCommandJ</Key>
-      <Value>转移到行 a 执行程序</Value>
+      <Value>跳转至行 a 执行</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBdse</Key>
-      <Value>如果设备d未设置则代码转移到行a</Value>
+      <Value>若设备 d 已被设置，则分支至行 a 执行</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBdns</Key>
-      <Value>如果设备d未设置则代码转移到行a</Value>
+      <Value>若设备 d 未被设置，则分支至行 a 执行</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBlt</Key>
-      <Value>如果a &lt; b，则代码转移到行c</Value>
+      <Value>若 a &amp;lt; b ，则分支至行 c 执行</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBgt</Key>
-      <Value>如果a &gt; b，则代码转移到行b</Value>
+      <Value>若 a &amp;gt; b ，则分支至行 c 执行</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBle</Key>
-      <Value>如果a &lt;= b，则代码转移到行c</Value>
+      <Value>若 a &amp;lt;= b ，则分支至行 c 执行</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBge</Key>
-      <Value>如果a &gt;= b，则代码转移到行c</Value>
+      <Value>若 a &amp;gt;= b ，则分支至行 c 执行</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBeq</Key>
-      <Value>如果a == b，则代码转移到行c</Value>
+      <Value>若 a == b ，则分支至行 c 执行</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBne</Key>
-      <Value>如果a != b，则代码转移到行c</Value>
+      <Value>若 a != b ，则分支至行 c 执行</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBap</Key>
-      <Value>如果abs(a - b) &lt;= max(c * max(abs(a), abs(b)), float.epsilon * 8), 则代码转移到行d</Value>
+      <Value>若 abs(a - b) &amp;lt;= max(c * max(abs(a), abs(b)), float.epsilon * 8) ，则分支至行 d 执行
+abs( )：取绝对值
+float.epsilon：大于零的最小可能浮点值</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBna</Key>
-      <Value>如果abs(a - b) &gt; max(c * max(abs(a), abs(b)), float.epsilon * 8), 则代码转移到行d</Value>
+      <Value>若 abs(a - b) &amp;gt; max(c * max(abs(a), abs(b)), float.epsilon * 8) ，则分支至行 d 执行
+abs( )：取绝对值
+float.epsilon：大于零的最小可能浮点值</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBltz</Key>
