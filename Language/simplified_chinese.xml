@@ -7749,15 +7749,15 @@
     </Record>
     <Record>
       <Key>JoinMenuInfoVersion</Key>
-      <Value>版本:</Value>
+      <Value>版本：</Value>
     </Record>
     <Record>
       <Key>JoinMenuInfoLatency</Key>
-      <Value>延迟:</Value>
+      <Value>延迟：</Value>
     </Record>
     <Record>
       <Key>JoinMenuInfoPlayers</Key>
-      <Value>玩家:</Value>
+      <Value>玩家：</Value>
     </Record>
     <Record>
       <Key>ChangeAppearanceTitle</Key>
@@ -8317,7 +8317,7 @@
     </Record>
     <Record>
       <Key>SettingsUserSpeakerMode</Key>
-      <Value>扬声器模式:</Value>
+      <Value>扬声器模式：</Value>
     </Record>
     <Record>
       <Key>LogicTypeNone</Key>
@@ -8484,18 +8484,18 @@
       <Value>
         无论是出于对清晰度、安全性还是朴素美学的考虑， &amp;lt;color=#0080FFFF&amp;gt;{LINK:Stationeers;Stationeer}&amp;lt;/color&amp;gt; 们都可以在自己的建筑中看到一道小小的彩虹。这些是设备的颜色设置，用整数表示。
 
-0: 蓝色
-1: 灰色
-2: 绿色
-3: 橙色
-4: 红色
-5: 黄色
-6: 白色
-7: 黑色
-8: 棕色
-9: 卡其色
-10: 粉色
-11: 紫色
+0：蓝色
+1：灰色
+2：绿色
+3：橙色
+4：红色
+5：黄色
+6：白色
+7：黑色
+8：棕色
+9：卡其色
+10：粉色
+11：紫色
 
         任何值高于 11 的东西都将是紫色的，这是亘古不变的宇宙法则。 &amp;lt;color=#0080FFFF&amp;gt;{LINK:ODA;ODA}&amp;lt;/color&amp;gt; 也无权改变这一点。与之相似的是，任何值低于 0 的东西都将是蓝色的。
       </Value>
