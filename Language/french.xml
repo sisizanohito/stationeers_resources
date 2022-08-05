@@ -8309,11 +8309,15 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>TraderMicrowave</Key>
-      <Value>Micro-ondes</Value>
+      <Value>Micromarchandises</Value>
     </Record>
     <Record>
       <Key>TraderPaint</Key>
-      <Value>Color Corp</Value>
+      <Value>Peintures et couleurs Corp</Value>
+    </Record>
+    <Record>
+      <Key>TraderTool</Key>
+      <Value>Outils Corp</Value>
     </Record>
     <Record>
       <Key>TraderSecurity</Key>
