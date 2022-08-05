@@ -2467,7 +2467,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitOrganicsPrinter</Key>
-      <Value>Kit (Imprimante Organique)</Value>
+      <Value>Kit (Imprimante de matières organiques)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureOrganicsPrinter</Key>
@@ -6188,7 +6188,7 @@
     </Record>
     <Record>
       <Key>OrganicsCategory</Key>
-      <Value>Fournitures biologiques</Value>
+      <Value>Matières organiques</Value>
     </Record>
     <Record>
       <Key>PersonalEyeWear</Key>
@@ -8293,7 +8293,7 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>TraderOrganics</Key>
-      <Value>Organtion</Value>
+      <Value>Organique</Value>
     </Record>
     <Record>
       <Key>TraderBasic</Key>
@@ -9441,7 +9441,7 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>ResearchOrganics</Key>
-      <Value>Fournitures biologiques</Value>
+      <Value>Matières organiques</Value>
     </Record>
     <Record>
       <Key>ResearchLogic</Key>
@@ -10080,7 +10080,7 @@ Le programme Stationeers, qui est fondamentalement ouvert à toute l’humanité
     </Record>
     <Record>
       <Key>OrganicsCategoryKey</Key>
-      <Value>Produits biologiques et alimentaires</Value>
+      <Value>Matières organiques et alimentaires</Value>
     </Record>
     <Record>
       <Key>LogicCategoryKey</Key>
