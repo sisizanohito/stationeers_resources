@@ -5774,7 +5774,7 @@ Je velmi citlivý na teplotu, oxit se začne tavit, jakmile je vytěžen, pokud 
     </RecordThing>
     <RecordThing>
       <Key>StructureNitrolyzer</Key>
-      <Value>Plnička lahví na vodu</Value>
+      <Value/>
     </RecordThing>
   </Things>
   <Slots>
