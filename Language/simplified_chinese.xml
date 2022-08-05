@@ -6784,15 +6784,15 @@
     </Record>
     <Record>
       <Key>WorldInfoTextDate</Key>
-      <Value>已保存:</Value>
+      <Value>已保存：</Value>
     </Record>
     <Record>
       <Key>WorldInfoTextPlaytime</Key>
-      <Value>游戏时间:</Value>
+      <Value>游戏时间：</Value>
     </Record>
     <Record>
       <Key>WorldInfoMapName</Key>
-      <Value>地图:</Value>
+      <Value>小行星：</Value>
     </Record>
     <Record>
       <Key>WorldInfoTextAsteroids</Key>
@@ -6800,7 +6800,7 @@
     </Record>
     <Record>
       <Key>WorldInfoTextVersion</Key>
-      <Value>版本:</Value>
+      <Value>版本：</Value>
     </Record>
     <Record>
       <Key>WorldInfoButtonDelete</Key>
@@ -7741,7 +7741,7 @@
     </Record>
     <Record>
       <Key>JoinMenuInfoIPAddress</Key>
-      <Value>IP地址:</Value>
+      <Value>IP地址：</Value>
     </Record>
     <Record>
       <Key>JoinMenuInfoMap</Key>
