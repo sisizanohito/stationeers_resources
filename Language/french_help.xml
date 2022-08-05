@@ -54,6 +54,39 @@
       <Text>Vous pouvez exploiter un {LINK:OrePage;minerai} avec un {THING:ItemMiningDrill}. Si vous portez un {THING:ItemMiningBelt}, le {LINK:OrePage;minerai} y sera automatiquement placé.</Text>
     </StationpediaPage>
     <StationpediaPage>
+      <Key>TradingPage</Key>
+      <Title>Commerce</Title>
+      <DisplayFilter>Guides</DisplayFilter>
+      <Text>Le commerce est une part essentielle de l&apos;existence d&apos;un {LINK:Stationeers;Stationeers}, plus spécifiquement sur des mondes extrêmes où les nouveaux cadets devront en priorité survivre sans assistance.
+
+{HEADER:Par où commencer ?}
+
+Pour contacter un commerçant, il vous faudra mettre en place un système de communication comprenant :
+
+- une {THING:StructureVendingMachine} alimentée, pour vendre et échanger des éléments,
+- une {THING:StructureSatelliteDish} pour trouver et identifier d’éventuels commerçants,
+- un {THING:StructureComputer} fonctionnel avec une {THING:MotherboardComms},
+- un {THING:StructureShuttleLandingPad} alimenté afin de permettre aux commerçants d’atterrir.
+
+Quand votre système est prêt et en fonction, vous allez voir un écran vide sur l’ordinateur. Ajustez l’orientation de l’antenne satellite jusqu’à ce que soit répertorié un ou plusieurs vendeurs. Ils apparaîtront sur l’écran avec une qualité de signal évalué de 1 à 100 %. Un commerçant peut être contacté lorsque la qualité de ce signal est au dessus de 95 %. Lorsqu&apos;un vendeur a été contacté il vous donne son nom. Chaque commerçant vous proposera des catégories d’objets différentes.
+
+{HEADER:Les commerçants} 
+
+De l&apos;électronique / &lt;color=#00BDACCD&gt;Arbre technologique de l&apos;électronique&lt;/color&gt;
+Des matériaux organiques / &lt;color=#00BDACCD&gt;Organique/color&gt;
+Des produits basiques / &lt;color=#00BDACCD&gt;Centre commercial Spes - produits de base&lt;/color&gt;
+Des produits hydrauliques / &lt;color=#00BDACCD&gt;HydrauliKit&lt;/color&gt;
+Des minerais / &lt;color=#00BDACCD&gt;Minerais de Rite&lt;/color&gt;
+Des micro-ondes / &lt;color=#00BDACCD&gt;Micromarchandises&lt;/color&gt;
+Des produits chimiques / &lt;color=#00BDACCD&gt;ChemLab&lt;/color&gt;
+Des produits exotiques / &lt;color=#00BDACCD&gt;ExoTech&lt;/color&gt;
+De la peinture / &lt;color=#00BDACCD&gt;Peintures et couleurs Corp&lt;/color&gt;
+Des outils / &lt;color=#00BDACCD&gt;Outils Corp&lt;/color&gt;
+Des produits de sécurité / &lt;color=#00BDACCD&gt;Sécurité Hall Corp&lt;/color&gt;
+Divers / &lt;color=#00BDACCD&gt;Marchandises assorties de Kolders&lt;/color&gt;
+Du gaz / &lt;color=#00BDACCD&gt;Centre commercial Spes -  Commerce du gaz&lt;/color&gt;</Text>
+    </StationpediaPage>
+    <StationpediaPage>
       <Key>ReagentPage</Key>
       <Title>Réactifs</Title>
       <Text>Ce sont des quantités chimiques de certains types.
