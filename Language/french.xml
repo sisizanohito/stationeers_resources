@@ -8289,7 +8289,7 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>TraderElectronics</Key>
-      <Value>Tech Tree</Value>
+      <Value>Arbre technologique de l&apos;électronique</Value>
     </Record>
     <Record>
       <Key>TraderOrganics</Key>
@@ -8297,7 +8297,7 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>TraderBasic</Key>
-      <Value>Spes&apos;mall</Value>
+      <Value>Centre commercial Spes - produits de base</Value>
     </Record>
     <Record>
       <Key>TraderHydraulic</Key>
@@ -8326,6 +8326,10 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     <Record>
       <Key>TraderGas</Key>
       <Value>Commerce du gaz</Value>
+    </Record>
+    <Record>
+      <Key>TraderCustom</Key>
+      <Value>Centre commercial Spes</Value>
     </Record>
     <Record>
       <Key>LoadBackupsTitle</Key>
