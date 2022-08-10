@@ -5081,16 +5081,28 @@
       <Value/>
     </RecordThing>
     <RecordThing>
+      <Key>DeviceStepUnit</Key>
+      <Value>Appareil sélecteur de position</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemSoundCartridgeBass</Key>
+      <Value>Cartouches de son pour les basses</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemSoundCartridgeDrums</Key>
+      <Value>Cartouches de son pour les tambours</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemSoundCartridgeLeads</Key>
-      <Value/>
+      <Value>Cartouches de son pour les pistes</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemSoundCartridgeSynth</Key>
-      <Value/>
+      <Value>Cartouches de son pour les synthé</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitMusicMachines</Key>
-      <Value/>
+      <Value>Kit (machines à musique)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemInsulatedTankConnector</Key>
@@ -5113,8 +5125,16 @@
       <Value>Aliments pourris</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureShelfMedium</Key>
+      <Value>Étagère moyenne</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>PassiveSpeaker</Key>
-      <Value/>
+      <Value>Haut-parleur passif</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>DeviceLfoVolume</Key>
+      <Value>Oscillateur à basse fréquence</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureFridgeBig</Key>
@@ -5178,7 +5198,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAdvancedComposter</Key>
-      <Value>Caisse de {THING:StructureRocketModuleSilo}.</Value>
+      <Value>Kit (composteur avancé)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitFridgeSmall</Key>
@@ -5190,7 +5210,7 @@
     </RecordThing>
     <RecordThing>
       <Key>KitPlanter</Key>
-      <Value>Ce kit crée un {THING:StructurePipeMeter}. Toujours un charme fou, un {THING:StructurePipeMeter} sur un tuyau.</Value>
+      <Value>Kit (jardinière)</Value>
     </RecordThing>
     <RecordThing>
       <Key>PortableComposter</Key>
@@ -5202,19 +5222,27 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPlanter</Key>
-      <Value/>
+      <Value>Kit (jardinière)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureAutomatedOven</Key>
-      <Value/>
+      <Value>Four automatisé</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAutomatedOven</Key>
-      <Value/>
+      <Value>Kit (four automatisé)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCannedMushroom</Key>
+      <Value>Champignons en boîte</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemPowderedeggs</Key>
       <Value>Œufs en poudre</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemFrenchFries</Key>
+      <Value>Frites en boîte</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemCannedPowderedEggs</Key>
