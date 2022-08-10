@@ -5245,12 +5245,44 @@
       <Value>Frites en boîte</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemCannedRicePudding</Key>
+      <Value>Pudding de riz en boîte</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCannedCondensedMilk</Key>
+      <Value>Lait concentré en boîte</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCannedEdamame</Key>
+      <Value>Fèves de soja en boîte</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemCannedPowderedEggs</Key>
       <Value>Boîte d’œufs en poudre</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureAdvancedPackagingMachine</Key>
+      <Value>Machine de conditionnement avancée</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitAdvancedPackagingMachine</Key>
-      <Value>Caisse de {THING:StructureRocketModuleSilo}.</Value>
+      <Value>Kit (machine de conditionnement avancée)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCookedSoybean</Key>
+      <Value>Fèves de soja cuisinées</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCookedTomato</Key>
+      <Value>Tomates cuisinées</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCookedCorn</Key>
+      <Value>Maïs cuisiné</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCookedRice</Key>
+      <Value>Riz cuit</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemCookedPowderedEggs</Key>
