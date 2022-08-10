@@ -5234,7 +5234,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemCannedMushroom</Key>
-      <Value>Champignons en boîte</Value>
+      <Value>Champignons en boîte de conserve</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemPowderedeggs</Key>
@@ -5242,23 +5242,23 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemFrenchFries</Key>
-      <Value>Frites en boîte</Value>
+      <Value>Frites en boîte de conserve</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemCannedRicePudding</Key>
-      <Value>Pudding de riz en boîte</Value>
+      <Value>Pudding de riz en boîte de conserve</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemCannedCondensedMilk</Key>
-      <Value>Lait concentré en boîte</Value>
+      <Value>Lait concentré en boîte de conserve</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemCannedEdamame</Key>
-      <Value>Fèves de soja en boîte</Value>
+      <Value>Fèves de soja en boîte de conserve</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemCannedPowderedEggs</Key>
-      <Value>Boîte d’œufs en poudre</Value>
+      <Value>Œufs en poudre en boîte de conserve</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureAdvancedPackagingMachine</Key>
@@ -5285,8 +5285,28 @@
       <Value>Riz cuit</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemCookedPumpkin</Key>
+      <Value>Citrouille cuisinée</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCookedMushroom</Key>
+      <Value>Champignons cuisinés</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemCookedPowderedEggs</Key>
       <Value>Œufs en poudre</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCookedCondensedMilk</Key>
+      <Value>Lait concentré</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemTropicalPlant</Key>
+      <Value>Lys tropical</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemPeaceLily</Key>
+      <Value>Lis de la paix</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemDecorFern</Key>
