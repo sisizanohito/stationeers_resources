@@ -4903,7 +4903,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitWaterBottleFiller</Key>
-      <Value/>
+      <Value>Kit (Remplisseur de bouteille d’eau)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidTankBig</Key>
@@ -5038,7 +5038,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemLiquidDrain</Key>
-      <Value/>
+      <Value>Kit (Évacuation de liquides)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemLiquidPipeAnalyzer</Key>
