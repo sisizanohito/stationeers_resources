@@ -5038,7 +5038,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemLiquidDrain</Key>
-      <Value>Kit (Évacuation de liquides)</Value>
+      <Value>[TEST] Kit (Évacuation de liquides)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemLiquidPipeAnalyzer</Key>
