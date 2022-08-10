@@ -62,7 +62,7 @@ Zatímco hra je stále ve fázi intenzivního vývoje, je nevyhnutelné, že se 
     <Record>
       <Key>Narration2D</Key>
       <Value>Pracovat a stavět v nebezpečných podmínkách daleko od domova nutí Stationeera zvládat mnoho speciálních dovedností. Také potřebu mačkat tlačítka.
-Pro vstup do základny stiskněte &apos;Synchronizovat do interiéru&apos;.</Value>
+Pro vstup do základny stiskněte &apos;Přepnout do interiéru&apos;.</Value>
     </Record>
     <Record>
       <Key>TrainingBaseDisc</Key>
@@ -70,7 +70,7 @@ Pro vstup do základny stiskněte &apos;Synchronizovat do interiéru&apos;.</Val
     </Record>
     <Record>
       <Key>OpenAirlock</Key>
-      <Value>Synchronizujte přechodovou komoru použitím konzole.</Value>
+      <Value>Přepněte přechodovou komoru použitím konzole</Value>
     </Record>
     <Record>
       <Key>ExitAreaT1</Key>

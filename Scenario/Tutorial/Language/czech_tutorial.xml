@@ -164,19 +164,19 @@ V pravé části obrazovky uvidíte ikony, které vás informují o stavu a tak�
     </Record>
     <Record>
       <Key>TutorialTitleCycleAirlock</Key>
-      <Value>Synchronizujte přechodovou komoru</Value>
+      <Value>Přepněte přechodovou komoru</Value>
     </Record>
     <Record>
       <Key>TutorialDescCycleAirlock1</Key>
       <Value>Přechodovou komoru můžete ovládat pomocí {THING:StructureConsole}, nebo pomocí klávesnice, která je kompatibilní na dveřích {THING:StructureAirlock}. Tím dojde k odtlakování přechodové komory, takže můžete jít do vesmíru.
 
-{THING:CircuitboardAirlockControl} v {THING:StructureConsole} řídí {THING:StructureActiveVent}, další zařízení pro synchronizaci přechodové komory. Poznámka: V pravém horním rohu obrazovky máte informace o {COLORYELLOW:Vnitřní} a {COLORYELLOW:Externí}.
+{THING:CircuitboardAirlockControl} v {THING:StructureConsole} řídí {THING:StructureActiveVent}, další zařízení pro přepnutí přechodové komory. Poznámka: V pravém horním rohu obrazovky máte informace o {COLORYELLOW:Vnitřní} a {COLORYELLOW:Externí}.
 
 Když máte na sobě svůj oblek, máte uvnitř atmosféru a i venku. Herní ikony složité atmosféry, proto věnujte velkou pozornost informacím atmosféry, abyste zůstali v bezpečí.</Value>
     </Record>
     <Record>
       <Key>TutorialTaskCycleAirlock1</Key>
-      <Value>Synchronizujte přechodovou komoru</Value>
+      <Value>Přepněte přechodovou komoru</Value>
     </Record>
     <Record>
       <Key>TutorialTitleRepairCable</Key>

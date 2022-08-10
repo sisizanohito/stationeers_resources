@@ -7936,7 +7936,7 @@
     </Record>
     <Record>
       <Key>ChangeSettingTo</Key>
-      <Value>Synchronizace na {0}</Value>
+      <Value>Přepněte na {0}</Value>
     </Record>
     <Record>
       <Key>ChangeSettingToAll</Key>

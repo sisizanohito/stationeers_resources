@@ -132,7 +132,7 @@ Sloty pro vaši postavu vidíte na levé straně obrazovky. Příkladem je použ
     </Record>
     <Record>
       <Key>TutorialTheGreatOutdoorsDescription</Key>
-      <Value>Vydejme se na dobrodružnou výpravu! Připravte se na synchronizaci {THING:StructureAirlock}.</Value>
+      <Value>Vydejme se na dobrodružnou výpravu! Připravte se na přepnutí {THING:StructureAirlock}.</Value>
     </Record>
     <Record>
       <Key>TutorialTheGreatOutdoorsTask1</Key>
@@ -140,7 +140,7 @@ Sloty pro vaši postavu vidíte na levé straně obrazovky. Příkladem je použ
     </Record>
     <Record>
       <Key>TutorialTheGreatOutdoorsTask2</Key>
-      <Value>Proveďte synchronizaci {THING:StructureAirlock} kliknutím na tlačítko Synchronizovat na rozsvícené konzoli a počkejte na jeho dokončení.</Value>
+      <Value>Proveďte přepnutí {THING:StructureAirlock} kliknutím na tlačítko Přepnout na rozsvícené konzoli a počkejte na jeho dokončení.</Value>
     </Record>
     <Record>
       <Key>TutorialDescCycleAirlock1</Key>
@@ -184,7 +184,7 @@ Sloty pro vaši postavu vidíte na levé straně obrazovky. Příkladem je použ
     </Record>
     <Record>
       <Key>TutorialJetpackTask4</Key>
-      <Value>Synchronizujte {THING:StructureAirlock}</Value>
+      <Value>Přepněte {THING:StructureAirlock}</Value>
     </Record>
     <Record>
       <Key>TutorialHatHairTitle</Key>
@@ -696,7 +696,7 @@ Sloty pro vaši postavu vidíte na levé straně obrazovky. Příkladem je použ
     </Record>
     <Record>
       <Key>TutorialUnderPressure1Description</Key>
-      <Value>Skvělé! Nyní nastavíme proces synchronizace, vložte dodané komponenty a nastavte konzoli.</Value>
+      <Value>Skvělé! Nyní nastavíme proces přepnutí, vložte dodané komponenty a nastavte konzoli.</Value>
     </Record>
     <Record>
       <Key>TutorialUnderPressure1Task1</Key>
@@ -732,11 +732,11 @@ Sloty pro vaši postavu vidíte na levé straně obrazovky. Příkladem je použ
     </Record>
     <Record>
       <Key>TutorialBeFreeDescription</Key>
-      <Value>Spusťte synchronizaci a vypadněme odsud!</Value>
+      <Value>Spusťte přepnutí a vypadněme odsud!</Value>
     </Record>
     <Record>
       <Key>TutorialBeFreeTask1</Key>
-      <Value>Synchronizujte {THING:StructureAirlock}</Value>
+      <Value>Přepněte {THING:StructureAirlock}</Value>
     </Record>
     <Record>
       <Key>TutorialCompletedDescription</Key>
