@@ -2860,6 +2860,10 @@
     <RecordThing>
       <Key>StructureRocketModuleMiningJunk</Key>
     </RecordThing>
+    <RecordThing>
+      <Key>ItemMiningBackPack</Key>
+      <Value>Cinto de Minerao</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>

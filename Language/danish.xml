@@ -1155,6 +1155,22 @@
       <Value>Verdensnavn</Value>
     </Record>
     <Record>
+      <Key>LogicTypeTemperatureInput</Key>
+      <Value>Den aktuelle størrelse af hastigheds vektoren</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeTemperatureInput2</Key>
+      <Value>Den aktuelle størrelse af hastigheds vektoren</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeTemperatureOutput</Key>
+      <Value>Den aktuelle størrelse af hastigheds vektoren</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeTemperatureOutput2</Key>
+      <Value>Den aktuelle størrelse af hastigheds vektoren</Value>
+    </Record>
+    <Record>
       <Key>LogicTypePlantHash2</Key>
       <Value>FORÆLDET</Value>
     </Record>
@@ -1168,6 +1184,22 @@
     </Record>
     <Record>
       <Key>LogicTypeTotalMoles</Key>
+      <Value>Returnerer enhedens samlede mol</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeTotalMolesInput</Key>
+      <Value>Returnerer enhedens samlede mol</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeTotalMolesInput2</Key>
+      <Value>Returnerer enhedens samlede mol</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeTotalMolesOutput</Key>
+      <Value>Returnerer enhedens samlede mol</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeTotalMolesOutput2</Key>
       <Value>Returnerer enhedens samlede mol</Value>
     </Record>
     <Record>

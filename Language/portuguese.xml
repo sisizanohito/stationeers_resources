@@ -4294,6 +4294,14 @@
       <Key>ItemKitStirlingEngine</Key>
       <Value>Motor de Foguete</Value>
     </RecordThing>
+    <RecordThing>
+      <Key>ItemMiningBackPack</Key>
+      <Value>Mochila de Fato Rígido</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemHardMiningBackPack</Key>
+      <Value>Mochila de Fato Rígido</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>
@@ -6592,6 +6600,38 @@
       <Value>A leitura atual da temperatura do dispositivo</Value>
     </Record>
     <Record>
+      <Key>LogicTypePressureInput</Key>
+      <Value>A leitura atual da pressão do dispositivo</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeTemperatureInput</Key>
+      <Value>A leitura atual da temperatura do dispositivo</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypePressureInput2</Key>
+      <Value>A leitura atual da pressão do dispositivo</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeTemperatureInput2</Key>
+      <Value>A leitura atual da temperatura do dispositivo</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypePressureOutput</Key>
+      <Value>A leitura atual da pressão do dispositivo</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeTemperatureOutput</Key>
+      <Value>A leitura atual da temperatura do dispositivo</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypePressureOutput2</Key>
+      <Value>A leitura atual da pressão do dispositivo</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeTemperatureOutput2</Key>
+      <Value>A leitura atual da temperatura do dispositivo</Value>
+    </Record>
+    <Record>
       <Key>LogicTypePressureExternal</Key>
       <Value>Valor seguro da pressão externa, em KPa</Value>
     </Record>
@@ -6641,6 +6681,118 @@
     </Record>
     <Record>
       <Key>LogicTypeRatioNitrousOxide</Key>
+      <Value>A proporção de óxido nitroso na atmosfera do dispositivo</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioOxygenInput</Key>
+      <Value>A proporção de oxigénio na atmosfera do dispositivo</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioCarbonDioxideInput</Key>
+      <Value>A proporção de CO2 na atmosfera do dispositivo</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioNitrogenInput</Key>
+      <Value>A proporção de nitrogénio na atmosfera do dispositivo</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioPollutantInput</Key>
+      <Value>A proporção de poluente na atmosfera do dispositivo</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioVolatilesInput</Key>
+      <Value>A proporção de voláteis na atmosfera do dispositivo</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioWaterInput</Key>
+      <Value>A proporção de água na atmosfera do dispositivo</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioNitrousOxideInput</Key>
+      <Value>A proporção de óxido nitroso na atmosfera do dispositivo</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioOxygenInput2</Key>
+      <Value>A proporção de oxigénio na atmosfera do dispositivo</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioCarbonDioxideInput2</Key>
+      <Value>A proporção de CO2 na atmosfera do dispositivo</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioNitrogenInput2</Key>
+      <Value>A proporção de nitrogénio na atmosfera do dispositivo</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioPollutantInput2</Key>
+      <Value>A proporção de poluente na atmosfera do dispositivo</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioVolatilesInput2</Key>
+      <Value>A proporção de voláteis na atmosfera do dispositivo</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioWaterInput2</Key>
+      <Value>A proporção de água na atmosfera do dispositivo</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioNitrousOxideInput2</Key>
+      <Value>A proporção de óxido nitroso na atmosfera do dispositivo</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioOxygenOutput</Key>
+      <Value>A proporção de oxigénio na atmosfera do dispositivo</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioCarbonDioxideOutput</Key>
+      <Value>A proporção de CO2 na atmosfera do dispositivo</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioNitrogenOutput</Key>
+      <Value>A proporção de nitrogénio na atmosfera do dispositivo</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioPollutantOutput</Key>
+      <Value>A proporção de poluente na atmosfera do dispositivo</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioVolatilesOutput</Key>
+      <Value>A proporção de voláteis na atmosfera do dispositivo</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioWaterOutput</Key>
+      <Value>A proporção de água na atmosfera do dispositivo</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioNitrousOxideOutput</Key>
+      <Value>A proporção de óxido nitroso na atmosfera do dispositivo</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioOxygenOutput2</Key>
+      <Value>A proporção de oxigénio na atmosfera do dispositivo</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioCarbonDioxideOutput2</Key>
+      <Value>A proporção de CO2 na atmosfera do dispositivo</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioNitrogenOutput2</Key>
+      <Value>A proporção de nitrogénio na atmosfera do dispositivo</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioPollutantOutput2</Key>
+      <Value>A proporção de poluente na atmosfera do dispositivo</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioVolatilesOutput2</Key>
+      <Value>A proporção de voláteis na atmosfera do dispositivo</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioWaterOutput2</Key>
+      <Value>A proporção de água na atmosfera do dispositivo</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioNitrousOxideOutput2</Key>
       <Value>A proporção de óxido nitroso na atmosfera do dispositivo</Value>
     </Record>
     <Record>
@@ -6745,6 +6897,22 @@
     </Record>
     <Record>
       <Key>LogicTypeTotalMoles</Key>
+      <Value>Devolve o total de moles do dispositivo</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeTotalMolesInput</Key>
+      <Value>Devolve o total de moles do dispositivo</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeTotalMolesInput2</Key>
+      <Value>Devolve o total de moles do dispositivo</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeTotalMolesOutput</Key>
+      <Value>Devolve o total de moles do dispositivo</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeTotalMolesOutput2</Key>
       <Value>Devolve o total de moles do dispositivo</Value>
     </Record>
     <Record>

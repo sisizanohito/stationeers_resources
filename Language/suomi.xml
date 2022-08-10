@@ -3940,6 +3940,14 @@
       <Key>ItemKitStirlingEngine</Key>
       <Value>Rakettimoottori</Value>
     </RecordThing>
+    <RecordThing>
+      <Key>ItemMiningBackPack</Key>
+      <Value>Painepuvun reppu</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemHardMiningBackPack</Key>
+      <Value>Painepuvun reppu</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>
@@ -5983,8 +5991,40 @@ Spawnaa mikä tahansa esine, testaa ideoita ja rakenna ihme juttuja todella nope
       <Value>Ei kuvausta</Value>
     </Record>
     <Record>
+      <Key>LogicTypeTemperatureInput</Key>
+      <Value>Laitteen nykyinen status, 0 pois päältä, 1 päällä.</Value>
+    </Record>
+    <Record>
       <Key>LogicTypeCharge</Key>
       <Value>Laitteen nykyinen varaustaso</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioNitrogenInput</Key>
+      <Value>Ei muita luettavia laitteita verkostossa</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioVolatilesInput</Key>
+      <Value>Ei muita luettavia laitteita verkostossa</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioWaterInput</Key>
+      <Value>Ei muita luettavia laitteita verkostossa</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioVolatilesInput2</Key>
+      <Value>Ei muita luettavia laitteita verkostossa</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioWaterInput2</Key>
+      <Value>Ei muita luettavia laitteita verkostossa</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioWaterOutput</Key>
+      <Value>Ei muita luettavia laitteita verkostossa</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioWaterOutput2</Key>
+      <Value>Ei muita luettavia laitteita verkostossa</Value>
     </Record>
     <Record>
       <Key>LogicTypeOn</Key>

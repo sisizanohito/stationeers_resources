@@ -5147,6 +5147,18 @@
       <Key>StructurePassiveLargeRadiatorGas</Key>
       <Value/>
     </RecordThing>
+    <RecordThing>
+      <Key>StructureNitrolyzer</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemMiningBackPack</Key>
+      <Value>進階背包</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemHardMiningBackPack</Key>
+      <Value>進階背包</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>
@@ -7417,6 +7429,34 @@
     <Record>
       <Key>LogicTypeNone</Key>
       <Value>無描述</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioNitrogenInput</Key>
+      <Value>網絡上沒有其他可讀設備</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioVolatilesInput</Key>
+      <Value>網絡上沒有其他可讀設備</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioWaterInput</Key>
+      <Value>網絡上沒有其他可讀設備</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioVolatilesInput2</Key>
+      <Value>網絡上沒有其他可讀設備</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioWaterInput2</Key>
+      <Value>網絡上沒有其他可讀設備</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioWaterOutput</Key>
+      <Value>網絡上沒有其他可讀設備</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioWaterOutput2</Key>
+      <Value>網絡上沒有其他可讀設備</Value>
     </Record>
     <Record>
       <Key>LogicTypeImportSlotOccupant</Key>

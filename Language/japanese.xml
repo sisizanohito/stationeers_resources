@@ -4636,6 +4636,18 @@
       <Key>StructurePassiveLargeRadiatorGas</Key>
       <Value/>
     </RecordThing>
+    <RecordThing>
+      <Key>StructureNitrolyzer</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemMiningBackPack</Key>
+      <Value>強化バックパック</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemHardMiningBackPack</Key>
+      <Value>強化バックパック</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>
@@ -6855,6 +6867,34 @@
     <Record>
       <Key>LogicTypeNone</Key>
       <Value>説明無し</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioNitrogenInput</Key>
+      <Value>他に書き込み可能なデバイスがネットワークにありません</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioVolatilesInput</Key>
+      <Value>他に書き込み可能なデバイスがネットワークにありません</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioWaterInput</Key>
+      <Value>他に書き込み可能なデバイスがネットワークにありません</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioVolatilesInput2</Key>
+      <Value>他に書き込み可能なデバイスがネットワークにありません</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioWaterInput2</Key>
+      <Value>他に書き込み可能なデバイスがネットワークにありません</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioWaterOutput</Key>
+      <Value>他に書き込み可能なデバイスがネットワークにありません</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioWaterOutput2</Key>
+      <Value>他に書き込み可能なデバイスがネットワークにありません</Value>
     </Record>
     <Record>
       <Key>LogicTypeImportSlotOccupant</Key>

@@ -5420,6 +5420,14 @@
       <Key>StructureNitrolyzer</Key>
       <Value/>
     </RecordThing>
+    <RecordThing>
+      <Key>ItemMiningBackPack</Key>
+      <Value>Sac à dos renforcé</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemHardMiningBackPack</Key>
+      <Value>Sac à dos renforcé</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>
@@ -7853,6 +7861,38 @@ Soyez très prudent lorsque vous marchez ou sautez, car vous pouvez parcourir un
       <Value>La température actuelle lu sur l&apos;appareil</Value>
     </Record>
     <Record>
+      <Key>LogicTypePressureInput</Key>
+      <Value>La pression actuelle lu sur l&apos;appareil</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeTemperatureInput</Key>
+      <Value>La température actuelle lu sur l&apos;appareil</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypePressureInput2</Key>
+      <Value>La pression actuelle lu sur l&apos;appareil</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeTemperatureInput2</Key>
+      <Value>La température actuelle lu sur l&apos;appareil</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypePressureOutput</Key>
+      <Value>La pression actuelle lu sur l&apos;appareil</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeTemperatureOutput</Key>
+      <Value>La température actuelle lu sur l&apos;appareil</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypePressureOutput2</Key>
+      <Value>La pression actuelle lu sur l&apos;appareil</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeTemperatureOutput2</Key>
+      <Value>La température actuelle lu sur l&apos;appareil</Value>
+    </Record>
+    <Record>
       <Key>LogicTypePressureExternal</Key>
       <Value>Réglage pour la sécurité de pression externe, en KPa</Value>
     </Record>
@@ -7906,6 +7946,134 @@ Soyez très prudent lorsque vous marchez ou sautez, car vous pouvez parcourir un
     </Record>
     <Record>
       <Key>LogicTypeCombustion</Key>
+      <Value>L’atmosphère d’évaluation est en feu. Retours 1 si l’atmosphère est en feu, 0 sinon.</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioOxygenInput</Key>
+      <Value>Le ratio d&apos;oxygène dans l&apos;atmosphère du dispositif</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioCarbonDioxideInput</Key>
+      <Value>Le ratio de {GAS:CarbonDioxide} dans l&apos;atmosphère du dispositif</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioNitrogenInput</Key>
+      <Value>Le ratio de nitrogène dans l&apos;atmosphère du dispositif</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioPollutantInput</Key>
+      <Value>Le ratio de polluant dans l’atmosphère du dispositif</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioVolatilesInput</Key>
+      <Value>Le ratio d&apos;hydrogène dans l’atmosphère du dispositif</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioWaterInput</Key>
+      <Value>Le ratio d&apos;eau dans l&apos;atmosphère du dispositif</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioNitrousOxideInput</Key>
+      <Value>Le ratio de {GAS:NitrousOxide} dans l&apos;atmosphère du dispositif</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeCombustionInput</Key>
+      <Value>L’atmosphère d’évaluation est en feu. Retours 1 si l’atmosphère est en feu, 0 sinon.</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioOxygenInput2</Key>
+      <Value>Le ratio d&apos;oxygène dans l&apos;atmosphère du dispositif</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioCarbonDioxideInput2</Key>
+      <Value>Le ratio de {GAS:CarbonDioxide} dans l&apos;atmosphère du dispositif</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioNitrogenInput2</Key>
+      <Value>Le ratio de nitrogène dans l&apos;atmosphère du dispositif</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioPollutantInput2</Key>
+      <Value>Le ratio de polluant dans l’atmosphère du dispositif</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioVolatilesInput2</Key>
+      <Value>Le ratio d&apos;hydrogène dans l’atmosphère du dispositif</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioWaterInput2</Key>
+      <Value>Le ratio d&apos;eau dans l&apos;atmosphère du dispositif</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioNitrousOxideInput2</Key>
+      <Value>Le ratio de {GAS:NitrousOxide} dans l&apos;atmosphère du dispositif</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeCombustionInput2</Key>
+      <Value>L’atmosphère d’évaluation est en feu. Retours 1 si l’atmosphère est en feu, 0 sinon.</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioOxygenOutput</Key>
+      <Value>Le ratio d&apos;oxygène dans l&apos;atmosphère du dispositif</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioCarbonDioxideOutput</Key>
+      <Value>Le ratio de {GAS:CarbonDioxide} dans l&apos;atmosphère du dispositif</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioNitrogenOutput</Key>
+      <Value>Le ratio de nitrogène dans l&apos;atmosphère du dispositif</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioPollutantOutput</Key>
+      <Value>Le ratio de polluant dans l’atmosphère du dispositif</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioVolatilesOutput</Key>
+      <Value>Le ratio d&apos;hydrogène dans l’atmosphère du dispositif</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioWaterOutput</Key>
+      <Value>Le ratio d&apos;eau dans l&apos;atmosphère du dispositif</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioNitrousOxideOutput</Key>
+      <Value>Le ratio de {GAS:NitrousOxide} dans l&apos;atmosphère du dispositif</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeCombustionOutput</Key>
+      <Value>L’atmosphère d’évaluation est en feu. Retours 1 si l’atmosphère est en feu, 0 sinon.</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioOxygenOutput2</Key>
+      <Value>Le ratio d&apos;oxygène dans l&apos;atmosphère du dispositif</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioCarbonDioxideOutput2</Key>
+      <Value>Le ratio de {GAS:CarbonDioxide} dans l&apos;atmosphère du dispositif</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioNitrogenOutput2</Key>
+      <Value>Le ratio de nitrogène dans l&apos;atmosphère du dispositif</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioPollutantOutput2</Key>
+      <Value>Le ratio de polluant dans l’atmosphère du dispositif</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioVolatilesOutput2</Key>
+      <Value>Le ratio d&apos;hydrogène dans l’atmosphère du dispositif</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioWaterOutput2</Key>
+      <Value>Le ratio d&apos;eau dans l&apos;atmosphère du dispositif</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioNitrousOxideOutput2</Key>
+      <Value>Le ratio de {GAS:NitrousOxide} dans l&apos;atmosphère du dispositif</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeCombustionOutput2</Key>
       <Value>L’atmosphère d’évaluation est en feu. Retours 1 si l’atmosphère est en feu, 0 sinon.</Value>
     </Record>
     <Record>
@@ -8029,6 +8197,22 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>LogicTypeTotalMoles</Key>
+      <Value>Indique le nombre de moles de l&apos;appareil</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeTotalMolesInput</Key>
+      <Value>Indique le nombre de moles de l&apos;appareil</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeTotalMolesInput2</Key>
+      <Value>Indique le nombre de moles de l&apos;appareil</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeTotalMolesOutput</Key>
+      <Value>Indique le nombre de moles de l&apos;appareil</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeTotalMolesOutput2</Key>
       <Value>Indique le nombre de moles de l&apos;appareil</Value>
     </Record>
     <Record>

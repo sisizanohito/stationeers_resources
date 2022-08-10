@@ -4915,6 +4915,14 @@
       <Key>StructureNitrolyzer</Key>
       <Value/>
     </RecordThing>
+    <RecordThing>
+      <Key>ItemMiningBackPack</Key>
+      <Value>Fejlett hátizsák</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemHardMiningBackPack</Key>
+      <Value>Fejlett hátizsák</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>
@@ -7200,6 +7208,38 @@
       <Value>Az eszköz által jelenleg olvasott hőmérséklet</Value>
     </Record>
     <Record>
+      <Key>LogicTypePressureInput</Key>
+      <Value>Az eszköz által jelenleg olvasott nyomás</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeTemperatureInput</Key>
+      <Value>Az eszköz által jelenleg olvasott hőmérséklet</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypePressureInput2</Key>
+      <Value>Az eszköz által jelenleg olvasott nyomás</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeTemperatureInput2</Key>
+      <Value>Az eszköz által jelenleg olvasott hőmérséklet</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypePressureOutput</Key>
+      <Value>Az eszköz által jelenleg olvasott nyomás</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeTemperatureOutput</Key>
+      <Value>Az eszköz által jelenleg olvasott hőmérséklet</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypePressureOutput2</Key>
+      <Value>Az eszköz által jelenleg olvasott nyomás</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeTemperatureOutput2</Key>
+      <Value>Az eszköz által jelenleg olvasott hőmérséklet</Value>
+    </Record>
+    <Record>
       <Key>LogicTypePressureExternal</Key>
       <Value>A külső túlnyomásvédelem beállítása KPa-ban</Value>
     </Record>
@@ -7249,6 +7289,118 @@
     </Record>
     <Record>
       <Key>LogicTypeRatioNitrousOxide</Key>
+      <Value>A dinitrogén-oxid aránya az eszköz atmoszférájában</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioOxygenInput</Key>
+      <Value>Az oxigén aránya az eszköz atmoszférájában</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioCarbonDioxideInput</Key>
+      <Value>A szén-dioxid aránya az eszköz atmoszférájában</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioNitrogenInput</Key>
+      <Value>A nitrogén aránya az eszköz atmoszférájában</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioPollutantInput</Key>
+      <Value>A mérgező gáz aránya az eszköz atmoszférájában</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioVolatilesInput</Key>
+      <Value>A hidrogén aránya az eszköz atmoszférájában</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioWaterInput</Key>
+      <Value>A víz aránya az eszköz atmoszférájában</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioNitrousOxideInput</Key>
+      <Value>A dinitrogén-oxid aránya az eszköz atmoszférájában</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioOxygenInput2</Key>
+      <Value>Az oxigén aránya az eszköz atmoszférájában</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioCarbonDioxideInput2</Key>
+      <Value>A szén-dioxid aránya az eszköz atmoszférájában</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioNitrogenInput2</Key>
+      <Value>A nitrogén aránya az eszköz atmoszférájában</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioPollutantInput2</Key>
+      <Value>A mérgező gáz aránya az eszköz atmoszférájában</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioVolatilesInput2</Key>
+      <Value>A hidrogén aránya az eszköz atmoszférájában</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioWaterInput2</Key>
+      <Value>A víz aránya az eszköz atmoszférájában</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioNitrousOxideInput2</Key>
+      <Value>A dinitrogén-oxid aránya az eszköz atmoszférájában</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioOxygenOutput</Key>
+      <Value>Az oxigén aránya az eszköz atmoszférájában</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioCarbonDioxideOutput</Key>
+      <Value>A szén-dioxid aránya az eszköz atmoszférájában</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioNitrogenOutput</Key>
+      <Value>A nitrogén aránya az eszköz atmoszférájában</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioPollutantOutput</Key>
+      <Value>A mérgező gáz aránya az eszköz atmoszférájában</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioVolatilesOutput</Key>
+      <Value>A hidrogén aránya az eszköz atmoszférájában</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioWaterOutput</Key>
+      <Value>A víz aránya az eszköz atmoszférájában</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioNitrousOxideOutput</Key>
+      <Value>A dinitrogén-oxid aránya az eszköz atmoszférájában</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioOxygenOutput2</Key>
+      <Value>Az oxigén aránya az eszköz atmoszférájában</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioCarbonDioxideOutput2</Key>
+      <Value>A szén-dioxid aránya az eszköz atmoszférájában</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioNitrogenOutput2</Key>
+      <Value>A nitrogén aránya az eszköz atmoszférájában</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioPollutantOutput2</Key>
+      <Value>A mérgező gáz aránya az eszköz atmoszférájában</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioVolatilesOutput2</Key>
+      <Value>A hidrogén aránya az eszköz atmoszférájában</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioWaterOutput2</Key>
+      <Value>A víz aránya az eszköz atmoszférájában</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioNitrousOxideOutput2</Key>
       <Value>A dinitrogén-oxid aránya az eszköz atmoszférájában</Value>
     </Record>
     <Record>
@@ -7433,6 +7585,22 @@
     </Record>
     <Record>
       <Key>LogicTypeTotalMoles</Key>
+      <Value>Visszatér az eszköz mólszámával</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeTotalMolesInput</Key>
+      <Value>Visszatér az eszköz mólszámával</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeTotalMolesInput2</Key>
+      <Value>Visszatér az eszköz mólszámával</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeTotalMolesOutput</Key>
+      <Value>Visszatér az eszköz mólszámával</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeTotalMolesOutput2</Key>
       <Value>Visszatér az eszköz mólszámával</Value>
     </Record>
     <Record>

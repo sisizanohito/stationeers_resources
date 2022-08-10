@@ -4097,6 +4097,18 @@
       <Key>StructurePassiveLargeRadiatorGas</Key>
       <Value/>
     </RecordThing>
+    <RecordThing>
+      <Key>StructureNitrolyzer</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemMiningBackPack</Key>
+      <Value>Plecak Ulepszonego Skafandra</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemHardMiningBackPack</Key>
+      <Value>Plecak Ulepszonego Skafandra</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>
@@ -6355,6 +6367,86 @@
     </Record>
     <Record>
       <Key>LogicTypeRatioPollutant</Key>
+      <Value>Proporcja polutantu w atmosferze urządzenia</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioOxygenInput</Key>
+      <Value>Proporcja polutantu w atmosferze urządzenia</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioNitrogenInput</Key>
+      <Value>Proporcja polutantu w atmosferze urządzenia</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioPollutantInput</Key>
+      <Value>Proporcja polutantu w atmosferze urządzenia</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioVolatilesInput</Key>
+      <Value>Proporcja polutantu w atmosferze urządzenia</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioWaterInput</Key>
+      <Value>Proporcja polutantu w atmosferze urządzenia</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioOxygenInput2</Key>
+      <Value>Proporcja polutantu w atmosferze urządzenia</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioNitrogenInput2</Key>
+      <Value>Proporcja polutantu w atmosferze urządzenia</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioPollutantInput2</Key>
+      <Value>Proporcja polutantu w atmosferze urządzenia</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioVolatilesInput2</Key>
+      <Value>Proporcja polutantu w atmosferze urządzenia</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioWaterInput2</Key>
+      <Value>Proporcja polutantu w atmosferze urządzenia</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioOxygenOutput</Key>
+      <Value>Proporcja polutantu w atmosferze urządzenia</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioNitrogenOutput</Key>
+      <Value>Proporcja polutantu w atmosferze urządzenia</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioPollutantOutput</Key>
+      <Value>Proporcja polutantu w atmosferze urządzenia</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioVolatilesOutput</Key>
+      <Value>Proporcja polutantu w atmosferze urządzenia</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioWaterOutput</Key>
+      <Value>Proporcja polutantu w atmosferze urządzenia</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioOxygenOutput2</Key>
+      <Value>Proporcja polutantu w atmosferze urządzenia</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioNitrogenOutput2</Key>
+      <Value>Proporcja polutantu w atmosferze urządzenia</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioPollutantOutput2</Key>
+      <Value>Proporcja polutantu w atmosferze urządzenia</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioVolatilesOutput2</Key>
+      <Value>Proporcja polutantu w atmosferze urządzenia</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioWaterOutput2</Key>
       <Value>Proporcja polutantu w atmosferze urządzenia</Value>
     </Record>
     <Record>
