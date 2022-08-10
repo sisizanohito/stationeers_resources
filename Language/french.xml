@@ -5061,6 +5061,22 @@
       <Value>Ce kit permet de construire un {THING:StructureAirConditioner}, un {THING:StructureElectrolyzer}, une {THING:StructureFiltration} ou un {THING:H2Combustor}.</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureHeatExchangerLiquidtoLiquid</Key>
+      <Value>Échangeur de chaleur (liquide/liquide)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureHeatExchangerGastoGas</Key>
+      <Value>Échangeur de chaleur (gaz/gaz)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureHeatExchangeLiquidtoGas</Key>
+      <Value>Échangeur de chaleur (liquide/gaz)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureHeatExchangeLiquidAndGas</Key>
+      <Value>Échange de chaleur, liquide et gaz</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitHangerDoor</Key>
       <Value/>
     </RecordThing>
