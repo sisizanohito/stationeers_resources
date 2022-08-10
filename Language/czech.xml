@@ -387,7 +387,7 @@
     </Record>
     <Record>
       <Key>Cycle</Key>
-      <Value>Synchronizovat</Value>
+      <Value>Přepnout</Value>
     </Record>
     <Record>
       <Key>ForceClose</Key>
@@ -5744,9 +5744,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemNitrice</Key>
-      <Value>Oxitový led se skládá převážně ze zmrzlého kyslíku a nachází se na mnoha planetách sluneční soustavy. Je velmi cenný a vyhledávaný, ale ne na všech planetách, které &lt;color=#0080FFFF&gt;{LINK:Stationeers;Stationeer}&lt;/color&gt; navštíví, se nějaký nachází. 
-
-Je velmi citlivý na teplotu, oxit se začne tavit, jakmile je vytěžen, pokud teplota neklesne pod nulu nebo není uložen v {THING:ItemMiningBelt}, {THING:ItemMiningBeltAdvanced} nebo v zařízeních jako {THING:StructureIceCrusher} nebo {THING:StructureFridgeSmall}. Při tavení oxitu vzniká směs kyslíku a dusíku.</Value>
+      <Value>Led (Nitrice)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPassiveLargeRadiator</Key>
@@ -5771,6 +5769,10 @@ Je velmi citlivý na teplotu, oxit se začne tavit, jakmile je vytěžen, pokud 
     <RecordThing>
       <Key>StructurePassiveLargeRadiatorGas</Key>
       <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLogicGate</Key>
+      <Value>Logická brána</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureNitrolyzer</Key>
@@ -7938,7 +7940,7 @@ Je velmi citlivý na teplotu, oxit se začne tavit, jakmile je vytěžen, pokud 
     </Record>
     <Record>
       <Key>ChangeSettingToAll</Key>
-      <Value>Synchronizace na všechny {0}</Value>
+      <Value>Přepněte na všechny {0}</Value>
     </Record>
     <Record>
       <Key>HoldForPreviousObject</Key>
@@ -10291,7 +10293,7 @@ Je velmi citlivý na teplotu, oxit se začne tavit, jakmile je vytěžen, pokud 
     </Record>
     <Record>
       <Key>Cycle</Key>
-      <Value>Synchronizovat</Value>
+      <Value>Přepnout</Value>
     </Record>
     <Record>
       <Key>BuildStateOfHash</Key>

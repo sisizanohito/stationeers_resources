@@ -111,7 +111,7 @@ Budete muset procházet jednotlivé možnosti a najít správnou variantu dveř�
     </Record>
     <Record>
       <Key>4Narration7D</Key>
-      <Value>Chcete-li natlakovat přechodovou komoru, potřebujete pro synchronizaci vzduchu aktivní a pasivní ventilaci, která umožní průchod atmosféry přes potrubní síť.</Value>
+      <Value>Chcete-li natlakovat přechodovou komoru, potřebujete pro přepnutí vzduchu aktivní a pasivní ventilaci, která umožní průchod atmosféry přes potrubní síť.</Value>
     </Record>
     <Record>
       <Key>4FabricateItemPassiveVent</Key>
@@ -212,11 +212,11 @@ Vybraná zařízení jsou zvýrazněna ZELENĚ s ČERVENÝM TEXTEM.</Value>
     </Record>
     <Record>
       <Key>4Narration16D</Key>
-      <Value>Nyní je základna natlakovaná a můžete vyzkoušet přechodovou komoru stisknutím &apos;Synchronizovat do exteriéru&apos; na konzoli.</Value>
+      <Value>Nyní je základna natlakovaná a můžete vyzkoušet přechodovou komoru stisknutím &apos;Přepnout do exteriéru&apos; na konzoli.</Value>
     </Record>
     <Record>
       <Key>4OpenAirlock</Key>
-      <Value>Synchronizujte přechodovou komoru</Value>
+      <Value>Přepněte přechodovou komoru</Value>
     </Record>
     <Record>
       <Key>4Narration17D</Key>
