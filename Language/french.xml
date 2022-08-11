@@ -5397,12 +5397,32 @@
       <Value>Valve anti-retour (gaz)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureOneWayValve</Key>
+      <Value>Valve anti-retour (gaz)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureTurboVolumePump</Key>
+      <Value>Turbo-pompe (gaz)</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitTurboVolumePump</Key>
-      <Value>Ce kit crée une {THING:StructureVolumePump}. Ca pompe !</Value>
+      <Value>Kit (turbo-Pompe - gaz)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLiquidTurboVolumePump</Key>
-      <Value>Ce kit crée une {THING:StructureVolumePump}. Ca pompe !</Value>
+      <Value>Kit (turbo-Pompe - liquides)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemMkIIToolbelt</Key>
+      <Value>Ceinture d&apos;outils MK II</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemMiningBeltMKII</Key>
+      <Value>Ceinture de mineur MK II</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLiquidPipeOneWayValve</Key>
+      <Value>Valve antiretour (liquides)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWindowShutter</Key>
