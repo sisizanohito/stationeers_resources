@@ -5313,6 +5313,10 @@
       <Value>Fougère décorative</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemFilterFern</Key>
+      <Value>Fougère Darga</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitInsulatedWaterPipe</Key>
       <Value/>
     </RecordThing>
@@ -5383,6 +5387,14 @@
     <RecordThing>
       <Key>StructureInsulatedPipeLiquidTJunction</Key>
       <Value>Tube isolé (Jonction T)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePipeHeater</Key>
+      <Value>Réchauffeur de tuyau (gaz)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePipeOneWayValve</Key>
+      <Value>Valve anti-retour (gaz)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitTurboVolumePump</Key>
