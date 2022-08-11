@@ -5058,7 +5058,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitHeatExchanger</Key>
-      <Value>Ce kit permet de construire un {THING:StructureAirConditioner}, un {THING:StructureElectrolyzer}, une {THING:StructureFiltration} ou un {THING:H2Combustor}.</Value>
+      <Value>Kit (échangeur de chaleur)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureHeatExchangerLiquidtoLiquid</Key>
