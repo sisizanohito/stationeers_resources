@@ -3315,11 +3315,11 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureRover</Key>
-      <Value>Cadre pour Rover</Value>
+      <Value>Cadre pour rover</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitRoverFrame</Key>
-      <Value>Kit (Cadre pour Rover)</Value>
+      <Value>Kit (cadre pour rover)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureStairs4x2Rails</Key>
@@ -4603,7 +4603,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitRoverMKI</Key>
-      <Value>Kit (Rover MKI)</Value>
+      <Value>Kit (rover MKI)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureGrowLight</Key>
