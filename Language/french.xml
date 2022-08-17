@@ -5041,6 +5041,10 @@
       <Value>[TEST] Kit (Évacuation de liquides)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureLiquidDrain</Key>
+      <Value>Évacuation de liquide</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemLiquidPipeAnalyzer</Key>
       <Value/>
     </RecordThing>
