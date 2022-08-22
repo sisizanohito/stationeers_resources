@@ -5457,11 +5457,15 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemMiningBackPack</Key>
-      <Value>Прочный рюкзак</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>ItemHardMiningBackPack</Key>
-      <Value>Прочный рюкзак</Value>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureH2Combustor</Key>
+      <Value>Обломки H2 Сжигателя</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -10679,6 +10683,22 @@
     <Record>
       <Key>SettingsSmoothTerrain</Key>
       <Value>Территория</Value>
+    </Record>
+    <Record>
+      <Key>MainMenuChangeAppearance</Key>
+      <Value>Изменить внешность</Value>
+    </Record>
+    <Record>
+      <Key>WorkshopModsTitle</Key>
+      <Value>Workshop</Value>
+    </Record>
+    <Record>
+      <Key>GameMenuButtonSaveAs</Key>
+      <Value>Введите название сохранения...</Value>
+    </Record>
+    <Record>
+      <Key>GameMenuPauseGameButton</Key>
+      <Value>Игра приостановлена</Value>
     </Record>
   </Interface>
   <Colors>

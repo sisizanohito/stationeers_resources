@@ -5008,11 +5008,15 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemMiningBackPack</Key>
-      <Value>Ağır Giysi Sırt Çantası</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>ItemHardMiningBackPack</Key>
-      <Value>Ağır Giysi Sırt Çantası</Value>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureH2Combustor</Key>
+      <Value>Enkaz H2 Yakıcı</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -9396,6 +9400,22 @@
     <Record>
       <Key>SettingsSmoothTerrain</Key>
       <Value>Arazi</Value>
+    </Record>
+    <Record>
+      <Key>MainMenuChangeAppearance</Key>
+      <Value>GÖRÜNÜMÜ DEĞİŞTİR</Value>
+    </Record>
+    <Record>
+      <Key>WorkshopModsTitle</Key>
+      <Value>ATÖLYE</Value>
+    </Record>
+    <Record>
+      <Key>GameMenuButtonSaveAs</Key>
+      <Value>Kayıt İsmini Gir...</Value>
+    </Record>
+    <Record>
+      <Key>GameMenuPauseGameButton</Key>
+      <Value>Duraklatılmış oynanış</Value>
     </Record>
   </Interface>
   <Colors>

@@ -4917,11 +4917,15 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemMiningBackPack</Key>
-      <Value>Fejlett hátizsák</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>ItemHardMiningBackPack</Key>
-      <Value>Fejlett hátizsák</Value>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureH2Combustor</Key>
+      <Value>Roncs H2-égető</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -9149,6 +9153,22 @@ Leginkább mérnöki, katonai vagy űripari, szoftverfejlesztői vagy bányásza
     <Record>
       <Key>SettingsVirtualizedRendering</Key>
       <Value>Virtualizált renderelés</Value>
+    </Record>
+    <Record>
+      <Key>MainMenuChangeAppearance</Key>
+      <Value>Külső megváltoztatása</Value>
+    </Record>
+    <Record>
+      <Key>WorkshopModsTitle</Key>
+      <Value>Műhely</Value>
+    </Record>
+    <Record>
+      <Key>GameMenuButtonSaveAs</Key>
+      <Value>Mentési név megadása...</Value>
+    </Record>
+    <Record>
+      <Key>GameMenuPauseGameButton</Key>
+      <Value>Játék szüneteltetve</Value>
     </Record>
   </Interface>
   <Colors>

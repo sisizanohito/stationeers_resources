@@ -2283,12 +2283,8 @@
       <Value>Rocket Engine</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemMiningBackPack</Key>
-      <Value>Hardsuit Backpack</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemHardMiningBackPack</Key>
-      <Value>Hardsuit Backpack</Value>
+      <Key>StructureH2Combustor</Key>
+      <Value>Structure Composite Window Iron</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -3666,6 +3662,18 @@ Just don&apos;t be sad when you blow yourself into tiny, tiny little pieces or g
     <Record>
       <Key>SettingsSmoothTerrain</Key>
       <Value>Terrain</Value>
+    </Record>
+    <Record>
+      <Key>MainMenuChangeAppearance</Key>
+      <Value>Zmeniť Vzhľad</Value>
+    </Record>
+    <Record>
+      <Key>WorkshopModsTitle</Key>
+      <Value>Workshop</Value>
+    </Record>
+    <Record>
+      <Key>GameMenuButtonSaveAs</Key>
+      <Value>Enter Save Name...</Value>
     </Record>
   </Interface>
   <Colors>

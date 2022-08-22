@@ -4717,11 +4717,15 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemMiningBackPack</Key>
-      <Value>Kunststoffrucksack</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>ItemHardMiningBackPack</Key>
-      <Value>Kunststoffrucksack</Value>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureH2Combustor</Key>
+      <Value>Zusammengesetzter Fenster Eisen</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -9027,6 +9031,22 @@ Hinweis: Wasser wurde früher als Gas behandelt, aber ein neues System für Flü
     <Record>
       <Key>SettingsSmoothTerrain</Key>
       <Value>Terrainglättung</Value>
+    </Record>
+    <Record>
+      <Key>MainMenuChangeAppearance</Key>
+      <Value>Aussehen ändern</Value>
+    </Record>
+    <Record>
+      <Key>WorkshopModsTitle</Key>
+      <Value>Workshop</Value>
+    </Record>
+    <Record>
+      <Key>GameMenuButtonSaveAs</Key>
+      <Value>Speichername eingeben...</Value>
+    </Record>
+    <Record>
+      <Key>GameMenuPauseGameButton</Key>
+      <Value>Spiel Pausiert</Value>
     </Record>
   </Interface>
   <Colors>

@@ -5534,11 +5534,15 @@ Altamente sensible a la temperatura, el oxite comenzará a derretirse tan pronto
     </RecordThing>
     <RecordThing>
       <Key>ItemMiningBackPack</Key>
-      <Value>Mochila Avanzada</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>ItemHardMiningBackPack</Key>
-      <Value>Mochila Avanzada</Value>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureH2Combustor</Key>
+      <Value>Compresor H2 destruido</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -10681,6 +10685,22 @@ Nota: El agua se trataba anteriormente como un gas, pero se está desarrollando 
     <Record>
       <Key>SettingsVirtualizedRendering</Key>
       <Value>Renderizado Virtual</Value>
+    </Record>
+    <Record>
+      <Key>MainMenuChangeAppearance</Key>
+      <Value>Cambiar Apariencia</Value>
+    </Record>
+    <Record>
+      <Key>WorkshopModsTitle</Key>
+      <Value>Workshop</Value>
+    </Record>
+    <Record>
+      <Key>GameMenuButtonSaveAs</Key>
+      <Value>Escribe Nombre para Guardar</Value>
+    </Record>
+    <Record>
+      <Key>GameMenuPauseGameButton</Key>
+      <Value>Pausa en el juego</Value>
     </Record>
   </Interface>
   <Colors>

@@ -5838,11 +5838,15 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemMiningBackPack</Key>
-      <Value>进阶背包</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>ItemHardMiningBackPack</Key>
-      <Value>进阶背包</Value>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureH2Combustor</Key>
+      <Value>氢气燃烧室残骸</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -11286,6 +11290,22 @@ Stationeers计划从土木工程从业人员、军事和航空航天工业、软
     <Record>
       <Key>SettingsStartLocalHost</Key>
       <Value>本地主机</Value>
+    </Record>
+    <Record>
+      <Key>MainMenuChangeAppearance</Key>
+      <Value>更改外观</Value>
+    </Record>
+    <Record>
+      <Key>WorkshopModsTitle</Key>
+      <Value>创意工坊</Value>
+    </Record>
+    <Record>
+      <Key>GameMenuButtonSaveAs</Key>
+      <Value>输入存档名称...</Value>
+    </Record>
+    <Record>
+      <Key>GameMenuPauseGameButton</Key>
+      <Value>游戏已暂停</Value>
     </Record>
   </Interface>
   <Colors>

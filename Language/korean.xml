@@ -3185,8 +3185,8 @@
       <Value>로켓 엔진</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemMiningBackPack</Key>
-      <Value>채광 벨트</Value>
+      <Key>StructureH2Combustor</Key>
+      <Value>철재 합성 창문</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -5662,6 +5662,18 @@ Just don&apos;t be sad when you blow yourself into tiny, tiny little pieces or g
     <Record>
       <Key>SettingsSmoothTerrain</Key>
       <Value>Terrain</Value>
+    </Record>
+    <Record>
+      <Key>MainMenuChangeAppearance</Key>
+      <Value>캐릭터 변경</Value>
+    </Record>
+    <Record>
+      <Key>WorkshopModsTitle</Key>
+      <Value>창작마당</Value>
+    </Record>
+    <Record>
+      <Key>GameMenuButtonSaveAs</Key>
+      <Value>저장할 파일명을 입력하세요...</Value>
     </Record>
   </Interface>
   <Colors>

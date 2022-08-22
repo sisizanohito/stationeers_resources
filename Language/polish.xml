@@ -4103,11 +4103,15 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemMiningBackPack</Key>
-      <Value>Plecak Ulepszonego Skafandra</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>ItemHardMiningBackPack</Key>
-      <Value>Plecak Ulepszonego Skafandra</Value>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureH2Combustor</Key>
+      <Value>Mocowanie Kompozytowego Okna zelazne</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -8128,6 +8132,18 @@ Uwaga: Woda była poprzednio traktowana jako gaz, ale został wprowadzony nowy s
     <Record>
       <Key>SettingsVirtualizedRendering</Key>
       <Value>Renderowanie Zwirtualizowane</Value>
+    </Record>
+    <Record>
+      <Key>MainMenuChangeAppearance</Key>
+      <Value>Zmień Wygląd</Value>
+    </Record>
+    <Record>
+      <Key>WorkshopModsTitle</Key>
+      <Value>Warsztat</Value>
+    </Record>
+    <Record>
+      <Key>GameMenuButtonSaveAs</Key>
+      <Value>Wprowadź Nazwę Zapisu...</Value>
     </Record>
   </Interface>
   <Colors>

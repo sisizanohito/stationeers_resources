@@ -5153,11 +5153,15 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemMiningBackPack</Key>
-      <Value>進階背包</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>ItemHardMiningBackPack</Key>
-      <Value>進階背包</Value>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureH2Combustor</Key>
+      <Value>殘骸 H2 Combustor</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -8321,6 +8325,18 @@
     <Record>
       <Key>SettingsSmoothTerrain</Key>
       <Value>地形</Value>
+    </Record>
+    <Record>
+      <Key>MainMenuChangeAppearance</Key>
+      <Value>更改角色外觀</Value>
+    </Record>
+    <Record>
+      <Key>WorkshopModsTitle</Key>
+      <Value>工作坊</Value>
+    </Record>
+    <Record>
+      <Key>GameMenuButtonSaveAs</Key>
+      <Value>輸入存檔名稱...</Value>
     </Record>
   </Interface>
   <Colors>

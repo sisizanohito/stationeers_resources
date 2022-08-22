@@ -5780,11 +5780,15 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemMiningBackPack</Key>
-      <Value>Zpevněný batoh</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>ItemHardMiningBackPack</Key>
-      <Value>Zpevněný batoh</Value>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureH2Combustor</Key>
+      <Value>Vrak H2 spalovače</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -11167,6 +11171,22 @@ Poznámka: S vodou se dříve zacházelo jako s plynem, ale nyní se vyvíjí no
     <Record>
       <Key>SettingsStartLocalHost</Key>
       <Value>Spustit místního hostitele</Value>
+    </Record>
+    <Record>
+      <Key>MainMenuChangeAppearance</Key>
+      <Value>Změnit vzhled</Value>
+    </Record>
+    <Record>
+      <Key>WorkshopModsTitle</Key>
+      <Value>Workshop</Value>
+    </Record>
+    <Record>
+      <Key>GameMenuButtonSaveAs</Key>
+      <Value>Zadejte název pro uložení...</Value>
+    </Record>
+    <Record>
+      <Key>GameMenuPauseGameButton</Key>
+      <Value>Pozastavená hra</Value>
     </Record>
   </Interface>
   <Colors>

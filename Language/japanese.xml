@@ -4642,11 +4642,15 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemMiningBackPack</Key>
-      <Value>強化バックパック</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>ItemHardMiningBackPack</Key>
-      <Value>強化バックパック</Value>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureH2Combustor</Key>
+      <Value>複合材鉄窓</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -7513,6 +7517,18 @@
     <Record>
       <Key>SettingsSmoothTerrain</Key>
       <Value>滑らかな地形</Value>
+    </Record>
+    <Record>
+      <Key>MainMenuChangeAppearance</Key>
+      <Value>外観変更</Value>
+    </Record>
+    <Record>
+      <Key>WorkshopModsTitle</Key>
+      <Value>ワークショップ</Value>
+    </Record>
+    <Record>
+      <Key>GameMenuButtonSaveAs</Key>
+      <Value>セーブ名を入力…</Value>
     </Record>
   </Interface>
   <Colors>

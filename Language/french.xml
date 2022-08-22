@@ -5554,11 +5554,15 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemMiningBackPack</Key>
-      <Value>Sac à dos renforcé</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>ItemHardMiningBackPack</Key>
-      <Value>Sac à dos renforcé</Value>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureH2Combustor</Key>
+      <Value>Tube de {THING:H2Combustor}</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -10712,6 +10716,22 @@ Remarque : l’eau était auparavant traitée comme un gaz, mais un nouveau syst
     <Record>
       <Key>SettingsStartLocalHost</Key>
       <Value>Démarrer le serveur local</Value>
+    </Record>
+    <Record>
+      <Key>MainMenuChangeAppearance</Key>
+      <Value>Changer d&apos;apparence</Value>
+    </Record>
+    <Record>
+      <Key>WorkshopModsTitle</Key>
+      <Value>Steam Workshop</Value>
+    </Record>
+    <Record>
+      <Key>GameMenuButtonSaveAs</Key>
+      <Value>Entrer le nom de la sauvegarde…</Value>
+    </Record>
+    <Record>
+      <Key>GameMenuPauseGameButton</Key>
+      <Value>Jeu en pause</Value>
     </Record>
   </Interface>
   <Colors>

@@ -1306,6 +1306,10 @@
       <Key>StationpediaNutrition</Key>
       <Value>Ingen beskrivelse</Value>
     </Record>
+    <Record>
+      <Key>WorkshopModsTitle</Key>
+      <Value>Værksted</Value>
+    </Record>
   </Interface>
   <Colors>
     <Record>

@@ -1674,6 +1674,10 @@
       <Key>StationpediaMaxPressure</Key>
       <Value>Presiune</Value>
     </Record>
+    <Record>
+      <Key>MainMenuChangeAppearance</Key>
+      <Value>Modificare aspect</Value>
+    </Record>
   </Interface>
   <Colors>
     <Record>

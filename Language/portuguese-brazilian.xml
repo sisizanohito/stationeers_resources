@@ -2860,10 +2860,6 @@
     <RecordThing>
       <Key>StructureRocketModuleMiningJunk</Key>
     </RecordThing>
-    <RecordThing>
-      <Key>ItemMiningBackPack</Key>
-      <Value>Cinto de Minerao</Value>
-    </RecordThing>
   </Things>
   <Slots>
     <Record>
@@ -5210,6 +5206,18 @@
     <Record>
       <Key>SettingsSmoothTerrain</Key>
       <Value>Terreno</Value>
+    </Record>
+    <Record>
+      <Key>MainMenuChangeAppearance</Key>
+      <Value>Mudar Aparncia</Value>
+    </Record>
+    <Record>
+      <Key>WorkshopModsTitle</Key>
+      <Value>Oficina</Value>
+    </Record>
+    <Record>
+      <Key>GameMenuButtonSaveAs</Key>
+      <Value>Nome do Servidor...</Value>
     </Record>
   </Interface>
   <Colors>

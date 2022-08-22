@@ -4295,12 +4295,8 @@
       <Value>Motor de Foguete</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemMiningBackPack</Key>
-      <Value>Mochila de Fato Rígido</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemHardMiningBackPack</Key>
-      <Value>Mochila de Fato Rígido</Value>
+      <Key>StructureH2Combustor</Key>
+      <Value>Estrutura de Janela Composta de Ferro</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -8574,6 +8570,22 @@
     <Record>
       <Key>SettingsSmoothTerrain</Key>
       <Value>Terreno</Value>
+    </Record>
+    <Record>
+      <Key>MainMenuChangeAppearance</Key>
+      <Value>Mudar Aparência</Value>
+    </Record>
+    <Record>
+      <Key>WorkshopModsTitle</Key>
+      <Value>Workshop</Value>
+    </Record>
+    <Record>
+      <Key>GameMenuButtonSaveAs</Key>
+      <Value>Escreva o nome a gravar...</Value>
+    </Record>
+    <Record>
+      <Key>GameMenuPauseGameButton</Key>
+      <Value>Jogo em pausa</Value>
     </Record>
   </Interface>
   <Colors>
