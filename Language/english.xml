@@ -2051,8 +2051,8 @@ An recurring {LINK:Stationeers;Stationeer] complaint focuses on the fact that ev
     <RecordThing>
       <Key>StructureFiltration</Key>
       <Value>Filtration</Value>
-      <Description>The Zyklon Filtration Unit is based on a long-standing {LINK:ExMin;ExMin} system, itself based on older designs of uncertain provenance. It is available in the {THING:ItemKitAtmospherics}.
-Perhaps ill-named, the device has nonetheless proven indispensible for {LINK:Stationeers;Stationeer] atmospherics systems, as it can filter two {LINK:GasPage;gases} simultaneously from  a single pipe network using a dual filter array. The unit has an input, and a filter output as well as an unfiltered outlet for any residual gases.</Description>
+      <Description>The Filtration Unit is based on a long-standing {LINK:ExMin;ExMin} system, itself based on older designs of uncertain provenance. It is available in the {THING:ItemKitAtmospherics}.
+The device has nonetheless proven indispensible for {LINK:Stationeers;Stationeer] atmospherics systems, as it can filter two {LINK:GasPage;gases} simultaneously from  a single pipe network using a dual filter array. The unit has an input, and a filter output as well as an unfiltered outlet for any residual gases.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureFlashingLight</Key>
@@ -7028,6 +7028,11 @@ Highly sensitive to temperature, nitrice will begin to melt as soon as it is min
       <Value>Hard Mining Backpack</Value>
       <Description />
     </RecordThing>
+    <RecordThing>
+      <Key>StructureH2Combustor</Key>
+      <Value>Structure H2 Combustor</Value>
+      <Description>Adapted slightly from its original {LINK:Recurso;Recurso} design, the {GAS:Volatiles} Combustor does exactly what its name suggests - it burns a mixture of volatiles and {GAS:Oxygen} to create water. Extremely useful in hot or arid environments, users need to be aware that the combustor outputs considerable waste heat. The device is also less than perfectly efficient, resulting in the autoignition of volatiles in the chamber, and the production of waste gases which must be dealt with.</Description>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>
@@ -10098,6 +10103,18 @@ Highly sensitive to temperature, nitrice will begin to melt as soon as it is min
       <Value>Returns the contact ID of the strongest signal from this Satellite</Value>
     </Record>
     <Record>
+      <Key>LogicTypeOperationalTemperatureEfficiency</Key>
+      <Value>How the input pipe's temperature effects the machines efficency</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeTemperatureDifferentialEfficiency</Key>
+      <Value>How the difference between the input pipe and waste pipe temperatures effect the machines efficiency</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypePressureEfficiency</Key>
+      <Value>How the pressure of the input pipe and waste pipe effect the machines efficiency</Value>
+    </Record>
+    <Record>
       <Key>LogicSlotTypeNone</Key>
       <Value>No description</Value>
     </Record>
@@ -12682,6 +12699,26 @@ Note: {GAS:Water} was previously treated as a gas, but a new system for liquids 
     <Record>
       <Key>SettingsStartLocalHost</Key>
       <Value>StartLocalHost</Value>
+    </Record>
+    <Record>
+      <Key>MainMenuChangeAppearance</Key>
+      <Value>Change Appearance</Value>
+    </Record>
+    <Record>
+      <Key>CreateNewGame</Key>
+      <Value>Create New Game</Value>
+    </Record>
+    <Record>
+      <Key>WorkshopModsTitle</Key>
+      <Value>Workshop Mods</Value>
+    </Record>
+    <Record>
+      <Key>GameMenuButtonSaveAs</Key>
+      <Value>Save Game As...</Value>
+    </Record>
+    <Record>
+      <Key>GameMenuPauseGameButton</Key>
+      <Value>Pause Game</Value>
     </Record>
   </Interface>
   <Colors>
