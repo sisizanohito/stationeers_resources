@@ -7736,6 +7736,14 @@
       <Value>收藏</Value>
     </Record>
     <Record>
+      <Key>SaveMenuSaveWorldButton</Key>
+      <Value>保存世界</Value>
+    </Record>
+    <Record>
+      <Key>SaveMenuOverwriteButton</Key>
+      <Value>覆盖</Value>
+    </Record>
+    <Record>
       <Key>SaveMenuNamePlaceholder</Key>
       <Value>输入存档名称...</Value>
     </Record>
@@ -7910,6 +7918,10 @@
     <Record>
       <Key>WorldResetButton</Key>
       <Value>重置</Value>
+    </Record>
+    <Record>
+      <Key>WorldSaveButton</Key>
+      <Value>保存</Value>
     </Record>
     <Record>
       <Key>NewWorldAreaCustom</Key>
