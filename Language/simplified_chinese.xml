@@ -8569,27 +8569,27 @@
     </Record>
     <Record>
       <Key>LogicTypeRatioNitrogenOutput2</Key>
-      <Value>设备中的 {GAS:Nitrogen} 比例</Value>
+      <Value>设备的 输出2 网络中的氮气比例</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioPollutantOutput2</Key>
-      <Value>设备中的 {GAS:Pollutant} 比例</Value>
+      <Value>设备的 输出2 网络中的污染性气体比例</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioVolatilesOutput2</Key>
-      <Value>设备中的 {GAS:Volatiles} 比例</Value>
+      <Value>设备的 输出2 网络中的挥发性气体比例</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioWaterOutput2</Key>
-      <Value>设备中的 {GAS:Water} 比例</Value>
+      <Value>设备的 输出2 网络中的水比例</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioNitrousOxideOutput2</Key>
-      <Value>设备中的 {GAS:NitrousOxide} 比例</Value>
+      <Value>设备的 输出2 网络中的一氧化二氮比例</Value>
     </Record>
     <Record>
       <Key>LogicTypeCombustionOutput2</Key>
-      <Value>评估大气环境中是否存在火情。如果大气环境中存在火情则返回 1 ，没有火情则返回 0</Value>
+      <Value>评估大气环境中是否存在火情。如果设备的 输出2 网络中存在火情则返回 1 ，没有火情则返回 0</Value>
     </Record>
     <Record>
       <Key>LogicTypeHorizontal</Key>
@@ -8798,19 +8798,19 @@
     </Record>
     <Record>
       <Key>LogicTypeTotalMolesInput</Key>
-      <Value>返回设备的总mol数</Value>
+      <Value>返回设备的 输入 网络中的总mol数</Value>
     </Record>
     <Record>
       <Key>LogicTypeTotalMolesInput2</Key>
-      <Value>返回设备的总mol数</Value>
+      <Value>返回设备的 输入2 网络中的总mol数</Value>
     </Record>
     <Record>
       <Key>LogicTypeTotalMolesOutput</Key>
-      <Value>返回设备的总mol数</Value>
+      <Value>返回设备的 输出 网络中的总mol数</Value>
     </Record>
     <Record>
       <Key>LogicTypeTotalMolesOutput2</Key>
-      <Value>返回设备的总mol数</Value>
+      <Value>返回设备的 输出2 网络中的总mol数</Value>
     </Record>
     <Record>
       <Key>LogicTypeVolume</Key>
@@ -8891,6 +8891,18 @@
     <Record>
       <Key>LogicTypeSignalID</Key>
       <Value>返回从该卫星接收到的信号最强的联系人ID</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeOperationalTemperatureEfficiency</Key>
+      <Value>输入管道的温度如何影响机器的工作效率</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeTemperatureDifferentialEfficiency</Key>
+      <Value>输入管道和废弃物管道之间的温差如何影响机器的工作效率</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypePressureEfficiency</Key>
+      <Value>输入管道和废弃物管道的压强如何影响机器的工作效率</Value>
     </Record>
     <Record>
       <Key>LogicSlotTypeNone</Key>
