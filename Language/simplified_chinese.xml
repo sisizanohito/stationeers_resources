@@ -5834,19 +5834,19 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureNitrolyzer</Key>
-      <Value/>
+      <Value>硝化器</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemMiningBackPack</Key>
-      <Value/>
+      <Value>采矿背包</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemHardMiningBackPack</Key>
-      <Value/>
+      <Value>强化型采矿背包</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureH2Combustor</Key>
-      <Value>略微改编自其原始{LINK:Recurso;Recurso} 设计，{GAS:Volatiles}燃烧器完全符合其名称所暗示的 - 它燃烧挥发物和{GAS:Oxygen}的混合物来产生水。在炎热或干旱的环境中非常有用，用户需要注意燃烧室会产生大量的废热。该装置的效率也不理想，会导致腔室中挥发物自燃，并会产生必须处理的废气。</Value>
+      <Value>氢气燃烧室</Value>
     </RecordThing>
   </Things>
   <Slots>
