@@ -4527,7 +4527,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageH2Combustor1</Key>
-      <Value>氢气燃烧室残骸</Value>
+      <Value>氢燃烧室残骸</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageHydroponicsAutomatic1</Key>
@@ -5846,7 +5846,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureH2Combustor</Key>
-      <Value>氢气燃烧室</Value>
+      <Value>氢燃烧室</Value>
     </RecordThing>
   </Things>
   <Slots>
