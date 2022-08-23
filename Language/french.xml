@@ -6271,8 +6271,8 @@
   </Interactables>
   <Interface>
     <Record>
-      <Key>RespawnConditionStationeer</Key>
-      <Value>Stationeers</Value>
+      <Key>RespawnConditionEasy</Key>
+      <Value>Facile</Value>
     </Record>
     <Record>
       <Key>SlotKey</Key>
@@ -7252,7 +7252,7 @@ Défilez avec la &lt;color=red&gt;molette de la souris&lt;/color&gt; pour sélec
     </Record>
     <Record>
       <Key>PromptDeleteTitle</Key>
-      <Value>Supprimer la sauvegarde</Value>
+      <Value>Supprimer la totalité de la sauvegarde</Value>
     </Record>
     <Record>
       <Key>PromptDeleteBody</Key>
@@ -7655,7 +7655,7 @@ Température {1}
     </Record>
     <Record>
       <Key>LogicState</Key>
-      <Value>État &lt;color=green&gt;#VAR1#&lt;/color&gt;</Value>
+      <Value>État &lt;color=green&gt;#VAR1#</Value>
     </Record>
     <Record>
       <Key>LogicNoDevice</Key>
@@ -7671,11 +7671,11 @@ Température {1}
     </Record>
     <Record>
       <Key>LogicNoSlot</Key>
-      <Value>&lt;color=red&gt;Pas d&apos;emplacement&lt;/color=red&gt;</Value>
+      <Value>&lt;color=red&gt;Pas d&apos;emplacement</Value>
     </Record>
     <Record>
       <Key>LogicNoAvailableSlots</Key>
-      <Value>&lt;color=red&gt;Aucun emplacements disponibles&lt;/color=red&gt;</Value>
+      <Value>&lt;color=red&gt;Aucun emplacement disponible</Value>
     </Record>
     <Record>
       <Key>LogicNoAdditionalSlotsFor</Key>
@@ -9993,7 +9993,7 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>PressEnterToContinue</Key>
-      <Value>Appuyez sur &lt;color=#FBB03B&gt;espace&lt;/color&gt; pour continuer</Value>
+      <Value>Appuyez sur la barre d&apos;espace pour continuer</Value>
     </Record>
     <Record>
       <Key>TutorialCompleteDateOfCompletion</Key>
