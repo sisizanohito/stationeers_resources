@@ -11296,16 +11296,20 @@ Stationeers计划从土木工程从业人员、军事和航空航天工业、软
       <Value>更改外观</Value>
     </Record>
     <Record>
+      <Key>CreateNewGame</Key>
+      <Value>创建新游戏</Value>
+    </Record>
+    <Record>
       <Key>WorkshopModsTitle</Key>
-      <Value>创意工坊</Value>
+      <Value>创意工坊模组</Value>
     </Record>
     <Record>
       <Key>GameMenuButtonSaveAs</Key>
-      <Value>输入存档名称...</Value>
+      <Value>保存游戏为...</Value>
     </Record>
     <Record>
       <Key>GameMenuPauseGameButton</Key>
-      <Value>游戏已暂停</Value>
+      <Value>暂停游戏</Value>
     </Record>
   </Interface>
   <Colors>
