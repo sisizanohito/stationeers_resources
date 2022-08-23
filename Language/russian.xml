@@ -5463,10 +5463,6 @@
       <Key>ItemHardMiningBackPack</Key>
       <Value/>
     </RecordThing>
-    <RecordThing>
-      <Key>StructureH2Combustor</Key>
-      <Value>Обломки H2 Сжигателя</Value>
-    </RecordThing>
   </Things>
   <Slots>
     <Record>

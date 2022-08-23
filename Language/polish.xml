@@ -4109,10 +4109,6 @@
       <Key>ItemHardMiningBackPack</Key>
       <Value/>
     </RecordThing>
-    <RecordThing>
-      <Key>StructureH2Combustor</Key>
-      <Value>Mocowanie Kompozytowego Okna zelazne</Value>
-    </RecordThing>
   </Things>
   <Slots>
     <Record>

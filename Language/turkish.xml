@@ -5014,10 +5014,6 @@
       <Key>ItemHardMiningBackPack</Key>
       <Value/>
     </RecordThing>
-    <RecordThing>
-      <Key>StructureH2Combustor</Key>
-      <Value>Enkaz H2 Yakıcı</Value>
-    </RecordThing>
   </Things>
   <Slots>
     <Record>

@@ -4044,10 +4044,6 @@
       <Key>ItemKitStirlingEngine</Key>
       <Value>Motore a razzo</Value>
     </RecordThing>
-    <RecordThing>
-      <Key>StructureH2Combustor</Key>
-      <Value>Finestra composita di ferro</Value>
-    </RecordThing>
   </Things>
   <Slots>
     <Record>

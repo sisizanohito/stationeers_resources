@@ -5562,7 +5562,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureH2Combustor</Key>
-      <Value>Tube de {THING:H2Combustor}</Value>
+      <Value>Bruleur à hydrogène</Value>
     </RecordThing>
   </Things>
   <Slots>

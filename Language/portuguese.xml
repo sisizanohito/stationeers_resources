@@ -4294,10 +4294,6 @@
       <Key>ItemKitStirlingEngine</Key>
       <Value>Motor de Foguete</Value>
     </RecordThing>
-    <RecordThing>
-      <Key>StructureH2Combustor</Key>
-      <Value>Estrutura de Janela Composta de Ferro</Value>
-    </RecordThing>
   </Things>
   <Slots>
     <Record>

@@ -3184,10 +3184,6 @@
       <Key>ItemKitStirlingEngine</Key>
       <Value>로켓 엔진</Value>
     </RecordThing>
-    <RecordThing>
-      <Key>StructureH2Combustor</Key>
-      <Value>철재 합성 창문</Value>
-    </RecordThing>
   </Things>
   <Slots>
     <Record>

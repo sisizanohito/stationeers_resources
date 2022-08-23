@@ -5542,7 +5542,7 @@ Altamente sensible a la temperatura, el oxite comenzará a derretirse tan pronto
     </RecordThing>
     <RecordThing>
       <Key>StructureH2Combustor</Key>
-      <Value>Compresor H2 destruido</Value>
+      <Value>Compresor H2</Value>
     </RecordThing>
   </Things>
   <Slots>

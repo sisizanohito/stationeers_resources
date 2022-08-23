@@ -4648,10 +4648,6 @@
       <Key>ItemHardMiningBackPack</Key>
       <Value/>
     </RecordThing>
-    <RecordThing>
-      <Key>StructureH2Combustor</Key>
-      <Value>複合材鉄窓</Value>
-    </RecordThing>
   </Things>
   <Slots>
     <Record>

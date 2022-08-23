@@ -3940,10 +3940,6 @@
       <Key>ItemKitStirlingEngine</Key>
       <Value>Rakettimoottori</Value>
     </RecordThing>
-    <RecordThing>
-      <Key>StructureH2Combustor</Key>
-      <Value>Lattiasäleikkö</Value>
-    </RecordThing>
   </Things>
   <Slots>
     <Record>
