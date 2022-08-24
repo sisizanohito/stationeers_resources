@@ -8377,27 +8377,27 @@
     </Record>
     <Record>
       <Key>LogicTypePressureInput</Key>
-      <Value>设备当前气压读数</Value>
+      <Value>设备的 输入 网络中的当前气压读数</Value>
     </Record>
     <Record>
       <Key>LogicTypeTemperatureInput</Key>
-      <Value>设备当前温度读数</Value>
+      <Value>设备的 输入 网络中的当前温度读数</Value>
     </Record>
     <Record>
       <Key>LogicTypePressureInput2</Key>
-      <Value>设备当前气压读数</Value>
+      <Value>设备的 输入2 网络中的当前气压读数</Value>
     </Record>
     <Record>
       <Key>LogicTypeTemperatureInput2</Key>
-      <Value>设备当前温度读数</Value>
+      <Value>设备的 输入2 网络中的当前温度读数</Value>
     </Record>
     <Record>
       <Key>LogicTypePressureOutput</Key>
-      <Value>设备当前气压读数</Value>
+      <Value>设备的 输出 网络中的当前气压读数</Value>
     </Record>
     <Record>
       <Key>LogicTypeTemperatureOutput</Key>
-      <Value>设备当前温度读数</Value>
+      <Value>设备的 输出 网络中的当前温度读数</Value>
     </Record>
     <Record>
       <Key>LogicTypePressureOutput2</Key>
