@@ -1803,15 +1803,15 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureRocketEngineSmall</Key>
-      <Value>火箭引擎(小)</Value>
+      <Value>火箭发动机（小型）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureRocketEngineTiny</Key>
-      <Value>火箭发动机(微型)</Value>
+      <Value>火箭发动机（微型）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureRTG</Key>
-      <Value>创造同位素温差发电机</Value>
+      <Value>创造模式：放射性同位素温差发电机（RTG）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureSleeper</Key>
