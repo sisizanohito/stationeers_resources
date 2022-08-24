@@ -8485,19 +8485,19 @@
     </Record>
     <Record>
       <Key>LogicTypeRatioWaterInput</Key>
-      <Value>设备中的 {GAS:Water} 比例</Value>
+      <Value>设备的 输入 网络中的水比例</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioNitrousOxideInput</Key>
-      <Value>设备中的 {GAS:NitrousOxide} 比例</Value>
+      <Value>设备的 输入 网络中的一氧化二氮比例</Value>
     </Record>
     <Record>
       <Key>LogicTypeCombustionInput</Key>
-      <Value>评估大气环境中是否存在火情。如果大气环境中存在火情则返回 1 ，没有火情则返回 0</Value>
+      <Value>评估大气环境中是否存在火情。如果设备的 输入 网络中存在火情则返回 1 ，没有火情则返回 0 。</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioOxygenInput2</Key>
-      <Value>设备中的 {GAS:Oxygen} 比例</Value>
+      <Value>设备的 输入2 网络中的氧气比例</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioCarbonDioxideInput2</Key>
@@ -8513,15 +8513,15 @@
     </Record>
     <Record>
       <Key>LogicTypeRatioVolatilesInput2</Key>
-      <Value>设备的 输入2 网络中的挥发性气体比例</Value>
+      <Value>设备的 输入2 网络中的 挥发性气体 比例</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioWaterInput2</Key>
-      <Value>设备的 输入2 网络中的水比例</Value>
+      <Value>设备的 输入2 网络中的 水 比例</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioNitrousOxideInput2</Key>
-      <Value>设备的 输入2 网络中的一氧化二氮比例</Value>
+      <Value>设备的 输入2 网络中的 一氧化二氮 比例</Value>
     </Record>
     <Record>
       <Key>LogicTypeCombustionInput2</Key>
@@ -8529,31 +8529,31 @@
     </Record>
     <Record>
       <Key>LogicTypeRatioOxygenOutput</Key>
-      <Value>设备的 输出 网络中的氧气比例</Value>
+      <Value>设备的 输出 网络中的 氧气 比例</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioCarbonDioxideOutput</Key>
-      <Value>设备的 输出 网络中的二氧化碳比例</Value>
+      <Value>设备的 输出 网络中的 二氧化碳 比例</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioNitrogenOutput</Key>
-      <Value>设备的 输出 网络中的氮气比例</Value>
+      <Value>设备的 输出 网络中的 氮气 比例</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioPollutantOutput</Key>
-      <Value>设备的 输出 网络中的污染性气体比例</Value>
+      <Value>设备的 输出 网络中的 污染性气体 比例</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioVolatilesOutput</Key>
-      <Value>设备的 输出 网络中的挥发性气体比例</Value>
+      <Value>设备的 输出 网络中的 挥发性气体 比例</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioWaterOutput</Key>
-      <Value>设备的 输出 网络中的水比例</Value>
+      <Value>设备的 输出 网络中的 水 比例</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioNitrousOxideOutput</Key>
-      <Value>设备的 输出 网络中的一氧化二氮比例</Value>
+      <Value>设备的 输出 网络中的 一氧化二氮 比例</Value>
     </Record>
     <Record>
       <Key>LogicTypeCombustionOutput</Key>
@@ -8561,31 +8561,31 @@
     </Record>
     <Record>
       <Key>LogicTypeRatioOxygenOutput2</Key>
-      <Value>设备的 输出2 网络中的氧气比例</Value>
+      <Value>设备的 输出2 网络中的 氧气 比例</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioCarbonDioxideOutput2</Key>
-      <Value>设备的 输出2 网络中的二氧化碳比例</Value>
+      <Value>设备的 输出2 网络中的 二氧化碳 比例</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioNitrogenOutput2</Key>
-      <Value>设备的 输出2 网络中的氮气比例</Value>
+      <Value>设备的 输出2 网络中的 氮气 比例</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioPollutantOutput2</Key>
-      <Value>设备的 输出2 网络中的污染性气体比例</Value>
+      <Value>设备的 输出2 网络中的 污染性气体 比例</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioVolatilesOutput2</Key>
-      <Value>设备的 输出2 网络中的挥发性气体比例</Value>
+      <Value>设备的 输出2 网络中的 挥发性气体 比例</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioWaterOutput2</Key>
-      <Value>设备的 输出2 网络中的水比例</Value>
+      <Value>设备的 输出2 网络中的 水 比例</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioNitrousOxideOutput2</Key>
-      <Value>设备的 输出2 网络中的一氧化二氮比例</Value>
+      <Value>设备的 输出2 网络中的 一氧化二氮 比例</Value>
     </Record>
     <Record>
       <Key>LogicTypeCombustionOutput2</Key>
