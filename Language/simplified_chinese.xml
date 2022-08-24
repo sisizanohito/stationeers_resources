@@ -8501,43 +8501,43 @@
     </Record>
     <Record>
       <Key>LogicTypeRatioCarbonDioxideInput2</Key>
-      <Value>设备中的 {GAS:CarbonDioxide} 比例</Value>
+      <Value>设备的 输入2 网络中的二氧化碳比例</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioNitrogenInput2</Key>
-      <Value>设备中的 {GAS:Nitrogen} 比例</Value>
+      <Value>设备的 输入2 网络中的氮气比例</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioPollutantInput2</Key>
-      <Value>设备中的 {GAS:Pollutant} 比例</Value>
+      <Value>设备的 输入2 网络中的污染性气体比例</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioVolatilesInput2</Key>
-      <Value>设备中的 {GAS:Volatiles} 比例</Value>
+      <Value>设备的 输入2 网络中的挥发性气体比例</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioWaterInput2</Key>
-      <Value>设备中的 {GAS:Water} 比例</Value>
+      <Value>设备的 输入2 网络中的水比例</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioNitrousOxideInput2</Key>
-      <Value>设备中的 {GAS:NitrousOxide} 比例</Value>
+      <Value>设备的 输入2 网络中的一氧化二氮比例</Value>
     </Record>
     <Record>
       <Key>LogicTypeCombustionInput2</Key>
-      <Value>评估大气环境中是否存在火情。如果大气环境中存在火情则返回 1 ，没有火情则返回 0</Value>
+      <Value>评估大气环境中是否存在火情。如果设备的 输入2 网络中存在火情则返回 1 ，没有火情则返回 0 。</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioOxygenOutput</Key>
-      <Value>设备中的 {GAS:Oxygen} 比例</Value>
+      <Value>设备的 输出 网络中的氧气比例</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioCarbonDioxideOutput</Key>
-      <Value>设备中的 {GAS:CarbonDioxide} 比例</Value>
+      <Value>设备的 输出 网络中的二氧化碳比例</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioNitrogenOutput</Key>
-      <Value>设备中的 {GAS:Nitrogen} 比例</Value>
+      <Value>设备的 输出 网络中的氮气比例</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioPollutantOutput</Key>
