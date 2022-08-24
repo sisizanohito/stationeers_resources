@@ -8401,11 +8401,11 @@
     </Record>
     <Record>
       <Key>LogicTypePressureOutput2</Key>
-      <Value>设备当前气压读数</Value>
+      <Value>设备的 输出2 网络中的当前气压读数</Value>
     </Record>
     <Record>
       <Key>LogicTypeTemperatureOutput2</Key>
-      <Value>设备当前温度读数</Value>
+      <Value>设备的 输出2 网络中的当前温度读数</Value>
     </Record>
     <Record>
       <Key>LogicTypePressureExternal</Key>
@@ -8465,31 +8465,31 @@
     </Record>
     <Record>
       <Key>LogicTypeRatioOxygenInput</Key>
-      <Value>设备中的 {GAS:Oxygen} 比例</Value>
+      <Value>设备的 输入 网络中的 氧气 比例</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioCarbonDioxideInput</Key>
-      <Value>设备中的 {GAS:CarbonDioxide} 比例</Value>
+      <Value>设备的 输入 网络中的 二氧化碳 比例</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioNitrogenInput</Key>
-      <Value>设备中的 {GAS:Nitrogen} 比例</Value>
+      <Value>设备的 输入 网络中的 氮气 比例</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioPollutantInput</Key>
-      <Value>设备中的 {GAS:Pollutant} 比例</Value>
+      <Value>设备的 输入 网络中的 污染性气体 比例</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioVolatilesInput</Key>
-      <Value>设备中的 {GAS:Volatiles} 比例</Value>
+      <Value>设备的 输入 网络中的 挥发性气体 比例</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioWaterInput</Key>
-      <Value>设备的 输入 网络中的水比例</Value>
+      <Value>设备的 输入 网络中的 水 比例</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioNitrousOxideInput</Key>
-      <Value>设备的 输入 网络中的一氧化二氮比例</Value>
+      <Value>设备的 输入 网络中的 一氧化二氮 比例</Value>
     </Record>
     <Record>
       <Key>LogicTypeCombustionInput</Key>
@@ -8497,19 +8497,19 @@
     </Record>
     <Record>
       <Key>LogicTypeRatioOxygenInput2</Key>
-      <Value>设备的 输入2 网络中的氧气比例</Value>
+      <Value>设备的 输入2 网络中的 氧气 比例</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioCarbonDioxideInput2</Key>
-      <Value>设备的 输入2 网络中的二氧化碳比例</Value>
+      <Value>设备的 输入2 网络中的 二氧化碳 比例</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioNitrogenInput2</Key>
-      <Value>设备的 输入2 网络中的氮气比例</Value>
+      <Value>设备的 输入2 网络中的 氮气 比例</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioPollutantInput2</Key>
-      <Value>设备的 输入2 网络中的污染性气体比例</Value>
+      <Value>设备的 输入2 网络中的 污染性气体 比例</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioVolatilesInput2</Key>
