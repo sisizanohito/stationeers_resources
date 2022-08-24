@@ -1791,7 +1791,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructurePressureRegulator</Key>
-      <Value>压力调节器</Value>
+      <Value>压力调节阀</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureRailing</Key>
