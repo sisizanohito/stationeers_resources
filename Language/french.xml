@@ -5522,7 +5522,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemNitrice</Key>
-      <Value>Glace (Oxite)</Value>
+      <Value>Glace (azote glacé)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPassiveLargeRadiator</Key>
@@ -8962,6 +8962,10 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     <Record>
       <Key>ElectronicReaderIce</Key>
       <Value>Glace</Value>
+    </Record>
+    <Record>
+      <Key>ElectronicReaderNitrice</Key>
+      <Value>Azote glacé</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderVolatiles</Key>
