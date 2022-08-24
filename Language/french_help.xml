@@ -157,21 +157,19 @@ Certains minerais fondent lorsqu&apos;ils sont exposés au soleil ou à la chale
       <Key>TravelPage</Key>
       <Title>Voyager vers d’autres planètes</Title>
       <DisplayFilter>Guides</DisplayFilter>
-      <Text>Attendez! Lisez bien ce qui suis ! Les conditions suivantes doivent être remplies pour le lancement :
+      <Text>Attendez ! Lisez bien ce qui suit ! Les conditions suivantes doivent être toutes remplies pour le lancement :
 
-- Fusée entièrement construite : au moins 3 modules de base
-- Le {THING:StructureModularRocketFueltank01} est plein
-- Rapport de mélange de carburant : un mélange de 2:1 de {GAS:Volatiles} et {GAS:Oxygen}.
-- Alimentation électrique de l&apos;{THING:StructureLaunchPad}
-- Tous les joueurs sont assis dans le {THING:StructureModularRocketCommand01}
+– Fusée entièrement construite : au moins 3 modules de base
+– Le {THING:StructureModularRocketFueltank01} est plein
+– Rapport de mélange de carburant : un mélange de 2:1 de {GAS:Volatiles} et {GAS:Oxygen}.
+– Alimentation électrique de l’{THING:StructureLaunchPad}
+– Tous les joueurs sont assis dans le {THING:StructureModularRocketCommand01}
 
-Vous trouverez ci-dessous les ID WORLD TRAVEL. Vous pouvez les utiliser pour voyager vers des planètes spécifiques, lorsqu’ils sont combinés avec une {LINK:RocketShuttlePage; fusée terminée} et des {LINK:LogicUnitPage; Unités logiques}.
+Vous trouverez ci-dessous les identifiants des voyages interstellaires. Vous pouvez les utiliser pour voyager vers des planètes spécifiques, lorsqu’ils sont combinés avec une {LINK:RocketShuttlePage; fusée terminée} et des {LINK:LogicUnitPage ; unités logiques}.
        
-Il suffit d’écrire l&apos;ID WORLD TRAVEL dans la variable de réglage de l&apos;{THING:StructureLaunchPad} avec une {THING:ItemLabeller}. Remarque : Vous pouvez cliquer sur un hash pour le copier sur le presse-papiers.
+Il suffit d’écrire l’identifiant (hash) dans la variable de réglage de la {THING:StructureLaunchPad} avec une {THING:StructureLogicWriter} et une {THING:StructureLogicMemory}. Remarque : vous pouvez cliquer directement sur un hash pour le copier sur le presse-papiers.
       
-      {LISTE}
-        {WORLD_HASHES}
-      {/LISTE}      </Text>
+{LIST}{WORLD_HASHES}{/LIST}</Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>RocketShuttleModulesHelpPage</Key>

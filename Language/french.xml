@@ -11916,6 +11916,10 @@ Remarque : l’eau était auparavant traitée comme un gaz, mais un nouveau syst
       <Value>Glace</Value>
     </Record>
     <Record>
+      <Key>Nitrice</Key>
+      <Value>Azote glacé</Value>
+    </Record>
+    <Record>
       <Key>Volatiles</Key>
       <Value>Minerais volatiles</Value>
     </Record>
