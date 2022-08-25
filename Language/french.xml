@@ -8337,19 +8337,19 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>LogicTypeTotalMolesInput</Key>
-      <Value>Indique le nombre de moles de l&apos;appareil</Value>
+      <Value>Renvoie le nombre total de moles du réseau connecté à l&apos;entrée de l&apos;appareil</Value>
     </Record>
     <Record>
       <Key>LogicTypeTotalMolesInput2</Key>
-      <Value>Indique le nombre de moles de l&apos;appareil</Value>
+      <Value>Renvoie le nombre total de moles du réseau connecté à l&apos;entrée 2 de l&apos;appareil</Value>
     </Record>
     <Record>
       <Key>LogicTypeTotalMolesOutput</Key>
-      <Value>Indique le nombre de moles de l&apos;appareil</Value>
+      <Value>Renvoie le nombre total de moles du réseau connecté à la sortie de l&apos;appareil</Value>
     </Record>
     <Record>
       <Key>LogicTypeTotalMolesOutput2</Key>
-      <Value>Indique le nombre de moles de l&apos;appareil</Value>
+      <Value>Renvoie le nombre total de moles du réseau connecté à la sortie 2 de l&apos;appareil</Value>
     </Record>
     <Record>
       <Key>LogicTypeVolume</Key>
@@ -8430,6 +8430,18 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     <Record>
       <Key>LogicTypeSignalID</Key>
       <Value>Renvoie l&apos;identification du contact avec le signal le plus fort de ce satellite</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeOperationalTemperatureEfficiency</Key>
+      <Value>Comment la température du tuyau d’entrée affecte l’efficacité des machines ?</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeTemperatureDifferentialEfficiency</Key>
+      <Value>Comment la différence entre les températures du tuyau d’entrée et du tuyau d’évacuation affecte l’efficacité des machines ?</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypePressureEfficiency</Key>
+      <Value>Comment la pression du tuyau d’entrée et du tuyau d’évacuation affecte l’efficacité des machines ?</Value>
     </Record>
     <Record>
       <Key>LogicSlotTypeNone</Key>
@@ -8597,7 +8609,7 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>ContactLandingRequestFailSatellite</Key>
-      <Value>Il y a un problème avec votre satellite. Vérifiez s’il est connecté au réseau et alimenté en énergie.</Value>
+      <Value>Il y a un problème avec votre satellite. Vérifiez qu&apos;il est bien connecté au réseau et alimenté en énergie.</Value>
     </Record>
     <Record>
       <Key>ContactLandingRequestFailStorm</Key>
@@ -10561,13 +10573,11 @@ Le programme Stationeers, qui est fondamentalement ouvert à toute l’humanité
     </Record>
     <Record>
       <Key>StationpediaLogicHeader</Key>
-      <Value>
-  Logique</Value>
+      <Value>Logique</Value>
     </Record>
     <Record>
       <Key>StationpediaLogicSlotHeader</Key>
-      <Value>
-  Emplacements logiques</Value>
+      <Value>Emplacements logiques</Value>
     </Record>
     <Record>
       <Key>StationpediaTutorialListHeader</Key>
