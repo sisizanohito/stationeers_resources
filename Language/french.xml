@@ -5110,15 +5110,15 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemInsulatedTankConnector</Key>
-      <Value/>
+      <Value>Connecteur de citerne portable (calfeutré)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedTankConnector</Key>
-      <Value/>
+      <Value>Connecteur de citerne portable calfeutré</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemInsulatedTankConnectorLiquid</Key>
-      <Value/>
+      <Value>Kit (connecteur de citerne portable calfeutré pour liquides)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedTankConnectorLiquid</Key>
