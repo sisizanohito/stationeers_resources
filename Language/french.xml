@@ -7051,7 +7051,7 @@
     </Record>
     <Record>
       <Key>MothershipConstruction</Key>
-      <Value>&lt;color=yellow&gt;Construire sur le vaisseau mère.&lt;/color&gt;</Value>
+      <Value>&lt;color=yellow&gt;Construire sur le vaisseau mère.</Value>
     </Record>
     <Record>
       <Key>MulticonstructorItem</Key>
@@ -10726,8 +10726,12 @@ Remarque : l’eau était auparavant traitée comme un gaz, mais un nouveau syst
       <Value>Changer d&apos;apparence</Value>
     </Record>
     <Record>
+      <Key>CreateNewGame</Key>
+      <Value>Créer une nouvelle partie</Value>
+    </Record>
+    <Record>
       <Key>WorkshopModsTitle</Key>
-      <Value>Steam Workshop</Value>
+      <Value>Mods du Workshop</Value>
     </Record>
     <Record>
       <Key>GameMenuButtonSaveAs</Key>
@@ -10735,7 +10739,7 @@ Remarque : l’eau était auparavant traitée comme un gaz, mais un nouveau syst
     </Record>
     <Record>
       <Key>GameMenuPauseGameButton</Key>
-      <Value>Jeu en pause</Value>
+      <Value>Mettre le jeu en pause</Value>
     </Record>
   </Interface>
   <Colors>
