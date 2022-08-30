@@ -10680,9 +10680,9 @@ Debido a las regulaciones oscuras y en gran parte olvidadas de &lt;color=#0080FF
     </Record>
     <Record>
       <Key>MolePollutantDescription</Key>
-      <Value>También conocido como &apos;X&apos;, los contaminantes se crean al fundir ciertos metales. Una concentración de 0.1 mol o más hará que su traje advierta sobre el veneno en la atmósfera.
+      <Value>
   · 
-El contaminante tiene un calor específico alto, lo que lo convierte en un excelente refrigerante.</Value>
+El contaminante tiene un calor específico alto, lo que lo convierte en un excelente refrigerante.Desgraciadamente es extremadamente malo para los organismos vivos,y dañará gravemente los pulmones de la mayoría de los organismos a base de {REAGENT:Carbon}.</Value>
     </Record>
     <Record>
       <Key>MoleWaterDescription</Key>
