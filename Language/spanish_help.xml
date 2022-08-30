@@ -239,7 +239,7 @@ Esta es la configuración básica. Para automatizarlo, necesitará un analizador
       <Key>AutomatedRocketPage</Key>
       <Title>Modulos de Cohete Automatizados (M.C.A.)</Title>
       <DisplayFilter>Guides</DisplayFilter>
-      <Text>Los cohetes automatizados son vehículos sin tripulación que se pueden enviar fuera del mundo para recuperar una variedad de recursos. El cohete puede ser controlado por &lt;color=#0080FFFF&gt;{LINK:LogicUnitPage;logic}&lt;/color&gt; o &lt;color=#0080FFFF&gt;{LINK:LogicUnitPage;IC}&lt;/color&gt; o una combinación de estos sistemas.
+      <Text>Los cohetes automatizados son vehículos sin tripulación que se pueden enviar fuera del mundo para recuperar una variedad de recursos. El cohete puede ser controlado por {LINK:LogicUnitPage;logic} o {LINK:LogicUnitPage;IC}&lt;/color&gt; o una combinación de estos sistemas.
  · 
 Una vez lanzados, los cohetes automatizados buscan planetas o asteroides con recursos extraíbles, según los MÓDULOS con los que se hayan construido. Los cohetes se pueden programar para extraer todos los recursos disponibles y luego trasladarse a otro planeta o regresar a casa. Su alcance, y por lo tanto la cantidad de recursos que pueden recolectar, está determinada por el combustible disponible. Si se quedan sin combustible, se pierden para siempre en el vacío.
  · 
@@ -253,17 +253,17 @@ El sistema de cohetes automatizado se compone de cuatro módulos fundamentales, 
 
 * ACOPLADOR: conecta los módulos de minería con los módulos de almacenamiento, pasando material de uno a otro. Específicamente, {THING:StructureModularRocketCouplingDown} pasa recursos a un módulo de almacenamiento DEBAJO de él. La {THING:StructureModularRocketCouplingUp} pasa recursos a un módulo de almacenamiento POR ENCIMA de él. El cohete no recolectará recursos sin este elemento.
 
-* MÓDULO DE ALMACENAMIENTO: este módulo recibe recursos de un módulo de minería a través de un acoplador y los almacena hasta que regresa el cohete. Esto incluye actualmente {THING:StructureRocketModuleSilo} para minerales y {THING:StructureModularRocketFueltank01} para gas. Los módulos de almacenamiento se pueden conectar a un &lt;color=#0080FFFF&gt;{LINK:ImportExportPage;chute network}&lt;/color&gt;, pero están cerrados de forma predeterminada. Use &lt;color=#0080FFFF&gt;{LINK:LogicUnitPage;logic}&lt;/color&gt; para configurarlo en &apos;abierto&apos; .
+* MÓDULO DE ALMACENAMIENTO: este módulo recibe recursos de un módulo de minería a través de un acoplador y los almacena hasta que regresa el cohete. Esto incluye actualmente {THING:StructureRocketModuleSilo} para minerales y {THING:StructureModularRocketFueltank01} para gas. Los módulos de almacenamiento se pueden conectar a un {LINK:ImportExportPage;chute network}, pero están cerrados de forma predeterminada. Use {LINK:LogicUnitPage;logic} para configurarlo en &apos;abierto&apos; .
 
 
 {ENCABEZADO: CONDICIONES DE LANZAMIENTO} 
-* ENERGIA: todos los módulos del cohete deben estar alimentados. Tenga en cuenta que los módulos se crean &quot;Activados&quot; de forma predeterminada, pero pueden desactivarse y activarse mediante las conexiones &lt;color=#0080FFFF&gt;{LINK:LogicUnitPage;logic}&lt;/color&gt;.
+* ENERGIA: todos los módulos del cohete deben estar alimentados. Tenga en cuenta que los módulos se crean &quot;Activados&quot; de forma predeterminada, pero pueden desactivarse y activarse mediante las conexiones {LINK:LogicUnitPage;logic}.
 
 * COMBUSTIBLE: el cohete debe tener al menos un tanque de combustible y suficiente combustible para el despegue (al menos 500 moles). Tenga en cuenta que el cohete también requiere 500 mol para aterrizar Y consume 5 mol por tic durante la fase de viaje de la operación.
 
 * CONSTRUCCIÓN - El cohete debe estar correctamente ensamblado (ver MÓDULOS arriba) 
 
-* PROGRAMACIÓN - El cohete está controlado por el &lt;color=#0080FFFF&gt;{LINK:LogicUnitPage;IC system}&lt;/color&gt; (ver más abajo) 
+* PROGRAMACIÓN - El cohete está controlado por el {LINK:LogicUnitPage;IC system} (ver más abajo) 
 
 
 {HEADER:ROCKET MODES} 
@@ -316,21 +316,15 @@ El modo del cohete se establece mediante el valor de &quot;activación&quot; del
       <Text>¡Espera! ¡No me cierres todavía! Las siguientes condiciones son necesarias para poder despegar:
 
 - Cohete completamente construido: al menos 3 módulos centrales
-- Completamente cargado {THING:StructureModularRocketFueltank01}
-- Relación de mezcla de combustible correcta: una mezcla 2: 1 de {GAS:Volatiles} y {GAS:Oxygen}.
+- Completamente cargado de combustible {THING:StructureModularRocketFueltank01}
+- Relación de mezcla de combustible correcta: una mezcla 2 : 1 de {GAS:Volatiles} y {GAS:Oxygen}.
 - Energía suministrada a {THING:StructureLaunchPad}
 - Todos los jugadores sentados en {THING:StructureModularRocketCommand01}
 
 A continuación se muestran los ID de VIAJES MUNDIALES. Puede usarlos para viajar a planetas específicos, cuando se combinan con un {LINK:RocketShuttlePage;Rocket Shuttle} y {LINK:LogicUnitPage;Logic Units} completados.
        
 Simplemente escriba el hash en la variable de configuración en {THING:StructureLaunchPad} con una {THING:ItemLabeller} y una {THING:StructureLogicMemory}. Nota: puede hacer clic en un hash para copiarlo en el portapapeles.
-
-      
-
-
-      {LIST}
-        {WORLD_HASHES}
-      {/LIST}
+{LIST}{WORLD_HASHES}{/LIST}
 
       </Text>
     </StationpediaPage>
