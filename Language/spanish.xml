@@ -8314,19 +8314,19 @@ Es una ley universal inquebrantable que cualquier cosa superior a 11 será púrp
     </Record>
     <Record>
       <Key>LogicTypeTotalMolesInput</Key>
-      <Value>Devuelve el total de los moles del dispositivo</Value>
+      <Value>Devuelve el total de los moles del dispositivo en la entrada 1</Value>
     </Record>
     <Record>
       <Key>LogicTypeTotalMolesInput2</Key>
-      <Value>Devuelve el total de los moles del dispositivo</Value>
+      <Value>Devuelve el total de los moles del dispositivo en la entrada 2</Value>
     </Record>
     <Record>
       <Key>LogicTypeTotalMolesOutput</Key>
-      <Value>Devuelve el total de los moles del dispositivo</Value>
+      <Value>Devuelve el total de los moles del dispositivo en la salida 1</Value>
     </Record>
     <Record>
       <Key>LogicTypeTotalMolesOutput2</Key>
-      <Value>Devuelve el total de los moles del dispositivo</Value>
+      <Value>Devuelve el total de los moles del dispositivo en la salida 2</Value>
     </Record>
     <Record>
       <Key>LogicTypeVolume</Key>
@@ -8407,6 +8407,18 @@ Es una ley universal inquebrantable que cualquier cosa superior a 11 será púrp
     <Record>
       <Key>LogicTypeSignalID</Key>
       <Value>Devuelve el ID de contacto de la señal más fuerte de este satélite</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeOperationalTemperatureEfficiency</Key>
+      <Value>Cómo la temperatura de las tuberías de entrada afecta la eficiencia de las máquinas</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeTemperatureDifferentialEfficiency</Key>
+      <Value>Cómo la diferencia entre las temperaturas de la tubería de entrada y la tubería de desechos afecta la eficiencia de las máquinas</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypePressureEfficiency</Key>
+      <Value>Cómo la presión de la tubería de entrada y la tubería de desechos afectan la eficiencia de las máquinas</Value>
     </Record>
     <Record>
       <Key>LogicSlotTypeNone</Key>
@@ -9967,7 +9979,7 @@ Es una ley universal inquebrantable que cualquier cosa superior a 11 será púrp
     </Record>
     <Record>
       <Key>PressEnterToContinue</Key>
-      <Value>Presiona &lt;color=#FBB03B&gt;Espacio&lt;/color&gt; para continuar</Value>
+      <Value>Presiona Espacio para continuar</Value>
     </Record>
     <Record>
       <Key>TutorialCompleteDateOfCompletion</Key>
@@ -10177,7 +10189,7 @@ Es una ley universal inquebrantable que cualquier cosa superior a 11 será púrp
       <Key>AgrizeroDesc</Key>
       <Value>Agrizero es una empresa de biotecnología agrícola centrada en la investigación y el despliegue de tecnología agrícola fuera del mundo. El objetivo de la compañía es proporcionar una red de &quot;biofábrias&quot; autosostenibles y autónomas que en última instancia alimentarán a 1 millón de humanos proyectados en el espacio.
 Emergiendo de los desastres ambientales de finales del siglo 21, la firma tiene raíces en las iniciativas de agricultura artificial que salvan el mundo de China, y ahora se ha extendido a las instalaciones en el Cinturón de Asteroides, donde el suministro de asteroides de hielo hace que la agricultura vertical y la agricultura de ambiente controlado sean extremadamente prometedoras.
-Si bien muchas de sus instalaciones aún están en construcción, Agrizero ya es uno de los principales proveedores de grupos fuera del mundo como &lt;color=#0080FFFF&gt;{LINK:ODA;ODA}, &lt;color=#0080FFFF&gt;{LINK:Sinotai;Sinotai}&lt;/color&gt; y &lt;color=#0080FFFF&gt;{LINK:ExMin;ExMin}&lt;/color&gt; a través de la red de comerciantes en constante expansión.</Value>
+Si bien muchas de sus instalaciones aún están en construcción, Agrizero ya es uno de los principales proveedores de grupos fuera del mundo como {LINK:ODA;ODA}, {LINK:Sinotai;Sinotai} y {LINK:ExMin;ExMin} a través de la red de comerciantes en constante expansión.</Value>
     </Record>
     <Record>
       <Key>AsuraDesc</Key>
@@ -10188,15 +10200,15 @@ En 2150, el negocio de Asura era una propuesta simple, como se captura en su fam
     </Record>
     <Record>
       <Key>CHACDesc</Key>
-      <Value>Fundada en 2085 para producir armas para &lt;color=#0080FFFF&gt;{LINK:Sinotai}&lt;/color&gt; Las fuerzas espaciales de Sinotai, la compañía es conocida por fabricar armas altamente confiables y asequibles para uso fuera del mundo.
+      <Value>Fundada en 2085 para producir armas para {LINK:Sinotai} Las fuerzas espaciales de Sinotai, la compañía es conocida por fabricar armas altamente confiables y asequibles para uso fuera del mundo.
 Su enfoque pragmático se refleja en su enfoque en diseños adecuados para la impresión 3D y la producción en masa, así como en una alta reutilización de componentes en todos los modelos y clases de armas.
 Como resultado, aunque las armas CHAC no sobresalen en ninguna categoría en particular, y ciertamente nunca han sido acusadas de gretness, no sufren grandes fallas, y funcionan lo suficientemente bien según las medidas más conocidas como para haber ganado a sus diseñadores el título informal de &quot;armero del Sistema Solar&quot;.</Value>
     </Record>
     <Record>
       <Key>ExMinDesc</Key>
-      <Value>A raíz del desastre de Sísifo en Marte en 2079, el desplazamiento de asteroides fue oficialmente prohibido por el &lt;color=#0080FFFF&gt;{LINK:ODA;ODA}&lt;/color&gt;. Este cambio radical obligó a la recién nacida industria minera espacial a reconsiderar sus estrategias, pero hasta la apertura del Elevador Espacial de Manaos, la economía marginal significaba que la extracción de recursos fuera del mundo era efectivamente imposible.
+      <Value>A raíz del desastre de Sísifo en Marte en 2079, el desplazamiento de asteroides fue oficialmente prohibido por el {LINK:ODA;ODA}. Este cambio radical obligó a la recién nacida industria minera espacial a reconsiderar sus estrategias, pero hasta la apertura del Elevador Espacial de Manaos, la economía marginal significaba que la extracción de recursos fuera del mundo era efectivamente imposible.
 Formado en 2095 por un conglomerado minero suizo-alemán de larga data y un consorcio de otros intereses, ExMin fue más una idea que una realidad comercial durante varias décadas. Creado con la certeza de que eventualmente llegaría un ascensor espacial, ExMin fue uno de los primeros en explotar el acceso que ofrecía. Posteriormente se ha convertido en una de las entidades comerciales más poderosas del Sistema Solar.
-Con el acceso al espacio seguro, ExMin se convirtió en un jugador central en el flujo de recursos al Sistema Interno. Tiene competencia, principalmente del gigante minero brasileño &lt;color=#0080FFFF&gt;{LINK:Recurso;Recurso}&lt;/color&gt;, pero la compañía nunca ha perdido por completo su liderazgo en la minería fuera del mundo. Sinónimo de metales de tierras raras y pionero en la extracción de recursos fuera del mundo, se encuentra a la vanguardia del desarrollo en todo el Sistema Solar.</Value>
+Con el acceso al espacio seguro, ExMin se convirtió en un jugador central en el flujo de recursos al Sistema Interno. Tiene competencia, principalmente del gigante minero brasileño {LINK:Recurso;Recurso}, pero la compañía nunca ha perdido por completo su liderazgo en la minería fuera del mundo. Sinónimo de metales de tierras raras y pionero en la extracción de recursos fuera del mundo, se encuentra a la vanguardia del desarrollo en todo el Sistema Solar.</Value>
     </Record>
     <Record>
       <Key>GeFabrikDesc</Key>
@@ -10216,14 +10228,14 @@ Si se ha comunicado con amigos y familiares fuera del mundo recientemente, ha si
     <Record>
       <Key>NorsecDesc</Key>
       <Value>Con sus raíces en la industria de defensa de principios del siglo 20, Norsec (también conocido como Northern Security Systems) fue uno de los primeros en adoptar la minería de asteroides, uno de sus remolcadores estuvo involucrado en el infame Sisyphus Hit en la incipiente colonia marciana en Sanders.
-Norsec fue oficialmente absuelto de cualquier mal hecho, pero cuando el &lt;color=#0080FFFF&gt;{LINK:ODA;ODA}&lt;/color&gt; prohibió la reubicación de asteroides, la compañía cambió su enfoque a la infraestructura y la fabricación.
+Norsec fue oficialmente absuelto de cualquier mal hecho, pero cuando el {LINK:ODA;ODA} prohibió la reubicación de asteroides, la compañía cambió su enfoque a la infraestructura y la fabricación.
 La División de Sistemas Orbitales Espaciales de Norsec, es responsable del diseño y la producción de los sistemas de transporte centrales de &lt;color=#0080FFFF&gt;{LINK:ODA;ODA}&lt;/color&gt;, mientras que también se rumorea que tiene un gran interés en &lt;color=#0080FFFF&gt;{LINK:ExMin; ExMin}&lt;/color&gt;. La compañía también se destaca por su voluntad de participar en la tecnología robótica experimental.</Value>
     </Record>
     <Record>
       <Key>ODADesc</Key>
       <Value>A raíz de la Crisis de la Tierra, el enfoque de la humanidad en el espacio disminuyó. Sin embargo, muchos sintieron que, sin ambiciones más allá de nuestro planeta natal, nuestra especie podría tambalearse.
 Creada en 2070CE por unas Naciones Unidas recientemente renovadas, la Agencia de Desarrollo Offworld recibió un objetivo muy específico: guiar y alentar la exploración espacial humana en un momento en que el cosmos se estaba desvaneciendo de la mente pública. 
-Inauguró el &lt;color=#0080FFFF&gt;{LINK:Stationeers;Stationeer}&lt;/color&gt; en 2095. Entendiendo que sería difícil obtener fondos, la ODA concibió el programa como una iniciativa espacial de combustión lenta y bajo desembolso. Si bien algunos se burlaron de los estationeers como &quot;náufragos cósmicos de precio reducido&quot;, el éxito del programa es testimonio de la sabiduría y el pragmatismo de la visión de ODA.</Value>
+Inauguró el {LINK:Stationeers;Stationeer} en 2095. Entendiendo que sería difícil obtener fondos, la ODA concibió el programa como una iniciativa espacial de combustión lenta y bajo desembolso. Si bien algunos se burlaron de los estationeers como &quot;náufragos cósmicos de precio reducido&quot;, el éxito del programa es testimonio de la sabiduría y el pragmatismo de la visión de ODA.</Value>
     </Record>
     <Record>
       <Key>Recurso</Key>
@@ -10233,19 +10245,19 @@ Inauguró el &lt;color=#0080FFFF&gt;{LINK:Stationeers;Stationeer}&lt;/color&gt; 
       <Key>RecursoDesc</Key>
       <Value>Este grupo minero brasileño de larga data se ramificó en el espacio a finales del siglo 21.
 Centrada principalmente en minerales y metales a granel, la compañía quizás se entienda mejor como una extensión del gobierno brasileño: muy pocas figuras políticas de alto nivel en el Brasil moderno no están implicadas en un brazo u otro de este gigante industrial.
-El enredo con la política sudamericana le ha dado a la compañía una gran influencia sobre el ascensor espacial de Manaos. Este control del estado profundo ha llevado a otros grupos, incluido el &lt;color=#0080FFFF&gt;{LINK:ODA;ODA}&lt;/color&gt;, a ejercer una cierta &quot;flexibilidad&quot; hacia el recurso.
+El enredo con la política sudamericana le ha dado a la compañía una gran influencia sobre el ascensor espacial de Manaos. Este control del estado profundo ha llevado a otros grupos, incluido el {LINK:ODA;ODA}, a ejercer una cierta &quot;flexibilidad&quot; hacia el recurso.
 Las acusaciones de reubicación ilegal de asteroides, violaciones de seguridad y numerosas infracciones comerciales apenas lo han tocado. Mientras tanto, los defensores señalan que se ha demostrado muy poco en los tribunales, y el Recurso no está solo, de ahí la perogrullada: &quot;En el espacio, todos vivimos en casas de cristal&quot;.</Value>
     </Record>
     <Record>
       <Key>SinotaiDesc</Key>
-      <Value>La única entidad estatal &quot;tradicional&quot; que sobrevive a la política fuera del mundo, el alcance y el poder de los Sinotai es superado solo por el &lt;color=#0080FFFF&gt;{LINK:ODA;ODA}&lt;/color&gt; en sí. En muchos sentidos, una reliquia, una subasta de una burocracia corporativa asombrosamente complicada vinculada a la Tierra, su estructura ha permitido a Sinotai lograr cosas increíbles.
+      <Value>La única entidad estatal &quot;tradicional&quot; que sobrevive a la política fuera del mundo, el alcance y el poder de los Sinotai es superado solo por el {LINK:ODA;ODA} en sí. En muchos sentidos, una reliquia, una subasta de una burocracia corporativa asombrosamente complicada vinculada a la Tierra, su estructura ha permitido a Sinotai lograr cosas increíbles.
 Demostrando su valía a principios del siglo 21 al poner a los primeros humanos en Marte, establecer el primer sistema de energía de gigavatios fuera del mundo y la primera refinería de combustible espacial, pocas organizaciones espaciales carecen de algún grado de relación con Sinotai. Una broma común es que es imposible hacer algo en el espacio sin ellos.
-Independientemente de que sea verdad o no, el enfoque de Sinotai para el desarrollo fuera del mundo ha implicado un enfoque de &quot;poder blando&quot;, desde mou con &lt;color=#0080FFFF&gt;{LINK:Recurso;Recurso}&lt;/color&gt; (dándoles acceso preferencial al ascensor espacial de Manaos) a alianzas más turbias de conveniencia con una variedad de grupos de comerciantes.</Value>
+Independientemente de que sea verdad o no, el enfoque de Sinotai para el desarrollo fuera del mundo ha implicado un enfoque de &quot;poder blando&quot;, desde mou con {LINK:Recurso;Recurso} (dándoles acceso preferencial al ascensor espacial de Manaos) a alianzas más turbias de conveniencia con una variedad de grupos de comerciantes.</Value>
     </Record>
     <Record>
       <Key>TKDesc</Key>
       <Value>Originalmente un contratista de defensa especializado en fuerza bruta, armamento de alta potencia, Tanzanian Kinetic Systems ejecutó un pivote a gran escala en tiempos de paz para convertirse en el principal diseñador de transportadores de mercancías de alta velocidad de la Asamblea Africana.
-Ahora que produce una gama de diseños y componentes de redes de rampas, TK tiene una fuerte presencia fuera del mundo como resultado de las asociaciones afro-sino en el último siglo 21. Con sede en el &quot;reconned&quot; distrito kigamboni de Dar E Salaam, la Compañía entra regularmente en asociaciones de desarrollo con &lt;color=#0080FFFF&gt;{LINK:CHAC; CHAC}&lt;/color&gt; y, como resultado, muchos de sus productos muestran distintas similitudes.
+Ahora que produce una gama de diseños y componentes de redes de rampas, TK tiene una fuerte presencia fuera del mundo como resultado de las asociaciones afro-sino en el último siglo 21. Con sede en el &quot;reconned&quot; distrito kigamboni de Dar E Salaam, la Compañía entra regularmente en asociaciones de desarrollo con {LINK:CHAC; CHAC} y, como resultado, muchos de sus productos muestran distintas similitudes.
         Después de todo, lo que es una pistola sino un &quot;transportador de mercancías de alta velocidad&quot;.</Value>
     </Record>
     <Record>
@@ -10258,7 +10270,7 @@ Baste decir que produce casi todo.      </Value>
     <Record>
       <Key>StationeersDesc</Key>
       <Value>A principios del siglo 22, la Tierra estaba emergiendo de un cataclismo. Sus recursos se agotaron, nuestra población se redujo, la reconstrucción fue el espíritu de la época.
-Iniciado por la &lt;color=#0080FFFF&gt;{LINK:ODA;Offworld Development Agency} (ODA) en 2095CE, el Programa Stationeers se dedicó a un solo ideal: mantener a la humanidad apuntando a las estrellas.
+Iniciado por la {LINK:ODA;Offworld Development Agency} (ODA) en 2095CE, el Programa Stationeers se dedicó a un solo ideal: mantener a la humanidad apuntando a las estrellas.
 Los estationeers lo son todo: astronautas, ingenieros y exploradores, desplegados con equipos y herramientas limitados, entrenados para hacer más con menos. Convirtiendo el medio ambiente en su ventaja, su trabajo es proporcionar infraestructura para los humanos en el espacio, a una fracción del coste de los programas espaciales tradicionales.
 Capaces de construir y mantener bases en cualquier lugar, desde la Luna hasta Mimas y más allá, los Stationeers son nuestra vanguardia en el cosmos. Educados en técnicas de supervivencia fuera del mundo, minería y construcción, metalurgia básica, electrónica, cohetería, hidroponía y más ciencias &quot;arcanas&quot;, los estacionarios hacen lo que deben para sobrevivir y prosperar.
 Reconocido por no tener criterios de entrada, no existe tal cosa como un Stationeer &quot;típico&quot;. El perfil psicológico sugiere que los cadetes exitosos muestran un pragmatismo y una mentalidad de &quot;base&quot;, pero algunos de los estationeers más famosos no poseen ninguna de estas cualidades.
@@ -10531,13 +10543,11 @@ Reclutando de fondos de ingeniería civil, industrias militares y aeroespaciales
     </Record>
     <Record>
       <Key>StationpediaLogicHeader</Key>
-      <Value>
-        Logico</Value>
+      <Value>Logico</Value>
     </Record>
     <Record>
       <Key>StationpediaLogicSlotHeader</Key>
-      <Value>
-        Ranuras Lógicas</Value>
+      <Value>Ranuras Lógicas</Value>
     </Record>
     <Record>
       <Key>StationpediaTutorialListHeader</Key>
@@ -10594,6 +10604,14 @@ Reclutando de fondos de ingeniería civil, industrias militares y aeroespaciales
     <Record>
       <Key>LogicTypeBpm</Key>
       <Value>Bpm (bits por minuto)</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeEnvironmentEfficiency</Key>
+      <Value>La Eficiencia Ambiental reportada por la máquina, como un valor flotante entre 0 y 1</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeWorkingGasEfficiency</Key>
+      <Value>La eficiencia del gas de trabajo informado por la máquina, como un valor flotante entre 0 y 1</Value>
     </Record>
     <Record>
       <Key>Pitch</Key>
@@ -10657,7 +10675,7 @@ Reclutando de fondos de ingeniería civil, industrias militares y aeroespaciales
     </Record>
     <Record>
       <Key>MoleOxygenDescription</Key>
-      <Value>El oxígeno proporciona energía cuando se libera en la combustión y también se une al hidrógeno para crear agua. Es creado por las&lt;color=#0080FFFF&gt;{LINK:OrganicPage;plants}&lt;/color&gt;, así como a partir del procesamiento de {THING:ItemOxite}. Es altamente inflamable incluso a bajas temperaturas.</Value>
+      <Value>El oxígeno proporciona energía cuando se libera en la combustión y también se une al hidrógeno para crear agua {GAS:Water}. Es creado por las plantas {LINK:OrganicPage;plants}, así como a partir del procesamiento de Oxite {THING:ItemOxite}. Es altamente inflamable incluso a bajas temperaturas.</Value>
     </Record>
     <Record>
       <Key>MoleNitrogenDescription</Key>
