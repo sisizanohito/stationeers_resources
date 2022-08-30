@@ -5508,27 +5508,27 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPassiveLargeRadiator</Key>
-      <Value/>
+      <Value>Radiador Grande Pasivo (kit)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePassiveLargeRadiator</Key>
-      <Value/>
+      <Value>Radiador Grande Pasivo</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPassiveLargeRadiatorGas</Key>
-      <Value/>
+      <Value>Radiador Pasivo de gas Grande</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPassiveLargeRadiatorLiquid</Key>
-      <Value/>
+      <Value>Radiador Pasivo Grande de liquidos (kit)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePassiveLargeRadiatorLiquid</Key>
-      <Value/>
+      <Value>Radiador Pasivo Grande de liquidos</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePassiveLargeRadiatorGas</Key>
-      <Value/>
+      <Value>Radiador Pasivo Grande de Gas</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLogicGate</Key>
@@ -5536,7 +5536,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureNitrolyzer</Key>
-      <Value/>
+      <Value>Nitrolizador</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemMiningBackPack</Key>
