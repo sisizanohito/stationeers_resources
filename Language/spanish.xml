@@ -7544,7 +7544,7 @@ Parece que vas a estar aquí un tiempo.      </Value>
     <Record>
       <Key>NewWorldSpaceDesc</Key>
       <Value>¡Este es el modo creativo de Stationeers! Engendra cualquier artículo, prueba ideas y construye cosas locas muy rápido.
-&lt;color=red&gt;Este modo es experimental&lt;/color&gt;. Piense en ello como una fiesta espacial de forma libre donde cosas emocionantes e inesperadas * pueden suceder y sucederán, en comparación con la experiencia más confiable cercana a la muerte del Modo de Supervivencia.
+&lt;color=red&gt;Este modo es experimental. Piense en ello como una fiesta espacial de forma libre donde cosas emocionantes e inesperadas * pueden suceder y sucederán, en comparación con la experiencia más confiable cercana a la muerte del Modo de Supervivencia.
 Simplemente no te pongas triste cuando explotes en pequeños pedazos o te vuelvas salvaje por los pollos o explotes lentamente mientras te desplazas solo hacia el vacío infinito.
         *errores</Value>
     </Record>
@@ -7629,7 +7629,7 @@ Simplemente no te pongas triste cuando explotes en pequeños pedazos o te vuelva
     </Record>
     <Record>
       <Key>LogicState</Key>
-      <Value>Estado {COLORGREEN:#VAR1#}</Value>
+      <Value>Estado &lt;color=green&gt;#VAR 1 #</Value>
     </Record>
     <Record>
       <Key>LogicNoDevice</Key>
@@ -7645,11 +7645,11 @@ Simplemente no te pongas triste cuando explotes en pequeños pedazos o te vuelva
     </Record>
     <Record>
       <Key>LogicNoSlot</Key>
-      <Value>&lt;color=red&gt;Sin Ranura&lt;/color&gt;</Value>
+      <Value>&lt;color=red&gt;Sin Ranura</Value>
     </Record>
     <Record>
       <Key>LogicNoAvailableSlots</Key>
-      <Value>&lt;color=red&gt;Incapaz de construir&lt;/color&gt;.</Value>
+      <Value>&lt;color=red&gt;No hay ranuras disponibles</Value>
     </Record>
     <Record>
       <Key>LogicNoAdditionalSlotsFor</Key>
@@ -7685,7 +7685,7 @@ Simplemente no te pongas triste cuando explotes en pequeños pedazos o te vuelva
     </Record>
     <Record>
       <Key>ChangeSettingToFor</Key>
-      <Value>Ciclo a &lt;color=yellow&gt;{0}&lt;/color&gt; for {1}</Value>
+      <Value>Ciclo a &lt;color=yellow&gt;{0} para {1}</Value>
     </Record>
     <Record>
       <Key>ChangeSettingToForIn</Key>
@@ -7693,15 +7693,15 @@ Simplemente no te pongas triste cuando explotes en pequeños pedazos o te vuelva
     </Record>
     <Record>
       <Key>ChangeReagentSettingTo</Key>
-      <Value>Ciclo a {2}.&lt;color=yellow&gt;{0}&lt;/color&gt;.&lt;color=yellow&gt;{1}</Value>
+      <Value>Ciclo a {2}.&lt;color=yellow&gt;{0}.&lt;color=yellow&gt;{1}</Value>
     </Record>
     <Record>
       <Key>ChangeSlotSettingToFor</Key>
-      <Value>Ciclo a {1}&lt;color=yellow&gt;({0})&lt;/color&gt; para {2}</Value>
+      <Value>Ciclo a {1}&lt;color=yellow&gt;({0}) para {2}</Value>
     </Record>
     <Record>
       <Key>ChangeSettingToForAll</Key>
-      <Value>Ciclo de &lt;color=yellow&gt;{0}&lt;/color&gt;&gt;para todos {1}</Value>
+      <Value>Ciclo de &lt;color=yellow&gt;{0}&gt;para todos {1}</Value>
     </Record>
     <Record>
       <Key>InteractionTemporarilyDisabledOnThisObject</Key>
@@ -8167,7 +8167,7 @@ Tenga mucho cuidado al caminar o saltar, ya que puede desplazarse muy lejos y ga
     </Record>
     <Record>
       <Key>LogicTypeRatioNitrogenOutput2</Key>
-      <Value>La relación de nitrogeno en la salida 2 del dispositivo</Value>
+      <Value>La proporción de nitrogeno en la salida 2 del dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioPollutantOutput2</Key>

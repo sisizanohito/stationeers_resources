@@ -49,7 +49,7 @@
       <Key>TradingPage</Key>
       <Title>Comercio</Title>
       <DisplayFilter>Guides</DisplayFilter>
-      <Text>El comercio es una parte esencial de una existencia &lt;color=#0080FFFF&gt;{LINK:Stationeers;Stationeers}&lt;/color&gt; especialmente en mundos más extremos, donde los nuevos cadetes pueden ser desafiados al principio a sobrevivir sin ayuda.
+      <Text>El comercio es una parte esencial de una existencia {LINK:Stationeers;Stationeers} especialmente en mundos más extremos, donde los nuevos cadetes pueden ser desafiados al principio a sobrevivir sin ayuda.
 ¶
 {HEADER:Getting started} ¶
 ¶
@@ -108,8 +108,8 @@ Al construir, es importante tener en cuenta que la presión se mide como un dife
       <Key>MusicPage</Key>
       <Title>Haciendo Musica</Title>
       <DisplayFilter>Guides</DisplayFilter>
-      <Text>El &lt;color=#0080FFFF&gt;{LINK:ODA;ODA}&lt;/color&gt; no aprueba bandas sonoras u otras distracciones.
-Como tal, &lt;color=#0080FFFF&gt;{LINK:Stationeers;Stationeers}&lt;/color&gt; han tenido que crear su propio acompañamiento musical para la exigente labor de construir y mantener la infraestructura fuera del mundo.
+      <Text>El {LINK:ODA;ODA} no aprueba bandas sonoras u otras distracciones.
+Como tal, {LINK:Stationeers;Stationeers} han tenido que crear su propio acompañamiento musical para la exigente labor de construir y mantener la infraestructura fuera del mundo.
 Un elemento central de este pasatiempo es el secuenciador por pasos, que permite a los Stationeers secuenciar patrones o bucles musicales cortos. 
 
 {HEADER:DIY MUSIC - GETTING STARTED} 
