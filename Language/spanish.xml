@@ -4980,7 +4980,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemInsulatedTankConnector</Key>
-      <Value/>
+      <Value>Conector de tanque (aislado)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedTankConnector</Key>
@@ -4988,7 +4988,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemInsulatedTankConnectorLiquid</Key>
-      <Value/>
+      <Value>Kit conector de tanque de liquidos (aislado)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedTankConnectorLiquid</Key>
@@ -5096,7 +5096,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPlanter</Key>
-      <Value/>
+      <Value>Kit Jardinera</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureAutomatedOven</Key>
@@ -5316,11 +5316,11 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemMkIIToolbelt</Key>
-      <Value>Un cinturón de herramientas grande de diez ranuras con dos ranuras genéricas adicionales para llevar lo que le apetezca.</Value>
+      <Value>Cinturon de Herramientas MK II</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemMiningBeltMKII</Key>
-      <Value>Un cinturón minero más grande y espacioso, el Mk II es similar al {THING:ItemMiningBelt}, pero tiene 13 ranuras en lugar de las 8 básicas, para aumentar la duración de sus viajes de minería. También tiene espacio para dos herramientas. </Value>
+      <Value>Cinturón Minero Mk II</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidPipeOneWayValve</Key>
@@ -5388,7 +5388,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitStirlingEngine</Key>
-      <Value>Crea un {THING:StructureStirlingEngine}.</Value>
+      <Value>Motor Stirling (kit)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureStirlingEngine</Key>
@@ -5432,7 +5432,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPowerTransmitter</Key>
-      <Value/>
+      <Value>Tramsmisor de Energia (kit)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureInteriorDoorTriangle</Key>
@@ -5464,7 +5464,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPowerTransmitterOmni</Key>
-      <Value/>
+      <Value>Tramsmisor de energia Omnidireccional (kit)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePowerTransmitterOmni</Key>
@@ -5472,11 +5472,11 @@
     </RecordThing>
     <RecordThing>
       <Key>Battery_Wireless_cell</Key>
-      <Value/>
+      <Value>Bateria Inalambrica</Value>
     </RecordThing>
     <RecordThing>
       <Key>Battery_Wireless_cell_Big</Key>
-      <Value/>
+      <Value>Bateria Inalambrica (Grande)</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicLightNetworkTest</Key>
@@ -5484,7 +5484,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLargeExtendableRadiator</Key>
-      <Value/>
+      <Value>Radiador Extensible Grande (kit)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLargeExtendableRadiator</Key>
@@ -5492,7 +5492,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageLargeExtendableRadiator01</Key>
-      <Value/>
+      <Value>Radiador Extensible Grande Destruido</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWaterBottleFillerPoweredBottom</Key>
