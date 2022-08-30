@@ -8159,7 +8159,7 @@ Tenga mucho cuidado al caminar o saltar, ya que puede desplazarse muy lejos y ga
     </Record>
     <Record>
       <Key>LogicTypeRatioOxygenOutput2</Key>
-      <Value>La proporción de oxígeno en la atmósfera del dispositivo</Value>
+      <Value>La proporción de oxígeno en la salida 2 del dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioCarbonDioxideOutput2</Key>
@@ -8171,7 +8171,7 @@ Tenga mucho cuidado al caminar o saltar, ya que puede desplazarse muy lejos y ga
     </Record>
     <Record>
       <Key>LogicTypeRatioPollutantOutput2</Key>
-      <Value>La relación de contaminantes en la salida 2 del dispositivo</Value>
+      <Value>La proporcion de contaminantes en la salida 2 del dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioVolatilesOutput2</Key>
