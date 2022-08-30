@@ -8163,31 +8163,31 @@ Tenga mucho cuidado al caminar o saltar, ya que puede desplazarse muy lejos y ga
     </Record>
     <Record>
       <Key>LogicTypeRatioCarbonDioxideOutput2</Key>
-      <Value>La relación de co2 en la atmósfera del dispositivo</Value>
+      <Value>La relación de co2 {GAS:CarbonDioxide} en la salida 2 del dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioNitrogenOutput2</Key>
-      <Value>La relación de contaminantes en la atmósfera del dispositivo</Value>
+      <Value>La relación de nitrogeno en la salida 2 del dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioPollutantOutput2</Key>
-      <Value>La relación de contaminantes en la atmósfera del dispositivo</Value>
+      <Value>La relación de contaminantes en la salida 2 del dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioVolatilesOutput2</Key>
-      <Value>La proporción de volátiles en la atmósfera del dispositivo</Value>
+      <Value>La proporción de volátiles en la salida 2 del dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioWaterOutput2</Key>
-      <Value>La proporción de agua en la atmósfera del dispositivo</Value>
+      <Value>La proporción de agua en la salida 2 del dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioNitrousOxideOutput2</Key>
-      <Value>La proporción de óxido nitroso en la atmósfera del dispositivo</Value>
+      <Value>La proporción de óxido nitroso {GAS:NitrousOxide} en la salida 2 del dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeCombustionOutput2</Key>
-      <Value>La atmósfera de evaluación está en llamas. Devuelve 1 si la atmósfera está en llamas, 0 si no.</Value>
+      <Value>La atmósfera de comprobación está en llamas. Devuelve 1 si la atmósfera está en llamas, 0 si no.</Value>
     </Record>
     <Record>
       <Key>LogicTypeHorizontal</Key>
@@ -8255,7 +8255,7 @@ Tenga mucho cuidado al caminar o saltar, ya que puede desplazarse muy lejos y ga
     </Record>
     <Record>
       <Key>LogicTypeColor</Key>
-      <Value>Ya sea impulsado por preocupaciones de claridad, seguridad o estética simple, &lt;color=#0080FFFF&gt;{LINK:Stationeers;Stationeers}&lt;/color&gt;tienen acceso a un pequeño arco iris de colores para sus construcciones. Estos son los ajustes de color para dispositivos, representados como un entero.
+      <Value>Ya sea impulsado por preocupaciones de claridad, seguridad o estética simple, {LINK:Stationeers;Stationeers}tienen acceso a un pequeño arco iris de colores para sus construcciones. Estos son los ajustes de color para dispositivos, representados como un entero.
 
 0: Azul
 1: Gris
@@ -8270,7 +8270,7 @@ Tenga mucho cuidado al caminar o saltar, ya que puede desplazarse muy lejos y ga
 10: Rosa
 11: Púrpura
 
-Es una ley universal inquebrantable que cualquier cosa superior a 11 será púrpura. El &lt;color=#0080FFFF&gt;{LINK:ODA;ODA}&lt;/color&gt; es impotente para cambiar esto. Del mismo modo, cualquier cosa inferior a 0 será azul.</Value>
+Es una ley universal inquebrantable que cualquier cosa superior a 11 será púrpura. El {LINK:ODA;ODA} es impotente para cambiar esto. Del mismo modo, cualquier cosa inferior a 0 será azul.</Value>
     </Record>
     <Record>
       <Key>LogicTypeElevatorSpeed</Key>
