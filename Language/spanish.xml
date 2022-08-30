@@ -7689,11 +7689,11 @@ Simplemente no te pongas triste cuando explotes en pequeños pedazos o te vuelva
     </Record>
     <Record>
       <Key>ChangeSettingToForIn</Key>
-      <Value>Ciclo a &lt;color=yellow&gt;{0}&lt;/color&gt; para {3} &lt;color=yellow&gt;({2})&lt;/color&gt; en {1}</Value>
+      <Value>Ciclo a &lt;color=yellow&gt;{0} para {3} &lt;color=yellow&gt;({2}) en {1}</Value>
     </Record>
     <Record>
       <Key>ChangeReagentSettingTo</Key>
-      <Value>Ciclo a {2}.&lt;color=yellow&gt;{0}&lt;/color&gt;.&lt;color=yellow&gt;{1}&lt;/color&gt;</Value>
+      <Value>Ciclo a {2}.&lt;color=yellow&gt;{0}&lt;/color&gt;.&lt;color=yellow&gt;{1}</Value>
     </Record>
     <Record>
       <Key>ChangeSlotSettingToFor</Key>
@@ -7975,27 +7975,27 @@ Tenga mucho cuidado al caminar o saltar, ya que puede desplazarse muy lejos y ga
     </Record>
     <Record>
       <Key>LogicTypePressureInput</Key>
-      <Value>La lectura actual de la presión del dispositivo</Value>
+      <Value>La lectura actual de la presión de la entrada del dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeTemperatureInput</Key>
-      <Value>La lectura de la temperatura actual del dispositivo</Value>
+      <Value>La lectura de la temperatura actual de la entrada del dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypePressureInput2</Key>
-      <Value>La lectura actual de la presión del dispositivo</Value>
+      <Value>La lectura actual de la presión de la entrada 2 del dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeTemperatureInput2</Key>
-      <Value>La lectura de la temperatura actual del dispositivo</Value>
+      <Value>La lectura de temperatura actual de la entrada 2 del dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypePressureOutput</Key>
-      <Value>La lectura actual de la presión del dispositivo</Value>
+      <Value>La lectura de presión actual de la salida del dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeTemperatureOutput</Key>
-      <Value>La lectura de la temperatura actual del dispositivo</Value>
+      <Value>La lectura de temperatura actual de la salida del dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypePressureOutput2</Key>
