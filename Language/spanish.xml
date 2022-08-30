@@ -7999,11 +7999,11 @@ Tenga mucho cuidado al caminar o saltar, ya que puede desplazarse muy lejos y ga
     </Record>
     <Record>
       <Key>LogicTypePressureOutput2</Key>
-      <Value>La lectura actual de la presión del dispositivo</Value>
+      <Value>La lectura actual de la presiónde la salida 2 del dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeTemperatureOutput2</Key>
-      <Value>La lectura de la temperatura actual del dispositivo</Value>
+      <Value>La lectura de temperatura actual de la salida 2 del dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypePressureExternal</Key>
@@ -8035,7 +8035,7 @@ Tenga mucho cuidado al caminar o saltar, ya que puede desplazarse muy lejos y ga
     </Record>
     <Record>
       <Key>LogicTypeRatioCarbonDioxide</Key>
-      <Value>La relación de co2 en la atmósfera del dispositivo</Value>
+      <Value>La proporción de co2 {GAS:CarbonDioxide} en la atmósfera del dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioNitrogen</Key>
@@ -8055,7 +8055,7 @@ Tenga mucho cuidado al caminar o saltar, ya que puede desplazarse muy lejos y ga
     </Record>
     <Record>
       <Key>LogicTypeRatioNitrousOxide</Key>
-      <Value>La proporción de óxido nitroso en la atmósfera del dispositivo</Value>
+      <Value>La proporción de óxido nitroso {GAS:NitrousOxide} en la atmósfera del dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeCombustion</Key>
@@ -8063,63 +8063,63 @@ Tenga mucho cuidado al caminar o saltar, ya que puede desplazarse muy lejos y ga
     </Record>
     <Record>
       <Key>LogicTypeRatioOxygenInput</Key>
-      <Value>La proporción de oxígeno en la atmósfera del dispositivo</Value>
+      <Value>La proporción de oxígeno en la entrada del dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioCarbonDioxideInput</Key>
-      <Value>La relación de co2 en la atmósfera del dispositivo</Value>
+      <Value>La proporción de co2 {GAS:CarbonDioxide} en la entrada del dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioNitrogenInput</Key>
-      <Value>La relación de contaminantes en la atmósfera del dispositivo</Value>
+      <Value>La proporción de nitrogeno en la entrada del dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioPollutantInput</Key>
-      <Value>La relación de contaminantes en la atmósfera del dispositivo</Value>
+      <Value>La proporción de contaminantes en la entrada del dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioVolatilesInput</Key>
-      <Value>La proporción de volátiles en la atmósfera del dispositivo</Value>
+      <Value>La proporción de volátiles en la entrada del dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioWaterInput</Key>
-      <Value>La proporción de agua en la atmósfera del dispositivo</Value>
+      <Value>La proporción de agua en la entrada del dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioNitrousOxideInput</Key>
-      <Value>La proporción de óxido nitroso en la atmósfera del dispositivo</Value>
+      <Value>La proporción de óxido nitroso {GAS:NitrousOxide} en la entrada del dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeCombustionInput</Key>
-      <Value>La atmósfera de evaluación está en llamas. Devuelve 1 si la atmósfera está en llamas, 0 si no.</Value>
+      <Value>La atmósfera de comprobación está en llamas. Devuelve 1 si la atmósfera está en llamas, 0 si no.</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioOxygenInput2</Key>
-      <Value>La proporción de oxígeno en la atmósfera del dispositivo</Value>
+      <Value>La proporción de oxígeno en la entrada 2 del dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioCarbonDioxideInput2</Key>
-      <Value>La relación de co2 en la atmósfera del dispositivo</Value>
+      <Value>La proporción de co2 {GAS:CarbonDioxide} en la entrada 2 del dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioNitrogenInput2</Key>
-      <Value>La relación de contaminantes en la atmósfera del dispositivo</Value>
+      <Value>La proporción de contaminantes en la entrada 2 del dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioPollutantInput2</Key>
-      <Value>La relación de contaminantes en la atmósfera del dispositivo</Value>
+      <Value>La proporción de contaminantes en la entrada 2 del dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioVolatilesInput2</Key>
-      <Value>La proporción de volátiles en la atmósfera del dispositivo</Value>
+      <Value>La proporción de volátiles en la entrada 2 del dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioWaterInput2</Key>
-      <Value>La proporción de agua en la atmósfera del dispositivo</Value>
+      <Value>La proporción de agua en la entrada 2 del dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioNitrousOxideInput2</Key>
-      <Value>La proporción de óxido nitroso {GAS:NitrousOxide} en la salida 2 del dispositivo</Value>
+      <Value>La proporción de óxido nitroso {GAS:NitrousOxide} en la entrada 2 del dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeCombustionInput2</Key>
