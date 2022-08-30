@@ -5487,22 +5487,24 @@
       <Value/>
     </RecordThing>
     <RecordThing>
+      <Key>StructureLargeExtendableRadiator</Key>
+      <Value>Estructura Gran Radiador Extensible</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemWreckageLargeExtendableRadiator01</Key>
       <Value/>
     </RecordThing>
     <RecordThing>
       <Key>StructureWaterBottleFillerPoweredBottom</Key>
-      <Value/>
+      <Value>Rellenador de botellas de agua</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWaterBottleFillerPowered</Key>
-      <Value/>
+      <Value>Rellenador de botellas de agua</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemNitrice</Key>
-      <Value>El hielo de oxite está compuesto en gran parte de oxígeno congelado y se encuentra en muchos planetas del Sistema Solar. Muy valioso y buscado, no todos los planetas son &lt;color=#0080FFFF&gt;{LINK:Stationeers;Stationeer}&lt;/color&gt; tendrán oxite. 
-
-Altamente sensible a la temperatura, el oxite comenzará a derretirse tan pronto como se extrae, a menos que la temperatura sea inferior a cero, o se almacene en el {THING:ItemMiningBelt}, {THING:ItemMiningBeltAdvanced} o dispositivos como {THING:StructureIceCrusher} o {THING:StructureFridgeSmall}. Al fundirse, el oxite produce una mezcla de oxígeno y nitrógeno.</Value>
+      <Value>Hielo (Nitrice)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPassiveLargeRadiator</Key>
@@ -5529,16 +5531,20 @@ Altamente sensible a la temperatura, el oxite comenzará a derretirse tan pronto
       <Value/>
     </RecordThing>
     <RecordThing>
+      <Key>StructureLogicGate</Key>
+      <Value>Matematico Lógico</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureNitrolyzer</Key>
       <Value/>
     </RecordThing>
     <RecordThing>
       <Key>ItemMiningBackPack</Key>
-      <Value/>
+      <Value>Mochila de Mineria</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemHardMiningBackPack</Key>
-      <Value/>
+      <Value>Mochila de Mineria Avanzada</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureH2Combustor</Key>
@@ -6515,8 +6521,12 @@ Altamente sensible a la temperatura, el oxite comenzará a derretirse tan pronto
       <Value>Actualizar lista de servidores</Value>
     </Record>
     <Record>
+      <Key>CannotConnectToMetaServer</Key>
+      <Value>No se puede conectar al metaservidor</Value>
+    </Record>
+    <Record>
       <Key>ServerListCannotBeRetrieved</Key>
-      <Value>El servidor puede ser iniciado.</Value>
+      <Value>La lista de servidores no se puede recuperar</Value>
     </Record>
     <Record>
       <Key>JoinMenuInputAddressTitle</Key>
@@ -6843,8 +6853,12 @@ Altamente sensible a la temperatura, el oxite comenzará a derretirse tan pronto
       <Value>No se puede acceder a la ubicación de los archivos guardados, ¿está usando un carácter no válido? Intente cambiar el directorio de guardar en Configuración.</Value>
     </Record>
     <Record>
+      <Key>PlayerIsConnecting</Key>
+      <Value>El jugador se está conectando</Value>
+    </Record>
+    <Record>
       <Key>GamePaused</Key>
-      <Value>Pausa</Value>
+      <Value>Juego Pausado</Value>
     </Record>
     <Record>
       <Key>AlertButtonClose</Key>
