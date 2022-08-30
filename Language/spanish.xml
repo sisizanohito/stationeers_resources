@@ -8119,23 +8119,23 @@ Tenga mucho cuidado al caminar o saltar, ya que puede desplazarse muy lejos y ga
     </Record>
     <Record>
       <Key>LogicTypeRatioNitrousOxideInput2</Key>
-      <Value>La proporción de óxido nitroso en la atmósfera del dispositivo</Value>
+      <Value>La proporción de óxido nitroso {GAS:NitrousOxide} en la salida 2 del dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeCombustionInput2</Key>
-      <Value>La atmósfera de evaluación está en llamas. Devuelve 1 si la atmósfera está en llamas, 0 si no.</Value>
+      <Value>La atmósfera de comprobación está en llamas. Devuelve 1 si la atmósfera está en llamas, 0 si no.</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioOxygenOutput</Key>
-      <Value>La proporción de oxígeno en la atmósfera del dispositivo</Value>
+      <Value>La proporción de oxígeno en la salida del dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioCarbonDioxideOutput</Key>
-      <Value>La relación de co2 en la atmósfera del dispositivo</Value>
+      <Value>La proporción de co2 {GAS:CarbonDioxide} en la salida del dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioNitrogenOutput</Key>
-      <Value>La relación de contaminantes en la atmósfera del dispositivo</Value>
+      <Value>La proporción de nitrogeno en la salida del dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioPollutantOutput</Key>
