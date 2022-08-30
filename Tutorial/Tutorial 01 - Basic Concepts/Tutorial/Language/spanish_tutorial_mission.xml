@@ -23,6 +23,15 @@
       <Value>Bienvenidos Cadete</Value>
     </Record>
     <Record>
+      <Key>BasicConceptsDescription</Key>
+      <Value>Bienvenido a la Base de Entrenamiento Lunar, Cadete. La ODA ha aprobado su solicitud, así que mejoremos sus posibilidades de sobrevivir al despliegue en el Sistema Solar.
+Ingrese a la base de entrenamiento a través de la esclusa de aire que se encuentra más adelante.
+
+Nota importante: debido a las limitaciones del sistema de tutoriales, es importante que realice las acciones en el orden exacto o es posible que no pueda avanzar.
+Si se atasca durante algún paso, es posible que deba reiniciar el tutorial.
+Si bien el juego aún está en pleno desarrollo, es inevitable que el tutorial se rompa de vez en cuando. Nos esforzaremos por mejorar el tutorial.</Value>
+    </Record>
+    <Record>
       <Key>WelcomeRecuitDisc</Key>
       <Value>Entre en la esclusa de la base de entrenamiento.</Value>
     </Record>
