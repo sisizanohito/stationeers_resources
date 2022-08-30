@@ -5506,11 +5506,15 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLargeExtendableRadiator</Key>
-      <Value/>
+      <Value>Kit (grand radiateur extensible)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLargeExtendableRadiator</Key>
+      <Value>Construction d&apos;un grand radiateur extensible</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageLargeExtendableRadiator01</Key>
-      <Value/>
+      <Value>Débris d&apos;un grand radiateur extensible</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWaterBottleFillerPoweredBottom</Key>
@@ -5526,11 +5530,11 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPassiveLargeRadiator</Key>
-      <Value/>
+      <Value>Kit (grand radiateur passif)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePassiveLargeRadiator</Key>
-      <Value/>
+      <Value>Grand radiateur passif</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPassiveLargeRadiatorGas</Key>
