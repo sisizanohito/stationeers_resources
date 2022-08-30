@@ -5538,19 +5538,19 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPassiveLargeRadiatorGas</Key>
-      <Value/>
+      <Value>Kit (grand radiateur passif pour les gaz)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPassiveLargeRadiatorLiquid</Key>
-      <Value/>
+      <Value>Kit (grand radiateur passif pour les liquides)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePassiveLargeRadiatorLiquid</Key>
-      <Value/>
+      <Value>Grand radiateur passif pour les liquides</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePassiveLargeRadiatorGas</Key>
-      <Value/>
+      <Value>Grand radiateur passif pour les gaz</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureNitrolyzer</Key>
