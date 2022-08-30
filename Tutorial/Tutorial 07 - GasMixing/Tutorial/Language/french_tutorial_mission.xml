@@ -105,11 +105,11 @@ Les plantes fabriquent de l’oxygène à partir de CO2, et il y en a beaucoup d
     </Record>
     <Record>
       <Key>7GetPipeRadiator</Key>
-      <Value>Ramassez les Kit (Tuyau) dans la caisse</Value>
+      <Value>Ramassez le radiateur de tuyau présent dans la caisse</Value>
     </Record>
     <Record>
       <Key>7BuildPipeRadiator</Key>
-      <Value>Construire la porte composite #1 dans la zone en surbrillance</Value>
+      <Value>Ajouter le radiateur de tuyau sur la position surlignée</Value>
     </Record>
     <Record>
       <Key>7Narration8D</Key>
