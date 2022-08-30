@@ -373,7 +373,7 @@ La {THING:StructureModularRocketFueltank01} requiere una mezcla 2:1 de {GAS:Vola
       <Title>Clima</Title>
       <DisplayFilter>Guides</DisplayFilter>
       <Text>Los planetas del Sistema Solar no están tan tranquilos como parecen. Después de siete días en cualquier mundo con atmósfera, las fuerzas inescrutables de la naturaleza entran en acción y golpean a los incautos Stationeers con ventiscas, tormentas de polvo y eventos volcánicos.
-Como tal, la ODA recomienda que los Stationeers recién desplegados creen una base hermética dentro de los 7 días posteriores al aterrizaje.
+Como tal, la ODA {LINK:ODA;ODA} recomienda que los Stationeers recién desplegados creen una base hermética dentro de los 7 días posteriores al aterrizaje.
 Cualquier objeto dinámico que quede afuera en una tormenta (en Marte, Loulan, Vulcan o Europa) corre el riesgo de ser arrastrado muy, muy lejos, incluido su módulo de aterrizaje.
 Del mismo modo, tenga en cuenta que los paneles solares son frágiles y su vidrio puede romperse, o incluso ser destruido ocasionalmente por una tormenta lo suficientemente feroz. Durante las tormentas, su producción de energia también se reduce drásticamente.</Text>
     </StationpediaPage>
@@ -438,11 +438,11 @@ Presión de la masa fundida {0}</Text>
 
 Los Stationeers eventualmente tienen hambre, pero no todos los alimentos son iguales. Además, su tasa de hambre varía según la configuración y la dificultad. Comer solo consumirá esa parte de un artículo adecuada para restaurar su hambre al 100% .
 
-Los Stationeers reciben suministros de comida como &lt;color=#0080FFFF&gt;{LINK:Agrizero;Agrizero}&lt;/color&gt; {THING:ItemCerealBar} en su módulo de aterrizaje al llegar a un nuevo mundo. Cuando se agoten, debe encontrar nuevas fuentes de sustento, como cultivar las suyas propias, a partir de las semillas suministradas o ponerse en contacto con un {LINK:TradingPage;Trader}.
+Los Stationeers reciben suministros de comida como {LINK:Agrizero;Agrizero} {THING:ItemCerealBar} en su módulo de aterrizaje al llegar a un nuevo mundo. Cuando se agoten, debe encontrar nuevas fuentes de sustento, como cultivar las suyas propias, a partir de las semillas suministradas o ponerse en contacto con un {LINK:TradingPage;Trader}.
 
 {HEADER:NUTRITION}
 
-Comer ingredientes crudos satisfará menos el hambre que las comidas, es decir, reemplazará una proporción menor de su hambre. Los elementos básicos de los alimentos se crean utilizando sistemas &lt;color=#0080FFFF&gt;{LINK:OrganicPage;hydroponics}&lt;/color&gt;. Estos se pueden procesar en ingredientes de recetas usando el {THING:ApplianceReagentProcessor}, luego convertirse en comidas usando un {THING:ApplianceMicrowave} o {THING:StructureAutomatedOven}.
+Comer ingredientes crudos satisfará menos el hambre que las comidas, es decir, reemplazará una proporción menor de su hambre. Los elementos básicos de los alimentos se crean utilizando sistemas {LINK:OrganicPage;hydroponics}. Estos se pueden procesar en ingredientes de recetas usando el {THING:ApplianceReagentProcessor}, luego convertirse en comidas usando un {THING:ApplianceMicrowave} o {THING:StructureAutomatedOven}.
 
 Su tasa de hambre se puede configurar en el menú de configuración principal ajustando el control deslizante Tasa de hambre / hidratación en la configuración. Tenga en cuenta que el control deslizante del hambre también gobierna su {LINK:HydrationPage;Thirst}.</Text>
     </StationpediaPage>

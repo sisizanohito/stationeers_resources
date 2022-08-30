@@ -4960,15 +4960,15 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemSoundCartridgeBass</Key>
-      <Value/>
+      <Value>Cartucho de sonido Bass</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemSoundCartridgeDrums</Key>
-      <Value/>
+      <Value>Cartucho de sonido Tambores</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemSoundCartridgeLeads</Key>
-      <Value/>
+      <Value>Cartucho de Sonido Guias</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemSoundCartridgeSynth</Key>
@@ -4976,7 +4976,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitMusicMachines</Key>
-      <Value/>
+      <Value>Kit (Máquinas de música)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemInsulatedTankConnector</Key>
