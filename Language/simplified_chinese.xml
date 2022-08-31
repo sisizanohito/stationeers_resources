@@ -9418,11 +9418,11 @@
     </Record>
     <Record>
       <Key>CartridgeAtmosAnalyserConvectedTitle</Key>
-      <Value>对流值</Value>
+      <Value>对流传热指数</Value>
     </Record>
     <Record>
       <Key>CartridgeAtmosAnalyserRadiatedTitle</Key>
-      <Value>辐射值</Value>
+      <Value>辐射传热指数</Value>
     </Record>
     <Record>
       <Key>CartridgeAtmosAnalyserTitle</Key>
