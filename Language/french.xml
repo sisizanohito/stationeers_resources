@@ -5577,16 +5577,20 @@
       <Value>Radiateur plat pour tuyau - liquide</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureMediumConvectionRadiator</Key>
+      <Value>Radiateur à convection intermédiaire</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureMediumRadiator</Key>
-      <Value>Radiateur de Tuyau</Value>
+      <Value>Radiateur intermédiaire</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureMediumRadiatorLiquid</Key>
-      <Value>Grand radiateur passif pour les liquides</Value>
+      <Value>Radiateur intermédiaire - liquide</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureMediumConvectionRadiatorLiquid</Key>
-      <Value>Grand radiateur passif pour les liquides</Value>
+      <Value>Radiateur intermédiaire à convection - liquide</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPipeRadiator</Key>
@@ -5594,7 +5598,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPipeRadiatorLiquid</Key>
-      <Value>Kit (grand radiateur passif pour les liquides)</Value>
+      <Value>Kit (radiateur pour tuyau de liquide)</Value>
     </RecordThing>
   </Things>
   <Slots>
