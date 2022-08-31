@@ -4979,8 +4979,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidPipeRadiator</Key>
-      <Value>管道散热器是一个简单的热交换器，可放置在管道上以散射或获得热量，具体取决于周围大气的温度。如果大气较热，管道网络内将加入热量，反之亦然。在真空中，热量会被辐射。
-热增减的速度将取决于所用液体。添加多个散热器将加快热交换的速度。</Value>
+      <Value>液体管道对流散热器</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemPipeLiquidRadiator</Key>
