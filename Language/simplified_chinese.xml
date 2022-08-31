@@ -1775,7 +1775,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeRadiator</Key>
-      <Value>管道对流散热器</Value>
+      <Value>管道对流式散热器</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeStraight</Key>
