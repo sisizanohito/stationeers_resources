@@ -6,7 +6,7 @@ e3aae2cbe50846e3461cece75916bdc0f04e16463e5101095cd9f25ec1fe70b8  ./Scenario/Bor
 d33e5bef587f8e96cd4ee951054268ecdfbe9af53125f9c4b9fcb3d4df6fe135  ./Language/english_help.xml
 8c679faebb691c16ac378c36e22950d8a39eca1481ec185c512c433e73c6a606  ./Language/english_tips.xml
 a1d41912fb2da2100186e41633f3a8630301748b3044aa21a637ed56ab1458cf  ./Language/english_keys.xml
-3f85b527ea6e88476ae38f8cb9f29a1282a36fd7769298b6444d1ae0c141acbd  ./Language/english.xml
+0f71aa51ea44e959ad6d2d2abe96f3eda4b70cc329ccc86ba0483d7255000946  ./Language/english.xml
 a715a2c3cf1487c2b212a27e1fe9a03af9c559d5e4e6d6ddb3aec139c4580bc7  ./Incidents/Storm/Incident/Language/english.xml
 f7d1474bd77ef0dae47335e2a897a4d09b06800228d84cc4e7a74987e61b3bfe  ./Incidents/Supply Crate (Grenade Trap)/Incident/Language/english.xml
 f203fec10b7db77385711340b8ccc846e4eeaf994410a00062650e637ec98081  ./Incidents/Power Surge/Incident/Language/english.xml

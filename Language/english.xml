@@ -2195,7 +2195,7 @@ within any pipe"</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeRadiator</Key>
-      <Value>Pipe Radiator</Value>
+      <Value>Pipe Convection Radiator</Value>
       <Description>A simple heat exchanger, pipe radiators can be placed on pipes to shed or gain heat, depending on the temperature of the surrounding atmosphere. If the atmosphere is hotter, heat will be added the gas within the pipe network, and visa versa if colder. In a vacuum, heat will be radiated. 
 The speed of heat gain or loss will depend on the gas in question. Adding multiple radiators will speed up heat transfer.</Description>
     </RecordThing>
@@ -5796,7 +5796,7 @@ If the KoolAuger is full, it will not accept any further ice until the gas or li
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidPipeRadiator</Key>
-      <Value>Liquid Pipe Radiator</Value>
+      <Value>Liquid Pipe Convection Radiator</Value>
       <Description>A simple heat exchanger, pipe radiators can be placed on pipes to shed or gain heat, depending on the temperature of the surrounding atmosphere. If the atmosphere is hotter, heat will be added to the liquid within the pipe network, and visa versa if colder. In a vacuum, heat will be radiated. 
 The speed of heat gain or loss will depend on the liquid in question. Adding multiple radiators will speed up heat transfer.</Description>
     </RecordThing>
@@ -6980,32 +6980,32 @@ Highly sensitive to temperature, nitrice will begin to melt as soon as it is min
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPassiveLargeRadiator</Key>
-      <Value>Kit (Passive Large Radiator)</Value>
+      <Value>Kit (Medium Radiator)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>StructurePassiveLargeRadiator</Key>
-      <Value>Passive Large Radiator</Value>
+      <Value>Medium Convection Radiator</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPassiveLargeRadiatorGas</Key>
-      <Value>Kit (Passive Large Radiator Gas)</Value>
+      <Value>Kit (Medium Radiator)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPassiveLargeRadiatorLiquid</Key>
-      <Value>Kit (Passive Large Radiator Liquid)</Value>
+      <Value>Kit (Medium Radiator Liquid)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>StructurePassiveLargeRadiatorLiquid</Key>
-      <Value>Passive Large Radiator Liquid</Value>
+      <Value>Medium Convection Radiator Liquid</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>StructurePassiveLargeRadiatorGas</Key>
-      <Value>Passive Large Radiator Gas</Value>
+      <Value>Medium Convection Radiator</Value>
       <Description />
     </RecordThing>
     <RecordThing>
@@ -7032,6 +7032,46 @@ Highly sensitive to temperature, nitrice will begin to melt as soon as it is min
       <Key>StructureH2Combustor</Key>
       <Value>Structure H2 Combustor</Value>
       <Description>Adapted slightly from its original {LINK:Recurso;Recurso} design, the {GAS:Volatiles} Combustor does exactly what its name suggests - it burns a mixture of volatiles and {GAS:Oxygen} to create water. Extremely useful in hot or arid environments, users need to be aware that the combustor outputs considerable waste heat. The device is also less than perfectly efficient, resulting in the autoignition of volatiles in the chamber, and the production of waste gases which must be dealt with.</Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePipeRadiatorFlat</Key>
+      <Value>Pipe Radiator</Value>
+      <Description />
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePipeRadiatorFlatLiquid</Key>
+      <Value>Pipe Radiator Liquid</Value>
+      <Description />
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureMediumConvectionRadiator</Key>
+      <Value>Medium Convection Radiator</Value>
+      <Description />
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureMediumRadiator</Key>
+      <Value>Medium Radiator</Value>
+      <Description />
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureMediumRadiatorLiquid</Key>
+      <Value>Medium Radiator Liquid</Value>
+      <Description />
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureMediumConvectionRadiatorLiquid</Key>
+      <Value>Medium Convection Radiator Liquid</Value>
+      <Description />
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitPipeRadiator</Key>
+      <Value>Kit (Pipe Radiator)</Value>
+      <Description />
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitPipeRadiatorLiquid</Key>
+      <Value>Kit (Pipe Radiator Liquid)</Value>
+      <Description />
     </RecordThing>
   </Things>
   <Slots>
@@ -10663,6 +10703,14 @@ Highly sensitive to temperature, nitrice will begin to melt as soon as it is min
       <Value>TEMPERATURE</Value>
     </Record>
     <Record>
+      <Key>CartridgeAtmosAnalyserConvectedTitle</Key>
+      <Value>CONVECTED</Value>
+    </Record>
+    <Record>
+      <Key>CartridgeAtmosAnalyserRadiatedTitle</Key>
+      <Value>RADIATED</Value>
+    </Record>
+    <Record>
       <Key>CartridgeAtmosAnalyserTitle</Key>
       <Value>ATMOSPHERE ANALYZER</Value>
     </Record>
@@ -12706,7 +12754,7 @@ Note: {GAS:Water} was previously treated as a gas, but a new system for liquids 
     </Record>
     <Record>
       <Key>CreateNewGame</Key>
-      <Value>Create New Game</Value>
+      <Value>Select World</Value>
     </Record>
     <Record>
       <Key>WorkshopModsTitle</Key>
@@ -12719,6 +12767,22 @@ Note: {GAS:Water} was previously treated as a gas, but a new system for liquids 
     <Record>
       <Key>GameMenuPauseGameButton</Key>
       <Value>Pause Game</Value>
+    </Record>
+    <Record>
+      <Key>WorldConfigurationDifficultyTitle</Key>
+      <Value>Difficulty</Value>
+    </Record>
+    <Record>
+      <Key>StartNewGameButton</Key>
+      <Value>Start Game</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaThermalConductivityConvection</Key>
+      <Value>Thermal Convection:</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaThermalConductivityRadiation</Key>
+      <Value>Thermal Radiation:</Value>
     </Record>
   </Interface>
   <Colors>
