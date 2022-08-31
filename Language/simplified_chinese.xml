@@ -1263,7 +1263,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemPipeRadiator</Key>
-      <Value>套件包（管道散热器）</Value>
+      <Value>套件包（对流式管道散热器）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemPipeStraight</Key>
@@ -1775,7 +1775,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeRadiator</Key>
-      <Value>管道对流式散热器</Value>
+      <Value>对流式管道散热器</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeStraight</Key>

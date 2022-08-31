@@ -4823,8 +4823,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidPipeRadiator</Key>
-      <Value>Simples échangeurs de chaleur, les radiateurs de tuyaux peuvent être placés sur des tuyaux pour dissiper ou emmagasiner de la chaleur, en fonction de la température de l’atmosphère environnante. Si l’atmosphère est plus chaude, la chaleur sera ajoutée au liquide dans le réseau de tube, et visa versa si l&apos;atmosphère est plus froide. Dans le vide, la chaleur sera rayonnée. 
-La vitesse du gain ou de la perte de chaleur dépendra du liquide en question. L’ajout de plusieurs radiateurs accélèrera le transfert de chaleur.</Value>
+      <Value>Radiateur de tuyau pour liquide</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemPipeLiquidRadiator</Key>
