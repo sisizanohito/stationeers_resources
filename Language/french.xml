@@ -4823,7 +4823,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidPipeRadiator</Key>
-      <Value>Radiateur de tuyau pour liquide</Value>
+      <Value>Radiateur à convection pour tuyau de liquide</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemPipeLiquidRadiator</Key>
@@ -5530,15 +5530,15 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPassiveLargeRadiator</Key>
-      <Value>Kit (grand radiateur passif)</Value>
+      <Value>Kit (radiateur passif intermédiaire)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePassiveLargeRadiator</Key>
-      <Value>Grand radiateur passif</Value>
+      <Value>Radiateur à convection intermédiaire</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPassiveLargeRadiatorGas</Key>
-      <Value>Kit (grand radiateur passif)</Value>
+      <Value>Kit (radiateur passif intermédiaire)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPassiveLargeRadiatorLiquid</Key>
