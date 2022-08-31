@@ -1025,7 +1025,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemPipeMeter</Key>
-      <Value>Medidor de Tubería</Value>
+      <Value>Medidor de Tubería (kit)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemPipeRadiator</Key>
@@ -3325,7 +3325,7 @@
     </RecordThing>
     <RecordThing>
       <Key>PipeBenderMod</Key>
-      <Value>Medidor de Tubería Mod</Value>
+      <Value>Dobladora Hidraulica Mod</Value>
     </RecordThing>
     <RecordThing>
       <Key>ToolPrinterMod</Key>
@@ -4873,7 +4873,7 @@ La velocidad de ganancia o pérdida de calor dependerá del gas en cuestión. Ag
     </RecordThing>
     <RecordThing>
       <Key>ItemWaterPipeMeter</Key>
-      <Value>Kit (Medidor de tubería de líquidos)</Value>
+      <Value>Medidor de tubería de líquidos (kit)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWaterPipeMeter</Key>
