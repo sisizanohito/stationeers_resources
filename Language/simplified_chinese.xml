@@ -5814,15 +5814,19 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPassiveLargeRadiatorGas</Key>
-      <Value/>
+      <Value>套件包（中型对流散热器）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPassiveLargeRadiatorLiquid</Key>
-      <Value/>
+      <Value>套件包（中型液体对流散热器）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePassiveLargeRadiatorLiquid</Key>
-      <Value/>
+      <Value>中型液体对流散热器</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePassiveLargeRadiatorGas</Key>
+      <Value>中型对流散热器</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLogicGate</Key>
@@ -5850,19 +5854,23 @@
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeRadiatorFlatLiquid</Key>
-      <Value>管道散热器</Value>
+      <Value>液体管道散热器</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureMediumConvectionRadiator</Key>
+      <Value>中型对流散热器</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureMediumRadiator</Key>
-      <Value>管道散热器</Value>
+      <Value>中型散热器</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureMediumRadiatorLiquid</Key>
-      <Value>大型被动液体散热器</Value>
+      <Value>中型液体散热器</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureMediumConvectionRadiatorLiquid</Key>
-      <Value>大型被动液体散热器</Value>
+      <Value>中型液体对流散热器</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPipeRadiator</Key>
