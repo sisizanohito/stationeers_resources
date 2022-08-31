@@ -5782,15 +5782,15 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLargeExtendableRadiator</Key>
-      <Value>套件包（大型可展开散热器）</Value>
+      <Value>套件包（大型可伸缩液体散热器）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLargeExtendableRadiator</Key>
-      <Value>大型可展开散热器</Value>
+      <Value>大型可伸缩液体散热器</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageLargeExtendableRadiator01</Key>
-      <Value>残骸：大型可展开散热器01</Value>
+      <Value>残骸：大型可伸缩液体散热器01</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWaterBottleFillerPoweredBottom</Key>
