@@ -1775,7 +1775,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeRadiator</Key>
-      <Value>管道散热器</Value>
+      <Value>管道对流散热器</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeStraight</Key>
@@ -5806,7 +5806,11 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPassiveLargeRadiator</Key>
-      <Value/>
+      <Value>套件包（中型对流散热器）</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePassiveLargeRadiator</Key>
+      <Value>中型对流散热器</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPassiveLargeRadiatorGas</Key>
