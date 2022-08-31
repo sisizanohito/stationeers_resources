@@ -4983,7 +4983,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemPipeLiquidRadiator</Key>
-      <Value>套件 (液体管道散热器)</Value>
+      <Value>套件包（对流式液体管道散热器）</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicMKIILiquidCanisterEmpty</Key>
@@ -5774,31 +5774,31 @@
     </RecordThing>
     <RecordThing>
       <Key>Battery_Wireless_cell_Big</Key>
-      <Value>无线电池（大）</Value>
+      <Value>无线充电电池（大）</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicLightNetworkTest</Key>
-      <Value>动态光网络测试</Value>
+      <Value>移动式电灯（网络测试）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLargeExtendableRadiator</Key>
-      <Value>套件（大型可伸缩散热器）</Value>
+      <Value>套件包（大型可展开散热器）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLargeExtendableRadiator</Key>
-      <Value>结构大型可伸缩散热器</Value>
+      <Value>大型可展开散热器</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageLargeExtendableRadiator01</Key>
-      <Value>大型可伸缩散热器残骸</Value>
+      <Value>残骸：大型可展开散热器01</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWaterBottleFillerPoweredBottom</Key>
-      <Value>水瓶灌装机</Value>
+      <Value>水瓶装填器</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWaterBottleFillerPowered</Key>
-      <Value>水瓶灌装机</Value>
+      <Value>水瓶装填器</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemNitrice</Key>
