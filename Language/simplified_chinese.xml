@@ -5878,7 +5878,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPipeRadiatorLiquid</Key>
-      <Value>套件（被动液体大型散热器）</Value>
+      <Value>套件包（液体管道散热器）</Value>
     </RecordThing>
   </Things>
   <Slots>
