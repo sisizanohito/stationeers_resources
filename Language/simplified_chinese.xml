@@ -5578,15 +5578,15 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemPipeHeater</Key>
-      <Value>管道加热器套件（气体）</Value>
+      <Value>套件包（管道加热器（气体））</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWaterPipeHeater</Key>
-      <Value>套件包（液体管道加热器）</Value>
+      <Value>套件包（管道加热器（液体））</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemLiquidPipeHeater</Key>
-      <Value>套件包（液体管道加热器）</Value>
+      <Value>套件包（管道加热器（液体））</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidPipeHeater</Key>
