@@ -5561,19 +5561,19 @@ La velocidad de ganancia o pérdida de calor dependerá del gas en cuestión. Ag
     </RecordThing>
     <RecordThing>
       <Key>StructureMediumRadiatorLiquid</Key>
-      <Value>Radiador Pasivo Grande de liquidos</Value>
+      <Value>Radiador Mediano de liquidos</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureMediumConvectionRadiatorLiquid</Key>
-      <Value>Radiador Pasivo Grande de liquidos</Value>
+      <Value>Radiador Conveccion Mediano de liquidos</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPipeRadiator</Key>
-      <Value>Radiador de Tubería</Value>
+      <Value>Radiador de Tubería (kit)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPipeRadiatorLiquid</Key>
-      <Value>Radiador Pasivo Grande de liquidos (kit)</Value>
+      <Value>Radiador Tubería de liquidos (kit)</Value>
     </RecordThing>
   </Things>
   <Slots>
