@@ -9406,6 +9406,14 @@
       <Value>温度</Value>
     </Record>
     <Record>
+      <Key>CartridgeAtmosAnalyserConvectedTitle</Key>
+      <Value>对流</Value>
+    </Record>
+    <Record>
+      <Key>CartridgeAtmosAnalyserRadiatedTitle</Key>
+      <Value>辐射</Value>
+    </Record>
+    <Record>
       <Key>CartridgeAtmosAnalyserTitle</Key>
       <Value>大气分析仪</Value>
     </Record>
@@ -11342,7 +11350,7 @@ Stationeers计划从土木工程从业人员、军事和航空航天工业、软
     </Record>
     <Record>
       <Key>CreateNewGame</Key>
-      <Value>创建新游戏</Value>
+      <Value>选择世界</Value>
     </Record>
     <Record>
       <Key>WorkshopModsTitle</Key>
