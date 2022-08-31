@@ -3940,6 +3940,26 @@
       <Key>ItemKitStirlingEngine</Key>
       <Value>Rakettimoottori</Value>
     </RecordThing>
+    <RecordThing>
+      <Key>StructurePipeRadiatorFlat</Key>
+      <Value>Putkijäähdytin</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePipeRadiatorFlatLiquid</Key>
+      <Value>Putkijäähdytin</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureMediumRadiator</Key>
+      <Value>Putkijäähdytin</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitPipeRadiator</Key>
+      <Value>Varustepakkaus (putkijäähdytin)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitPipeRadiatorLiquid</Key>
+      <Value>Varustepakkaus (putkijäähdytin)</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>
@@ -6509,6 +6529,14 @@ Spawnaa mikä tahansa esine, testaa ideoita ja rakenna ihme juttuja todella nope
     <Record>
       <Key>GameMenuButtonSaveAs</Key>
       <Value>Nimeä tallennus...</Value>
+    </Record>
+    <Record>
+      <Key>WorldConfigurationDifficultyTitle</Key>
+      <Value>Muut asetukset</Value>
+    </Record>
+    <Record>
+      <Key>StartNewGameButton</Key>
+      <Value>Palaa Peliin</Value>
     </Record>
   </Interface>
   <Colors>

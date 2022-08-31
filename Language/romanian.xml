@@ -680,6 +680,14 @@
     <RecordThing>
       <Key>StructureRocketModuleMiningJunk</Key>
     </RecordThing>
+    <RecordThing>
+      <Key>ItemKitPipeRadiator</Key>
+      <Value>Kit (motor mare)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitPipeRadiatorLiquid</Key>
+      <Value>Kit (rezervor portabil)</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>
@@ -1677,6 +1685,10 @@
     <Record>
       <Key>MainMenuChangeAppearance</Key>
       <Value>Modificare aspect</Value>
+    </Record>
+    <Record>
+      <Key>StartNewGameButton</Key>
+      <Value>Ieșire joc</Value>
     </Record>
   </Interface>
   <Colors>

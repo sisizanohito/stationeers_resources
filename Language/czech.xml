@@ -4925,7 +4925,8 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidPipeRadiator</Key>
-      <Value>Kapalinový potrubní radiátor</Value>
+      <Value>Trubkové radiátory, které jsou jednoduchým výměníkem tepla, lze umístit na potrubí, aby v závislosti na teplotě okolní atmosféry odváděly nebo získávaly teplo. Pokud je atmosféra teplejší, teplo se přidává kapalině v potrubní síti, a naopak, pokud je chladnější. Ve vakuu bude teplo vyzařováno. 
+Rychlost získávání nebo ztráty tepla závisí na dané kapalině. Přidáním více zářičů se přenos tepla urychlí.</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemPipeLiquidRadiator</Key>
@@ -5751,10 +5752,6 @@
       <Value/>
     </RecordThing>
     <RecordThing>
-      <Key>StructurePassiveLargeRadiator</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemKitPassiveLargeRadiatorGas</Key>
       <Value/>
     </RecordThing>
@@ -5764,10 +5761,6 @@
     </RecordThing>
     <RecordThing>
       <Key>StructurePassiveLargeRadiatorLiquid</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructurePassiveLargeRadiatorGas</Key>
       <Value/>
     </RecordThing>
     <RecordThing>
@@ -5789,6 +5782,34 @@
     <RecordThing>
       <Key>StructureH2Combustor</Key>
       <Value>H2 spalovač</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePipeRadiatorFlat</Key>
+      <Value>Potrubní radiátor</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePipeRadiatorFlatLiquid</Key>
+      <Value>Potrubní radiátor</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureMediumRadiator</Key>
+      <Value>Potrubní radiátor</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureMediumRadiatorLiquid</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureMediumConvectionRadiatorLiquid</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitPipeRadiator</Key>
+      <Value>Radiátor (sada)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitPipeRadiatorLiquid</Key>
+      <Value/>
     </RecordThing>
   </Things>
   <Slots>
@@ -11187,6 +11208,14 @@ Poznámka: S vodou se dříve zacházelo jako s plynem, ale nyní se vyvíjí no
     <Record>
       <Key>GameMenuPauseGameButton</Key>
       <Value>Pozastavená hra</Value>
+    </Record>
+    <Record>
+      <Key>WorldConfigurationDifficultyTitle</Key>
+      <Value>Obtížnost</Value>
+    </Record>
+    <Record>
+      <Key>StartNewGameButton</Key>
+      <Value>Návrat do hry</Value>
     </Record>
   </Interface>
   <Colors>

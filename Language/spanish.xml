@@ -4685,7 +4685,8 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidPipeRadiator</Key>
-      <Value>Radiador de tuberia liquida</Value>
+      <Value>Un simple intercambiador de calor, los radiadores de tubería se pueden colocar en las tuberías para eliminar o ganar calor, dependiendo de la temperatura de la atmósfera circundante. Si la atmósfera es más caliente, se agregará calor al gas dentro de la red de tuberías, y viceversa si es más fría. En el vacío, se irradiará calor.
+La velocidad de ganancia o pérdida de calor dependerá del gas en cuestión. Agregar varios radiadores acelerará la transferencia de calor.</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemPipeLiquidRadiator</Key>
@@ -5508,27 +5509,19 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPassiveLargeRadiator</Key>
-      <Value>Radiador Grande Pasivo (kit)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructurePassiveLargeRadiator</Key>
-      <Value>Radiador Grande Pasivo</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPassiveLargeRadiatorGas</Key>
-      <Value>Radiador Pasivo de gas Grande</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPassiveLargeRadiatorLiquid</Key>
-      <Value>Radiador Pasivo Grande de liquidos (kit)</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>StructurePassiveLargeRadiatorLiquid</Key>
-      <Value>Radiador Pasivo Grande de liquidos</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructurePassiveLargeRadiatorGas</Key>
-      <Value>Radiador Pasivo Grande de Gas</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>StructureLogicGate</Key>
@@ -5549,6 +5542,34 @@
     <RecordThing>
       <Key>StructureH2Combustor</Key>
       <Value>Estructura Compresor H2</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePipeRadiatorFlat</Key>
+      <Value>Tubería Radiador</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePipeRadiatorFlatLiquid</Key>
+      <Value>Tubería Radiador</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureMediumRadiator</Key>
+      <Value>Tubería Radiador</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureMediumRadiatorLiquid</Key>
+      <Value>Radiador Pasivo Grande de liquidos</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureMediumConvectionRadiatorLiquid</Key>
+      <Value>Radiador Pasivo Grande de liquidos</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitPipeRadiator</Key>
+      <Value>Radiador de Tubería</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitPipeRadiatorLiquid</Key>
+      <Value>Radiador Pasivo Grande de liquidos (kit)</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -10741,6 +10762,14 @@ Nota: El agua se trataba anteriormente como un gas, pero se está desarrollando 
     <Record>
       <Key>GameMenuPauseGameButton</Key>
       <Value>Juego Pausado</Value>
+    </Record>
+    <Record>
+      <Key>WorldConfigurationDifficultyTitle</Key>
+      <Value>Dificultad</Value>
+    </Record>
+    <Record>
+      <Key>StartNewGameButton</Key>
+      <Value>Volver al Juego</Value>
     </Record>
   </Interface>
   <Colors>

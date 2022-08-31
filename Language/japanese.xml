@@ -4410,10 +4410,6 @@
       <Value>キット (砕氷機)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureLiquidPipeRadiator</Key>
-      <Value>液体パイプ放熱器</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemPipeLiquidRadiator</Key>
       <Value>キット (液体放熱器)</Value>
     </RecordThing>
@@ -4621,19 +4617,11 @@
       <Value/>
     </RecordThing>
     <RecordThing>
-      <Key>StructurePassiveLargeRadiator</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemKitPassiveLargeRadiatorGas</Key>
       <Value/>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPassiveLargeRadiatorLiquid</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructurePassiveLargeRadiatorGas</Key>
       <Value/>
     </RecordThing>
     <RecordThing>
@@ -4646,6 +4634,26 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemHardMiningBackPack</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePipeRadiatorFlat</Key>
+      <Value>パイプ放熱器</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePipeRadiatorFlatLiquid</Key>
+      <Value>パイプ放熱器</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureMediumRadiator</Key>
+      <Value>パイプ放熱器</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitPipeRadiator</Key>
+      <Value>キット (放熱器)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitPipeRadiatorLiquid</Key>
       <Value/>
     </RecordThing>
   </Things>
@@ -7525,6 +7533,14 @@
     <Record>
       <Key>GameMenuButtonSaveAs</Key>
       <Value>セーブ名を入力…</Value>
+    </Record>
+    <Record>
+      <Key>WorldConfigurationDifficultyTitle</Key>
+      <Value>ゲームの難易度</Value>
+    </Record>
+    <Record>
+      <Key>StartNewGameButton</Key>
+      <Value>ゲームに戻る</Value>
     </Record>
   </Interface>
   <Colors>

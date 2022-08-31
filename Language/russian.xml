@@ -4946,7 +4946,8 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidPipeRadiator</Key>
-      <Value>Радиатор для жидкостных труб</Value>
+      <Value>Простой теплообменник, трубные радиаторы могут быть размещены на трубах для отвода или получения тепла, в зависимости от температуры окружающей атмосферы. Если атмосфера горячее, тепло будет добавляться жидкости внутри трубопроводной сети и наоборот, если холоднее. В вакууме тепло будет излучаться. 
+Скорость получения или потери тепла будет зависеть от используемой жидкости. Добавление нескольких радиаторов ускорит передачу тепла.</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemPipeLiquidRadiator</Key>
@@ -5436,19 +5437,11 @@
       <Value/>
     </RecordThing>
     <RecordThing>
-      <Key>StructurePassiveLargeRadiator</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemKitPassiveLargeRadiatorGas</Key>
       <Value/>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPassiveLargeRadiatorLiquid</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructurePassiveLargeRadiatorGas</Key>
       <Value/>
     </RecordThing>
     <RecordThing>
@@ -5461,6 +5454,26 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemHardMiningBackPack</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePipeRadiatorFlat</Key>
+      <Value>Радиатор</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePipeRadiatorFlatLiquid</Key>
+      <Value>Радиатор</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureMediumRadiator</Key>
+      <Value>Радиатор</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitPipeRadiator</Key>
+      <Value>Радиатор</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitPipeRadiatorLiquid</Key>
       <Value/>
     </RecordThing>
   </Things>
@@ -10695,6 +10708,14 @@
     <Record>
       <Key>GameMenuPauseGameButton</Key>
       <Value>Игра приостановлена</Value>
+    </Record>
+    <Record>
+      <Key>WorldConfigurationDifficultyTitle</Key>
+      <Value>Сложность</Value>
+    </Record>
+    <Record>
+      <Key>StartNewGameButton</Key>
+      <Value>Вернуться в игру</Value>
     </Record>
   </Interface>
   <Colors>

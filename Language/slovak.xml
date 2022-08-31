@@ -1168,6 +1168,10 @@
       <Value>Pipe Analyser</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructurePipeRadiator</Key>
+      <Value>Pipe Radiator</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureTankConnectorLiquid</Key>
       <Value>Tank Connector</Value>
     </RecordThing>
@@ -2281,6 +2285,22 @@
     <RecordThing>
       <Key>ItemKitStirlingEngine</Key>
       <Value>Rocket Engine</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePipeRadiatorFlatLiquid</Key>
+      <Value>Pipe Radiator</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureMediumRadiator</Key>
+      <Value>Pipe Radiator</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitPipeRadiator</Key>
+      <Value>Pipe Radiator</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitPipeRadiatorLiquid</Key>
+      <Value>Pipe Radiator</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -3670,6 +3690,14 @@ Just don&apos;t be sad when you blow yourself into tiny, tiny little pieces or g
     <Record>
       <Key>GameMenuButtonSaveAs</Key>
       <Value>Enter Save Name...</Value>
+    </Record>
+    <Record>
+      <Key>WorldConfigurationDifficultyTitle</Key>
+      <Value>Ostatné Nastavenia</Value>
+    </Record>
+    <Record>
+      <Key>StartNewGameButton</Key>
+      <Value>Return to Game</Value>
     </Record>
   </Interface>
   <Colors>

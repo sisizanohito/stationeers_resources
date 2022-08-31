@@ -3959,10 +3959,6 @@
       <Value>Zestaw (Kruszarka Do Lodu)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureLiquidPipeRadiator</Key>
-      <Value>Radiator do Rur Na Ciecze</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemPipeLiquidRadiator</Key>
       <Value>Zestaw (Radiator Do Cieczy)</Value>
     </RecordThing>
@@ -4082,19 +4078,11 @@
       <Value/>
     </RecordThing>
     <RecordThing>
-      <Key>StructurePassiveLargeRadiator</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemKitPassiveLargeRadiatorGas</Key>
       <Value/>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPassiveLargeRadiatorLiquid</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructurePassiveLargeRadiatorGas</Key>
       <Value/>
     </RecordThing>
     <RecordThing>
@@ -4107,6 +4095,26 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemHardMiningBackPack</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePipeRadiatorFlat</Key>
+      <Value>Radiator</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePipeRadiatorFlatLiquid</Key>
+      <Value>Radiator</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureMediumRadiator</Key>
+      <Value>Radiator</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitPipeRadiator</Key>
+      <Value>Radiator</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitPipeRadiatorLiquid</Key>
       <Value/>
     </RecordThing>
   </Things>
@@ -8140,6 +8148,14 @@ Uwaga: Woda była poprzednio traktowana jako gaz, ale został wprowadzony nowy s
     <Record>
       <Key>GameMenuButtonSaveAs</Key>
       <Value>Wprowadź Nazwę Zapisu...</Value>
+    </Record>
+    <Record>
+      <Key>WorldConfigurationDifficultyTitle</Key>
+      <Value>Inne Ustawienia</Value>
+    </Record>
+    <Record>
+      <Key>StartNewGameButton</Key>
+      <Value>Powrót do gry</Value>
     </Record>
   </Interface>
   <Colors>

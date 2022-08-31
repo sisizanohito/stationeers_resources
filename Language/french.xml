@@ -4823,7 +4823,8 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidPipeRadiator</Key>
-      <Value>Radiateur de tuyau pour liquide</Value>
+      <Value>Simples échangeurs de chaleur, les radiateurs de tuyaux peuvent être placés sur des tuyaux pour dissiper ou emmagasiner de la chaleur, en fonction de la température de l’atmosphère environnante. Si l’atmosphère est plus chaude, la chaleur sera ajoutée au liquide dans le réseau de tube, et visa versa si l&apos;atmosphère est plus froide. Dans le vide, la chaleur sera rayonnée. 
+La vitesse du gain ou de la perte de chaleur dépendra du liquide en question. L’ajout de plusieurs radiateurs accélèrera le transfert de chaleur.</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemPipeLiquidRadiator</Key>
@@ -5533,10 +5534,6 @@
       <Value>Kit (grand radiateur passif)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructurePassiveLargeRadiator</Key>
-      <Value>Grand radiateur passif</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemKitPassiveLargeRadiatorGas</Key>
       <Value>Kit (grand radiateur passif pour les gaz)</Value>
     </RecordThing>
@@ -5547,10 +5544,6 @@
     <RecordThing>
       <Key>StructurePassiveLargeRadiatorLiquid</Key>
       <Value>Grand radiateur passif pour les liquides</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructurePassiveLargeRadiatorGas</Key>
-      <Value>Grand radiateur passif pour les gaz</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureNitrolyzer</Key>
@@ -5567,6 +5560,34 @@
     <RecordThing>
       <Key>StructureH2Combustor</Key>
       <Value>Bruleur à hydrogène</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePipeRadiatorFlat</Key>
+      <Value>Radiateur de Tuyau</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePipeRadiatorFlatLiquid</Key>
+      <Value>Radiateur de Tuyau</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureMediumRadiator</Key>
+      <Value>Radiateur de Tuyau</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureMediumRadiatorLiquid</Key>
+      <Value>Grand radiateur passif pour les liquides</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureMediumConvectionRadiatorLiquid</Key>
+      <Value>Grand radiateur passif pour les liquides</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitPipeRadiator</Key>
+      <Value>Kit (Radiateur de Tuyau)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitPipeRadiatorLiquid</Key>
+      <Value>Kit (grand radiateur passif pour les liquides)</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -10754,6 +10775,14 @@ Remarque : l’eau était auparavant traitée comme un gaz, mais un nouveau syst
     <Record>
       <Key>GameMenuPauseGameButton</Key>
       <Value>Mettre le jeu en pause</Value>
+    </Record>
+    <Record>
+      <Key>WorldConfigurationDifficultyTitle</Key>
+      <Value>Difficulté</Value>
+    </Record>
+    <Record>
+      <Key>StartNewGameButton</Key>
+      <Value>Revenir en jeu</Value>
     </Record>
   </Interface>
   <Colors>

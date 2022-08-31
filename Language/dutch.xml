@@ -672,6 +672,18 @@
     <RecordThing>
       <Key>StructureRocketModuleMiningJunk</Key>
     </RecordThing>
+    <RecordThing>
+      <Key>StructureMediumRadiator</Key>
+      <Value>Gemiddelde Filter (Water)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitPipeRadiator</Key>
+      <Value>Gereedschap (Verplaatsbare Tank)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitPipeRadiatorLiquid</Key>
+      <Value>Gereedschap (Verplaatsbare Tank)</Value>
+    </RecordThing>
   </Things>
   <Slots/>
   <Interactables>

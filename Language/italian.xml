@@ -4044,6 +4044,26 @@
       <Key>ItemKitStirlingEngine</Key>
       <Value>Motore a razzo</Value>
     </RecordThing>
+    <RecordThing>
+      <Key>StructurePipeRadiatorFlat</Key>
+      <Value>Radiatore</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePipeRadiatorFlatLiquid</Key>
+      <Value>Radiatore</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureMediumRadiator</Key>
+      <Value>Radiatore</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitPipeRadiator</Key>
+      <Value>Radiatore</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitPipeRadiatorLiquid</Key>
+      <Value>Radiatore</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>
@@ -7244,6 +7264,14 @@ Non essere triste quando ti farai saltare in aria in piccoli, piccolissimi pezzi
     <Record>
       <Key>GameMenuButtonSaveAs</Key>
       <Value>Inserisci nome salvataggio</Value>
+    </Record>
+    <Record>
+      <Key>WorldConfigurationDifficultyTitle</Key>
+      <Value>Settaggi vari</Value>
+    </Record>
+    <Record>
+      <Key>StartNewGameButton</Key>
+      <Value>Torna al Gioco</Value>
     </Record>
   </Interface>
   <Colors>

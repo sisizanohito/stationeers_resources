@@ -2860,6 +2860,26 @@
     <RecordThing>
       <Key>StructureRocketModuleMiningJunk</Key>
     </RecordThing>
+    <RecordThing>
+      <Key>StructurePipeRadiatorFlat</Key>
+      <Value>Radiador para Canos</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePipeRadiatorFlatLiquid</Key>
+      <Value>Radiador para Canos</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureMediumRadiator</Key>
+      <Value>Radiador para Canos</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitPipeRadiator</Key>
+      <Value>Radiador para Canos</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitPipeRadiatorLiquid</Key>
+      <Value>Radiador para Canos</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>
@@ -5218,6 +5238,10 @@
     <Record>
       <Key>GameMenuButtonSaveAs</Key>
       <Value>Nome do Servidor...</Value>
+    </Record>
+    <Record>
+      <Key>StartNewGameButton</Key>
+      <Value>Sair do Jogo</Value>
     </Record>
   </Interface>
   <Colors>
