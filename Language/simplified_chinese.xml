@@ -4979,7 +4979,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidPipeRadiator</Key>
-      <Value>液体管道对流散热器</Value>
+      <Value>对流式液体管道散热器</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemPipeLiquidRadiator</Key>
