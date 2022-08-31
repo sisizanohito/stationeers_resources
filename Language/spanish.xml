@@ -5545,15 +5545,19 @@ La velocidad de ganancia o pérdida de calor dependerá del gas en cuestión. Ag
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeRadiatorFlat</Key>
-      <Value>Tubería Radiador</Value>
+      <Value>Radiador Tuberia</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeRadiatorFlatLiquid</Key>
-      <Value>Tubería Radiador</Value>
+      <Value>Radiador Tuberia Liquidos</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureMediumConvectionRadiator</Key>
+      <Value>Radiador Conveccion Medio</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureMediumRadiator</Key>
-      <Value>Tubería Radiador</Value>
+      <Value>Radiador mediano</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureMediumRadiatorLiquid</Key>
