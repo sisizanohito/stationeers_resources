@@ -1839,11 +1839,11 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureStellarAnchor</Key>
-      <Value>恒星锚</Value>
+      <Value>星锚</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureSuitStorage</Key>
-      <Value>宇航服收纳柜</Value>
+      <Value>航天服收纳架</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureTankConnector</Key>
