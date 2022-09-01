@@ -7894,7 +7894,7 @@ Soyez très prudent lorsque vous marchez ou sautez, car vous pouvez parcourir un
     </Record>
     <Record>
       <Key>ScenarioScoreboardReturnToGame</Key>
-      <Value>Revenir en jeu</Value>
+      <Value>Revenir au jeu</Value>
     </Record>
     <Record>
       <Key>ScenarioScoreboardHeading</Key>
@@ -10793,7 +10793,7 @@ Remarque : l’eau était auparavant traitée comme un gaz, mais un nouveau syst
     </Record>
     <Record>
       <Key>StartNewGameButton</Key>
-      <Value>Revenir en jeu</Value>
+      <Value>Démarrer la partie</Value>
     </Record>
   </Interface>
   <Colors>
