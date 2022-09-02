@@ -1907,7 +1907,7 @@
     </RecordThing>
     <RecordThing>
       <Key>WeaponEnergy</Key>
-      <Value>武器能量</Value>
+      <Value>能量武器</Value>
     </RecordThing>
     <RecordThing>
       <Key>WeaponTorpedo</Key>
@@ -1915,31 +1915,31 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemWasteIngot</Key>
-      <Value>锭 (废料)</Value>
+      <Value>Ingot (Waste) 锭（废料）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableStraightBurnt</Key>
-      <Value>烧焦的电线(直线)</Value>
+      <Value>烧毁的电缆（直）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableCorner3Burnt</Key>
-      <Value>烧焦的电线(3路拐角)</Value>
+      <Value>烧毁的电缆（三向拐角）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableCornerBurnt</Key>
-      <Value>烧焦的电线(拐角)</Value>
+      <Value>烧毁的电缆（拐角）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunction4Burnt</Key>
-      <Value>烧焦的电线(四路连接)</Value>
+      <Value>烧毁的电缆（四向枢纽）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunction6Burnt</Key>
-      <Value>烧焦的电线(六路链接)</Value>
+      <Value>烧毁的电缆（六向枢纽）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunctionBurnt</Key>
-      <Value>烧焦的电线(接口)</Value>
+      <Value>烧毁的电缆（三向枢纽）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureSolidFuelGenerator</Key>
