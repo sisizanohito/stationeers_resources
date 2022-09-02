@@ -1855,23 +1855,23 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureTankSmall</Key>
-      <Value>小储罐</Value>
+      <Value>储气罐（小型）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureTankSmallAir</Key>
-      <Value>小储罐(空气)</Value>
+      <Value>储气罐（小型，空气）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureTankSmallFuel</Key>
-      <Value>小储罐(燃料)</Value>
+      <Value>储气罐（小型，燃料）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureTorpedoRack</Key>
-      <Value>鱼雷发射架</Value>
+      <Value>鱼雷架</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureTorpedoTube</Key>
-      <Value>鱼雷发射装置</Value>
+      <Value>鱼雷发射管</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureValve</Key>
