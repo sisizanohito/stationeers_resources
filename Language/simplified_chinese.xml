@@ -1847,11 +1847,11 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureTankConnector</Key>
-      <Value>储罐连接底座</Value>
+      <Value>移动式储气罐连接底座</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureTankConnectorLiquid</Key>
-      <Value>储液罐连接底座</Value>
+      <Value>移动式储液罐连接底座</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureTankSmall</Key>
