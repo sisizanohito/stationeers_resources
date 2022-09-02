@@ -5004,19 +5004,19 @@
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeRadiatorFlat</Key>
-      <Value>Boru Radyatör</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeRadiatorFlatLiquid</Key>
-      <Value>Boru Radyatör</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>StructureMediumRadiator</Key>
-      <Value>Boru Radyatör</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPipeRadiator</Key>
-      <Value>Donanım (Radyatör)</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPipeRadiatorLiquid</Key>

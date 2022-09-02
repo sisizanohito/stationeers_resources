@@ -2286,22 +2286,6 @@
       <Key>ItemKitStirlingEngine</Key>
       <Value>Rocket Engine</Value>
     </RecordThing>
-    <RecordThing>
-      <Key>StructurePipeRadiatorFlatLiquid</Key>
-      <Value>Pipe Radiator</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureMediumRadiator</Key>
-      <Value>Pipe Radiator</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemKitPipeRadiator</Key>
-      <Value>Pipe Radiator</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemKitPipeRadiatorLiquid</Key>
-      <Value>Pipe Radiator</Value>
-    </RecordThing>
   </Things>
   <Slots>
     <Record>

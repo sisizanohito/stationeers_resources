@@ -5149,19 +5149,19 @@
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeRadiatorFlat</Key>
-      <Value>管線散熱器</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeRadiatorFlatLiquid</Key>
-      <Value>管線散熱器</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>StructureMediumRadiator</Key>
-      <Value>管線散熱器</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPipeRadiator</Key>
-      <Value>管線散熱器</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPipeRadiatorLiquid</Key>

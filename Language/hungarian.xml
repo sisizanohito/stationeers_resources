@@ -4913,19 +4913,19 @@
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeRadiatorFlat</Key>
-      <Value>Cső radiátor</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeRadiatorFlatLiquid</Key>
-      <Value>Cső radiátor</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>StructureMediumRadiator</Key>
-      <Value>Cső radiátor</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPipeRadiator</Key>
-      <Value>Készlet (Radiátor)</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPipeRadiatorLiquid</Key>

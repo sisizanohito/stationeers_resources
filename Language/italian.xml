@@ -4044,26 +4044,6 @@
       <Key>ItemKitStirlingEngine</Key>
       <Value>Motore a razzo</Value>
     </RecordThing>
-    <RecordThing>
-      <Key>StructurePipeRadiatorFlat</Key>
-      <Value>Radiatore</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructurePipeRadiatorFlatLiquid</Key>
-      <Value>Radiatore</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureMediumRadiator</Key>
-      <Value>Radiatore</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemKitPipeRadiator</Key>
-      <Value>Radiatore</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemKitPipeRadiatorLiquid</Key>
-      <Value>Radiatore</Value>
-    </RecordThing>
   </Things>
   <Slots>
     <Record>

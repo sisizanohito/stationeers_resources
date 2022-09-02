@@ -5785,15 +5785,15 @@ Rychlost získávání nebo ztráty tepla závisí na dané kapalině. Přidán�
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeRadiatorFlat</Key>
-      <Value>Potrubní radiátor</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeRadiatorFlatLiquid</Key>
-      <Value>Potrubní radiátor</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>StructureMediumRadiator</Key>
-      <Value>Potrubní radiátor</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>StructureMediumRadiatorLiquid</Key>
@@ -5805,7 +5805,7 @@ Rychlost získávání nebo ztráty tepla závisí na dané kapalině. Přidán�
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPipeRadiator</Key>
-      <Value>Radiátor (sada)</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPipeRadiatorLiquid</Key>

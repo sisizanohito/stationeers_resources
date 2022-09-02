@@ -2860,26 +2860,6 @@
     <RecordThing>
       <Key>StructureRocketModuleMiningJunk</Key>
     </RecordThing>
-    <RecordThing>
-      <Key>StructurePipeRadiatorFlat</Key>
-      <Value>Radiador para Canos</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructurePipeRadiatorFlatLiquid</Key>
-      <Value>Radiador para Canos</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureMediumRadiator</Key>
-      <Value>Radiador para Canos</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemKitPipeRadiator</Key>
-      <Value>Radiador para Canos</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemKitPipeRadiatorLiquid</Key>
-      <Value>Radiador para Canos</Value>
-    </RecordThing>
   </Things>
   <Slots>
     <Record>

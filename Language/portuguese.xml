@@ -4294,26 +4294,6 @@
       <Key>ItemKitStirlingEngine</Key>
       <Value>Motor de Foguete</Value>
     </RecordThing>
-    <RecordThing>
-      <Key>StructurePipeRadiatorFlat</Key>
-      <Value>Radiador para Canos</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructurePipeRadiatorFlatLiquid</Key>
-      <Value>Radiador para Canos</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureMediumRadiator</Key>
-      <Value>Radiador para Canos</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemKitPipeRadiator</Key>
-      <Value>Kit (Radiador)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemKitPipeRadiatorLiquid</Key>
-      <Value>Kit (Radiador)</Value>
-    </RecordThing>
   </Things>
   <Slots>
     <Record>

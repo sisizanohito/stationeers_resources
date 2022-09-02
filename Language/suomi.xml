@@ -3940,26 +3940,6 @@
       <Key>ItemKitStirlingEngine</Key>
       <Value>Rakettimoottori</Value>
     </RecordThing>
-    <RecordThing>
-      <Key>StructurePipeRadiatorFlat</Key>
-      <Value>Putkijäähdytin</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructurePipeRadiatorFlatLiquid</Key>
-      <Value>Putkijäähdytin</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureMediumRadiator</Key>
-      <Value>Putkijäähdytin</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemKitPipeRadiator</Key>
-      <Value>Varustepakkaus (putkijäähdytin)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemKitPipeRadiatorLiquid</Key>
-      <Value>Varustepakkaus (putkijäähdytin)</Value>
-    </RecordThing>
   </Things>
   <Slots>
     <Record>
