@@ -5437,12 +5437,8 @@
       <Value>Kit (volet de fenêtre)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemKitHorizontalAutoMiner</Key>
-      <Value>Caisse de {THING:StructureRocketModuleSilo}.</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemKitStirlingEngine</Key>
-      <Value>Caisse de {THING:StructureRocketModuleSilo}.</Value>
+      <Value>Kit (moteur Stirling)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePowerTransmitter</Key>

@@ -173,7 +173,7 @@ Il suffit d’écrire l’identifiant (hash) dans la variable de réglage de la 
     </StationpediaPage>
     <StationpediaPage>
       <Key>RocketShuttleModulesHelpPage</Key>
-      <Title>Modules de navette fusée</Title>
+      <Title>Modules de navette pour la fusée</Title>
       <DisplayFilter>Guides</DisplayFilter>
       <Text>{HEADER:Modular Rocket Cargo}
 
