@@ -4591,7 +4591,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageAirConditioner2</Key>
-      <Value>Ecran de climatiseur</Value>
+      <Value>Écran de climatiseur</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageWallCooler1</Key>
@@ -4755,11 +4755,11 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageWindTurbine004</Key>
-      <Value>Morceau de pale d&apos;éolienne</Value>
+      <Value>Débris de morceau de pale d&apos;éolienne</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageWindTurbine005</Key>
-      <Value>Mat d&apos;éolienne</Value>
+      <Value>Débris du mat d&apos;éolienne</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageStructureWeatherStation001</Key>
