@@ -1955,59 +1955,59 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureCableStraightH</Key>
-      <Value>高压电线(直线)</Value>
+      <Value>重型电缆（直）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunctionH6</Key>
-      <Value>高压电线(6路连接)</Value>
+      <Value>重型电缆（六向枢纽）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunctionH4</Key>
-      <Value>高压电线(4路连接)</Value>
+      <Value>重型电缆（四向枢纽）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunctionH</Key>
-      <Value>高压电线(3路连接)</Value>
+      <Value>重型电缆（三向枢纽）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunction6HBurnt</Key>
-      <Value>高压电线(6路连接)</Value>
+      <Value>烧毁的电缆（六向枢纽）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunction4HBurnt</Key>
-      <Value>高压电线(4路连接)</Value>
+      <Value>烧毁的电缆（四向枢纽）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableStraightHBurnt</Key>
-      <Value>高压电线(直线)</Value>
+      <Value>烧毁的电缆（直）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunctionHBurnt</Key>
-      <Value>高压电线(接口)</Value>
+      <Value>烧毁的电缆（三向枢纽）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableCornerHBurnt</Key>
-      <Value>烧焦的电线(拐角)</Value>
+      <Value>烧毁的电缆（拐角）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableCornerH</Key>
-      <Value>高压电线(拐角)</Value>
+      <Value>重型电缆（拐角）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableFuse1k</Key>
-      <Value>保险丝 (1kW)</Value>
+      <Value>保险丝（1kW）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableFuse5k</Key>
-      <Value>保险丝(5kW)</Value>
+      <Value>保险丝（5kW）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableFuse50k</Key>
-      <Value>保险丝(50kW)</Value>
+      <Value>保险丝（50kW）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableFuse100k</Key>
-      <Value>保险丝(100kW)</Value>
+      <Value>保险丝（100kW）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureTransformer</Key>
