@@ -1039,7 +1039,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitCryoTube</Key>
-      <Value>Kit (Cryotube)</Value>
+      <Value>Kit (cryotube)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitEngine</Key>
@@ -1071,7 +1071,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSleeper</Key>
-      <Value>Kit (Couchette)</Value>
+      <Value>Kit (couchette)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSolarPanel</Key>
@@ -3447,15 +3447,15 @@
     </RecordThing>
     <RecordThing>
       <Key>AutolathePrinterMod</Key>
-      <Value>Module Tour Automatique</Value>
+      <Value>Module d&apos;évolution du tour automatique</Value>
     </RecordThing>
     <RecordThing>
       <Key>PipeBenderMod</Key>
-      <Value>Module Cintreuse Hydraulique</Value>
+      <Value>Module d&apos;évolution de la cintreuse hydraulique</Value>
     </RecordThing>
     <RecordThing>
       <Key>ToolPrinterMod</Key>
-      <Value>Module Imprimante Outillage</Value>
+      <Value>Module d&apos;évolution de l&apos;imprimante d&apos;outillage</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureTransformerMedium</Key>
