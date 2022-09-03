@@ -2027,7 +2027,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureElectronicsPrinter</Key>
-      <Value>Imprimante Electronique</Value>
+      <Value>Imprimante électronique</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemVolatiles</Key>
@@ -2083,7 +2083,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitElectronicsPrinter</Key>
-      <Value>Kit (Imprimante Electronique)</Value>
+      <Value>Kit (imprimante électronique)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitDoor</Key>
@@ -3443,7 +3443,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ElectronicPrinterMod</Key>
-      <Value>Module Imprimante Electronique</Value>
+      <Value>Module d&apos;évolution de l&apos;imprimante électronique</Value>
     </RecordThing>
     <RecordThing>
       <Key>AutolathePrinterMod</Key>
@@ -6816,7 +6816,7 @@
     </Record>
     <Record>
       <Key>SettingsScreenMode</Key>
-      <Value>Mode écran</Value>
+      <Value>Mode de l&apos;écran</Value>
     </Record>
     <Record>
       <Key>SettingsVsync</Key>
@@ -7557,7 +7557,7 @@ Veuillez réessayer.</Value>
     </Record>
     <Record>
       <Key>WorldCreativeMode</Key>
-      <Value>Mode Créatif</Value>
+      <Value>Mode créatif</Value>
     </Record>
     <Record>
       <Key>WorldSeedLabel</Key>
