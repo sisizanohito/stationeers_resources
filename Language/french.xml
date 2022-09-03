@@ -5082,7 +5082,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitHangerDoor</Key>
-      <Value/>
+      <Value>Kit (porte coulissante de hangar)</Value>
     </RecordThing>
     <RecordThing>
       <Key>DeviceStepUnit</Key>
@@ -5158,7 +5158,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitVendingMachineRefrigerated</Key>
-      <Value>Kit (Distributeur automatique réfrigéré)</Value>
+      <Value>Kit (distributeur automatique réfrigéré)</Value>
     </RecordThing>
     <RecordThing>
       <Key>SeedBag_Potato</Key>
