@@ -175,7 +175,7 @@
     </Record>
     <Record>
       <Key>MarsTaskBuildCommand</Key>
-      <Value>Construire le {THING:StructureModularRocketCommand01}</Value>
+      <Value>Construire un module de commande de fusée</Value>
     </Record>
     <Record>
       <Key>MarsTitleLaunchRocket</Key>
