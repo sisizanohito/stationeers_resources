@@ -8968,6 +8968,14 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
       <Value>PRESSION</Value>
     </Record>
     <Record>
+      <Key>CartridgeAtmosAnalyserConvectedTitle</Key>
+      <Value>CONVECTION</Value>
+    </Record>
+    <Record>
+      <Key>CartridgeAtmosAnalyserRadiatedTitle</Key>
+      <Value>RADIATION</Value>
+    </Record>
+    <Record>
       <Key>CartridgeAtmosAnalyserTitle</Key>
       <Value>ANALYSEUR D’ATMOSPHÈRE</Value>
     </Record>
