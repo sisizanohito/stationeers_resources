@@ -1943,15 +1943,15 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureSolidFuelGenerator</Key>
-      <Value>发电机（固体燃料）</Value>
+      <Value>固体燃料发电机</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitGenerator</Key>
-      <Value>(套件)发电机</Value>
+      <Value>套件包（发电机）</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemCableFuse</Key>
-      <Value>(套件)保险丝</Value>
+      <Value>套件包（电缆保险丝）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableStraightH</Key>
