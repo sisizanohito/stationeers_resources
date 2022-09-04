@@ -3895,7 +3895,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemSensorLenses</Key>
-      <Value>Lunettes AR</Value>
+      <Value>Lunettes de détection en réalité augmentée</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureBatteryChargerSmall</Key>
@@ -5820,7 +5820,7 @@
     </Record>
     <Record>
       <Key>SensorProcessingUnit</Key>
-      <Value>Unité de traitement des capteurs</Value>
+      <Value>Processeur de détection pour lunettes de réalité augmentée</Value>
     </Record>
     <Record>
       <Key>LiquidCanister</Key>
