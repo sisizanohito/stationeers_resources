@@ -3167,11 +3167,11 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureKlaxon</Key>
-      <Value>Haut-Parleur</Value>
+      <Value>Haut-parleur à pavillon</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSpeaker</Key>
-      <Value>Kit (Haut Parleur)</Value>
+      <Value>Kit (haut-parleur à pavillon)</Value>
     </RecordThing>
     <RecordThing>
       <Key>CartridgeOreScannerColor</Key>
@@ -5134,7 +5134,7 @@
     </RecordThing>
     <RecordThing>
       <Key>PassiveSpeaker</Key>
-      <Value>Haut-parleur passif</Value>
+      <Value>Haut-parleur</Value>
     </RecordThing>
     <RecordThing>
       <Key>DeviceLfoVolume</Key>
