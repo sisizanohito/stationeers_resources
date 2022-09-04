@@ -7561,7 +7561,7 @@ Veuillez réessayer.</Value>
     </Record>
     <Record>
       <Key>WorldSeedLabel</Key>
-      <Value>Seed du Monde</Value>
+      <Value>Référence du monde</Value>
     </Record>
     <Record>
       <Key>WorldCratersLabel</Key>
@@ -7613,7 +7613,7 @@ Ne soyez pas triste lorsque vous vous faites exploser en tout petits morceaux ou
     </Record>
     <Record>
       <Key>TextboxEnterSeed</Key>
-      <Value>Entrer une Seed...</Value>
+      <Value>Entrer une référence...</Value>
     </Record>
     <Record>
       <Key>SettingsDisableParticlesOnMenu</Key>
@@ -8925,7 +8925,7 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>PreviewAtmosphereField</Key>
-      <Value>Aperçu Atmosphère</Value>
+      <Value>Pré-rendu de l&apos;atmosphère</Value>
     </Record>
     <Record>
       <Key>HasCustomTemperatureField</Key>
