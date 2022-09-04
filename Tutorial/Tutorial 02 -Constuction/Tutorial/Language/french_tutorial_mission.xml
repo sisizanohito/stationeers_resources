@@ -3,10 +3,6 @@
   <Code>FR</Code>
   <Interface>
     <Record>
-      <Key>TutoiralConstructionDescription</Key>
-      <Value>Construire des bases pour l&apos;ODA commence par la compréhension de la base de la construction.</Value>
-    </Record>
-    <Record>
       <Key>TutoiralConstructionSubTitle</Key>
       <Value>Formation pratique : Étape II</Value>
     </Record>
