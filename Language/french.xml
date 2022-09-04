@@ -2515,7 +2515,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLadder</Key>
-      <Value>Kit (Echelle)</Value>
+      <Value>Kit (échelle)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureFrameCornerCut</Key>
@@ -2723,7 +2723,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureLadder</Key>
-      <Value>Echelle</Value>
+      <Value>Échelle</Value>
     </RecordThing>
     <RecordThing>
       <Key>CartridgeGuide</Key>
@@ -6776,7 +6776,7 @@
     </Record>
     <Record>
       <Key>SettingsHUDScale</Key>
-      <Value>Echelle HUD</Value>
+      <Value>Échelle de l&apos;affichage tête haute</Value>
     </Record>
     <Record>
       <Key>SettingsDisplayLatency</Key>
