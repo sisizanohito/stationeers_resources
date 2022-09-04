@@ -175,7 +175,7 @@
     </Record>
     <Record>
       <Key>Volatiles</Key>
-      <Value>Hydrogène</Value>
+      <Value>Gaz volatiles</Value>
     </Record>
     <Record>
       <Key>Pollutant</Key>
@@ -707,7 +707,7 @@
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterVolatiles</Key>
-      <Value>Réservoir portable (Hydrogène)</Value>
+      <Value>Réservoir portable (gaz volatiles)</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterWater</Key>
@@ -907,7 +907,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemGasCanisterVolatiles</Key>
-      <Value>Bouteille de Gaz (Hydrogène)</Value>
+      <Value>Bouteille de Gaz (gaz volatiles)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasCanisterNitrogen</Key>
@@ -943,7 +943,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterVolatiles</Key>
-      <Value>Filtre (Hydrogène)</Value>
+      <Value>Filtre (Gaz volatiles)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterWater</Key>
@@ -2031,7 +2031,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemVolatiles</Key>
-      <Value>Glace (Volatiles)</Value>
+      <Value>Glace (composés volatiles)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemOxite</Key>
@@ -9021,7 +9021,7 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>ElectronicReaderVolatiles</Key>
-      <Value>Hydrogène</Value>
+      <Value>Gaz volatiles</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderGold</Key>
