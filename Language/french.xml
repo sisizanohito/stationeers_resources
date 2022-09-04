@@ -7385,11 +7385,11 @@ Veuillez réessayer.</Value>
     </Record>
     <Record>
       <Key>JoinMenuSearchPlaceholder</Key>
-      <Value>Rechercher par nom de serveur</Value>
+      <Value>Recherche par nom de serveur</Value>
     </Record>
     <Record>
       <Key>JoinMenuAddressPlaceholder</Key>
-      <Value>Entrez IP:port ici...</Value>
+      <Value>Entrez l&apos;adresse IP et le port ici (IP:port)</Value>
     </Record>
     <Record>
       <Key>JoinMenuServerDetailConnectButton</Key>
@@ -7513,11 +7513,11 @@ Veuillez réessayer.</Value>
     </Record>
     <Record>
       <Key>JoinMenuPasswordProtected</Key>
-      <Value>Cacher les serveurs protégés</Value>
+      <Value>Masquer les serveurs protégés par un mot de passe</Value>
     </Record>
     <Record>
       <Key>JoinWorldEmptyServers</Key>
-      <Value>Cacher les serveurs vide</Value>
+      <Value>Masquer les serveurs vides</Value>
     </Record>
     <Record>
       <Key>WorkshopSubscribedModsTitle</Key>
