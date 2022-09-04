@@ -6636,7 +6636,7 @@
     </Record>
     <Record>
       <Key>NewWorldAreaEarth</Key>
-      <Value>La Terre</Value>
+      <Value>de la Terre</Value>
     </Record>
     <Record>
       <Key>NewWorldAreaVulcan</Key>
@@ -7998,7 +7998,7 @@ Soyez très prudent lorsque vous marchez ou sautez, car vous pouvez parcourir un
     </Record>
     <Record>
       <Key>LogicTypeNone</Key>
-      <Value>Aucune description</Value>
+      <Value>Aucun(e)</Value>
     </Record>
     <Record>
       <Key>LogicTypePower</Key>
@@ -8477,7 +8477,7 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>LogicSlotTypeNone</Key>
-      <Value>Aucune description</Value>
+      <Value>Aucun</Value>
     </Record>
     <Record>
       <Key>LogicSlotTypeOccupied</Key>
@@ -8865,7 +8865,7 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>HasLavaField</Key>
-      <Value>À de la lave</Value>
+      <Value>Activer la lave</Value>
     </Record>
     <Record>
       <Key>Colour</Key>
@@ -8901,7 +8901,7 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>HasLODField</Key>
-      <Value>LOD activé</Value>
+      <Value>Activer le niveau de détail</Value>
     </Record>
     <Record>
       <Key>SolarScaleField</Key>
