@@ -6568,7 +6568,7 @@
     </Record>
     <Record>
       <Key>JoinMenuButtonJoin</Key>
-      <Value>Rejoindre monde</Value>
+      <Value>Rejoindre ce monde</Value>
     </Record>
     <Record>
       <Key>JoinMenuServerListName</Key>
@@ -7509,7 +7509,7 @@ Veuillez réessayer.</Value>
     </Record>
     <Record>
       <Key>JoinMenuIncompatibleVersions</Key>
-      <Value>Cacher les versions incompatible</Value>
+      <Value>Masquer les versions incompatibles</Value>
     </Record>
     <Record>
       <Key>JoinMenuPasswordProtected</Key>
