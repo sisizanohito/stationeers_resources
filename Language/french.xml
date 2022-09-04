@@ -10408,7 +10408,7 @@ Le programme Stationeers, qui est fondamentalement ouvert à toute l’humanité
     </Record>
     <Record>
       <Key>ToggleChangeLog</Key>
-      <Value>Permuter le journal de changement</Value>
+      <Value>Journal des modifications</Value>
     </Record>
     <Record>
       <Key>ShowPreviousVideoText</Key>
@@ -10425,10 +10425,6 @@ Le programme Stationeers, qui est fondamentalement ouvert à toute l’humanité
     <Record>
       <Key>FixedWeatherEventMissing</Key>
       <Value>Aucun système météorologique n’a été trouvé pour ce monde. Le système météorologique par défaut a été appliqué. Attendez-vous à des turbulences.</Value>
-    </Record>
-    <Record>
-      <Key>AdvancedTutorialButton</Key>
-      <Value>Historique/Avancé</Value>
     </Record>
     <Record>
       <Key>BasicButtonTutorial</Key>
