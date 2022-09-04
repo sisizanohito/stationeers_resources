@@ -8865,7 +8865,7 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>HasLavaField</Key>
-      <Value>A de la lave</Value>
+      <Value>À de la lave</Value>
     </Record>
     <Record>
       <Key>Colour</Key>
@@ -8885,7 +8885,7 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>LevelLevelField</Key>
-      <Value>Niveau de lave</Value>
+      <Value>Niveau de la lave</Value>
     </Record>
     <Record>
       <Key>TerrainFeaturesField</Key>
@@ -8933,7 +8933,7 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>LavaLevelField</Key>
-      <Value>Niveau de lave</Value>
+      <Value>Niveau de la lave</Value>
     </Record>
     <Record>
       <Key>SolidTerrainColourField</Key>

@@ -7,6 +7,11 @@
       <Value>Logique</Value>
     </Record>
     <Record>
+      <Key>TutoiralLogicDescription</Key>
+      <!--This is the description that appers in the menu-->
+      <Value>Étendez votre compréhension des fonctions logiques.</Value>
+    </Record>
+    <Record>
       <Key>TutoiralLogicSubTitle</Key>
       <Value>Formation pratique : Étape III</Value>
     </Record>
