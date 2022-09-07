@@ -2019,7 +2019,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureTransformerSmall</Key>
-      <Value>变压器(小型)</Value>
+      <Value>变压器（小型）</Value>
     </RecordThing>
     <RecordThing>
       <Key>WeaponPistolEnergy</Key>
@@ -2027,7 +2027,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureChuteWindow</Key>
-      <Value>滑槽(窗口)</Value>
+      <Value>滑槽（带观察窗）</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureArcFurnace</Key>
