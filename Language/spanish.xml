@@ -664,14 +664,6 @@
       <Value>Rejilla de Suelo Compuesto</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemCopperIngot</Key>
-      <Value>Lingote (Cobre)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemCopperOre</Key>
-      <Value>Mineral (Cobre)</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemCorn</Key>
       <Value>Maiz</Value>
     </RecordThing>
@@ -802,6 +794,14 @@
     <RecordThing>
       <Key>ItemGlassSheets</Key>
       <Value>Placa de Vidrio</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCopperIngot</Key>
+      <Value>Lingote (Cobre)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCopperOre</Key>
+      <Value>Mineral (Cobre)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGoldIngot</Key>
@@ -5574,6 +5574,30 @@ La velocidad de ganancia o pérdida de calor dependerá del gas en cuestión. Ag
     <RecordThing>
       <Key>ItemKitPipeRadiatorLiquid</Key>
       <Value>Radiador Tubería de liquidos (kit)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureCryoTubeVertical</Key>
+      <Value>CrioTubo</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureSleeperVertical</Key>
+      <Value>Cama</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureSleeperLeft</Key>
+      <Value>Cama</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureSleeperRight</Key>
+      <Value>Cama</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureProximitySensor</Key>
+      <Value>Sensor de Movimiento</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureOccupancySensor</Key>
+      <Value>Sensor de Gas</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -10774,6 +10798,14 @@ Nota: El agua se trataba anteriormente como un gas, pero se está desarrollando 
     <Record>
       <Key>StartNewGameButton</Key>
       <Value>Volver al Juego</Value>
+    </Record>
+    <Record>
+      <Key>ShadowMode</Key>
+      <Value>Sombras</Value>
+    </Record>
+    <Record>
+      <Key>ShadowCascades</Key>
+      <Value>Sombras</Value>
     </Record>
   </Interface>
   <Colors>

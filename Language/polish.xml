@@ -639,14 +639,6 @@
       <Value>Kompozytowa Krata Podlogowa</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemCopperIngot</Key>
-      <Value>Sztabka (Miedz)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemCopperOre</Key>
-      <Value>Ruda (Miedz)</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemCorn</Key>
       <Value>Kukurydza</Value>
     </RecordThing>
@@ -769,6 +761,14 @@
     <RecordThing>
       <Key>ItemGlassSheets</Key>
       <Value>Arkusze szkła</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCopperIngot</Key>
+      <Value>Sztabka (Miedz)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCopperOre</Key>
+      <Value>Ruda (Miedz)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGoldIngot</Key>
@@ -4116,6 +4116,30 @@
     <RecordThing>
       <Key>ItemKitPipeRadiatorLiquid</Key>
       <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureCryoTubeVertical</Key>
+      <Value>Komora Kriogeniczna</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureSleeperVertical</Key>
+      <Value>Komora Snu</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureSleeperLeft</Key>
+      <Value>Komora Snu</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureSleeperRight</Key>
+      <Value>Komora Snu</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureProximitySensor</Key>
+      <Value>Czujnik Ruchu</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureOccupancySensor</Key>
+      <Value>Czujnik Gazu</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -8156,6 +8180,14 @@ Uwaga: Woda była poprzednio traktowana jako gaz, ale został wprowadzony nowy s
     <Record>
       <Key>StartNewGameButton</Key>
       <Value>Powrót do gry</Value>
+    </Record>
+    <Record>
+      <Key>ShadowMode</Key>
+      <Value>Cienie</Value>
+    </Record>
+    <Record>
+      <Key>ShadowCascades</Key>
+      <Value>Cienie</Value>
     </Record>
   </Interface>
   <Colors>

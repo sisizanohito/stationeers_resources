@@ -754,14 +754,6 @@
       <Value>합성 그레이팅 바닥</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemCopperIngot</Key>
-      <Value>주괴 (구리)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemCopperOre</Key>
-      <Value>광물 (구리)</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemCorn</Key>
       <Value>옥수수</Value>
     </RecordThing>
@@ -884,6 +876,14 @@
     <RecordThing>
       <Key>ItemGlassSheets</Key>
       <Value>유리판</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCopperIngot</Key>
+      <Value>주괴 (구리)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCopperOre</Key>
+      <Value>광물 (구리)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGoldIngot</Key>
@@ -3183,6 +3183,30 @@
     <RecordThing>
       <Key>ItemKitStirlingEngine</Key>
       <Value>로켓 엔진</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureCryoTubeVertical</Key>
+      <Value>동면 튜브</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureSleeperVertical</Key>
+      <Value>수면장치</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureSleeperLeft</Key>
+      <Value>수면장치</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureSleeperRight</Key>
+      <Value>수면장치</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureProximitySensor</Key>
+      <Value>동작 감지기</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureOccupancySensor</Key>
+      <Value>가스 감지기</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -5678,6 +5702,14 @@ Just don&apos;t be sad when you blow yourself into tiny, tiny little pieces or g
     <Record>
       <Key>StartNewGameButton</Key>
       <Value>게임 종료</Value>
+    </Record>
+    <Record>
+      <Key>ShadowMode</Key>
+      <Value>그림자</Value>
+    </Record>
+    <Record>
+      <Key>ShadowCascades</Key>
+      <Value>그림자</Value>
     </Record>
   </Interface>
   <Colors>

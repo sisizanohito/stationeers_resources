@@ -865,14 +865,6 @@
       <Value>Kompozit padlórács</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemCopperIngot</Key>
-      <Value>Öntvény (Réz)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemCopperOre</Key>
-      <Value>Érc (Réz)</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemCorn</Key>
       <Value>Kukorica</Value>
     </RecordThing>
@@ -1003,6 +995,14 @@
     <RecordThing>
       <Key>ItemGlassSheets</Key>
       <Value>Üveglap</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCopperIngot</Key>
+      <Value>Öntvény (Réz)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCopperOre</Key>
+      <Value>Érc (Réz)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGoldIngot</Key>
@@ -4930,6 +4930,30 @@
     <RecordThing>
       <Key>ItemKitPipeRadiatorLiquid</Key>
       <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureCryoTubeVertical</Key>
+      <Value>CryoTube</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureSleeperVertical</Key>
+      <Value>Alvóhely</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureSleeperLeft</Key>
+      <Value>Alvóhely</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureSleeperRight</Key>
+      <Value>Alvóhely</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureProximitySensor</Key>
+      <Value>Mozgásérzékelő</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureOccupancySensor</Key>
+      <Value>Gázérzékelő</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -9181,6 +9205,14 @@ Leginkább mérnöki, katonai vagy űripari, szoftverfejlesztői vagy bányásza
     <Record>
       <Key>StartNewGameButton</Key>
       <Value>Vissza a játékba</Value>
+    </Record>
+    <Record>
+      <Key>ShadowMode</Key>
+      <Value>Árnyékok</Value>
+    </Record>
+    <Record>
+      <Key>ShadowCascades</Key>
+      <Value>Árnyékok</Value>
     </Record>
   </Interface>
   <Colors>

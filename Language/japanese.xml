@@ -866,14 +866,6 @@
       <Value>複合格子床</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemCopperIngot</Key>
-      <Value>インゴット(銅)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemCopperOre</Key>
-      <Value>鉱石 (銅)</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemCorn</Key>
       <Value>コーン</Value>
     </RecordThing>
@@ -1000,6 +992,14 @@
     <RecordThing>
       <Key>ItemGlassSheets</Key>
       <Value>ガラス板</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCopperIngot</Key>
+      <Value>インゴット(銅)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCopperOre</Key>
+      <Value>鉱石 (銅)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGoldIngot</Key>
@@ -4656,6 +4656,30 @@
       <Key>ItemKitPipeRadiatorLiquid</Key>
       <Value/>
     </RecordThing>
+    <RecordThing>
+      <Key>StructureCryoTubeVertical</Key>
+      <Value>クリオチューブ</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureSleeperVertical</Key>
+      <Value>睡眠装置</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureSleeperLeft</Key>
+      <Value>睡眠装置</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureSleeperRight</Key>
+      <Value>睡眠装置</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureProximitySensor</Key>
+      <Value>動体センサー</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureOccupancySensor</Key>
+      <Value>気体センサー</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>
@@ -7541,6 +7565,14 @@
     <Record>
       <Key>StartNewGameButton</Key>
       <Value>ゲームに戻る</Value>
+    </Record>
+    <Record>
+      <Key>ShadowMode</Key>
+      <Value>影</Value>
+    </Record>
+    <Record>
+      <Key>ShadowCascades</Key>
+      <Value>影</Value>
     </Record>
   </Interface>
   <Colors>

@@ -167,19 +167,19 @@
   <Gases>
     <Record>
       <Key>Oxygen</Key>
-      <Value>Oxigênio</Value>
+      <Value>Oxignio</Value>
     </Record>
     <Record>
       <Key>CarbonDioxide</Key>
-      <Value>Dióxido de Carbono</Value>
+      <Value>Dixido de Carbono</Value>
     </Record>
     <Record>
       <Key>Nitrogen</Key>
-      <Value>Nitrogênio</Value>
+      <Value>Nitrognio</Value>
     </Record>
     <Record>
       <Key>Volatiles</Key>
-      <Value>Voláteis</Value>
+      <Value>Volteis</Value>
     </Record>
     <Record>
       <Key>Pollutant</Key>
@@ -187,11 +187,11 @@
     </Record>
     <Record>
       <Key>Water</Key>
-      <Value>Água</Value>
+      <Value>gua</Value>
     </Record>
     <Record>
       <Key>NitrousOxide</Key>
-      <Value>Óxido Nitroso</Value>
+      <Value>xido Nitroso</Value>
     </Record>
   </Gases>
   <Actions>
@@ -253,7 +253,7 @@
     </Record>
     <Record>
       <Key>Water</Key>
-      <Value>Água</Value>
+      <Value>gua</Value>
     </Record>
     <Record>
       <Key>Harvest</Key>
@@ -365,11 +365,11 @@
     </Record>
     <Record>
       <Key>ForceClose</Key>
-      <Value>Fechar à Força</Value>
+      <Value>Fechar  Fora</Value>
     </Record>
     <Record>
       <Key>ForceOpen</Key>
-      <Value>Abrir à força</Value>
+      <Value>Abrir  fora</Value>
     </Record>
     <Record>
       <Key>Vend</Key>
@@ -385,7 +385,7 @@
     </Record>
     <Record>
       <Key>ForceFeed</Key>
-      <Value>Alimentar a força</Value>
+      <Value>Alimentar a fora</Value>
     </Record>
     <Record>
       <Key>FlipRover</Key>
@@ -408,14 +408,6 @@
     <RecordThing>
       <Key>ItemCoalOre</Key>
       <Value>Minrio (Carvo)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemCopperIngot</Key>
-      <Value>Lingote (Cobre)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemCopperOre</Key>
-      <Value>Minrio (Cobre)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemCorn</Key>
@@ -520,6 +512,14 @@
     <RecordThing>
       <Key>ItemGlassSheets</Key>
       <Value>Chapas de Vidro</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCopperIngot</Key>
+      <Value>Lingote (Cobre)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCopperOre</Key>
+      <Value>Minrio (Cobre)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGoldIngot</Key>
@@ -2859,6 +2859,26 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureRocketModuleMiningJunk</Key>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureSleeperVertical</Key>
+      <Value>Cmara de Estase</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureSleeperLeft</Key>
+      <Value>Cmara de Estase</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureSleeperRight</Key>
+      <Value>Cmara de Estase</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureProximitySensor</Key>
+      <Value>Sensor de Movimento</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureOccupancySensor</Key>
+      <Value>Sensor de Gs</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -5222,6 +5242,14 @@
     <Record>
       <Key>StartNewGameButton</Key>
       <Value>Sair do Jogo</Value>
+    </Record>
+    <Record>
+      <Key>ShadowMode</Key>
+      <Value>Sombras</Value>
+    </Record>
+    <Record>
+      <Key>ShadowCascades</Key>
+      <Value>Sombras</Value>
     </Record>
   </Interface>
   <Colors>

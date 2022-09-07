@@ -820,14 +820,6 @@
       <Value>Piso Composto em Gradeamento</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemCopperIngot</Key>
-      <Value>Lingote (Cobre)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemCopperOre</Key>
-      <Value>Minério (Cobre)</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemCorn</Key>
       <Value>Milho</Value>
     </RecordThing>
@@ -954,6 +946,14 @@
     <RecordThing>
       <Key>ItemGlassSheets</Key>
       <Value>Folhas de Vidro</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCopperIngot</Key>
+      <Value>Lingote (Cobre)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCopperOre</Key>
+      <Value>Minério (Cobre)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGoldIngot</Key>
@@ -4293,6 +4293,30 @@
     <RecordThing>
       <Key>ItemKitStirlingEngine</Key>
       <Value>Motor de Foguete</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureCryoTubeVertical</Key>
+      <Value>Tubo Criogénico</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureSleeperVertical</Key>
+      <Value>Câmara de Stasis</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureSleeperLeft</Key>
+      <Value>Câmara de Stasis</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureSleeperRight</Key>
+      <Value>Câmara de Stasis</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureProximitySensor</Key>
+      <Value>Sensor de Movimento</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureOccupancySensor</Key>
+      <Value>Sensor de Gás</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -8590,6 +8614,14 @@
     <Record>
       <Key>StartNewGameButton</Key>
       <Value>Regressar ao Jogo</Value>
+    </Record>
+    <Record>
+      <Key>ShadowMode</Key>
+      <Value>Sombras</Value>
+    </Record>
+    <Record>
+      <Key>ShadowCascades</Key>
+      <Value>Sombras</Value>
     </Record>
   </Interface>
   <Colors>

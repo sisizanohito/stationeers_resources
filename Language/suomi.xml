@@ -686,14 +686,6 @@
       <Value>Lattiasäleikkö</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemCopperIngot</Key>
-      <Value>Harkko (kupari)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemCopperOre</Key>
-      <Value>Malmi (kupari)</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemCorn</Key>
       <Value>Maissi</Value>
     </RecordThing>
@@ -816,6 +808,14 @@
     <RecordThing>
       <Key>ItemGlassSheets</Key>
       <Value>Lasilevyt</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCopperIngot</Key>
+      <Value>Harkko (kupari)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCopperOre</Key>
+      <Value>Malmi (kupari)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGoldIngot</Key>
@@ -3940,6 +3940,30 @@
       <Key>ItemKitStirlingEngine</Key>
       <Value>Rakettimoottori</Value>
     </RecordThing>
+    <RecordThing>
+      <Key>StructureCryoTubeVertical</Key>
+      <Value>Syväjäädytin</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureSleeperVertical</Key>
+      <Value>Unikapseli</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureSleeperLeft</Key>
+      <Value>Unikapseli</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureSleeperRight</Key>
+      <Value>Unikapseli</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureProximitySensor</Key>
+      <Value>Liikesensori</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureOccupancySensor</Key>
+      <Value>Kaasusensori</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>
@@ -6517,6 +6541,14 @@ Spawnaa mikä tahansa esine, testaa ideoita ja rakenna ihme juttuja todella nope
     <Record>
       <Key>StartNewGameButton</Key>
       <Value>Palaa Peliin</Value>
+    </Record>
+    <Record>
+      <Key>ShadowMode</Key>
+      <Value>Varjot</Value>
+    </Record>
+    <Record>
+      <Key>ShadowCascades</Key>
+      <Value>Varjot</Value>
     </Record>
   </Interface>
   <Colors>

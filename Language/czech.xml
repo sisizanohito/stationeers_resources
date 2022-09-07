@@ -860,14 +860,6 @@
       <Value>Kompozitová podlahová mříž</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemCopperIngot</Key>
-      <Value>Měď (ingot)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemCopperOre</Key>
-      <Value>Měď (ruda)</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemCorn</Key>
       <Value>Kukuřice</Value>
     </RecordThing>
@@ -998,6 +990,14 @@
     <RecordThing>
       <Key>ItemGlassSheets</Key>
       <Value>Skleněné tabule</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCopperIngot</Key>
+      <Value>Měď (ingot)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCopperOre</Key>
+      <Value>Měď (ruda)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGoldIngot</Key>
@@ -5810,6 +5810,30 @@ Rychlost získávání nebo ztráty tepla závisí na dané kapalině. Přidán�
     <RecordThing>
       <Key>ItemKitPipeRadiatorLiquid</Key>
       <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureCryoTubeVertical</Key>
+      <Value>Kryokapsle</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureSleeperVertical</Key>
+      <Value>Spáč</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureSleeperLeft</Key>
+      <Value>Spáč</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureSleeperRight</Key>
+      <Value>Spáč</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureProximitySensor</Key>
+      <Value>Snímač pohybu</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureOccupancySensor</Key>
+      <Value>Senzor plynu</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -11216,6 +11240,14 @@ Poznámka: S vodou se dříve zacházelo jako s plynem, ale nyní se vyvíjí no
     <Record>
       <Key>StartNewGameButton</Key>
       <Value>Návrat do hry</Value>
+    </Record>
+    <Record>
+      <Key>ShadowMode</Key>
+      <Value>Stíny</Value>
+    </Record>
+    <Record>
+      <Key>ShadowCascades</Key>
+      <Value>Stíny</Value>
     </Record>
   </Interface>
   <Colors>
