@@ -304,6 +304,10 @@
       <Value>Consume</Value>
     </Record>
     <Record>
+      <Key>ConsumeFail</Key>
+      <Value>Failed: Helmet Closed</Value>
+    </Record>
+    <Record>
       <Key>Plant</Key>
       <Value>Plant</Value>
     </Record>
@@ -503,7 +507,7 @@ Just bolt it to a {THING:StructureBench} using a {THING:ItemWrench} to power it,
     <RecordThing>
       <Key>BodyPartAstronautMaleHead</Key>
       <Value>Body Part Astronaut Male Head</Value>
-      <Description>{LINK:Stationeers;Stationeer]s need to keep their heads at all times.</Description>
+      <Description>{LINK:Stationeers;Stationeer}s need to keep their heads at all times.</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartAstronautMaleLegL</Key>
@@ -770,7 +774,7 @@ To enter setup mode, insert the board into a {THING:StructureConsole} along with
     <RecordThing>
       <Key>CircuitboardDoorControl</Key>
       <Value>Door Control</Value>
-      <Description>A basic tool of {LINK:Stationeers;Stationeer] base construction, this circuit board provides a way to open and close a {THING:StructureCompositeDoor}, {THING:StructureBlastDoor} or {THING:StructureGlassDoor} remotely, when connected to a {THING:StructureConsole}. This system can be further linked to {THING:StructureMotionSensor} to create automatic doors.</Description>
+      <Description>A basic tool of {LINK:Stationeers;Stationeer} base construction, this circuit board provides a way to open and close a {THING:StructureCompositeDoor}, {THING:StructureBlastDoor} or {THING:StructureGlassDoor} remotely, when connected to a {THING:StructureConsole}. This system can be further linked to {THING:StructureMotionSensor} to create automatic doors.</Description>
     </RecordThing>
     <RecordThing>
       <Key>CircuitboardGasDisplay</Key>
@@ -785,14 +789,14 @@ To enter setup mode, insert the board into a {THING:StructureConsole} along with
     <RecordThing>
       <Key>CircuitboardPowerControl</Key>
       <Value>Power Control</Value>
-      <Description>Under distant suns and demanding environments, {LINK:Stationeers;Stationeer] systems need to balance reliability, resilience and versatility. The power control board allows remote enabling and disabling of selected devices, disconnecting manual operation. 
+      <Description>Under distant suns and demanding environments, {LINK:Stationeers;Stationeer} systems need to balance reliability, resilience and versatility. The power control board allows remote enabling and disabling of selected devices, disconnecting manual operation. 
       
 The circuit board has two modes: 'Link' switches all devices on or off; 'Toggle' switches each device to their alternate state. </Description>
     </RecordThing>
     <RecordThing>
       <Key>CircuitboardShipDisplay</Key>
       <Value>Ship Display</Value>
-      <Description>When the original {LINK:Stationeers;Stationeer] Handbook collapsed under its own weight into a singularity, certain information was irretrievably lost. Amongst this mysterious corpus of knowledge is the exact purpose of the ship display board.</Description>
+      <Description>When the original {LINK:Stationeers;Stationeer} Handbook collapsed under its own weight into a singularity, certain information was irretrievably lost. Amongst this mysterious corpus of knowledge is the exact purpose of the ship display board.</Description>
     </RecordThing>
     <RecordThing>
       <Key>CircuitboardSolarControl</Key>
@@ -807,12 +811,12 @@ The circuit board has two modes: 'Link' switches all devices on or off; 'Toggle'
     <RecordThing>
       <Key>DynamicCrate</Key>
       <Value>Dynamic Crate</Value>
-      <Description>The humble dynamic crate has become a symbol of {LINK:Stationeers;Stationeer] invention and independence. With twelve slots and handles at either end for ease of carriage, it's both standard issue and critical kit for cadets and Commanders alike.</Description>
+      <Description>The humble dynamic crate has become a symbol of {LINK:Stationeers;Stationeer} invention and independence. With twelve slots and handles at either end for ease of carriage, it's both standard issue and critical kit for cadets and Commanders alike.</Description>
     </RecordThing>
     <RecordThing>
       <Key>DynamicCrateBuildingSupplies</Key>
       <Value>Crate (Building Supplies)</Value>
-      <Description />
+      <Description  />
     </RecordThing>
     <RecordThing>
       <Key>DynamicCrateCableSupplies</Key>
@@ -1016,17 +1020,7 @@ Normal coil has a maximum wattage of 5kW. For higher-current applications, use {
     <RecordThing>
       <Key>ItemCompositeFloorGrating</Key>
       <Value>Composite Floor Grating</Value>
-      <Description />
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemCopperIngot</Key>
-      <Value>Ingot (Copper)</Value>
-      <Description />
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemCopperOre</Key>
-      <Value>Ore (Copper)</Value>
-      <Description>Copper is a chemical element with the symbol "Cu". This common and highly conductive material is found on most astronomical bodies and is used in a variety of manufacturing processes including electronic components, alloys, and wires.</Description>
+      <Description  />
     </RecordThing>
     <RecordThing>
       <Key>ItemCorn</Key>
@@ -1036,7 +1030,7 @@ Normal coil has a maximum wattage of 5kW. For higher-current applications, use {
     <RecordThing>
       <Key>ItemCrowbar</Key>
       <Value>Crowbar</Value>
-      <Description>{LINK:Recurso;Recurso's} entry-level crowbar is useful in a variety of everyday {LINK:Stationeers;Stationeer] settings, from opening {THING:StructureAreaPowerControl}s and unpowered {THING:StructureAirlock}s, to splatting pan-dimensional headcrabs, should the need arise.</Description>
+      <Description>{LINK:Recurso;Recurso's} entry-level crowbar is useful in a variety of everyday {LINK:Stationeers;Stationeer} settings, from opening {THING:StructureAreaPowerControl}s and unpowered {THING:StructureAirlock}s, to splatting pan-dimensional headcrabs, should the need arise.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemDataDisk</Key>
@@ -1203,6 +1197,16 @@ Careful not to pressurize beyond 10MPa, or it may go 'bang'.</Descript
       <Description>A fundamental construction component, glass sheets are created from {REAGENT:Silicon}. Fabricated on the {THING:StructureAutolathe}, they are used to make {THING:StructureSolarPanel;Solar Panels}, {THING:StructureAirlock;Airlocks} and many other structures.</Description>
     </RecordThing>
     <RecordThing>
+      <Key>ItemCopperIngot</Key>
+      <Value>Ingot (Copper)</Value>
+      <Description>Copper ingots are created by smelting {THING:ItemCopperOre} in the {THING:StructureFurnace} and {THING:StructureArcFurnace}, and used to create a variety of items.</Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCopperOre</Key>
+      <Value>Ore (Copper)</Value>
+      <Description>Copper is a chemical element with the symbol "Cu". This common and highly conductive material is found on most astronomical bodies and is used in a variety of manufacturing processes including electronic components, alloys, and wires.</Description>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemGoldIngot</Key>
       <Value>Ingot (Gold)</Value>
       <Description>There is an enduring paradox at the heart of the {LINK:Stationeers;Stationeers} project: An initiative conceived as 'cut-price space exploration' uses {REAGENT:Gold} as a fundamental ingredient in fabricating so much of its equipment and materiel. </Description>
@@ -1210,7 +1214,7 @@ Careful not to pressurize beyond 10MPa, or it may go 'bang'.</Descript
     <RecordThing>
       <Key>ItemGoldOre</Key>
       <Value>Ore (Gold)</Value>
-      <Description>Surprisingly common throughout the Solar System, {REAGENT:Gold} is thought to originate in the heart of supernovas, gathering as dust in the early stages of solar formation, then incorporating into the slowly accreting planetary bodies. Now a prized element in {LINK:Stationeers;Stationeer] construction, {REAGENT:Gold} is valued not for its beauty, but its reliability: inert, durable, conductive and highly stable, gold's strength is that it does nothing.</Description>
+      <Description>Surprisingly common throughout the Solar System, {REAGENT:Gold} is thought to originate in the heart of supernovas, gathering as dust in the early stages of solar formation, then incorporating into the slowly accreting planetary bodies. Now a prized element in {LINK:Stationeers;Stationeer} construction, {REAGENT:Gold} is valued not for its beauty, but its reliability: inert, durable, conductive and highly stable, gold's strength is that it does nothing.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemGrenade</Key>
@@ -1250,7 +1254,7 @@ Careful not to pressurize beyond 10MPa, or it may go 'bang'.</Descript
     <RecordThing>
       <Key>ItemIronIngot</Key>
       <Value>Ingot (Iron)</Value>
-      <Description>The most basic unit of construction available to {LINK:Stationeers;Stationeer]-kind, iron ingots are created by smelting {THING:ItemIronOre} in the {THING:StructureFurnace} and {THING:StructureArcFurnace}, and used to create a variety of items.</Description>
+      <Description>The most basic unit of construction available to {LINK:Stationeers;Stationeer}-kind, iron ingots are created by smelting {THING:ItemIronOre} in the {THING:StructureFurnace} and {THING:StructureArcFurnace}, and used to create a variety of items.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemIronOre</Key>
@@ -1265,7 +1269,7 @@ Careful not to pressurize beyond 10MPa, or it may go 'bang'.</Descript
     <RecordThing>
       <Key>ItemKitAtmospherics</Key>
       <Value>Kit (Atmospherics)</Value>
-      <Description>This kit produces a {THING:StructureAirConditioner}, {THING:StructureElectrolyzer}, {THING:StructureFiltration} or {THING:H2Combustor}.</Description>
+      <Description>This kit produces a {THING:StructureAirConditioner}, {THING:StructureElectrolyzer}, {THING:StructureFiltration}, {THING:StructureNitrolyzer} or {THING:H2Combustor}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitBattery</Key>
@@ -1300,7 +1304,7 @@ Careful not to pressurize beyond 10MPa, or it may go 'bang'.</Descript
     <RecordThing>
       <Key>ItemKitCryoTube</Key>
       <Value>Kit (Cryo Tube)</Value>
-      <Description>This kit produces a single {THING:StructureCryoTube}.</Description>
+      <Description>This kit produces a range of cryo tubes which can be used to heal players and player organs as well as revive dead players</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitEngine</Key>
@@ -1335,7 +1339,7 @@ Careful not to pressurize beyond 10MPa, or it may go 'bang'.</Descript
     <RecordThing>
       <Key>ItemKitSensor</Key>
       <Value>Kit (Sensors)</Value>
-      <Description>This kit produces a range of sensors, including {THING:StructureGasSensor}, {THING:StructureDaylightSensor} and the {THING:StructureMotionSensor}.</Description>
+      <Description>This kit produces a range of sensors, including {THING:StructureGasSensor}, {THING:StructureDaylightSensor}, {THING:StructureMotionSensor}, {THING:StructureProximitySensor} and {THING:StructureOccupancySensor}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSign</Key>
@@ -1345,7 +1349,7 @@ Careful not to pressurize beyond 10MPa, or it may go 'bang'.</Descript
     <RecordThing>
       <Key>ItemKitSleeper</Key>
       <Value>Kit (Sleeper)</Value>
-      <Description>This kit produces a single {THING:StructureSleeper}.</Description>
+      <Description>This kit produces a range of sleepers which will keep players hydrated and fed while logged out - as long as a breathable atmosphere is provided.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSolarPanel</Key>
@@ -1415,7 +1419,7 @@ Careful not to pressurize beyond 10MPa, or it may go 'bang'.</Descript
     <RecordThing>
       <Key>ItemMuffin</Key>
       <Value>Muffin</Value>
-      <Description>A delicious, semi-healthful snack, nothing comforts a {LINK:Stationeers;Stationeer] 800 million kilometers from home like a hand-made muffin.</Description>
+      <Description>A delicious, semi-healthful snack, nothing comforts a {LINK:Stationeers;Stationeer} 800 million kilometers from home like a hand-made muffin.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemPassiveVent</Key>
@@ -1674,7 +1678,7 @@ It may not be elegant, but {THING:ItemOxite} and {THING:ItemVolatiles} can be co
     <RecordThing>
       <Key>ItemToolBelt</Key>
       <Value>Tool Belt</Value>
-      <Description>If there's one piece of equipment that embodies {LINK:Stationeers;Stationeer] life above all else, it's the humble toolbelt (Editor's note: a recent {LINK:ODA;ODA} survey of iconic Stationeer equipment also rated the smoking, toxic ruins of an over-pressurized {THING:StructureFurnace} lying amid the charred remains of your latest base very highly).
+      <Description>If there's one piece of equipment that embodies {LINK:Stationeers;Stationeer} life above all else, it's the humble toolbelt (Editor's note: a recent {LINK:ODA;ODA} survey of iconic Stationeer equipment also rated the smoking, toxic ruins of an over-pressurized {THING:StructureFurnace} lying amid the charred remains of your latest base very highly).
 Designed to meet the most strict-ish ODA safety standards, the toolbelt's eight slots hold one thing: tools, and {THING:ItemCableCoil}. Not to be confused with the {THING:ItemMiningBelt}.</Description>
     </RecordThing>
     <RecordThing>
@@ -1767,15 +1771,19 @@ The {LINK:Norsec;Norsec-designed} K-cops 10-10 sorter motherboard permits {LINK:
     <RecordThing>
       <Key>StructureActiveVent</Key>
       <Value>Active Vent</Value>
-      <Description>Fragments of the original {LINK:Stationeers;Stationeers} Handbook recovered from the singularity describe the design of active vents:
-... active vent is a powered device for maintaining {LINK:GasPage;gas} pressure by pumping gas into (or out of) a pipe network. The vent has two modes: 'Outward' sets it to pump gas into a space until pressure is reached; 'Inward' sets it to pump gas out until pressure is reached. The pressure parameter can be set on a connected {THING:StructureConsole}. Default pressure is 101kPa for Outward; 0kPa for Inward ...</Description>
+      <Description>The active vent is a powered device for maintaining {LINK:GasPage;gas} pressure by pumping gas into (or out of) a pipe network. The vent has two modes: 'Outward' sets it to pump gas into a space until pressure is reached; 'Inward' sets it to pump gas out until pressure is reached. The pressure parameter can be set on a connected {THING:StructureConsole}. Default pressure is 101kPa for Outward; 0kPa for Inward ...</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureAirConditioner</Key>
       <Value>Air Conditioner</Value>
-      <Description>Built using the {THING:ItemKitAtmospherics}, the {LINK:ExMin;ExMin-designed} air conditioner is used to raise or lower local temperature.
-The unit has three pipe connections: input, output, and waste. Attach an {THING:ItemActiveVent} to the unit's input port, and a passive vent to the output port, so the unit can draw gas through it. Run pipes from the unit's waste port to outside your base, where you can add {THING:StructurePipeRadiator}s to rapidly shed or gain temperature from the network. 
-Note that some {LINK:GasPage;gases} are better coolants than others, but if the coolant pipe has less than 100kPa pressure, it will siphon its output to reach the necessary pressure.
+      <Description>Built using the {THING:ItemKitAtmospherics}, the {LINK:ExMin;ExMin-designed} air conditioner is used to raise or lower input gas temperature.
+	  
+The unit has three pipe connections: input, output, and waste. Gas fed into the input will be heated or cooled to reach the target temperature, while the opposite will happen to gas on the waste network.
+
+Multiple Efficiency Multipliers can effect the amount of energy the Air Conditioner uses, and these can be view on the unit's green Information Panel. As the temperature difference between input and waste increases, the Temperature Differential Efficiency Multiplier will decrease. If input or waste temperature is extremely hot or cold, the Operational Temperature Efficiency will decrease. If the input or waste pipe has aproach low pressures, the Pressure Efficiency will decrease.
+
+{THING:StructurePipeRadiator}s may be useful in bringing extreme pipe temperatures back towards normal world temperatures. 
+  
 For more information on using the air conditioner, consult the {LINK:TemperatureControlPage;temperature control} Guides page.</Description>
     </RecordThing>
     <RecordThing>
@@ -1807,7 +1815,7 @@ Lastly, an APC charges batteries, which can provide backup power to the sub-netw
     <RecordThing>
       <Key>StructureBattery</Key>
       <Value>Station Battery</Value>
-      <Description>Providing large-scale, reliable power storage, the {LINK:Sinotai;Sinotai} 'Dianzi' station battery is the heart of most {LINK:Stationeers;Stationeer] bases. 
+      <Description>Providing large-scale, reliable power storage, the {LINK:Sinotai;Sinotai} 'Dianzi' station battery is the heart of most {LINK:Stationeers;Stationeer} bases. 
 There are a variety of cautions to the design of electrical systems using batteries, and every experienced Stationeer has a story to tell, hence the Stationeer adage: 'Dianzi cooks, but it also frys.' 
 {HEADER:POWER OUTPUT}
 Able to store up to 3600000W of power, there are no practical limits to its throughput, hence it is wise to use {THING:ItemCableCoilHeavy}. Seasoned electrical engineers will also laugh in the face of those who fail to separate out their power generation networks using an {THING:StructureAreaPowerControl} and {THING:StructureTransformer}.</Description>
@@ -1831,37 +1839,37 @@ Short of a pocket-sized singularity blinking into the local space-time frame, th
     <RecordThing>
       <Key>StructureCableCorner</Key>
       <Value>Cable (Corner)</Value>
-      <Description>Carrying power and data alike, cable coil has come to symbolize the innovation, independence and flexibility of {LINK:Stationeers;Stationeer] life - so essential, the {LINK:ODA;ODA} designated it an official {LINK:ToolPage;'tool'} during the 3rd Decannual Stationeer Solar Conference.
+      <Description>Carrying power and data alike, cable coil has come to symbolize the innovation, independence and flexibility of {LINK:Stationeers;Stationeer} life - so essential, the {LINK:ODA;ODA} designated it an official {LINK:ToolPage;'tool'} during the 3rd Decannual Stationeer Solar Conference.
 Normal coil has a maximum wattage of 5kW. For higher-current applications, use {THING:ItemCableCoilHeavy}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableCorner3</Key>
       <Value>Cable (3-Way Corner)</Value>
-      <Description>Carrying power and data alike, cable coil has come to symbolize the innovation, independence and flexibility of {LINK:Stationeers;Stationeer] life - so essential, the {LINK:ODA;ODA} designated it an official {LINK:ToolPage;'tool'} during the 3rd Decannual Stationeer Solar Conference.
+      <Description>Carrying power and data alike, cable coil has come to symbolize the innovation, independence and flexibility of {LINK:Stationeers;Stationeer} life - so essential, the {LINK:ODA;ODA} designated it an official {LINK:ToolPage;'tool'} during the 3rd Decannual Stationeer Solar Conference.
 Normal coil has a maximum wattage of 5kW. For higher-current applications, use {THING:ItemCableCoilHeavy}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunction</Key>
       <Value>Cable (Junction)</Value>
-      <Description>Carrying power and data alike, cable coil has come to symbolize the innovation, independence and flexibility of {LINK:Stationeers;Stationeer] life - so much so, the {LINK:ODA;ODA} designated it an official {LINK:ToolPage;'tool'} during the 3rd Decannual Stationeer Solar Conference.
+      <Description>Carrying power and data alike, cable coil has come to symbolize the innovation, independence and flexibility of {LINK:Stationeers;Stationeer} life - so much so, the {LINK:ODA;ODA} designated it an official {LINK:ToolPage;'tool'} during the 3rd Decannual Stationeer Solar Conference.
 Normal coil has a maximum wattage of 5kW. For higher-current applications, use {THING:ItemCableCoilHeavy}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunction4</Key>
       <Value>Cable (4-Way Junction)</Value>
-      <Description>Carrying power and data alike, cable coil has come to symbolize the innovation, independence and flexibility of {LINK:Stationeers;Stationeer] life - so much so, the {LINK:ODA;ODA} designated it an official {LINK:ToolPage;'tool'} during the 3rd Decannual Stationeer Solar Conference.
+      <Description>Carrying power and data alike, cable coil has come to symbolize the innovation, independence and flexibility of {LINK:Stationeers;Stationeer} life - so much so, the {LINK:ODA;ODA} designated it an official {LINK:ToolPage;'tool'} during the 3rd Decannual Stationeer Solar Conference.
 Normal coil has a maximum wattage of 5kW. For higher-current applications, use {THING:ItemCableCoilHeavy}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunction6</Key>
       <Value>Cable (6-Way Junction)</Value>
-      <Description>Carrying power and data alike, cable coil has come to symbolize the innovation, independence and flexibility of {LINK:Stationeers;Stationeer] duty - so much so, the {LINK:ODA;ODA} designated it an official {LINK:ToolPage;'tool'} during the 3rd Decannual Stationeer Solar Conference.
+      <Description>Carrying power and data alike, cable coil has come to symbolize the innovation, independence and flexibility of {LINK:Stationeers;Stationeer} duty - so much so, the {LINK:ODA;ODA} designated it an official {LINK:ToolPage;'tool'} during the 3rd Decannual Stationeer Solar Conference.
 Normal coil has a maximum wattage of 5kW. For higher-current applications, use {THING:ItemCableCoilHeavy}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableStraight</Key>
       <Value>Cable (Straight)</Value>
-      <Description>Carrying power and data alike, cable coil has come to symbolize the innovation, independence and flexibility of {LINK:Stationeers;Stationeer] life - so much so, the {LINK:ODA;ODA} designated it an official {LINK:ToolPage;'tool'}.
+      <Description>Carrying power and data alike, cable coil has come to symbolize the innovation, independence and flexibility of {LINK:Stationeers;Stationeer} life - so much so, the {LINK:ODA;ODA} designated it an official {LINK:ToolPage;'tool'}.
 Normal coil has a maximum wattage of 5kW. For higher-current applications, use {THING:ItemCableCoilHeavy}.</Description>
     </RecordThing>
     <RecordThing>
@@ -1890,32 +1898,32 @@ Like most {LINK:Recurso;Recurso}-designed systems, chute bins are simple and rob
       <Key>StructureChuteCorner</Key>
       <Value>Chute (Corner)</Value>
       <Description>Chutes act as pipes for items. Use them to connect various {LINK:ImportExportPage;import/export} equipment together such as the {THING:StructureVendingMachine} and printers like the {THING:StructureAutolathe}.
-The aim for any {LINK:Stationeers;Stationeer] is to make off-world survival less of a struggle for themselves, and those who will follow in their footsteps.
+The aim for any {LINK:Stationeers;Stationeer} is to make off-world survival less of a struggle for themselves, and those who will follow in their footsteps.
 Chute corners are fundamental components of chute networks, which allow the transport of items between machines with {LINK:ImportExportPage;import/export} slots, such as the {THING:StructureFurnace} and other automatable structures.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureChuteInlet</Key>
       <Value>Chute Inlet</Value>
-      <Description>The aim for any {LINK:Stationeers;Stationeer] is to make off-world survival less of a struggle for themselves, and those who will follow in their footsteps.
+      <Description>The aim for any {LINK:Stationeers;Stationeer} is to make off-world survival less of a struggle for themselves, and those who will follow in their footsteps.
 The chute inlet is an aperture by which items can be introduced to {LINK:ImportExportPage;import/export} networks. Note that its origins in zero-gravity mining means chute inlets are unpowered and permanently open, rather than interactable, allowing objects to be thrown in. They can be connected to {LINK:LogicUnitPage;logic} systems to monitor throughput.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureChuteJunction</Key>
       <Value>Chute (Junction)</Value>
-      <Description>The aim for any {LINK:Stationeers;Stationeer] is to make off-world survival less of a struggle for themselves, and those who will follow in their footsteps.
+      <Description>The aim for any {LINK:Stationeers;Stationeer} is to make off-world survival less of a struggle for themselves, and those who will follow in their footsteps.
 Chute junctions are fundamental components of chute networks, allowing merging or splitting of these networks. When combined with a programmed {THING:StructureSorter}, items can be sent down different paths to various machines with {LINK:ImportExportPage;import/export} slots.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureChuteOutlet</Key>
       <Value>Chute Outlet</Value>
-      <Description>The aim for any {LINK:Stationeers;Stationeer] is to make off-world survival less of a struggle for themselves, and those who will follow in their footsteps.
+      <Description>The aim for any {LINK:Stationeers;Stationeer} is to make off-world survival less of a struggle for themselves, and those who will follow in their footsteps.
 The chute outlet is an aperture for exiting items from {LINK:ImportExportPage;import/export} networks. Note that the outlet's origins in zero-gravity mining means they are permanently open, rather than interactable, but can be connected to {LINK:LogicUnitPage;logic} systems to monitor throughput.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureChuteStraight</Key>
       <Value>Chute (Straight)</Value>
       <Description>Chutes act as pipes for items. Use them to connect various {LINK:ImportExportPage;import/export} equipment together such as the {THING:StructureVendingMachine} and printers like the {THING:StructureAutolathe}.
-The aim for any {LINK:Stationeers;Stationeer] is to make off-world survival less of a struggle for themselves, and those who will follow in their footsteps.
+The aim for any {LINK:Stationeers;Stationeer} is to make off-world survival less of a struggle for themselves, and those who will follow in their footsteps.
 Chutes are fundamental components of chute networks, which allow the transport of items between any machine or device with an {LINK:ImportExportPage;import/export} slot.</Description>
     </RecordThing>
     <RecordThing>
@@ -1926,7 +1934,7 @@ Chutes are fundamental components of chute networks, which allow the transport o
     <RecordThing>
       <Key>StructureCompositeFloorGrating</Key>
       <Value>Composite Floor Grating</Value>
-      <Description>While aesthetics rank low on the ladder of {LINK:Stationeers;Stationeer] concerns, composite gratings allow the concealment of unsightly cables on floors, walls and ceilings.</Description>
+      <Description>While aesthetics rank low on the ladder of {LINK:Stationeers;Stationeer} concerns, composite gratings allow the concealment of unsightly cables on floors, walls and ceilings.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeWall</Key>
@@ -2002,31 +2010,31 @@ A completed console displays all devices connected to the current power network.
       <Key>StructureConveyorCorner</Key>
       <Value>Conveyor (Corner)</Value>
       <Description>Originally designed by {LINK:Recurso;Recurso} for ore-shifting, Flexi-belt conveyor solutions can be customized to specific uses for facilitating efficient transportation workflows. In other words, they move stuff between places.
-An recurring {LINK:Stationeers;Stationeer] complaint focuses on the fact that every stage of a conveyor system must be individually powered. In the words of Recurso customer service agents through the ages: 'We're working on that.'</Description>
+An recurring {LINK:Stationeers;Stationeer} complaint focuses on the fact that every stage of a conveyor system must be individually powered. In the words of Recurso customer service agents through the ages: 'We're working on that.'</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureConveyorRiser</Key>
       <Value>Conveyor (Riser)</Value>
       <Description>Originally designed by {LINK:Recurso;Recurso} for ore-shifting, Flexi-belt conveyor solutions can be customized to specific uses for facilitating efficient transportation workflows. In other words, they move stuff between places - and up slightly, in the case of the riser.
-An recurring {LINK:Stationeers;Stationeer] complaint focuses on the fact that every stage of a conveyor system must be individually powered. In the words of Recurso customer service agents through the ages: 'We're working on that.'</Description>
+An recurring {LINK:Stationeers;Stationeer} complaint focuses on the fact that every stage of a conveyor system must be individually powered. In the words of Recurso customer service agents through the ages: 'We're working on that.'</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureConveyorStraight</Key>
       <Value>Conveyor (Straight)</Value>
       <Description>Originally designed by {LINK:Recurso;Recurso} for ore-shifting, Flexi-belt conveyor solutions can be customized to specific uses for facilitating efficient transportation workflows. In other words, they move stuff between places.
-An recurring {LINK:Stationeers;Stationeer] complaint focuses on the fact that every stage of a conveyor system must be individually powered. In the words of Recurso customer service agents through the ages: 'We're working on that.'</Description>
+An recurring {LINK:Stationeers;Stationeer} complaint focuses on the fact that every stage of a conveyor system must be individually powered. In the words of Recurso customer service agents through the ages: 'We're working on that.'</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureConveyorStraightLong</Key>
       <Value>Conveyor (Straight Long)</Value>
       <Description>Originally designed by {LINK:Recurso;Recurso} for ore-shifting, Flexi-belt conveyor solutions can be customized to specific uses for facilitating efficient transportation workflows. In other words, they move stuff between places.
-An recurring {LINK:Stationeers;Stationeer] complaint focuses on the fact that every stage of a conveyor system must be individually powered. In the words of Recurso customer service agents through the ages: 'We're working on that.'</Description>
+An recurring {LINK:Stationeers;Stationeer} complaint focuses on the fact that every stage of a conveyor system must be individually powered. In the words of Recurso customer service agents through the ages: 'We're working on that.'</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureConveyorStraightShort</Key>
       <Value>Conveyor (Straight Short)</Value>
       <Description>Originally designed by {LINK:Recurso;Recurso} for ore-shifting, Flexi-belt conveyor solutions can be customized to specific uses for facilitating efficient transportation workflows. In other words, they move stuff between places.
-An recurring {LINK:Stationeers;Stationeer] complaint focuses on the fact that every stage of a conveyor system must be individually powered. In the words of Recurso customer service agents through the ages: 'We're working on that.'</Description>
+An recurring {LINK:Stationeers;Stationeer} complaint focuses on the fact that every stage of a conveyor system must be individually powered. In the words of Recurso customer service agents through the ages: 'We're working on that.'</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureCryoTube</Key>
@@ -2052,7 +2060,8 @@ An recurring {LINK:Stationeers;Stationeer] complaint focuses on the fact that ev
       <Key>StructureFiltration</Key>
       <Value>Filtration</Value>
       <Description>The Filtration Unit is based on a long-standing {LINK:ExMin;ExMin} system, itself based on older designs of uncertain provenance. It is available in the {THING:ItemKitAtmospherics}.
-The device has nonetheless proven indispensible for {LINK:Stationeers;Stationeer] atmospherics systems, as it can filter two {LINK:GasPage;gases} simultaneously from  a single pipe network using a dual filter array. The unit has an input, and a filter output as well as an unfiltered outlet for any residual gases.</Description>
+The device has nonetheless proven indispensable for {LINK:Stationeers;Stationeer} atmospheric systems, as it can filter two {LINK:GasPage;gases} simultaneously from a single pipe network using a dual filter array. The unit has an input, and a filter output as well as an unfiltered outlet for any residual gases.
+</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureFlashingLight</Key>
@@ -2495,7 +2504,7 @@ Note that transformers operate as data isolators, preventing data flowing into a
     <RecordThing>
       <Key>StructureArcFurnace</Key>
       <Value>Arc Furnace</Value>
-      <Description>The simplest smelting system available to the average {LINK:Stationeers;Stationeer], {LINK:Recurso;Recurso's} arc furnace was forged itself in the depths of the Solar System to help explorational geologists determine the purity of potential asteroidal mining targets.
+      <Description>The simplest smelting system available to the average {LINK:Stationeers;Stationeer}, {LINK:Recurso;Recurso's} arc furnace was forged itself in the depths of the Solar System to help explorational geologists determine the purity of potential asteroidal mining targets.
 Co-opted by the {LINK:ODA;ODA}, it now provides Stationeers with a way to produce pure ingots of various resources.
 The smelting process also releases a range of by product {LINK:GasPage;gases}, principally {GAS:Nitrogen}, {GAS:CarbonDioxide}, {GAS:Volatiles} and {GAS:Oxygen} in differing ratios. These can be recaptured from the atmosphere by filtering, but also make the arc furnace a risk in closed environments. 
 Unlike the more advanced {THING:StructureFurnace}, the arc furnace cannot create {LINK:IngotPage;alloys}.</Description>
@@ -2503,7 +2512,7 @@ Unlike the more advanced {THING:StructureFurnace}, the arc furnace cannot create
     <RecordThing>
       <Key>StructureAutolathe</Key>
       <Value>Autolathe</Value>
-      <Description>The foundation of most {LINK:Stationeers;Stationeer] fabrication systems, the {LINK:ExMin;ExMin} autolathe is a multi-axis molecular compositional system. Its complexity demands considerable time to assemble, but it remains an indispensible creation tool. Upgrade the device using a {THING:AutolathePrinterMod} for additional recipes and faster processing speeds.
+      <Description>The foundation of most {LINK:Stationeers;Stationeer} fabrication systems, the {LINK:ExMin;ExMin} autolathe is a multi-axis molecular compositional system. Its complexity demands considerable time to assemble, but it remains an indispensible creation tool. Upgrade the device using a {THING:AutolathePrinterMod} for additional recipes and faster processing speeds.
 	  </Description>
     </RecordThing>
     <RecordThing>
@@ -2634,7 +2643,7 @@ Volatiles combust in a 2:1 ratio with {GAS:Oxygen}, creating {GAS:CarbonDioxide}
     <RecordThing>
       <Key>ItemOxite</Key>
       <Value>Ice (Oxite)</Value>
-      <Description>Oxite ice is largely composed of frozen {GAS:Oxygen}, and found on many planets in the Solar System. Highly valuable and sought after, not all planets a {LINK:Stationeers;Stationeer] visits will have some. 
+      <Description>Oxite ice is largely composed of frozen {GAS:Oxygen}, and found on many planets in the Solar System. Highly valuable and sought after, not all planets a {LINK:Stationeers;Stationeer} visits will have some. 
 
 Highly sensitive to temperature, oxite will begin to melt as soon as it is mined, unless the temperature is below zero, or it is stored in the {THING:ItemMiningBelt}, {THING:ItemMiningBeltAdvanced} or devices like the {THING:StructureIceCrusher} or {THING:StructureFridgeSmall}. When melting, oxite produces a mixture of {GAS:Oxygen} and {GAS:Nitrogen}.</Description>
     </RecordThing>
@@ -2929,7 +2938,7 @@ Note that transformers operate as data isolators, preventing data flowing into a
     <RecordThing>
       <Key>DynamicGPR</Key>
       <Value>Ground Penetrating Radar (GPR)</Value>
-      <Description>The {LINK:Recurso;Recurso} Ground Penetrating Radar (GPR), when used in conjunction with either a {THING:CartridgeOreScanner} or a {THING:CartridgeOreScannerColor} placed in a {THING:ItemTablet}, allows a {LINK:Stationeers;Stationeer] to maximize mining yields and save time gathering resources to complete their mission by displaying hidden ores in the terrain. 
+      <Description>The {LINK:Recurso;Recurso} Ground Penetrating Radar (GPR), when used in conjunction with either a {THING:CartridgeOreScanner} or a {THING:CartridgeOreScannerColor} placed in a {THING:ItemTablet}, allows a {LINK:Stationeers;Stationeer} to maximize mining yields and save time gathering resources to complete their mission by displaying hidden ores in the terrain. 
 
 Insert a cartridge or color scanner into the tablet, then press the activate button on the GPR to scan the surroundings. The data will be displayed on the tablet.</Description>
     </RecordThing>
@@ -4851,7 +4860,7 @@ When landing, the rocket will deploy a lander, and any cargo contained in the {T
     <RecordThing>
       <Key>StructureBatteryLarge</Key>
       <Value>Station Battery (Large)</Value>
-      <Description>Providing even better large-scale, reliable power storage than the {THING;StructureBattery}, the {LINK:Sinotai;Sinotai} 'Da Dianchi' large station battery is the heart of most {LINK:Stationeers;Stationeer] bases. 
+      <Description>Providing even better large-scale, reliable power storage than the {THING;StructureBattery}, the {LINK:Sinotai;Sinotai} 'Da Dianchi' large station battery is the heart of most {LINK:Stationeers;Stationeer} bases. 
 There are a variety of cautions to the design of electrical systems using batteries, and every experienced Stationeer has a story to tell, hence the Stationeer adage: 'Dianzi cooks, but it also frys.' 
 {HEADER:POWER OUTPUT}
 Able to store up to 9000001 watts of power, there are no practical limits to its throughput, hence it is wise to use {THING:ItemCableCoilHeavy}. Seasoned electrical engineers will also laugh in the face of those who fail to separate out their power generation networks using an {THING:StructureAreaPowerControl} and {THING:StructureTransformer}. </Description>
@@ -5863,7 +5872,7 @@ The speed of heat gain or loss will depend on the liquid in question. Adding mul
     <RecordThing>
       <Key>ItemMKIICrowbar</Key>
       <Value>Mk II Crowbar</Value>
-      <Description>{LINK:Recurso;Recurso's} entry-level crowbar is useful in a variety of everyday {LINK:Stationeers;Stationeer] settings, from opening {THING:StructureAreaPowerControl}s and unpowered {THING:StructureAirlock}s, to splatting pan-dimensional headcrabs, should the need arise. The MK II is more resistant to temperature and pressure.</Description>
+      <Description>{LINK:Recurso;Recurso's} entry-level crowbar is useful in a variety of everyday {LINK:Stationeers;Stationeer} settings, from opening {THING:StructureAreaPowerControl}s and unpowered {THING:StructureAirlock}s, to splatting pan-dimensional headcrabs, should the need arise. The MK II is more resistant to temperature and pressure.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemMKIIArcWelder</Key>
@@ -6302,7 +6311,7 @@ For more information about food preservation, visit the {LINK:DecayPage;food dec
     <RecordThing>
       <Key>StructureRefrigeratedVendingMachine</Key>
       <Value>Refrigerated Vending Machine</Value>
-      <Description>The refrigerated OmniKool vending machine is an advanced version of the standard {THING;StructureVendingMachine}, which maintains an optimum pressure and constant temperature of -130 degrees C, to prevent food spoilage. It can hold up to 100 stacks.
+      <Description>The refrigerated OmniKool vending machine is an advanced version of the standard {THING:StructureVendingMachine}, which maintains an optimum pressure and constant temperature of -130 degrees C, to prevent food spoilage. It can hold up to 100 stacks.
 The OmniKool also has an in-built {THING:StructureStacker}, allowing players to set the stack sizes of any items ADDED to the device. The unit's default stack size is 50.
 NOTE: altering stack sizes DOES NOT update existing stacks within the machine, only those subsequently added. </Description>
     </RecordThing>
@@ -6949,12 +6958,12 @@ The transmitter must be aligned to the base station in order to transmit any pow
     <RecordThing>
       <Key>ItemKitLargeExtendableRadiator</Key>
       <Value>Kit (Large Extendable Radiator)</Value>
-      <Description />
+      <Description>Creates {THING:StructureLargeExtendableRadiator}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureLargeExtendableRadiator</Key>
       <Value>Structure Large Extendable Radiator</Value>
-      <Description />
+      <Description>Omptimised for radiating heat in vacuum and low pressure environments. If pointed at the sun it will heat its contents rapidly via solar heating. The panels can fold away to stop all heat radiation/solar heating and protect them from storms.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageLargeExtendableRadiator01</Key>
@@ -6981,32 +6990,32 @@ Highly sensitive to temperature, nitrice will begin to melt as soon as it is min
     <RecordThing>
       <Key>ItemKitPassiveLargeRadiator</Key>
       <Value>Kit (Medium Radiator)</Value>
-      <Description />
+      <Description>Creates {THING:StructureMediumRadiator} and {THING:StructureMediumConvectionRadiator}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePassiveLargeRadiator</Key>
       <Value>Medium Convection Radiator</Value>
-      <Description />
+      <Description>Has been replaced by {THING:StructureMediumConvectionRadiator}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPassiveLargeRadiatorGas</Key>
       <Value>Kit (Medium Radiator)</Value>
-      <Description />
+      <Description>Creates {THING:StructureMediumRadiator} and {THING:StructureMediumConvectionRadiator}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPassiveLargeRadiatorLiquid</Key>
       <Value>Kit (Medium Radiator Liquid)</Value>
-      <Description />
+      <Description>Creates {THING:StructureMediumRadiatorLiquid} and {THING:StructureMediumConvectionRadiatorLiquid}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePassiveLargeRadiatorLiquid</Key>
       <Value>Medium Convection Radiator Liquid</Value>
-      <Description />
+      <Description>Has been replaced by {THING:StructureMediumConvectionRadiatorLiquid}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePassiveLargeRadiatorGas</Key>
       <Value>Medium Convection Radiator</Value>
-      <Description />
+      <Description>Has been replaced by {THING:StructureMediumConvectionRadiator}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureLogicGate</Key>
@@ -7016,7 +7025,7 @@ Highly sensitive to temperature, nitrice will begin to melt as soon as it is min
     <RecordThing>
       <Key>StructureNitrolyzer</Key>
       <Value>Nitrolyzer</Value>
-      <Description />
+      <Description>This device is used to create {GAS:NitrousOxide} from {GAS:Oxygen}, {GAS:Nitrogen}, and a large amount of energy. The process does not completely transform all the available gas at once, so the output is a mix of all three gasses, which may need further processing.  More NOS will be created, if the gas inside the machine is close to a 1/1 ratio of Oxygen to Nitrogen.  The second gas input line in optional, and not required if the gas is pre mixed.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemMiningBackPack</Key>
@@ -7036,42 +7045,77 @@ Highly sensitive to temperature, nitrice will begin to melt as soon as it is min
     <RecordThing>
       <Key>StructurePipeRadiatorFlat</Key>
       <Value>Pipe Radiator</Value>
-      <Description />
+      <Description>A pipe mounted radiator omptimised for radiating heat in vacuums and low pressure ebvironments.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeRadiatorFlatLiquid</Key>
       <Value>Pipe Radiator Liquid</Value>
-      <Description />
+      <Description>A liquid pipe mounted radiator omptimised for radiating heat in vacuums and low pressure environments.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureMediumConvectionRadiator</Key>
       <Value>Medium Convection Radiator</Value>
-      <Description />
+      <Description>A stand-alone radiator unit omptimised for exchanging heat with its surrounding atmosphere.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureMediumRadiator</Key>
       <Value>Medium Radiator</Value>
-      <Description />
+      <Description>A stand-alone radiator unit omptimised for radiating heat in vacuums and low pressure environments.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureMediumRadiatorLiquid</Key>
       <Value>Medium Radiator Liquid</Value>
-      <Description />
+      <Description>A stand-alone liquid radiator unit omptimised for radiating heat in vacuums and low pressure environments.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureMediumConvectionRadiatorLiquid</Key>
       <Value>Medium Convection Radiator Liquid</Value>
-      <Description />
+      <Description>A stand-alone liquid radiator unit omptimised for exchanging heat with its surrounding atmosphere.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPipeRadiator</Key>
       <Value>Kit (Pipe Radiator)</Value>
-      <Description />
+      <Description>This kit creates a {THING:StructurePipeRadiatorFlat} and {THING:StructurePipeRadiator}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPipeRadiatorLiquid</Key>
       <Value>Kit (Pipe Radiator Liquid)</Value>
-      <Description />
+      <Description>This kit creates a {THING:StructurePipeRadiatorFlatLiquid} and {THING:StructureLiquidPipeRadiator}.</Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureCryoTubeVertical</Key>
+      <Value>Cryo Tube Vertical</Value>
+      <Description>The vertical variant of the cryo tube. Will heal players and organs as well as revive dead players when provided with an atmosphere of NOS below -150C.</Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureCryoTubeHorizontal</Key>
+      <Value>Cryo Tube Horizontal</Value>
+      <Description>The horizontal variant of the cryo tube. Will heal players and organs as well as revive dead players when provided with an atmosphere of NOS below -150C.</Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureSleeperVertical</Key>
+      <Value>Sleeper Vertical</Value>
+      <Description>The vertical variant of the sleeper. Will keep players hydrated and fed while they are logged out - as long as a breatheable atmosphere is provided.</Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureSleeperLeft</Key>
+      <Value>Sleeper Left</Value>
+      <Description>A horizontal variant of the sleeper. Will keep players hydrated and fed while they are logged out - as long as a breatheable atmosphere is provided.</Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureSleeperRight</Key>
+      <Value>Sleeper Right</Value>
+      <Description>A horizontal variant of the sleeper. Will keep players hydrated and fed while they are logged out - as long as a breatheable atmosphere is provided.</Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureProximitySensor</Key>
+      <Value>Proximity Sensor</Value>
+      <Description>Will be triggered if there is a player in the range of the sensor (as defined by the setting dial). The quantity variable will show the number of players. You can configure the sensor to only detect players who hold the correct Access Card using a {THING:CartridgeAccessController} in a {THING:ItemTablet}.</Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureOccupancySensor</Key>
+      <Value>Occupancy Sensor</Value>
+      <Description>Will be triggered if there is a player in the same room as the sensor. The quantity variable will show the number of players. You can use configure it to only detect players who hold the correct Access Card using a {THING:CartridgeAccessController} in a {THING:ItemTablet}. This sensor only works when placed in a room.</Description>
     </RecordThing>
   </Things>
   <Slots>
@@ -12180,7 +12224,7 @@ Norsec’s orbitally-based Space Systems Division is responsible for the design 
       <Value>
         In the aftermath of the Earth Crisis, humanity’s focus on space diminished. Yet many felt that, without ambitions beyond our home planet, our species might falter.
 Created in 2070CE by a newly revamped United Nations, the Offworld Development Agency was given a very specific goal - to guide and encourage human space exploration at a time the cosmos was fading from the public mind. 
-It inaugurated the {LINK:Stationeers;Stationeer] Program in 2095. Understanding that funding would be difficult to come by, the ODA conceived the program as a slow-burn, low-outlay space initiative. While some derided Stationeers as 'cut-price cosmic castaways', the success of the program is testament to the wisdom and pragmatism of ODA's vision.
+It inaugurated the {LINK:Stationeers;Stationeer} Program in 2095. Understanding that funding would be difficult to come by, the ODA conceived the program as a slow-burn, low-outlay space initiative. While some derided Stationeers as 'cut-price cosmic castaways', the success of the program is testament to the wisdom and pragmatism of ODA's vision.
       </Value>
     </Record>
     <Record>
@@ -12678,6 +12722,10 @@ Recruiting from civil engineering backgrounds, military and aerospace industries
       <Value>Waveform</Value>
     </Record>
     <Record>
+      <Key>Radius</Key>
+      <Value>Detection Radius</Value>
+    </Record>
+    <Record>
       <Key>StationpediaBasePowerUsage</Key>
       <Value>Base Power Usage:</Value>
     </Record>
@@ -12783,6 +12831,14 @@ Note: {GAS:Water} was previously treated as a gas, but a new system for liquids 
     <Record>
       <Key>StationpediaThermalConductivityRadiation</Key>
       <Value>Thermal Radiation:</Value>
+    </Record>
+    <Record>
+      <Key>ShadowMode</Key>
+      <Value>Shadows</Value>
+    </Record>
+    <Record>
+      <Key>ShadowCascades</Key>
+      <Value>ShadowCascades</Value>
     </Record>
   </Interface>
   <Colors>
