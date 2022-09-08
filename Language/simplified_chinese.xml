@@ -304,6 +304,10 @@
       <Value>消耗</Value>
     </Record>
     <Record>
+      <Key>ConsumeFail</Key>
+      <Value>失败：头盔是关闭的</Value>
+    </Record>
+    <Record>
       <Key>Plant</Key>
       <Value>种植</Value>
     </Record>
