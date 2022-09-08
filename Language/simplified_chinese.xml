@@ -11324,6 +11324,10 @@ Stationeers计划从土木工程从业人员、军事和航空航天工业、软
       <Value>波形</Value>
     </Record>
     <Record>
+      <Key>Radius</Key>
+      <Value>探测半径</Value>
+    </Record>
+    <Record>
       <Key>MoleOxygenDescription</Key>
       <Value>氧气在燃烧的过程中释放能量，同时还能与氢结合产生 {GAS:Water} 。氧气能够由 {LINK:OrganicPage;植物} 产生，或者通过加工 {THING:ItemOxite} 获得。它在低温下高度易燃。</Value>
     </Record>
@@ -11417,7 +11421,7 @@ Stationeers计划从土木工程从业人员、军事和航空航天工业、软
     </Record>
     <Record>
       <Key>ShadowCascades</Key>
-      <Value>阴影</Value>
+      <Value>层级阴影</Value>
     </Record>
   </Interface>
   <Colors>
