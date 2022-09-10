@@ -244,6 +244,10 @@
       <Value>Consommer</Value>
     </Record>
     <Record>
+      <Key>ConsumeFail</Key>
+      <Value>Échec : casque fermé</Value>
+    </Record>
+    <Record>
       <Key>Plant</Key>
       <Value>Planter</Value>
     </Record>
