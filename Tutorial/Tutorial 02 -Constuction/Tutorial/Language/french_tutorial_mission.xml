@@ -3,6 +3,10 @@
   <Code>FR</Code>
   <Interface>
     <Record>
+      <Key>TutoiralConstructionDescription</Key>
+      <Value>Construire des bases spatiales pour l&apos;ODA commence par la compréhension des notions de base de la construction.</Value>
+    </Record>
+    <Record>
       <Key>TutoiralConstructionSubTitle</Key>
       <Value>Formation pratique : Étape II</Value>
     </Record>
@@ -13,19 +17,19 @@ Les Stationeers sont avant tout, des constructeurs. Testons vos capacités de co
     </Record>
     <Record>
       <Key>2PutAwayScrewDriver</Key>
-      <Value>Récupérez le tournevis, placez-le dans la ceinture à outils.</Value>
+      <Value>Récupérer le tournevis, le placer dans la ceinture d&apos;outils.</Value>
     </Record>
     <Record>
       <Key>2PutAwayAngleGrinder</Key>
-      <Value>Prenez la meuleuse dans une main.</Value>
+      <Value>Prendre la meuleuse dans une main.</Value>
     </Record>
     <Record>
       <Key>2PutAwayPowerdrill</Key>
-      <Value>Récupérez la perceuse, placez-la dans la ceinture à outils.</Value>
+      <Value>Récupérer la perceuse, la placer dans la ceinture d&apos;outils.</Value>
     </Record>
     <Record>
       <Key>2Narration1T</Key>
-      <Value>Formation pratique : Étape II.</Value>
+      <Value>Formation pratique : étape II.</Value>
     </Record>
     <Record>
       <Key>2Narration1D</Key>
@@ -60,7 +64,7 @@ Commencez par les cadres en fer.</Value>
     </Record>
     <Record>
       <Key>BuildFramesTutorial2N1</Key>
-      <Value>Construise le cadre dans la zone en surbrillance.</Value>
+      <Value>Construire le cadre dans la zone en surbrillance.</Value>
     </Record>
     <Record>
       <Key>BuildIronFramesT2</Key>
