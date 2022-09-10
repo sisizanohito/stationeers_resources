@@ -24,12 +24,12 @@
     </Record>
     <Record>
       <Key>BasicConceptsDescription</Key>
-      <Value>Bienvenue à la base d’entraînement lunaire, Cadet. L’ODA a approuvé votre demande, alors améliorons vos chances de survivre à votre déploiement sur une planète du système solaire.
+      <Value>Cadet, bienvenue à la base d’entraînement lunaire ! L’ODA a approuvé votre demande, il est donc temps d&apos;améliorer vos chances de survivre à un déploiement sur une planète du système solaire.
 Entrez dans la base d’entraînement par le sas devant vous.
 
-Remarque importante: en raison des limitations du système de didacticiel, il est important que vous effectuiez les actions dans l’ordre exact, sinon vous ne pourrez pas progresser.
-Si vous êtes bloqué pendant une étape, vous devrez peut-être redémarrer le didacticiel.
-Alors que le jeu est encore en intense développement, il est inévitable que parfois, le tutoriel ne fonctionne plus. Nous nous efforcerons d’améliorer le tutoriel au fil du temps.</Value>
+Remarque importante: en raison des limitations du système de didacticiel, il est important que vous effectuiez les actions demandées dans leur ordre exact, sinon vous ne pourrez pas progresser.
+Si, pendant une étape, vous êtes bloqué alors vous devrez peut-être redémarrer le tutoriel.
+Tant que le jeu sera encore en intense développement, il est inévitable que, parfois, un tutoriel ne fonctionne plus. Nous nous efforcerons d’améliorer les tutoriels au fil du temps.</Value>
     </Record>
     <Record>
       <Key>WelcomeRecuitDisc</Key>
@@ -41,11 +41,11 @@ Alors que le jeu est encore en intense développement, il est inévitable que pa
     </Record>
     <Record>
       <Key>Narration1T</Key>
-      <Value>Bienvenue Cadet</Value>
+      <Value>Bienvenue cadet</Value>
     </Record>
     <Record>
       <Key>Narration1D</Key>
-      <Value>Travaillant et construisant dans des conditions dangereuses, seul et loin de chez lui, un Stationeer a besoin de nombreuses compétences pour sa survie. Entrez dans la base d’entraînement par le sas droit devant.</Value>
+      <Value>Travaillant et construisant dans des conditions dangereuses, seul et loin de chez lui, un Stationeer a besoin de nombreuses compétences pour assurer sa survie. Entrez dans la base d’entraînement par le sas droit devant.</Value>
     </Record>
     <Record>
       <Key>EnterAreaT1</Key>
@@ -61,8 +61,8 @@ Alors que le jeu est encore en intense développement, il est inévitable que pa
     </Record>
     <Record>
       <Key>Narration2D</Key>
-      <Value>Pour travailler et construire dans des conditions dangereuses loin de la maison, un Stationeer a besoin de nombreuses compétences. Vous devez également savoir appuyer sur des boutons.
-Appuyez sur &apos;Cycle to interior&apos; pour entrer dans la base.</Value>
+      <Value>Pour travailler et construire dans des conditions dangereuses loin de sa maison, un Stationeer a besoin de nombreuses compétences. Vous devez également savoir appuyer sur des boutons.
+Appuyez sur &apos;Démarrer le cycle de pressurisation&apos; afin d&apos;entrer dans la base.</Value>
     </Record>
     <Record>
       <Key>TrainingBaseDisc</Key>
@@ -82,7 +82,7 @@ Appuyez sur &apos;Cycle to interior&apos; pour entrer dans la base.</Value>
     </Record>
     <Record>
       <Key>Narration3D</Key>
-      <Value>Avant de s’effondrer en une singularité auto-induite, le Guide du Stationeer a établi un protocole clef pour les Stationeers : Les cadets ont DEUX mains, mais ne devraient faire qu’UNE seule chose à la fois.</Value>
+      <Value>Avant de s’effondrer en une singularité auto-induite, le Guide du Stationeer a établi un protocole clef pour les Stationeers : les cadets ont DEUX mains, mais ne devraient faire qu’UNE seule chose à la fois.</Value>
     </Record>
     <Record>
       <Key>PickUpControlsDisc</Key>
