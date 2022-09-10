@@ -372,27 +372,30 @@ Votre niveau de soif peut être réglé dans les paramètres du jeu, en ajustant
       <Key>EVAPage</Key>
       <Title>Combinaison EVA</Title>
       <DisplayFilter>Guides</DisplayFilter>
-      <Text>Votre combinaison vous offre une atmosphère portable, avec des réglages de pression et de température, ainsi qu’un système d’avertissement qui vous avertira si l’atmosphère à l’intérieur de la combinaison devient dangereux. Elle fonctionne en conjonction avec un casque approprié, ainsi que des cartouches de gaz et des filtres dans les différents emplacements de la combinaison. Ceux-ci devront être changés régulièrement, et peuvent également être rechargés (ou vidés) en utilisant déposant la combinaison dans un {THING:StructureSuitStorage}.
+      <Text>Votre combinaison spatiale vous offre une atmosphère transportable, avec des réglages permettant d’ajuster la pression et la climatisation (température), ainsi qu’un système d’avertissement qui vous alertera si l’atmosphère à l’intérieur de la combinaison devient dangereuse. Elle fonctionne en lien avec un casque approprié, des cartouches de gaz et des filtres dans les différents emplacements prévus à cet effet. Ces derniers devront être changés régulièrement. Les cartouches de gaz peuvent également être rechargées (ou vidées) en déposant la combinaison dans un {THING:StructureSuitStorage}.
 
-Il existe plusieurs combinaisons, y compris la {THING:ItemEvaSuit} et le modèle le plus résistant à la pression et à la température la {THING:ItemHardSuit}.
+Il existe plusieurs combinaisons dont la {THING:ItemEvaSuit} et le modèle le plus résistant à la pression et à la température, la {THING:ItemHardSuit}.
 
-Différentes données de votre combinaison sont en bas à droite de l’écran. Appuyer sur la touche numérique 2, cela fera apparaître un panneau montrant ses emplacements et ses paramètres. Ceux-ci comprennent :
+Différentes données concernant votre combinaison apparaissent en bas à droite de l’écran. En appuyant sur la touche numérique configurée, vous ferez apparaître un panneau montrant ses emplacements et ses paramètres. Ceux-ci comprennent :
 
-- A/C Marche/Arrêt (Climatisation marche/arrêt)
-- Filtres activés/désactivés
-- Air On / Off
-- Pression Monter/Descendre (avec une plage de 0kPA à 202kPa, ou de 0 à 2 atmosphères terrestres)
-- Température Monter/Descendre (avec une plage de 0 °C à 60 °C)
+- Filtres On/Off
+- Air On/Off
+- A/C On/Off (c’est-à-dire contrôle de la température marche/arrêt)
+- Augmenter/Réduire la pression (dans une plage de 0 kPa à 202 kPa, ou de 0 à 2 atmosphères terrestres)
+- Monter/Baisser la température (dans une plage de 0 °C à 60 °C)
 
-Les combinaisons contiennent de 6 à 8 emplacements :
-- Réservoir d’air (x1) - insérer une Bouteille de Gaz ou une Bouteille de Gaz (Evoluée) contenant un mélange de gaz respirable, par exemple de l&apos;oxygène ou azote/oxygène 35/65.
-- Réservoir à déchets (x1) - collecte les gaz évacués par les filtres.
-- Système de survie (x1) - contient une pile qui alimente votre combinaison : la lumière, le chauffage, etc.
-- Filtres (x3) - nécessite au moins un filtre de CO2 (si vous êtes humain), en fonction de votre mélange de gaz respirable. Notez qu’une {THING:ItemHardSuit} a 4 emplacements de filtre.
-- IC - {THING:ItemHardSuit} uniquement.
+Les combinaisons contiennent de 6 à 8 emplacements :
+- Réservoir d’air (x1) — insérer une {THINGS:GasCanister} ou une {THINGS:GasCanisterSmart} contenant un mélange de gaz respirable, par exemple de l’{GAS:Oxygen} ou {GAS:Nitrogen}/{GAS:Oxygen} 35/65
+- Réservoir de déchets (x1) - collecte les gaz évacués par les filtres
+- Système de survie (x1) — contiens une pile qui alimente votre combinaison : la lumière, la climatisation, etc.
+- Filtre (x3) — nécessite au moins un {SLOT:ItemGasFilterCarbonDioxide} (si vous êtes humain), en fonction de votre mélange de gaz respirable. Notez qu’une {THING:ItemHardSuit} a 4 emplacements de filtre.
+- CI —{THING:ItemHardSuit} uniquement.
 
-Pression : doit être réglée à 50-100 KPa (0,5 à 1 atmosphère terrestre). Les humains dans le jeu tolèrent jusqu’à ~250 kPa et peuvent survivre jusqu’à ~300 kPA.
-</Text>
+Pression : dois être réglée entre 50 et 100 kPa (0,5 à 1 atmosphère terrestre). Les humains dans le jeu tolèrent environ 250 kPa au minimum et peuvent survivre jusqu’aux environs de 300 kPa.
+
+Filtres : le filtre par défaut est le filtre à {GAS:CarbonDioxide} qui capture le gaz généré par la respiration humaine. Si vous n’utilisez pas 100 % d’{GAS:Oxygen} pour le gaz respirable, il faut ajouter des filtres supplémentaires. Par exemple, si vous mélangez 25 % d’{GAS:Oxygen} avec 75 % du {GAS:Nitrogen}, ce dernier s’accumulera dans votre combinaison et finira pour vous faire suffoquer à moins de placer un filtre de {GAS:Nitrogen}. Si vous avez les bons filtres et un gaz respirable, mais que vous rencontrez toujours des problèmes, utilisez la fonction « purge » de votre casque. L’alerte de niveau bas ou critique en oxygène peut vouloir dire que vos filtres ont cessé de fonctionner.
+
+Si la combinaison est endommagée, elle peut être colmatée avec du ruban adhésif en le plaçant dans votre main puis en utilisant le bouton d’activation.</Text>
     </StationpediaPage>
   </HelpPage>
 </Language>
