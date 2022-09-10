@@ -85,7 +85,7 @@ Maintenez enfoncée la touche {KEY:MouseControl} pour faire glisser le curseur d
     </Record>
     <Record>
       <Key>TutorialTitleSuitFilter</Key>
-      <Value>Equiper un filtre</Value>
+      <Value>S&apos;équiper d&apos;un filtre</Value>
     </Record>
     <Record>
       <Key>TutorialDescFilter1</Key>
@@ -141,7 +141,7 @@ La {THING:ItemMiningBelt} contient des emplacements spécialisés pour les {LINK
     </Record>
     <Record>
       <Key>TutorialTaskGetTools3</Key>
-      <Value>Ramasse le {THING:ItemSteelSheets} dans la {SLOT:LeftHand} ou {SLOT:RightHand}</Value>
+      <Value>Ramasser le {THING:ItemSteelSheets} dans la {SLOT:LeftHand} ou dans la {SLOT:RightHand}</Value>
     </Record>
     <Record>
       <Key>TutorialTitleGoInAirlock</Key>
@@ -161,7 +161,7 @@ La {THING:ItemMiningBelt} contient des emplacements spécialisés pour les {LINK
     </Record>
     <Record>
       <Key>TutorialTitleCycleAirlock</Key>
-      <Value>Cycle du sas</Value>
+      <Value>Démarrer le cycle de pressurisation du sas</Value>
     </Record>
     <Record>
       <Key>TutorialDescCycleAirlock1</Key>
@@ -171,7 +171,7 @@ Une {THING:CircuitboardAirlockControl} dans le {THING:StructureConsole} contrôl
     </Record>
     <Record>
       <Key>TutorialTaskCycleAirlock1</Key>
-      <Value>Cycle du sas</Value>
+      <Value>Démarrer le cycle de pressurisation du sas</Value>
     </Record>
     <Record>
       <Key>TutorialTitleRepairCable</Key>
@@ -187,7 +187,7 @@ Si vous trouvez que vous avez trop de fenêtres ouvertes, vous pouvez les fermer
     </Record>
     <Record>
       <Key>TutorialTaskRepairCable1</Key>
-      <Value>Equipez votre {THING:ItemWireCutters}</Value>
+      <Value>S&apos;équiper de votre {THING:ItemWireCutters}</Value>
     </Record>
     <Record>
       <Key>TutorialTaskRepairCable2</Key>
@@ -195,7 +195,7 @@ Si vous trouvez que vous avez trop de fenêtres ouvertes, vous pouvez les fermer
     </Record>
     <Record>
       <Key>TutorialTaskRepairCable3</Key>
-      <Value>Equipez votre {THING:ItemCableCoil}</Value>
+      <Value>S&apos;équiper de votre {THING:ItemCableCoil}</Value>
     </Record>
     <Record>
       <Key>TutorialTaskRepairCable4</Key>
@@ -233,7 +233,7 @@ Appuyez sur {KEY:QuantityModifier} et l&apos;objet essaiera son meilleur positio
     </Record>
     <Record>
       <Key>TutorialTaskFinishFrame1</Key>
-      <Value>Soudez le {THING:StructureFrame} pour terminer le tutoriel</Value>
+      <Value>Souder le {THING:StructureFrame} pour terminer le tutoriel</Value>
     </Record>
     <Record>
       <Key>TutorialTitleTablet</Key>
@@ -289,7 +289,7 @@ L&apos;utilisation de cartes différentes vous permet d&apos;accéder à de nomb
     </Record>
     <Record>
       <Key>TutorialTaskUseReader2</Key>
-      <Value>Trouvez la {COLORYELLOW:recette #VAR1 #} pour faire un {THING:ItemMuffin}</Value>
+      <Value>Trouver la {COLORYELLOW:recette #VAR1 #} pour faire un {THING:ItemMuffin}</Value>
     </Record>
     <Record>
       <Key>TutorialTitleBakeMuffin</Key>
@@ -327,11 +327,11 @@ Si vous ajoutez trop, laissez tomber ce que vous portez avec la touche {KEY:Drop
     </Record>
     <Record>
       <Key>TutorialTaskBakeMuffin1</Key>
-      <Value>Ramassez le {THING:ApplianceMicrowave}</Value>
+      <Value>Ramasser le {THING:ApplianceMicrowave}</Value>
     </Record>
     <Record>
       <Key>TutorialTaskBakeMuffin2</Key>
-      <Value>Déposez le sur la {THING:StructureBench}</Value>
+      <Value>Déposer sur la {THING:StructureBench}</Value>
     </Record>
     <Record>
       <Key>TutorialTaskBakeMuffin3</Key>
@@ -355,7 +355,7 @@ Si vous ajoutez trop, laissez tomber ce que vous portez avec la touche {KEY:Drop
     </Record>
     <Record>
       <Key>TutorialTaskBakeMuffin7</Key>
-      <Value>Ouvrez le {THING:ApplianceMicrowave}</Value>
+      <Value>Ouvrir le {THING:ApplianceMicrowave}</Value>
     </Record>
     <Record>
       <Key>TutorialTaskBakeMuffin8</Key>
