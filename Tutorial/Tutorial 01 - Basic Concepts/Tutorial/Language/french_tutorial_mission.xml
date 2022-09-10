@@ -66,7 +66,7 @@ Appuyez sur &apos;Démarrer le cycle de pressurisation&apos; afin d&apos;entrer 
     </Record>
     <Record>
       <Key>TrainingBaseDisc</Key>
-      <Value>Entrez dans la base d’entraînement.</Value>
+      <Value>Entrer dans la base d’entraînement.</Value>
     </Record>
     <Record>
       <Key>OpenAirlock</Key>
@@ -90,11 +90,11 @@ Appuyez sur &apos;Démarrer le cycle de pressurisation&apos; afin d&apos;entrer 
     </Record>
     <Record>
       <Key>SwapControlsDisc</Key>
-      <Value>Changer la main active</Value>
+      <Value>Changer de main active</Value>
     </Record>
     <Record>
       <Key>Co-OrdinationDisc</Key>
-      <Value>Testez votre coordination en échangeant des objets entre les mains.</Value>
+      <Value>Tester votre coordination en échangeant des objets entre les mains.</Value>
     </Record>
     <Record>
       <Key>PickUpT1</Key>
@@ -106,7 +106,7 @@ Appuyez sur &apos;Démarrer le cycle de pressurisation&apos; afin d&apos;entrer 
     </Record>
     <Record>
       <Key>PickUpT1 1</Key>
-      <Value>Prenez la pince coupante dans la caisse.</Value>
+      <Value>Prendre la pince coupante dans la caisse.</Value>
     </Record>
     <Record>
       <Key>SwapHandsT1 2</Key>
@@ -212,7 +212,7 @@ Maintenez {KEY:MouseControl} pour accéder au contrôle de la souris, puis cliqu
     </Record>
     <Record>
       <Key>OpenBackControlsDisc</Key>
-      <Value>Ouvrez les emplacements d&apos;équipements</Value>
+      <Value>Ouvrir les emplacements d&apos;équipements</Value>
     </Record>
     <Record>
       <Key>GettingTheBelt</Key>
@@ -229,11 +229,11 @@ Cela fonctionne aussi avec votre combinaison, essayez d&apos;ouvrir votre invent
     </Record>
     <Record>
       <Key>OpenBackPackDisc</Key>
-      <Value>Ouvrez votre ceinture d’outils</Value>
+      <Value>Ouvrir votre ceinture d’outils</Value>
     </Record>
     <Record>
       <Key>OpenBackPack</Key>
-      <Value>Ouvrez votre équipement dorsal</Value>
+      <Value>Ouvrir votre équipement dorsal</Value>
     </Record>
     <Record>
       <Key>Narration9T</Key>
@@ -282,7 +282,7 @@ Essayez de déplacer des objets du monde directement dans votre inventaire.</Val
     </Record>
     <Record>
       <Key>OpenMaskControlsDisc</Key>
-      <Value>Ouverture de la visière du casque</Value>
+      <Value>Ouvrir la visière du casque</Value>
     </Record>
     <Record>
       <Key>StationpediaToggleControlsDisc</Key>
@@ -351,7 +351,7 @@ Utilisez MOUSE WHEEL pour sélectionner un élément dans une fenêtre d’inter
     </Record>
     <Record>
       <Key>RoadFlareT1Disc</Key>
-      <Value>Utilisez les &apos;raccourcis clavier&apos; pour vous équiper d&apos;une fusée éclairante</Value>
+      <Value>Utiliser les &apos;raccourcis clavier&apos; pour vous équiper d&apos;une fusée éclairante</Value>
     </Record>
     <Record>
       <Key>GetRoadFlare</Key>
@@ -376,7 +376,7 @@ Bon nombre d’entre eux, notament vos outils, contiennent une pile ou une boute
     </Record>
     <Record>
       <Key>ChildOnSlotOpenDisc</Key>
-      <Value>Ouvrez la ceinture de mineur dans votre jetpack.</Value>
+      <Value>Ouvrir la ceinture de mineur dans votre jetpack.</Value>
     </Record>
     <Record>
       <Key>OpeningTheMininngBelt</Key>
