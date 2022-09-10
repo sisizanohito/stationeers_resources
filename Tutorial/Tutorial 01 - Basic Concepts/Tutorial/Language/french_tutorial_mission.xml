@@ -118,7 +118,7 @@ Appuyez sur &apos;Démarrer le cycle de pressurisation&apos; afin d&apos;entrer 
     </Record>
     <Record>
       <Key>Narration4D</Key>
-      <Value>Tu aurais pu être jongleur. Mais vous vous êtes inscrit en tant que Stationeer, donc vous allez jongler avec les outils à la place. Beaucoup d’entre eux. Certains doivent être activés en premier, avec {KEY:SecondaryAction}.</Value>
+      <Value>Vous auriez pu être jongleur. Mais vous vous êtes inscrit en tant que Stationeer, vous allez donc jongler avec des outils à la place. Beaucoup d’entre eux. Certains de ces outils doivent être activés au préalable, avec {KEY:SecondaryAction}.</Value>
     </Record>
     <Record>
       <Key>ActiveWilderDisc</Key>
@@ -146,7 +146,7 @@ Appuyez sur &apos;Démarrer le cycle de pressurisation&apos; afin d&apos;entrer 
     </Record>
     <Record>
       <Key>Narration5D</Key>
-      <Value>Jusqu’à présent, vos mains fonctionnent très bien. C’est bien, tu en auras besoin. Alors essayons de poser et de lancer.
+      <Value>Jusqu’à présent, vos mains fonctionnent très bien. C’est bien, vous en aurez besoin. Alors essayons de poser et de lancer.
 Appuyez sur {KEY:Drop} pour déposer des objets, ou maintenez {KEY:Drop} pour les lancer.</Value>
     </Record>
     <Record>
@@ -179,7 +179,7 @@ Appuyez sur {KEY:Drop} pour déposer des objets, ou maintenez {KEY:Drop} pour le
     </Record>
     <Record>
       <Key>Narration6D</Key>
-      <Value>Parfois, vous aurez besoin de poser des articles plus soigneusement. C’est la propriété de l’ODA. Essayez-le à l’aide de {KEY:PrecisionPlace}, et vérifiez que vos joints de combinaison fonctionnent bien.</Value>
+      <Value>Parfois, vous aurez besoin de poser des objets plus soigneusement. Ils sont la propriété de l’ODA. Essayez de le faire à l’aide de {KEY:PrecisionPlace}, et vérifiez par là même que vos joints de combinaison fonctionnent bien.</Value>
     </Record>
     <Record>
       <Key>PrecisionPlaceControlsDisc</Key>
