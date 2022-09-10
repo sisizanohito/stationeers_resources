@@ -65,11 +65,11 @@ Maintenez enfoncée la touche {KEY:MouseControl} pour faire glisser le curseur d
     </Record>
     <Record>
       <Key>TutorialTaskLifesupportSuit2</Key>
-      <Value>Ouvrez l&apos;inventaire de la {THING:ItemEvaSuit}</Value>
+      <Value>Ouvrir l&apos;inventaire de la {THING:ItemEvaSuit}</Value>
     </Record>
     <Record>
       <Key>TutorialTaskLifesupportSuit4</Key>
-      <Value>Équipez la {THING:ItemEvaSuit} avec une {THING:ItemBatteryCellLarge}</Value>
+      <Value>Équiper la {THING:ItemEvaSuit} avec une {THING:ItemBatteryCellLarge}</Value>
     </Record>
     <Record>
       <Key>TutorialDescLifesupport1</Key>
@@ -97,11 +97,11 @@ Maintenez enfoncée la touche {KEY:MouseControl} pour faire glisser le curseur d
     </Record>
     <Record>
       <Key>TutorialTaskFilter2</Key>
-      <Value>Ouvrez l&apos;inventaire de la {THING:ItemEvaSuit}</Value>
+      <Value>Ouvrir l&apos;inventaire de la {THING:ItemEvaSuit}</Value>
     </Record>
     <Record>
       <Key>TutorialTaskFilter4</Key>
-      <Value>Équipez la {THING:ItemEvaSuit} avec un {THING:ItemGasFilterCarbonDioxide}</Value>
+      <Value>Équiper la {THING:ItemEvaSuit} avec un {THING:ItemGasFilterCarbonDioxide}</Value>
     </Record>
     <Record>
       <Key>TutorialDescFilter2</Key>
@@ -137,7 +137,7 @@ La {THING:ItemMiningBelt} contient des emplacements spécialisés pour les {LINK
     </Record>
     <Record>
       <Key>TutorialTaskGetTools2</Key>
-      <Value>Equipé la {THING:ItemToolBelt} dans son emplacement {SLOT:Belt}</Value>
+      <Value>S&apos;équiper de la {THING:ItemToolBelt}, dans l&apos;emplacement {SLOT:Belt}</Value>
     </Record>
     <Record>
       <Key>TutorialTaskGetTools3</Key>
