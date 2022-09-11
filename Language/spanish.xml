@@ -5600,19 +5600,19 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureSleeperLeft</Key>
-      <Value>Cama</Value>
+      <Value>Cama izquierda</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureSleeperRight</Key>
-      <Value>Cama</Value>
+      <Value>Cama derecha</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureProximitySensor</Key>
-      <Value>Sensor de Movimiento</Value>
+      <Value>Sensor de proximidad</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureOccupancySensor</Key>
-      <Value>Sensor de Gas</Value>
+      <Value>Sensor de ocupación</Value>
     </RecordThing>
   </Things>
   <Slots>
