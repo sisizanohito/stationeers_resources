@@ -450,7 +450,7 @@ Su tasa de hambre se puede configurar en el menú de configuración principal aj
       <Key>FarmingPage</Key>
       <Title>Cultivo de alimentos</Title>
       <DisplayFilter>Guides</DisplayFilter>
-      <Text>Para sobrevivir en mundos alienígenas, el &lt;color=#0080FFFF&gt;{LINK:ODA;ODA} espera que todos los &lt;color=#0080FFFF&gt;{LINK:Stationeers; Stationeers}&lt;/color&gt; configuren los sistemas viables &lt;color=#0080FFFF&gt;{LINK:OrganicPage;hydroponic}, o se pongan en contacto con el recurso local registrado {LINK:TradingPage;traders}.
+      <Text>Para sobrevivir en mundos alienígenas, el {LINK:ODA;ODA} espera que todos los {LINK:Stationeers; Stationeers} configuren los sistemas viables {LINK:OrganicPage;hydroponic}, o se pongan en contacto con el recurso local registrado {LINK:TradingPage;traders}.
 
 {HEADER:SETTING UP}
 
@@ -491,7 +491,7 @@ El efecto de estos ingredientes depende de sus respectivas proporciones en el co
 
 - TEMPERATURA - La refrigeración ralentizará la descomposición, pero muchos alimentos se dañarán por la exposición a presiones extremadamente bajas, así como al calor extremo. La temperatura óptima es 0 kelvin (-272 C) .
 
-- TIPO DE ALIMENTO: cada tipo &lt;color=#0080FFFF&gt;{LINK:OrganicPage;food}&lt;/color&gt; tiene sus propias propiedades de descomposición. {THING:ItemTomatoSoup} dura mucho más que {THING:ItemTomato}, por ejemplo.
+- TIPO DE ALIMENTO: cada tipo {LINK:OrganicPage;food} tiene sus propias propiedades de descomposición. {THING:ItemTomatoSoup} dura mucho más que {THING:ItemTomato}, por ejemplo.
 
 - PRESIÓN: los alimentos se descomponen más rápido cuando la presión cae por debajo de 1 atmósfera (101 kPa). La descomposición ocurre exponencialmente más rápidamente a medida que la atmósfera se acerca a un vacío perfecto. No hay efecto en presiones más altas. 
 
@@ -510,7 +510,7 @@ El efecto de estos ingredientes depende de sus respectivas proporciones en el co
       <Key>HydrationPage</Key>
       <Title>Sed + hidratación</Title>
       <DisplayFilter>Guides</DisplayFilter>
-      <Text>El Stationeer medio necesita beber agua con regularidad. Sin embargo, las normas de salud y seguridad arcanas y posiblemente erróneas &lt;color=#0080FFFF&gt;{LINK:ODA;ODA}&lt;/color&gt; han negado durante mucho tiempo a los Stationeers el derecho a los mecanismos de hidratación dentro del traje. En cambio, deben tomar descansos regulares para beber para abrir su casco y beber agua. No se recomienda hacerlo en un entorno sin presión.
+      <Text>El Stationeer medio necesita beber agua con regularidad. Sin embargo, las normas de salud y seguridad arcanas y posiblemente erróneas {LINK:ODA;ODA} han negado durante mucho tiempo a los Stationeers el derecho a los mecanismos de hidratación dentro del traje. En cambio, deben tomar descansos regulares para beber para abrir su casco y beber agua. No se recomienda hacerlo en un entorno sin presión.
 
 ¿Con qué frecuencia beber? Esto está determinado por tu nivel de dificultad, el calor del planeta y cuánto te gusta mover tu cuerpo.
 
@@ -522,32 +522,32 @@ Su tasa de sed se puede ajustar en el menú de configuración principal ajustand
       <Key>EVAPage</Key>
       <Title>Traje EVA</Title>
       <DisplayFilter>Guides</DisplayFilter>
-      <Text>Su traje espacial le proporciona una atmósfera portátil, con ajustes de presión y aire acondicionado (temperatura) ajustables, así como un sistema de advertencia que lo alertará si la atmósfera dentro del traje se vuelve peligrosa. Funciona en conjunto con un casco adecuado para que funcione correctamente, así como cartuchos de gas y filtros adecuados en las distintas ranuras del traje. Estos deberán cambiarse con regularidad y también se pueden recargar (o drenar) usando un {THING:StructureSuitStorage}.
+      <Text>Su traje espacial le proporciona una atmósfera portátil, con ajustes ajustables de presión y aire acondicionado (temperatura), así como un sistema de advertencia que le alertará si la atmósfera dentro del traje se vuelve peligrosa. Funciona junto con un casco adecuado para funcionar correctamente, así como botes y filtros de gas adecuados en las diversas ranuras del traje. Estos deberán cambiarse regularmente, y también se pueden recargar (o drenar) usando un {THING:StructureSuitStorage}.
 
-Hay varios trajes, incluido el {THING:ItemEvaSuit} y el {THING:ItemHardSuit} más resistente a la presión y la temperatura.
+Hay varios trajes, incluyendo el {THING:ItemEvaSuit} y el más resistente a la presión y la temperatura {THING:ItemHardSuit}.
 
-Las distintas lecturas de su traje se encuentran en la parte inferior derecha de la pantalla. Al presionar la tecla numérica correspondiente (2 aparecerá un panel que muestra sus ranuras y configuraciones. Estos incluyen:
+Su traje varias lecturas están en la parte inferior derecha de la pantalla. Al presionar la tecla numérica apropiada (2, aparecerá un panel que muestra sus ranuras y configuraciones. Estos incluyen:
 
-- A / C encendido / apagado (es decir, control de temperatura encendido / apagado)
-- Filtros de encendido / apagado
-- Aire encendido / apagado
+- A / C On / Off (es decir, control de temperatura encendido / apagado)
+- Filtros encendidos / apagados
+- Aire Encendido / Apagado
 - Presión arriba / abajo (con un rango de 0kPA a 202kPa, o 0-2 atmósferas terrestres)
 - Temperatura arriba / abajo (con un rango de 0 ° C a 60 ° C)
 
-Los trajes contienen 6-8 ranuras:
-- Tanque de aire (x1): inserte un bote o un bote inteligente que contenga una mezcla de gas respirable, p. Ej. O2 o nitrógeno / oxígeno 35/65.
-- Tanque de residuos (x1): recoge los gases eliminados por los filtros
-- Soporte vital (x1): contiene una batería, que alimenta su A / C, luces, etc.
-- Filtros (x3): requiere al menos un filtro de CO2 (si es humano), dependiendo de su mezcla de gases respirables. Tenga en cuenta que una {THING:ItemHardSuit} tiene 4 ranuras de filtro.
+Suits contiene 6-8 ranuras:
+- Tanque de aire (x1) - inserte un recipiente o recipiente inteligente que contenga una mezcla de gas transpirable, por ejemplo, {GAS: Oxígeno} o {GAS: Nitrógeno} / {GAS: Oxígeno} 35/65.
+- Tanque de residuos (x1) - recoge los gases eliminados por los filtros
+- Soporte vital (x1): contiene una batería, que alimenta su aire acondicionado, luces, etc.
+- {SLOT:GasFilter} (x3) - requiere al menos un {SLOT:ItemGasFilterCarbonDioxide} (si es humano), dependiendo de su mezcla de gases transpirable. Tenga en cuenta que {THING:ItemHardSuit} tiene 4 ranuras de filtro.
 - IC - {THING:ItemHardSuit} solamente.
 
-Presión: debe establecerse en 50-100 KPa (0,5 a 1 atmósferas terrestres). Los humanos en el juego toleran hasta ~ 250kPa y pueden sobrevivir hasta ~ 300kPA.
+Presión: debe ajustarse a 50-100 KPa (0,5 a 1 atmósferas terrestres). Los humanos en el juego toleran hasta ~ 250kPa y pueden sobrevivir hasta ~ 300kPA.
 
-Temperatura: normalmente se establece en 18-21 ° C, y los humanos en el juego prefieren 10-29 ° C, toleran 0-39 ° C y sobreviven hasta 49 ° C. En temperaturas más altas, su A / C consumirá más energía de la batería para mantener la temperatura interna.
+Temperatura: normalmente se establece en 18-21 ° C, con los humanos en el juego prefiriendo 10-29 ° C, tolerando 0-39 ° C y sobreviviendo alrededor de hasta 49 ° C.  En temperaturas más altas, su aire acondicionado consumirá más energía de la batería para mantener la temperatura interna.
 
-Filtros: el filtro predeterminado es el filtro de CO2, que captura el gas generado por los humanos al exhalar. Si no está usando oxígeno al 100% en su gas de respiración, agregue filtros adicionales, por ejemplo, si mezcla 25% de oxígeno + 75% de nitrógeno, el nitrógeno se acumulará en su traje con el tiempo y lo asfixiará, a menos que tenga un filtro de nitrógeno. Si tiene los filtros correctos y el gas respirable, pero aún tiene problemas, use la función &apos;Flush&apos; en su Space Helmet. Las advertencias de oxígeno bajo / crítico sonarán cuando sus filtros dejen de funcionar.
+Filtros: el filtro predeterminado es el filtro {GAS:CarbonDioxide}, que captura el gas generado por los humanos al exhalar. Si no está utilizando el 100% {GAS: Oxígeno} en su gas respiratorio, agregue filtros adicionales, por ejemplo, si mezcla 25% {GAS: Oxígeno} + 75% {GAS: Nitrógeno}, el nitrógeno se acumulará en su traje con el tiempo y lo asfixiará, a menos que tenga un filtro de nitrógeno. Si tiene los filtros correctos y el gas transpirable, pero sigue teniendo problemas, use la función &apos;Flush&apos; en su casco espacial. Las advertencias de oxígeno bajo / crítico sonarán a medida que sus filtros dejen de funcionar.
 
-Si está dañado, puede reparar su traje sosteniendo cinta adhesiva en la mano y usando el botón &quot;activar&quot;.</Text>
+Si está dañado, su traje se puede parchear sosteniendo cinta adhesiva en la mano y usando el botón &apos;activar&apos;.</Text>
     </StationpediaPage>
   </HelpPage>
 </Language>

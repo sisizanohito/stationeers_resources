@@ -10782,7 +10782,7 @@ El contaminante tiene un calor específico alto, lo que lo convierte en un excel
       <Key>MoleWaterDescription</Key>
       <Value>Puede obtener agua fundiendo o triturando {THING:ItemIce} usando un {THING:StructureFurnace} o un {THING:StructureIceCrusher}, o quemando volátiles y oxígeno usando el {THING:H2Combustor} .
   · 
-El agua es fundamental para que las  &lt;color=#0080FFFF&gt;{LINK:OrganicPage;plants}&lt;/color&gt; se mantengan vivas y crezcan &lt;color=#0080FFFF&gt;{LINK:NutritionPage;food}&lt;/color&gt;. También es un refrigerante excepcional con una capacidad calorífica específica muy alta.
+El agua es fundamental para que las  {LINK:OrganicPage;plants} se mantengan vivas y crezcan {LINK:NutritionPage;food}. También es un refrigerante excepcional con una capacidad calorífica específica muy alta.
 
 Nota: El agua se trataba anteriormente como un gas, pero se está desarrollando un nuevo sistema para líquidos, que incluye tuberías, tanques, bombas, etc. separados para líquidos. El agua es actualmente el único líquido disponible y actualmente no cambia de estado.</Value>
     </Record>
