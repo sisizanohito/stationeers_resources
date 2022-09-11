@@ -5588,11 +5588,15 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureCryoTubeVertical</Key>
-      <Value>CrioTubo</Value>
+      <Value>Tubo criogénico vertical</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureCryoTubeHorizontal</Key>
+      <Value>Tubo criogénico horizontal</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureSleeperVertical</Key>
-      <Value>Cama</Value>
+      <Value>Cama vertical</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureSleeperLeft</Key>
