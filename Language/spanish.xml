@@ -5524,11 +5524,15 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPassiveLargeRadiatorLiquid</Key>
-      <Value/>
+      <Value>Radiador de Tubería mediano (kit)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePassiveLargeRadiatorLiquid</Key>
-      <Value/>
+      <Value>Radiador de Conveccion Mediano de liquidos</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePassiveLargeRadiatorGas</Key>
+      <Value>Radiador de Conveccion Mediano</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLogicGate</Key>
