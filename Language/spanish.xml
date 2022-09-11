@@ -4689,8 +4689,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidPipeRadiator</Key>
-      <Value>Un simple intercambiador de calor, los radiadores de tubería se pueden colocar en las tuberías para eliminar o ganar calor, dependiendo de la temperatura de la atmósfera circundante. Si la atmósfera es más caliente, se agregará calor al gas dentro de la red de tuberías, y viceversa si es más fría. En el vacío, se irradiará calor.
-La velocidad de ganancia o pérdida de calor dependerá del gas en cuestión. Agregar varios radiadores acelerará la transferencia de calor.</Value>
+      <Value>Radiador de convección de tubería líquida</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemPipeLiquidRadiator</Key>
@@ -5513,11 +5512,15 @@ La velocidad de ganancia o pérdida de calor dependerá del gas en cuestión. Ag
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPassiveLargeRadiator</Key>
-      <Value/>
+      <Value>Radiador de Tubería mediano (kit)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePassiveLargeRadiator</Key>
+      <Value>Radiador de Conveccion Mediano</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPassiveLargeRadiatorGas</Key>
-      <Value/>
+      <Value>Radiador mediano (kit)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPassiveLargeRadiatorLiquid</Key>
@@ -8960,6 +8963,10 @@ Es una ley universal inquebrantable que cualquier cosa superior a 11 será púrp
     <Record>
       <Key>CartridgeAtmosAnalyserTemperatureTitle</Key>
       <Value>TEMPERATURA</Value>
+    </Record>
+    <Record>
+      <Key>CartridgeAtmosAnalyserConvectedTitle</Key>
+      <Value>CONVECCIÓN</Value>
     </Record>
     <Record>
       <Key>CartridgeAtmosAnalyserRadiatedTitle</Key>
