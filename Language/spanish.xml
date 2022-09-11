@@ -1541,7 +1541,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeRadiator</Key>
-      <Value>Tubería Radiador</Value>
+      <Value>Radiador de convección de tubería</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeStraight</Key>
