@@ -94,6 +94,10 @@
       <Value>Consumir</Value>
     </Record>
     <Record>
+      <Key>ConsumeFail</Key>
+      <Value>Fallo: Casco Cerrado</Value>
+    </Record>
+    <Record>
       <Key>Plant</Key>
       <Value>Plantar</Value>
     </Record>
@@ -8958,6 +8962,10 @@ Es una ley universal inquebrantable que cualquier cosa superior a 11 será púrp
       <Value>TEMPERATURA</Value>
     </Record>
     <Record>
+      <Key>CartridgeAtmosAnalyserRadiatedTitle</Key>
+      <Value>IRRADIADO</Value>
+    </Record>
+    <Record>
       <Key>CartridgeAtmosAnalyserTitle</Key>
       <Value>ANALIZADOR DE ATMÓSFERA</Value>
     </Record>
@@ -10707,6 +10715,10 @@ Reclutando de fondos de ingeniería civil, industrias militares y aeroespaciales
       <Value>Forma de onda</Value>
     </Record>
     <Record>
+      <Key>Radius</Key>
+      <Value>Radio de detección</Value>
+    </Record>
+    <Record>
       <Key>StationpediaBasePowerUsage</Key>
       <Value>Uso de Energia de la Base:</Value>
     </Record>
@@ -10797,7 +10809,15 @@ Nota: El agua se trataba anteriormente como un gas, pero se está desarrollando 
     </Record>
     <Record>
       <Key>StartNewGameButton</Key>
-      <Value>Volver al Juego</Value>
+      <Value>Iniciar juego</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaThermalConductivityConvection</Key>
+      <Value>Convección térmica:</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaThermalConductivityRadiation</Key>
+      <Value>Radiación térmica:</Value>
     </Record>
     <Record>
       <Key>ShadowMode</Key>
@@ -10805,7 +10825,7 @@ Nota: El agua se trataba anteriormente como un gas, pero se está desarrollando 
     </Record>
     <Record>
       <Key>ShadowCascades</Key>
-      <Value>Sombras</Value>
+      <Value>SombrasCascadas</Value>
     </Record>
   </Interface>
   <Colors>
