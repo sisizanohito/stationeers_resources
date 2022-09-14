@@ -332,7 +332,7 @@ Režim rakety se nastavuje pomocí hodnoty &apos;aktivace&apos; zařízení. Re�
 - Napájení {THING:StructureLaunchPad}
 - Všichni hráči sedí v {THING:StructureModularRocketCommand01}
 
-Níže jsou uvedeny ID VESMÍRNÉHO CESTOVÁNÍ. Můžete je použít k cestování na konkrétní planety, pokud je zkombinujete s dokončeným {LINK:RocketShuttlePage;raketoplánem} a {LINK:LogicUnitPage;logickými jednotkami}.
+Níže jsou uvedeny ID VESMÍRNÝCH TĚLES. Můžete je použít k cestování na konkrétní planety, pokud je zkombinujete s dokončeným {LINK:RocketShuttlePage;raketoplánem} a {LINK:LogicUnitPage;logickými jednotkami}.
   
 Jednoduše zapište hash do proměnného nastavení na {KING:StructureLaunchPad} pomocí {KING:StructureLogicWriter} a {KING:StructureLogicMemory}. Poznámka: Kliknutím na hash jej můžete zkopírovat do schránky.
   
