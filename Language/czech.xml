@@ -6534,6 +6534,14 @@ Rychlost získávání nebo ztráty tepla závisí na dané kapalině. Přidán�
   </Interactables>
   <Interface>
     <Record>
+      <Key>RespawnConditionEasy</Key>
+      <Value>Snadný</Value>
+    </Record>
+    <Record>
+      <Key>RespawnConditionNormal</Key>
+      <Value>Normální</Value>
+    </Record>
+    <Record>
       <Key>RespawnConditionStationeer</Key>
       <Value>Stationeers</Value>
     </Record>
@@ -7320,12 +7328,12 @@ Rychlost získávání nebo ztráty tepla závisí na dané kapalině. Přidán�
       <Key>MulticonstructorItem</Key>
       <Value>
         &lt;color=yellow&gt;Konstrukční volba {0} z {1}&lt;/color&gt;
-        Posouvejte &lt;color=red&gt;kolečkem myši&lt;/color&gt; pro více možností.
+        Zatočte &lt;color=red&gt;kolečkem myši&lt;/color&gt; pro více možností.
       </Value>
     </Record>
     <Record>
       <Key>UnableToConstruct</Key>
-      <Value>&lt;color=red&gt;Nepodařilo se zkonstruovat&lt;/color&gt;.</Value>
+      <Value>&lt;color=red&gt;Nelze zkonstruktovat&lt;/color&gt;.</Value>
     </Record>
     <Record>
       <Key>PortableConnectionFailure</Key>
@@ -11240,6 +11248,10 @@ Poznámka: S vodou se dříve zacházelo jako s plynem, ale nyní se vyvíjí no
     <Record>
       <Key>StartNewGameButton</Key>
       <Value>Návrat do hry</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaThermalConductivityRadiation</Key>
+      <Value>Tepelné záření:</Value>
     </Record>
     <Record>
       <Key>ShadowMode</Key>
