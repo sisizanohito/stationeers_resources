@@ -11227,7 +11227,11 @@ Poznámka: S vodou se dříve zacházelo jako s plynem, ale nyní se vyvíjí no
     </Record>
     <Record>
       <Key>MainMenuChangeAppearance</Key>
-      <Value>Změnit vzhled</Value>
+      <Value>Změna vzhledu</Value>
+    </Record>
+    <Record>
+      <Key>CreateNewGame</Key>
+      <Value>Vyberte svět</Value>
     </Record>
     <Record>
       <Key>WorkshopModsTitle</Key>
@@ -11235,11 +11239,11 @@ Poznámka: S vodou se dříve zacházelo jako s plynem, ale nyní se vyvíjí no
     </Record>
     <Record>
       <Key>GameMenuButtonSaveAs</Key>
-      <Value>Zadejte název pro uložení...</Value>
+      <Value>Uložit hru jako...</Value>
     </Record>
     <Record>
       <Key>GameMenuPauseGameButton</Key>
-      <Value>Pozastavená hra</Value>
+      <Value>Pozastavit hru</Value>
     </Record>
     <Record>
       <Key>WorldConfigurationDifficultyTitle</Key>
@@ -11247,7 +11251,11 @@ Poznámka: S vodou se dříve zacházelo jako s plynem, ale nyní se vyvíjí no
     </Record>
     <Record>
       <Key>StartNewGameButton</Key>
-      <Value>Návrat do hry</Value>
+      <Value>Spustit hru</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaThermalConductivityConvection</Key>
+      <Value>Tepelné proudění:</Value>
     </Record>
     <Record>
       <Key>StationpediaThermalConductivityRadiation</Key>
