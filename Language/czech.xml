@@ -11157,6 +11157,10 @@ Program Stationeers je otevřen všem lidem, a to jak z oblasti stavebního inž
       <Value>Křivka</Value>
     </Record>
     <Record>
+      <Key>Radius</Key>
+      <Value>Rádius detekce</Value>
+    </Record>
+    <Record>
       <Key>StationpediaBasePowerUsage</Key>
       <Value>Základní spotřeba energie:</Value>
     </Record>
