@@ -4980,48 +4980,140 @@
       <Value>Verstärktes Fenster (dünn)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemStelliteGlassSheets</Key>
+      <Value>Gegenstand Stellite Glasscheiben</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitReinforcedWindows</Key>
+      <Value>Verstärktes Fenster (Bausatz)</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitHorizontalAutoMiner</Key>
-      <Value>Triebwerk (Groß)</Value>
+      <Value>Bausatz (OGRE)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemPlantEndothermic_Genepool1</Key>
+      <Value>Winterspawn (Alpha-Variante)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemPlantEndothermic_Genepool2</Key>
+      <Value>Winterspawn (Beta-Variante)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemPlantThermogenic_Genepool1</Key>
+      <Value>Hades Flower (Alpha-Sorte)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemPlantThermogenic_Genepool2</Key>
+      <Value>Hades Flower (Beta-Sorte)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitStirlingEngine</Key>
-      <Value>Triebwerk (Groß)</Value>
+      <Value>Bausatz (Stirlingmotor)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureStirlingEngine</Key>
+      <Value>Stirlingmotor</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePowerTransmitter</Key>
+      <Value>Mikrowellen-Leistungsüberträger</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePowerTransmitterReceiver</Key>
+      <Value>Mikrowellen-Leistungsempfänger</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureOverheadShortCornerLocker</Key>
+      <Value>Eckhängeschrank</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureOverheadShortLocker</Key>
+      <Value>Hängeschrank</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureShortCornerLocker</Key>
+      <Value>Kurzer Eckschrank</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureShortLocker</Key>
-      <Value/>
+      <Value>Kurzer Schrank</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCornerLocker</Key>
-      <Value/>
+      <Value>Eckschrank</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemPlantEndothermic_Creative</Key>
+      <Value>Endothermische Pflanze Creative</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemPlantThermogenic_Creative</Key>
+      <Value>Thermogene Pflanze Creative</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPowerTransmitter</Key>
-      <Value/>
+      <Value>Bausatz (Leistungsüberträger)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureInteriorDoorTriangle</Key>
+      <Value>Innentür-Dreieck</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureInteriorDoorPaddedThin</Key>
+      <Value>Innentür dünn gepolstert</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureInteriorDoorPadded</Key>
+      <Value>Innentür gepolstert</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureInteriorDoorGlass</Key>
+      <Value>Innentür-Glas</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitInteriorDoors</Key>
-      <Value/>
+      <Value>Bausatz (Innentüren)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureUnpoweredHatch</Key>
+      <Value>Struktur Manuelle Luke</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureManualHatch</Key>
+      <Value>Manuelle Luke</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPowerTransmitterOmni</Key>
-      <Value/>
+      <Value>Bausatz (Omni-Leistungsüberträger)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePowerTransmitterOmni</Key>
+      <Value>Struktur Omni-Leistungsüberträger</Value>
     </RecordThing>
     <RecordThing>
       <Key>Battery_Wireless_cell</Key>
-      <Value/>
+      <Value>Akku-Funkladezelle</Value>
     </RecordThing>
     <RecordThing>
       <Key>Battery_Wireless_cell_Big</Key>
-      <Value/>
+      <Value>Akku-Funkladezelle (groß)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>DynamicLightNetworkTest</Key>
+      <Value>Dynamisches Licht Netzwerktest</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLargeExtendableRadiator</Key>
-      <Value/>
+      <Value>Bausatz (Großer ausfahrbarer Heizkörper)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLargeExtendableRadiator</Key>
+      <Value>Struktur großer ausfahrbarer Heizkörper</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageLargeExtendableRadiator01</Key>
-      <Value/>
+      <Value>Wrack großer ausfahrbarer Heizkörper</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWaterBottleFillerPoweredBottom</Key>
@@ -5030,6 +5122,14 @@
     <RecordThing>
       <Key>StructureWaterBottleFillerPowered</Key>
       <Value>Wasserflaschen-Befüller</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemNitrice</Key>
+      <Value>Eis (Stickstoff)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitPassiveLargeRadiator</Key>
+      <Value>Bausatz (Mittlerer Heizkörper)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemMiningBackPack</Key>
