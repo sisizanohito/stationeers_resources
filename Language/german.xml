@@ -4321,6 +4321,10 @@
       <Value>Kühler (Flüssigkeitsrohre)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemKitDynamicMKIILiquidCanister</Key>
+      <Value>Bausatz (Tragbarer Flüssigkeitstank Mk II)</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>DynamicMKIILiquidCanisterWater</Key>
       <Value>Tragbarer Flüssigkeitstank Mk II (Wasser)</Value>
     </RecordThing>
@@ -4616,8 +4620,16 @@
       <Value>Verdorbene Nahrung</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureShelfMedium</Key>
+      <Value>Regal Mittel</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>PassiveSpeaker</Key>
-      <Value/>
+      <Value>Passiver Lautsprecher</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>DeviceLfoVolume</Key>
+      <Value>Niederfrequenz-Oszillator</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureFridgeBig</Key>
@@ -4625,15 +4637,23 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitFridgeBig</Key>
-      <Value>Dieser Bausatz erstellt ein {THING:StructureLiquidPipeRadiator}.</Value>
+      <Value>Bausatz (Kühlschrank groß)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureFridgeSmall</Key>
       <Value>Kühlschrank (klein)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureRefrigeratedVendingMachine</Key>
+      <Value>Gekühlter Verkaufsautomat</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitVendingMachineRefrigerated</Key>
-      <Value/>
+      <Value>Bausatz (Verkaufsautomat gekühlt)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>SeedBag_Potato</Key>
+      <Value>Kartoffelsamen</Value>
     </RecordThing>
     <RecordThing>
       <Key>SeedBag_Corn</Key>
