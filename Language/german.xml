@@ -3858,7 +3858,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageTransformer1</Key>
-      <Value>Transformator</Value>
+      <Value>Zerstörter Transformator</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageTransformer2</Key>
@@ -4321,16 +4321,20 @@
       <Value>Kühler (Flüssigkeitsrohre)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>DynamicMKIILiquidCanisterWater</Key>
+      <Value>Tragbarer Flüssigkeitstank Mk II (Wasser)</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureLiquidVolumePump</Key>
-      <Value>Flüssigkeits-Volumenpumpe</Value>
+      <Value>Flüssigkeiten Volumenpumpe</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemLiquidPipeVolumePump</Key>
-      <Value>Flüssigkeits-Volumenpumpe (Bausatz)</Value>
+      <Value>Bausatz (Flüssigkeiten Volumenpumpe)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLiquidRegulator</Key>
-      <Value>Flüssigkeits-Druckregler (Bausatz)</Value>
+      <Value>Bausatz (Flüssigkeiten Druckregler)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureBackLiquidPressureRegulator</Key>
