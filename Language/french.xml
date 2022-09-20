@@ -9489,7 +9489,7 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>ScriptCommandJ</Key>
-      <Value>Saute à la ligne [ a ]</Value>
+      <Value>Effectue un saut à la ligne [ a ]</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBdse</Key>
@@ -9497,31 +9497,31 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>ScriptCommandBdns</Key>
-      <Value>Saute à la ligne [ a ] si le dispositif [ d? ] n&apos;est pas configuré</Value>
+      <Value>Effectue un saut à la ligne [ a ] si le dispositif [ d? ] n&apos;est pas configuré</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBlt</Key>
-      <Value>Saute à la ligne [ c ] si [ a ] &lt; [ b ]</Value>
+      <Value>Effectue un saut à la ligne [ c ] si [ a ] &lt; [ b ]</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBgt</Key>
-      <Value>Saute à la ligne c si a &gt; b</Value>
+      <Value>Effectue un saut à la ligne [ c ] si [ a ] &gt;[ b ]</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBle</Key>
-      <Value>Saute à la ligne [ c ] si [ a ] &lt;= [ b ]</Value>
+      <Value>Effectue un saut à la ligne [ c ] si [ a ] &lt;= [ b ]</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBge</Key>
-      <Value>Saute à la ligne [ c ] si [ a ] &gt;= [ b ]</Value>
+      <Value>Effectue un saut à la ligne [ c ] si [ a ] &gt;= [ b ]</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBeq</Key>
-      <Value>Saute à la ligne [ c ] si [ a ] == [ b ]</Value>
+      <Value>Effectue un saut à la ligne  [ c ] si [ a ] == [ b ]</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBne</Key>
-      <Value>Saute à la ligne [ c ] si [ a ] != [ b ]</Value>
+      <Value>Effectue un saut à la ligne [ c ] si [ a ] != [ b ]</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBap</Key>
@@ -9533,27 +9533,27 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>ScriptCommandBltz</Key>
-      <Value>Saute à la ligne [ b ] si [ a ] &lt; 0</Value>
+      <Value>Effectue un saut à la ligne [ b ] si [ a ] &lt; 0</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBgez</Key>
-      <Value>Saute à la ligne [ b ] si [ a ] &gt;= 0</Value>
+      <Value>Effectue un saut à la ligne [ b ] si [ a ] &gt;= 0</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBlez</Key>
-      <Value>Saute à la ligne [ b ] si [ a ] &lt;= 0</Value>
+      <Value>Effectue un saut à la lignee [ b ] si [ a ] &lt;= 0</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBgtz</Key>
-      <Value>Saute à la ligne [ b ] si [ a ] &gt; 0</Value>
+      <Value>Effectue un saut à la ligne [ b ] si [ a ] &gt; 0</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBeqz</Key>
-      <Value>Saute à la ligne [ b ] si [ a ] == 0</Value>
+      <Value>Effectue un saut à la ligne [ b ] si [ a ] == 0</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBnez</Key>
-      <Value>Saute à la ligne [ b ] si [ a ] != 0</Value>
+      <Value>Effectue un saut à la ligne [ b ] si [ a ] != 0</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBapz</Key>
@@ -9573,35 +9573,35 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>ScriptCommandBrdse</Key>
-      <Value>Fait un saut relatif de a lignes si le dispositif est configuré</Value>
+      <Value>Effectue un saut relatif de [ a ] lignes si le dispositif [d?] est configuré</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBrdns</Key>
-      <Value>Fait un saut relatif de a lignes si le dispositif n&apos;est pas configuré</Value>
+      <Value>Effectue un saut relatif de [ a ] lignes si le dispositif [d?] n&apos;est pas configuré</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBrlt</Key>
-      <Value>Fait un saut relatif de c lignes si a &lt; b</Value>
+      <Value>Fait un saut relatif de [ c ] lignes si [ a ] &lt; [ b ]</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBrgt</Key>
-      <Value>Fait un saut relatif de c lignes si a &gt; b</Value>
+      <Value>Fait un saut relatif de [ c ] lignes si [ a ] &gt; [ b ]</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBrle</Key>
-      <Value>Fait un saut relatif de c lignes si a &lt;= b</Value>
+      <Value>Fait un saut relatif de [ c ] lignes si [ a ] &lt;= [ b ]</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBrge</Key>
-      <Value>Fait un saut relatif de c lignes si a &gt;= b</Value>
+      <Value>Fait un saut relatif de [ c ] lignes si [ a ] &gt;= [ b ]</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBreq</Key>
-      <Value>Fait un saut relatif de c lignes si a == b</Value>
+      <Value>Fait un saut relatif de [ c ] lignes si [ a ] == [ b ]</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBrne</Key>
-      <Value>Fait un saut relatif de c lignes si a != b</Value>
+      <Value>Fait un saut relatif de [ c ] lignes si [ a ] != [ b ]</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBrap</Key>
@@ -9613,15 +9613,15 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>ScriptCommandBrltz</Key>
-      <Value>Fait un saut relatif de b lignes si a &lt; 0</Value>
+      <Value>Fait un saut relatif de [ b ] lignes si [ a ] &lt; 0</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBrgez</Key>
-      <Value>Fait un saut relatif de b lignes si a &gt;= 0</Value>
+      <Value>Fait un saut relatif de [ b ] lignes si [ a ] &gt;= 0</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBrlez</Key>
-      <Value>Fait un saut relatif de b lignes si a &lt;= 0</Value>
+      <Value>Fait un saut relatif de [ b ] lignes si [ a ] &lt;= 0</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBrgtz</Key>
@@ -9737,7 +9737,7 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>ScriptCommandFloor</Key>
-      <Value>Stocke l&apos;entier immédiatement inférieur à [ a ] dans le registre [ r? ]</Value>
+      <Value>Stocke le plus proche entier inférieur à [ a ] dans le registre [ r? ]</Value>
     </Record>
     <Record>
       <Key>ScriptCommandMax</Key>

@@ -4565,7 +4565,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitHangerDoor</Key>
-      <Value/>
+      <Value>Bausatz Hängetür</Value>
     </RecordThing>
     <RecordThing>
       <Key>LogicStepSequencer8</Key>
@@ -4717,19 +4717,27 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPlanter</Key>
-      <Value/>
+      <Value>Bausatz (Pflanzenbehälter)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureAutomatedOven</Key>
-      <Value/>
+      <Value>Automatisierter Ofen</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAutomatedOven</Key>
-      <Value/>
+      <Value>Bausatz (Automatisierter Ofen)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCannedMushroom</Key>
+      <Value>Pilzkonserven</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemPowderedeggs</Key>
+      <Value>Pulverisierte Eier</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemPoweredEggs</Key>
-      <Value/>
+      <Value>Pulverisierte Eier</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemFrenchFries</Key>
@@ -4740,48 +4748,152 @@
       <Value>Milchreis in Dosen</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemCannedCondensedMilk</Key>
+      <Value>Kondensmilchkonserven</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCannedEdamame</Key>
+      <Value>Edamamekonserve</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCannedPowderedEggs</Key>
+      <Value>Eierpulverkonserve</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureAdvancedPackagingMachine</Key>
+      <Value>Fortschrittliche Verpackungsmaschine</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitAdvancedPackagingMachine</Key>
-      <Value>Triebwerk (Groß)</Value>
+      <Value>Bausatz (Fortschrittliche Verpackungsmaschine)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCookedSoybean</Key>
+      <Value>Gekochte Sojabohnen</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCookedTomato</Key>
+      <Value>Gekochte Tomate</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCookedCorn</Key>
+      <Value>Gekochter Mais</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCookedRice</Key>
+      <Value>Gekochter Reis</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCookedPumpkin</Key>
+      <Value>Gekochter Kürbis</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCookedMushroom</Key>
+      <Value>Gekochter Pilz</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCookedPowderedEggs</Key>
+      <Value>Pulverisierte Eier</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCookedCondensedMilk</Key>
+      <Value>Kondensmilch</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemTropicalPlant</Key>
+      <Value>Tropische Lilie</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemPeaceLily</Key>
+      <Value>Friedenslilie</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemDecorFern</Key>
+      <Value>Dekorativer Farn</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemFilterFern</Key>
+      <Value>Darga-Farn</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitInsulatedWaterPipe</Key>
-      <Value/>
+      <Value>Isoliertes Wasserrohr Bausatz</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitInsulatedLiquidPipe</Key>
-      <Value/>
+      <Value>Isoliertes Flüssigkeitsrohr (Bausatz)</Value>
     </RecordThing>
     <RecordThing>
       <Key>InsulatedLiquidPipeCorner</Key>
-      <Value/>
+      <Value>Isolierter Flüssigkeitsrohrbogen</Value>
     </RecordThing>
     <RecordThing>
       <Key>InsulatedLiquidPipeCrossJunction</Key>
-      <Value/>
+      <Value>Isolierte Flüssigkeitsrohr-Querverbindung</Value>
     </RecordThing>
     <RecordThing>
       <Key>InsulatedLiquidPipeCrossJunction3</Key>
-      <Value/>
+      <Value>Isolierte Flüssigkeitsrohr-Querverbindung3</Value>
     </RecordThing>
     <RecordThing>
       <Key>InsulatedLiquidPipeCrossJunction4</Key>
-      <Value/>
+      <Value>Isolierte Flüssigkeitsrohr-Querverbindung4</Value>
     </RecordThing>
     <RecordThing>
       <Key>InsulatedLiquidPipeCrossJunction5</Key>
-      <Value/>
+      <Value>Isolierte Flüssigkeitsrohr-Querverbindung5</Value>
     </RecordThing>
     <RecordThing>
       <Key>InsulatedLiquidPipeCrossJunction6</Key>
-      <Value/>
+      <Value>Isolierte Flüssigkeitsrohr-Querverbindung6</Value>
     </RecordThing>
     <RecordThing>
       <Key>InsulatedLiquidPipeJunction</Key>
-      <Value/>
+      <Value>Isolierte Flüssigkeitsrohrverbindung</Value>
     </RecordThing>
     <RecordThing>
       <Key>InsulatedLiquidPipeStraight</Key>
-      <Value/>
+      <Value>Isoliertes Flüssigkeitsrohr gerade</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureInsulatedPipeLiquidCorner</Key>
+      <Value>Isoliertes Flüssigkeitsrohr (Bogen)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureInsulatedPipeLiquidCrossJunction</Key>
+      <Value>Isoliertes Flüssigkeitsrohr (Querverbindung)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureInsulatedPipeLiquidCrossJunction4</Key>
+      <Value>Isoliertes Flüssigkeitsrohr (Querverbindung4)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePipeInsulatedLiquidCrossJunction</Key>
+      <Value>Isoliertes Flüssigkeitsrohr (Querverbindung)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureInsulatedPipeLiquidCrossJunction5</Key>
+      <Value>Isoliertes Flüssigkeitsrohr (Querverbindung5)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureInsulatedPipeLiquidCrossJunction6</Key>
+      <Value>Isoliertes Flüssigkeitsrohr (Querverbindung6)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureInsulatedPipeLiquidStraight</Key>
+      <Value>Isoliertes Flüssigkeitsrohr (gerade)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureInsulatedPipeLiquidTJunction</Key>
+      <Value>Isoliertes Flüssigkeitsrohr (T-Verbindung)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePipeHeater</Key>
+      <Value>Rohrheizung (Gas)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePipeOneWayValve</Key>
+      <Value>Einwegventil (Gas)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureOneWayValve</Key>
