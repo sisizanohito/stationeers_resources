@@ -5636,31 +5636,31 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureChuteValve</Key>
-      <Value>Entrada Tolva</Value>
+      <Value>Tolva de Válvula</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCombustionCentrifuge</Key>
-      <Value>Kit (Centrifugadora)</Value>
+      <Value>Centrífuga de combustión</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureChuteOverflow</Key>
-      <Value>Salida Tolva</Value>
+      <Value>Tolva de Desbordamiento</Value>
     </RecordThing>
     <RecordThing>
       <Key>KitStructureCombustionCentrifuge</Key>
-      <Value>Kit (Centrifugadora)</Value>
+      <Value>Kit (Centrífuga de combustión)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureChuteDigitalValveLeft</Key>
-      <Value>Válvula Digital</Value>
+      <Value>Tolva de Válvula digital a la izquierda</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureChuteDigitalValveRight</Key>
-      <Value>Válvula Digital</Value>
+      <Value>Tolva de Válvula digital a la derecha</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitStandardChute</Key>
-      <Value>Kit Construcción (Tolvas)</Value>
+      <Value>Kit (Conductos motorizados)</Value>
     </RecordThing>
   </Things>
   <Slots>
