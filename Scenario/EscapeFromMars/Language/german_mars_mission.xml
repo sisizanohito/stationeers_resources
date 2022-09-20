@@ -10,7 +10,7 @@
     </Record>
     <Record>
       <Key>EscapeFromMarsDescription</Key>
-      <Value>Mit nur einer kleinen Menge an Vorräten und mit Hilfe deines Verstands musst einen Weg finden auf dem Mars zu Überleben. Wenn alles nach Plan läuft, ist dein letztes Ziel eine Rakete zu bauen und die Atmosphäre vom Mars zu verlassen.</Value>
+      <Value>Mit nur einer kleinen Menge an Vorräten und mit Hilfe deines Verstands musst du einen Weg finden auf dem Mars zu überleben. Wenn alles nach Plan läuft, ist dein finales Ziel eine Rakete zu bauen und die Marsatmosphäre zu verlassen.</Value>
     </Record>
     <!-- Mission Stage: In Case of Emergency -->
     <Record>
@@ -31,7 +31,7 @@
     </Record>
     <Record>
       <Key>MarsTabletStage1</Key>
-      <Value>Notfallplan</Value>
+      <Value>NOTFALLPLAN</Value>
     </Record>
     <Record>
       <Key>MarsTabletStage1Page1</Key>
