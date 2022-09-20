@@ -877,7 +877,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitChute</Key>
-      <Value>Kit Construcción (Tolvas)</Value>
+      <Value>Tolvas (kit)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitComputer</Key>
@@ -5635,6 +5635,10 @@
       <Value>Mineral Sucio</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureChuteFlipFlopSplitter</Key>
+      <Value>Tolva Flip Flop Divisora</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureChuteValve</Key>
       <Value>Tolva de Válvula</Value>
     </RecordThing>
@@ -5657,6 +5661,14 @@
     <RecordThing>
       <Key>StructureChuteDigitalValveRight</Key>
       <Value>Tolva de Válvula digital a la derecha</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureChuteDigitalFlipFlopSplitterLeft</Key>
+      <Value>Tolva Flip Flop Digital Divisora Izquierda</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureChuteDigitalFlipFlopSplitterRight</Key>
+      <Value>Tolva Flip Flop Divisora Derecha</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitStandardChute</Key>
