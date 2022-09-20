@@ -4370,23 +4370,23 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemMKIIMiningDrill</Key>
-      <Value>Bergbaubohrer Mk II</Value>
+      <Value>Mk II Bergbaubohrer</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemMKIIWireCutters</Key>
-      <Value>Drahtschneider Mk II</Value>
+      <Value>Mk II Drahtschneider</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemMKIIWrench</Key>
-      <Value>Schraubenschlüssel Mk II</Value>
+      <Value>Mk II Schraubenschlüssel</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemMKIIDuctTape</Key>
-      <Value>Klebeband Mk II</Value>
+      <Value>Mk II Klebeband</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitWaterBottleFiller</Key>
-      <Value/>
+      <Value>Bausatz (Wasserflaschenfüller)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidTankBig</Key>
@@ -4398,19 +4398,19 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLiquidTank</Key>
-      <Value>Kit (Flüssigkeitstank)</Value>
+      <Value>Bausatz (Flüssigkeitstank)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLiquidTankInsulated</Key>
-      <Value>Kit (Isolierter Flüssigkeitstank)</Value>
+      <Value>Bausatz (Isolierter Flüssigkeitstank)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidTankBigInsulated</Key>
-      <Value/>
+      <Value>Isolierter Flüssigkeitstank groß</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidTankSmallInsulated</Key>
-      <Value/>
+      <Value>Isolierter Flüssigkeitstank klein</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureRocketModuleBattery</Key>
