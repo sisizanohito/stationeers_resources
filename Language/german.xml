@@ -4904,16 +4904,60 @@
       <Value>Rohrheizung (Gas)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemPipeHeater</Key>
+      <Value>Rohrheizung Bausatz (Gas)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWaterPipeHeater</Key>
+      <Value>Rohrheizung Bausatz (Flüssigkeit)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemLiquidPipeHeater</Key>
+      <Value>Rohrheizung Bausatz (Flüssigkeit)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLiquidPipeHeater</Key>
+      <Value>Rohrheizung (Flüssigkeit)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureTurboVolumePump</Key>
+      <Value>Turbo-Volumenpumpe (Gas)</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitTurboVolumePump</Key>
-      <Value>Triebwerk (Groß)</Value>
+      <Value>Bausatz (Turbo-Volumenpumpe - Gas)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLiquidTurboVolumePump</Key>
+      <Value>Turbo-Volumenpumpe (Flüssigkeit)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLiquidTurboVolumePump</Key>
-      <Value>Dieser Bausatz erstellt ein {THING:StructureLiquidPipeRadiator}.</Value>
+      <Value>Bausatz (Turbo-Volumenpumpe - Flüssigkeit)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemMkIIToolbelt</Key>
+      <Value>Werkzeuggürtel MK II</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemMiningBeltMKII</Key>
+      <Value>Bergbaugürtel MK II</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLiquidPipeOneWayValve</Key>
+      <Value>Einwegventil (Flüssigkeit)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureWindowShutter</Key>
+      <Value>Fensterblende</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitWindowShutter</Key>
-      <Value>Mit diesem Bausatz stellst du {THING:StructureWindTurbine} her.</Value>
+      <Value>Bausatz (Fensterblende)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemExplosiveBasic</Key>
+      <Value>Gegenstand Explosiv Einfach</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitHorizontalAutoMiner</Key>
