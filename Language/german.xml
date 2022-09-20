@@ -4960,6 +4960,26 @@
       <Value>Gegenstand Explosiv Einfach</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemMiningCharge</Key>
+      <Value>Bergbau-Sprengladung</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureReinforcedCompositeWindow</Key>
+      <Value>Verstärktes Fenster (Verbundwerkstoff)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureReinforcedCompositeWindowSteel</Key>
+      <Value>Verstärktes Fenster (Verbundstahl)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureReinforcedWallPaddedWindow</Key>
+      <Value>Verstärktes Fenster (gepolstert)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureReinforcedWallPaddedWindowThin</Key>
+      <Value>Verstärktes Fenster (dünn)</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitHorizontalAutoMiner</Key>
       <Value>Triebwerk (Groß)</Value>
     </RecordThing>
