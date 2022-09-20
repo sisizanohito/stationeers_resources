@@ -4002,35 +4002,35 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageLight1</Key>
-      <Value>Trümmer</Value>
+      <Value>Zerstörte Lampe</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageLight2</Key>
-      <Value>Trümmer</Value>
+      <Value>Zerstörte Lampe</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageLightLongAngled1</Key>
-      <Value>Wandleuchte (lang abgewinkelt)</Value>
+      <Value>Zerstörte Lampe Lang Winkel</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageLightLongAngled2</Key>
-      <Value>Wandleuchte (lang abgewinkelt)</Value>
+      <Value>Zerstörte Lampe Lang Winkel</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageLightLongWide1</Key>
-      <Value>Wandleuchte (lang breit)</Value>
+      <Value>Zerstörte Lampe Lang Breit</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageLightLongWide2</Key>
-      <Value>Wandleuchte (lang breit)</Value>
+      <Value>Zerstörte Lampe Lang Breit</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageWallLightBatteryPowered1</Key>
-      <Value>Wandleuchte (Batterie)</Value>
+      <Value>Zerstörte Wandleuchte Batteriebetrieben</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageWallLightBatteryPowered2</Key>
-      <Value>Wandleuchte (Batterie)</Value>
+      <Value>Zerstörte Wandleuchte Batteriebetrieben</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageRecycler1</Key>
@@ -4042,47 +4042,51 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageRecycler3</Key>
-      <Value>Verwerter</Value>
+      <Value>Zerstörter Recycler</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageRecycler4</Key>
-      <Value>Verwerter</Value>
+      <Value>Zerstörter Recycler</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageRecycler5</Key>
-      <Value>Verwerter</Value>
+      <Value>Zerstörter Recycler</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageRecycler6</Key>
-      <Value>Verwerter</Value>
+      <Value>Zerstörter Recycler</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageFlashingLight1</Key>
-      <Value>Drehlicht</Value>
+      <Value>Zerstörtes Drehlicht</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageFlashingLight2</Key>
-      <Value>Drehlicht</Value>
+      <Value>Zerstörtes Drehlicht</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageActiveVent1</Key>
-      <Value>Aktive Belüftung</Value>
+      <Value>Zerstörte Aktive Belüftung</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckagePassiveVent1</Key>
-      <Value>Passive Belüftung</Value>
+      <Value>Zerstörte Passive Belüftung</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageCoalGenerator1</Key>
-      <Value>Debug Wrack Konstruktor</Value>
+      <Value>Zerstörter Kohlegenerator</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageCoalGenerator2</Key>
-      <Value>Debug Wrack Konstruktor</Value>
+      <Value>Zerstörter Kohlegenerator</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageCoalGenerator3</Key>
-      <Value>Debug Wrack Konstruktor</Value>
+      <Value>Zerstörter Kohlegenerator</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageH2Combustor1</Key>
+      <Value>Zerstörte H2 Brennkammer</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageHydroponicsAutomatic1</Key>
@@ -4093,48 +4097,216 @@
       <Value>Hydrokultur Station</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemWreckageSDBSilo1</Key>
-      <Value>Portables Solarmodul</Value>
+      <Key>ItemWreckageHydroponicsAutomatic3</Key>
+      <Value>Zerstörte Hydroponik Automatik</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemWreckageSDBSilo2</Key>
-      <Value>Portables Solarmodul</Value>
+      <Key>ItemWreckageHydroponicsStation1</Key>
+      <Value>Zerstörte Hydroponik Station</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageHydroponicsStation2</Key>
+      <Value>Zerstörte Hydroponik Station</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSDBSilo3</Key>
-      <Value>Portables Solarmodul</Value>
+      <Value>Zerstörtes SDB Lager</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSDBSilo4</Key>
-      <Value>Portables Solarmodul</Value>
+      <Value>Zerstörtes SDB Lager</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageSDBSilo5</Key>
+      <Value>Zerstörtes SDB Lager</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageShuttleLandingPad1</Key>
-      <Value>Verkaufsautomat</Value>
+      <Value>Zerstörter Shuttle Landeplatz</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageShuttleLandingPad2</Key>
-      <Value>Verkaufsautomat</Value>
+      <Value>Zerstörter Shuttle Landeplatz</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageShuttleLandingPad3</Key>
-      <Value>Verkaufsautomat</Value>
+      <Value>Zerstörter Shuttle Landeplatz</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageShuttleLandingPad4</Key>
-      <Value>Verkaufsautomat</Value>
+      <Value>Zerstörter Shuttle Landeplatz</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageShuttleLandingPad5</Key>
-      <Value>Verkaufsautomat</Value>
+      <Value>Zerstörter Shuttle Landeplatz</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageBlastDoor1</Key>
+      <Value>Zerstörte Explosionsschutztür</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageBlastDoor2</Key>
+      <Value>Zerstörte Explosionsschutztür</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageCompositeDoor1</Key>
+      <Value>Zerstörte Verbundstoff Tür</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageCompositeDoor2</Key>
+      <Value>Zerstörte Verbundstoff Tür</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageCompositeDoor3</Key>
+      <Value>Zerstörte Verbundstoff Tür</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageAirlock1</Key>
+      <Value>Zerstörte Luftschleuse</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageAirlock2</Key>
-      <Value>Lichtbogenofen</Value>
+      <Value>Zerstörte Luftschleuse</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageCompositeDoorGlass1</Key>
+      <Value>Zerstörte Verbundstoff Glastür</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageCompositeDoorGlass2</Key>
-      <Value>Verbundtür</Value>
+      <Value>Zerstörte Verbundstoff Glastür</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageElevatorShaftIndustrial1</Key>
+      <Value>Zerstörter Aufzug Schacht Industriell</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageElevatorShaftIndustrial2</Key>
+      <Value>Zerstörter Aufzug Schacht Industriell</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageElevatorShaftIndustrial3</Key>
+      <Value>Zerstörter Aufzug Schacht Vorne</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageElevatorLevelFront1</Key>
+      <Value>Zerstörte Aufzug Etage Vorne</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageElevatorLevelFront2</Key>
+      <Value>Zerstörte Aufzug Etage Vorne</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitHarvie</Key>
+      <Value>Bausatz (Harvie)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>SpecialBlocks</Key>
+      <Value>Spezielle Blöcke</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageHydroponicsTray1</Key>
+      <Value>Zerstörter Hydroponik Behälter</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>DynamicGasTankAdvanced</Key>
+      <Value>Gastank Mk II</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitDynamicGasTankAdvanced</Key>
+      <Value>Bausatz (Tragbarer Gastank Mk II)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePlinth</Key>
+      <Value>Sockel</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureSpawnPoint</Key>
+      <Value>Spawn-Punkt</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>RespawnPoint</Key>
+      <Value>Respawn-Punkt</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>RespawnPointWallMounted</Key>
+      <Value>Respawn-Punkt (Montiert)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitRespawnPointWallMounted</Key>
+      <Value>Bausatz (Respawn)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitFlagODA</Key>
+      <Value>Kit (ODA-Markierung)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>Flag_ODA_10m</Key>
+      <Value>Markierung (ODA 10m)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>Flag_ODA_8m</Key>
+      <Value>Markierung (ODA 8m)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>Flag_ODA_6m</Key>
+      <Value>Markierung (ODA 6m)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>Flag_ODA_4m</Key>
+      <Value>Markierung (ODA 4m)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageStructureRTG1</Key>
+      <Value>Zerstörte Struktur RTG</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageTurbineGenerator1</Key>
+      <Value>Zerstörter Turbinengenerator</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageTurbineGenerator2</Key>
+      <Value>Zerstörter Turbinengenerator</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageTurbineGenerator3</Key>
+      <Value>Zerstörter Turbinengenerator</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageAirConditioner1</Key>
+      <Value>Zerstörte Klimaanlage</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageAirConditioner2</Key>
+      <Value>Zerstörte Klimaanlage</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageWallCooler1</Key>
+      <Value>Zerstörter Wandkühler</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageWallCooler2</Key>
+      <Value>Zerstörter Wandkühler</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitRoverMKI</Key>
+      <Value>Bausatz (Rover Mk I)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureGrowLight</Key>
+      <Value>UV-Lampe</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitGrowLight</Key>
+      <Value>Bausatz (UV-Lampe)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureWeatherStation</Key>
+      <Value>Wetterstation</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitWeatherStation</Key>
+      <Value>Bausatz (Wetterstation)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitUprightWindTurbine</Key>
@@ -4143,6 +4315,26 @@
     <RecordThing>
       <Key>StructureUprightWindTurbine</Key>
       <Value>H-Darrieus-Windkraftanlage</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>CrateMkII</Key>
+      <Value>Kiste Mk II</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitCrateMkII</Key>
+      <Value>Bausatz (Kiste Mk II)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemEmptyCan</Key>
+      <Value>Leere Dose</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemPumpkinSoup</Key>
+      <Value>Kürbissuppe</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCornSoup</Key>
+      <Value>Maissuppe</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemBreadLoaf</Key>
@@ -4317,8 +4509,16 @@
       <Value>Verstärkter Portabler Flüssigkeitstank (Wasser)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureLiquidPipeRadiator</Key>
+      <Value>Flüssigkeitsrohr-Konvektionsstrahler</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemPipeLiquidRadiator</Key>
-      <Value>Kühler (Flüssigkeitsrohre)</Value>
+      <Value>Bausatz (Flüssigkeitskühler)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>DynamicMKIILiquidCanisterEmpty</Key>
+      <Value>Tragbarer Flüssigkeitstank Mk II</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitDynamicMKIILiquidCanister</Key>
