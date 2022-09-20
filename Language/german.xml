@@ -4525,11 +4525,27 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemLiquidPipeAnalyzer</Key>
-      <Value>Bausatz (Flüssigkeitsrohranalysator)</Value>
+      <Value>Bausatz (Flüssigkeitsrohr Messeinrichtung)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidPipeAnalyzer</Key>
-      <Value/>
+      <Value>Flüssigkeitsrohr Messeinrichtung</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitModularRocketGasMining</Key>
+      <Value>Bausatz (Automatisiertes Raketen-Gaskollektorenmodul)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureModularRocketGasMining</Key>
+      <Value>Automatisiertes Raketen-Gaskollektorenmodul</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitHeatExchanger</Key>
+      <Value>Bausatz Wärmetauscher</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureHeatExchangerLiquidtoLiquid</Key>
+      <Value>Wärmetauscher - Flüssigkeit</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitHangerDoor</Key>
