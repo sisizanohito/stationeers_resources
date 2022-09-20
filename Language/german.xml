@@ -4548,6 +4548,10 @@
       <Value>Wärmetauscher - Flüssigkeit</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureHeatExchangerGastoGas</Key>
+      <Value>Wärmetauscher - Gas</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitHangerDoor</Key>
       <Value/>
     </RecordThing>
