@@ -4338,31 +4338,35 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureBackLiquidPressureRegulator</Key>
-      <Value/>
+      <Value>Flüssigkeiten Gegendruckregler</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidPressureRegulator</Key>
-      <Value>Flüssigkeits-Druckregler</Value>
+      <Value>Flüssigkeiten Druckregler</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemLiquidCanisterSmart</Key>
-      <Value>Flüssigkeitsflasche (Intelligent)</Value>
+      <Value>Flüssigkeiten Druckflasche (Intelligent)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemMKIIScrewdriver</Key>
-      <Value>Schraubendreher MKII</Value>
+      <Value>Mk II Schraubendreher</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemMKIIAngleGrinder</Key>
-      <Value>Winkelschleifer MKII</Value>
+      <Value>MKII Winkelschleifer</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemMKIICrowbar</Key>
-      <Value>Stemmeisen MKII</Value>
+      <Value>MKII Brechstange</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemMKIIArcWelder</Key>
+      <Value>Mk II Lichtbogenschweißgerät</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemMKIIDrill</Key>
-      <Value>Bohrmaschine Mk II</Value>
+      <Value>Mk II Bohrmaschine</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemMKIIMiningDrill</Key>
