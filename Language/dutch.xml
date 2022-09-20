@@ -672,6 +672,14 @@
     <RecordThing>
       <Key>StructureRocketModuleMiningJunk</Key>
     </RecordThing>
+    <RecordThing>
+      <Key>ItemKitDeepMiner</Key>
+      <Value>Gereedschap (Handel Automaat)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitStandardChute</Key>
+      <Value>Gereedschap (Verplaatsbare Luchtreiniger)</Value>
+    </RecordThing>
   </Things>
   <Slots/>
   <Interactables>

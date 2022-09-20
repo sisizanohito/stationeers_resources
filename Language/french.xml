@@ -5553,10 +5553,6 @@
       <Value>Radiateur à convection intermédiaire</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureNitrolyzer</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemMiningBackPack</Key>
       <Value/>
     </RecordThing>
@@ -5601,28 +5597,36 @@
       <Value>Kit (radiateur pour tuyau de liquide)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureCryoTubeVertical</Key>
-      <Value>Cryotube</Value>
+      <Key>ItemKitDeepMiner</Key>
+      <Value>Kit (couchette)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureSleeperVertical</Key>
-      <Value>Couchette</Value>
+      <Key>StructureChuteValve</Key>
+      <Value>Gaine (Entrée)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureSleeperLeft</Key>
-      <Value>Couchette</Value>
+      <Key>StructureCombustionCentrifuge</Key>
+      <Value>Kit (Centrifugeuse)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureSleeperRight</Key>
-      <Value>Couchette</Value>
+      <Key>StructureChuteOverflow</Key>
+      <Value>Gaine (Sortie)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureProximitySensor</Key>
-      <Value>Capteur de Mouvement</Value>
+      <Key>KitStructureCombustionCentrifuge</Key>
+      <Value>Kit (Centrifugeuse)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureOccupancySensor</Key>
-      <Value>Capteur de Gaz</Value>
+      <Key>StructureChuteDigitalValveLeft</Key>
+      <Value>Électrovanne à gaz</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureChuteDigitalValveRight</Key>
+      <Value>Électrovanne à gaz</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitStandardChute</Key>
+      <Value>Kit (Gaines)</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -6333,6 +6337,14 @@
     <Record>
       <Key>RespawnConditionEasy</Key>
       <Value>Facile</Value>
+    </Record>
+    <Record>
+      <Key>Rpm</Key>
+      <Value>Bpm</Value>
+    </Record>
+    <Record>
+      <Key>Stress</Key>
+      <Value>Adresse</Value>
     </Record>
     <Record>
       <Key>SlotKey</Key>
@@ -10822,14 +10834,6 @@ Remarque : l’eau était auparavant traitée comme un gaz, mais un nouveau syst
     <Record>
       <Key>StartNewGameButton</Key>
       <Value>Démarrer la partie</Value>
-    </Record>
-    <Record>
-      <Key>ShadowMode</Key>
-      <Value>Ombres</Value>
-    </Record>
-    <Record>
-      <Key>ShadowCascades</Key>
-      <Value>Ombres</Value>
     </Record>
   </Interface>
   <Colors>

@@ -4888,39 +4888,11 @@
       <Value/>
     </RecordThing>
     <RecordThing>
-      <Key>ItemKitPassiveLargeRadiator</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemKitPassiveLargeRadiatorGas</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemKitPassiveLargeRadiatorLiquid</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureNitrolyzer</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemMiningBackPack</Key>
       <Value/>
     </RecordThing>
     <RecordThing>
       <Key>ItemHardMiningBackPack</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructurePipeRadiatorFlat</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructurePipeRadiatorFlatLiquid</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureMediumRadiator</Key>
       <Value/>
     </RecordThing>
     <RecordThing>
@@ -4932,28 +4904,36 @@
       <Value/>
     </RecordThing>
     <RecordThing>
-      <Key>StructureCryoTubeVertical</Key>
-      <Value>CryoTube</Value>
+      <Key>ItemKitDeepMiner</Key>
+      <Value>Készlet (Alvóhely)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureSleeperVertical</Key>
-      <Value>Alvóhely</Value>
+      <Key>StructureChuteValve</Key>
+      <Value>Csúszda (Beadó)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureSleeperLeft</Key>
-      <Value>Alvóhely</Value>
+      <Key>StructureCombustionCentrifuge</Key>
+      <Value>Készlet (Centrifuga)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureSleeperRight</Key>
-      <Value>Alvóhely</Value>
+      <Key>StructureChuteOverflow</Key>
+      <Value>Csúszda (Kiadó)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureProximitySensor</Key>
-      <Value>Mozgásérzékelő</Value>
+      <Key>KitStructureCombustionCentrifuge</Key>
+      <Value>Készlet (Centrifuga)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureOccupancySensor</Key>
-      <Value>Gázérzékelő</Value>
+      <Key>StructureChuteDigitalValveLeft</Key>
+      <Value>Digitális csap</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureChuteDigitalValveRight</Key>
+      <Value>Digitális csap</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitStandardChute</Key>
+      <Value>Készlet (Csúszda)</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -5540,6 +5520,10 @@
     <Record>
       <Key>RespawnConditionStationeer</Key>
       <Value>Stationeers</Value>
+    </Record>
+    <Record>
+      <Key>Stress</Key>
+      <Value>Cím</Value>
     </Record>
     <Record>
       <Key>SoonTM</Key>
@@ -9205,14 +9189,6 @@ Leginkább mérnöki, katonai vagy űripari, szoftverfejlesztői vagy bányásza
     <Record>
       <Key>StartNewGameButton</Key>
       <Value>Vissza a játékba</Value>
-    </Record>
-    <Record>
-      <Key>ShadowMode</Key>
-      <Value>Árnyékok</Value>
-    </Record>
-    <Record>
-      <Key>ShadowCascades</Key>
-      <Value>Árnyékok</Value>
     </Record>
   </Interface>
   <Colors>

@@ -3185,28 +3185,36 @@
       <Value>로켓 엔진</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureCryoTubeVertical</Key>
-      <Value>동면 튜브</Value>
+      <Key>ItemKitDeepMiner</Key>
+      <Value>조립킷 (수면장치)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureSleeperVertical</Key>
-      <Value>수면장치</Value>
+      <Key>StructureChuteValve</Key>
+      <Value>물류관 흡입구</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureSleeperLeft</Key>
-      <Value>수면장치</Value>
+      <Key>StructureCombustionCentrifuge</Key>
+      <Value>조립킷 (원심분리기)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureSleeperRight</Key>
-      <Value>수면장치</Value>
+      <Key>StructureChuteOverflow</Key>
+      <Value>물류관 배출구</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureProximitySensor</Key>
-      <Value>동작 감지기</Value>
+      <Key>KitStructureCombustionCentrifuge</Key>
+      <Value>조립킷 (원심분리기)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureOccupancySensor</Key>
-      <Value>가스 감지기</Value>
+      <Key>StructureChuteDigitalValveLeft</Key>
+      <Value>디지털 밸브</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureChuteDigitalValveRight</Key>
+      <Value>디지털 밸브</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitStandardChute</Key>
+      <Value>건축물 조립킷 (물류관)</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -3865,6 +3873,10 @@
     <Record>
       <Key>RespawnConditionStationeer</Key>
       <Value>스테이셔니어</Value>
+    </Record>
+    <Record>
+      <Key>Stress</Key>
+      <Value>주소</Value>
     </Record>
     <Record>
       <Key>SlotKey</Key>
@@ -5702,14 +5714,6 @@ Just don&apos;t be sad when you blow yourself into tiny, tiny little pieces or g
     <Record>
       <Key>StartNewGameButton</Key>
       <Value>게임 종료</Value>
-    </Record>
-    <Record>
-      <Key>ShadowMode</Key>
-      <Value>그림자</Value>
-    </Record>
-    <Record>
-      <Key>ShadowCascades</Key>
-      <Value>그림자</Value>
     </Record>
   </Interface>
   <Colors>

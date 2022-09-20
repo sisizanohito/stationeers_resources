@@ -4295,28 +4295,36 @@
       <Value>Motor de Foguete</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureCryoTubeVertical</Key>
-      <Value>Tubo Criogénico</Value>
+      <Key>ItemKitDeepMiner</Key>
+      <Value>Kit (Câmara de Stasis)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureSleeperVertical</Key>
-      <Value>Câmara de Stasis</Value>
+      <Key>StructureChuteValve</Key>
+      <Value>Conduta de Entrada</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureSleeperLeft</Key>
-      <Value>Câmara de Stasis</Value>
+      <Key>StructureCombustionCentrifuge</Key>
+      <Value>Kit (Centrifugadora)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureSleeperRight</Key>
-      <Value>Câmara de Stasis</Value>
+      <Key>StructureChuteOverflow</Key>
+      <Value>Conduta de Saída</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureProximitySensor</Key>
-      <Value>Sensor de Movimento</Value>
+      <Key>KitStructureCombustionCentrifuge</Key>
+      <Value>Kit (Centrifugadora)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureOccupancySensor</Key>
-      <Value>Sensor de Gás</Value>
+      <Key>StructureChuteDigitalValveLeft</Key>
+      <Value>Válvula Digital</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureChuteDigitalValveRight</Key>
+      <Value>Válvula Digital</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitStandardChute</Key>
+      <Value>Kit (Condutas)</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -5027,6 +5035,10 @@
     <Record>
       <Key>RespawnConditionStationeer</Key>
       <Value>Sair do Stationeers</Value>
+    </Record>
+    <Record>
+      <Key>Stress</Key>
+      <Value>Endereço</Value>
     </Record>
     <Record>
       <Key>MainMenuContinue</Key>
@@ -8614,14 +8626,6 @@
     <Record>
       <Key>StartNewGameButton</Key>
       <Value>Regressar ao Jogo</Value>
-    </Record>
-    <Record>
-      <Key>ShadowMode</Key>
-      <Value>Sombras</Value>
-    </Record>
-    <Record>
-      <Key>ShadowCascades</Key>
-      <Value>Sombras</Value>
     </Record>
   </Interface>
   <Colors>

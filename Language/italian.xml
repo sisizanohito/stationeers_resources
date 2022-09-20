@@ -4045,28 +4045,36 @@
       <Value>Motore a razzo</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureCryoTubeVertical</Key>
-      <Value>Vasca criogenica</Value>
+      <Key>ItemKitDeepMiner</Key>
+      <Value>Kit (Cuccetta)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureSleeperVertical</Key>
-      <Value>Cuccetta</Value>
+      <Key>StructureChuteValve</Key>
+      <Value>Entrata conduttura scarico</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureSleeperLeft</Key>
-      <Value>Cuccetta</Value>
+      <Key>StructureCombustionCentrifuge</Key>
+      <Value>Kit (Centrifuga)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureSleeperRight</Key>
-      <Value>Cuccetta</Value>
+      <Key>StructureChuteOverflow</Key>
+      <Value>Uscita conduttura scarico</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureProximitySensor</Key>
-      <Value>Sensore di movimento</Value>
+      <Key>KitStructureCombustionCentrifuge</Key>
+      <Value>Kit (Centrifuga)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureOccupancySensor</Key>
-      <Value>Sensore per gas</Value>
+      <Key>StructureChuteDigitalValveLeft</Key>
+      <Value>Valvola digitale</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureChuteDigitalValveRight</Key>
+      <Value>Valvola digitale</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitStandardChute</Key>
+      <Value>Kit (Conduttura scarico)</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -4645,6 +4653,10 @@
     <Record>
       <Key>RespawnConditionStationeer</Key>
       <Value>Esci da Stationeers</Value>
+    </Record>
+    <Record>
+      <Key>Stress</Key>
+      <Value>Indirizzo</Value>
     </Record>
     <Record>
       <Key>MainMenuContinue</Key>
@@ -7276,14 +7288,6 @@ Non essere triste quando ti farai saltare in aria in piccoli, piccolissimi pezzi
     <Record>
       <Key>StartNewGameButton</Key>
       <Value>Torna al Gioco</Value>
-    </Record>
-    <Record>
-      <Key>ShadowMode</Key>
-      <Value>Ombre</Value>
-    </Record>
-    <Record>
-      <Key>ShadowCascades</Key>
-      <Value>Ombre</Value>
     </Record>
   </Interface>
   <Colors>

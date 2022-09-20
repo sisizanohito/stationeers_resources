@@ -4613,22 +4613,6 @@
       <Value/>
     </RecordThing>
     <RecordThing>
-      <Key>ItemKitPassiveLargeRadiator</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemKitPassiveLargeRadiatorGas</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemKitPassiveLargeRadiatorLiquid</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureNitrolyzer</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemMiningBackPack</Key>
       <Value/>
     </RecordThing>
@@ -4637,48 +4621,40 @@
       <Value/>
     </RecordThing>
     <RecordThing>
-      <Key>StructurePipeRadiatorFlat</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructurePipeRadiatorFlatLiquid</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureMediumRadiator</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemKitPipeRadiator</Key>
       <Value/>
     </RecordThing>
     <RecordThing>
-      <Key>ItemKitPipeRadiatorLiquid</Key>
-      <Value/>
+      <Key>ItemKitDeepMiner</Key>
+      <Value>キット (睡眠装置)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureCryoTubeVertical</Key>
-      <Value>クリオチューブ</Value>
+      <Key>StructureChuteValve</Key>
+      <Value>シュート入口</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureSleeperVertical</Key>
-      <Value>睡眠装置</Value>
+      <Key>StructureCombustionCentrifuge</Key>
+      <Value>キット (遠心分離機)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureSleeperLeft</Key>
-      <Value>睡眠装置</Value>
+      <Key>StructureChuteOverflow</Key>
+      <Value>シュート出口</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureSleeperRight</Key>
-      <Value>睡眠装置</Value>
+      <Key>KitStructureCombustionCentrifuge</Key>
+      <Value>キット (遠心分離機)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureProximitySensor</Key>
-      <Value>動体センサー</Value>
+      <Key>StructureChuteDigitalValveLeft</Key>
+      <Value>デジタル弁</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureOccupancySensor</Key>
-      <Value>気体センサー</Value>
+      <Key>StructureChuteDigitalValveRight</Key>
+      <Value>デジタル弁</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitStandardChute</Key>
+      <Value>キット (シュート)</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -5401,6 +5377,10 @@
     <Record>
       <Key>RespawnConditionStationeer</Key>
       <Value>Stationeers</Value>
+    </Record>
+    <Record>
+      <Key>Stress</Key>
+      <Value>アドレス</Value>
     </Record>
     <Record>
       <Key>SlotKey</Key>
@@ -7565,14 +7545,6 @@
     <Record>
       <Key>StartNewGameButton</Key>
       <Value>ゲームに戻る</Value>
-    </Record>
-    <Record>
-      <Key>ShadowMode</Key>
-      <Value>影</Value>
-    </Record>
-    <Record>
-      <Key>ShadowCascades</Key>
-      <Value>影</Value>
     </Record>
   </Interface>
   <Colors>

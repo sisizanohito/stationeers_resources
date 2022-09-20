@@ -5768,10 +5768,6 @@ Rychlost získávání nebo ztráty tepla závisí na dané kapalině. Přidán�
       <Value>Logická brána</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureNitrolyzer</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemMiningBackPack</Key>
       <Value/>
     </RecordThing>
@@ -5784,26 +5780,6 @@ Rychlost získávání nebo ztráty tepla závisí na dané kapalině. Přidán�
       <Value>H2 spalovač</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructurePipeRadiatorFlat</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructurePipeRadiatorFlatLiquid</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureMediumRadiator</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureMediumRadiatorLiquid</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureMediumConvectionRadiatorLiquid</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemKitPipeRadiator</Key>
       <Value/>
     </RecordThing>
@@ -5812,28 +5788,36 @@ Rychlost získávání nebo ztráty tepla závisí na dané kapalině. Přidán�
       <Value/>
     </RecordThing>
     <RecordThing>
-      <Key>StructureCryoTubeVertical</Key>
-      <Value>Kryokapsle</Value>
+      <Key>ItemKitDeepMiner</Key>
+      <Value>Spáč (sada)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureSleeperVertical</Key>
-      <Value>Spáč</Value>
+      <Key>StructureChuteValve</Key>
+      <Value>Dopravník (přívod)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureSleeperLeft</Key>
-      <Value>Spáč</Value>
+      <Key>StructureCombustionCentrifuge</Key>
+      <Value>Odstředivka (sada)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureSleeperRight</Key>
-      <Value>Spáč</Value>
+      <Key>StructureChuteOverflow</Key>
+      <Value>Dopravník (vývod)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureProximitySensor</Key>
-      <Value>Snímač pohybu</Value>
+      <Key>KitStructureCombustionCentrifuge</Key>
+      <Value>Odstředivka (sada)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureOccupancySensor</Key>
-      <Value>Senzor plynu</Value>
+      <Key>StructureChuteDigitalValveLeft</Key>
+      <Value>Digitální ventil</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureChuteDigitalValveRight</Key>
+      <Value>Digitální ventil</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitStandardChute</Key>
+      <Value>Dopravník (sada)</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -6544,6 +6528,14 @@ Rychlost získávání nebo ztráty tepla závisí na dané kapalině. Přidán�
     <Record>
       <Key>RespawnConditionStationeer</Key>
       <Value>Stationeers</Value>
+    </Record>
+    <Record>
+      <Key>Rpm</Key>
+      <Value>Bpm</Value>
+    </Record>
+    <Record>
+      <Key>Stress</Key>
+      <Value>Adresa</Value>
     </Record>
     <Record>
       <Key>SoonTM</Key>
@@ -11264,14 +11256,6 @@ Poznámka: S vodou se dříve zacházelo jako s plynem, ale nyní se vyvíjí no
     <Record>
       <Key>StationpediaThermalConductivityRadiation</Key>
       <Value>Tepelné záření:</Value>
-    </Record>
-    <Record>
-      <Key>ShadowMode</Key>
-      <Value>Stíny</Value>
-    </Record>
-    <Record>
-      <Key>ShadowCascades</Key>
-      <Value>Stíny</Value>
     </Record>
   </Interface>
   <Colors>

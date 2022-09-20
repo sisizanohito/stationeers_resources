@@ -5433,39 +5433,11 @@
       <Value/>
     </RecordThing>
     <RecordThing>
-      <Key>ItemKitPassiveLargeRadiator</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemKitPassiveLargeRadiatorGas</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemKitPassiveLargeRadiatorLiquid</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureNitrolyzer</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemMiningBackPack</Key>
       <Value/>
     </RecordThing>
     <RecordThing>
       <Key>ItemHardMiningBackPack</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructurePipeRadiatorFlat</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructurePipeRadiatorFlatLiquid</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureMediumRadiator</Key>
       <Value/>
     </RecordThing>
     <RecordThing>
@@ -5477,28 +5449,36 @@
       <Value/>
     </RecordThing>
     <RecordThing>
-      <Key>StructureCryoTubeVertical</Key>
-      <Value>Криокапсула</Value>
+      <Key>ItemKitDeepMiner</Key>
+      <Value>Набор (Слипер)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureSleeperVertical</Key>
-      <Value>Слипер</Value>
+      <Key>StructureChuteValve</Key>
+      <Value>Транспортная труба (приёмник)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureSleeperLeft</Key>
-      <Value>Слипер</Value>
+      <Key>StructureCombustionCentrifuge</Key>
+      <Value>Набор (Центрифуга)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureSleeperRight</Key>
-      <Value>Слипер</Value>
+      <Key>StructureChuteOverflow</Key>
+      <Value>Транспортная труба (раздатчик)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureProximitySensor</Key>
-      <Value>Датчик движения</Value>
+      <Key>KitStructureCombustionCentrifuge</Key>
+      <Value>Набор (Центрифуга)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureOccupancySensor</Key>
-      <Value>Газовый датчик</Value>
+      <Key>StructureChuteDigitalValveLeft</Key>
+      <Value>Электровентиль</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureChuteDigitalValveRight</Key>
+      <Value>Электровентиль</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitStandardChute</Key>
+      <Value>Набор (Транспортная труба)</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -6213,6 +6193,10 @@
     <Record>
       <Key>RespawnConditionStationeer</Key>
       <Value>Станционеры</Value>
+    </Record>
+    <Record>
+      <Key>Stress</Key>
+      <Value>Адрес</Value>
     </Record>
     <Record>
       <Key>SlotKey</Key>
@@ -10740,14 +10724,6 @@
     <Record>
       <Key>StartNewGameButton</Key>
       <Value>Вернуться в игру</Value>
-    </Record>
-    <Record>
-      <Key>ShadowMode</Key>
-      <Value>Тени</Value>
-    </Record>
-    <Record>
-      <Key>ShadowCascades</Key>
-      <Value>Тени</Value>
     </Record>
   </Interface>
   <Colors>

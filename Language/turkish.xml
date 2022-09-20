@@ -4979,22 +4979,6 @@
       <Value/>
     </RecordThing>
     <RecordThing>
-      <Key>ItemKitPassiveLargeRadiator</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemKitPassiveLargeRadiatorGas</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemKitPassiveLargeRadiatorLiquid</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureNitrolyzer</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemMiningBackPack</Key>
       <Value/>
     </RecordThing>
@@ -5003,48 +4987,40 @@
       <Value/>
     </RecordThing>
     <RecordThing>
-      <Key>StructurePipeRadiatorFlat</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructurePipeRadiatorFlatLiquid</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureMediumRadiator</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemKitPipeRadiator</Key>
       <Value/>
     </RecordThing>
     <RecordThing>
-      <Key>ItemKitPipeRadiatorLiquid</Key>
-      <Value/>
+      <Key>ItemKitDeepMiner</Key>
+      <Value>Donanım (Uyku Kapsülü)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureCryoTubeVertical</Key>
-      <Value>Dondurucu Kapsül</Value>
+      <Key>StructureChuteValve</Key>
+      <Value>Kanal Girişi</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureSleeperVertical</Key>
-      <Value>Uyku Kapsülü</Value>
+      <Key>StructureCombustionCentrifuge</Key>
+      <Value>Donanım (Santrifüj)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureSleeperLeft</Key>
-      <Value>Uyku Kapsülü</Value>
+      <Key>StructureChuteOverflow</Key>
+      <Value>Kanal Çıkışı</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureSleeperRight</Key>
-      <Value>Uyku Kapsülü</Value>
+      <Key>KitStructureCombustionCentrifuge</Key>
+      <Value>Donanım (Santrifüj)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureProximitySensor</Key>
-      <Value>Hareket Sensörü</Value>
+      <Key>StructureChuteDigitalValveLeft</Key>
+      <Value>Dijital Vana</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureOccupancySensor</Key>
-      <Value>Gaz Sensörü</Value>
+      <Key>StructureChuteDigitalValveRight</Key>
+      <Value>Dijital Vana</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitStandardChute</Key>
+      <Value>Donanım (Kanallar)</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -5763,6 +5739,10 @@
     <Record>
       <Key>RespawnConditionStationeer</Key>
       <Value>Stationeers</Value>
+    </Record>
+    <Record>
+      <Key>Stress</Key>
+      <Value>ADRES</Value>
     </Record>
     <Record>
       <Key>MainMenuContinue</Key>
@@ -9452,14 +9432,6 @@
     <Record>
       <Key>StartNewGameButton</Key>
       <Value>OYUNA GERİ DÖN</Value>
-    </Record>
-    <Record>
-      <Key>ShadowMode</Key>
-      <Value>Gölgeler</Value>
-    </Record>
-    <Record>
-      <Key>ShadowCascades</Key>
-      <Value>Gölgeler</Value>
     </Record>
   </Interface>
   <Colors>

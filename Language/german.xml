@@ -4688,39 +4688,11 @@
       <Value>Wasserflaschen-Befüller</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemKitPassiveLargeRadiator</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemKitPassiveLargeRadiatorGas</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemKitPassiveLargeRadiatorLiquid</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureNitrolyzer</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemMiningBackPack</Key>
       <Value/>
     </RecordThing>
     <RecordThing>
       <Key>ItemHardMiningBackPack</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructurePipeRadiatorFlat</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructurePipeRadiatorFlatLiquid</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureMediumRadiator</Key>
       <Value/>
     </RecordThing>
     <RecordThing>
@@ -4732,28 +4704,36 @@
       <Value/>
     </RecordThing>
     <RecordThing>
-      <Key>StructureCryoTubeVertical</Key>
-      <Value>Kryogene Röhre</Value>
+      <Key>ItemKitDeepMiner</Key>
+      <Value>Schlafeinheit (Bausatz)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureSleeperVertical</Key>
-      <Value>Schlafeinheit</Value>
+      <Key>StructureChuteValve</Key>
+      <Value>Schachteinwurf</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureSleeperLeft</Key>
-      <Value>Schlafeinheit</Value>
+      <Key>StructureCombustionCentrifuge</Key>
+      <Value>Zentrifuge (Bausatz)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureSleeperRight</Key>
-      <Value>Schlafeinheit</Value>
+      <Key>StructureChuteOverflow</Key>
+      <Value>Schachtauswurf</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureProximitySensor</Key>
-      <Value>Bewegungssensor</Value>
+      <Key>KitStructureCombustionCentrifuge</Key>
+      <Value>Zentrifuge (Bausatz)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureOccupancySensor</Key>
-      <Value>Gassensor</Value>
+      <Key>StructureChuteDigitalValveLeft</Key>
+      <Value>Elektrisches Ventil</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureChuteDigitalValveRight</Key>
+      <Value>Elektrisches Ventil</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitStandardChute</Key>
+      <Value>Schächte (Bausatz)</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -5464,6 +5444,14 @@
     <Record>
       <Key>RespawnConditionStationeer</Key>
       <Value>Stationeers</Value>
+    </Record>
+    <Record>
+      <Key>Rpm</Key>
+      <Value>Bpm</Value>
+    </Record>
+    <Record>
+      <Key>Stress</Key>
+      <Value>Adresse</Value>
     </Record>
     <Record>
       <Key>SlotKey</Key>
@@ -9083,14 +9071,6 @@ Hinweis: Wasser wurde früher als Gas behandelt, aber ein neues System für Flü
     <Record>
       <Key>StartNewGameButton</Key>
       <Value>Zurück zum Spiel</Value>
-    </Record>
-    <Record>
-      <Key>ShadowMode</Key>
-      <Value>Schatten</Value>
-    </Record>
-    <Record>
-      <Key>ShadowCascades</Key>
-      <Value>Schatten</Value>
     </Record>
   </Interface>
   <Colors>

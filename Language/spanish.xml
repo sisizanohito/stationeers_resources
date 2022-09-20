@@ -5614,6 +5614,38 @@
       <Key>StructureOccupancySensor</Key>
       <Value>Sensor de ocupación</Value>
     </RecordThing>
+    <RecordThing>
+      <Key>ItemKitDeepMiner</Key>
+      <Value>Kit (Cama)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureChuteValve</Key>
+      <Value>Entrada Tolva</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureCombustionCentrifuge</Key>
+      <Value>Kit (Centrifugadora)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureChuteOverflow</Key>
+      <Value>Salida Tolva</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>KitStructureCombustionCentrifuge</Key>
+      <Value>Kit (Centrifugadora)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureChuteDigitalValveLeft</Key>
+      <Value>Válvula Digital</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureChuteDigitalValveRight</Key>
+      <Value>Válvula Digital</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitStandardChute</Key>
+      <Value>Kit Construcción (Tolvas)</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>
@@ -6319,6 +6351,14 @@
     <Record>
       <Key>RespawnConditionStationeer</Key>
       <Value>Stationeers</Value>
+    </Record>
+    <Record>
+      <Key>Rpm</Key>
+      <Value>Bpm (bits por minuto)</Value>
+    </Record>
+    <Record>
+      <Key>Stress</Key>
+      <Value>Dirección</Value>
     </Record>
     <Record>
       <Key>SlotKey</Key>
@@ -10833,14 +10873,6 @@ Nota: El agua se trataba anteriormente como un gas, pero se está desarrollando 
     <Record>
       <Key>StationpediaThermalConductivityRadiation</Key>
       <Value>Radiación térmica:</Value>
-    </Record>
-    <Record>
-      <Key>ShadowMode</Key>
-      <Value>Sombras</Value>
-    </Record>
-    <Record>
-      <Key>ShadowCascades</Key>
-      <Value>SombrasCascadas</Value>
     </Record>
   </Interface>
   <Colors>
