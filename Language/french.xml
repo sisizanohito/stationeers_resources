@@ -383,6 +383,14 @@
       <Key>FlipRover</Key>
       <Value>Redresser le rover</Value>
     </Record>
+    <Record>
+      <Key>Idle</Key>
+      <Value>Inactif</Value>
+    </Record>
+    <Record>
+      <Key>Active</Key>
+      <Value>Actif</Value>
+    </Record>
   </Actions>
   <Things>
     <RecordThing>
@@ -9753,7 +9761,7 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>ScriptCommandRand</Key>
-      <Value>Stocke dans le registre une valeur aléatoire x telle que 0 &lt;= x &lt; 1</Value>
+      <Value>Stocke dans le registre [ r? ] une valeur aléatoire x telle que 0 &lt;= x &lt; 1</Value>
     </Record>
     <Record>
       <Key>ScriptCommandYield</Key>
@@ -9785,7 +9793,7 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>ScriptCommandSleep</Key>
-      <Value>Met l&apos;exécution du programme sur le CI en pause pour [a] seconde(s)</Value>
+      <Value>Met l&apos;exécution du programme sur le CI en pause pour [ a ] seconde(s)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSin</Key>

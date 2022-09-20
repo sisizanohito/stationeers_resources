@@ -4697,11 +4697,15 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitFridgeSmall</Key>
-      <Value>Dieser Bausatz erstellt ein {THING:StructureLiquidPipeRadiator}.</Value>
+      <Value>Bausatz (Kühlschrank klein)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePlanter</Key>
+      <Value>Pflanzenbehälter</Value>
     </RecordThing>
     <RecordThing>
       <Key>KitPlanter</Key>
-      <Value>Dieser Bausatz erstellt ein {THING:StructureLiquidPipeRadiator}.</Value>
+      <Value>Bausatz Pflanzenbehälter</Value>
     </RecordThing>
     <RecordThing>
       <Key>PortableComposter</Key>
