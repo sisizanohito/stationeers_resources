@@ -4413,6 +4413,14 @@
       <Value>Isolierter Flüssigkeitstank klein</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureModularRocketLiquidTank</Key>
+      <Value>Automatisiertes Raketen-Flüssigkeitsspeichermodul</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureRocketModuleSilo</Key>
+      <Value>Automatisiertes Raketen-Lagermodul</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureRocketModuleBattery</Key>
       <Value>Automatisiertes Raketen-Energiespeichermodul</Value>
     </RecordThing>
@@ -4421,7 +4429,75 @@
       <Value>Automatisiertes Raketengas Sammel-modul</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureRocketModuleEnergyGenerator</Key>
+      <Value>Automatisiertes Raketen-Energiespeichermodul</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureRocketModuleMiningJunk</Key>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureRocketModuleMiningOre</Key>
+      <Value>Automatisiertes Raketen-Erzabbaumodul</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureModularRocketAutonomous</Key>
+      <Value>Rakete Modular Autonom</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureRocketModuleCollectorLiquid</Key>
+      <Value>Automatisiertes Raketen-Flüssigkeitssammelmodul</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureModularRocketAutomation</Key>
+      <Value>Automatisiertes Raketen-Automatisierungsmodul</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureModularRocketCouplingDown</Key>
+      <Value>Automatisiertes Raketen-Kupplungsmodul (unten)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureModularRocketCouplingUp</Key>
+      <Value>Automatisiertes Raketen-Kupplungsmodul (oben)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitModularRocketOreStorage</Key>
+      <Value>Bausatz (Automatisiertes Raketen-Lagermodul)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitModularRocketCoupling</Key>
+      <Value>Bausatz (Automatisiertes Raketen-Kupplungsmodul)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitModularRocketAutomation</Key>
+      <Value>Bausatz (Automatisiertes Raketen-Automationsmodul)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitModularRocketOreMining</Key>
+      <Value>Bausatz (Automatisiertes Raketen-Erzfördermodul)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureModularRocketIceMining</Key>
+      <Value>Automatisiertes Raketen-Eisfördermodul</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitModularRocketIceMining</Key>
+      <Value>Bausatz (Automatisiertes Raketen-Eisfördermodul)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureModularRocketScrapMining</Key>
+      <Value>Automatisiertes Raketen-Bergungsmodul</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitModularRocketScrapMining</Key>
+      <Value>Bausatz (Automatisiertes Raketen-Bergungsmodul)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWaterPipeMeter</Key>
+      <Value>Bausatz (Flüssigkeitsbarometer)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureWaterPipeMeter</Key>
+      <Value>Flüssigkeitsbarometer</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWaterPipeDigitalValve</Key>
@@ -4430,6 +4506,14 @@
     <RecordThing>
       <Key>StructureWaterDigitalValve</Key>
       <Value>Digitales Flüssigkeitsventil</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWaterWallCooler</Key>
+      <Value>Bausatz (Flüssigkeitswandkühler)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureWaterWallCooler</Key>
+      <Value>Flüssigkeitswandkühler</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemLiquidDrain</Key>
@@ -4441,7 +4525,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemLiquidPipeAnalyzer</Key>
-      <Value/>
+      <Value>Bausatz (Flüssigkeitsrohranalysator)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidPipeAnalyzer</Key>
