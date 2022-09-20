@@ -451,6 +451,14 @@
       <Key>FlipRover</Key>
       <Value>Flip Rover</Value>
     </Record>
+    <Record>
+      <Key>Idle</Key>
+      <Value>Idle</Value>
+    </Record>
+    <Record>
+      <Key>Active</Key>
+      <Value>Active</Value>
+    </Record>
   </Actions>
   <Things>
     <RecordThing>
@@ -816,7 +824,7 @@ The circuit board has two modes: 'Link' switches all devices on or off; 'Toggle'
     <RecordThing>
       <Key>DynamicCrateBuildingSupplies</Key>
       <Value>Crate (Building Supplies)</Value>
-      <Description  />
+      <Description />
     </RecordThing>
     <RecordThing>
       <Key>DynamicCrateCableSupplies</Key>
@@ -1020,7 +1028,7 @@ Normal coil has a maximum wattage of 5kW. For higher-current applications, use {
     <RecordThing>
       <Key>ItemCompositeFloorGrating</Key>
       <Value>Composite Floor Grating</Value>
-      <Description  />
+      <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemCorn</Key>
@@ -1283,8 +1291,8 @@ Careful not to pressurize beyond 10MPa, or it may go 'bang'.</Descript
     </RecordThing>
     <RecordThing>
       <Key>ItemKitChute</Key>
-      <Value>Kit (Chutes)</Value>
-      <Description>This kit produces a range of chute structures, including {THING:StructureChuteStraight} and {THING:StructureChuteCorner}.</Description>
+      <Value>Kit (Basic Chutes)</Value>
+      <Description>This kit produces a variety of unpowered chutes.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitComputer</Key>
@@ -1881,7 +1889,7 @@ Be there, even when you're not.</Description>
     <RecordThing>
       <Key>StructureCentrifuge</Key>
       <Value>Centrifuge</Value>
-      <Description>If a {THING:StructureRecycler} or unbalanced {THING:StructureFurnace} outputs {LINK:ReagentPage;reagent} mixture rather than the desired {LINK:IngotPage;ingots}, a centrifuge allows you to reclaim the raw {LINK:OrePage;ore}.</Description>
+      <Description>If a {THING:StructureRecycler} or unbalanced {THING:StructureFurnace} outputs {LINK:ReagentPage;reagent} mixture rather than the desired {LINK:IngotPage;ingots}, a centrifuge allows you to reclaim the raw {LINK:OrePage;ore}. It also refines {THING:ItemDirtyOre} produced from the {THING:StructureDeepMiner}. Its bigger brother {THING:StructureCombustionCentrifuge} can be used to process items significantly faster. </Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureChair</Key>
@@ -7093,6 +7101,11 @@ Highly sensitive to temperature, nitrice will begin to melt as soon as it is min
       <Description>The horizontal variant of the cryo tube. Will heal players and organs as well as revive dead players when provided with an atmosphere of NOS below -150C.</Description>
     </RecordThing>
     <RecordThing>
+      <Key>StructureDeepMiner</Key>
+      <Value>Deep Miner</Value>
+      <Description>Drills through terrain until it hits bedrock. Once inside bedrock {THING:ItemDirtyOre} is produced every roughly every 90s</Description>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureSleeperVertical</Key>
       <Value>Sleeper Vertical</Value>
       <Description>The vertical variant of the sleeper. Will keep players hydrated and fed while they are logged out - as long as a breatheable atmosphere is provided.</Description>
@@ -7116,6 +7129,69 @@ Highly sensitive to temperature, nitrice will begin to melt as soon as it is min
       <Key>StructureOccupancySensor</Key>
       <Value>Occupancy Sensor</Value>
       <Description>Will be triggered if there is a player in the same room as the sensor. The quantity variable will show the number of players. You can use configure it to only detect players who hold the correct Access Card using a {THING:CartridgeAccessController} in a {THING:ItemTablet}. This sensor only works when placed in a room.</Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitDeepMiner</Key>
+      <Value>Kit (Deep Miner)</Value>
+      <Description>Creates {THING:StructureDeepMiner} which can drill through the terrain into bedrock to mine {THING:ItemDirtyOre}</Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemDirtyOre</Key>
+      <Value>Item Dirty Ore</Value>
+      <Description>Ore mined from bedrock via the {THING:StructureDeepMiner} which then can be used in the {THING:StructureCentrifuge}, or {THING:StructureCombustionCentrifuge}. Once processed, it produces ore in a ratio similar to the average found on the planet's surface. </Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureChuteFlipFlopSplitter</Key>
+      <Value>Chute Flip Flop Splitter</Value>
+      <Description>A chute that toggles between two outputs</Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureChuteValve</Key>
+      <Value>Chute Valve</Value>
+      <Description>The Chute Valve will stop the flow of materials when set to closed and when set to open, will act like a straight chute.</Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureCombustionCentrifuge</Key>
+      <Value>Combustion Centrifuge</Value>
+      <Description>The Combustion Centrifuge is a gas powered version of the {THING:StructureCentrifuge}. A combustible fuel mix should be supplied to the gas input, and waste gasses should be vented from the output. The machine's RPMs must be controlled via the throttle and combustion limitor levers. If the Combustion Centrifuge gains, or looses, RPMs too fast it will experience stress, and eventually grind to a halt.  Higher RPMs directly result in faster processing speeds.
+The throttle lever controls the amount of fuel being pulled into the machine, increasing the temperature inside the engine, and leading to an increase in RPM. The limitor lever influences the speed of the combustion, and how much uncombusted gas is in the exhaust.	  
+Ejecting ore from the Combustion Centrifuge while it is at high RPMs will result in additional stress build up.  If turned off while not stressed, the machine will automatically start to brake, and reduce RPMs in a controlled manner.
+	  </Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureChuteOverflow</Key>
+      <Value>Chute Overflow</Value>
+      <Description>The overflow chute will direct materials to its overflow port when the thing connected to its default port is already occupied.</Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>KitStructureCombustionCentrifuge</Key>
+      <Value>Kit (Combustion Centrifuge)</Value>
+      <Description />
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureChuteDigitalValveLeft</Key>
+      <Value>Chute Digital Valve Left</Value>
+      <Description>The Digital Chute Valve will stop the flow of materials when set to closed and when set to open, will act like a straight chute. The valve will automatically close after a certain number of items have passed through. This threshold can be set using the dial.</Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureChuteDigitalValveRight</Key>
+      <Value>Chute Digital Valve Right</Value>
+      <Description>The Digital Chute Valve will stop the flow of materials when set to closed and when set to open, will act like a straight chute. The valve will automatically close after a certain number of items have passed through. This threshold can be set using the dial.</Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureChuteDigitalFlipFlopSplitterLeft</Key>
+      <Value>Chute Digital Flip Flop Splitter Left</Value>
+      <Description>The digital flip flop will toggle between two outputs using a specified ratio (n:1). For example, setting the dial to 2 would allow two items to pass through the primary output before flipping to the secondary output.</Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureChuteDigitalFlipFlopSplitterRight</Key>
+      <Value>Chute Digital Flip Flop Splitter Right</Value>
+      <Description>The digital flip flop will toggle between two outputs using a specified ratio (n:1). For example, setting the dial to 2 would allow two items to pass through the primary output before flipping to the secondary output.</Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitStandardChute</Key>
+      <Value>Kit (Powered Chutes)</Value>
+      <Description>This kit produces a variety of powered chutes</Description>
     </RecordThing>
   </Things>
   <Slots>
@@ -7840,6 +7916,14 @@ Highly sensitive to temperature, nitrice will begin to melt as soon as it is min
   </Interactables>
   <Interface>
     <Record>
+      <Key>Throttle</Key>
+      <Value>Throttle</Value>
+    </Record>
+    <Record>
+      <Key>CombustionLimiter</Key>
+      <Value>Combustion Limiter</Value>
+    </Record>
+    <Record>
       <Key>RespawnConditionEasy</Key>
       <Value>Easy</Value>
     </Record>
@@ -7850,6 +7934,14 @@ Highly sensitive to temperature, nitrice will begin to melt as soon as it is min
     <Record>
       <Key>RespawnConditionStationeer</Key>
       <Value>Stationeer</Value>
+    </Record>
+    <Record>
+      <Key>Rpm</Key>
+      <Value>Rpm</Value>
+    </Record>
+    <Record>
+      <Key>Stress</Key>
+      <Value>Stress</Value>
     </Record>
     <Record>
       <Key>SlotKey</Key>
@@ -10193,6 +10285,22 @@ Highly sensitive to temperature, nitrice will begin to melt as soon as it is min
     <Record>
       <Key>LogicTypeTemperatureDifferentialEfficiency</Key>
       <Value>How the difference between the input pipe and waste pipe temperatures effect the machines efficiency</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeCombustionLimiter</Key>
+      <Value>Retards the rate of combustion inside the machine (range: 0-100), with 0 being the slowest rate of combustion and 100 being the fastest</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeThrottle</Key>
+      <Value>Increases the rate at which the machine works (range: 0-100)</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRpm</Key>
+      <Value>The number of revolutions per minute that the device's spinning machanism is doing</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeStress</Key>
+      <Value>Machines get stressed when working hard. When Stress reaches 100 the machine will automatically shut down</Value>
     </Record>
     <Record>
       <Key>LogicTypePressureEfficiency</Key>
@@ -12833,12 +12941,8 @@ Note: {GAS:Water} was previously treated as a gas, but a new system for liquids 
       <Value>Thermal Radiation:</Value>
     </Record>
     <Record>
-      <Key>ShadowMode</Key>
-      <Value>Shadows</Value>
-    </Record>
-    <Record>
-      <Key>ShadowCascades</Key>
-      <Value>ShadowCascades</Value>
+      <Key>ScoreboardDaysLived</Key>
+      <Value>Days Lived</Value>
     </Record>
   </Interface>
   <Colors>
