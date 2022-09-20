@@ -4552,36 +4552,68 @@
       <Value>Wärmetauscher - Gas</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureHeatExchangeLiquidtoGas</Key>
+      <Value>Wärmetauscher - Flüssigkeit + Gas</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureHeatExchangeLiquidAndGas</Key>
+      <Value>Wärmeaustausch Flüssigkeit und Gas</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitHangerDoor</Key>
       <Value/>
     </RecordThing>
     <RecordThing>
+      <Key>LogicStepSequencer8</Key>
+      <Value>Logik Schrittzähler</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>DeviceStepUnit</Key>
+      <Value>Gerät Schritteinheit</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StopWatch</Key>
+      <Value>Stoppuhr</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemSoundCartridgeBass</Key>
+      <Value>Tonkassette Bass</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemSoundCartridgeDrums</Key>
+      <Value>Tonkassette Schlagzeug</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemSoundCartridgeLeads</Key>
-      <Value/>
+      <Value>Tonkassette Leads</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemSoundCartridgeSynth</Key>
-      <Value/>
+      <Value>Tonkassette Synth</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitMusicMachines</Key>
-      <Value/>
+      <Value>Bausatz (Musikmaschinen)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemInsulatedTankConnector</Key>
-      <Value/>
+      <Value>Isoliert (Tankanschluss)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedTankConnector</Key>
-      <Value/>
+      <Value>Isolierter Tankanschluss</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemInsulatedTankConnectorLiquid</Key>
-      <Value/>
+      <Value>Bausatz (Isolierter Tankanschluss Flüssigkeit)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedTankConnectorLiquid</Key>
-      <Value/>
+      <Value>Isolierter Tankanschluss Flüssigkeit</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>DecayedFood</Key>
+      <Value>Verdorbene Nahrung</Value>
     </RecordThing>
     <RecordThing>
       <Key>PassiveSpeaker</Key>
