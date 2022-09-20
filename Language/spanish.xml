@@ -221,6 +221,14 @@
       <Key>FlipRover</Key>
       <Value>Dar la vuelta al rover</Value>
     </Record>
+    <Record>
+      <Key>Idle</Key>
+      <Value>inactivo</Value>
+    </Record>
+    <Record>
+      <Key>Active</Key>
+      <Value>Activo</Value>
+    </Record>
   </Actions>
   <Things>
     <RecordThing>
@@ -5595,6 +5603,10 @@
       <Value>Tubo criogénico horizontal</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureDeepMiner</Key>
+      <Value>Minero profundo</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureSleeperVertical</Key>
       <Value>Cama vertical</Value>
     </RecordThing>
@@ -5616,7 +5628,11 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitDeepMiner</Key>
-      <Value>Kit (Cama)</Value>
+      <Value>Kit (Minero Profundo)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemDirtyOre</Key>
+      <Value>Mineral Sucio</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureChuteValve</Key>
@@ -6345,6 +6361,14 @@
   </Interactables>
   <Interface>
     <Record>
+      <Key>Throttle</Key>
+      <Value>Acelerador</Value>
+    </Record>
+    <Record>
+      <Key>CombustionLimiter</Key>
+      <Value>Limitador de combustión</Value>
+    </Record>
+    <Record>
       <Key>RespawnConditionEasy</Key>
       <Value>Facil</Value>
     </Record>
@@ -6353,12 +6377,8 @@
       <Value>Stationeers</Value>
     </Record>
     <Record>
-      <Key>Rpm</Key>
-      <Value>Bpm (bits por minuto)</Value>
-    </Record>
-    <Record>
       <Key>Stress</Key>
-      <Value>Dirección</Value>
+      <Value>Estrés</Value>
     </Record>
     <Record>
       <Key>SlotKey</Key>
@@ -8519,6 +8539,22 @@ Es una ley universal inquebrantable que cualquier cosa superior a 11 será púrp
     <Record>
       <Key>LogicTypeTemperatureDifferentialEfficiency</Key>
       <Value>Cómo la diferencia entre las temperaturas de la tubería de entrada y la tubería de desechos afecta la eficiencia de las máquinas</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeCombustionLimiter</Key>
+      <Value>Retarda la velocidad de combustión dentro de la máquina (rango: 0-100), siendo 0 la tasa de combustión más lenta y 100 la más rápida</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeThrottle</Key>
+      <Value>Aumenta la velocidad a la que trabaja la máquina (rango: 0-100)</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRpm</Key>
+      <Value>El número de revoluciones por minuto que está haciendo el mecanismo giratorio del dispositivo</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeStress</Key>
+      <Value>Las máquinas se estresan cuando trabajan duro. Cuando el estrés alcanza los 100 grados, la máquina se apagará automáticamente</Value>
     </Record>
     <Record>
       <Key>LogicTypePressureEfficiency</Key>
@@ -10873,6 +10909,10 @@ Nota: El agua se trataba anteriormente como un gas, pero se está desarrollando 
     <Record>
       <Key>StationpediaThermalConductivityRadiation</Key>
       <Value>Radiación térmica:</Value>
+    </Record>
+    <Record>
+      <Key>ScoreboardDaysLived</Key>
+      <Value>Días vividos</Value>
     </Record>
   </Interface>
   <Colors>
