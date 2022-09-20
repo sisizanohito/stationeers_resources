@@ -5132,20 +5132,104 @@
       <Value>Bausatz (Mittlerer Heizkörper)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructurePassiveLargeRadiator</Key>
+      <Value>Mittlerer Konvektionsstrahler</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitPassiveLargeRadiatorGas</Key>
+      <Value>Bausatz (Mittlerer Heizkörper)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitPassiveLargeRadiatorLiquid</Key>
+      <Value>Bausatz (Mittlerer Heizkörper Flüssigkeit)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePassiveLargeRadiatorLiquid</Key>
+      <Value>Mittlerer Konvektionsstrahler Flüssigkeit</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePassiveLargeRadiatorGas</Key>
+      <Value>Mittlerer Konvektionsstrahler</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLogicGate</Key>
+      <Value>Logik-Gatter</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureNitrolyzer</Key>
+      <Value>Lachgas-Aggregat</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemMiningBackPack</Key>
-      <Value/>
+      <Value>Bergbau-Rucksack</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemHardMiningBackPack</Key>
-      <Value/>
+      <Value>Hartschale Bergbau-Rucksack</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureH2Combustor</Key>
+      <Value>Struktur H2 Brennkammer</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePipeRadiatorFlat</Key>
+      <Value>Rohrheizkörper</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePipeRadiatorFlatLiquid</Key>
+      <Value>Rohrheizkörper Flüssigkeit</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureMediumConvectionRadiator</Key>
+      <Value>Mittlerer Konvektionsstrahler</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureMediumRadiator</Key>
+      <Value>Mittlerer Heizkörper</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureMediumRadiatorLiquid</Key>
+      <Value>Mittlerer Heizkörper Flüssigkeit</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureMediumConvectionRadiatorLiquid</Key>
+      <Value>Mittlerer Konvektionsstrahler Flüssigkeit</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPipeRadiator</Key>
-      <Value/>
+      <Value>Bausatz (Rohrheizkörper)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPipeRadiatorLiquid</Key>
-      <Value/>
+      <Value>Bausatz (Rohrheizkörper Flüssigkeit)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureCryoTubeVertical</Key>
+      <Value>Kryo-Röhre Vertikal</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureCryoTubeHorizontal</Key>
+      <Value>Kryo-Röhre Horizontal</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureSleeperVertical</Key>
+      <Value>Schlafkapsel Vertikal</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureSleeperLeft</Key>
+      <Value>Schlafkapsel Links</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureSleeperRight</Key>
+      <Value>Schlafkapsel Rechts</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureProximitySensor</Key>
+      <Value>Annäherungssensor</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureOccupancySensor</Key>
+      <Value>Anwesenheitssensor</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitDeepMiner</Key>
