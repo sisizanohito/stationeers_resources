@@ -5885,36 +5885,12 @@
       <Value>套件包（液体管道散热器）</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemKitDeepMiner</Key>
-      <Value>套件包（睡眠舱）</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureChuteValve</Key>
-      <Value>滑槽进口</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureCombustionCentrifuge</Key>
-      <Value>套件包（离心机）</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureChuteOverflow</Key>
-      <Value>滑槽出口</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>KitStructureCombustionCentrifuge</Key>
-      <Value>套件包（离心机）</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureChuteDigitalValveLeft</Key>
-      <Value>数码阀门</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureChuteDigitalValveRight</Key>
-      <Value>数码阀门</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitStandardChute</Key>
-      <Value>套件包（滑槽）</Value>
+      <Value>此套件可生产一系列液体管道。</Value>
     </RecordThing>
   </Things>
   <Slots>

@@ -2594,10 +2594,6 @@
       <Value>Painel Solar</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemWreckageTransformer1</Key>
-      <Value>Kit (Transformador)</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemWreckageTransformer2</Key>
       <Value>Kit (Transformador)</Value>
     </RecordThing>
@@ -2859,38 +2855,6 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureRocketModuleMiningJunk</Key>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemKitDeepMiner</Key>
-      <Value>Kit (Cmara de Estase)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureChuteValve</Key>
-      <Value>Tubo de Entrada</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureCombustionCentrifuge</Key>
-      <Value>Kit (Centrifuga)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureChuteOverflow</Key>
-      <Value>Tubo de Sada</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>KitStructureCombustionCentrifuge</Key>
-      <Value>Kit (Centrifuga)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureChuteDigitalValveLeft</Key>
-      <Value>Vlvula Digital</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureChuteDigitalValveRight</Key>
-      <Value>Vlvula Digital</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemKitStandardChute</Key>
-      <Value>Kit (Tubos)</Value>
     </RecordThing>
   </Things>
   <Slots>

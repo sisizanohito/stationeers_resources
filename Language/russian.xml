@@ -5449,36 +5449,12 @@
       <Value/>
     </RecordThing>
     <RecordThing>
-      <Key>ItemKitDeepMiner</Key>
-      <Value>Набор (Слипер)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureChuteValve</Key>
-      <Value>Транспортная труба (приёмник)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureCombustionCentrifuge</Key>
-      <Value>Набор (Центрифуга)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureChuteOverflow</Key>
-      <Value>Транспортная труба (раздатчик)</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>KitStructureCombustionCentrifuge</Key>
-      <Value>Набор (Центрифуга)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureChuteDigitalValveLeft</Key>
-      <Value>Электровентиль</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureChuteDigitalValveRight</Key>
-      <Value>Электровентиль</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitStandardChute</Key>
-      <Value>Набор (Транспортная труба)</Value>
+      <Value>Этот комплект производит ряд труб для жидкостей.</Value>
     </RecordThing>
   </Things>
   <Slots>

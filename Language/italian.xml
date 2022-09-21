@@ -3726,10 +3726,6 @@
       <Value>Pannello solare portatile</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemWreckageTransformer1</Key>
-      <Value>Trasformatore</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemWreckageTransformer2</Key>
       <Value>Trasformatore</Value>
     </RecordThing>
@@ -4043,38 +4039,6 @@
     <RecordThing>
       <Key>ItemKitStirlingEngine</Key>
       <Value>Motore a razzo</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemKitDeepMiner</Key>
-      <Value>Kit (Cuccetta)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureChuteValve</Key>
-      <Value>Entrata conduttura scarico</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureCombustionCentrifuge</Key>
-      <Value>Kit (Centrifuga)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureChuteOverflow</Key>
-      <Value>Uscita conduttura scarico</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>KitStructureCombustionCentrifuge</Key>
-      <Value>Kit (Centrifuga)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureChuteDigitalValveLeft</Key>
-      <Value>Valvola digitale</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureChuteDigitalValveRight</Key>
-      <Value>Valvola digitale</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemKitStandardChute</Key>
-      <Value>Kit (Conduttura scarico)</Value>
     </RecordThing>
   </Things>
   <Slots>

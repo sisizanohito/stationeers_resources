@@ -1972,10 +1972,6 @@
       <Value>Portable Solar Panel</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemWreckageTransformer1</Key>
-      <Value>Transformer</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemWreckageTransformer2</Key>
       <Value>Transformer</Value>
     </RecordThing>
@@ -2289,38 +2285,6 @@
     <RecordThing>
       <Key>ItemKitStirlingEngine</Key>
       <Value>Rocket Engine</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemKitDeepMiner</Key>
-      <Value>Kit (Sleeper)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureChuteValve</Key>
-      <Value>Chute Inlet</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureCombustionCentrifuge</Key>
-      <Value>Kit (Centrifúga)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureChuteOverflow</Key>
-      <Value>Chute Outlet</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>KitStructureCombustionCentrifuge</Key>
-      <Value>Kit (Centrifúga)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureChuteDigitalValveLeft</Key>
-      <Value>Digitálny Ventil</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureChuteDigitalValveRight</Key>
-      <Value>Digitálny Ventil</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemKitStandardChute</Key>
-      <Value>Kit (Chutes)</Value>
     </RecordThing>
   </Things>
   <Slots>

@@ -5605,36 +5605,12 @@
       <Value>Kit (radiateur pour tuyau de liquide)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemKitDeepMiner</Key>
-      <Value>Kit (couchette)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureChuteValve</Key>
-      <Value>Gaine (Entrée)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureCombustionCentrifuge</Key>
-      <Value>Kit (Centrifugeuse)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureChuteOverflow</Key>
-      <Value>Gaine (Sortie)</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>KitStructureCombustionCentrifuge</Key>
-      <Value>Kit (Centrifugeuse)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureChuteDigitalValveLeft</Key>
-      <Value>Électrovanne à gaz</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureChuteDigitalValveRight</Key>
-      <Value>Électrovanne à gaz</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitStandardChute</Key>
-      <Value>Kit (Gaines)</Value>
+      <Value>Ce kit produit différent tuyaux pour les liquides.</Value>
     </RecordThing>
   </Things>
   <Slots>

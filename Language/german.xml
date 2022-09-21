@@ -5604,36 +5604,12 @@
       <Value>Anwesenheitssensor</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemKitDeepMiner</Key>
-      <Value>Schlafeinheit (Bausatz)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureChuteValve</Key>
-      <Value>Schachteinwurf</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureCombustionCentrifuge</Key>
-      <Value>Zentrifuge (Bausatz)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureChuteOverflow</Key>
-      <Value>Schachtauswurf</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>KitStructureCombustionCentrifuge</Key>
-      <Value>Zentrifuge (Bausatz)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureChuteDigitalValveLeft</Key>
-      <Value>Elektrisches Ventil</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureChuteDigitalValveRight</Key>
-      <Value>Elektrisches Ventil</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitStandardChute</Key>
-      <Value>Schächte (Bausatz)</Value>
+      <Value>Dieses Kit produziert eine Reihe von Flüssigkeitsrohren.</Value>
     </RecordThing>
   </Things>
   <Slots>

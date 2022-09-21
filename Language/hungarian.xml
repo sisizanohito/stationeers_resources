@@ -3953,10 +3953,6 @@
       <Value>Hordozható napelem</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemWreckageTransformer1</Key>
-      <Value>Transzformátor</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemWreckageTransformer2</Key>
       <Value>Transzformátor</Value>
     </RecordThing>
@@ -4904,36 +4900,12 @@
       <Value/>
     </RecordThing>
     <RecordThing>
-      <Key>ItemKitDeepMiner</Key>
-      <Value>Készlet (Alvóhely)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureChuteValve</Key>
-      <Value>Csúszda (Beadó)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureCombustionCentrifuge</Key>
-      <Value>Készlet (Centrifuga)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureChuteOverflow</Key>
-      <Value>Csúszda (Kiadó)</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>KitStructureCombustionCentrifuge</Key>
-      <Value>Készlet (Centrifuga)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureChuteDigitalValveLeft</Key>
-      <Value>Digitális csap</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureChuteDigitalValveRight</Key>
-      <Value>Digitális csap</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitStandardChute</Key>
-      <Value>Készlet (Csúszda)</Value>
+      <Value>Ezzel a készlettel különféle folyadékcsöveket készíthetsz.</Value>
     </RecordThing>
   </Things>
   <Slots>

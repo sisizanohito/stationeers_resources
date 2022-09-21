@@ -3543,10 +3543,6 @@
       <Value>Przenośny panel słoneczny</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemWreckageTransformer1</Key>
-      <Value>Transformator</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemWreckageTransformer2</Key>
       <Value>Transformator</Value>
     </RecordThing>
@@ -4090,36 +4086,12 @@
       <Value/>
     </RecordThing>
     <RecordThing>
-      <Key>ItemKitDeepMiner</Key>
-      <Value>Zestaw (Sleeper)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureChuteValve</Key>
-      <Value>Zsyp (Wlot)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureCombustionCentrifuge</Key>
-      <Value>Zestaw (Wirowka)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureChuteOverflow</Key>
-      <Value>Zsyp (Wylot)</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>KitStructureCombustionCentrifuge</Key>
-      <Value>Zestaw (Wirowka)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureChuteDigitalValveLeft</Key>
-      <Value>Zawor Cyfrowy</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureChuteDigitalValveRight</Key>
-      <Value>Zawor Cyfrowy</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitStandardChute</Key>
-      <Value>Zestaw (Zsyp)</Value>
+      <Value>Zestaw ten wytwarza szereg rur cieczowych.</Value>
     </RecordThing>
   </Things>
   <Slots>

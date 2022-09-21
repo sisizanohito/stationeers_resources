@@ -2866,10 +2866,6 @@
       <Value>휴대용 태양광 발전기</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemWreckageTransformer1</Key>
-      <Value>변압기</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemWreckageTransformer2</Key>
       <Value>변압기</Value>
     </RecordThing>
@@ -3183,38 +3179,6 @@
     <RecordThing>
       <Key>ItemKitStirlingEngine</Key>
       <Value>로켓 엔진</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemKitDeepMiner</Key>
-      <Value>조립킷 (수면장치)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureChuteValve</Key>
-      <Value>물류관 흡입구</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureCombustionCentrifuge</Key>
-      <Value>조립킷 (원심분리기)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureChuteOverflow</Key>
-      <Value>물류관 배출구</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>KitStructureCombustionCentrifuge</Key>
-      <Value>조립킷 (원심분리기)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureChuteDigitalValveLeft</Key>
-      <Value>디지털 밸브</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureChuteDigitalValveRight</Key>
-      <Value>디지털 밸브</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemKitStandardChute</Key>
-      <Value>건축물 조립킷 (물류관)</Value>
     </RecordThing>
   </Things>
   <Slots>

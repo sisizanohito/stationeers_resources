@@ -5136,36 +5136,8 @@
       <Value/>
     </RecordThing>
     <RecordThing>
-      <Key>ItemKitDeepMiner</Key>
-      <Value>套件 睡眠倉</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureChuteValve</Key>
-      <Value>物流管 (吸入口)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureCombustionCentrifuge</Key>
-      <Value>套件 離心機</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureChuteOverflow</Key>
-      <Value>物流管 (導出口)</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>KitStructureCombustionCentrifuge</Key>
-      <Value>套件 離心機</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureChuteDigitalValveLeft</Key>
-      <Value>管線數位閥門</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureChuteDigitalValveRight</Key>
-      <Value>管線數位閥門</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemKitStandardChute</Key>
-      <Value>套件 物流管</Value>
+      <Value/>
     </RecordThing>
   </Things>
   <Slots>

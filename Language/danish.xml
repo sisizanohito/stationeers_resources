@@ -472,10 +472,6 @@
     <RecordThing>
       <Key>StructureRocketModuleMiningJunk</Key>
     </RecordThing>
-    <RecordThing>
-      <Key>ItemKitDeepMiner</Key>
-      <Value>Samlesæt (Rør)</Value>
-    </RecordThing>
   </Things>
   <Slots>
     <Record>

@@ -3622,10 +3622,6 @@
       <Value>Kannettava aurinkopaneeli</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemWreckageTransformer1</Key>
-      <Value>Muuntaja</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemWreckageTransformer2</Key>
       <Value>Muuntaja</Value>
     </RecordThing>
@@ -3939,38 +3935,6 @@
     <RecordThing>
       <Key>ItemKitStirlingEngine</Key>
       <Value>Rakettimoottori</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemKitDeepMiner</Key>
-      <Value>Varustepakkaus (unikapseli)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureChuteValve</Key>
-      <Value>Ränni (tulo)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureCombustionCentrifuge</Key>
-      <Value>Varustepakkaus (sentrifugi)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureChuteOverflow</Key>
-      <Value>Ränni (lähtö)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>KitStructureCombustionCentrifuge</Key>
-      <Value>Varustepakkaus (sentrifugi)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureChuteDigitalValveLeft</Key>
-      <Value>Digitaalinen venttiili</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureChuteDigitalValveRight</Key>
-      <Value>Digitaalinen venttiili</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemKitStandardChute</Key>
-      <Value>Varustepakkaus (ränni)</Value>
     </RecordThing>
   </Things>
   <Slots>
