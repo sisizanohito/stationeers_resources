@@ -9279,6 +9279,30 @@ Temperatur {1}</Value>
       <Value>Server kann nun gestartet werden.</Value>
     </Record>
     <Record>
+      <Key>ScriptCommandSB</Key>
+      <Value>Speichert den Registrierungswert in var auf allen Ausgabenetzwerkgeräten mit dem angegebenen hash.</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandLS</Key>
+      <Value>Lädt var vom Steckplatz des Geräts, in das Register.</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandLR</Key>
+      <Value>Lädt das Reagenz des zu registrierenden reagentMode des Geräts. Contents (0), Required (1), Recipe (2). Du kannst entweder das Wort oder die Zahl verwenden.</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandAlias</Key>
+      <Value>Beschreibt ein Register oder Gerätereferenz mit einem Namen, Gerätereferenzen beeinflussen auch, was auf den Stellschrauben auf dem IC-Gehäuse angezeigt wird.</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandDefine</Key>
+      <Value>Erstellt eine Bezeichnung, die im gesamten Programm durch den angegebenen Wert ersetzt wird.</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandMove</Key>
+      <Value>Register = bereitgestellte Anzahl oder Registerwert.</Value>
+    </Record>
+    <Record>
       <Key>ScriptCommandSdse</Key>
       <Value>Register = 1 wenn das Gerät eingestellt ist, sonst 0</Value>
     </Record>
@@ -9295,12 +9319,60 @@ Temperatur {1}</Value>
       <Value>Register = 1 wenn a &gt; b sonst 0</Value>
     </Record>
     <Record>
+      <Key>ScriptCommandSle</Key>
+      <Value>Register = 1, wenn ein &lt;= b, sonst 0</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandSge</Key>
+      <Value>Register = 1, wenn a &gt;= b, sonst 0</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandSeq</Key>
+      <Value>Register = 1, wenn a == b, sonst 0</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandSne</Key>
+      <Value>Register = 1, wenn a != b, sonst 0</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandSap</Key>
+      <Value>Register = 1 wenn abs(a - b) &lt;= max(c * max(abs(a), abs(b)), float.epsilon * 8), sonst 0</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandSna</Key>
+      <Value>Register = 1 wenn abs(a - b) &gt; max(c * max(abs(a), abs(b)), float.epsilon * 8), sonst 0</Value>
+    </Record>
+    <Record>
       <Key>ScriptCommandSltz</Key>
       <Value>Register = 1 wenn a &lt; 0 sonst 0</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSgtz</Key>
       <Value>Register = 1 wenn a &gt; 0 sonst 0</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandSlez</Key>
+      <Value>Register = 1, wenn ein &lt;= 0, sonst 0</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandSgez</Key>
+      <Value>Register = 1, wenn a &gt;= 0, sonst 0</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandSeqz</Key>
+      <Value>Register = 1, wenn a == 0, sonst 0</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandSnez</Key>
+      <Value>Register = 1, wenn a != 0, sonst 0</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandSapz</Key>
+      <Value>Register = 1, wenn |a| &lt;= float.epsilon * 8, sonst 0</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandSnaz</Key>
+      <Value>Register = 1, wenn |a| &gt; float.epsilon, sonst 0</Value>
     </Record>
     <Record>
       <Key>ScriptCommandAnd</Key>
@@ -9317,6 +9389,10 @@ Temperatur {1}</Value>
     <Record>
       <Key>ScriptCommandNor</Key>
       <Value>Register = 1 wenn a und b 0 sind, sonst 0</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandMod</Key>
+      <Value>Register = a mod b (Hinweis: NICHT a % b)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandJ</Key>
