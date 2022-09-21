@@ -459,12 +459,24 @@ Die Ausrüstungsplätze für Ihren Charakter sehen Sie auf der linken Seite des 
       <Value>Rüste deinen {THING:ItemWireCutters} aus deinem Werkzeuggürtel aus</Value>
     </Record>
     <Record>
+      <Key>TutorialWireYouNotWorkingTask2</Key>
+      <Value>Finde und durchtrenne das beschädigte Kabel.</Value>
+    </Record>
+    <Record>
       <Key>TutorialWireYouNotWorking1Description</Key>
       <Value>Etwas, das du verwenden kannst, um das Durchbrennen von Kabeln zu verhindern, ist eine {THING:ItemAreaPowerControl}, auch bekannt als ESV. Du findest eine im Spind – platziere sie dort, wo der Drahtbruch war.</Value>
     </Record>
     <Record>
+      <Key>TutorialWireYouNotWorking1Task1</Key>
+      <Value>Platziere die {THING:ItemAreaPowerControl}</Value>
+    </Record>
+    <Record>
       <Key>TutorialWireYouNotWorking2Description</Key>
       <Value>Lass uns nun die ESV-Einheit einrichten. Wir brauchen unser {THING:ItemCrowbar}, um sie zu öffnen, eine Batterie hineinzulegen und dann den Schalter umzulegen. Jetzt hast du ein sicheres Ladesystem.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorking2Task1</Key>
+      <Value>Rüste deine {THING:ItemCrowbar} aus deinem Gürtel aus. </Value>
     </Record>
     <Record>
       <Key>TutorialWireYouNotWorking2Task2</Key>
@@ -481,6 +493,54 @@ Die Ausrüstungsplätze für Ihren Charakter sehen Sie auf der linken Seite des 
     <Record>
       <Key>TutorialWireYouNotWorking2Task5</Key>
       <Value>Schließe die ESV mit deinem {THING:ItemCrowbar}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorking2Task6</Key>
+      <Value>Lade die Batterien auf</Value>
+    </Record>
+    <Record>
+      <Key>TutorialJustAroundTheCornerTitle</Key>
+      <Value>Gleich um die Ecke</Value>
+    </Record>
+    <Record>
+      <Key>TutorialJustAroundTheCornerDescription</Key>
+      <Value>Weiter geht&apos;s.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialJustAroundTheCornerTask1</Key>
+      <Value>Begib dich in den nächsten Raum</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDoYouFeelTheFlowTitle</Key>
+      <Value>Fühlst du den Flow?</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDoYouFeelTheFlowDescription</Key>
+      <Value>Mit einem {THING:ItemWrench} das {THING:StructureGasTankStorage} an den {THING:StructureTankConnector} anschließen, um etwas Luft hier hineinströmen zu lassen, es wird ein bisschen stickig.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDoYouFeelTheFlowTask1</Key>
+      <Value>Schließe den {THING:StructureTankConnector} an</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDoYouFeelTheFlowTask2</Key>
+      <Value>Schalte das {THING:StructureValve} ein, damit die Luft strömen kann.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLetsTankItUpTitle</Key>
+      <Value>Lass uns volltanken</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLetsTankItUpDescription</Key>
+      <Value>Nun, da die Luft strömt, füllen wir diese {THING:ItemGasCanisterEmpty} auf. Sei vorsichtig, dass du den Druck nicht zu hoch werden lässt, sonst explodiert sie. Dies würde sich normalerweise auf umgebende Strukturen auswirken, aber die hier sind unzerstörbar</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLetsTankItUpTask1</Key>
+      <Value>Platziere {THING:ItemGasCanisterEmpty} </Value>
+    </Record>
+    <Record>
+      <Key>TutorialLetsTankItUpTask2</Key>
+      <Value>Schalte {THING:StructureActiveVent} auf in-ward</Value>
     </Record>
   </Interface>
 </Language>
