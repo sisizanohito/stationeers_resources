@@ -522,11 +522,11 @@ Deine Durstrate kann im Haupteinstellungsmenü eingestellt werden, indem du den 
       <Key>EVAPage</Key>
       <Title>EVA Anzüge</Title>
       <DisplayFilter>Guides</DisplayFilter>
-      <Text>Ihr Raumanzug bietet Ihnen eine tragbare Atmosphäre mit einstellbaren Druck- und Klimatisierungseinstellungen (Temperatur) sowie einem Warnsystem, das Sie warnt, wenn die Atmosphäre im Anzug gefährlich wird. Es funktioniert in Verbindung mit einem geeigneten Helm, sowie passenden Gaskanistern und Filtern in den verschiedenen Schlitzen des Anzugs. Diese müssen regelmäßig gewechselt werden und können auch mit einem {THING:StructureSuitStorage} aufgeladen (oder entleert) werden.
+      <Text>Dein Raumanzug bietet dir eine tragbare Atmosphäre mit einstellbaren Druck- und Klimatisierungseinstellungen (Temperatur) sowie einem Warnsystem, das Sie warnt, wenn die Atmosphäre im Anzug gefährlich wird. Es funktioniert in Verbindung mit einem geeigneten Helm, sowie passenden Gaskanistern und Filtern in den verschiedenen Steckplätzen des Anzugs. Diese müssen regelmäßig gewechselt werden und können auch mit einem {THING:StructureSuitStorage} aufgeladen (oder entleert) werden.
 
 Es gibt mehrere Anzüge, darunter den {THING:ItemEvaSuit} und den druck- und temperaturbeständigeren {THING:ItemHardSuit}.
 
-Die verschiedenen Anzeigen Ihres Anzugs befinden sich unten rechts auf dem Bildschirm. Durch Drücken der entsprechenden Zifferntaste (2) wird ein Feld mit den Steckplätzen und Einstellungen angezeigt. Dazu gehören:
+Die verschiedenen Anzeigen deines Anzugs befinden sich unten rechts auf dem Bildschirm. Durch Drücken der entsprechenden Zifferntaste (2) wird ein Feld mit den Steckplätzen und Einstellungen angezeigt. Dazu gehören:
 
 - A/C On/Off (d.h. Temperaturkontrolle ein/aus)
 - Filter ein / aus
@@ -534,20 +534,20 @@ Die verschiedenen Anzeigen Ihres Anzugs befinden sich unten rechts auf dem Bilds
 - Druck nach oben / unten (mit einem Bereich von 0kPA bis 202kPa oder 0-2 Erdatmosphären)
 - Temperatur nach oben / unten (mit einem Bereich von 0 ° C bis 60 ° C)
 
-Anzüge haben 6-8 Fächer:
-- Lufttank (x1) - Setzen Sie einen Kanister oder intelligenten Kanister ein, der ein Atemgasgemisch enthält, z.B. O2 oder Stickstoff/Sauerstoff 35/65.
+Anzüge haben 6-8 Steckplätze:
+- Lufttank (x1) - Setze einen Kanister oder intelligenten Kanister ein, der ein Atemgasgemisch enthält, z.B. O2 oder Stickstoff/Sauerstoff 35/65.
 - Ablufttank (x1) - sammelt die von den Filtern entfernten Gase
-- Lebenserhaltung (x1) - hält eine Batterie, für Ihre Klimaanlage, Lichter usw.
-- Filter (x3) - erfordert mindestens einen CO2-Filter (wenn menschlich), abhängig von Ihrem Atemgasgemisch. Beachten Sie, dass ein {THING:ItemHardSuit} über 4 Filterslots verfügt.
+- Lebenserhaltung (x1) - hält eine Batterie, für deine Klimaanlage, Licht usw.
+- Filter (x3) - erfordert mindestens einen CO2-Filter (wenn menschlich), abhängig von deinem Atemgasgemisch. Beachte, dass ein {THING:ItemHardSuit} über 4 Filterplätze verfügt.
 - IC - Nur {THING:ItemHardSuit}.
 
 Druck: sollte auf 50-100 kPa (0,5 bis 1 Erdatmosphären) eingestellt werden. Menschen im Spiel tolerieren bis zu ~250kPa und können bis zu ~300kPa überleben.
 
-Temperatur: normalerweise auf 18-21°C eingestellt, wobei die Menschen im Spiel 10-29°C bevorzugen, 0-39°C tolerieren und bis zu 49°C überleben. Bei höheren Außentemperaturen verbraucht Ihre Klimaanlage mehr Batteriestrom, um die Innentemperatur zu halten.
+Temperatur: normalerweise auf 18-21°C eingestellt, wobei die Menschen im Spiel 10-29°C bevorzugen, 0-39°C tolerieren und bis zu 49°C überleben. Bei höheren Außentemperaturen verbraucht deine Klimaanlage mehr Batteriestrom, um die Innentemperatur zu halten.
 
-Filter: Der Standardfilter ist der CO2-Filter, der das vom Menschen beim Ausatmen erzeugte Gas auffängt. Wenn Sie nicht 100 % Sauerstoff in Ihrem Atemgas verwenden, fügen Sie zusätzliche Filter hinzu, z. B. wenn Sie 25 % Sauerstoff + 75 % Stickstoff mischen, sammelt sich der Stickstoff mit der Zeit in Ihrem Anzug an und erstickt Sie, es sei denn, Sie haben einen Stickstofffilter. Wenn Sie die richtigen Filter und Atemgase haben, aber immer noch Probleme haben, verwenden Sie die &apos;Spülen&apos;-Funktion Ihres Weltraumhelms. Warnungen zu niedrigem/kritischem Sauerstoff ertönen, wenn Ihre Filter nicht mehr funktionieren.
+Filter: Der Standardfilter ist der CO2-Filter, der das vom Menschen beim Ausatmen erzeugte Gas auffängt. Wenn du nicht 100 % Sauerstoff in deinem Atemgas verwendest, füge zusätzliche Filter hinzu, z. B. wenn du 25 % Sauerstoff + 75 % Stickstoff mischt, sammelt sich der Stickstoff mit der Zeit in deinem Anzug an und du erstickst, es sei denn, du hast einen Stickstofffilter. Wenn du die richtigen Filter und Atemgase, aber immer noch Probleme hast, verwende die &apos;Entlüften&apos;-Funktion deines Weltraumhelms. Warnungen zu niedrigem/kritischem Sauerstoff ertönen, wenn deine Filter nicht mehr funktionieren.
 
-Wenn Ihr Anzug beschädigt ist, können Sie ihn flicken, indem Sie Klebeband in der Hand halten und den &quot;Aktivieren&quot;-Knopf drücken. </Text>
+Wenn dein Anzug beschädigt ist, kannst ihn flicken, indem du Klebeband in der Hand hältst und den &quot;Aktivieren&quot;-Knopf drückst. </Text>
     </StationpediaPage>
   </HelpPage>
 </Language>
