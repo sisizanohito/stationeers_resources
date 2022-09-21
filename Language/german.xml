@@ -5836,6 +5836,10 @@
       <Value>Schacht Digitalschranke Rechts</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureChuteDigitalFlipFlopSplitterLeft</Key>
+      <Value>Schacht Digital Flip Flop Splitter Links</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitStandardChute</Key>
       <Value>Bausatz (Elektrische Schächte)</Value>
     </RecordThing>
