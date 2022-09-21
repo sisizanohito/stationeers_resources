@@ -74,7 +74,7 @@ Une fois terminé retirer le disque de données. Vous pouvez maintenant ajuster 
     </Record>
     <Record>
       <Key>DaylightSensors</Key>
-      <Value>Paramétrage des capteurs</Value>
+      <Value>Configuration des capteurs</Value>
     </Record>
     <Record>
       <Key>DaylightSensorsDescription</Key>

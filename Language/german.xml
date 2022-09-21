@@ -6530,16 +6530,24 @@
   </Interactables>
   <Interface>
     <Record>
-      <Key>RespawnConditionStationeer</Key>
-      <Value>Stationeers</Value>
+      <Key>Throttle</Key>
+      <Value>Drosselung</Value>
+    </Record>
+    <Record>
+      <Key>CombustionLimiter</Key>
+      <Value>Verbrennungsbegrenzer</Value>
+    </Record>
+    <Record>
+      <Key>RespawnConditionEasy</Key>
+      <Value>Leicht</Value>
     </Record>
     <Record>
       <Key>Rpm</Key>
-      <Value>Bpm</Value>
+      <Value>U/Min</Value>
     </Record>
     <Record>
       <Key>Stress</Key>
-      <Value>Adresse</Value>
+      <Value>Belastung</Value>
     </Record>
     <Record>
       <Key>SlotKey</Key>
@@ -7591,7 +7599,7 @@ Bitte versuche es erneut.</Value>
     </Record>
     <Record>
       <Key>TooltipNeedMoreKit</Key>
-      <Value>&lt;color=red&gt;Mehr {0} benötigt.&lt;/color&gt;.</Value>
+      <Value>&lt;color=red&gt;Benötigt mehr {0}.</Value>
     </Record>
     <Record>
       <Key>JoinMenuSearchPlaceholder</Key>
@@ -10117,17 +10125,17 @@ Aufgrund obskurer und weitgehend vergessener &lt;color=#0080FFFF&gt;{LINK:ODA;OD
     </Record>
     <Record>
       <Key>MolePollutantDescription</Key>
-      <Value>Auch als &quot;X&quot; bekannt, entstehen beim Schmelzen bestimmter Metalle Schadstoffe. Eine Konzentration von 0.1 mol oder mehr führt dazu, dass Ihr Anzug vor Gift in der Atmosphäre warnt.
-
-Schadstoff hat eine hohe spezifische Wärme, was es zu einem ausgezeichneten Kühlmittel macht.</Value>
+      <Value>Auch als &quot;X&quot; bekannt, entsteht {GAS:Pollutant} beim Schmelzen bestimmter Metalle. Eine Konzentration von 0,1 mol oder mehr führt dazu, dass dein Anzug vor Gift in der Atmosphäre warnt.
+      
+Schadstoff hat eine hohe spezifische Wärme, was es zu einem ausgezeichneten Kühlmittel macht. Leider ist es extrem schlecht für organische Wesen und wird die Lungen der meisten auf {REAGE:Carbon} basierenden Organismen schwer schädigen.</Value>
     </Record>
     <Record>
       <Key>MoleWaterDescription</Key>
-      <Value>&lt;/color&gt;Sie können Wasser erhalten, indem Sie {THING:ItemIce} mit einem {THING:StructureFurnace} oder einem {THING:StructureIceCrusher} schmelzen oder zerkleinern oder flüchtige Stoffe und Sauerstoff mit dem {THING:H2Combustor} verbrennen.
+      <Value>&lt;/color&gt;Du kannst Wasser beschaffen, indem du {THING:ItemIce} mit einem {THING:StructureFurnace} oder einem {THING:StructureIceCrusher} schmilzt oder zerkleinerst oder flüchtige Stoffe und Sauerstoff mit dem {THING:H2Combustor} verbrennst.
       
-Wasser ist entscheidend dafür, dass &lt;color=#0080FFFF&gt;{LINK:OrganicPage;plants}&lt;/color&gt; am Leben bleibt und &lt;color=#0080FFFF&gt;{LINK:NutritionPage;food}&lt;/color&gt; anbaut. Es ist auch ein außergewöhnliches Kühlmittel mit einer sehr hohen spezifischen Wärmekapazität.
+Wasser ist entscheidend dafür, dass &lt;color=#0080FFFF&gt;{LINK:OrganicPage;plants}&lt;/color&gt; am Leben bleiben und für &lt;color=#0080FFFF&gt;{LINK:NutritionPage;food} Anbau&lt;/color&gt;. Es ist auch ein außergewöhnliches Kühlmittel mit einer sehr hohen spezifischen Wärmekapazität.
 
-Hinweis: Wasser wurde früher als Gas behandelt, aber ein neues System für Flüssigkeiten wird entwickelt, einschließlich separater Rohre, Tanks, Pumpen usw. für Flüssigkeiten. Wasser ist derzeit die einzige verfügbare Flüssigkeit und ändert derzeit nicht den Zustand.</Value>
+Hinweis: Wasser wurde früher wie Gas behandelt, aber ein neues System für Flüssigkeiten wird entwickelt, einschließlich separater Rohre, Tanks, Pumpen usw. für Flüssigkeiten. Wasser ist derzeit die einzige verfügbare Flüssigkeit und ändert derzeit nicht den Aggregatzustand.</Value>
     </Record>
     <Record>
       <Key>MoleNitrousOxideDescription</Key>
@@ -10143,19 +10151,23 @@ Hinweis: Wasser wurde früher als Gas behandelt, aber ein neues System für Flü
     </Record>
     <Record>
       <Key>MainMenuChangeAppearance</Key>
-      <Value>Aussehen ändern</Value>
+      <Value>Erscheinungsbild ändern</Value>
+    </Record>
+    <Record>
+      <Key>CreateNewGame</Key>
+      <Value>Welt auswählen</Value>
     </Record>
     <Record>
       <Key>WorkshopModsTitle</Key>
-      <Value>Workshop</Value>
+      <Value>Workshop-Mods</Value>
     </Record>
     <Record>
       <Key>GameMenuButtonSaveAs</Key>
-      <Value>Speichername eingeben...</Value>
+      <Value>Spiel speichern unter...</Value>
     </Record>
     <Record>
       <Key>GameMenuPauseGameButton</Key>
-      <Value>Spiel Pausiert</Value>
+      <Value>Spiel pausieren</Value>
     </Record>
     <Record>
       <Key>WorldConfigurationDifficultyTitle</Key>
@@ -10163,7 +10175,19 @@ Hinweis: Wasser wurde früher als Gas behandelt, aber ein neues System für Flü
     </Record>
     <Record>
       <Key>StartNewGameButton</Key>
-      <Value>Zurück zum Spiel</Value>
+      <Value>Spiel starten</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaThermalConductivityConvection</Key>
+      <Value>Thermische Konvektion:</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaThermalConductivityRadiation</Key>
+      <Value>Wärmestrahlung:</Value>
+    </Record>
+    <Record>
+      <Key>ScoreboardDaysLived</Key>
+      <Value>Überlebte Tage</Value>
     </Record>
   </Interface>
   <Colors>

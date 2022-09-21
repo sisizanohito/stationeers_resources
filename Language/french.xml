@@ -1051,7 +1051,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitCryoTube</Key>
-      <Value>Kit (cryotube)</Value>
+      <Value>Kit (CryoTube)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitEngine</Key>
@@ -1075,7 +1075,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSensor</Key>
-      <Value>Kit (Capteur)</Value>
+      <Value>Kit (capteurs)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSign</Key>
@@ -1570,10 +1570,6 @@
       <Value>Convoyeur (Court Droit)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureCryoTube</Key>
-      <Value>Cryotube</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>StructureDaylightSensor</Key>
       <Value>Capteur de luminosité</Value>
     </RecordThing>
@@ -1611,7 +1607,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureGasSensor</Key>
-      <Value>Capteur de Gaz</Value>
+      <Value>Capteur de gaz</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureGasTankStorage</Key>
@@ -1643,7 +1639,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureMotionSensor</Key>
-      <Value>Capteur de Mouvement</Value>
+      <Value>Capteur de mouvement</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePassiveVent</Key>
@@ -2135,7 +2131,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemGasSensor</Key>
-      <Value>Kit (Capteur de gaz)</Value>
+      <Value>Kit (capteur de gaz)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemBeacon</Key>
@@ -5605,8 +5601,24 @@
       <Value>Kit (radiateur pour tuyau de liquide)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureCryoTubeVertical</Key>
+      <Value>CryoTube vertical</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureCryoTubeHorizontal</Key>
+      <Value>CryoTube horizontal</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureDeepMiner</Key>
       <Value>Mineur des profondeurs</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureProximitySensor</Key>
+      <Value>Capteur de proximité</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureOccupancySensor</Key>
+      <Value>Capteur d&apos;occupation</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitDeepMiner</Key>
@@ -10834,6 +10846,10 @@ Remarque : l’eau était auparavant traitée comme un gaz, mais un nouveau syst
     <Record>
       <Key>StartNewGameButton</Key>
       <Value>Démarrer la partie</Value>
+    </Record>
+    <Record>
+      <Key>ScoreboardDaysLived</Key>
+      <Value>Jours vécus</Value>
     </Record>
   </Interface>
   <Colors>
