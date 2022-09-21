@@ -483,5 +483,28 @@ Die Wirkung des Düngers hängt von seinen Inhaltsstoffen ab:
 
 Die Wirkung dieser Inhaltsstoffe hängt von ihren jeweiligen Anteilen im Komposter ab, wenn die Verarbeitung aktiviert wird. Dünger wird im Verhältnis 1:3 von Dünger zu Zutaten hergestellt. Bei der Verarbeitung werden {GAS:Stickstoff} und {GAS:Volatiles} sowie eine kleine Menge Wärme freigesetzt.</Text>
     </StationpediaPage>
+    <StationpediaPage>
+      <Key>DecayPage</Key>
+      <Title>Lebensmittelzerfall</Title>
+      <DisplayFilter>Guides</DisplayFilter>
+      <Text>Lebensmittel zerfallen im Laufe der Zeit in {THING:DecayedFood}, es sei denn, sie werden in einer geeigneten Atmosphäre gekühlt. Die genaue Zerfallsgeschwindigkeit variiert individuell durch:
+
+- TEMPERATUR - Die Kühlung verlangsamt den Zerfall, aber viele Lebensmittel werden durch die Einwirkung von extrem niedrigem Druck sowie extremer Hitze beschädigt. Die optimale Temperatur beträgt 0 Kelvin (-272 ° C).
+
+- NAHRUNGSTYP - Jeder {LINK:OrganicPage;food}-Typ hat seine eigenen Zerfallseigenschaften. {THING:ItemTomatoSoup} hält viel länger als z.B. eine {THING:ItemTomato}.
+
+- DRUCK - Nahrung zerfällt schneller, wenn der Druck unter 1 Atmosphäre (101kPa) fällt. Zerfall geschieht exponentiell schneller, wenn sich die Atmosphäre einem perfekten Vakuum nähert. Höherer Druck hat kine Auswirkungen. 
+
+- ATMOSPHÄRE - Verschiedene Gase können den Zerfallsprozess verlangsamen und beschleunigen. Das Verfahren berücksichtigt bei der Berechnung des Zerfallsmodifikators die jeweiligen Gasverhältnisse wie folgt:
+
+&gt; {GAS:Sauerstoff} x 1,3
+&gt; {GAS:Stickstoff} x 0,6
+&gt; {GAS:Kohlendioxid} x 0,8
+&gt; {GAS:Wasserstoff} x 1
+&gt; {GAS:Schadstoff} x 3
+&gt; {GAS:Lachgas} x 1,5
+&gt; {GAS:Wasser} x 2
+&gt; Vakuum - siehe DRUCK (oben).</Text>
+    </StationpediaPage>
   </HelpPage>
 </Language>
