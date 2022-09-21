@@ -3614,123 +3614,159 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitStructureModularRocketEngine01</Key>
-      <Value>Triebwerk (Groß)</Value>
+      <Value>Bausatz (Modulares Raketentriebwerk)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitStructureModularRocketFueltank01</Key>
-      <Value>Triebwerk (Groß)</Value>
+      <Value>Bausatz (Modularer Raketenkraftstofftank)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureWallIron02</Key>
+      <Value>Eisenwand (Typ 2)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureWallIron03</Key>
+      <Value>Eisenwand (Typ 3)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureWallIron04</Key>
+      <Value>Eisenwand (Typ 4)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeWall02</Key>
-      <Value>Verbundwand</Value>
+      <Value>Verbundstoff Wand (Typ 2)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeWall03</Key>
-      <Value>Verbundwand</Value>
+      <Value>Verbundstoff Wand (Typ 3)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeWall04</Key>
-      <Value>Verbundwand</Value>
+      <Value>Verbundstoff Wand (Typ 4)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeWallWindow</Key>
-      <Value>Verbundfenster</Value>
+      <Value>Verbundstoff Fenster</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>RailingElegant01</Key>
+      <Value>Geländer Elegant (Typ 1)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>RailingElegant02</Key>
+      <Value>Geländer Elegant (Typ 2)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>RailingIndustrial02</Key>
+      <Value>Geländer Industriell (Typ 2)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitRailing</Key>
-      <Value>Verbundverkleidung (Bausatz)</Value>
+      <Value>Bausatz (Geländer)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallArchCornerRound</Key>
-      <Value>Gekantete Wand (Pfeil)</Value>
+      <Value>Wand (Bogen Ecke Rund)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallArchCornerSquare</Key>
-      <Value>Gekantete Wand (zweifarbig)</Value>
+      <Value>Wand (Bogen Ecke Quadratisch)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallArchCornerTriangle</Key>
-      <Value>Gekantete Wand (zweifarbig)</Value>
+      <Value>Wand (Bogen Ecke Dreieck)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallFlatCornerRound</Key>
-      <Value>Gerahmte Wand (Ecke)</Value>
+      <Value>Wand (Flach Ecke Rund)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallFlatCornerSquare</Key>
-      <Value>Gerahmte Wand (Ecke)</Value>
+      <Value>Wand (Flach Ecke Quadratisch)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallFlatCornerTriangle</Key>
-      <Value>Flachwand (gepanzert)</Value>
+      <Value>Wand (Flach Ecke Dreieck)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureWallFlatCornerTriangleFlat</Key>
+      <Value>Wand (Flach Ecke Dreieck Flach)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallPaddedArchLightFittingTop</Key>
-      <Value>Polsterwand (konkav; Lichtaussparungen)</Value>
+      <Value>Wand (Gepolstert Bogen Lampenhalterung)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallPaddedNoBorder</Key>
-      <Value>Polsterwand (konkav)</Value>
+      <Value>Wand (Gepolstert ohne Rand)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallPaddedThinNoBorder</Key>
-      <Value>Polsterwand (dünn)</Value>
+      <Value>Wand (Gepolstert Dünn ohne Rand)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallPaddedWindowThin</Key>
-      <Value>Polsterwand (dünn)</Value>
+      <Value>Wand (Gepolstert Fenster Dünn)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallPaddedThinNoBorderCorner</Key>
-      <Value>Gerahmte Wand (Ecke)</Value>
+      <Value>Wand (Gepolstert Dünn Ecke ohne Rand)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallPaddedNoBorderCorner</Key>
-      <Value>Gerahmte Wand (Ecke)</Value>
+      <Value>Wand (Gepolstert Ecke ohne Rand)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallPaddedCorner</Key>
-      <Value>Polsterwand (konkav)</Value>
+      <Value>Wand (Gepolstert Ecke)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallPaddedCornerThin</Key>
-      <Value>Polsterwand (dünn)</Value>
+      <Value>Wand (Gepolstert Ecke Dünn)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallPaddedArchCorner</Key>
-      <Value>Polsterwand (konkav)</Value>
+      <Value>Wand (Gepolstert Ecke Bogen)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallPaddedWindow</Key>
-      <Value>Polsterwand</Value>
+      <Value>Wand (Gepolstert Fenster)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeOrgan</Key>
-      <Value>Rohr (Ecke)</Value>
+      <Value>Orgelpfeife</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPipeOrgan</Key>
-      <Value>Rohrkurve</Value>
+      <Value>Bausatz (Orgelpfeife)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>DynamicGasCanisterRocketFuel</Key>
+      <Value>Dynamische Gasflasche Raketentreibstoff</Value>
     </RecordThing>
     <RecordThing>
       <Key>ModularRocketCommand01Lander</Key>
-      <Value>Triebwerk (Groß)</Value>
+      <Value>Rakete Befehls-Landefahrzeug</Value>
     </RecordThing>
     <RecordThing>
       <Key>ModularRocketCargo01</Key>
-      <Value>Triebwerk (Groß)</Value>
+      <Value>Raketenfracht</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemSensorProcessingUnitOreScanner</Key>
-      <Value>Kassette (Erz Scanner)</Value>
+      <Value>Sensor Verarbeitungseinheit (Erzscanner)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemSensorLenses</Key>
+      <Value>Sensoren Brille</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureBatteryChargerSmall</Key>
-      <Value>Batteriezelle (Klein)</Value>
+      <Value>Batterieladegerät Klein</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemBatteryChargerSmall</Key>
-      <Value>Batteriezelle (Klein)</Value>
+      <Value>Batterieladegerät Klein</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureSolarPanelFlat</Key>
@@ -3745,12 +3781,24 @@
       <Value>Festes Solarmodul (Bausatz)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureSDBHopperAdvanced</Key>
+      <Value>SDB Trichter Fortgeschritten</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureSDBHopper</Key>
+      <Value>SDB-Trichter</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitSDBHopper</Key>
-      <Value>Sortiereinheit (Bausatz)</Value>
+      <Value>Bausatz (SDB-Trichter)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureSDBSilo</Key>
+      <Value>SDB-Lager</Value>
     </RecordThing>
     <RecordThing>
       <Key>KitSDBSilo</Key>
-      <Value>Schild (Bausatz)</Value>
+      <Value>Bausatz (SDB-Lager)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureTankSmallInsulated</Key>
@@ -3762,23 +3810,67 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitTankInsulated</Key>
-      <Value>Rohrventil (Bausatz)</Value>
+      <Value>Bausatz (Isolierter Tank)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitDebug</Key>
-      <Value>Tür (Bausatz)</Value>
+      <Value>Bausatz (Debuggen)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureChairThickSingle</Key>
+      <Value>Stuhl (Stabil Einzeln)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureChairThickDouble</Key>
+      <Value>Stuhl (Stabil Doppelt)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureChairRectangleSingle</Key>
+      <Value>Stuhl (Rechteckig Einzeln)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureChairRectangleDouble</Key>
+      <Value>Stuhl (Rechteckig Doppelt)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureChairBoothMiddle</Key>
+      <Value>Stuhl (Sitzecke Mitte)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureChairBoothCornerRight</Key>
+      <Value>Stuhl (Sitzecke Rechts)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureChairBoothCornerLeft</Key>
+      <Value>Stuhl (Sitzecke Links)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureChairBacklessSingle</Key>
+      <Value>Stuhl (Rückenfrei Einzeln)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureChairBacklessDouble</Key>
+      <Value>Stuhl (Rückenfrei Doppelt)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureFlatBench</Key>
-      <Value>Flachwand</Value>
+      <Value>Bank (Flach)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureAngledBench</Key>
+      <Value>Bank (Winkel)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitTables</Key>
-      <Value>Schmelzsicherung (Bausatz)</Value>
+      <Value>Bausatz (Tische)</Value>
     </RecordThing>
     <RecordThing>
       <Key>KitchenTableTall</Key>
-      <Value>Portabler Tank (Bausatz)</Value>
+      <Value>Küchentisch (Hoch)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>KitchenTableSimpleTall</Key>
+      <Value>Küchentisch (Einfach Hoch)</Value>
     </RecordThing>
     <RecordThing>
       <Key>KitchenTableSimpleShort</Key>
