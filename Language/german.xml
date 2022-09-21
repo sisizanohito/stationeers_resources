@@ -10000,8 +10000,12 @@ Temperatur {1}</Value>
       <Value>Modus</Value>
     </Record>
     <Record>
+      <Key>StationpediaLogicHeader</Key>
+      <Value>Logik</Value>
+    </Record>
+    <Record>
       <Key>StationpediaLogicSlotHeader</Key>
-      <Value>Logik-Slots</Value>
+      <Value>Logik-Steckplätze</Value>
     </Record>
     <Record>
       <Key>StationpediaTutorialListHeader</Key>
@@ -10045,7 +10049,7 @@ Temperatur {1}</Value>
     </Record>
     <Record>
       <Key>CrowbarToFlip</Key>
-      <Value>Mit dem Stemmeisen aufrichten.</Value>
+      <Value>Mit der Brechstange aufrichten.</Value>
     </Record>
     <Record>
       <Key>TimerPanel</Key>
@@ -10054,6 +10058,14 @@ Temperatur {1}</Value>
     <Record>
       <Key>LogicTypeTime</Key>
       <Value>Zeit</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeEnvironmentEfficiency</Key>
+      <Value>Die von der Maschine gemeldete Umwelteffizienz als float zwischen 0 und 1</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeWorkingGasEfficiency</Key>
+      <Value>Die von der Maschine gemeldete Arbeitsgaseffizienz als float zwischen 0 und 1</Value>
     </Record>
     <Record>
       <Key>Pitch</Key>
@@ -10100,6 +10112,10 @@ Temperatur {1}</Value>
       <Value>Wellenform</Value>
     </Record>
     <Record>
+      <Key>Radius</Key>
+      <Value>Detektionsradius</Value>
+    </Record>
+    <Record>
       <Key>StationpediaBasePowerUsage</Key>
       <Value>Basis-Stromverbrauch:</Value>
     </Record>
@@ -10114,6 +10130,21 @@ Temperatur {1}</Value>
     <Record>
       <Key>StationpediaNutrition</Key>
       <Value>Nährwert</Value>
+    </Record>
+    <Record>
+      <Key>MoleOxygenDescription</Key>
+      <Value>Sauerstoff liefert Energie, wenn er bei der Verbrennung beigemischt wird, und verbindet sich auch mit Wasserstoff, um {GAS:Water} zu erzeugen. Es entsteht in {LINK:OrganicPage;plants}, sowie durch die Verarbeitung von {THING:ItemOxite}. Es ist bei niedrigen Temperaturen leicht entzündlich.</Value>
+    </Record>
+    <Record>
+      <Key>MoleNitrogenDescription</Key>
+      <Value>{GAS:Nitrogen} kann mit {GAS:Oxygen} gemischt werden, um seine Entflammbarkeit zu stabilisieren und die Toxizität von {GAS:Oxygen} zu vermeiden, und ist eine eigenständige Ressource, die für die Schaffung einer atmungsaktiven Atmosphäre nützlich ist (bei ungefähr 3:1 {GAS:Nitrogen} und {GAS:Oxygen}). Die effizienteste Quelle für {GAS:Nitrogen} sind {THING:ItemNitrice}-Ablagerungen, die rund um das Sonnensystem gefunden wurden.</Value>
+    </Record>
+    <Record>
+      <Key>MoleCarbonDioxideDescription</Key>
+      <Value>Du atmest es aus, {LINK:OrganicPage;plants} atmen es ein. Sie wachsen nicht ohne sie. Du kannst Kartuschen verwenden, die in {SLOT:GasFilter}-Steckplätzen platziert werden, um es aus der Atmosphäre zu entfernen.
+      
+{GAS:Kohlendioxid} hat eine mäßig hohe spezifische Wärme, was bedeutet, dass es ein gutes Kühlmittel für Geräte wie das Wall Coo ist
+{THING:StructureWallCooler}. {GAS:Wasser} ist besser, hat aber in der Regel wichtigere Verwendungszwecke.</Value>
     </Record>
     <Record>
       <Key>MoleVolatilesDescription</Key>

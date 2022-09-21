@@ -5617,6 +5617,14 @@
       <Value>Couchette verticale</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureSleeperLeft</Key>
+      <Value>Couchette à gauche</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureSleeperRight</Key>
+      <Value>Couchette à droite</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureProximitySensor</Key>
       <Value>Capteur de proximité</Value>
     </RecordThing>
