@@ -3,6 +3,10 @@
   <Code>DE</Code>
   <Interface>
     <Record>
+      <Key>ScenariosBorznacsKitchen</Key>
+      <Value>Borznacs Küche</Value>
+    </Record>
+    <Record>
       <Key>TutoiralGasMixingSubTitle</Key>
       <Value>Besser kochen</Value>
     </Record>

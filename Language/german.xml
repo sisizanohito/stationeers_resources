@@ -259,6 +259,10 @@
       <Value>Verbrauchen</Value>
     </Record>
     <Record>
+      <Key>ConsumeFail</Key>
+      <Value>Fehlgeschlagen: Helm geschlossen</Value>
+    </Record>
+    <Record>
       <Key>Plant</Key>
       <Value>Pflanzen</Value>
     </Record>
