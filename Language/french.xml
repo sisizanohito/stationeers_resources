@@ -5613,6 +5613,10 @@
       <Value>Mineur des profondeurs</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureSleeperVertical</Key>
+      <Value>Couchette verticale</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureProximitySensor</Key>
       <Value>Capteur de proximité</Value>
     </RecordThing>
