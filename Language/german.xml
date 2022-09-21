@@ -9595,6 +9595,10 @@ Temperatur {1}</Value>
       <Value>Drücke die &lt;color=#FBB03B&gt;Leertaste&lt;/color&gt; um weiter zu machen</Value>
     </Record>
     <Record>
+      <Key>TutorialCompleteDateOfCompletion</Key>
+      <Value>Datum der Fertigstellung:</Value>
+    </Record>
+    <Record>
       <Key>BottleSlot</Key>
       <Value>Flaschen Fach</Value>
     </Record>
@@ -9605,6 +9609,14 @@ Temperatur {1}</Value>
     <Record>
       <Key>SettingsMineableRenderDistance</Key>
       <Value>Erz-Distanz</Value>
+    </Record>
+    <Record>
+      <Key>SetSpawnMessage</Key>
+      <Value>Wird verwendet, um den Spawnpunkt festzulegen</Value>
+    </Record>
+    <Record>
+      <Key>SetSpawnTitle</Key>
+      <Value>Spawn-Punkt</Value>
     </Record>
     <Record>
       <Key>ControlPrimaryClickDisc</Key>
@@ -9635,6 +9647,10 @@ Temperatur {1}</Value>
       <Value>Ernten</Value>
     </Record>
     <Record>
+      <Key>ControlPlayerMovementDisc</Key>
+      <Value>Bewegung</Value>
+    </Record>
+    <Record>
       <Key>ControlSwapHandsDisc</Key>
       <Value>Aktive Hand wechseln</Value>
     </Record>
@@ -9644,11 +9660,31 @@ Temperatur {1}</Value>
     </Record>
     <Record>
       <Key>ActivateExplosiveTooltipKey1</Key>
-      <Value>Mauskontrolle aktivieren</Value>
+      <Value>Aktiviert</Value>
+    </Record>
+    <Record>
+      <Key>ActivateExplosiveTooltipKey2</Key>
+      <Value>Zweiter Timer. Der Timer kann nicht ausgeschaltet werden. Vorsicht ist geboten.</Value>
+    </Record>
+    <Record>
+      <Key>CommandSave</Key>
+      <Value>Speichert das Spiel und benennt es wie den eingegebenen Parameter. Verwendung: &quot;/save nameofsave&quot;</Value>
+    </Record>
+    <Record>
+      <Key>CommandShutdown</Key>
+      <Value>Fährt den Server herunter und bringt die Spieler in die Lobby zurückb, du kannst einen Timer und eine Nachricht anhängen. Befehl: &quot;/shutdown&quot;</Value>
     </Record>
     <Record>
       <Key>CommandNotice</Key>
       <Value>Senden Sie eine Nachricht an die Spieler eines Servers. Verwendung: &quot;/notice die Nachricht, die Sie senden möchten&quot;</Value>
+    </Record>
+    <Record>
+      <Key>CommandStatus</Key>
+      <Value>Zeigt den aktuellen Status des Servers an und wer sich derzeit auf dem Server befindet: &quot;/status&quot;</Value>
+    </Record>
+    <Record>
+      <Key>CommandBan</Key>
+      <Value>Banne eine bestimmte Steam-ID vom Server: &quot;/ban 102039237390&quot;</Value>
     </Record>
     <Record>
       <Key>CommandUnBan</Key>
@@ -9661,6 +9697,14 @@ Temperatur {1}</Value>
     <Record>
       <Key>CommandClearAll</Key>
       <Value>Entfernt alle nicht verbundenen Spieler vom Server. : &quot;/clearall&quot;</Value>
+    </Record>
+    <Record>
+      <Key>CommandThreadStatus</Key>
+      <Value>Zeigt den aktuellen Status der Threads des Spiels an.: &quot;/threadstatus&quot;</Value>
+    </Record>
+    <Record>
+      <Key>CommandResetThread</Key>
+      <Value>Setzt einen bestimmten Thread zurück. : &quot;/resetthread atmosphärics&quot;</Value>
     </Record>
     <Record>
       <Key>CommandSetHunger</Key>
@@ -9687,6 +9731,10 @@ Temperatur {1}</Value>
       <Value>Wechselt den Spielmodus zwischen Survival und Creative. : &quot;/tgm&quot;</Value>
     </Record>
     <Record>
+      <Key>CommandSetTime</Key>
+      <Value>Stellt den Sonnenversatz ein, der die Tageszeit beeinflusst. : &quot;/settime 0.25&quot;</Value>
+    </Record>
+    <Record>
       <Key>CommandToggleInstaGrow</Key>
       <Value>Schaltet auf einem Server oder lokalen Spiel das sofortige Pflanzenwachstum an oder aus. : &quot;/tgrow&quot;</Value>
     </Record>
@@ -9701,6 +9749,14 @@ Temperatur {1}</Value>
     <Record>
       <Key>CommandToggleNoClip</Key>
       <Value>Schaltet die Spielerkollision an oder aus. : &quot;/tnc&quot;</Value>
+    </Record>
+    <Record>
+      <Key>CommandSkipStage</Key>
+      <Value>Überspringt die aktuelle Missionsphase. : &quot;/skipstage&quot;</Value>
+    </Record>
+    <Record>
+      <Key>CommandSetStage</Key>
+      <Value>Legt die aktuelle Missionsstufe fest. : &quot;/setstage&quot;</Value>
     </Record>
     <Record>
       <Key>CommandShowStage</Key>
