@@ -8388,11 +8388,15 @@ Temperatur {1}</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioOxygenOutput2</Key>
-      <Value>Das Verhältnis von Sauerstoff in der Geräteatmosphäre</Value>
+      <Value>Das Verhältnis von Sauerstoff im Output2-Netzwerk des Geräts</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioCarbonDioxideOutput2</Key>
-      <Value>Das Verhältnis von co2 in der Geräteatmosphäre</Value>
+      <Value>Das Verhältnis von {GAS:Kohlendioxid} im Output2-Netzwerk des Geräts</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioNitrogenOutput2</Key>
+      <Value>Das Verhältnis von Stickstoff im Output2-Netzwerk des Geräts</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioPollutantOutput2</Key>
