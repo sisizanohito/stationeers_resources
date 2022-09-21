@@ -5975,7 +5975,7 @@
     </Record>
     <Record>
       <Key>Processing</Key>
-      <Value>Prozessierend</Value>
+      <Value>Verarbeitung</Value>
     </Record>
     <Record>
       <Key>LoadingRail</Key>
@@ -6051,7 +6051,7 @@
     </Record>
     <Record>
       <Key>BottleSlot</Key>
-      <Value>Gasflaschenfach</Value>
+      <Value>Gasflasche Steckplatz</Value>
     </Record>
   </Slots>
   <Interactables>
@@ -7807,18 +7807,17 @@ Bitte versuche es erneut.</Value>
     </Record>
     <Record>
       <Key>NewWorldMoonDesc</Key>
-      <Value>Sie stecken also auf dem Mond fest, aber es ist nicht alles schlecht.
-Sicher, es ist kalt, rauh und ziemlich eintönig, aber wenigstens scheint die Sonne. Das Solarpanel wird nützlich sein, und der Stromregler ... und der Lichtbogenofen wahrscheinlich auch.
-Es gibt sogar ein bisschen Essen und Sauerstoff in den anderen Kisten, wobei es definitiv nicht ewig halten wird. Genauso wie ihre Batterie.
-Sie sollten besser darüber nachdenken, wie sie überleben werden. Wie schwer könnte es sein, eine Luftschleuse einzurichten? Ein Generator? Vielleicht sogar etwas Erz schmelzen und sich eine Basis bauen?
-Sieht aus, als wären sie eine Weile hier.</Value>
+      <Value>Du steckst also auf dem Mond fest, aber es ist nicht alles schlecht. Sicher, es ist kalt, hart und ziemlich eintönig, aber zumindest scheint die Sonne. Das Solarmodul wird nützlich sein, und der Stromregler... und wahrscheinlich auch der Lichtbogenofen.
+                                              Es gibt sogar ein wenig Nahrung und Sauerstoff in den anderen Kisten, obwohl es definitiv nicht ewig halten wird. Auch nicht deine Batterie.
+                                              Du solltest besser anfangen, darüber nachzudenken, wie du überleben wirst. Wie schwer könnte es sein, eine Luftschleuse aufzustellen? Ein Generator? Vielleicht sogar etwas Erz schmelzen und sich eine Basis bauen?
+        Sieht so aus, als würdest du eine Weile hier sein.      </Value>
     </Record>
     <Record>
       <Key>NewWorldSpaceDesc</Key>
       <Value>Dies ist der Kreativmodus von Stationeers!
 Bringe jeden Gegenstand zum Vorschein, teste Ideen und baue schnell verrücktes Zeug.
-&lt;color=red&gt;Dieser Modus ist experimentell.&lt;/color&gt; Betrachten Sie es als eine freie Weltraumparty, auf der aufregende und unerwartete Dinge* passieren können und werden, verglichen mit der zuverlässigeren Nahtoderfahrung des Überleben-Modus.
-Seien Sie nicht traurig, wenn Sie sich in winzige kleine Stücke blasen, von Hühnern zerfleischt werden oder ganz langsam explodieren, während Sie allein in die unendliche Leere driften.
+&lt;color=red&gt;Dieser Modus ist experimentell.&lt;/color&gt; Betrachte es als eine freie Weltraumparty, auf der aufregende und unerwartete Dinge* passieren können und werden, verglichen mit der zuverlässigeren Nahtoderfahrung des Überleben-Modus.
+Sei nicht traurig, wenn du in winzige kleine Stücke blasen, von Hühnern zerfleischt wirst oder ganz langsam explodierst, während du allein in die unendliche Leere driftest.
 *Bugs</Value>
     </Record>
     <Record>
@@ -7848,6 +7847,10 @@ Seien Sie nicht traurig, wenn Sie sich in winzige kleine Stücke blasen, von Hü
     <Record>
       <Key>Incident_Supply</Key>
       <Value>Satelliten deuten darauf hin, dass eine Kiste in der Nähe abgeworfen wurde. Ihr Peilsignalempfänger sollte Ihnen den Weg weisen.</Value>
+    </Record>
+    <Record>
+      <Key>TradingNoMoneyHash</Key>
+      <Value>Nicht genug Geld, um diese Transaktion abzuschließen, stelle sicher, dass du und der Händler genug Geld haben, um die Transaktion abzuschließen.</Value>
     </Record>
     <Record>
       <Key>SomethingWentWrongTrading</Key>
@@ -7893,6 +7896,10 @@ Temperatur {1}</Value>
     <Record>
       <Key>FurnaceSmelting</Key>
       <Value>Schmelze {0}</Value>
+    </Record>
+    <Record>
+      <Key>LogicState</Key>
+      <Value>Status # &lt;color=green&gt;VAR1#</Value>
     </Record>
     <Record>
       <Key>LogicNoDevice</Key>
