@@ -590,5 +590,133 @@ Die Ausrüstungsplätze für Ihren Charakter sehen Sie auf der linken Seite des 
       <Key>TutorialMovingOnUpTitle</Key>
       <Value>Weiter geht&apos;s.</Value>
     </Record>
+    <Record>
+      <Key>TutorialMovingOnUpDescription</Key>
+      <Value>Steige in den Aufzug!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialMovingOnUpTask1</Key>
+      <Value>Betrete den Aufzug und gehe in die nächste Etage</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTimeToScrubTitle</Key>
+      <Value>Zeit zum Schrubben</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTimeToScrubDescription</Key>
+      <Value>Pflanzen benötigen eine sehr spezifische Umgebung, um wachsen zu können, dazu gehören gesunde Luft und eine Versorgung mit Wasser und Sonnenlicht.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTimeToScrubTask1</Key>
+      <Value>Aktiviere {THING:DynamicScrubber}, um Schadstoffe aus der Atmosphäre zu entfernen</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWaterYaThinkAboutThatTitle</Key>
+      <Value>Wasser wohl denkt?</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWaterYaThinkAboutThatDescription</Key>
+      <Value>Lass uns die leere {THING:ItemGasCanisterWater} durch einen schönen frischen Kanister ersetzen.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWaterYaThinkAboutThatTask1</Key>
+      <Value>Füge dem {THING:DynamicHydroponics} die befüllte {THING:ItemGasCanisterWater} hinzu</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLetItGrowTitle</Key>
+      <Value>Lass es wachsen</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLetItGrowDescription</Key>
+      <Value>Die Sache mit dem Weltraum ist, dass es keine Nahrung gibt. Lass uns also versuchen, etwas anzubauen und zu sehen, wie grün dein Daumen wirklich ist.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLetItGrowTask1</Key>
+      <Value>Pflanze die {THING:ItemTomato} in den {THING:DynamicHydroponics} </Value>
+    </Record>
+    <Record>
+      <Key>TutorialLetItGrowTask2</Key>
+      <Value>Warte auf deine reiche Ernte</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSoCloseTitle</Key>
+      <Value>So nah dran</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSoCloseDescription</Key>
+      <Value>So nah, aber so fern. Begib dich in den nächsten Raum.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSoCloseTask1</Key>
+      <Value>Begib dich in den nächsten Raum</Value>
+    </Record>
+    <Record>
+      <Key>TutorialUnderPressureTitle</Key>
+      <Value>Unter Druck</Value>
+    </Record>
+    <Record>
+      <Key>TutorialUnderPressureDescription</Key>
+      <Value>Zeit, dein erstes {THING:StructureAirlock} einzurichten. Die Kabel wurden für dich platziert, du musst nur die Objekte in die richtigen hervorgehobenen Bereiche legen. Die benötigten Objekte findest du im Schließfach. </Value>
+    </Record>
+    <Record>
+      <Key>TutorialUnderPressureTask1</Key>
+      <Value>Platziere die {THING:StructureActiveVent}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialUnderPressureTask2</Key>
+      <Value>Platziere die {THING:StructureConsole}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialUnderPressureTask3</Key>
+      <Value>Platziere den {THING:StructureGasSensor}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialUnderPressureTask4</Key>
+      <Value>Platziere das {THING:StructureFlashingLight}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialUnderPressure1Title</Key>
+      <Value>Unter Druck</Value>
+    </Record>
+    <Record>
+      <Key>TutorialUnderPressure1Description</Key>
+      <Value>Großartig! Lass uns nun den Zyklusprozess einrichten, die bereitgestellten Komponenten einfügen und die Konsole einrichten.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialUnderPressure1Task1</Key>
+      <Value>Einlegen {THING:CircuitboardAirlockControl}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialUnderPressure1Task2</Key>
+      <Value>Stecke die {THING:ItemDataDisk} ein</Value>
+    </Record>
+    <Record>
+      <Key>TutorialUnderPressure1Task3</Key>
+      <Value>Vervollständige die Konsole, indem du das Glas einfügst.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialHackingTheMainframeTitle</Key>
+      <Value>Hacken des Mainframes</Value>
+    </Record>
+    <Record>
+      <Key>TutorialHackingTheMainframeDescription</Key>
+      <Value>Entferne nun die DataDisk und schalte die Konsole ein, um die {THING:StructureAirlock} zu programmieren.
+			
+Wenn du die Luftschleuse auswählst, stelle sicher, dass die Option &quot;INTERIOR&quot; an der Innentür ausgewählt ist. Dies ist daran zu erkennen, dass das Airlocks-Licht von Grün nach Rot wechselt und anzeigt, auf welches Airlock du die Option anwendest.
+			
+Sobald die Konsole ein Gerät ausgewählt hat, ist es unter ihrer Kontrolle und wird gesperrt, es reagiert nicht auf deine Interaktionen.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialHackingTheMainframeTask1</Key>
+      <Value>Zuweisen der {THING:StructureAirlock}-Komponenten</Value>
+    </Record>
+    <Record>
+      <Key>TutorialBeFreeTitle</Key>
+      <Value>Sei frei</Value>
+    </Record>
+    <Record>
+      <Key>TutorialBeFreeDescription</Key>
+      <Value>Lass den Zyklus laufen und lass uns hier rauskommen!</Value>
+    </Record>
   </Interface>
 </Language>
