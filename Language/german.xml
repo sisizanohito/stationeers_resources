@@ -8395,24 +8395,24 @@ Temperatur {1}</Value>
       <Value>Das Verhältnis von co2 in der Geräteatmosphäre</Value>
     </Record>
     <Record>
-      <Key>LogicTypeRatioNitrogenOutput2</Key>
-      <Value>Das Verhältnis von Stickstoff in der Geräteatmosphäre</Value>
-    </Record>
-    <Record>
       <Key>LogicTypeRatioPollutantOutput2</Key>
-      <Value>Das Verhältnis von Schadstoff in der Geräteatmosphäre</Value>
+      <Value>Das Verhältnis von Schadstoffen im Output2-Netzwerk des Geräts</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioVolatilesOutput2</Key>
-      <Value>Das Verhältnis von flüchtigen Stoffen in der Geräteatmosphäre</Value>
+      <Value>Das Verhältnis der flüchtigen Stoffe im Output2-Netzwerk des Geräts</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioWaterOutput2</Key>
-      <Value>Das Verhältnis von Wasser in der Geräteatmosphäre</Value>
+      <Value>Das Verhältnis von Wasser im Output2-Netzwerk des Geräts</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioNitrousOxideOutput2</Key>
-      <Value>Das Verhältnis von Lachgas in der Geräteatmosphäre</Value>
+      <Value>Das Verhältnis von {GAS:Lachgas} im Output2-Netzwerk des Geräts</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeCombustionOutput2</Key>
+      <Value>Die Atmosphäre steht in Flammen. Gibt 1 zurück, wenn das Output2-Netzwerk des Geräts brennt, 0, wenn nicht.</Value>
     </Record>
     <Record>
       <Key>LogicTypeHorizontal</Key>
@@ -8479,6 +8479,25 @@ Temperatur {1}</Value>
       <Value>Gibt 1 zurück, wenn das Gerät gerade im Leerlauf ist, sonst 0</Value>
     </Record>
     <Record>
+      <Key>LogicTypeColor</Key>
+      <Value>Ob von Bedenken hinsichtlich Klarheit, Sicherheit oder einfacher Ästhetik getrieben, {LINK:Stationeers; Stationeers} haben Zugriff auf einen kleinen Regenbogen von Farben für ihre Konstruktionen. Dies sind die Farbeinstellungen für Geräte, die als ganze Zahl dargestellt werden.
+
+0: Blau
+1: Grau
+2: Grün
+3: Orange
+4: Rot
+5: Gelb
+6: Weiß
+7: Schwarz
+8: Braun
+9: Khaki
+10: Rosa
+11: Lila
+
+Es ist ein unerschütterliches universelles Gesetz, dass alles, was höher als 11 ist, lila sein wird. Der {LINK:ODA;ODA} ist machtlos, dies zu ändern. In ähnlicher Weise ist alles, was niedriger als 0 ist, blau.      </Value>
+    </Record>
+    <Record>
       <Key>LogicTypeElevatorSpeed</Key>
       <Value>Aktuelle Geschwindigkeit des Aufzugs</Value>
     </Record>
@@ -8520,19 +8539,19 @@ Temperatur {1}</Value>
     </Record>
     <Record>
       <Key>LogicTypeTotalMolesInput</Key>
-      <Value>Gibt die gesamten Mol des Gerätes zurück</Value>
+      <Value>Gibt die Gesamtzahl der Mole des Eingangsnetzwerks des Geräts zurück.</Value>
     </Record>
     <Record>
       <Key>LogicTypeTotalMolesInput2</Key>
-      <Value>Gibt die gesamten Mol des Gerätes zurück</Value>
+      <Value>Gibt die Gesamtzahl der Mole des Input2-Netzwerks des Geräts zurück.</Value>
     </Record>
     <Record>
       <Key>LogicTypeTotalMolesOutput</Key>
-      <Value>Gibt die gesamten Mol des Gerätes zurück</Value>
+      <Value>Gibt die Gesamtzahl der Mole des Ausgabenetzwerks des Geräts zurück.</Value>
     </Record>
     <Record>
       <Key>LogicTypeTotalMolesOutput2</Key>
-      <Value>Gibt die gesamten Mol des Gerätes zurück</Value>
+      <Value>Gibt die Gesamtzahl der Mole des Output2-Netzwerks des Geräts zurück.</Value>
     </Record>
     <Record>
       <Key>LogicTypeVolume</Key>
@@ -8613,6 +8632,34 @@ Temperatur {1}</Value>
     <Record>
       <Key>LogicTypeSignalID</Key>
       <Value>Gibt die Kontakt-ID des stärksten Signals von diesem Satelliten zurück</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeOperationalTemperatureEfficiency</Key>
+      <Value>Wie sich die Temperatur des Eingangsrohrs auf die Maschineneffizienz auswirkt</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeTemperatureDifferentialEfficiency</Key>
+      <Value>Wie sich die Differenz zwischen den Eingangsrohr- und Abfallrohrtemperaturen auf die Effizienz der Maschine auswirkt</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeCombustionLimiter</Key>
+      <Value>Verzögert die Verbrennungsrate innerhalb der Maschine (Bereich: 0-100), wobei 0 die langsamste Verbrennungsrate und 100 die schnellste ist</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeThrottle</Key>
+      <Value>Erhöht die Geschwindigkeit, mit der die Maschine arbeitet (Bereich: 0-100)</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRpm</Key>
+      <Value>Die Anzahl der Umdrehungen pro Minute, die der sich drehende Mechanismus des Geräts ausführt</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeStress</Key>
+      <Value>Maschinen werden belastet, wenn sie hart arbeiten. Wenn die Belastung 100 erreicht, schaltet sich die Maschine automatisch ab</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypePressureEfficiency</Key>
+      <Value>Wie sich der Druck des Eingangsrohrs und des Abfallrohrs auf die Maschineneffizienz auswirkt</Value>
     </Record>
     <Record>
       <Key>LogicSlotTypeNone</Key>
