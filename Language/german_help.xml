@@ -34,9 +34,48 @@
         {LIST_OF_IMPORTEXPORT}      </Text>
     </StationpediaPage>
     <StationpediaPage>
+      <Key>SmeltingPage</Key>
+      <Title>Schmelzen</Title>
+      <Text>Sobald du {LINK:OrePage;ore} hast, musst du es in {LINK:IngotPage;ingots} umwandeln, damit du deine {LINK:ReagentPage;reagenzien} verwenden kannst. Beim Schmelzen entsteht oft {LINK:GasPage;gases}. Dies geschieht entweder im {THING:StructureArcFurnace} (für einfache Rezepte) oder im {THING:StructureFurnace} für kompliziertere {LINK:AlloyPage; Alloys}, und schließlich im {THING:StructureAdvancedFurnace} für sehr komplizierte {LINK:SuperAlloyPage; Superlegierungen}. Für die komplexen Legierungen musst du Mischungen mit perfekten Verhältnissen erzielen, {LINK:TemperaturePage; Temperatur} und {LINK:PressurePage; Druck}.      </Text>
+    </StationpediaPage>
+    <StationpediaPage>
       <Key>MiningPage</Key>
       <Title>Bergbau</Title>
       <Text>Sie können {LINK: OrePage; Erze} mithilfe eines {THING:ItemMiningDrill} abbauen. Wenn Sie einen {THING:ItemMiningBelt} tragen, werden {LINK: OrePage;Erze} automatisch hinein gelegt.</Text>
+    </StationpediaPage>
+    <StationpediaPage>
+      <Key>TradingPage</Key>
+      <Title>Handel</Title>
+      <DisplayFilter>Guides</DisplayFilter>
+      <Text>Der Handel ist ein wesentlicher Bestandteil der Existenz eines {LINK:Stationeers; Stationeers}, besonders auf extremeren Welten, in denen neue Kadetten vor der Herausforderung stehen, selbstständig zu überleben.
+
+{HEADER:Erste Schritte}
+
+Um einen Händler zu kontaktieren, musst du ein Kommunikationssystem einrichten. Dies erfordert Folgendes:
+
+- Eine funktionierende {THING:StructureVendingMachine} zum Lagern und Handeln von Gegenständen.
+- Eine funktionstüchtige {THING:StructureSatelliteDish} zum Auffinden und Identifizieren potenzieller Händler.
+- Ein funktionierender {THING:StructureComputer} mit einem {THING:MotherboardComms}
+- Ein aktives {THING:StructureShuttleLandingPad} für den Händler zum Landen.
+
+Wenn dein System betriebsbereit ist, siehst du einen leeren Bildschirm auf dem Computerterminal. Passe die Position der Satellitenschüssel an, bis sie einen oder mehrere Händler registriert. Diese erscheinen auf dem Bildschirm mit einer Bewertung von 1-100%. Das ist Ihre Signalstärke. Ein Händler kann nur gerufen werden, wenn die Signalstärke über 95% liegt. Sobald ein Händler kontaktiert wurde, wird er anschließend einen Namen angeben. Verschiedene Händler bieten verschiedene Kategorien von Artikeln an.
+
+{HEADER:Händler}
+
+Elektronik - TechTree Elektronik
+Organisches - Organicon
+Grundlagen - Basic Spes&apos;mall Basics
+Hydraulisches - HydrauliKit
+Erze - MineRiteOres
+Mikrowellen - Mikrowares
+Chemie - ChemLab
+Exotisches - ExoTech
+Farben - Color Corp Paints
+Werkzeuge - Tool Corp
+Security - Hall Corp Security
+Sonstiges - Kolders&apos; Assorted Goods
+Gas - GasTrade
+Benutzerdefiniert - Spes&apos;mall      </Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>ReagentPage</Key>

@@ -10753,9 +10753,9 @@ Le programme Stationeers, qui est fondamentalement ouvert à toute l’humanité
     </Record>
     <Record>
       <Key>MoleCarbonDioxideDescription</Key>
-      <Value>Vous l&apos;expirez, les &lt;color=#0080FFFF&gt;{LINK:OrganicPage;plantes}&lt;/color&gt; le respirent et ne peuvent grandir sans lui.
-      
-Le dioxyde de carbone a une efficacité thermique modéré, cela en fait un bon élément de régulation de température pour la clim murale {THING:StructureWallCooler}. L&apos;eau est plus efficace, mais elle a des usages bien plus importants.</Value>
+      <Value>Vous l&apos;expirez, les {LINK:OrganicPage;plantes} le respirent et ne peuvent grandir sans lui. Vous pouvez utiliser les objets placés dans les emplacements {SLOT:GasFilter} pour le retirer de l&apos;atmosphère.
+ 
+Le {GAS:CarbonDioxide} a une efficacité thermique modéré, cela en fait un bon fluide caloporteur pour une {THING:StructureWallCooler}. L&apos;{GAS:Water} est plus efficace, mais elle a des usages bien plus importants.</Value>
     </Record>
     <Record>
       <Key>MoleVolatilesDescription</Key>
