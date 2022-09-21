@@ -5058,11 +5058,11 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemLiquidPipeAnalyzer</Key>
-      <Value/>
+      <Value>Kit (analyseur de tuyaux pour liquides)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidPipeAnalyzer</Key>
-      <Value/>
+      <Value>Analyseur de tuyaux (liquide)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitModularRocketGasMining</Key>
@@ -5070,7 +5070,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureModularRocketGasMining</Key>
-      <Value>Module d&apos;extraction de gaz de fusée autonome</Value>
+      <Value>Module de collecte de gaz de fusée autonome</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitHeatExchanger</Key>
@@ -10746,6 +10746,10 @@ Le programme Stationeers, qui est fondamentalement ouvert à toute l’humanité
     <Record>
       <Key>StationpediaNutrition</Key>
       <Value>Nutrition :</Value>
+    </Record>
+    <Record>
+      <Key>MoleOxygenDescription</Key>
+      <Value>L&apos;oxygène fournit de l&apos;énergie lorsqu&apos;il est introduit dans une combustion. En association avec du {GAS:Volatiles}, il génère aussi de l&apos;{GAS:Water}. Il est produit par les {LINK:OrganicPage;plantes}, ainsi qu&apos;à partir du traitement de l&apos;{THING:ItemOxite} et est hautement inflammable même à basse température.</Value>
     </Record>
     <Record>
       <Key>MoleNitrogenDescription</Key>
