@@ -8820,7 +8820,7 @@ Temperatur {1}</Value>
     </Record>
     <Record>
       <Key>SettingsWorldOrigin</Key>
-      <Value>Weltenursprung</Value>
+      <Value>Umsetzen World Origin</Value>
     </Record>
     <Record>
       <Key>PromptPauseBody</Key>
@@ -8833,6 +8833,22 @@ Temperatur {1}</Value>
     <Record>
       <Key>PromptResumeButton</Key>
       <Value>Fortsetzen</Value>
+    </Record>
+    <Record>
+      <Key>BuildTimeMultiplier</Key>
+      <Value>Konstruktionszeit-Multiplikator</Value>
+    </Record>
+    <Record>
+      <Key>MaterialCostMultiplier</Key>
+      <Value>Materialkosten-Multiplikator</Value>
+    </Record>
+    <Record>
+      <Key>EnergyCostMultiplier</Key>
+      <Value>Energiekosten-Multiplikator</Value>
+    </Record>
+    <Record>
+      <Key>CreationMultiplier</Key>
+      <Value>Erstellungs Multiplikator</Value>
     </Record>
     <Record>
       <Key>TierThree</Key>
@@ -8968,7 +8984,7 @@ Temperatur {1}</Value>
     </Record>
     <Record>
       <Key>SolarScaleField</Key>
-      <Value>Sonnenstärke</Value>
+      <Value>Solare Intensitätsskala</Value>
     </Record>
     <Record>
       <Key>DawnTemperatureField</Key>
@@ -9003,6 +9019,10 @@ Temperatur {1}</Value>
       <Value>Solide Terrain Farbe</Value>
     </Record>
     <Record>
+      <Key>CartridgeTrackerSelected</Key>
+      <Value>Scrolle, um das Ziel auszuwählen</Value>
+    </Record>
+    <Record>
       <Key>CartridgeElectronicReaderSelected</Key>
       <Value>Stahlgerüst</Value>
     </Record>
@@ -9025,6 +9045,18 @@ Temperatur {1}</Value>
     <Record>
       <Key>CartridgeAtmosAnalyserTemperatureTitle</Key>
       <Value>Temperatur</Value>
+    </Record>
+    <Record>
+      <Key>CartridgeAtmosAnalyserConvectedTitle</Key>
+      <Value>KONVEKTION</Value>
+    </Record>
+    <Record>
+      <Key>CartridgeAtmosAnalyserRadiatedTitle</Key>
+      <Value>AUSGESTRAHLT</Value>
+    </Record>
+    <Record>
+      <Key>CartridgeAtmosAnalyserTitle</Key>
+      <Value>ATMOSPHÄRENANALYSATOR</Value>
     </Record>
     <Record>
       <Key>BigWarning</Key>
@@ -9061,6 +9093,14 @@ Temperatur {1}</Value>
     <Record>
       <Key>ElectronicReaderIce</Key>
       <Value>Eis</Value>
+    </Record>
+    <Record>
+      <Key>ElectronicReaderOxite</Key>
+      <Value>Oxit</Value>
+    </Record>
+    <Record>
+      <Key>ElectronicReaderNitrice</Key>
+      <Value>Stickstoff</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderVolatiles</Key>
@@ -9243,12 +9283,60 @@ Temperatur {1}</Value>
       <Value>Szenarien</Value>
     </Record>
     <Record>
+      <Key>ScenariosObjectiveTitle</Key>
+      <Value>Ziel</Value>
+    </Record>
+    <Record>
+      <Key>TutorialsObjectiveTitle</Key>
+      <Value>Ziel</Value>
+    </Record>
+    <Record>
       <Key>SettingsTerrainClutter</Key>
       <Value>Geländerauheit</Value>
     </Record>
     <Record>
       <Key>ResetInventoryTitle</Key>
       <Value>Inventarfenster zurücksetzen</Value>
+    </Record>
+    <Record>
+      <Key>ResetInventoryDescription</Key>
+      <Value>Dadurch werden alle nicht angedockten Inventarfenster zurückgesetzt.</Value>
+    </Record>
+    <Record>
+      <Key>Construction Supplies 1</Key>
+      <Value>Baumaterial 1</Value>
+    </Record>
+    <Record>
+      <Key>Construction Supplies 2</Key>
+      <Value>Baumaterial 2</Value>
+    </Record>
+    <Record>
+      <Key>Organic Supplies</Key>
+      <Value>Bio-Komponenten</Value>
+    </Record>
+    <Record>
+      <Key>Organic Supplies 1</Key>
+      <Value>Bio-Komponenten 1</Value>
+    </Record>
+    <Record>
+      <Key>Organic Supplies 2</Key>
+      <Value>Bio-Komponenten 2</Value>
+    </Record>
+    <Record>
+      <Key>Consumables Supplies</Key>
+      <Value>Verbrauchsmaterialien</Value>
+    </Record>
+    <Record>
+      <Key>Portable Appliance Kits</Key>
+      <Value>Tragbare Geräte Bausätze</Value>
+    </Record>
+    <Record>
+      <Key>Misc Crate</Key>
+      <Value>Sonstiges Kiste</Value>
+    </Record>
+    <Record>
+      <Key>Communications Crate</Key>
+      <Value>Kommunikationskiste</Value>
     </Record>
     <Record>
       <Key>SettingsTerrainClutterMultiplier</Key>
@@ -9259,8 +9347,24 @@ Temperatur {1}</Value>
       <Value>Startet den Forschungsprozess.</Value>
     </Record>
     <Record>
+      <Key>ManualGetResearchPodsRequired</Key>
+      <Value>Legt fest, dass der Pod-Typ beim Aufschlüsseln eines Pods nach einem bestimmten Pod sucht.</Value>
+    </Record>
+    <Record>
       <Key>CurrentResearchPodType</Key>
-      <Value>Gibt den Hash des Gegenstandes im Slot zurück</Value>
+      <Value>Gibt den im Computer gespeicherten Pod-Typ zurück.</Value>
+    </Record>
+    <Record>
+      <Key>MineablesInVicinity</Key>
+      <Value>Gibt die Menge potenzieller Rohstoffe innerhalb eines erweiterten Gebiets um AIMEe zurück.</Value>
+    </Record>
+    <Record>
+      <Key>MineablesInQueue</Key>
+      <Value>Gibt die Menge an Rohstoffen zurück, die AIMEe für den Abbau in die Warteschlange gestellt hat.</Value>
+    </Record>
+    <Record>
+      <Key>NextWeatherEventTime</Key>
+      <Value>Gibt in Sekunden aus, wann das nächste Wetterereignis eintrifft.</Value>
     </Record>
     <Record>
       <Key>ResearchTitle</Key>
@@ -9277,6 +9381,18 @@ Temperatur {1}</Value>
     <Record>
       <Key>ServerReadyString</Key>
       <Value>Server kann nun gestartet werden.</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandL</Key>
+      <Value>Lädt die var des Geräts in das Register.</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandLB</Key>
+      <Value>Lädt var von allen Ausgabenetzwerkgeräten mit bereitgestelltem hash im Bereitstellungsbatchmodus.  Average (0), Sum (1), Minimum (2), Maximum (3). Du kannst entweder das Wort oder die Zahl verwenden.</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandS</Key>
+      <Value>Speichert den Registrierungswert auf dem Gerät in die var.</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSB</Key>
