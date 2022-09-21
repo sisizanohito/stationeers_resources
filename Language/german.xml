@@ -9319,8 +9319,28 @@ Temperatur {1}</Value>
       <Value>Register = 1 wenn a und b 0 sind, sonst 0</Value>
     </Record>
     <Record>
+      <Key>ScriptCommandBneal</Key>
+      <Value>Abzweigen zu Zeile c, wenn a != b und speicher die nächste Zeilennummer in ra</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandBapal</Key>
+      <Value>Abzweigen zu Linie d, wenn abs(a - b) &lt;= max(c * max(abs(a), abs(b)), float.epsilon * 8) und speicher die nächste Zeilennummer in ra</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandBnaal</Key>
+      <Value>Abzweigen zu Linie d, wenn abs(a - b) &lt;= max(c * max(abs(a), abs(b)), float.epsilon * 8) und speicher die nächste Zeilennummer in ra</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandBltzal</Key>
+      <Value>Abzweigen zu Linie b, wenn a &lt; 0 und speicher die nächste Zeilennummer in ra</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandBgezal</Key>
+      <Value>Abzweigen zu Zeile b, wenn a &gt;= 0 und speicher die nächste Zeilennummer in ra</Value>
+    </Record>
+    <Record>
       <Key>ScriptCommandBlezal</Key>
-      <Value>Abzweigen zu Zeile b, wenn a &gt; 0 und speicher die nächste Zeilennummer in ra</Value>
+      <Value>Abzweigen zu Zeile b, wenn a &lt;= 0 und speicher die nächste Zeilennummer in ra</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBgtzal</Key>
