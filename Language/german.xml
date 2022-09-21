@@ -9319,6 +9319,26 @@ Temperatur {1}</Value>
       <Value>Register = 1 wenn a und b 0 sind, sonst 0</Value>
     </Record>
     <Record>
+      <Key>ScriptCommandBltal</Key>
+      <Value>Abzweigen zu Linie c, wenn a &lt; b und speicher die nächste Zeilennummer in ra</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandBgtal</Key>
+      <Value>Abzweigen zu Zeile c, wenn a &gt; b und speicher die nächste Zeilennummer in ra</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandBleal</Key>
+      <Value>Abzweigen zu Linie c, wenn a &lt;= b und speicher die nächste Zeilennummer in ra</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandBgeal</Key>
+      <Value>Abzweigen zu Zeile c, wenn a &gt;= b und speicher die nächste Zeilennummer in ra</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandBeqal</Key>
+      <Value>Abzweigen zu Zeile c, wenn a == b und speicher die nächste Zeilennummer in ra</Value>
+    </Record>
+    <Record>
       <Key>ScriptCommandBneal</Key>
       <Value>Abzweigen zu Zeile c, wenn a != b und speicher die nächste Zeilennummer in ra</Value>
     </Record>
