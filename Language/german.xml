@@ -9319,6 +9319,78 @@ Temperatur {1}</Value>
       <Value>Register = 1 wenn a und b 0 sind, sonst 0</Value>
     </Record>
     <Record>
+      <Key>ScriptCommandBrgt</Key>
+      <Value>Relativer Sprung zu Zeile C, wenn a &gt; b</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandBrle</Key>
+      <Value>Relativer Sprung zu Zeile c, wenn ein &lt;= b</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandBrge</Key>
+      <Value>Relativer Sprung zu Zeile c, wenn a &gt;= b</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandBreq</Key>
+      <Value>Relative Abzweigung zu Zeile c, wenn a == b</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandBrne</Key>
+      <Value>Relative Abzweigung zu Zeile c, wenn a != b</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandBrap</Key>
+      <Value>Relative Abzweigung zu Zeile d, wenn abs(a - b) &lt;= max(c * max(abs(a), abs(b)), float.epsilon * 8)</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandBrna</Key>
+      <Value>Relative Abzweigung zu Zeile d, wenn abs(a - b) &gt; max(c * max(abs(a), abs(b)), float.epsilon * 8)</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandBrltz</Key>
+      <Value>Relative Abzweigung zu Zeile b, wenn a &lt; 0</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandBrgez</Key>
+      <Value>Relative Abzweigung zu Zeile b, wenn a &gt;= 0</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandBrlez</Key>
+      <Value>Relative Abzweigung zu Zeile b, wenn a &lt;= 0</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandBrgtz</Key>
+      <Value>Relative Abzweigung zu Zeile b, wenn a &gt; 0</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandBreqz</Key>
+      <Value>Relative Abzweigung zu Zeile b, wenn a == 0</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandBrnez</Key>
+      <Value>Relative Abzweigung zu Zeile b, wenn a != 0</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandBrapz</Key>
+      <Value>Relative Abzweigung zu Zeile c, wenn abs(a) &lt;= float.epsilon * 8</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandBrnaz</Key>
+      <Value>Relative Abzweigung zu Zeile c, wenn abs(a) &gt; float.epsilon * 8</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandJal</Key>
+      <Value>Springe zur Ausführung zu Zeile a und speicher die nächste Zeilennummer ra</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandBdseal</Key>
+      <Value>Springe zur Ausführung zu Zeile a und speicher die nächste Zeilennummer, wenn das Gerät eingestellt ist</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandBdnsal</Key>
+      <Value>Springe zur Ausführung zu Zeile a und speicher die nächste Zeilennummer, wenn das Gerät nicht eingestellt ist</Value>
+    </Record>
+    <Record>
       <Key>ScriptCommandBltal</Key>
       <Value>Abzweigen zu Linie c, wenn a &lt; b und speicher die nächste Zeilennummer in ra</Value>
     </Record>
