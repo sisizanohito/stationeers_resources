@@ -335,6 +335,34 @@ Die Ausrüstungsplätze für Ihren Charakter sehen Sie auf der linken Seite des 
       <Value>Wähle das Rezept {THING:ItemKitSolarPanel} auf dem Drucker aus.</Value>
     </Record>
     <Record>
+      <Key>TutorialSeeTheLightTitle</Key>
+      <Value>Sehe das Licht</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSeeTheLightDescription</Key>
+      <Value>Verwende die erforderlichen Materialien, um ein {THING:ItemKitSolarPanel} zu bauen, du solltest diese im Schrank finden.  </Value>
+    </Record>
+    <Record>
+      <Key>TutorialSeeTheLightTask1</Key>
+      <Value>Füge die Materialien hinzu, um ein {THING:ItemKitSolarPanel} zu konstruieren</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSeeTheLightTask2</Key>
+      <Value>Hebe das {THING:ItemKitSolarPanel} mit {KEY:PrimaryAction} auf</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSeeTheLight1Title</Key>
+      <Value>Sehe das Licht</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSeeTheLight1Description</Key>
+      <Value>Weiter geht&apos;s.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSeeTheLight1Task1</Key>
+      <Value>Begib dich in den nächsten Raum</Value>
+    </Record>
+    <Record>
       <Key>TutorialBreakOutTask1</Key>
       <Value>Nimm dein {THING:ItemCrowbar}</Value>
     </Record>

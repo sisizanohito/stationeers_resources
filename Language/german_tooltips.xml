@@ -14,6 +14,22 @@
       <Value>Giftwarnung</Value>
     </Record>
     <Record>
+      <Key>StatusIconHydrationDesc</Key>
+      <Value>Flüssigkeitshaushalt geht zur Neige</Value>
+    </Record>
+    <Record>
+      <Key>StatusIconHydrationKey</Key>
+      <Value>Flüssigkeitshaushalt niedrig</Value>
+    </Record>
+    <Record>
+      <Key>HydrationCaution</Key>
+      <Value>Flüssigkeitshaushalt Gefahr</Value>
+    </Record>
+    <Record>
+      <Key>HydrationCritical</Key>
+      <Value>Flüssigkeitshaushalt Kritisch</Value>
+    </Record>
+    <Record>
       <Key>StatusIconToxinCritical</Key>
       <Value>Vergiftungsgrad kritisch</Value>
     </Record>

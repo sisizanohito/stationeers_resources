@@ -3606,11 +3606,11 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitStructureModularRocketCommand01</Key>
-      <Value>Triebwerk (Groß)</Value>
+      <Value>Bausatz (Rakete Befehlsmodul)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitStructureModularRocketCargo01</Key>
-      <Value>Triebwerk (Groß)</Value>
+      <Value>Bausatz (Rakete Frachtmodul)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitStructureLaunchPad</Key>
