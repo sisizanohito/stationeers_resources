@@ -118,6 +118,12 @@
       <Value>Baumaterialien erhalten</Value>
     </Record>
     <Record>
+      <Key>TutorialDescGetTools1</Key>
+      <Value>Jetzt müssen wir aus der Station nach draußen gehen, um einige Reparaturen durchzuführen. Lasse alles in deinen Händen mit der Taste {KEY:Drop} fallen, damit wir andere Dinge aufheben können. Denke daran, dass du {KEY:MouseControl} verwenden kannst, um die Maus für die {LINK:InventoryPage;inventory}-Verwaltung zu aktivieren, und du kannst die {COLORYELLOW:Active Hand} ändern, indem du die Taste {KEYS:SwapHands} drückst.
+
+Die Verwaltung deines {LINK:InventoryPage;inventory} erfordert Geschick und Übung; Denke im Voraus sorgfältig darüber nach, was du mitnehmen willst und plane dein Vorgehen. Eine leere {THING:ItemGasCanisterOxygen} oder {THING:ItemBatteryCellLarge} zu haben, kann katastrophal sein. Es ist auch leicht, sich zu verirren. Sei vorsichtig!      </Value>
+    </Record>
+    <Record>
       <Key>TutorialTaskGetTools1</Key>
       <Value>{THING:ItemTablet} fallen lassen.</Value>
     </Record>

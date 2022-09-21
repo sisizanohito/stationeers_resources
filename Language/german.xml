@@ -2918,7 +2918,7 @@
     </RecordThing>
     <RecordThing>
       <Key>CircuitboardHashDisplay</Key>
-      <Value>Platine (Hash-Anzeige)</Value>
+      <Value>Hash-Anzeige</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureHydroponicsStation</Key>
@@ -2946,7 +2946,7 @@
     </RecordThing>
     <RecordThing>
       <Key>CircuitboardGraphDisplay</Key>
-      <Value>Platine (Graphanzeige)</Value>
+      <Value>Diagrammanzeige</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitMotherShipCore</Key>
@@ -2962,7 +2962,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPipeValve</Key>
-      <Value>Rohrventil (Bausatz)</Value>
+      <Value>Bausatz (Rohrventil)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitDynamicGenerator</Key>
@@ -3054,7 +3054,7 @@
     </RecordThing>
     <RecordThing>
       <Key>CircuitboardAdvAirlockControl</Key>
-      <Value>Platine (Erweiterte Luftschleusensteuerung)</Value>
+      <Value>Fortschrittliche Luftschleuse</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPressurePlate</Key>
@@ -3074,11 +3074,11 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitDynamicCanister</Key>
-      <Value>Portabler Tank (Bausatz)</Value>
+      <Value>Bausatz (Tragbarer Gastank)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitDynamicLiquidCanister</Key>
-      <Value>Portabler Tank (Bausatz)</Value>
+      <Value>Bausatz (Tragbarer Flüssigkeitstank)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemFlowerBlue</Key>
@@ -3258,7 +3258,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureBasketHoop</Key>
-      <Value>Basketballkorb</Value>
+      <Value>Basketball Korb</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterNitrousOxide</Key>
@@ -3314,7 +3314,7 @@
     </RecordThing>
     <RecordThing>
       <Key>MotherboardComms</Key>
-      <Value>Hauptplatine (Kommunikation)</Value>
+      <Value>Kommunikation Hauptplatine</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemMarineBodyArmor</Key>
@@ -3365,20 +3365,56 @@
       <Value>Rover Rahmen (Bausatz)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureStairs4x2Rails</Key>
+      <Value>Treppen mit Geländern</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureStairs4x2RailL</Key>
+      <Value>Treppe mit Geländer (Links)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureStairs4x2RailR</Key>
+      <Value>Treppe mit Geländer (Rechts)</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>Meteorite</Key>
       <Value>Meteorit</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemKitAutoMiner</Key>
+      <Value>Bausatz (Förderbohrer)</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>DynamicGasCanisterNitrousOxide</Key>
-      <Value>Portabler Tank (Distickstoffmonoxid N2O)</Value>
+      <Value>Tragbarer Gastank (Lachgas)</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterPollutants</Key>
-      <Value>Portabler Tank (Flüchtige Stoffe)</Value>
+      <Value>Tragbarer Gastank (Schadstoffe)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>Lander</Key>
+      <Value>Landefahrzeug</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemRemoteDetonator</Key>
+      <Value>Fernzünder</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemExplosive</Key>
+      <Value>Ferngezündeter Sprengstoff</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureSolarPanelFused</Key>
       <Value>Solarmodul</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCoffeeMug</Key>
+      <Value>Kaffeetasse</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>Robot</Key>
+      <Value>AIMeE Roboter</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLogicTransmitter</Key>
