@@ -9319,12 +9319,76 @@ Temperatur {1}</Value>
       <Value>Register = 1 wenn a und b 0 sind, sonst 0</Value>
     </Record>
     <Record>
+      <Key>ScriptCommandBlezal</Key>
+      <Value>Abzweigen zu Zeile b, wenn a &gt; 0 und speicher die nächste Zeilennummer in ra</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandBgtzal</Key>
+      <Value>Abzweigen zu Zeile b, wenn a &gt; 0 und speicher die nächste Zeilennummer in ra</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandBeqzal</Key>
+      <Value>Abzweigen zu Zeile b, wenn a == 0 und speicher die nächste Zeilennummer in ra</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandBnezal</Key>
+      <Value>Abzweigen zu Zeile b, wenn a != 0 und speicher die nächste Zeilennummer in ra</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandBapzal</Key>
+      <Value>Abzweigung zur Linie c, wenn abs(a) &lt;= float.epsilon * 8</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandBnazal</Key>
+      <Value>Abzweigung zur Linie c, wenn abs(a) &gt; float.epsilon * 8</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandSqrt</Key>
+      <Value>Register = Quadratwurzel a</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandRound</Key>
+      <Value>Register = a auf die nächste ganze Zahl gerundet</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandTrunc</Key>
+      <Value>Register = a mit entferntem Bruchteil</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandCeil</Key>
+      <Value>Register = kleinste ganze Zahl größer als a</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandFloor</Key>
+      <Value>Register = größte ganze Zahl kleiner als a</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandMax</Key>
+      <Value>Register = max von a oder b</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandMin</Key>
+      <Value>Register = min von a oder b</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandAbs</Key>
+      <Value>Register = der absolute Wert eines</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandRand</Key>
+      <Value>Register = ein Zufallswert x mit 0 &lt;= x &lt; 1</Value>
+    </Record>
+    <Record>
       <Key>ScriptCommandYield</Key>
       <Value>Pausiert die Ausführung für 1 Tick</Value>
     </Record>
     <Record>
       <Key>ScriptCommandLabel</Key>
       <Value>VERALTET</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandPeek</Key>
+      <Value>Register = der Wert am oberen Rand des Stacks</Value>
     </Record>
     <Record>
       <Key>ScriptCommandPush</Key>
