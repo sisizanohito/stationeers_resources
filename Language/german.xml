@@ -3465,16 +3465,16 @@
       <Value>Werkzeugmanufaktur-Upgrade</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureTransformerMedium</Key>
-      <Value>Mittlerer Transformator Rechts</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>StructureTransformerMediumReversed</Key>
-      <Value>Mittlerer Transformator Links</Value>
+      <Value>Transformator umgekehrt (Mittel)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureTransformerMedium(Reversed)</Key>
-      <Value>Mittlerer Transformator Links</Value>
+      <Value>Transformator umgekehrt (Mittel)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemJetpackBasic</Key>
+      <Value>Jetpack Einfach</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureRTGSurvival</Key>
@@ -3533,44 +3533,184 @@
       <Value>Elektronische Teile</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemKitResearchMachine</Key>
+      <Value>Bausatz Forschungsmaschine</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureResearchMachine</Key>
+      <Value>Forschungsmaschine</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureShelf</Key>
+      <Value>Regal</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>HumanSkull</Key>
       <Value>Schädel</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructurePictureFrameThinMountLandscapeLarge</Key>
+      <Value>Bilderrahmen Dünn Querformat Groß</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePictureFrameThinMountLandscapeSmall</Key>
+      <Value>Bilderrahmen Dünn Querformat Klein</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePictureFrameThinMountPortraitLarge</Key>
+      <Value>Bilderrahmen Dünn Hochformat Groß</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePictureFrameThinMountPortraitSmall</Key>
+      <Value>Bilderrahmen Dünn Hochformat Klein</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePictureFrameThinPortraitSmall</Key>
+      <Value>Bilderrahmen Dünn Hochformat Klein</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePictureFrameThinLandscapeSmall</Key>
+      <Value>Bilderrahmen Dünn Querformat Klein</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePictureFrameThinLandscapeLarge</Key>
+      <Value>Bilderrahmen Dünn Querformat Groß</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePictureFrameThickPortraitSmall</Key>
+      <Value>Bilderrahmen Stabil Hochformat Klein</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePictureFrameThickMountPortraitSmall</Key>
+      <Value>Bilderrahmen Stabil Montiert Hochformat Klein</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePictureFrameThickMountPortraitLarge</Key>
+      <Value>Bilderrahmen Stabil Montiert Hochformat Groß</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePictureFrameThickMountLandscapeSmall</Key>
+      <Value>Bilderrahmen Stabil Querformat Klein</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePictureFrameThickMountLandscapeLarge</Key>
+      <Value>Bilderrahmen Stabil Querformat Groß</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePictureFrameThickLandscapeSmall</Key>
+      <Value>Bilderrahmen Stabil Querformat Klein</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePictureFrameThickLandscapeLarge</Key>
+      <Value>Bilderrahmen Stabil Querformat Groß</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePictureFrameThickPortraitLarge</Key>
+      <Value>Bilderrahmen Stabil Hochformat Groß</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePictureFrameThinPortraitLarge</Key>
+      <Value>Bilderrahmen Dünn Hochformat Groß</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ApplianceDeskLampLeft</Key>
+      <Value>Gerät Schreibtischlampe Left</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ApplianceDeskLampRight</Key>
+      <Value>Gerät Schreibtischlampe Rechts</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>QuarryDrillBitBasic</Key>
+      <Value>Steinbruch-Bohrkopf Einfach</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemResearchCapsuleRed</Key>
+      <Value>Forschungskapsel Rot</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemResearchCapsuleYellow</Key>
+      <Value>Forschungskapsel Gelb</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemResearchCapsuleGreen</Key>
+      <Value>Forschungskapsel Grün</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemResearchCapsule</Key>
+      <Value>Forschungskapsel Blau</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitPictureFrame</Key>
-      <Value>Rohrventil (Bausatz)</Value>
+      <Value>Bausatz Bilderrahmen</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemVoxelTool</Key>
-      <Value>Zeigestock</Value>
+      <Value>Voxel Werkzeug</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitAIMeE</Key>
+      <Value>Bausatz (AIMeE)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureAutoMinerSmall</Key>
+      <Value>Förderbohrer (Klein)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAutoMinerSmall</Key>
-      <Value>Triebwerk (Bausatz - Klein)</Value>
+      <Value>Bausatz (Förderbohrer Klein)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemDirtCannister</Key>
+      <Value>Erdreich Kanister</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemDirtCanister</Key>
-      <Value>Gasflasche</Value>
+      <Value>Erdreich Kanister</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemTerrainManipulator</Key>
+      <Value>Geländemanipulator</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLaunchPad</Key>
       <Value>Landeplattform</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureModularRocketCargo01</Key>
+      <Value>Rakete Frachtmodul</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureModularRocketCommand01</Key>
-      <Value>Triebwerk (Groß)</Value>
+      <Value>Rakete Befehlsmodul</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicModularRocketCommand01</Key>
-      <Value>Triebwerk (Groß)</Value>
+      <Value>Rakete Befehlsmodul</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureReverseElectrolyzer</Key>
+      <Value>Umkehr Elektrolyseur</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>H2Combustor</Key>
+      <Value>H2 Brennkammer</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureInsulatedPipeStraight</Key>
+      <Value>Isoliertes Rohr Gerade</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureInsulatedPipeCorner</Key>
+      <Value>Isolierter Rohrbogen</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedPipeCrossJunction</Key>
-      <Value>Rohrkreuzung</Value>
+      <Value>Isolierte Rohrquerverbindung</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedPipeCrossJunction3</Key>
-      <Value>Rohrkreuzung</Value>
+      <Value>Isoliertes Rohr Quer (3-Wege Ecke)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedPipeCrossJunction4</Key>
