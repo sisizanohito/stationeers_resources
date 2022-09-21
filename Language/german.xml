@@ -8023,6 +8023,10 @@ Temperatur {1}</Value>
       <Value>Das teilweise geschmolzene Eis, hat dem Planeten nun endlich eine Atmosphäre gegeben. Jedoch stellt die extrem eisige Umgebung eine große Herausforderung für die Stationeers dar. Die extreme Kälte führt dazu, dass Batterien schnell an Strom verlieren. Daher sind eine dauerhafte Stromquelle und ein warmer Ort ihre Prioritäten.</Value>
     </Record>
     <Record>
+      <Key>NewWorldMimasShortDesc</Key>
+      <Value>Ein karger Felsen, der sich unter die Flügel der Spektralringe des Saturn schmiegt. Mimas winzige Statur spiegelt sich in seiner extrem niedrigen Schwerkraft wider, und die mimanteische Oberfläche ist mit Einschlagkratern von eigensinnigen Ringnachbarn gesättigt. Die Entfernung von der Sonne liefert wenig Strom über Solargeräte. Sei sehr vorsichtig beim Gehen oder Springen, da du aufgrund der extrem geringen Schwerkraft einen langen Weg zurücklegen und viel Geschwindigkeit gewinnen kannst.</Value>
+    </Record>
+    <Record>
       <Key>SettingsTitleAudioAlerts</Key>
       <Value>Sprachbenachrichtigungen</Value>
     </Record>
@@ -8220,35 +8224,35 @@ Temperatur {1}</Value>
     </Record>
     <Record>
       <Key>LogicTypePressureInput</Key>
-      <Value>Der aktuell gelesene Druck des Gerätes</Value>
+      <Value>Der aktuelle Druckmesswert des Eingangsnetzwerks des Geräts</Value>
     </Record>
     <Record>
       <Key>LogicTypeTemperatureInput</Key>
-      <Value>Die aktuell gelesene Temperatur des Gerätes</Value>
+      <Value>Die aktuelle Temperaturmessung des Eingangsnetzwerks des Geräts</Value>
     </Record>
     <Record>
       <Key>LogicTypePressureInput2</Key>
-      <Value>Der aktuell gelesene Druck des Gerätes</Value>
+      <Value>Der aktuelle Druckmesswert des Input2-Netzwerks des Geräts</Value>
     </Record>
     <Record>
       <Key>LogicTypeTemperatureInput2</Key>
-      <Value>Die aktuell gelesene Temperatur des Gerätes</Value>
+      <Value>Der aktuelle Temperaturwert des Input2-Netzwerks des Geräts</Value>
     </Record>
     <Record>
       <Key>LogicTypePressureOutput</Key>
-      <Value>Der aktuell gelesene Druck des Gerätes</Value>
+      <Value>Der aktuelle Druckmesswert des Ausgangsnetzwerks des Geräts</Value>
     </Record>
     <Record>
       <Key>LogicTypeTemperatureOutput</Key>
-      <Value>Die aktuell gelesene Temperatur des Gerätes</Value>
+      <Value>Der aktuelle Temperaturwert des Ausgangsnetzwerks des Geräts</Value>
     </Record>
     <Record>
       <Key>LogicTypePressureOutput2</Key>
-      <Value>Der aktuell gelesene Druck des Gerätes</Value>
+      <Value>Der aktuelle Druckmesswert des Output2-Netzwerks des Geräts</Value>
     </Record>
     <Record>
       <Key>LogicTypeTemperatureOutput2</Key>
-      <Value>Die aktuell gelesene Temperatur des Gerätes</Value>
+      <Value>Die aktuelle Temperaturmessung des Output2-Netzwerks des Geräts</Value>
     </Record>
     <Record>
       <Key>LogicTypePressureExternal</Key>
@@ -8280,7 +8284,7 @@ Temperatur {1}</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioCarbonDioxide</Key>
-      <Value>Das Verhältnis von co2 in der Geräteatmosphäre</Value>
+      <Value>Das Verhältnis von {GAS:Kohlendioxid} in der Geräteatmosphäre</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioNitrogen</Key>
@@ -8300,35 +8304,39 @@ Temperatur {1}</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioNitrousOxide</Key>
-      <Value>Das Verhältnis von Lachgas in der Geräteatmosphäre</Value>
+      <Value>Das Verhältnis von {GAS:Lachgas} in der Geräteatmosphäre</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeCombustion</Key>
+      <Value>Die Atmosphäre steht in Flammen. Gibt 1 zurück, wenn die Atmosphäre brennt, 0, wenn nicht.</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioOxygenInput</Key>
-      <Value>Das Verhältnis von Sauerstoff in der Geräteatmosphäre</Value>
+      <Value>Das Verhältnis von Sauerstoff im Eingangsnetzwerk des Geräts</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioCarbonDioxideInput</Key>
-      <Value>Das Verhältnis von co2 in der Geräteatmosphäre</Value>
+      <Value>Das Verhältnis von {GAS:Kohlendioxid} im Eingangsnetzwerk des Geräts</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioNitrogenInput</Key>
-      <Value>Das Verhältnis von Stickstoff in der Geräteatmosphäre</Value>
+      <Value>Das Verhältnis von Stickstoff im Eingangsnetzwerk des Geräts</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioPollutantInput</Key>
-      <Value>Das Verhältnis von Schadstoff in der Geräteatmosphäre</Value>
+      <Value>Das Verhältnis von Schadstoffen im Eingangsnetzwerk des Geräts</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioVolatilesInput</Key>
-      <Value>Das Verhältnis von flüchtigen Stoffen in der Geräteatmosphäre</Value>
+      <Value>Das Verhältnis der flüchtigen Stoffe im Eingangsnetzwerk des Geräts</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioWaterInput</Key>
-      <Value>Das Verhältnis von Wasser in der Geräteatmosphäre</Value>
+      <Value>Das Verhältnis von Wasser im Eingangsnetzwerk des Geräts</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioNitrousOxideInput</Key>
-      <Value>Das Verhältnis von Lachgas in der Geräteatmosphäre</Value>
+      <Value>Das Verhältnis von {GAS:Lachgas} im Eingangsnetzwerk des Geräts</Value>
     </Record>
     <Record>
       <Key>LogicTypeCombustionInput</Key>
