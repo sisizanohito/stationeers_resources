@@ -8763,12 +8763,16 @@ Temperatur {1}</Value>
       <Value>Der Händler benötigt einen sicheren Landeplatz. Eine mit Strom versorgte Landeplattform wird benötigt.</Value>
     </Record>
     <Record>
+      <Key>ContactTradeRequestFailInUse</Key>
+      <Value>Jemand interagiert bereits mit diesem Trader, versuche es bald erneut.</Value>
+    </Record>
+    <Record>
       <Key>ContactLandingRequestFailVendingMachine</Key>
       <Value>Du brauchst einen eingeschalten Verkaufsautomat im Netzwerk, um mit dem Händler zu interagieren.</Value>
     </Record>
     <Record>
       <Key>ContactLandingRequestFailSatellite</Key>
-      <Value>Es gibt ein Problem mit deinem Satelliten. Prüfe, ob er mit dem richtigen Netzwerk und Strom verbunden ist.</Value>
+      <Value>Es liegt ein Problem mit deinem Satelliten vor. Überprüfe, ob es mit dem Netzwerk verbunden und mit Strom versorgt ist.</Value>
     </Record>
     <Record>
       <Key>ContactLandingRequestFailStorm</Key>
@@ -8777,6 +8781,34 @@ Temperatur {1}</Value>
     <Record>
       <Key>InputTextTradingTitle</Key>
       <Value>Handelsterminal</Value>
+    </Record>
+    <Record>
+      <Key>TraderElectronics</Key>
+      <Value>TechTree Elektronik</Value>
+    </Record>
+    <Record>
+      <Key>TraderBasic</Key>
+      <Value>Spes&apos;mall Grundlagen</Value>
+    </Record>
+    <Record>
+      <Key>TraderMicrowave</Key>
+      <Value>Mikrowaren</Value>
+    </Record>
+    <Record>
+      <Key>TraderPaint</Key>
+      <Value>Color Corp Farben</Value>
+    </Record>
+    <Record>
+      <Key>TraderSecurity</Key>
+      <Value>Hall Corp Sicherheit</Value>
+    </Record>
+    <Record>
+      <Key>TraderOther</Key>
+      <Value>Sortimentsware von Kolders</Value>
+    </Record>
+    <Record>
+      <Key>TraderGas</Key>
+      <Value>GasHandel</Value>
     </Record>
     <Record>
       <Key>ButtonContact</Key>
@@ -8817,6 +8849,14 @@ Temperatur {1}</Value>
     <Record>
       <Key>LogicTypeSettingOutputHash</Key>
       <Value>Die Ausgabeeinstellung für das Gerät</Value>
+    </Record>
+    <Record>
+      <Key>ButtonDepart</Key>
+      <Value>Abflug</Value>
+    </Record>
+    <Record>
+      <Key>SettingsShowSlotTooltips</Key>
+      <Value>Steckplatz Tooltips anzeigen</Value>
     </Record>
     <Record>
       <Key>SettingsWorldOrigin</Key>
