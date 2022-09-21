@@ -8683,8 +8683,20 @@ Temperatur {1}</Value>
       <Value>Gibt die maximale Stapelgröße des Gegenstandes im Slot zurück</Value>
     </Record>
     <Record>
+      <Key>FuelInTankRemaining</Key>
+      <Value>Gibt den Treibstoff zurück, der im Treibstofftank Ihrer Rakete verbleibt.</Value>
+    </Record>
+    <Record>
+      <Key>FuelReturnCost</Key>
+      <Value>Gibt die Kosten für Treibstoff zurück, den die Rakete benötigt, um in Ihre aktuelle Welt zurückzukehren.</Value>
+    </Record>
+    <Record>
       <Key>RocketMode</Key>
       <Value>Veraltet</Value>
+    </Record>
+    <Record>
+      <Key>CollectableGoods</Key>
+      <Value>Gibt 0 oder 1 zurück, je nachdem, ob das aktuelle Raketensystem in der Lage ist, Ressourcen auf dem Planeten zu sammeln.</Value>
     </Record>
     <Record>
       <Key>LogicTypeRequestHash</Key>
@@ -8701,6 +8713,10 @@ Temperatur {1}</Value>
     <Record>
       <Key>SettingsP2PHostEnabled</Key>
       <Value>P2PHost aktivieren</Value>
+    </Record>
+    <Record>
+      <Key>SettingsP2PHostNote</Key>
+      <Value>Wenn P2PHost aktiviert ist, verwendet Stationeers das Paketrelais von steam, damit du mit deinem Freund unter NAT oder VPN spielen kannst. Es ist nicht kompatibel mit TCP / IP und verbirgt den Server in der Serverliste.</Value>
     </Record>
     <Record>
       <Key>SettingsSavePath</Key>
