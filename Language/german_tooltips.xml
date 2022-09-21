@@ -114,6 +114,10 @@
       <Value>Schalte Gegenstand in der Hand Ein/Aus</Value>
     </Record>
     <Record>
+      <Key>StatusIconInSlotName</Key>
+      <Value>Du befindest dich in einem Steckplatz</Value>
+    </Record>
+    <Record>
       <Key>StatusIconHungerName</Key>
       <Value>Aktuelle Sättigung</Value>
     </Record>

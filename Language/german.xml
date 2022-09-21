@@ -5604,6 +5604,22 @@
       <Value>Anwesenheitssensor</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemKitDeepMiner</Key>
+      <Value>Bausatz (Tiefbergbaubohrer)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureChuteValve</Key>
+      <Value>Schachtschranke</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureCombustionCentrifuge</Key>
+      <Value>Verbrennungszentrifuge</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureChuteOverflow</Key>
+      <Value>Schachtauswurf</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>KitStructureCombustionCentrifuge</Key>
       <Value/>
     </RecordThing>
