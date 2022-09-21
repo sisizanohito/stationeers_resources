@@ -3781,24 +3781,92 @@
       <Value>Portabler Tank (Bausatz)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>KitchenTableSimpleShort</Key>
+      <Value>Küchentisch (Einfach Kurz)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>KitchenTableShort</Key>
+      <Value>Küchentisch (Kurz)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureSmallTableThickSingle</Key>
+      <Value>Kleiner Tisch (Stabil Einzeln)</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureSmallTableThickDouble</Key>
-      <Value>Tank (klein; Kraftstoff)</Value>
+      <Value>Klein (Tisch Stabil Doppelt)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureSmallTableRectangleSingle</Key>
       <Value>Klein (Tisch Rechteck Einzel)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureSmallTableRectangleDouble</Key>
+      <Value>Klein (Tisch Rechteckig Doppelt)</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureSmallTableDinnerSingle</Key>
-      <Value>Flachwand (gepanzert)</Value>
+      <Value>Klein (Essenstisch Einzeln)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureSmallTableBacklessSingle</Key>
+      <Value>Klein (Tisch Rückenfrei Einzeln)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureSmallTableBacklessDouble</Key>
+      <Value>Klein (Tisch Rückenfrei Doppelt)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitChairs</Key>
-      <Value>Treppe (Bausatz)</Value>
+      <Value>Bausatz (Stühle)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitBeds</Key>
-      <Value>Peilsender (Bausatz)</Value>
+      <Value>Bausatz (Betten)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLightRoundAngled</Key>
+      <Value>Lampe Rund (Winkel)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLightRound</Key>
+      <Value>Lampe Rund</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLightRoundSmall</Key>
+      <Value>Lampe Rund (Klein)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureSingleBed</Key>
+      <Value>Einzelbett</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureBlockBed</Key>
+      <Value>Blockbett</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>TriggerZone</Key>
+      <Value>Auslöserzone</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureEmergencyButton</Key>
+      <Value>Wichtiger Knopf</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitAirlockGate</Key>
+      <Value>Bausatz (Luftschleusentor)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureAirlockGate</Key>
+      <Value>Luftschleusentor</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureBatteryLarge</Key>
+      <Value>Stationsbatterie (Groß)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitBatteryLarge</Key>
+      <Value>Bausatz (Batterie Groß)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageVendingMachine1</Key>
@@ -3814,7 +3882,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageVendingMachine4</Key>
-      <Value>Verkaufsautomat</Value>
+      <Value>Zerstörter Verkaufsautomat</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageArcFurnace1</Key>
@@ -3826,7 +3894,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageArcFurnace3</Key>
-      <Value>Lichtbogenofen</Value>
+      <Value>Zerstörter Lichtbogenofen</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageAreaPowerControl1</Key>
@@ -3834,15 +3902,15 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageAreaPowerControl2</Key>
-      <Value>Ersatzstromversorgung</Value>
+      <Value>Zerstörte Ersatzstromversorgung</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageAreaPowerControlReversed1</Key>
-      <Value>Ersatzstromversorgung</Value>
+      <Value>Zerstörte Ersatzstromversorgung Umgekehrt</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageAreaPowerControlReversed2</Key>
-      <Value>Ersatzstromversorgung</Value>
+      <Value>Zerstörte Ersatzstromversorgung Umgekehrt</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSolarPanel1</Key>
@@ -3862,7 +3930,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageTransformer2</Key>
-      <Value>Transformator</Value>
+      <Value>Zerstörter Transformator</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageTransformerMedium1</Key>
@@ -3870,7 +3938,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageTransformerMedium2</Key>
-      <Value>Mittlerer Transformator Rechts</Value>
+      <Value>Zerstörter Tansformator Mittel</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageTransformerSmall1</Key>
@@ -3878,7 +3946,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageTransformerSmall2</Key>
-      <Value>Kleiner Transformator Rechts</Value>
+      <Value>Zerstörter Transformator Klein</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSecurityPrinter1</Key>
@@ -3902,7 +3970,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSecurityPrinter6</Key>
-      <Value>Sicherheitsdrucker</Value>
+      <Value>Zerstörter Sicherheitsdrucker</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageAutolathe1</Key>
@@ -3926,23 +3994,23 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageAutolathe6</Key>
-      <Value>Drehmaschine</Value>
+      <Value>Zerstörte Drehmaschine</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageAutolathe7</Key>
-      <Value>Drehmaschine</Value>
+      <Value>Zerstörte Drehmaschine</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageElectronicsPrinter1</Key>
-      <Value>Elektronikdrucker</Value>
+      <Value>Zerstörter Elektronikdrucker1</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageElectronicsPrinter2</Key>
-      <Value>Elektronikdrucker</Value>
+      <Value>Zerstörter Elektronikdrucker2</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageElectronicsPrinter3</Key>
-      <Value>Elektronikdrucker</Value>
+      <Value>Zerstörter Elektronikdrucker3</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageElectronicsPrinter4</Key>
