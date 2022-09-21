@@ -5080,6 +5080,10 @@
       <Value>Flüssigkeitswandkühler</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureWaterBottleFillerBottom</Key>
+      <Value>Wasserflaschen-Befüller Boden</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemLiquidDrain</Key>
       <Value>Kit (Flüssigkeitsabfluss)</Value>
     </RecordThing>
@@ -5772,6 +5776,10 @@
       <Value>Kryo-Röhre Horizontal</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureDeepMiner</Key>
+      <Value>Tief-Bergbaubohrer</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureSleeperVertical</Key>
       <Value>Schlafkapsel Vertikal</Value>
     </RecordThing>
@@ -5793,7 +5801,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitDeepMiner</Key>
-      <Value>Bausatz (Tiefbergbaubohrer)</Value>
+      <Value>Bausatz (Tief-Bergbaubohrer)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureChuteValve</Key>
