@@ -109,25 +109,89 @@ Beim Bauen ist es wichtig zu beachten, dass der Druck als Differential gemessen 
 Daher mussten {LINK:Stationeers; Stationeers} ihre eigene musikalische Begleitung zu der anspruchsvollen Arbeit des Aufbaus und der Instandhaltung von außerirdischer Infrastruktur schaffen.
 Im Mittelpunkt dieser vergangenen Zeit steht der Step Sequencer, der es Stationeers ermöglicht, kurze musikalische Muster oder Loops zu sequenzieren. 
 
-{HEADER:DIY MUSIC - ERSTE SCHRITTE}
+{HEADER:DIY MUSIC - GETTING STARTED}
 
-1: Verbinden Sie 8 {THING:DeviceStepUnit}s über den Datenport auf der linken Seite mit Ihrem Step-Sequenzer.
+1: Verbinde 8 {THING:DeviceStepUnit}s über den Datenport auf der linken Seite mit deinem Step-Sequenzer.
 
-2: Beschriften Sie jede Schritteinheit und weisen Sie dann den Schritteinheiten 1 bis 8 auf dem Schrittzähler mit dem Schraubendreher zu.
+2: Beschrifte jede Schritteinheit und weise dann die Schritteinheiten 1 bis 8 auf dem Schrittzähler mit dem Schraubendreher zu.
 
-3: Wählen Sie den Ausgangslautsprecher (z. B. {THING:PassiveSpeaker}), in dem der Zähler die Sounds abspielen soll. Dieser muss mit dem Logiknetzwerk auf der rechten Seite des Zählers verbunden werden.
+3: Wähle den Ausgangslautsprecher (z. B. {THING:PassiveSpeaker}), auf dem der Zähler die Sounds abspielen soll. Dieser muss mit dem Logiknetzwerk auf der rechten Seite des Zählers verbunden werden.
 
-4: Platzieren Sie ein {THING:StopWatch} und verwenden Sie ein {THING:StructureLogicReader} und {THING:StructureLogicWriter}, um die Zeit auf die Zeitvariable auf dem Zähler zu schreiben.
+4: Platziere eine {THING:StopWatch} und verwende ein {THING:StructureLogicReader} und {THING:StructureLogicWriter}, um die Zeit auf die Zeitvariable des Zählers zu schreiben.
 
-5: Setzen Sie das BPM auf dem Zähler mit einem {THING:StructureLogicDial} und einem {THING:StructureLogicWriter}, um in die BPM-Variable des Zählers zu schreiben. Ein höheres bpm wird die Sequenz schneller abspielen. 
+5: Bestimme die BPM auf dem Zähler mit einem {THING:StructureLogicDial} und einem {THING:StructureLogicWriter}, um in die BPM-Variable auf den Zähler zu schreiben. Höhere bpm werden die Sequenz schneller abspielen. 
 
-6: Legen Sie eine Tonkassette Ihrer Wahl ein und wählen Sie aus, welche Soundvariante Sie abspielen möchten, indem Sie die Pfeiltasten über und unter dem Kassettensteckplatz drücken.
+6: Lege eine Tonkassette deiner Wahl ein und wähle aus, welche Soundvariante du abspielen möchtest, indem du die Pfeiltasten über und unter dem Kassettensteckplatz drückst.
 
-7: Wählen Sie die Tonhöhe der zu spielenden Töne, indem Sie das Zifferblatt an jeder Ihrer 8-Stufen-Einheiten auf die gewünschte Note einstellen. Bei Drums ist jede Note ein anderer Drum-Sound. Sie können Ihre Sounds testen, indem Sie die Aktivierungstaste an jeder Schritteinheit drücken (wobei der Zähler inaktiv ist).
+7: Wähle die Tonhöhe der zu spielenden Töne, indem du das Rad an jeder deiner 8-Stufen-Einheiten auf die gewünschte Note einstellst. Bei Drums ist jede Note ein anderer Drum-Sound. Du kannst deine Sounds testen, indem du die Aktivierungstaste an jeder Schritteinheit drückst (bei inaktivem Zähler).
 
-8: Werden Sie verrückt mit dem {THING:DeviceLfoVolume}.
+8: Werde verrückt mit dem {THING:DeviceLfoVolume}.
 
-9: Aktivieren Sie abschließend den Sequenzer Vibeoneer.   </Text>
+9: Aktiviere abschließend den Sequenzer Vibeoneer.
+      </Text>
+    </StationpediaPage>
+    <StationpediaPage>
+      <Key>TemperatureControlPage</Key>
+      <Title>Temperaturregelung</Title>
+      <DisplayFilter>Guides</DisplayFilter>
+      <Text>Um die Temperatur eines Systems zu regeln, müssen wir ihm entweder Wärme zuführen, um seine Temperatur zu erhöhen, oder ihm Wärme entziehen, um es abzukühlen, das ist die Grundidee der Temperaturregelung. Geräte, die dieses Ziel für Sie erreichen, sind {THING: ItemWallHeater}, {THING: ItemWallCooler}, {THING: StructurePipeRadiator} und {THING:StructureAirConditioner}.
+
+HINWEIS: Es gibt viele Methoden der Temperaturregelung. Bei einigen handelt es sich nicht um die hier genannten Geräte. Hier behandeln wir die Grundlagen.
+
+Es ist wichtig, deine Umgebung zu verstehen, bevor du jede Art von Temperaturregelung installierst. Das Gas- oder Flüssigkeitsvolumen ist ein wichtiger Faktor bei der Wahl deiner Temperaturregelungsmethode. Ein {THING:StructureTankSmall} kann bis zu 6000L aufnehmen, während ein {THING:StructureTankBig} bis zu 50.000L aufnehmen kann, was bedeutet, dass, wenn beide voll sind, der kleine Tank schneller auf Temperaturänderungen reagiert. Ein Raum ist ein Behältnis, des eine bestimmte Menge Gas aufnehmen kann. Je größer er ist, desto mehr Volumen kann er aufnehmen, daher gelten die gleichen Regeln im Allgemeinen für Tanks und Räume.
+
+{HEADER:PIPE NETWORKS}
+Ein Rohrnetz besteht aus einem oder mehreren Rohrsegmenten, die miteinander verbunden und an keiner Stelle getrennt sind. Ein Rohrnetz verteilt überall entlang des Rohres die gleiche Atmosphäre, egal wie groß es ist. Wenn du die Temperatur oder der Druck an einem Ende des Netzwerks änderst, erfährt das am weitesten entfernte Ende die gleiche Änderung sofort und ohne Verzögerung.
+
+Das Hinzufügen von Geräten zu einem Netzwerk wird es in zwei verschiedene Netzwerke aufteilen. Wenn du beispielsweise eine {THING:StructureVolumePump} zu einem Pipeline-Netzwerk hinzufügst, wird das Netzwerk in zwei Netzwerke aufgeteilt: eines vor und eines nach der Pumpe..
+
+Verwende das {THING: ItemTablet} mit einem installierten {THING: CartridgeAtmosAnalyser}, um Informationen über den Inhalt eines Rohrnetzwerks anzuzeigen.
+
+{HEADER:RADIATORS}
+Im Rohrbieger hergestellt, hilft dir ein {THING:StructurePipeRadiator} dabei, Wärme zwischen den Rohren und ihrer Umgebung auszutauschen. Sie funktionieren sowohl an isolierten Rohren als auch an einfachen Rohren und haben weitere Varianten für Flüssigkeiten.. 
+
+Unter normalen Bedingungen wird ein Rohrsegment Wärme mit seiner Umgebung austauschen, aber das Hinzufügen eines Heizkörpers zu diesem Rohrsegment wird den Prozess stark beschleunigen. Ein Rohrabschnitt wird solange Wärme mit der umgebenden Atmosphäre austauschen, bis sich beide in der Temperatur ausgleichen.
+
+{HEADER:PASSIVE COOLING}
+Du kannst jede Umgebung kühlen oder erwärmen, indem du einen {THING: StructurePipeRadiator} verwendest, um Wärme zwischen zwei Atmosphären auszutauschen. Ein Beispiel hierfür wäre, ein Rohr an der Wand zu platzieren, es mit Gas zu füllen und Heizkörper auf dem Rohr zu platzieren. Nun werden die beiden Atmosphären des Rohrs und des Raums die Temperatur wechseln, bis sich ihre Umgebung ausgleicht.
+
+{HEADER:WALL HEATER}
+Der {THING:ItemWallHeater} ist ein einfaches Gerät, das an einer Wand oder einem Rahmen installiert und an die Stromversorgung angeschlossen werden kann. Beim Einschalten beginnt es, die Umgebung zu erwärmen. Es verbraucht 1010W Leistung und kann von Logikchips angesteuert werden, um zu heizen, sobald die Temperatur einen bestimmten Pegel erreicht.
+
+{HEADER:WALL COOLER}
+Der {THING:ItemWallCooler} ergänzt die Wandheizung, die die Temperatur ausschließlich erhöhen kann. Der Wandkühler funktioniert, indem er Wärme aus der umgebenden Atmosphäre zieht und diese Wärme in sein Rohrnetz einspeist. Um den Wandkühler ordnungsgemäß zu betreiben, musst du Rohre an den Wandkühler anschließen und das angeschlossene Rohrnetz mit irgendeiner Art von Gas füllen. Die Wärmekapazität und das Volumen des Gases bestimmen, wie schnell es auf Temperaturänderungen reagiert. 
+
+Je höher der Temperaturunterschied zwischen dem in den Rohren gespeicherten Gas und dem Raum ist, desto weniger effizient ist der Wandkühler. Um den Wandkühler mit einem akzeptablen Wirkungsgrad laufen zu lassen, musst du die Wärme beseitigen, die sich in den daran angeschlossenen Rohren ansammelt. Eine gängige Praxis wäre es, die Rohre nach außen zu führen und Heizkörper auf dem äußeren Abschnitt der Rohre zu verwenden, um die Wärme abzuführen.
+
+Umso weniger effizient der Wandkühler ist, desto weniger Strom verbraucht er. Er verbraucht 1010W bei maximaler Effizienz. Der Wandkühler kann durch Logikchips so angesteuert werden, dass er dann läuft, wenn die Temperatur einen bestimmten Grad erreicht.
+
+Wenn der Wandkühler einen Fehler anzeigt, fehlt eine der folgenden Bedingungen: Rohrverbindung zum Wandkühler. Anwesenheit von Gas in den angeschlossenen Rohren, oder der Druck ist zu niedrig. Die Anwesenheit von Atmosphäre in der Umgebung, oder ihr Druck ist zu niedrig.
+
+{HEADER:AIR CONDITIONER}
+Die {THING:StructureAirConditioner} in ihrer Grundform funktioniert genauso wie der Wandkühler und kann vom gleichen Aufbau profitieren. Sie ist jedoch kräftiger. Sie kühlt schneller und verbraucht je nach Situation deutlich mehr Leistung, wodurch sie besser dazu geeignet ist, mit großen Volumina und großen Flächen umzugehen. Sie kann je nach Einstellung heizen oder kühlen.
+
+KLIMAANLAGE: SO FUNKTIONIERT SIE
+Die Klimaanlage verfügt über 3 Rohrverbindungen (Eingang, Ausgang, Ausschuss). Über die Eingangsseite tritt Gas ein, dann wird dem einströmenden Gas je nach Einstellung Wärme zu- oder abgeführt und dem Abflusssrohr zugeführt. Das Ausgangsgas tritt dann je nach Einstellung durch den Ausgangsanschluss, kühler oder heißer aus. Sie können die Eingangsleitung mit den Ausgangsleitungen verbinden (du kannst sehen, ob sie verbunden sind, wenn du prüfst ob beide die gleiche Netzwerknummer haben): Dies gibt dir mehr Kontrolle über die Temperatur, da das Gas nach dem ersten Durchgang nicht die Zieltemperatur erreicht. Es wird Zeit und Energie benötigen, um den Gasen Wärme zu entziehen oder hinzuzufügen.
+
+Die Art und Weise, wie du deine Klimaanlage installierst und einrichtest, hängt davon ab, was du zu kühlen oder zu erwärmen versuchst. Für einen Raum benötigst du eine passive Belüftung im Raum, die mit dem Eingang und Ausgang der Klimaanlage verbunden ist, während die Abflussleitung mit einem Kühlgas gefüllt werden muss. 
+
+Die Klimaanlage muss sich nicht im Raum befinden. Der einzige Teil dieses Aufbaus, der sich im Raum befinden muss, ist die passive Belüftung, die die Atmosphäre des Raumes zur Klimaanlage leitet, um sie zu kühlen oder zu heizen. 
+
+Du kannst eine einzige Klimaanlage verwenden, um sowohl zu heizen als auch zu kühlen. Du musst nur die Soll-Temperatureinstellung auf dem Bedienfeld ändern. Wenn du jedoch gleichzeitig Kühlen und Heizen automatisieren möchtest, benötigst du eine Klimaanlage zum Kühlen und eine zusätzliche zum Heizen, da die Einstellung am Bedienfeld nur manuell geändert werden kann.
+
+Das Einrichten von mehr als einer Klimaanlage im gleichen Rohrnetz kann nützlich sein, wenn du Dinge schneller erledigen musst oder wenn du einige zum Heizen und andere zum Kühlen verwenden musst. Tue dies, indem du die Eingänge und die Ausgänge der Klimaanlagen miteinander verbindest und sie sich alle dasselbe Rohrnetz für ihre Eingänge und Ausgänge teilen. Das Abflussleitungsnetz kann auch zwischen ihnen geteilt werden, es muss jedoch vom Ein-/Ausgangsleitungsnetz getrennt sein. Das gleiche Prinzip gilt, wenn du die Klimaanlage verwendest, um die Temperatur der Tanks zu steuern. Anstatt jedoch eine passive Belüftung zu verwenden, musst du den Tank direkt an die Klimaanlage anschließen.
+
+KLIMAANLAGE: NICHT VERGESSEN
+Je größer der Temperaturunterschied zwischen dem Eingangsrohr und dem Abflussrohr ist, desto mehr Leistung verbraucht die Klimaanlage. Die von der Klimaanlage verbrauchte Leistung kann 5 kW überschreiten, daher wird empfohlen, zum Einschalten der Klimaanlage schwere Kabel zu verwenden. Das Abflussrohr nach außen zu leiten und es mit der Außenatmosphäre auszugleichen, ist nicht immer die beste Option: Das Gas, mit dem du es befüllst, kann an einer anderen Stelle in deiner Basis Anwendung finden.
+
+KLIMAANLAGE: BASISTEMPERATURREGELUNG
+Es gibt viele Möglichkeiten, die Temperatur deiner Basis mithilfe von Klimaanlagen zu steuern. Hier ist eine Möglichkeit, dieses Ziel zu erreichen:
+Schritt 1: Führe ein einzelnes Rohrnetz um deine Basis herum und installiere passive Belüftungen, die mit diesem Rohr in jedem Raum verbunden sind, den Sie durch dieses Setup steuern möchten. Das ist &apos;Netzwerk A&apos;
+Schritt 2: Verbinde &apos;Netzwerk A&apos; mit dem Eingang und Ausgang einer Klimaanlage.
+Schritt 3: Schließe das Abflussrohr an ein anderes Netzwerk an und führe es nach außen. Installiere Heizkörper auf diesem Netzwerk.
+Dies ist der einfache Aufbau. Um ihn zu automatisieren, benötigst du eine Rohrmesseinrichtung im Netzwerk A, damit prüfst du die Temperatur und betreibst dementsprechend deine Klimaanlage(n). Viel Glück, Kadett!
+      
+      </Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>GasPage</Key>
@@ -256,6 +320,44 @@ Nachfolgend findest du die WORLD TRAVEL IDs. Du kannst sie verwenden, um zu best
        
 Schreibe einfach den Hash in die Einstellungsvariable auf {THING:StructureLaunchPad} mit einem {THING:StructureLogicWriter} und einem {THING:StructureLogicMemory}. Hinweis: Du kannst auf einen Hash klicken, um ihn in die Zwischenablage zu kopieren.
 {LIST}{WORLD_HASHES}{/LIST}
+      </Text>
+    </StationpediaPage>
+    <StationpediaPage>
+      <Key>RocketShuttleModulesHelpPage</Key>
+      <Title>Raketen Shuttle Module</Title>
+      <DisplayFilter>Guides</DisplayFilter>
+      <Text>{HEADER:Modulare Raketenfracht}
+
+Die {THING:StructureModularRocketCargo01} hat Platz für zwei Kisten mit zehn Steckplätzen. Sie können mehrere Frachtmodule auf Ihrer Rakete haben. Die Rakete kann insgesamt bis zu sieben Module heben.
+
+{HEADER:Modularer Raketenbefehl}
+
+Das {THING:StructureModularRocketCommand01} muss oben auf der Rakete platziert werden. Es wird die Flugbereitschaft der Rakete bewerten. Sobald alle Bedingungen erfüllt sind, kann die Rakete gestartet werden, wenn alle Spieler im Modul sitzen, indem sie &quot;IGNITION&quot; auf der Konsole drücken.
+
+Die folgenden Bedingungen müssen für den Start erfüllt sein:
+
+Kraftstoff voll
+Kraftstoffmischungsverhältnis korrekt
+Alle Spieler sitzen
+Stromversorgung der Startrampe
+Voll gebaute Rakete
+
+Die Konsole {THING:StructureModularRocketCommand01} zeigt den aktuellen Status dieser Bedingungen an. Es braucht keine Atmosphäre zum Abheben - die Atmosphäre Ihres Anzugs ist ausreichend.
+
+{HEADER:Modulares Raketentriebwerk}
+
+Die {THING:StructureModularRocketEngine01} ist in der Lage, bis zu sieben Module (einschließlich sich selbst) zu heben.
+
+{HEADER:Modularer Raketentreibstofftank}
+
+Das {THING:StructureModularRocketFueltank01} benötigt eine 2:1-Mischung aus {GAS:Volatiles} und {GAS:Oxygen}. Wenn das Gemisch diese Proportionen überschreitet oder du andere Gase in den Tank gibts, zeigt die {THING:StructureModularRocketCommand01}-Konsole den Fehler &quot;Ungültig&quot; an.          </Text>
+    </StationpediaPage>
+    <StationpediaPage>
+      <Key>RocketShuttlePage</Key>
+      <Title>Raketen-Shuttle</Title>
+      <Text>Dies sind die Rocket Shuttle Module, die verwendet werden, um zwischen den Welten zu reisen. {THING:StructureLaunchPad} ist erforderlich.
+{HEADER:List of Rocket Shuttle Modules}
+{LIST_OF_ROCKET_SHUTTLE}
       </Text>
     </StationpediaPage>
     <!--
