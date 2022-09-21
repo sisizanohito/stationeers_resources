@@ -9723,6 +9723,28 @@ Temperatur {1}</Value>
       <Value>Zeigt das Hilfe Menü: &quot;/help&quot;</Value>
     </Record>
     <Record>
+      <Key>TKDesc</Key>
+      <Value>Ursprünglich ein Rüstungsunternehmen, das sich auf brutale Gewalt und Hochleistungswaffen spezialisiert hatte, führte Tanzanian Kinetic Systems einen groß angelegten Schwenk in Friedenszeiten durch, um der führende Entwickler von Hochgeschwindigkeits-Warenförderern der African Assembly zu werden.
+TK produziert jetzt eine Reihe von Rutschennetzwerkdesigns und -komponenten und verfügt aufgrund der Afro-Sino-Partnerschaften im späten 21. Jahrhundert über eine starke Präsenz außerhalb der Welt. Das Unternehmen mit Sitz im Stadtteil Kigamboni in Dar E Salaam geht regelmäßig Entwicklungspartnerschaften mit {LINK:CHAC; CHAC} und infolgedessen weisen viele ihrer Produkte deutliche Ähnlichkeiten auf.
+        Denn was ist eine Waffe anderes als ein &quot;Hochgeschwindigkeits-Güterförderer&quot;.      </Value>
+    </Record>
+    <Record>
+      <Key>XigoDesc</Key>
+      <Value>Eine Umfrage aus dem Jahr 2150CE ergab, dass das Xigo &quot;X&quot; eines der bekanntesten Symbole der Welt ist. Doch nur wenige Teilnehmer konnten den tatsächlichen Umfang des Unternehmens klar beschreiben.
+Genau dort, wo das Unternehmen beginnt und endet, war Gegenstand endloser Theorien, Finanzstudien und Klagen – ursprünglich eine Website für Preisvergleiche, erweiterte sich das Konglomerat um Daten, dann den Vertrieb und schließlich die Produktion.
+Es war eine scheinbar wahllose Expansion, die sich nicht auf eine Branche, sondern auf alle konzentrierte – und so viele Bereiche umfasste, dass Business-Analysten die Idee von Xigo als einer einzigen Einheit weitgehend abgelehnt haben. Vielmehr handelt es sich um eine konzeptionelle Gruppierung für einen Zweig menschlicher Aktivität. Und während solche Statistiken – von Natur aus – schwer zu bestätigen sind, deuten jüngste Schätzungen darauf hin, dass Xigo über 1,5% der gesamten menschlichen Rasse beschäftigt.
+nicht nötig zu sagen, dass es fast alles produziert.      </Value>
+    </Record>
+    <Record>
+      <Key>StationeersDesc</Key>
+      <Value>Im frühen 22. Jahrhundert erhob sich die Erde aus einer Katastrophe. Ihre Ressourcen erodierten, unsere Bevölkerung reduzierte sich, der Wiederaufbau war der Geist der Ära.
+Das Stationeers-Programm wurde 2095 von der {LINK:ODA;Offworld Development Agency} (ODA) ins Leben gerufen und widmete sich einem einzigen Ideal: die Menschheit auf die Sterne zu richten.
+Stationeers sind alles: Astronauten, Ingenieure und Entdecker, die mit begrenzter Ausrüstung und Werkzeugen eingesetzt werden und darauf trainiert sind, mit weniger mehr zu erreichen. Um die Umwelt zu ihrem Vorteil zu nutzen, ist es ihre Aufgabe, Infrastruktur für Menschen im Weltraum bereitzustellen, zu einem Bruchteil der Kosten herkömmlicher Weltraumprogramme.
+Stationeers sind in der Lage, Basen überall vom Mond bis Mimas und darüber hinaus zu bauen und zu unterhalten, und sind unsere Avantgarde im Kosmos. Stationeers sind in den Bereichen Überleben außerhalb der Welt, Bergbau- und Bautechniken, grundlegende Metallurgie, Elektronik, Raketentechnik, Hydroponik und &quot;geheimnisvollere&quot; Wissenschaften ausgebildet und tun, was sie tun müssen, um zu überleben und zu gedeihen.
+Bekannt dafür, dass es keine Aufnahmekriterien gibt, gibt es keinen &quot;typischen&quot; Stationeer. Psychologische Profilierung legt nahe, dass erfolgreiche Kadetten einen &quot;Grund&quot; -Pragmatismus und Zielstrebigkeit zeigen, aber einige der berühmtesten Stationeers besitzen keine dieser Eigenschaften.
+Das Stationeers-Programm, das aus dem Bauingenieurwesen, der Militär- und Luft- und Raumfahrtindustrie, der Softwareentwicklung, den Bergbaukonzernen sowie aus wissenschaftlichen Bereichen und sogar religiösen Orden rekrutiert wird, ist grundsätzlich offen für die gesamte Menschheit.      </Value>
+    </Record>
+    <Record>
       <Key>ControlMouseControlDisc</Key>
       <Value>Mauskontrolle aktivieren</Value>
     </Record>
