@@ -5605,6 +5605,18 @@
       <Value>Kit (radiateur pour tuyau de liquide)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureDeepMiner</Key>
+      <Value>Mineur des profondeurs</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitDeepMiner</Key>
+      <Value>Kit (mineur des profondeurs)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemDirtyOre</Key>
+      <Value>Minerai sale</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>KitStructureCombustionCentrifuge</Key>
       <Value/>
     </RecordThing>
