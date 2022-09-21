@@ -7895,10 +7895,6 @@ Temperatur {1}</Value>
       <Value>Schmelze {0}</Value>
     </Record>
     <Record>
-      <Key>LogicState</Key>
-      <Value>Wert {COLORGREEN:#VAR1#}</Value>
-    </Record>
-    <Record>
       <Key>LogicNoDevice</Key>
       <Value>Kein Gerät</Value>
     </Record>
@@ -7912,11 +7908,11 @@ Temperatur {1}</Value>
     </Record>
     <Record>
       <Key>LogicNoSlot</Key>
-      <Value>&lt;color=red&gt;Kein Slot&lt;/color&gt;.</Value>
+      <Value>&lt;color=red&gt;Kein Steckplatz</Value>
     </Record>
     <Record>
       <Key>LogicNoAvailableSlots</Key>
-      <Value>&lt;color=red&gt;Keine verfügbaren Slots&lt;/color&gt;</Value>
+      <Value>&lt;color=red&gt;Keine verfügbaren Steckplätze</Value>
     </Record>
     <Record>
       <Key>LogicNoAdditionalSlotsFor</Key>
@@ -7944,7 +7940,7 @@ Temperatur {1}</Value>
     </Record>
     <Record>
       <Key>ChangeSettingToAll</Key>
-      <Value>Zum Typ {0} ändern</Value>
+      <Value>Schalte zu Alle {0}</Value>
     </Record>
     <Record>
       <Key>HoldForPreviousObject</Key>
@@ -7952,19 +7948,19 @@ Temperatur {1}</Value>
     </Record>
     <Record>
       <Key>ChangeSettingToFor</Key>
-      <Value>Zu &lt;color=yellow&gt;{0}&lt;/color&gt; von {1} ändern</Value>
+      <Value>Schalte zu &lt;color=yellow&gt;{0} für {1}</Value>
     </Record>
     <Record>
       <Key>ChangeSettingToForIn</Key>
-      <Value>Zu &lt;color=yellow&gt;{0}&lt;/color&gt; von {3} &lt;color=yellow&gt;({2})&lt;/color&gt; von {1} ändern</Value>
+      <Value>Schalte zu &lt;color=yellow&gt;{0} für {3}&lt;/color=yellow&gt;({2})in {1}</Value>
     </Record>
     <Record>
       <Key>ChangeReagentSettingTo</Key>
-      <Value>Zu &lt;color=yellow&gt;{0}&lt;/color&gt; von {1} ändern</Value>
+      <Value>Schalte zu {2}. &lt;color=yellow&gt;{0}. &lt;color=yellow&gt;{1}</Value>
     </Record>
     <Record>
       <Key>ChangeSlotSettingToFor</Key>
-      <Value>Zu &lt;color=yellow&gt;{0}&lt;/color&gt; von &lt;color=green&gt;{2}&lt;/color&gt; ändern</Value>
+      <Value>Schalte zu {1}&lt;color=yellow&gt;({0}) für {2}</Value>
     </Record>
     <Record>
       <Key>ChangeSettingToForAll</Key>
