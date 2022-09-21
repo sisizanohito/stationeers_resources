@@ -4242,11 +4242,11 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSecurityPrinter4</Key>
-      <Value>Sicherheitsdrucker</Value>
+      <Value>Zerstörter Sicherheitsdrucker</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSecurityPrinter5</Key>
-      <Value>Sicherheitsdrucker</Value>
+      <Value>Zerstörter Sicherheitsdrucker</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSecurityPrinter6</Key>
@@ -4254,23 +4254,23 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageAutolathe1</Key>
-      <Value>Drehmaschine</Value>
+      <Value>Zerstörte Drehmaschine</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageAutolathe2</Key>
-      <Value>Drehmaschine</Value>
+      <Value>Zerstörte Drehmaschine</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageAutolathe3</Key>
-      <Value>Drehmaschine</Value>
+      <Value>Zerstörte Drehmaschine</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageAutolathe4</Key>
-      <Value>Drehmaschine</Value>
+      <Value>Zerstörte Drehmaschine</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageAutolathe5</Key>
-      <Value>Drehmaschine</Value>
+      <Value>Zerstörte Drehmaschine</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageAutolathe6</Key>
@@ -4306,19 +4306,19 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageCentrifuge1</Key>
-      <Value>Zentrifuge</Value>
+      <Value>Zerstörte Zentrifuge</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageCentrifuge2</Key>
-      <Value>Zentrifuge</Value>
+      <Value>Zerstörte Zentrifuge</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageCentrifuge3</Key>
-      <Value>Zentrifuge</Value>
+      <Value>Zerstörte Zentrifuge</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageCentrifuge4</Key>
-      <Value>Zentrifuge</Value>
+      <Value>Zerstörte Zentrifuge</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageCentrifuge5</Key>
@@ -4390,11 +4390,11 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageRecycler1</Key>
-      <Value>Verwerter</Value>
+      <Value>Zerstörter Recycler</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageRecycler2</Key>
-      <Value>Verwerter</Value>
+      <Value>Zerstörter Recycler</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageRecycler3</Key>
@@ -4446,11 +4446,11 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageHydroponicsAutomatic1</Key>
-      <Value>Hydrokultur Station</Value>
+      <Value>Zerstörte Hydroponik Automatik</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageHydroponicsAutomatic2</Key>
-      <Value>Hydrokultur Station</Value>
+      <Value>Zerstörte Hydroponik Automatik</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageHydroponicsAutomatic3</Key>
@@ -4466,6 +4466,10 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSDBSilo1</Key>
+      <Value>Zerstörtes SDB Lager</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageSDBSilo2</Key>
       <Value>Zerstörtes SDB Lager</Value>
     </RecordThing>
     <RecordThing>
@@ -5838,6 +5842,10 @@
     <RecordThing>
       <Key>StructureChuteDigitalFlipFlopSplitterLeft</Key>
       <Value>Schacht Digital Flip Flop Splitter Links</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureChuteDigitalFlipFlopSplitterRight</Key>
+      <Value>Schacht Digital Flip Flop Splitter Rechts</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitStandardChute</Key>
