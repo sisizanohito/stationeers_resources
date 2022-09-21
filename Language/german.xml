@@ -6831,7 +6831,7 @@
     </Record>
     <Record>
       <Key>LoulanShortDesc</Key>
-      <Value>Loulan, bei Ihrer Ankunft werden Sie eine atembare Atmosphäre bemerken, die dicht genug ist, um das Leben zu erhalten - aber auch einen starken Mangel an selbigem. Dieser sandige Riese befindet sich im Gargantuan-System und bewegt sich jeden Tag näher an das Schwarze Loch im Zentrum heran. Obwohl dieser Planet verlassen und nicht mehr grün und voller Wasser ist, hat er immer noch eine funktionierende Atmosphäre und Sie haben die Aufgabe, das Ödland zu durchsuchen, um die Materialien und Ressourcen zu beschaffen, die zum Überleben in dieser ewigen Wüste erforderlich sind.</Value>
+      <Value>Loulan, bei deiner Ankunft wirst du eine atembare Atmosphäre messen, der Druck reicht aus, um Leben zu erhalten - aber auch einen starken Mangel an Leben. Dieser sandige Riese befindet sich im Gargantuan-System und bewegt sich jeden Tag näher an das Schwarze Loch im Zentrum heran. Obwohl dieser Planet verlassen und nicht mehr grün und voller Wasser ist, hat er immer noch eine funktionierende Atmosphäre und du hast die Aufgabe, das Ödland zu durchkämmen, um die Materialien und Ressourcen zu beschaffen, die zum Überleben in dieser ewigen Wüste erforderlich sind.</Value>
     </Record>
     <Record>
       <Key>Moon</Key>
@@ -7292,16 +7292,17 @@ Also raus mit dir Stationeer!</Value>
     </Record>
     <Record>
       <Key>MothershipConstruction</Key>
-      <Value>&lt;color=yellow&gt;Am Mutterschiff zu bauen&lt;/color&gt;.</Value>
+      <Value>&lt;color=yellow&gt;Baue auf Mutterschiff.</Value>
     </Record>
     <Record>
       <Key>MulticonstructorItem</Key>
-      <Value>&lt;color=yellow&gt;Bauoption {0} von {1}&lt;/color&gt;
-&lt;color=red&gt;Mausrad&lt;/color&gt; drehen für mehr Optionen.</Value>
+      <Value>
+        &lt;color=yellow&gt;Option {0} von {1} konstruieren
+        &lt;color=red&gt;Mausrad für weitere Optionen.</Value>
     </Record>
     <Record>
       <Key>UnableToConstruct</Key>
-      <Value>&lt;color=red&gt;Bauen nicht möglich&lt;/color&gt;.</Value>
+      <Value>&lt;color=red&gt;Kann nicht konstruiert werden.</Value>
     </Record>
     <Record>
       <Key>PortableConnectionFailure</Key>
@@ -7493,7 +7494,7 @@ Also raus mit dir Stationeer!</Value>
     </Record>
     <Record>
       <Key>PromptDeleteTitle</Key>
-      <Value>Spielstand Löschen</Value>
+      <Value>Gesamten Spielstand löschen</Value>
     </Record>
     <Record>
       <Key>PromptDeleteBody</Key>
