@@ -5871,7 +5871,7 @@
     </Record>
     <Record>
       <Key>Battery</Key>
-      <Value>Batteriefach</Value>
+      <Value>Batterie</Value>
     </Record>
     <Record>
       <Key>GasCanister</Key>
@@ -5903,11 +5903,11 @@
     </Record>
     <Record>
       <Key>DirtCanister</Key>
-      <Value>Abluftflasche</Value>
+      <Value>Erdreich Kanister</Value>
     </Record>
     <Record>
       <Key>Propellent</Key>
-      <Value>Treibstoff</Value>
+      <Value>Treibgas</Value>
     </Record>
     <Record>
       <Key>Cartridge</Key>
@@ -5938,24 +5938,16 @@
       <Value>Apparat 2</Value>
     </Record>
     <Record>
-      <Key>Import</Key>
-      <Value>Einlass</Value>
-    </Record>
-    <Record>
-      <Key>Export</Key>
-      <Value>Auswurf</Value>
-    </Record>
-    <Record>
       <Key>Seat</Key>
       <Value>Sitz</Value>
     </Record>
     <Record>
       <Key>TransportSlot</Key>
-      <Value>Transportslot</Value>
+      <Value>Transport-Steckplatz</Value>
     </Record>
     <Record>
       <Key>Motherboard</Key>
-      <Value>Hauptplatinensteckplatz</Value>
+      <Value>Hauptplatine</Value>
     </Record>
     <Record>
       <Key>Entity</Key>
@@ -5967,7 +5959,7 @@
     </Record>
     <Record>
       <Key>PortableSlot</Key>
-      <Value>Portabler Slot</Value>
+      <Value>Tragbarer Steckplatz</Value>
     </Record>
     <Record>
       <Key>Bed</Key>
@@ -6051,7 +6043,7 @@
     </Record>
     <Record>
       <Key>BottleSlot</Key>
-      <Value>Gasflasche Steckplatz</Value>
+      <Value>Flasche Steckplatz</Value>
     </Record>
   </Slots>
   <Interactables>

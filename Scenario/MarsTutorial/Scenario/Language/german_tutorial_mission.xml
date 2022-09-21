@@ -243,6 +243,10 @@ Die Ausrüstungsplätze für Ihren Charakter sehen Sie auf der linken Seite des 
       <Value>Begib dich in den nächsten Raum</Value>
     </Record>
     <Record>
+      <Key>TutorialStopLathenAroundTitle</Key>
+      <Value>Dreh&apos; nicht durch</Value>
+    </Record>
+    <Record>
       <Key>TutorialStopLathenAroundDescription</Key>
       <Value>Platziere deine {THING:ItemKitAutolathe} und nehme dein {THING:ItemWeldingTorch} heraus. Verwende die erforderlichen Materialien, um die Konstruktion abzuschließen. Wenn die Option &quot;Erweiterte QuickInfos&quot; im Menü &quot;Optionen&quot; aktiviert ist, kannst du den Mauszeiger über die Struktur bewegen, um zu sehen, was du für die nächste Bauphase benötigst.</Value>
     </Record>
@@ -251,8 +255,16 @@ Die Ausrüstungsplätze für Ihren Charakter sehen Sie auf der linken Seite des 
       <Value>Schnappe dir den {THING:ItemKitAutolathe} aus dem Schrank und lege ihn in den markierten Bereich</Value>
     </Record>
     <Record>
+      <Key>TutorialStopLathenAround1Title</Key>
+      <Value>Dreh&apos; nicht durch</Value>
+    </Record>
+    <Record>
       <Key>TutorialStopLathenAround1Task1</Key>
       <Value>Platziere den {THING:ItemKitAutolathe} im markierten Bereich</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAround2Title</Key>
+      <Value>Dreh&apos; nicht durch</Value>
     </Record>
     <Record>
       <Key>TutorialStopLathenAround2Description</Key>
@@ -285,6 +297,10 @@ Die Ausrüstungsplätze für Ihren Charakter sehen Sie auf der linken Seite des 
     <Record>
       <Key>TutorialYouCallThatAPrinterTask2</Key>
       <Value>Hebe den {THING:ItemKitElectronicsPrinter} auf.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAround3Title</Key>
+      <Value>Dreh&apos; nicht durch</Value>
     </Record>
     <Record>
       <Key>TutorialStopLathenAround3Description</Key>
