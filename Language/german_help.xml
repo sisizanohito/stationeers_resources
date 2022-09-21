@@ -430,5 +430,58 @@ Schmelzdruck {0}</Text>
       <Key>GasPageFlamableTemplate</Key>
       <Text>Entzündungsgrenzen {0} bis {1}</Text>
     </StationpediaPage>
+    <StationpediaPage>
+      <Key>NutritionPage</Key>
+      <Title>Hunger und Nährstoffversorgung</Title>
+      <DisplayFilter>Guides</DisplayFilter>
+      <Text>{KOPFZEILE:HUNGER}
+
+Statioeers werden irgendwann hungrig, aber nicht alle Lebensmittel sind gleich. Außerdem variiert deine Hungerrate je nach Einstellung und Schwierigkeitsgrad. Essen wird nur den Teil eines Gegenstands verbrauchen, der ausreicht, um deinen Hunger zu 100% wiederherzustellen.
+
+Stationäre erhalten Vorräte an Lebensmitteln wie {LINK:Agrizero; Agrizero} {THING:ItemCerealBar} in ihrem Lander, wenn sie auf einer neuen Welt ankommen. Wenn diese erschöpft sind, müssen Sie neue Nahrungsquellen finden - wie z.B. den Anbau Ihrer eigenen, aus den gelieferten Samen oder die Kontaktaufnahme mit einer {LINK:TradingPage; Händler}. 
+
+{HEADER:ERNÄHRUNG}
+
+Das Essen von Rohstoffen wird den Hunger weniger stillen als Mahlzeiten, dh einen kleineren Teil Ihres Hungers ersetzen. Die Grundelemente von Lebensmitteln werden mit Hilfe von {LINK:OrganicPage;hydroponics}-Systemen erstellt. Diese können mit dem {THING:ApplianceReagentProcessor} zu Rezeptzutaten verarbeitet und dann mit einem {THING:ApplianceMicrowave} oder {THING:StructureAutomatedOven} in Mahlzeiten umgewandelt werden.
+
+Ihre Hungerrate kann im Haupteinstellungsmenü eingestellt werden, indem Sie den Schieberegler Hunger / Hydratationsrate in den Einstellungen anpassen. Beachten Sie, dass der Hungerschieberegler auch Ihre {LINK:HydrationPage; Durst}.</Text>
+    </StationpediaPage>
+    <StationpediaPage>
+      <Key>FarmingPage</Key>
+      <Title>Anbau von Lebensmitteln</Title>
+      <DisplayFilter>Guides</DisplayFilter>
+      <Text>Um auf fremden Welten zu überleben, erwartet der {LINK:ODA;ODA} von allen {LINK:Stationeers; Stationeers}, funktionsfähige {LINK:OrganicPage;hydroponic}-Systeme einzurichten, oder du wende dich an die registrierte lokale Ressource {LINK:TradingPage;traders}.
+
+{HEADER:EINRICHTEN}
+
+Wenn du dein hydroponisches System einrichtest, benötigst du {LINK:OrganicPage;seeds}. Alternativ kannst du die Ernte selbst einpflanzen.
+
+Gängige stationeer hydroponische Geräte umfassen:
+
+- {THING:DynamicHydroponics}
+- {THING:ItemHydroponicTray}
+- {DING:ItemKitHydroponicStation}
+- {THING:StructureHarvie}
+
+Alle Hydrokultursysteme benötigen Wasser, Sonnenlicht und das richtige Gasgemisch - Pflanzen benötigen {GAS:Kohlendioxid} und produzieren Sauerstoff (außer {THING:ItemAlienMushroom}). PLants werden nicht in der falschen Atmosphäre wachsen. Wenn Pflanzen nicht genug Licht haben, müssen Sie ein {THING:StructureGrowLight} erstellen.
+
+Ihr System hängt von den verfügbaren Ressourcen und der Zeit ab, aber ein gut konzipiertes Landwirtschaftssystem kann bei ausreichender Zeit und Ressourcen fast vollständig automatisiert werden.
+
+{HEADER:ERNTE}
+
+Die meisten Pflanzen haben mehrere Wachstumsstadien. Die ersten Stufen sind die Pflanze, die während ihres Lebenszyklus wächst. Während der dritten Phase können Samen von der Pflanze geerntet werden. In der vierten Phase wird die Pflanze Früchte tragen. Danach stirbt die Pflanze, wenn sie nicht geräumt wird.
+
+{HEADER:DÜNGER}
+
+Dünger verändert Pflanzenwachstumsprozesse und wird vom {THING:PortableComposter} und dem {THING:StructureAdvancedComposter} mit {LINK:OrganicPage;organic} Materie erzeugt.
+
+Die Wirkung des Düngers hängt von seinen Inhaltsstoffen ab:
+
+- {LINK:OrganicPage; Lebensmittel} steigert den individuellen PFLANZENERTRAG um bis zu 3 Stück
+- {THING:DecayedFood} erhöht die Pflanzenwachstumsgeschwindigkeit um das bis zu 3-fache
+- {THING:ItemBiomass} erhöht die ANZAHL DER WACHSTUMSZYKLEN, für die der Dünger anhält, auf maximal 5
+
+Die Wirkung dieser Inhaltsstoffe hängt von ihren jeweiligen Anteilen im Komposter ab, wenn die Verarbeitung aktiviert wird. Dünger wird im Verhältnis 1:3 von Dünger zu Zutaten hergestellt. Bei der Verarbeitung werden {GAS:Stickstoff} und {GAS:Volatiles} sowie eine kleine Menge Wärme freigesetzt.</Text>
+    </StationpediaPage>
   </HelpPage>
 </Language>
