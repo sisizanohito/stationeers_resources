@@ -9352,11 +9352,11 @@ Temperatur {1}</Value>
     </Record>
     <Record>
       <Key>ScriptCommandATan</Key>
-      <Value>Gibt einen Winkel zurück, dessen Tangens die angegebene Zahl ist</Value>
+      <Value>Gibt den Winkel (Bogenmaß) zurück, dessen Bräunung der angegebene Wert ist.</Value>
     </Record>
     <Record>
       <Key>ScriptCommandATan2</Key>
-      <Value>Gibt einen Winkel zurück, dessen Tangens die angegebene Zahl ist</Value>
+      <Value>Gibt den Winkel (Bogenmaß) zurück, dessen Tangente der Quotient zweier angegebener Werte ist: a (y) und b (x)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandCommand</Key>
@@ -9427,12 +9427,24 @@ Temperatur {1}</Value>
       <Value>Fahrzeuge</Value>
     </Record>
     <Record>
+      <Key>ResearchShowLocked</Key>
+      <Value>Gesperrte anzeigen</Value>
+    </Record>
+    <Record>
+      <Key>ResearchCantAfford</Key>
+      <Value>Du kannst es dir nicht leisten, diese Forschung freizuschalten.</Value>
+    </Record>
+    <Record>
       <Key>ResearchRequirementNotMet</Key>
       <Value>Du erfüllst nicht die Anforderungen, um diese Forschung freizuschalten.</Value>
     </Record>
     <Record>
       <Key>ResearchUnlockConfirm</Key>
       <Value>Möchtest du diese Forschung freischalten?</Value>
+    </Record>
+    <Record>
+      <Key>WarningSavePathNotWritableDescription</Key>
+      <Value>Der Speicherpfad konnte nicht beschrieben werden. Er wurde auf die Standardeinstellung zurückgesetzt</Value>
     </Record>
     <Record>
       <Key>WarningSavePathNotWritable</Key>
@@ -9527,6 +9539,38 @@ Temperatur {1}</Value>
       <Value>{0} von {1}</Value>
     </Record>
     <Record>
+      <Key>Stage1Contains</Key>
+      <Value>Enthält {0} auf {2}Stufe {1}{3}</Value>
+    </Record>
+    <Record>
+      <Key>PlantWillCreate</Key>
+      <Value>Erhalte {2}{0}{3} x {1}</Value>
+    </Record>
+    <Record>
+      <Key>PlantGrowing</Key>
+      <Value>Die {0}{1}wächst{2}</Value>
+    </Record>
+    <Record>
+      <Key>PlantDead</Key>
+      <Value>Der {0} ist {1}tot{2}</Value>
+    </Record>
+    <Record>
+      <Key>PlantHydrate</Key>
+      <Value>Dem {0} fehlt es an {1}Wasser{2}</Value>
+    </Record>
+    <Record>
+      <Key>NoAtmos</Key>
+      <Value>Das {0} hat keine {1}Atmosphäre{2}</Value>
+    </Record>
+    <Record>
+      <Key>PlantTemperature</Key>
+      <Value>Der {0} hat nicht die richtige {1}Temperatur{2}</Value>
+    </Record>
+    <Record>
+      <Key>PlantNoSunlight</Key>
+      <Value>Der {0} verfügt nicht über das erforderliche {1}Sonnenlicht{2}</Value>
+    </Record>
+    <Record>
       <Key>PlantToxic</Key>
       <Value>{0}wurde aufgrund hoher {1}Schadstoffe{2} in Atmosphäre beschädigt</Value>
     </Record>
@@ -9592,7 +9636,7 @@ Temperatur {1}</Value>
     </Record>
     <Record>
       <Key>PressEnterToContinue</Key>
-      <Value>Drücke die &lt;color=#FBB03B&gt;Leertaste&lt;/color&gt; um weiter zu machen</Value>
+      <Value>Drücke die Leertaste, um fortzufahren</Value>
     </Record>
     <Record>
       <Key>TutorialCompleteDateOfCompletion</Key>
