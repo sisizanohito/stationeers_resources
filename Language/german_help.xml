@@ -506,5 +506,48 @@ Die Wirkung dieser Inhaltsstoffe hängt von ihren jeweiligen Anteilen im Kompost
 &gt; {GAS:Wasser} x 2
 &gt; Vakuum - siehe DRUCK (oben).</Text>
     </StationpediaPage>
+    <StationpediaPage>
+      <Key>HydrationPage</Key>
+      <Title>Durst + Flüssigkeitshaushalt</Title>
+      <DisplayFilter>Guides</DisplayFilter>
+      <Text>Dein durchschnittlicher Stationeer muss regelmäßig Wasser trinken. Geheimnisvolle und möglicherweise fehlgeleitete {LINK:ODA;ODA}-Gesundheits- und Sicherheitsvorschriften haben Stationeers jedoch lange Zeit das Recht auf Trinkmechanismen verweigert. Stattdessen müssen sie regelmäßige Trinkpausen einlegen, um ihren Helm zu öffnen und Wasser zu trinken. Dies in einer drucklosen Umgebung zu tun, ist nicht ratsam.
+
+Wie oft trinkt man? Dies hängt von deinem Schwierigkeitsgrad, der Hitze des Planeten und davon ab, wie sehr du deinen Körper bewegst.
+
+Wasser gibt es in vielen Formen. Mindestens eine {THING:ItemWaterBottle} wird Stationeers als Teil deiner Rationen geliefert, wenn du auf neuen Planeten landest,  weitere sind in deinen Lander-Kisten. Diese können mit einem {THING:ItemWaterBottleFiller} nachgefüllt werden, der selbst an ein Flüssigkeitsrohrnetz angeschlossen werden muss. Das Netzwerk selbst kann über einen {THING:StructureIceCrusher} mit einem geeigneten Eisvorrat gefüllt werden.
+
+Deine Durstrate kann im Haupteinstellungsmenü eingestellt werden, indem du den Schieberegler Hunger / Trinkrate anpasst.</Text>
+    </StationpediaPage>
+    <StationpediaPage>
+      <Key>EVAPage</Key>
+      <Title>EVA Anzüge</Title>
+      <DisplayFilter>Guides</DisplayFilter>
+      <Text>Ihr Raumanzug bietet Ihnen eine tragbare Atmosphäre mit einstellbaren Druck- und Klimatisierungseinstellungen (Temperatur) sowie einem Warnsystem, das Sie warnt, wenn die Atmosphäre im Anzug gefährlich wird. Es funktioniert in Verbindung mit einem geeigneten Helm, sowie passenden Gaskanistern und Filtern in den verschiedenen Schlitzen des Anzugs. Diese müssen regelmäßig gewechselt werden und können auch mit einem {THING:StructureSuitStorage} aufgeladen (oder entleert) werden.
+
+Es gibt mehrere Anzüge, darunter den {THING:ItemEvaSuit} und den druck- und temperaturbeständigeren {THING:ItemHardSuit}.
+
+Die verschiedenen Anzeigen Ihres Anzugs befinden sich unten rechts auf dem Bildschirm. Durch Drücken der entsprechenden Zifferntaste (2) wird ein Feld mit den Steckplätzen und Einstellungen angezeigt. Dazu gehören:
+
+- A/C On/Off (d.h. Temperaturkontrolle ein/aus)
+- Filter ein / aus
+- Luft ein / aus
+- Druck nach oben / unten (mit einem Bereich von 0kPA bis 202kPa oder 0-2 Erdatmosphären)
+- Temperatur nach oben / unten (mit einem Bereich von 0 ° C bis 60 ° C)
+
+Anzüge haben 6-8 Fächer:
+- Lufttank (x1) - Setzen Sie einen Kanister oder intelligenten Kanister ein, der ein Atemgasgemisch enthält, z.B. O2 oder Stickstoff/Sauerstoff 35/65.
+- Ablufttank (x1) - sammelt die von den Filtern entfernten Gase
+- Lebenserhaltung (x1) - hält eine Batterie, für Ihre Klimaanlage, Lichter usw.
+- Filter (x3) - erfordert mindestens einen CO2-Filter (wenn menschlich), abhängig von Ihrem Atemgasgemisch. Beachten Sie, dass ein {THING:ItemHardSuit} über 4 Filterslots verfügt.
+- IC - Nur {THING:ItemHardSuit}.
+
+Druck: sollte auf 50-100 kPa (0,5 bis 1 Erdatmosphären) eingestellt werden. Menschen im Spiel tolerieren bis zu ~250kPa und können bis zu ~300kPa überleben.
+
+Temperatur: normalerweise auf 18-21°C eingestellt, wobei die Menschen im Spiel 10-29°C bevorzugen, 0-39°C tolerieren und bis zu 49°C überleben. Bei höheren Außentemperaturen verbraucht Ihre Klimaanlage mehr Batteriestrom, um die Innentemperatur zu halten.
+
+Filter: Der Standardfilter ist der CO2-Filter, der das vom Menschen beim Ausatmen erzeugte Gas auffängt. Wenn Sie nicht 100 % Sauerstoff in Ihrem Atemgas verwenden, fügen Sie zusätzliche Filter hinzu, z. B. wenn Sie 25 % Sauerstoff + 75 % Stickstoff mischen, sammelt sich der Stickstoff mit der Zeit in Ihrem Anzug an und erstickt Sie, es sei denn, Sie haben einen Stickstofffilter. Wenn Sie die richtigen Filter und Atemgase haben, aber immer noch Probleme haben, verwenden Sie die &apos;Spülen&apos;-Funktion Ihres Weltraumhelms. Warnungen zu niedrigem/kritischem Sauerstoff ertönen, wenn Ihre Filter nicht mehr funktionieren.
+
+Wenn Ihr Anzug beschädigt ist, können Sie ihn flicken, indem Sie Klebeband in der Hand halten und den &quot;Aktivieren&quot;-Knopf drücken. </Text>
+    </StationpediaPage>
   </HelpPage>
 </Language>
