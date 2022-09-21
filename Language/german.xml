@@ -426,7 +426,7 @@
     </RecordThing>
     <RecordThing>
       <Key>BodyPartAstronautFemaleArmL</Key>
-      <Value>Körperteil Astronaut Weiblich Arm L</Value>
+      <Value>Körperteil Astronaut Weiblich Arm</Value>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartAstronautFemaleArmR</Key>
@@ -558,7 +558,7 @@
     </RecordThing>
     <RecordThing>
       <Key>BodyPartGraylienArmL</Key>
-      <Value>Körperteil Grauling Arm L </Value>
+      <Value>Körperteil Graylien Arm L</Value>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartGraylienArmR</Key>
@@ -1686,7 +1686,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeAnalysizer</Key>
-      <Value>Messeinrichtung</Value>
+      <Value>Rohresseinrichtung</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeCorner</Key>
@@ -1718,7 +1718,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeRadiator</Key>
-      <Value>Radiator</Value>
+      <Value>Rohrkonvektionsheizkörper</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeStraight</Key>
@@ -1735,6 +1735,10 @@
     <RecordThing>
       <Key>StructurePressureRegulator</Key>
       <Value>Druckregler</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureRailing</Key>
+      <Value>Geländer Industriell (Typ 1)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureRocketEngine</Key>
@@ -1790,7 +1794,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureTankConnectorLiquid</Key>
-      <Value>Adapterplatte (Rohre)</Value>
+      <Value>Flüssigkeitstank-Anschluss</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureTankSmall</Key>
@@ -1822,7 +1826,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidValve</Key>
-      <Value>Gasflasche</Value>
+      <Value>Flüssigkeitsventil</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallCooler</Key>
@@ -1922,7 +1926,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureCableCornerHBurnt</Key>
-      <Value>Durchgeschmorte Kabelkurve</Value>
+      <Value>Verbranntes Kabel (Ecke)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableCornerH</Key>
