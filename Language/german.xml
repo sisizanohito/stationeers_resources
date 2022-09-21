@@ -2385,6 +2385,10 @@
       <Value>Soyaöl</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemFries</Key>
+      <Value>Pommes frites</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureCableCornerH3</Key>
       <Value>Schwere Kabel-3-Wege-Kurve</Value>
     </RecordThing>
@@ -2426,7 +2430,7 @@
     </RecordThing>
     <RecordThing>
       <Key>WallFrameCornerCut</Key>
-      <Value>Gerüst (Eckschnitt)</Value>
+      <Value>Stahlrahmen (Eckschnitt)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureFlagSmall</Key>
@@ -2502,7 +2506,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureDockShipSide</Key>
-      <Value>Kopplungssystem (Schiffsseite)</Value>
+      <Value>Dock Schiff-Seite</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLightLong</Key>
@@ -2518,7 +2522,7 @@
     </RecordThing>
     <RecordThing>
       <Key>CircuitboardAdvancedAirlockControl</Key>
-      <Value>Platine (Erweiterte Luftschleusensteuerung)</Value>
+      <Value>Fortschrittliche Luftschleuse</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitOrganicsPrinter</Key>
@@ -2529,8 +2533,12 @@
       <Value>Biodrucker</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureCompositeWindowIron</Key>
+      <Value>Eisenfenster</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>CompositeFloorGrating1</Key>
-      <Value>Bodenrost 1</Value>
+      <Value>Bodengitterrost (Typ 1)</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeFloorGrating2</Key>
