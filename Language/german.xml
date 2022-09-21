@@ -9703,6 +9703,10 @@ Temperatur {1}</Value>
       <Value>Schaltet die Spielerkollision an oder aus. : &quot;/tnc&quot;</Value>
     </Record>
     <Record>
+      <Key>CommandShowStage</Key>
+      <Value>Zeigt die aktuelle Missionsphase an und wie viele Stufen sich in der Mission befinden. : &quot;/showstage&quot;</Value>
+    </Record>
+    <Record>
       <Key>CommandFillNeeds</Key>
       <Value>Füllt die Sättigung und die Hydration eines Spielers auf. : &quot;/fillneeds&quot;</Value>
     </Record>
@@ -9719,8 +9723,85 @@ Temperatur {1}</Value>
       <Value>Fügt Gase oder Flüssigkeiten in Tanks oder Rohrnetzwerke ein. : &quot;/addgas [refID] [gasType 1-8] [molecount]&quot;</Value>
     </Record>
     <Record>
+      <Key>CommandCount</Key>
+      <Value>Zählt alle Dinge des angegebenen Typs im Speicher. : &quot;/count [AllThings / Structures / DynamicThings / AnimatorThings / Pipes / Cables / Atmospheres / CableNetworks]&quot;</Value>
+    </Record>
+    <Record>
+      <Key>CommandSetDecay</Key>
+      <Value>Legt den globalen Lebensmittelzerfallsmultiplikator fest. : &quot;/setdecay 2&quot;</Value>
+    </Record>
+    <Record>
+      <Key>CommandSetContact</Key>
+      <Value>Legt die erforderliche Signalmenge fest, um einen Händler zu kontaktieren. : &quot;/setcontact 10&quot;</Value>
+    </Record>
+    <Record>
       <Key>CommandHelp</Key>
       <Value>Zeigt das Hilfe Menü: &quot;/help&quot;</Value>
+    </Record>
+    <Record>
+      <Key>Seedsstring</Key>
+      <Value>Saatgut</Value>
+    </Record>
+    <Record>
+      <Key>AgrizeroDesc</Key>
+      <Value>Agrizero ist ein landwirtschaftliches Biotech-Unternehmen, das sich auf die Erforschung und den Einsatz von außerirdischer Landwirtschaftstechnologie konzentriert. Ziel des Unternehmens ist es, ein Netzwerk von sich selbst erhaltenden, in sich geschlossenen &quot;Biofabriken&quot; bereitzustellen, die letztendlich 1 Million Menschen im Weltraum ernähren werden.
+Das Unternehmen, das aus den Umweltkatastrophen des späten 21. Jahrhunderts hervorgegangen ist, hat seine Wurzeln in Chinas weltrettenden künstlichen Landwirtschaftsinitiativen und hat sich nun auf Einrichtungen im Asteroidengürtel ausgebreitet, wo die Versorgung mit Eisasteroiden die vertikale Landwirtschaft und die Landwirtschaft mit kontrollierter Umgebung äußerst vielversprechend macht.
+Während sich viele ihrer Anlagen noch im Bau befinden, ist Agrizero bereits einer der Hauptlieferanten von Offworld-Gruppen wie {LINK:ODA;ODA}, {LINK:Sinotai; Sinotai} und {LINK:ExMin; ExMin} durch das ständig wachsende Trader-Netzwerk.      </Value>
+    </Record>
+    <Record>
+      <Key>AsuraDesc</Key>
+      <Value>Asura Biomedia wurde im frühen 22. Jahrhundert von dem in Mumbai ansässigen Billionär Ashan Gurwaja gegründet. Nominell auf &quot;Biotechnologie&quot; fokussiert, hatte das Unternehmen schon immer eine &quot;elastische&quot; Vorstellung davon, was genau das bedeutete: alles von Pharmazeutika bis hin zu Tiernahrung.
+Gurwajas Hintergrund in Bio-Engineering-Unternehmen brachte das Unternehmen von Anfang an in die höchste Stufe der Biowissenschaftsindustrie, und es wuchs genau so, wie es sein Gründer beabsichtigte: schnell und zuverlässig, strukturiert, um alle kleineren Unternehmen auf seinem Weg zu schlucken.
+Gegen Mitte des Jahrhunderts entwickelten sich die Ambitionen von Asura, um ganze Gesundheitssysteme zu umfassen - es ist heute der größte Anbieter von Gesundheitsversorgung auf der Erde und integriert Krankenhäuser und Grundversorgung mit medizinischem Bedarf, pharmazeutischer Produktion und Einzelhandel, häuslicher Pflege und Bestattungsdiensten.
+Im Jahr 2150 war Asuras Geschäft ein einfacher Vorschlag, wie in ihrem berühmten – wenn nicht berüchtigten – Werbeslogan festgehalten wurde: &quot;Wir sind in dir&quot;.      </Value>
+    </Record>
+    <Record>
+      <Key>CHACDesc</Key>
+      <Value>Gegründet 2085 zur Herstellung von Waffen für {LINK:Sinotai; Sinotai}s Weltraumstreitkräfte, das Unternehmen ist dafür bekannt, äußerst zuverlässige und erschwingliche Waffen für den Einsatz außerhalb der Welt herzustellen.
+Ihr pragmatischer Ansatz spiegelt sich in ihrem Fokus auf Designs wider, die für den 3D-Druck und die Massenproduktion geeignet sind, sowie in einer hohen Wiederverwendung von Komponenten über Modelle und Waffenklassen hinweg.
+Obwohl CHAC-Waffen in keiner bestimmten Kategorie herausragend sind und sicherlich nie der Gretness beschuldigt wurden, erleiden sie keine großen Mängel und funktionieren nach den meisten bekannten Maßstäben ausreichend, um ihren Designern den informellen Titel &quot;Waffenschmied für das Sonnensystem&quot; eingebracht zu haben.      </Value>
+    </Record>
+    <Record>
+      <Key>ExMinDesc</Key>
+      <Value>Nach der Sisyphus-Katastrophe auf dem Mars im Jahr 2079 wurde die Asteroidenverschiebung offiziell durch den {LINK:ODA;ODA} verboten. Diese grundlegende Veränderung zwang die neugeborene Weltraumbergbauindustrie, ihre Strategien zu überdenken, aber bis zur Eröffnung des Manaus Space Elevator bedeutete eine marginale Wirtschaftlichkeit, dass die Gewinnung von Ressourcen außerhalb der Welt praktisch unmöglich war.
+ExMin wurde 2095 von einem langjährigen schweizerisch-deutschen Bergbaukonzern und einem Konsortium anderer Interessen gegründet und war mehrere Jahrzehnte lang eher eine Idee als eine kommerzielle Realität. ExMin wurde mit der Gewissheit gegründet, dass ein Weltraumaufzug irgendwann ankommen würde, und war einer der ersten, der den von ihm angebotenen Zugang nutzte. In der Folge ist es zu einer der mächtigsten kommerziellen Einheiten des Sonnensystems geworden.
+Mit dem sicheren Zugang zum Weltraum wurde ExMin zu einem zentralen Akteur im Ressourcenfluss zum Inneren System. Es hat Konkurrenz, hauptsächlich vom brasilianischen Bergbauriesen {LINK:Recurso; Recurso}, aber das Unternehmen hat seinen Vorsprung im außerweltlichen Bergbau nie ganz verloren. Als Synonym für Seltenerdmetalle und bahnbrechende Ressourcengewinnung außerhalb der Welt steht es an der Spitze der Entwicklung im gesamten Sonnensystem.      </Value>
+    </Record>
+    <Record>
+      <Key>GeFabrikDesc</Key>
+      <Value>Offiziell als Gewehrfabrik GmbH bekannt, ist die GeFabrik eine der ältesten und angesehensten Rüstungsfirmen der Welt, die für die Herstellung außergewöhnlich präziser High-End-Schusswaffen bekannt ist.
+Im Zuge des Zusammenbruchs der europäischen Rüstungsproduktion in den 2030er Jahren gründete eine Gruppe arbeitsloser Rüstungsmitarbeiter die GeFabrik. Das Unternehmen, das sich der Erneuerung ursprünglicher Designprinzipien verschrieben hat, ist legendär für umfangreiche Tests, die manchmal bis zu 10 Jahre dauern, um ganze Waffenformate herzustellen.
+Es wird allgemein angenommen, dass die GeFabrik den Ruf der deutschen Industrie im Alleingang gerettet hat, während sie nichts für ihren Sinn für Humor getan hat.      </Value>
+    </Record>
+    <Record>
+      <Key>HiiragiDesc</Key>
+      <Value>Hiiragi Communications wurde von Noboru Hiiragi nach der Wirtschaftsblase der 2110er Jahre gegründet und absorbierte mehrere prominente außerirdische Vermögenswerte und wurde schnell zum am weitesten verbreiteten Kommunikationsnetzwerk für das Trans-Sonnensystem.
+Wenn Sie in letzter Zeit mit Freunden und Familie außerhalb der Welt kommuniziert haben, war es über das Hiiragi-Netzwerk, auch wenn es unter einem seiner vielen Tochterunternehmen gebrandmarkt wurde. Hiiragi ist auch der führende Verkäufer für PCDs (Personal Communication Devices) sowie ein tiefer, wenn auch schwer zu beurteilender Investor in terrestrische Telekommunikationsnetze.      </Value>
+    </Record>
+    <Record>
+      <Key>NorsecDesc</Key>
+      <Value>Mit seinen Wurzeln in der Verteidigungsindustrie des frühen 20. Jahrhunderts war Norsec (auch bekannt als Northern Security Systems) ein früher Anwender des Asteroidenbergbaus - einer seiner Schlepper war an dem berüchtigten Sisyphus Hit auf der jungen Marskolonie in Sanders beteiligt.
+Norsec wurde offiziell von jeglichem Fehlverhalten freigesprochen, aber als der {LINK:ODA;ODA} die Verlagerung von Asteroiden verbot, verlagerte das Unternehmen seinen Fokus auf Infrastruktur und Fertigung.
+Die orbitalbasierte Space Systems Division von Norsec ist für das Design und die Produktion der Kerntransportsysteme von {LINK:ODA;ODA} verantwortlich und soll Gerüchten zufolge auch ein großes Interesse an {LINK:ExMin; ExMin}. Das Unternehmen ist auch für seine Bereitschaft bekannt, sich mit experimenteller Robotertechnologie zu beschäftigen.      </Value>
+    </Record>
+    <Record>
+      <Key>ODADesc</Key>
+      <Value>Nach der Erdkrise nahm der Fokus der Menschheit auf den Weltraum ab. Doch viele hatten das Gefühl, dass unsere Spezies ohne Ambitionen über unseren Heimatplaneten hinaus ins Wanken geraten könnte.
+Die Offworld Development Agency wurde 2070 CE von den neu gestalteten Vereinten Nationen gegründet und erhielt ein sehr spezifisches Ziel - die Erforschung des menschlichen Weltraums zu einer Zeit zu leiten und zu fördern, als der Kosmos aus dem öffentlichen Bewusstsein verschwand. 
+Es eröffnete die {LINK:Stationeers; Stationeer}-Programm im Jahr 2095. Da die ODA verstand, dass es schwierig sein würde, eine Finanzierung zu erhalten, konzipierte sie das Programm als eine langsam brennende, kostengünstige Weltrauminitiative. Während einige Stationeers als &quot;kosmische Schiffbrüchige zu günstigen Preisen&quot; verspotteten, ist der Erfolg des Programms ein Beweis für die Weisheit und den Pragmatismus der Vision von ODA.      </Value>
+    </Record>
+    <Record>
+      <Key>RecursoDesc</Key>
+      <Value>Dieser langjährige brasilianische Bergbaukonzern verzweigte sich im späten 21. Jahrhundert in den Weltraum.
+Das Unternehmen, das sich hauptsächlich auf Mineralien und Metalle konzentriert, ist vielleicht am besten als Erweiterung der brasilianischen Regierung anzusehen - nur sehr wenige politische Persönlichkeiten der oberen Ränge im modernen Brasilien sind nicht in den einen oder anderen Arm dieses industriellen Giganten verwickelt.
+Die Verflechtung mit der südamerikanischen Politik hat dem Unternehmen starken Einfluss auf den Manaus-Weltraumaufzug gegeben. Diese tiefe Staatskontrolle hat dazu geführt, dass andere Gruppen – einschließlich des {LINK:ODA;ODA} – eine gewisse &quot;Flexibilität&quot; gegenüber Recurso ausüben.
+Vorwürfe illegaler Asteroidenverlagerungen, Sicherheitsverletzungen und zahlreicher Handelsverstöße haben sie kaum berührt. Währenddessen weisen Verteidiger darauf hin, dass vor Gericht sehr wenig bewiesen wurde und Recurso nicht allein ist – daher die Binsenweisheit: &quot;Im Weltraum leben wir alle in Glashäusern.&quot;      </Value>
+    </Record>
+    <Record>
+      <Key>SinotaiDesc</Key>
+      <Value>Als einzige &quot;traditionelle&quot; staatliche Einheit, die außerhalb der Weltpolitik überlebt hat, ist Sinotais Reichweite und Macht nach dem {LINK:ODA;ODA} selbst an zweiter Stelle. In vielerlei Hinsicht hat ein Relikt – eine Unteragentur einer erschütternd komplizierten erdgebundenen Unternehmensbürokratie – seine Struktur es Sinotai ermöglicht, unglaubliche Dinge zu erreichen.
+Nur wenige weltraumorientierte Organisationen, die sich im frühen 21. Jahrhundert bewährt haben, indem sie die ersten Menschen auf den Mars gebracht, das erste Gigawatt-Stromsystem außerhalb der Erde und die erste weltraumgestützte Treibstoffraffinerie errichtet haben, haben nur wenige weltraumfahrende Organisationen einen Mangel an Beziehung zu Sinotai. Ein häufiger Witz besagt, dass es unmöglich ist, im Weltraum etwas ohne sie zu tun.
+Unabhängig von der Wahrheit hat Sinotais Ansatz zur Entwicklung außerhalb der Welt einen &quot;Soft Power&quot; -Ansatz beinhaltet, von MOUs mit {LINK:Recurso; Recurso} (was ihnen einen bevorzugten Zugang zum Manaus-Weltraumaufzug ermöglicht) zu düstereren Allianzen der Bequemlichkeit mit einer Reihe von Händler-Gruppen.      </Value>
     </Record>
     <Record>
       <Key>TKDesc</Key>
