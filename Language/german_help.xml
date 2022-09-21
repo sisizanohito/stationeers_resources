@@ -8,9 +8,21 @@
     -->
     <!--LEAVE THIS ALONE NEEDED FOR THOSE PAGES-->
     <StationpediaPage>
+      <Key>CartridgePage</Key>
+      <Title>Kassetten</Title>
+      <Text>Diese können zu {THING:ItemTablet} oder {THING:ItemAdvancedTablet} hinzugefügt werden, um verschiedene Diagnosefunktionen auszuführen.
+{LIST_OF_CARTRIDGES}</Text>
+    </StationpediaPage>
+    <StationpediaPage>
+      <Key>FabricatorPage</Key>
+      <Title>Fertiger</Title>
+      <Text>Dies sind Strombetriebene Strukturen, die verwendet werden können, um Dinge herzustellen, die du im Spiel benötigst. Sie erfordern normalerweise {LINK:IngotPage;Ingots}, damit sie {LINK:ReagentPage; Reagenzien} erzeugen können um Dinge herzustellen .
+        {LIST_OF_FABRICATORS}      </Text>
+    </StationpediaPage>
+    <StationpediaPage>
       <Key>DevicePage</Key>
       <Title>Geräte</Title>
-      <Text>Hierbei handelt es sich um, normalerweise mit Strom betriebene, Strukturen mit speziellen Funktionen wie Logik, Atmosphären und mehr. Sie werden wie andere Strukturen aufgebaut.
+      <Text>Hierbei handelt es sich um, normalerweise mit Strom betriebene, Strukturen mit speziellen Funktionen wie Logik, Atmosphären und mehr. Sie sind wie andere Strukturen aufgebaut.
 
 {HEADER:Liste von Geräten}
 {LIST_OF_DEVICES}</Text>

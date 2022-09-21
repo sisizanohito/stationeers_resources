@@ -27,7 +27,7 @@
     </Record>
     <Record>
       <Key>MarsTaskGetFood</Key>
-      <Value>Finde ein {THING:ItemCerealBar}</Value>
+      <Value>Finde einen {THING:ItemCerealBar}</Value>
     </Record>
     <Record>
       <Key>MarsTabletStage1</Key>
@@ -35,11 +35,11 @@
     </Record>
     <Record>
       <Key>MarsTabletStage1Page1</Key>
-      <Value>SEITE 1 von 2 \n KEINE PANIK.\n\n Wenn Sie das lesen, haben Sie die Evakuierung überlebt - Herzlichen Glückwünsch. Unabhängig von Ihrer Umgebung, sollten Sie sich erstmal um das Wohlergehen von Ihnen und Ihrer Crew kümmern. Versichern Sie sich, dass Ihr Anzug bei voller Integrität ist. Da es keinen Hinweis darauf gibt in welcher Umgebung sie sich befinden, ist die Sicherstellung einer Luftzufuhr entscheidend.</Value>
+      <Value>SEITE 1 von 2 \n KEINE PANIK.\n\n Wenn du das liest, hast du die Evakuierung überlebt - Herzlichen Glückwünsch. Unabhängig von deiner Umgebung, solltest du dich erstmal um das eigene Wohlergehen und das deiner Crew kümmern. Versichere dich, dass dein Anzug seine volle Integrität besitzt. Da es keinen Hinweis darauf gibt in welcher Umgebung du dich befindest, ist die Sicherstellung einer Luftzufuhr entscheidend.</Value>
     </Record>
     <Record>
       <Key>MarsTabletStage1Page2</Key>
-      <Value>SEITE 2 von 2 \n Wenn Sie sich in der nähe einer intakten Rettungskapsel mit angebrachter Versorgungskiste befinden, sollten Sie die wichtigsten Vorräte bis zur Evakuierung haben. Wenn nicht, sollten Sie nach Überlebenden suchen. Sie sollten die überlebenswichtigsten Vorräte wie Essen, Batterien, Hilfsmittel wie Panzerband und tragbare Überlebensausrüstung entweder einsammeln oder sich ihre Orte notieren. \n</Value>
+      <Value>SEITE 2 von 2 \n Wenn du dich in der nähe einer intakten Rettungskapsel mit angebrachter Versorgungskiste befindest, solltest du die wichtigsten Vorräte bis zur Evakuierung haben. Wenn nicht, solltest du nach Überlebenden suchen. Du solltest die überlebenswichtigsten Vorräte wie Nahrung, Batterien und Hilfsmittel in Form von Klebeband und tragbarer Überlebensausrüstung, entweder einsammeln oder dir ihre Orte notieren. \n</Value>
     </Record>
     <!-- Mission Stage: Aquire Raw Materials -->
     <Record>
@@ -48,11 +48,11 @@
     </Record>
     <Record>
       <Key>MarsTabletStage2</Key>
-      <Value>Rohmaterialien</Value>
+      <Value>ROHMATERIALIEN</Value>
     </Record>
     <Record>
       <Key>MarsDescRawMaterials</Key>
-      <Value>Finden Sie einen Weg, um die grundlegenden Materialien herzustellen, die Sie benötigen, um die Fertigung in Gang zu bringen.</Value>
+      <Value>Finde einen Weg, um die grundlegenden Materialien herzustellen, die du benötigst, um die Fertigung in Gang zu bringen.</Value>
     </Record>
     <Record>
       <Key>MarsTaskGetIronIngots</Key>
@@ -60,7 +60,7 @@
     </Record>
     <Record>
       <Key>MarsTaskGetCopperIngots</Key>
-      <Value>Holen Sie sich ein {THING:ItemCopperIngot}</Value>
+      <Value>Hole dir ein {THING:ItemCopperIngot}</Value>
     </Record>
     <Record>
       <Key>MarsTaskGetGoldIngots</Key>
@@ -93,7 +93,7 @@
     </Record>
     <Record>
       <Key>MarsTabletStage3</Key>
-      <Value>Produktion 101</Value>
+      <Value>PRODUKTION 101</Value>
     </Record>
     <Record>
       <Key>MarsDescSetupManufacturing</Key>
@@ -134,7 +134,7 @@
     </Record>
     <Record>
       <Key>MarsTabletStage4</Key>
-      <Value>Leitfaden der Gartenarbeit</Value>
+      <Value>LEITFADEN DER GARTENARBEIT</Value>
     </Record>
     <Record>
       <Key>MarsDescFoodSupply</Key>
@@ -142,11 +142,11 @@
     </Record>
     <Record>
       <Key>MarsTaskPrepareAtmos</Key>
-      <Value>Erstellen Sie einen unter Druck stehenden Raum mit einer ausreichenden Atmosphäre, um Kartoffeln anzubauen.</Value>
+      <Value>Schaffe einen unter Druck stehenden Raum mit einer Atmosphäre, die den Kartoffelanbau begünstigt.</Value>
     </Record>
     <Record>
       <Key>MarsTaskGrowPotato</Key>
-      <Value>Erhalten ein{THING:ItemPotato}</Value>
+      <Value>Züchte eine reife {THING:ItemPotato}.</Value>
     </Record>
     <Record>
       <Key>MarsTabletStage4Page1</Key>
@@ -179,7 +179,7 @@
     </Record>
     <Record>
       <Key>MarsTaskBuildCommand</Key>
-      <Value>Baue das Raketen-Kommandomodul</Value>
+      <Value>Baue das Raketen-Befehlsmodul</Value>
     </Record>
     <Record>
       <Key>MarsTitleLaunchRocket</Key>

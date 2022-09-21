@@ -8,11 +8,114 @@
     </Record>
     <Record>
       <Key>TutoiralGasMixingSubTitle</Key>
-      <Value>Besser kochen</Value>
+      <Value>Fang besser an zu kochen</Value>
+    </Record>
+    <Record>
+      <Key>ScenariosBorznacsKitchenDescription</Key>
+      <!--Menu Disc-->
+      <Value>Nachdem er aus mehreren Handelsabkommen mit Sinotai ausgeschlossen wurde, hat Borznac der 5. beschlossen, ein eigenes Imperium aufzubauen, indem er die Kontrolle über alle nahe gelegenen Mondbasen übernimmt, einschließlich deiner.
+Du wurdest gezwungen, als sein neuer persönlicher Koch zu arbeiten. Also fange besser an zu kochen.</Value>
+    </Record>
+    <Record>
+      <Key>ScenariosBorznacsKitchenIntroDescription</Key>
+      <!--Intro Panel-->
+      <Value>Borznac der 5. ist nicht für seine Nettigkeiten bekannt. Nachdem er aus mehreren Handelsabkommen mit Sinotai ausgeschlossen wurde, hat er beschlossen, ein eigenes Imperium aufzubauen, indem er die Kontrolle über alle nahe gelegenen Mondbasen übernimmt, einschließlich deiner.
+Du wurdest gezwungen, als sein neuer persönlicher Koch zu arbeiten. Du weißt immer noch nicht, was mit seinem letzten Koch passiert ist, und du willst es auch nicht herausfinden. Er hat einen ziemlichen Appetit und ist sehr ungeduldig. Also fange besser an zu kochen.</Value>
     </Record>
     <Record>
       <Key>CookingForYourLifeSubTitle</Key>
-      <Value>Kochen Sie um Ihr Leben!</Value>
+      <Value>Koche um dein Leben!</Value>
+    </Record>
+    <Record>
+      <Key>BakedPotato1</Key>
+      <Value>Koche und liefere 4 gebackene Kartoffeln.</Value>
+    </Record>
+    <Record>
+      <Key>FriesTask1</Key>
+      <Value>Koche und liefere 2 Packungen Pommes.</Value>
+    </Record>
+    <Record>
+      <Key>MuffinTask1</Key>
+      <Value>Backe und liefere 3 Muffins.</Value>
+    </Record>
+    <Record>
+      <Key>BreadTask1</Key>
+      <Value>Koche und liefere 2 Brote.</Value>
+    </Record>
+    <Record>
+      <Key>MilkTask1</Key>
+      <Value>Stelle 2 Kartons Milch her und liefere diese.</Value>
+    </Record>
+    <Record>
+      <Key>PumpkinPie1</Key>
+      <Value>Backe und liefere 2 Kürbiskuchen.</Value>
+    </Record>
+    <Record>
+      <Key>TomatoSoup1</Key>
+      <Value>Stelle eine Dose Tomatensuppe her und liefere diese.</Value>
+    </Record>
+    <Record>
+      <Key>PumpkinSoup1</Key>
+      <Value>Stelle eine Dose Kürbissuppe her und liefere diese.</Value>
+    </Record>
+    <Record>
+      <Key>BakedPotato2</Key>
+      <Value>Backe und liefere 2 gebackene Kartoffeln.</Value>
+    </Record>
+    <Record>
+      <Key>BreadTask2</Key>
+      <Value>Backe und liefere 1 Brot.</Value>
+    </Record>
+    <Record>
+      <Key>FriesTask2</Key>
+      <Value>Frittiere und liefere 1 Packung Pommes.</Value>
+    </Record>
+    <Record>
+      <Key>PumpkinTask2</Key>
+      <Value>Backe und liefere 1 Kürbiskuchen.</Value>
+    </Record>
+    <Record>
+      <Key>MuffinTask2</Key>
+      <Value>Backe und liefere 3 Muffins.</Value>
+    </Record>
+    <Record>
+      <Key>MilkTask2</Key>
+      <Value>Stelle 2 Kartons Milch her und liefere diese.</Value>
+    </Record>
+    <Record>
+      <Key>BorznacsNarration0D</Key>
+      <Value>Ich habe Hunger, also mach mir ein paar gebackene Kartoffeln. Aber denke daran, du kannst nur eine zur Zeit backen.
+Wenn sie fertig sind, bringe sie mir durch die Rutsche. Enttäusche mich nicht. Mein letzter Koch war langsam und dumm. Die Dinge liefen nicht gut für ihn.</Value>
+    </Record>
+    <Record>
+      <Key>BorznacsNarration1D</Key>
+      <Value>Das war kaum ausreichend. Ich will etwas mit etwas GESCHMACK. Ich verlange Pommes! Sicherlich erinnerst du dich, wie man die zubereitet?</Value>
+    </Record>
+    <Record>
+      <Key>BorznacsNarration2D</Key>
+      <Value>Mmmmm ... Das war besser. Jetzt will ich einen süßen Snack. Mach mir ein paar Muffins oder erlebe meinen Zorn.</Value>
+    </Record>
+    <Record>
+      <Key>BorznacsNarration3D</Key>
+      <Value>Ah, all diese Süße hat mich in eine teigige Stimmung versetzt. Ja, ich denke, etwas Brot wird gut ankommen.</Value>
+    </Record>
+    <Record>
+      <Key>BorznacsNarration4D</Key>
+      <Value>All dieses Essen hat mich ein bisschen ausgetrocknet. Ich brauche einen Drink. Etwas schöne frische Milch wird perfekt sein. Mache es so!</Value>
+    </Record>
+    <Record>
+      <Key>BorznacsNarration5D</Key>
+      <Value>Ah, du hast es viel besser gemacht als dein Vorgänger. Nun zu etwas Klassischem. Ein Kürbiskuchen ist das, was ich brauche. Mache mir sofort einen. Ich habe eine Rutsche im Ressourcenraum geöffnet. Du kannst alles verwenden, was der letzte Koch zurückgelassen hat.</Value>
+    </Record>
+    <Record>
+      <Key>BorznacsNarration6D</Key>
+      <Value>Ausgezeichnet. Im Gegensatz zu deinem schwachsinnigen Vorläufer hast du vielleicht tatsächlich das Zeug dazu, mir zu dienen. Eines Tages werde ich vielleicht sogar darüber nachdenken, dir Freiheiten zu geben. Vielleicht. Aber jetzt bin ich bereit für das Abendessen. Vervollständige  ein Drei-Gänge-Menü oder erleide unaussprechliche Konsequenzen.</Value>
+    </Record>
+    <Record>
+      <Key>BorznacWinEnd</Key>
+      <Value>Du hast dich als unverzichtbarer Diener Borznacs erwiesen.
+			
+Glückwunsch.</Value>
     </Record>
   </Interface>
 </Language>
