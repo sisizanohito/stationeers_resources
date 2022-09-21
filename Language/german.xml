@@ -9763,6 +9763,10 @@ Temperatur {1}</Value>
       <Value>Mausrad + {KEY:InventorySelect}</Value>
     </Record>
     <Record>
+      <Key>ControlQuickMoveDisc</Key>
+      <Value>Gegenstand Schnellverschieben</Value>
+    </Record>
+    <Record>
       <Key>WeatherEventsField</Key>
       <Value>Hat Wetterereignisse</Value>
     </Record>
@@ -9800,7 +9804,7 @@ Temperatur {1}</Value>
     </Record>
     <Record>
       <Key>AdvancedTutorialButton</Key>
-      <Value>Erweitert</Value>
+      <Value>Veraltet/Erweitert</Value>
     </Record>
     <Record>
       <Key>BasicButtonTutorial</Key>
