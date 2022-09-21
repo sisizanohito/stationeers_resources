@@ -30,10 +30,8 @@
     <StationpediaPage>
       <Key>ImportExportPage</Key>
       <Title>Einlass/Auswurf und Schächte</Title>
-      <Text>Hierbei handelt es sich um, normalerweise mit Strom betriebene, Strukturen mit speziellen Funktionen wie Logik, Atmosphären und mehr. Sie werden wie andere Strukturen aufgebaut.
-
-{HEADER:Liste von Geräten}
-{LIST_OF_DEVICES}</Text>
+      <Text>Dies sind Strombetriebene Strukturen, die verwendet werden können um Dinge zu empfangen und auszugeben oder dies zu unterstützen. Die meisten haben spezielle Funktionen wie {LINK:LogicUnitPage;logic}, {LINK:AtmosphericPage;atmospherics} und mehr. Sie sind auf die gleiche Weise wie andere Strukturen aufgebaut.
+        {LIST_OF_IMPORTEXPORT}      </Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>MiningPage</Key>

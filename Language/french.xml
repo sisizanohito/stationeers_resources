@@ -9325,7 +9325,7 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>ScriptCommandLB</Key>
-      <Value>Charge la variable [ var ] de tous les périphériques du circuit de même type ayant le hash [ type ] en effectuant un traitement [ batchMode ] sur les valeurs récoltées puis écrit le résultat dans le registre [ r? ] ( batchMode = moyenne|0, somme|1, minimum|2, maximum|3 ).</Value>
+      <Value>Charge la variable [ var ] de tous les périphériques du circuit de même hash [ type ] en effectuant un traitement [ batchMode ] sur les valeurs récoltées; puis écrit le résultat dans le registre [ r? ] ( batchMode = moyenne|0, somme|1, minimum|2, maximum|3 ).</Value>
     </Record>
     <Record>
       <Key>ScriptCommandS</Key>
@@ -9337,7 +9337,7 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>ScriptCommandLS</Key>
-      <Value>Charge le contenu de la variable [ var ] afférente au numéro de slot [ int ] de l&apos;appareil [ d? ] et le stocke dans le registre [ r? ]. Si la variable est un booléen, la valeur renvoyée sera faux|0 ou vrai|1</Value>
+      <Value>Charge le contenu de la variable [ var ] afférente au numéro de slot [ int ] de l&apos;appareil [ d? ] et le stocke dans le registre [ r? ]; si la variable est un booléen, la valeur renvoyée sera (faux|0) ou (vrai|1).</Value>
     </Record>
     <Record>
       <Key>ScriptCommandLR</Key>
@@ -9361,11 +9361,11 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>ScriptCommandSub</Key>
-      <Value>Effectue une soustraction de [ a ] moins [ b ] et place le résultat dans le registre [ r? ].</Value>
+      <Value>Effectue la soustraction de [ a ] moins [ b ] et place le résultat dans le registre [ r? ].</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSdse</Key>
-      <Value>Test au sein du CI, si le registre d&apos;appareils [ d? ] est bien associé à un dispositif. Si oui renvoie (vrai|1) dans [ r? ], sinon renvoie (faux|0).</Value>
+      <Value>Test au sein du CI, si le registre [ d? ] est bien associé à un dispositif. Si oui renvoie (vrai|1) dans [ r? ], sinon renvoie (faux|0).</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSdns</Key>
@@ -9469,7 +9469,7 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     </Record>
     <Record>
       <Key>ScriptCommandBdse</Key>
-      <Value>Saute à la ligne [ a ] si le dispositif [ d? ] est configuré</Value>
+      <Value>Effectue un saut à la ligne [ a ] si le dispositif [ d? ] est configuré</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBdns</Key>

@@ -406,6 +406,14 @@
       <Key>FlipRover</Key>
       <Value>Rover Ausrichten</Value>
     </Record>
+    <Record>
+      <Key>Idle</Key>
+      <Value>Leerlauf</Value>
+    </Record>
+    <Record>
+      <Key>Active</Key>
+      <Value>Aktiv</Value>
+    </Record>
   </Actions>
   <Things>
     <RecordThing>
