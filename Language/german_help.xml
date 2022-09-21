@@ -360,6 +360,15 @@ Das {THING:StructureModularRocketFueltank01} benötigt eine 2:1-Mischung aus {GA
 {LIST_OF_ROCKET_SHUTTLE}
       </Text>
     </StationpediaPage>
+    <StationpediaPage>
+      <Key>WeatherPage</Key>
+      <Title>Wetter</Title>
+      <DisplayFilter>Guides</DisplayFilter>
+      <Text>Die Planeten des Sonnensystems sind nicht so ruhig, wie sie scheinen mögen. Nach sieben Tagen auf jeder Welt mit Atmosphäre treten die unergründlichen Kräfte der Natur in Aktion – sie treffen unvorsichtige Stationeers mit Schneestürmen, Staubstürmen und vulkanischen Ereignissen.
+Daher empfiehlt der {LINK:ODA;ODA}, dass frisch eingesetzte Stationeers innerhalb von 7 Tagen nach der Landung eine luftdichte Basis erbauen.
+Alle dynamischen Objekte, die in einem Sturm draußen zurückgelassen werden - auf dem Mars, Loulan, Vulcan oder Europa - riskieren, weit, weit weg geweht zu werden, einschließlich Ihres Landers.
+Beachte ebenfalls, dass Sonnenkollektoren empfindlich sind und ihr Glas zerbrechen oder gelegentlich sogar durch einen ausreichend heftigen Sturm zerstört werden kann. Bei Stürmen wird ihre Leistung ebenfalls drastisch reduziert.      </Text>
+    </StationpediaPage>
     <!--
     ~~~~~~~~~~~~~~~~~~~~~~~~~
     |                     TEMPLATES               |
@@ -381,25 +390,13 @@ Flammpunkt {POS:300}{1}
 Selbstentzündung {POS:300}{2}{3}{/LIST}</Text>
     </StationpediaPage>
     <StationpediaPage>
-      <Key>ThingSlotHeaderTemplate</Key>
-      <Text>{HEADER:Slots}{LIST}{0}{/LIST}</Text>
-    </StationpediaPage>
-    <StationpediaPage>
-      <Key>ThingSlotItemTemplate</Key>
-      <Text>{0}. {POS:100}{1} {POS:300}Typ {2}</Text>
-    </StationpediaPage>
-    <StationpediaPage>
-      <Key>ThingStackTemplate</Key>
-      <Text>Stapelgröße {POS:300}{0}</Text>
-    </StationpediaPage>
-    <StationpediaPage>
-      <Key>ThingNutritionTemplate</Key>
-      <Text>Maximaler Nährwert {POS:300}{0}</Text>
+      <Key>ThingTransmissibleTemplate</Key>
+      <Text>Verbindet sich mit {POS:300}{THING:StructureLogicTransmitter}</Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>IceMeltingTemplate</Key>
-      <Text>Schmelztemperatur {POS:300}{1}
-Schmelzdruck {POS:300}{0}</Text>
+      <Text>Schmelztemperatur {1}
+Schmelzdruck {0}</Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>ConstructedByHeaderTemplate</Key>
@@ -408,6 +405,26 @@ Schmelzdruck {POS:300}{0}</Text>
     <StationpediaPage>
       <Key>CreatedHeaderTemplate</Key>
       <Text>{LIST}{0}{/LIST}</Text>
+    </StationpediaPage>
+    <StationpediaPage>
+      <Key>ReagentPageTemplate</Key>
+      <Text>Ein {LINK:ReagentPage;reagenz}, das oft in der Form {LINK:IngotPage;Ingots} verwendet werden kann.
+
+
+{LIST}Unit {1}{/LIST}
+
+
+{LIST}{2}{/LIST}</Text>
+    </StationpediaPage>
+    <StationpediaPage>
+      <Key>GasPageTemplate</Key>
+      <Text>Ein {LINK:GasPage;gas}, das oft entsteht, wenn {LINK:SmeltingPage;smelting}.
+
+
+{LIST}Specific Heat {1}{2}{/LIST}
+
+
+{LIST}{0}{/LIST}</Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>GasPageFlamableTemplate</Key>
