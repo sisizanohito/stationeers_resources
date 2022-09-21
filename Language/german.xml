@@ -8331,60 +8331,72 @@ Temperatur {1}</Value>
       <Value>Das Verhältnis von Lachgas in der Geräteatmosphäre</Value>
     </Record>
     <Record>
+      <Key>LogicTypeCombustionInput</Key>
+      <Value>Die Atmosphäre steht in Flammen. Gibt 1 zurück, wenn das Eingabenetzwerk des Geräts in Flammen geschaltet ist, 0, wenn nicht.</Value>
+    </Record>
+    <Record>
       <Key>LogicTypeRatioOxygenInput2</Key>
-      <Value>Das Verhältnis von Sauerstoff in der Geräteatmosphäre</Value>
+      <Value>Das Verhältnis von Sauerstoff im Input2-Netzwerk des Geräts</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioCarbonDioxideInput2</Key>
-      <Value>Das Verhältnis von co2 in der Geräteatmosphäre</Value>
+      <Value>Das Verhältnis von {GAS:Kohlendioxid} im Input2-Netzwerk des Geräts</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioNitrogenInput2</Key>
-      <Value>Das Verhältnis von Stickstoff in der Geräteatmosphäre</Value>
+      <Value>Das Verhältnis von Stickstoff im Input2-Netzwerk des Geräts</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioPollutantInput2</Key>
-      <Value>Das Verhältnis von Schadstoff in der Geräteatmosphäre</Value>
+      <Value>Das Verhältnis von Schadstoffen im Input2-Netzwerk des Geräts</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioVolatilesInput2</Key>
-      <Value>Das Verhältnis von flüchtigen Stoffen in der Geräteatmosphäre</Value>
+      <Value>Das Verhältnis der flüchtigen Stoffe im Input2-Netzwerk des Geräts</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioWaterInput2</Key>
-      <Value>Das Verhältnis von Wasser in der Geräteatmosphäre</Value>
+      <Value>Das Verhältnis von Wasser im Input2-Netzwerk des Geräts</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioNitrousOxideInput2</Key>
-      <Value>Das Verhältnis von Lachgas in der Geräteatmosphäre</Value>
+      <Value>Das Verhältnis von {GAS:Lachgas} im Input2-Netzwerk des Geräts</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeCombustionInput2</Key>
+      <Value>Die Atmosphäre steht in Flammen. Gibt 1 zurück, wenn das Input2-Netzwerk des Geräts brennt, 0, wenn nicht.</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioOxygenOutput</Key>
-      <Value>Das Verhältnis von Sauerstoff in der Geräteatmosphäre</Value>
+      <Value>Das Verhältnis von Sauerstoff im Output-Netzwerk des Geräts</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioCarbonDioxideOutput</Key>
-      <Value>Das Verhältnis von co2 in der Geräteatmosphäre</Value>
+      <Value>Das Verhältnis von {GAS:Kohlendioxid} im Ausgabenetzwerk des Geräts</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioNitrogenOutput</Key>
-      <Value>Das Verhältnis von Stickstoff in der Geräteatmosphäre</Value>
+      <Value>Das Verhältnis von Stickstoff im Ausgabenetzwerk des Geräts</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioPollutantOutput</Key>
-      <Value>Das Verhältnis von Schadstoff in der Geräteatmosphäre</Value>
+      <Value>Das Verhältnis von Schadstoffen im Ausgabenetzwerk des Geräts</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioVolatilesOutput</Key>
-      <Value>Das Verhältnis von flüchtigen Stoffen in der Geräteatmosphäre</Value>
+      <Value>Das Verhältnis der flüchtigen Stoffe im Ausgabenetzwerk des Geräts</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioWaterOutput</Key>
-      <Value>Das Verhältnis von Wasser in der Geräteatmosphäre</Value>
+      <Value>Das Verhältnis von Wasser im Ausgabenetzwerk des Geräts</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioNitrousOxideOutput</Key>
-      <Value>Das Verhältnis von Lachgas in der Geräteatmosphäre</Value>
+      <Value>Das Verhältnis von {GAS:Lachgas} im Ausgabenetzwerk des Geräts</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeCombustionOutput</Key>
+      <Value>Die Atmosphäre steht in Flammen. Gibt 1 zurück, wenn das Ausgabenetzwerk des Geräts brennt, 0, wenn nicht.</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioOxygenOutput2</Key>
