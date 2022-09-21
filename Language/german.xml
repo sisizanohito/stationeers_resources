@@ -3946,15 +3946,15 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageElectronicsPrinter4</Key>
-      <Value>Elektronikdrucker</Value>
+      <Value>Zerstörter Elektronikdrucker4</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageElectronicsPrinter5</Key>
-      <Value>Elektronikdrucker</Value>
+      <Value>Zerstörter Elektronikdrucker5</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageElectronicsPrinter6</Key>
-      <Value>Elektronikdrucker</Value>
+      <Value>Zerstörter Elektronikdrucker6</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageCentrifuge1</Key>
@@ -3974,31 +3974,39 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageCentrifuge5</Key>
-      <Value>Zentrifuge</Value>
+      <Value>Zerstörte Zentrifuge</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageGasGenerator1</Key>
-      <Value>Logischer Hash-Generator</Value>
+      <Value>Zerstörter Gasgenerator</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageGasGenerator2</Key>
-      <Value>Logischer Hash-Generator</Value>
+      <Value>Zerstörter Gasgenerator</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageVent1</Key>
-      <Value>Trümmer</Value>
+      <Value>Zerstörte Belüftung</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSatelliteDish1</Key>
-      <Value>Satellitenschüssel</Value>
+      <Value>Zerstörte Satellitenschüssel</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSatelliteDish2</Key>
-      <Value>Satellitenschüssel</Value>
+      <Value>Zerstörte Satellitenschüssel</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSatelliteDish3</Key>
-      <Value>Satellitenschüssel</Value>
+      <Value>Zerstörte Satellitenschüssel</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageElectrolysis1</Key>
+      <Value>Zerstörter Elektrolyseur</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageElectrolysis2</Key>
+      <Value>Zerstörter Elektrolyseur</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageLight1</Key>
