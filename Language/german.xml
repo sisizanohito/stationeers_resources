@@ -2534,19 +2534,19 @@
     </RecordThing>
     <RecordThing>
       <Key>CompositeFloorGrating2</Key>
-      <Value>Bodenrost 2</Value>
+      <Value>Bodengitterrost (Typ 2)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeFloorGrating2</Key>
-      <Value>Bodenrost 2</Value>
+      <Value>Bodengitterrost (Typ 2)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeFloorGrating3</Key>
-      <Value>Bodenrost 3</Value>
+      <Value>Bodengitterrost (Typ 3)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeFloorGrating4</Key>
-      <Value>Bodenrost 4</Value>
+      <Value>Bodengitterrost (Typ 4)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitWallPanels</Key>
@@ -2554,7 +2554,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeWallPanelling1</Key>
-      <Value>Verbundwandverkleidung 1</Value>
+      <Value>Wandverkleidung aus Verbundwerkstoff</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitCompositeFloorGrating</Key>
@@ -2570,47 +2570,47 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureFrameCornerCut</Key>
-      <Value>Gerüst (Eckschnitt)</Value>
+      <Value>Stahlrahmen (Eckschnitt)</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeWallPanelling1</Key>
-      <Value>Verbundwandverkleidung 1</Value>
+      <Value>Wandverkleidung aus Verbundwerkstoff</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeWallPanelling2</Key>
-      <Value>Verbundwandverkleidung 2</Value>
+      <Value>Wandverkleidung aus Verbundwerkstoff 2</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeWallPanelling3</Key>
-      <Value>Verbundwandverkleidung 3</Value>
+      <Value>Wandverkleidung aus Verbundwerkstoff 3</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeWallPanelling4</Key>
-      <Value>Verbundwandverkleidung 4</Value>
+      <Value>Wandverkleidung aus Verbundwerkstoff 4</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeWallPanelling5</Key>
-      <Value>Verbundwandverkleidung 5</Value>
+      <Value>Wandverkleidung aus Verbundwerkstoff 5</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeWallPanelling6</Key>
-      <Value>Verbundwandverkleidung 6</Value>
+      <Value>Wandverkleidung aus Verbundwerkstoff 6</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeWallPanelling7</Key>
-      <Value>Verbundwandverkleidung 7</Value>
+      <Value>Wandverkleidung aus Verbundwerkstoff 7</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeWallPanelling8</Key>
-      <Value>Verbundwandverkleidung 8</Value>
+      <Value>Wandverkleidung aus Verbundwerkstoff 8</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeWallPanelling9</Key>
-      <Value>Verbundwandverkleidung 9</Value>
+      <Value>Wandverkleidung aus Verbundwerkstoff 9</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeWallPanelling10</Key>
-      <Value>Verbundwandverkleidung 10</Value>
+      <Value>Wandverkleidung aus Verbundwerkstoff 10</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeWallPanelling11</Key>
@@ -2618,43 +2618,43 @@
     </RecordThing>
     <RecordThing>
       <Key>CompositeWallPanelling12</Key>
-      <Value>Verbundwandverkleidung 12</Value>
+      <Value>Wandverkleidung aus Verbundwerkstoff 12</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeWallPanelling13</Key>
-      <Value>Verbundwandverkleidung 13</Value>
+      <Value>Wandverkleidung aus Verbundwerkstoff 13</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeWallPanelling14</Key>
-      <Value>Verbundwandverkleidung 14</Value>
+      <Value>Wandverkleidung aus Verbundwerkstoff 14</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeWallPanelling15</Key>
-      <Value>Verbundwandverkleidung 15</Value>
+      <Value>Wandverkleidung aus Verbundwerkstoff 15</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeWallPanelling16</Key>
-      <Value>Verbundwandverkleidung 16</Value>
+      <Value>Wandverkleidung aus Verbundwerkstoff 16</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeWallPanelling17</Key>
-      <Value>Verbundwandverkleidung 17</Value>
+      <Value>Wandverkleidung aus Verbundwerkstoff 17</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeWallPanelling18</Key>
-      <Value>Verbundwandverkleidung 18</Value>
+      <Value>Wandverkleidung aus Verbundwerkstoff 18</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeWallPanelling19</Key>
-      <Value>Verbundwandverkleidung 19</Value>
+      <Value>Wandverkleidung aus Verbundwerkstoff 19</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeWallPanelling20</Key>
-      <Value>Verbundwandverkleidung 20</Value>
+      <Value>Wandverkleidung aus Verbundwerkstoff 20</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeWallPanelling21</Key>
-      <Value>Verbundwandverkleidung 21</Value>
+      <Value>Wandverkleidung aus Verbundwerkstoff 21</Value>
     </RecordThing>
     <RecordThing>
       <Key>Corner1</Key>
@@ -2694,7 +2694,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureWallGeometryTMirrored</Key>
-      <Value>Gerahmte Wand (Ecke)</Value>
+      <Value>Wand (Geometrisch T gespiegelt)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallPaddedArch</Key>
