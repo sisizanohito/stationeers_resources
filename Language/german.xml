@@ -9319,6 +9319,102 @@ Temperatur {1}</Value>
       <Value>Register = 1 wenn a und b 0 sind, sonst 0</Value>
     </Record>
     <Record>
+      <Key>ScriptCommandJ</Key>
+      <Value>Sprungausführung zu Zeile a</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandBdse</Key>
+      <Value>Abzweigen zu Zeile a, wenn Gerät d eingestellt ist</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandBdns</Key>
+      <Value>Abzweigen zu Zeile a, wenn Gerät d nicht eingestellt ist</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandBlt</Key>
+      <Value>Abzweigung zu Linie c, wenn a &lt; b</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandBgt</Key>
+      <Value>Abzweigung zu Linie c, wenn a &gt; b</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandBle</Key>
+      <Value>Abzweigung zu Linie c, wenn a &lt;= b</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandBge</Key>
+      <Value>Abzweigung zu Linie c, wenn a &gt;= b</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandBeq</Key>
+      <Value>Abzweigung zu Linie c, wenn a == 0</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandBne</Key>
+      <Value>Abzweigung zu Linie c, wenn a != b</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandBap</Key>
+      <Value>Abzweigung zu Linie d, wenn abs(a - b) &lt;= max(c * max(abs(a), abs(b)), float.epsilon * 8)</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandBna</Key>
+      <Value>Abzweigung zu Linie d, wenn abs(a - b) &gt; max(c * max(abs(a), abs(b)), float.epsilon * 8)</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandBltz</Key>
+      <Value>Abzweigung zu Linie b, wenn a &lt; 0</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandBgez</Key>
+      <Value>Abzweigung zu Linie b, wenn a &gt;= 0</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandBlez</Key>
+      <Value>Abzweigung zu Linie b, wenn a &lt;= 0</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandBgtz</Key>
+      <Value>Abzweigung zu Linie b, wenn a &gt; 0</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandBeqz</Key>
+      <Value>Abzweigung zu Linie b, wenn a == 0</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandBnez</Key>
+      <Value>Abzweigung zu Linie b, wenn a != 0</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandBapz</Key>
+      <Value>Abzweigung zur Linie c, wenn abs(a) &lt;= float.epsilon * 8</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandBnaz</Key>
+      <Value>Abzweigung zur Linie c, wenn abs(a) &gt; float.epsilon * 8</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandJr</Key>
+      <Value>Relativer Sprung zu Zeile a</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandJr</Key>
+      <Value>Relativer Sprung zu Zeile a</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandBrdse</Key>
+      <Value>Relativer Sprung zu Zeile a, wenn das Gerät eingestellt ist</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandBrdns</Key>
+      <Value>Relativer Sprung zu Zeile a, wenn das Gerät nicht eingestellt ist</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandBrlt</Key>
+      <Value>Relativer Sprung zu Zeile c, wenn ein &lt; b</Value>
+    </Record>
+    <Record>
       <Key>ScriptCommandBrgt</Key>
       <Value>Relativer Sprung zu Zeile C, wenn a &gt; b</Value>
     </Record>
