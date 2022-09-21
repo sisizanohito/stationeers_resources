@@ -78,12 +78,56 @@ Gas - GasTrade
 Benutzerdefiniert - Spes&apos;mall      </Text>
     </StationpediaPage>
     <StationpediaPage>
+      <Key>ConstructionPage</Key>
+      <Title>Konstruktion</Title>
+      <DisplayFilter>Guides</DisplayFilter>
+      <Text>{HEADER:Erste Schritte}
+Normalerweise verwendest du {LINK:KitPage;kits}, um die Konstruktion zu erstellen, und dann eine Vielzahl von {LINK:ToolPage;tools} und {LINK:ResourcePage;resources}, um sie zusammenzusetzen. Achte genau darauf, wie viele der Bausaätze benötigt werden, um das zu konstruieren, was du ausgewählt hast, da einige Strukturen mehr als einen Stapel erfordern. Für einige Bausätze hast du mehrere Optionen, verwende das {COLORRED:Scroll Wheel}, um die aktuelle Auswahl zu ändern, die du bauen möchtest.
+
+{HEADER:Build-Zustände}
+Einige Strukturen verfügen über mehrere Buildzustände, für deren Ausführung unterschiedliche Kombinationen erforderlich sind. Ihr Tooltip wird Sie darüber informieren, welche Kombination Sie benötigen, um die Struktur zu vervollständigen. Manchmal müssen Sie zwei Objekte haben, eines in jeder Hand, um einen Build-Zustand abzuschließen. Einige Werkzeuge müssen zuerst eingeschaltet werden, was durch Drücken von {KEY:ToggleHandPower} möglich ist, während es sich in Ihrer aktiven Hand befindet.
+
+{HEADER:QuickInfos}
+Wenn Sie direkt auf eine Struktur schauen, die unvollständig ist, erhalten Sie Informationen darüber, was Sie tun müssen, um sie zu vervollständigen. Wenn Sie ein {LINK:ToolPage;tool} in der Hand haben und es nicht das richtige {LINK:ToolPage;tool} ist, erscheint ein Tooltip, der Ihnen sagt, was Sie verwenden müssen, um es zu dekonstruieren.
+
+{HEADER:Druck}
+Beim Bauen ist es wichtig zu beachten, dass der Druck als Differential gemessen wird. Die meisten Strukturen haben eine Druckgrenze von 200 kPa: Wenn der Unterschied zwischen innen und außen größer ist, haben Sie Probleme.      </Text>
+    </StationpediaPage>
+    <StationpediaPage>
       <Key>ReagentPage</Key>
       <Title>Reagenzien</Title>
       <Text>Dies sind chemische Mengen bestimmter Typen.
 
 {HEADER:Liste der Reagenzien}
 {LIST_OF_REAGENTS}</Text>
+    </StationpediaPage>
+    <StationpediaPage>
+      <Key>MusicPage</Key>
+      <Title>Musizieren</Title>
+      <DisplayFilter>Guides</DisplayFilter>
+      <Text>Der {LINK:ODA;ODA} billigt keine Soundtracks oder andere Ablenkungen.
+Daher mussten {LINK:Stationeers; Stationeers} ihre eigene musikalische Begleitung zu der anspruchsvollen Arbeit des Aufbaus und der Instandhaltung von außerirdischer Infrastruktur schaffen.
+Im Mittelpunkt dieser vergangenen Zeit steht der Step Sequencer, der es Stationeers ermöglicht, kurze musikalische Muster oder Loops zu sequenzieren. 
+
+{HEADER:DIY MUSIC - ERSTE SCHRITTE}
+
+1: Verbinden Sie 8 {THING:DeviceStepUnit}s über den Datenport auf der linken Seite mit Ihrem Step-Sequenzer.
+
+2: Beschriften Sie jede Schritteinheit und weisen Sie dann den Schritteinheiten 1 bis 8 auf dem Schrittzähler mit dem Schraubendreher zu.
+
+3: Wählen Sie den Ausgangslautsprecher (z. B. {THING:PassiveSpeaker}), in dem der Zähler die Sounds abspielen soll. Dieser muss mit dem Logiknetzwerk auf der rechten Seite des Zählers verbunden werden.
+
+4: Platzieren Sie ein {THING:StopWatch} und verwenden Sie ein {THING:StructureLogicReader} und {THING:StructureLogicWriter}, um die Zeit auf die Zeitvariable auf dem Zähler zu schreiben.
+
+5: Setzen Sie das BPM auf dem Zähler mit einem {THING:StructureLogicDial} und einem {THING:StructureLogicWriter}, um in die BPM-Variable des Zählers zu schreiben. Ein höheres bpm wird die Sequenz schneller abspielen. 
+
+6: Legen Sie eine Tonkassette Ihrer Wahl ein und wählen Sie aus, welche Soundvariante Sie abspielen möchten, indem Sie die Pfeiltasten über und unter dem Kassettensteckplatz drücken.
+
+7: Wählen Sie die Tonhöhe der zu spielenden Töne, indem Sie das Zifferblatt an jeder Ihrer 8-Stufen-Einheiten auf die gewünschte Note einstellen. Bei Drums ist jede Note ein anderer Drum-Sound. Sie können Ihre Sounds testen, indem Sie die Aktivierungstaste an jeder Schritteinheit drücken (wobei der Zähler inaktiv ist).
+
+8: Werden Sie verrückt mit dem {THING:DeviceLfoVolume}.
+
+9: Aktivieren Sie abschließend den Sequenzer Vibeoneer.   </Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>GasPage</Key>
