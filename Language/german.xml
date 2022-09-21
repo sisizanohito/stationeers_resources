@@ -9327,28 +9327,44 @@ Temperatur {1}</Value>
       <Value>VERALTET</Value>
     </Record>
     <Record>
+      <Key>ScriptCommandPush</Key>
+      <Value>Überträgt den Wert von a auf den Stack bei sp und erhöht sp</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandPop</Key>
+      <Value>Register = der Wert am oberen Rand des Stacks und Dekremente sp</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandHcf</Key>
+      <Value>Anhalten und Feuer fangen</Value>
+    </Record>
+    <Record>
+      <Key>ScriptCommandSelect</Key>
+      <Value>Register = b, wenn a ungleich Null ist, sonst c</Value>
+    </Record>
+    <Record>
       <Key>ScriptCommandSleep</Key>
       <Value>Unterbricht die Ausführung auf dem IC für x Sekunden</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSin</Key>
-      <Value>Gibt den Sinus des angegebenen Winkels zurück</Value>
+      <Value>Gibt den Sinus des angegebenen Winkels (Bogenmaß) zurück</Value>
     </Record>
     <Record>
       <Key>ScriptCommandCos</Key>
-      <Value>Gibt den Kosinus des angegebenen Winkels zurück</Value>
+      <Value>Gibt den Kosinus des angegebenen Winkels (Bogenmaß) zurück</Value>
     </Record>
     <Record>
       <Key>ScriptCommandTan</Key>
-      <Value>Gibt den Tangens des angegebenen Winkels zurück</Value>
+      <Value>Gibt die Tangente des angegebenen Winkels (Bogenmaß) zurück. </Value>
     </Record>
     <Record>
       <Key>ScriptCommandASin</Key>
-      <Value>Gibt einen Winkel zurück, dessen Sinus die angegebene Zahl ist</Value>
+      <Value>Gibt den Winkel (Bogenmaß) zurück, dessen Sinus der angegebene Wert ist.</Value>
     </Record>
     <Record>
       <Key>ScriptCommandACos</Key>
-      <Value>Gibt einen Winkel zurück, dessen Kosinus die angegebene Zahl ist</Value>
+      <Value>Gibt den Winkel (Bogenmaß) zurück, dessen Kosinus der angegebene Wert ist.</Value>
     </Record>
     <Record>
       <Key>ScriptCommandATan</Key>
