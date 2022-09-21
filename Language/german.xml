@@ -7968,7 +7968,7 @@ Temperatur {1}</Value>
     </Record>
     <Record>
       <Key>ChangeSettingToForAll</Key>
-      <Value>Zu &lt;color=yellow&gt;{0}&lt;/color&gt; vom Typ {1} ändern</Value>
+      <Value>Schalte zu &lt;color=yellow&gt;{0}&gt;für alle {1}</Value>
     </Record>
     <Record>
       <Key>InteractionTemporarilyDisabledOnThisObject</Key>
@@ -8008,19 +8008,31 @@ Temperatur {1}</Value>
     </Record>
     <Record>
       <Key>NewWorldMarsShortDesc</Key>
-      <Value>Der Mars, eine wüste staubige rote Kugel, bietet mehr abwechslungsreiches Gelände, welches bis in den Himmel reichen kann. Außerdem bietet der Mars eine kühle Atmosphäre, die zwar nicht zum Atmen geeignet ist, aber vielleicht für etwas anderes verwendet werden kann...</Value>
+      <Value>Ein trostloser staubiger roter Ball, Mars bietet abwechslungsreicheres Gelände, das in den Himmel reichen kann, und eine kühle Atmosphäre, die nicht gut zum Atmen ist, aber vielleicht kann sie für etwas verwendet werden ...</Value>
     </Record>
     <Record>
       <Key>NewWorldMoonShortDesc</Key>
-      <Value>Während die Anwesenheit von Kohle nicht typisch für den Mond der Erde ist, kann das relativ flache Gelände voller verschiedener großer Krater und mangelnder Atmosphäre in dieser grauen Landschaft vertrauter sein. Ein großartiger Ort für den angehenden Stationeer, um seine Reise zu beginnen, mit weniger Gefahren und Komplexitäten, die auf exotischeren Welten angeboten werden</Value>
+      <Value>Während das Vorhandensein von Kohle nicht typisch für den Erdmond ist, könnte das relativ flache Gelände voller verschiedener großer Krater und fehlender Atmosphäre in dieser grauen Landschaft vertrauter sein. Ein großartiger Ort für den angehenden Stationeer, um seine Reise zu beginnen, mit weniger Gefahren und Komplexitäten, die auf exotischeren Welten geboten werden.</Value>
     </Record>
     <Record>
       <Key>NewWorldSpaceShortDesc</Key>
       <Value>Zwar gibt es keine Schwerkraft oder Atmosphäre, aber dafür gibt viel Platz zum Bauen! Sie befinden sich zwischen mehreren Asteroiden, die verschiedene Erze und Eis enthalten können, welche es ihnen erlauben da draußen zu überleben.</Value>
     </Record>
     <Record>
+      <Key>NewWorldVenusShortDesc</Key>
+      <Value>Unveränderliche extreme Temperaturen und ultrahohe Drücke machen die Venus zu keinem Platz für schwache Nerven. Nur die versiertesten Stationeers werden auf unserem einstigen Schwesterplaneten überleben, der heute ein karger Felsen ist. Grabe tief oder geh nach Hause.</Value>
+    </Record>
+    <Record>
       <Key>NewWorldEuropaShortDesc</Key>
-      <Value>Das teilweise geschmolzene Eis, hat dem Planeten nun endlich eine Atmosphäre gegeben. Jedoch stellt die extrem eisige Umgebung eine große Herausforderung für die Stationeers dar. Die extreme Kälte führt dazu, dass Batterien schnell an Strom verlieren. Daher sind eine dauerhafte Stromquelle und ein warmer Ort ihre Prioritäten.</Value>
+      <Value>Das teilweise geschmolzene Eis, hat dem Planeten nun endlich eine Atmosphäre gegeben. Jedoch stellt die extrem eisige Umgebung eine große Herausforderung für die Stationeers dar. Die extreme Kälte führt dazu, dass Batterien schnell an Strom verlieren. Daher sind eine dauerhafte Stromquelle und ein warmer Ort deine Prioritäten.</Value>
+    </Record>
+    <Record>
+      <Key>NewWorldVulcanShortDesc</Key>
+      <Value>Die glühende Umgebung auf Vulcan ist für sehr wenige lebende Organismen überlebensfähig, aber seine zerklüftete Oberfläche und die reichen Mineralvorkommen machen ihn zu einem riskanten, aber profitablen Unterfangen für unternehmungslustige Händler.</Value>
+    </Record>
+    <Record>
+      <Key>NewWorldVulcan2ShortDesc</Key>
+      <Value>Eine Welt, die durch massive Gezeitenkräfte des supermassiven Schwarzen Lochs, das sie umkreist, auseinandergerissen wird. Vulcan bietet wenig Hoffnung für jeden Organismus, der hier landet, aber seine zerklüftete Oberfläche und die reichen Mineralvorkommen machen es zu einem riskanten, aber profitablen Unterfangen für unternehmungslustige Händler. Achten auf die tiefen Gletscherspalten, die zu tödlichen Magmaströmen unter der Oberfläche führen!</Value>
     </Record>
     <Record>
       <Key>NewWorldMimasShortDesc</Key>
