@@ -9925,6 +9925,10 @@ Hinweis: Wasser wurde früher als Gas behandelt, aber ein neues System für Flü
       <Value>Terrainglättung</Value>
     </Record>
     <Record>
+      <Key>SettingsVirtualizedRendering</Key>
+      <Value>Virtualisiertes Rendering</Value>
+    </Record>
+    <Record>
       <Key>MainMenuChangeAppearance</Key>
       <Value>Aussehen ändern</Value>
     </Record>
@@ -11185,6 +11189,10 @@ Enter</Value>
     <Record>
       <Key>Oxite</Key>
       <Value>Oxit</Value>
+    </Record>
+    <Record>
+      <Key>Nitrice</Key>
+      <Value>Stickstoff</Value>
     </Record>
     <Record>
       <Key>Volatiles</Key>

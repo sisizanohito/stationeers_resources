@@ -4,11 +4,11 @@
   <Interface>
     <Record>
       <Key>TheNewBeginningTitle</Key>
-      <Value>Ein neuer Anfang [BETA]</Value>
+      <Value>Der Neuanfang [BETA]</Value>
     </Record>
     <Record>
       <Key>TheNewBeginningDescription</Key>
-      <Value>Lassen Sie uns einige Grundlagen lernen, und wie Sie der beste Stationeer werden, der Sie sein können!</Value>
+      <Value>Lass uns einige Grundlagen lernen und dann lernst du der beste Stationeer zu werden, der du sein kannst!</Value>
     </Record>
     <!-- start the tutorial -->
     <Record>
@@ -131,16 +131,108 @@ Die Ausrüstungsplätze für Ihren Charakter sehen Sie auf der linken Seite des 
       <Value>Zirkulieren Sie die {THING:StructureAirlock} mit der Schaltfläche &quot;Cycle&quot; auf der beleuchteten Konsole und warten Sie, bis diese abgeschlossen ist.</Value>
     </Record>
     <Record>
+      <Key>TutorialDescCycleAirlock1</Key>
+      <Value>Lass uns etwas nicht so frische Luft schnappen, oder?</Value>
+    </Record>
+    <Record>
       <Key>TutorialAnotherDayAnotherDollarTitle</Key>
       <Value>Ein neuer Tag, ein neuer Credit</Value>
+    </Record>
+    <Record>
+      <Key>TutorialAnotherDayAnotherDollarDescription</Key>
+      <Value>Diese Erze werden sich nicht selbst abbauen! Du kannst Gegenstände von einem Steckplatz auf Ihre Hand verschieben, indem Sie {KEY:InventorySelect} gedrückt halten, und kannst Gegenstände in deiner Hand in einen Steckplatz verschieben, indem Sie die Steckplatz-Nummer halten. Gehe in deinen Rucksack und hole deinen {THING:ItemMiningBelt} heraus und rüste ihn aus, indem du {KEY:ToolBeltSlot} hältst, während er in deiner Hand ist. Rüste deinen {THING:ItemMiningDrill} aus und fange an zu graben. Vergiss nicht, ihn wieder auszuschalten, bevor du ihn weglegst!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialAnotherDayAnotherDollarTask1</Key>
+      <Value>Rüste {THING:ItemMiningDrill} aus deinem {THING:ItemMiningBelt} aus</Value>
+    </Record>
+    <Record>
+      <Key>TutorialAnotherDayAnotherDollarTask0</Key>
+      <Value>Versuche, deinen Bohrer mit {KEY:ToggleHandPower} einzuschalten</Value>
+    </Record>
+    <Record>
+      <Key>TutorialAnotherDayAnotherDollarTask2</Key>
+      <Value>Grabe etwas {THING:ItemIronOre} aus dem Boden</Value>
     </Record>
     <Record>
       <Key>TutorialJetpackTitle</Key>
       <Value>Ich glaube, ich kann fliegen</Value>
     </Record>
     <Record>
+      <Key>TutorialJetpackDescription</Key>
+      <Value>Uh oh, jemand hat die Leiter vergessen! Fliege zum Balkon mit {KEY:Ascend} zum Aufsteigen und {KEY:Descend} zum Absteigen.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialJetpackTask1</Key>
+      <Value>Schalte die Düsen in deinem {THING:ItemSpacepack} mit {KEY:Jetpack} ein</Value>
+    </Record>
+    <Record>
+      <Key>TutorialJetpackTask2</Key>
+      <Value>Gib die {THING:StructureAirlock} ein</Value>
+    </Record>
+    <Record>
+      <Key>TutorialJetpackTask4</Key>
+      <Value>Schalte durch die {THING:StructureAirlock}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialHatHairTitle</Key>
+      <Value>Hut Haar</Value>
+    </Record>
+    <Record>
+      <Key>TutorialHatHairDescription</Key>
+      <Value>Jetzt, da wir sicher drinnen sind, öffne dein Visier erneut, um die Sauerstoffversorgung deines Anzugs zu erhalten!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialHatHairTask1</Key>
+      <Value>Entsperre deinen {THING:ItemSpaceHelmet}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialHatHairTask2</Key>
+      <Value>Öffne dein {THING:ItemSpaceHelmet}-Visier</Value>
+    </Record>
+    <Record>
+      <Key>TutorialIsItGettingHotInHereTitle</Key>
+      <Value>Wird es hier drin heiß?</Value>
+    </Record>
+    <Record>
+      <Key>TutorialIsItGettingHotInHereDescription</Key>
+      <Value>Schnapp dir den {THING:ItemKitFurnace} aus dem Schrank und legt es dort ab. Verwende {KEY:QuantityModifier} zum Drehen.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialIsItGettingHotInHereTask1</Key>
+      <Value>Platziere den {THING:ItemKitFurnace} im markierten Bereich.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialItsJustTheFurnaceTitle</Key>
+      <Value>Es ist nur der Ofen</Value>
+    </Record>
+    <Record>
+      <Key>TutorialItsJustTheFurnaceDescription</Key>
+      <Value>Das einzige, was sich erwärmt, ist der {THING:StructureArcFurnace}, platziere das {THING:ItemIronOre}, das du gerade dort abgebaut hast, und verwandle es in {THING:ItemIronIngot}! Vergiss nicht, ihn danach auszuschalten, dies hilft, deine wertvollen Ressourcen zu schonen.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialItsJustTheFurnaceTask1</Key>
+      <Value>Hol dir dein {THING:ItemIronOre} aus deinem {THING:ItemMiningBelt}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialItsJustTheFurnaceTask2</Key>
+      <Value>Schalte den {THING:StructureArcFurnace} ein</Value>
+    </Record>
+    <Record>
       <Key>TutorialItsJustTheFurnaceTask3</Key>
       <Value>Platziere das {THING:ItemIronOre} im {THING:StructureArcFurnace} und warte bis es schmilzt.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialItsJustTheFurnaceTask4</Key>
+      <Value>Nehme {THING:ItemIronIngot} mit der Taste {KEY:PrimaryAction} auf.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialItsJustTheFurnaceTask5</Key>
+      <Value>Schalte den {THING:StructureArcFurnace} aus.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialItsJustTheFurnace1Title</Key>
+      <Value>Es ist nur der Ofen</Value>
     </Record>
     <Record>
       <Key>TutorialItsJustTheFurnace1Description</Key>
@@ -149,6 +241,98 @@ Die Ausrüstungsplätze für Ihren Charakter sehen Sie auf der linken Seite des 
     <Record>
       <Key>TutorialItsJustTheFurnace1Task1</Key>
       <Value>Begib dich in den nächsten Raum</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAroundDescription</Key>
+      <Value>Platziere deine {THING:ItemKitAutolathe} und nehme dein {THING:ItemWeldingTorch} heraus. Verwende die erforderlichen Materialien, um die Konstruktion abzuschließen. Wenn die Option &quot;Erweiterte QuickInfos&quot; im Menü &quot;Optionen&quot; aktiviert ist, kannst du den Mauszeiger über die Struktur bewegen, um zu sehen, was du für die nächste Bauphase benötigst.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAroundTask1</Key>
+      <Value>Schnappe dir den {THING:ItemKitAutolathe} aus dem Schrank und lege ihn in den markierten Bereich</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAround1Task1</Key>
+      <Value>Platziere den {THING:ItemKitAutolathe} im markierten Bereich</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAround2Description</Key>
+      <Value>Jetzt können wir endlich mit dem Bauen anfangen! Beginnen wir damit, einen {THING:ItemKitElectronicsPrinter} mit den im Schrank bereitgestellten Ressourcen zu erstellen.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAround2Task0</Key>
+      <Value>Schalte deine {THING:StructureAutolathe} ein!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAround2Task1</Key>
+      <Value>Erstelle deinen {THING:ItemKitAutolathe} mit dem {THING:ItemWeldingTorch} in deinem {THING:ItemToolBelt} und den erforderlichen Materialien.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAround2Task2</Key>
+      <Value>Wähle das {THING:ItemKitElectronicsPrinter}-Rezept auf der {THING:StructureAutolathe}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialYouCallThatAPrinterTitle</Key>
+      <Value>Das nennst du einen Drucker?</Value>
+    </Record>
+    <Record>
+      <Key>TutorialYouCallThatAPrinterDescription</Key>
+      <Value>Großartig! Lass uns nun einen {THING:ItemKitElectronicsPrinter} erstellen. Hebe ihn auf und gehe dann in den nächsten Raum.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialYouCallThatAPrinterTask1</Key>
+      <Value>Erstelle einen {THING:ItemKitElectronicsPrinter} mit Materialien aus dem Schrank</Value>
+    </Record>
+    <Record>
+      <Key>TutorialYouCallThatAPrinterTask2</Key>
+      <Value>Hebe den {THING:ItemKitElectronicsPrinter} auf.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAround3Description</Key>
+      <Value>Weiter geht&apos;s.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAround3Task1</Key>
+      <Value>Hole dir den {THING:ItemKitElectronicsPrinter}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStopLathenAround3Task2</Key>
+      <Value>Begib dich in den nächsten Raum</Value>
+    </Record>
+    <Record>
+      <Key>TutorialThisIsAPrinterTitle</Key>
+      <Value>Das ist ein Drucker</Value>
+    </Record>
+    <Record>
+      <Key>TutorialThisIsAPrinterDescription</Key>
+      <Value>Als nächstes auf unserer Liste der Dinge, die zu tun sind, lass uns den {THING:ItemKitElectronicsPrinter} platzieren.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialThisIsAPrinterTask1</Key>
+      <Value>Platziere den {THING:ItemKitElectronicsPrinter} im markierten Bereich</Value>
+    </Record>
+    <Record>
+      <Key>TutorialThisIsAPrinter1Title</Key>
+      <Value>Das ist ein Drucker</Value>
+    </Record>
+    <Record>
+      <Key>TutorialThisIsAPrinter1Description</Key>
+      <Value>Zeit, den {THING:ItemKitElectronicsPrinter} zu konstruieren. Die benötigten Materialien solltest du im Schrank finden. Nachdem du das erledigt hast, wählst du das {THING:ItemKitSolarPanel}-Rezept aus. Strukturen wie der {THING:StructureElectronicsPrinter} drucken weiterhin Elemente und verbrauchen sehr schnell deine Ressourcen, es sei denn, du schaltest ihn wieder aus. Also vergiss nicht, ihn auszuschalten, sobald du fertig bist!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialThisIsAPrinter1Task</Key>
+      <Value>Baue den {THING:ItemKitElectronicsPrinter}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialThisIsAPrinter1Task0</Key>
+      <Value>Schalte den Drucker ein.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialThisIsAPrinter1Task2</Key>
+      <Value>Baue dein {THING:ItemKitSolarPanel} mit den mitgelieferten Materialien</Value>
+    </Record>
+    <Record>
+      <Key>TutorialThisIsAPrinter1Task1</Key>
+      <Value>Wähle das Rezept {THING:ItemKitSolarPanel} auf dem Drucker aus.</Value>
     </Record>
     <Record>
       <Key>TutorialBreakOutTask1</Key>

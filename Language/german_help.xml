@@ -58,6 +58,12 @@
       </Text>
     </StationpediaPage>
     <StationpediaPage>
+      <Key>OrePage</Key>
+      <Title>Erze</Title>
+      <Text>Dies sind Dinge, die {LINK:MiningPage;mined} sind und oft {LINK:SmeltingPage;smelted} sein können. Du kannst auch gemischtes Erz erhalten, indem du Gegenstände im {THING:StructureRecycler} recycelst und dann durch die {THING:StructureCentrifuge} leitest, die es in {LINK:OrePage;ore} für {LINK:SmeltingPage;smelting} aufteilt.
+        Es gibt einige Erze, die schmelzen, wenn sie Sonnenlicht oder Hitze ausgesetzt werden, und {LINK:GasPage;Gases} erzeugen. Zum Beispiel schmilzt {THING:ItemIce} zu {GAS:Water} und {GAS:Oxygen}. Achten Sie darauf, diese von Hitze oder Sonnenlicht fernzuhalten, bis Sie tatsächlich möchten, dass sie schmelzen. {LIST_OF_ORES}      </Text>
+    </StationpediaPage>
+    <StationpediaPage>
       <Key>IngotPage</Key>
       <Title>Barren</Title>
       <Text>Diese Gegenstände entstehen typischerweise beim {LINK:SmeltingPage;Schmelzen} von {LINK:OrePage;Erzen} zur Verwendung in einem {LINK:FabricatorPage;Fertiger}.
@@ -66,20 +72,110 @@
       </Text>
     </StationpediaPage>
     <StationpediaPage>
+      <Key>ToolPage</Key>
+      <Title>Werkzeuge</Title>
+      <Text>Dies sind Dinge, die in einen speziellen Werkzeugsteckplatz passen und für {LINK:ConstructionPage; Konstruktion} und andere Tätigkeiten genuzt werden.
+
+{LIST_OF_TOOLS}
+      
+      </Text>
+    </StationpediaPage>
+    <StationpediaPage>
+      <Key>ResourcePage</Key>
+      <Title>Ressourcen</Title>
+      <Text>Dies sind Dinge, die während {LINK:ConstructionPage; Konstruktion} und anderen Tätigkeiten aufgebraucht werden.
+{LIST_OF_RESOURCES}      </Text>
+    </StationpediaPage>
+    <StationpediaPage>
+      <Key>KitPage</Key>
+      <Title>Bausätze</Title>
+      <Text>Dies sind Dinge, die während {LINK:ConstructionPage; Konstruktion} und anderen Tätigkeiten aufgebraucht werden.
+{LIST_OF_KITS}      </Text>
+    </StationpediaPage>
+    <StationpediaPage>
+      <Key>AutomatedRocketPage</Key>
+      <Title>Automatisierte Raketenmodule (A.R.M.)</Title>
+      <DisplayFilter>Guides</DisplayFilter>
+      <Text>{HEADER:UNIQUE ROCKET COMMANDS}{HEADER:UNIQUE ROCKET COMMANDS}{HEADER:UNIQUE ROCKET COMMANDS}Automatisierte Raketen sind unbemannte Fahrzeuge, die im Weltraum eingesetzt werden können, um eine Reihe von Ressourcen zu fördern. Die Rakete kann durch {LINK:LogicUnitPage;logic} oder {LINK:LogicUnitPage;IC} oder einer Mischung dieser Systeme gesteuert werden.
+      
+Einmal gestartet, suchen automatisierte Raketen Planeten oder Asteroiden mit abbaubaren Ressourcen, je nachdem, mit welchen MODULEN sie gebaut wurden. Raketen können programmiert werden, um alle verfügbaren Ressourcen abzubauen,  um auf einen anderen Planeten zu ziehen, oder um nach Hause zurückzukehren. Ihre Reichweite - und damit die Menge an Ressourcen, die sie sammeln können - wird durch ihren verfügbaren Brennstoff bestimmt. Wenn ihnen der Treibstoff ausgeht, sind sie für immer in der Leere verloren.
+      
+{HEADER:MODULE}
+Das automatisierte Raketensystem besteht aus vier grundlegenden Modulen sowie einem Triebwerk und einem oder mehreren Kraftstofftanks:
+
+* AUTOMATISIERUNGSMODUL - das {THING:StructureModularRocketAutomation} ist das Steuerungssystem, das Daten an die verschiedenen Module weitergibt.
+
+* FÖRDER-MODUL - führt den Förder-Vorgang aus. Derzeit sind dies {THING:StructureRocketModuleMiningOre}, {THING:StructureModularRocketIceMining}, {THING:StructureRocketModuleMiningJunk} und {THING:StructureModularRocketGasMining}.
+
+* KOPPLER - verbindet Förder-Module mit Lagermodulen, indem Material von einem zum anderen weitergeleitet wird. Die {THING:StructureModularRocketCouplingDown} übergibt Ressourcen an ein Lagermodul DARUNTER. Die {THING:StructureModularRocketCouplingUp} übergibt Ressourcen an ein Lagermodul DARÜBER. Die Rakete sammelt ohne dieses Element keine Ressourcen.
+
+* LAGERMODUL - dieses Modul empfängt Ressourcen von einem Förder-Modul über einen Koppler und lagert sie, bis die Rakete zurückkehrt. Dazu gehören derzeit {THING:StructureRocketModuleSilo} für Erze und {THING:StructureModularRocketFueltank01} für Gas. Lagermodule können an ein {LINK:ImportExportPage;chute-Netzwerk} angeschlossen werden, sind aber standardmäßig geschlossen. Verwende {LINK:LogicUnitPage;logic}, um es auf &apos;open&apos; zu schalten.
+
+{HEADER:STARTBEDINGUNGEN}
+* STROM - alle Module der Rakete müssen mit Strom versorgt werden. Beachte, dass Module standardmäßig ‘Ein’ erstellt werden, aber mit {LINK:LogicUnitPage;logic}-Verbindungen ein- und ausgeschaltet werden können.
+
+* TREIBSTOFF - die Rakete muss mindestens einen Treibstofftank und ausreichend Treibstoff für den Start haben (mindestens 500 Mol). Beachten Sie, dass die Rakete auch 500 Mol benötigt, um zu landen UND verbraucht 5 Mol pro Tick während der Reisephase des Betriebs.
+
+* KONSTRUKTION - Die Rakete muss korrekt montiert sein (siehe MODULE oben)
+
+* PROGRAMMIERUNG - Die Rakete wird vom {LINK:LogicUnitPage;IC-System} gesteuert (siehe unten)
+
+{HEADER:RAKETENMODI}
+Der Modus der Rakete wird über den &apos;activate&apos; Wert des Geräts eingestellt. Der Modus bestimmt das aktuelle Verhalten:
+
+0: Leerlauf (auf der Plattform)
+1: Starten
+2: Reisen
+3: Ankunft
+4: Leerlauf am Ziel (bereit, Mining-Module zu aktivieren).
+5: Rückkehr nach Hause
+6: Zurückgekehrt
+7: Verschollen
+
+{HEADER:UNIQUE ROCKET COMMANDS}
+* FUEL IN TANK REMAINING - Gibt die verbleibende Treibstoffmenge zurück.
+* FUEL RETURN COST - Gibt die für die Rückkehr erforderliche Treibstoffmenge zurück.
+* ROCKET MODE - Gibt den aktuellen &apos;RocketMode&apos; Wert (0-7) zurück.
+* COLLECTABLE GOODS - Gibt 0 oder 1 zurück, je nachdem, ob das aktuelle Raketensystem die Fähigkeit hat, Ressourcen auf dem Planeten zu sammeln.      </Text>
+    </StationpediaPage>
+    <StationpediaPage>
       <Key>FoodPage</Key>
       <Title>Nahrung</Title>
-      <Text>Hierbei handelt es sich um Gegenstände, die zur Ernährung verwendet werden.
-
-{HEADER:Liste der Nahrungsmittel}
-{LIST_OF_FOOD}</Text>
+      <Text>Dies sind Gegenstände, die konsumiert werden, um Nährstoffe zu liefern.
+        {LIST_OF_FOOD}
+      </Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>ClothingPage</Key>
       <Title>Bekleidung</Title>
-      <Text>Dies sind Gegenstände, die von Entitäten in den dafür vorgesehenen Slots ausgerüstet werden können.
+      <Text>Dies sind Gegenstände, die von Spielern in deren Steckplätzen getragen werden können.
+{LIST_OF_CLOTHING}
+      </Text>
+    </StationpediaPage>
+    <StationpediaPage>
+      <Key>AppliancePage</Key>
+      <Title>Apparate</Title>
+      <Text>Dies sind Gegenstände, die auf Werkbänken platziert werden können. Du musst sie auf eine Werkbank legen und einen Schraubenschlüssel verwenden um sie anzuschließen.
+{LIST_OF_APPLIANCES}
+      </Text>
+    </StationpediaPage>
+    <StationpediaPage>
+      <Key>TravelPage</Key>
+      <Title>Reisen zu anderen Planeten</Title>
+      <DisplayFilter>Guides</DisplayFilter>
+      <Text>Warte! Schließe mich noch nicht! Die folgenden Bedingungen müssen für den Start erfüllt sein:
 
-{HEADER:Liste der Bekleidung}
-{LIST_OF_CLOTHING}</Text>
+- Vollständig gebaute Rakete: mindestens 3 Kernmodule
+- Voll betankt {THING:StructureModularRocketFueltank01}
+- Kraftstoffmischungsverhältnis korrekt - ein 2:1-Gemisch aus {GAS:Volatiles} und {GAS:Oxygen}.
+- Stromversorgung der {THING:StructureLaunchPad}
+- Alle Spieler sitzen im {THING:StructureModularRocketCommand01}
+
+Nachfolgend findest du die WORLD TRAVEL IDs. Du kannst sie verwenden, um zu bestimmten Planeten zu reisen, wenn du sie mit {LINK:RocketShuttlePage; Rocket Shuttle} und {LINK:LogicUnitPage; Logikeinheiten} kombinierst.
+       
+Schreibe einfach den Hash in die Einstellungsvariable auf {THING:StructureLaunchPad} mit einem {THING:StructureLogicWriter} und einem {THING:StructureLogicMemory}. Hinweis: Du kannst auf einen Hash klicken, um ihn in die Zwischenablage zu kopieren.
+{LIST}{WORLD_HASHES}{/LIST}
+      </Text>
     </StationpediaPage>
     <!--
     ~~~~~~~~~~~~~~~~~~~~~~~~~
