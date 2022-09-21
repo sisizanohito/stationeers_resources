@@ -540,7 +540,55 @@ Die Ausrüstungsplätze für Ihren Charakter sehen Sie auf der linken Seite des 
     </Record>
     <Record>
       <Key>TutorialLetsTankItUpTask2</Key>
-      <Value>Schalte {THING:StructureActiveVent} auf in-ward</Value>
+      <Value>Schalte {THING:StructureActiveVent} reinziehen</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLetsTankItUpTask3</Key>
+      <Value>Schalte {THING:StructureActiveVent} Ein</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLetsTankItUp1Title</Key>
+      <Value>Weiter geht&apos;s.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLetsTankItUp1Description</Key>
+      <Value>Fast geschafft!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialLetsTankItUp1Task1</Key>
+      <Value>Begib dich in den nächsten Raum</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStatusUpdatesTitle</Key>
+      <Value>Scotty, wie ist dein Status?</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStatusUpdatesDescription</Key>
+      <Value>Wenn du gehen musst, musst du gehen. Sieht so aus, als ob dein Akku leer ist, ersetze ihn durch einen im Schließfach!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStatusUpdatesTask1</Key>
+      <Value>Batterie austauschen</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStatusUpdates1Description</Key>
+      <Value>Gute Arbeit, jetzt scheint dein AirTank leer zu sein? Hier ist etwas im Busch.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStatusUpdates1Task1</Key>
+      <Value>Atemluft-Gasflasche ersetzen</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStatusUpdates2Description</Key>
+      <Value>Dieser Filter ist verstopft, füge deinem Anzug einen neuen hinzu, Du kannst bis zu drei Filter ausrüsten!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialStatusUpdates2Task1</Key>
+      <Value>Filter ersetzen</Value>
+    </Record>
+    <Record>
+      <Key>TutorialMovingOnUpTitle</Key>
+      <Value>Weiter geht&apos;s.</Value>
     </Record>
   </Interface>
 </Language>
