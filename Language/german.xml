@@ -3509,6 +3509,10 @@
       <Value>Werkzeugmanufaktur-Upgrade</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureTransformerMedium</Key>
+      <Value>Transformator (Mittel)</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureTransformerMediumReversed</Key>
       <Value>Transformator umgekehrt (Mittel)</Value>
     </RecordThing>
@@ -4150,15 +4154,15 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageVendingMachine1</Key>
-      <Value>Verkaufsautomat</Value>
+      <Value>Zerstörter Verkaufsautomat</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageVendingMachine2</Key>
-      <Value>Verkaufsautomat</Value>
+      <Value>Zerstörter Verkaufsautomat</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageVendingMachine3</Key>
-      <Value>Verkaufsautomat</Value>
+      <Value>Zerstörter Verkaufsautomat</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageVendingMachine4</Key>
@@ -4166,11 +4170,11 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageArcFurnace1</Key>
-      <Value>Lichtbogenofen</Value>
+      <Value>Zerstörter Lichtbogenofen</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageArcFurnace2</Key>
-      <Value>Lichtbogenofen</Value>
+      <Value>Zerstörter Lichtbogenofen</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageArcFurnace3</Key>
@@ -4178,7 +4182,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageAreaPowerControl1</Key>
-      <Value>Ersatzstromversorgung</Value>
+      <Value>Zerstörte Ersatzstromversorgung</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageAreaPowerControl2</Key>
@@ -4214,7 +4218,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageTransformerMedium1</Key>
-      <Value>Mittlerer Transformator Rechts</Value>
+      <Value>Zerstörter Tansformator Mittel</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageTransformerMedium2</Key>
@@ -4222,7 +4226,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageTransformerSmall1</Key>
-      <Value>Kleiner Transformator Rechts</Value>
+      <Value>Zerstörter Transformator Klein</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageTransformerSmall2</Key>
@@ -4230,15 +4234,15 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSecurityPrinter1</Key>
-      <Value>Sicherheitsdrucker</Value>
+      <Value>Zerstörter Sicherheitsdrucker</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSecurityPrinter2</Key>
-      <Value>Sicherheitsdrucker</Value>
+      <Value>Zerstörter Sicherheitsdrucker</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSecurityPrinter3</Key>
-      <Value>Sicherheitsdrucker</Value>
+      <Value>Zerstörter Sicherheitsdrucker</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSecurityPrinter4</Key>
