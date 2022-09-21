@@ -5804,6 +5804,14 @@
       <Value>Bausatz (Tief-Bergbaubohrer)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemDirtyOre</Key>
+      <Value>Gegenstand Schmutziges Erz</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureChuteFlipFlopSplitter</Key>
+      <Value>Schacht Flip Flop Splitter</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureChuteValve</Key>
       <Value>Schachtschranke</Value>
     </RecordThing>
