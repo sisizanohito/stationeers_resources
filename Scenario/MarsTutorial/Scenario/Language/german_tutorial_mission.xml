@@ -379,8 +379,84 @@ Die Ausrüstungsplätze für Ihren Charakter sehen Sie auf der linken Seite des 
       <Value>Begib dich in den nächsten Raum</Value>
     </Record>
     <Record>
+      <Key>TutorialPanelForthDescription</Key>
+      <Value>Sieht so aus, als ob diese Tür Strom braucht, bevor wir weitermachen können. Zum Glück, wo es ein Fenster gibt, gibt es Sonnenlicht. Wo Sonnenlicht ist, da ist Energie! Lass uns das {THING:ItemKitSolarPanel} platzieren. Du kannst deinen {THING:ItemWrench} verwenden, um den Winkel anzupassen, es erzeugt mehr Energie, wenn es der Sonne zugewandt ist.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialPanelForthTask1</Key>
+      <Value>Platziere das {THING:StructureSolarPanel} auf dem markierten Bereich</Value>
+    </Record>
+    <Record>
+      <Key>TutorialPanelForthTask2</Key>
+      <Value>Erstelle {THING:StructureSolarPanel} mit Materialien aus dem Schließfach</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDoorNeedsPowerTitle</Key>
+      <Value>Tür benötigt Strom</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDoorNeedsPowerDescription</Key>
+      <Value>Wir warten, bis die Tür eingeschaltet ist, und machen uns bereit, vorwärts zu gehen.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDoorNeedsPowerTask1</Key>
+      <Value>Öffne die Tür, sobald sie Strom hat hat.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDoorNeedsPower1Title</Key>
+      <Value>Weiter geht&apos;s.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDoorNeedsPower1Description</Key>
+      <Value>Zeit, um weiterzumachen.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDoorNeedsPower1Task1</Key>
+      <Value>Begib dich in den nächsten Raum</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSnackTimeTitle</Key>
+      <Value>Snack-Zeit!</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSnackTimeDescription</Key>
+      <Value>Hast du ein wenig Hunger? Schnapp dir den {THING:ItemCerealBar} für einen leckeren Snack. Snacks sind gut für deine Gesundheit und können dir helfen, dich schneller zu erholen, wenn du verletzt bist. </Value>
+    </Record>
+    <Record>
+      <Key>TutorialSnackTimeTask1</Key>
+      <Value>Nehme den {THING:ItemCerealBar} mit {KEY:PrimaryAction} auf</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSnackTimeTask2</Key>
+      <Value>Verzehren mit {KEY:SecondaryAction}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialBreakOutTitle</Key>
+      <Value>Ausbrechen</Value>
+    </Record>
+    <Record>
+      <Key>TutorialBreakOutDescription</Key>
+      <Value>Diese Tür scheint nicht zu funktionieren! Benutze deine {THING:ItemCrowbar}, um die Tür aufzuhebeln.</Value>
+    </Record>
+    <Record>
       <Key>TutorialBreakOutTask1</Key>
       <Value>Nimm dein {THING:ItemCrowbar}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialBreakOutTask2</Key>
+      <Value>Breche die Tür auf und betritt den nächsten Raum</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorkingTitle</Key>
+      <Value>Kabelsalat?</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorkingDescription</Key>
+      <Value>Das Konzept der Leistungsaufnahme und -produktion ist wichtig! Hier wurde zu viel Strom erzeugt, als dass die Kabel damit umgehen könnten. Lasst uns dieses Durcheinander aufräumen und das Kabel durchschneiden.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialWireYouNotWorkingTask1</Key>
+      <Value>Rüste deinen {THING:ItemWireCutters} aus deinem Werkzeuggürtel aus</Value>
     </Record>
     <Record>
       <Key>TutorialWireYouNotWorking1Description</Key>
