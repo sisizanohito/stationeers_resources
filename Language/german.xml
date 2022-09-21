@@ -3574,35 +3574,35 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedPipeCrossJunction4</Key>
-      <Value>Rohrkreuzung</Value>
+      <Value>Isoliertes Rohr Quer (4-Wege Ecke)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedPipeCrossJunction5</Key>
-      <Value>Rohrkreuzung</Value>
+      <Value>Isoliertes Rohr Quer (5-Wege-Verbindung)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedPipeCrossJunction6</Key>
-      <Value>Rohrkreuzung</Value>
+      <Value>Isoliertes Rohr Quer (6-Wege-Verbindung)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedPipeTJunction</Key>
-      <Value>Rohr-T-Kreuzung</Value>
+      <Value>Isoliertes Rohr T-Verbindung</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemAdvancedTablet</Key>
-      <Value>Tablet</Value>
+      <Value>Fortgeschrittenes Tablet</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitInsulatedPipe</Key>
-      <Value>Rohrventil (Bausatz)</Value>
+      <Value>Bausatz (Isoliertes Rohr)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureModularRocketEngine01</Key>
-      <Value>Triebwerk (Groß)</Value>
+      <Value>Rakete Triebwerksmodul</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureModularRocketFueltank01</Key>
-      <Value>Triebwerk (Groß)</Value>
+      <Value>Rakete Kraftstofftankmodul</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitStructureModularRocketCommand01</Key>
@@ -4279,6 +4279,10 @@
     <RecordThing>
       <Key>ItemWreckageHydroponicsStation2</Key>
       <Value>Zerstörte Hydroponik Station</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageSDBSilo1</Key>
+      <Value>Zerstörtes SDB Lager</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSDBSilo3</Key>
@@ -5621,11 +5625,19 @@
     </RecordThing>
     <RecordThing>
       <Key>KitStructureCombustionCentrifuge</Key>
-      <Value/>
+      <Value>Bausatz (Verbrennungszentrifuge)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureChuteDigitalValveLeft</Key>
+      <Value>Schacht Digitalschranke links</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureChuteDigitalValveRight</Key>
+      <Value>Schacht Digitalschranke Rechts</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitStandardChute</Key>
-      <Value>Dieses Kit produziert eine Reihe von Flüssigkeitsrohren.</Value>
+      <Value>Bausatz (Elektrische Schächte)</Value>
     </RecordThing>
   </Things>
   <Slots>
