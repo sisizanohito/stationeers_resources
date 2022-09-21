@@ -718,5 +718,13 @@ Sobald die Konsole ein Gerät ausgewählt hat, ist es unter ihrer Kontrolle und 
       <Key>TutorialBeFreeDescription</Key>
       <Value>Lass den Zyklus laufen und lass uns hier rauskommen!</Value>
     </Record>
+    <Record>
+      <Key>TutorialBeFreeTask1</Key>
+      <Value>Starte den {THING:StructureAirlock} Zyklus</Value>
+    </Record>
+    <Record>
+      <Key>TutorialCompletedDescription</Key>
+      <Value>Herzlichen Glückwunsch, deine Grundausbildung ist abgeschlossen! Geh raus, Stationeer!</Value>
+    </Record>
   </Interface>
 </Language>
