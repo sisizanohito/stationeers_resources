@@ -2086,7 +2086,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureWallIron</Key>
-      <Value>Eisenwand</Value>
+      <Value>Eisenwand (Typ 1)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitWallIron</Key>
@@ -2622,7 +2622,7 @@
     </RecordThing>
     <RecordThing>
       <Key>CompositeWallPanelling11</Key>
-      <Value>Verbundwandverkleidung 11</Value>
+      <Value>Wandverkleidung aus Verbundwerkstoff 11</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeWallPanelling12</Key>
