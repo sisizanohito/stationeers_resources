@@ -1893,10 +1893,6 @@
       <Value>Generator (Bausatz)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemCableFuse</Key>
-      <Value>Schmelzsicherung (Bausatz)</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>StructureCableStraightH</Key>
       <Value>Schweres Gerades Kabel</Value>
     </RecordThing>
@@ -1958,7 +1954,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitTransformer</Key>
-      <Value>Transformator (Bausatz)</Value>
+      <Value>Bausatz (Transformator Groß)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureTransformerSmall</Key>
@@ -1986,7 +1982,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPipe</Key>
-      <Value>Rohr (Bausatz)</Value>
+      <Value>Bausatz (Rohr)</Value>
     </RecordThing>
     <RecordThing>
       <Key>CartridgeElectronicReader</Key>
@@ -2098,7 +2094,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitWallIron</Key>
-      <Value>Eisenwand (Bausatz)</Value>
+      <Value>Bausatz (Eisenwand)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureStorageLocker</Key>
@@ -2110,7 +2106,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitCube</Key>
-      <Value>Würfel (Bausatz)</Value>
+      <Value>Bausatz (Würfel)</Value>
     </RecordThing>
     <RecordThing>
       <Key>Cube</Key>
@@ -2118,27 +2114,27 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitTransformerSmall</Key>
-      <Value>Kleiner Transformator (Bausatz)</Value>
+      <Value>Bausatz (Transformator)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSuitStorage</Key>
-      <Value>Raumanzuglager (Bausatz)</Value>
+      <Value>Bausatz (Anzuggestell)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSolidGenerator</Key>
-      <Value>Generator (Bausatz)</Value>
+      <Value>Bausatz (Feststoff Generator)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLocker</Key>
-      <Value>Spind (Bausatz)</Value>
+      <Value>Bausatz (Schrank)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitEngineSmall</Key>
-      <Value>Triebwerk (Bausatz - Klein)</Value>
+      <Value>Bausatz (Triebwerk Klein)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitEngineMedium</Key>
-      <Value>Triebwerk (Bausatz - Mittel)</Value>
+      <Value>Bausatz (Triebwerk Mittel)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitElectronicsPrinter</Key>
