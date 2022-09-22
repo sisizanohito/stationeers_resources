@@ -854,7 +854,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemCompositeFloorGrating</Key>
-      <Value>Bodenrost</Value>
+      <Value>Bodengitterrost</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemCorn</Key>
@@ -1454,11 +1454,15 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureBattery</Key>
-      <Value>Stationäre Batterie</Value>
+      <Value>Stationsbatterie</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureBatteryCharger</Key>
       <Value>Batterieladegerät</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureBench</Key>
+      <Value>Werkbank</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureBlastDoor</Key>
@@ -1530,11 +1534,11 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeFloorGrating</Key>
-      <Value>Bodenrost</Value>
+      <Value>Bodengitterrost</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeWall</Key>
-      <Value>Verbundwand</Value>
+      <Value>Verbundstoff Wand (Typ 1)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeWallRound</Key>
@@ -1542,15 +1546,19 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeWallType1</Key>
-      <Value>Typ 1 Verbundwand</Value>
+      <Value>Verbundstoff Wand (Typ 1)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeWallType2</Key>
-      <Value>Typ 2 Verbundwand</Value>
+      <Value>Verbundstoff Wand (Typ 2)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeWallType3</Key>
-      <Value>Typ 3 Verbundwand</Value>
+      <Value>Verbundstoff Wand (Typ 3)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureCompositeWallType4</Key>
+      <Value>Verbundstoff Wand (Typ 4)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeWindow</Key>
