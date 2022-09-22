@@ -6,7 +6,7 @@
   <Interface>
     <Record>
       <Key>Incident_Storm_Title_v2</Key>
-      <Value>Sofortiges Umschalten des Sturmwetters</Value>
+      <Value>Schalte das Sturmwetter sofort um.</Value>
     </Record>
     <Record>
       <Key>Incident_Storm_v2</Key>

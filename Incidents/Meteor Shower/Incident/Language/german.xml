@@ -6,11 +6,11 @@
   <Interface>
     <Record>
       <Key>Incident_MeteorInbound_Title</Key>
-      <Value>Meteorregen</Value>
+      <Value>Meteorschauer</Value>
     </Record>
     <Record>
       <Key>Incident_MeteorInbound</Key>
-      <Value>Satelliten haben ein großes Objekt entdeckt, dass sich auf Dich zu bewegt. Begib dich in Sicherheit.</Value>
+      <Value>Satelliten haben ein großes Objekt geortet, dass sich auf dich zu bewegt. Begib dich in Sicherheit.</Value>
     </Record>
   </Interface>
 </Language>

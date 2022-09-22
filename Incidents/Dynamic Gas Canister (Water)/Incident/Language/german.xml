@@ -6,11 +6,11 @@
   <Interface>
     <Record>
       <Key>Incident_Supply_Dynamic_Canister_Fuel_Title</Key>
-      <Value>Portabler Tank (Kraftstoff)</Value>
+      <Value>Dynamische Gasflasche (Kraftstoff)</Value>
     </Record>
     <Record>
       <Key>Incident_Supply_Dynamic_Canister_Fuel</Key>
-      <Value>Satelliten deuten darauf hin, dass eine Kiste in der Nähe abgeworfen wurde. Ihr Peilsignalempfänger sollte Ihnen den Weg weisen.</Value>
+      <Value>Satelliten deuten darauf hin, dass eine Kiste in der Nähe abgeworfen wurde. Dein Peilsignalempfänger sollte dir den Weg weisen.</Value>
     </Record>
   </Interface>
 </Language>
