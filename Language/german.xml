@@ -2245,12 +2245,8 @@
       <Value>Speichereinheit (Bausatz)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemKitLogicInputOutput</Key>
-      <Value>Logik-I/O (Bausatz)</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemKitLogicSwitch</Key>
-      <Value>Schaltereinheit (Bausatz)</Value>
+      <Value>Bausatz (Logikschalter)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLogicSwitch</Key>
@@ -2310,11 +2306,11 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitRecycler</Key>
-      <Value>Verwerter (Bausatz)</Value>
+      <Value>Bausatz (Recycler)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemCableAnalyser</Key>
-      <Value>Kabelmesseinrichtung (Bausatz)</Value>
+      <Value>Bausatz (Kabelmesseinrichtung)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableAnalysizer</Key>
@@ -2350,7 +2346,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitBeacon</Key>
-      <Value>Peilsender (Bausatz)</Value>
+      <Value>Bausatz (Peilsender)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureTankBig</Key>
@@ -2370,7 +2366,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitGasGenerator</Key>
-      <Value>Treibstoffgenerator (Bausatz)</Value>
+      <Value>Bausatz (Gas-Kraftstoffgenerator)</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGPR</Key>
@@ -2446,7 +2442,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemFlagSmall</Key>
-      <Value>Kleine Flagge (Bausatz)</Value>
+      <Value>Bausatz (Kleine Flagge)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeCladdingAngled</Key>
@@ -2498,7 +2494,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitCompositeCladding</Key>
-      <Value>Verbundverkleidung (Bausatz)</Value>
+      <Value>Bausatz (Verkleidung)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeCladdingAngledCornerLongR</Key>
@@ -2510,7 +2506,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitDockingPort</Key>
-      <Value>Kopplungssystem (Bausatz)</Value>
+      <Value>Bausatz (Kopplungssystem)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureDockShipSide</Key>
@@ -2534,7 +2530,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitOrganicsPrinter</Key>
-      <Value>Biodrucker (Bausatz)</Value>
+      <Value>Bausatz (Bio-Drucker)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureOrganicsPrinter</Key>
@@ -2566,7 +2562,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitWallPanels</Key>
-      <Value>Wandpaneele (Bausatz)</Value>
+      <Value>Bausatz (Wandpaneele)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeWallPanelling1</Key>
@@ -2582,7 +2578,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLadder</Key>
-      <Value>Leiter (Bausatz)</Value>
+      <Value>Bausatz (Leiter)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureFrameCornerCut</Key>
@@ -2774,19 +2770,19 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitWallArch</Key>
-      <Value>Gekantete Wand (Bausatz)</Value>
+      <Value>Bausatz (Gewölbte Wand)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitWallFlat</Key>
-      <Value>Flache Wand (Bausatz)</Value>
+      <Value>Bausatz (Flache Wand)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitWallGeometry</Key>
-      <Value>Gerahmte Wand (Bausatz)</Value>
+      <Value>Bausatz (Geometrische Wand)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitWallPadded</Key>
-      <Value>Polsterwand (Bausatz)</Value>
+      <Value>Bausatz (Gepolsterte Wand)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLadder</Key>
@@ -2886,7 +2882,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSecurityPrinter</Key>
-      <Value>Sicherheitsdrucker (Bausatz)</Value>
+      <Value>Bausatz (Sicherheitsdrucker)</Value>
     </RecordThing>
     <RecordThing>
       <Key>Handgun</Key>
@@ -2918,7 +2914,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitElevator</Key>
-      <Value>Aufzug (Bausatz)</Value>
+      <Value>Bausatz (Aufzug)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ElevatorCarrage</Key>
@@ -2934,7 +2930,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitCrateMount</Key>
-      <Value>Truhenhalterung (Bausatz)</Value>
+      <Value>Bausatz (Kistenhalterung)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLogicMirror</Key>
@@ -2966,7 +2962,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitCrate</Key>
-      <Value>Truhe (Bausatz)</Value>
+      <Value>Bausatz (Kiste)</Value>
     </RecordThing>
     <RecordThing>
       <Key>CircuitboardGraphDisplay</Key>
@@ -2974,15 +2970,15 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitMotherShipCore</Key>
-      <Value>Mutterschiff (Bausatz)</Value>
+      <Value>Bausatz (Mutterschiff)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemDynamicScrubber</Key>
-      <Value>Portabler Luftreiniger (Bausatz)</Value>
+      <Value>Bausatz (Tragbarer Luftreiniger)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemDynamicAirCon</Key>
-      <Value>Portable Klimaanlage (Bausatz)</Value>
+      <Value>Bausatz (Tragbare Klimaanlage)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPipeValve</Key>
@@ -2990,7 +2986,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitDynamicGenerator</Key>
-      <Value>Portabler Generator (Bausatz)</Value>
+      <Value>Bausatz (tragbarer Generator)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureVendingMachine</Key>
@@ -2998,7 +2994,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitVendingMachine</Key>
-      <Value>Verkaufsautomat (Bausatz)</Value>
+      <Value>Bausatz (Verkaufsautomat)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLogicSlotReader</Key>
@@ -3030,7 +3026,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitTurbineGenerator</Key>
-      <Value>Turbinengenerator  (Bausatz)</Value>
+      <Value>Bausatz (Turbinengenerator)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ReagentSilver</Key>
@@ -3082,7 +3078,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPressurePlate</Key>
-      <Value>Druckplatte (Bausatz)</Value>
+      <Value>Bausatz (Druckplatte)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePressurePlateLarge</Key>
@@ -3238,7 +3234,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSpeaker</Key>
-      <Value>Lautpsrecher (Bausatz)</Value>
+      <Value>Bausatz (Lautsprecher)</Value>
     </RecordThing>
     <RecordThing>
       <Key>CartridgeOreScannerColor</Key>
@@ -3254,7 +3250,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLogicCircuit</Key>
-      <Value>IC Gehäuse (Bausatz)</Value>
+      <Value>Bausatz (IC-Gehäuse)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCircuitHousing</Key>
@@ -3270,7 +3266,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitHydroponicAutomated</Key>
-      <Value>Automatische Hydrokultur (Bausatz)</Value>
+      <Value>Bausatz (Automatisierte Hydroponik)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemBasketBall</Key>
@@ -3278,7 +3274,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitBasket</Key>
-      <Value>Basketballkorb (Bausatz)</Value>
+      <Value>Bausatz (Basketballkorb)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureBasketHoop</Key>
@@ -3318,7 +3314,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLandingPad</Key>
-      <Value>Landeplattform (Bausatz)</Value>
+      <Value>Bausatz (Landeplatz)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureSatelliteDish</Key>
@@ -3326,7 +3322,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSatelliteDish</Key>
-      <Value>Satellitenschüssel (Bausatz)</Value>
+      <Value>Bausatz (Satellitenschüssel)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemPlasticSheets</Key>
