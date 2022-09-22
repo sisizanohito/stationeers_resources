@@ -3386,7 +3386,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitRoverFrame</Key>
-      <Value>Rover Rahmen (Bausatz)</Value>
+      <Value>Bausatz (Rover Rahmen)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureStairs4x2Rails</Key>
@@ -3446,7 +3446,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLogicTransmitter</Key>
-      <Value>Logischer Sender (Bausatz)</Value>
+      <Value>Bausatz (Logik Überträger)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureAdvancedFurnace</Key>
@@ -3454,7 +3454,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAdvancedFurnace</Key>
-      <Value>Verbesserter Schmelzofen (Bausatz)</Value>
+      <Value>Bausatz (Verbesserter Schmelzofen)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemStelliteIngot</Key>
@@ -3818,7 +3818,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitStructureLaunchPad</Key>
-      <Value>Landeplattform (Bausatz)</Value>
+      <Value>Bausatz (Startrampe)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitStructureModularRocketEngine01</Key>
@@ -3986,7 +3986,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSolarPanelBasic</Key>
-      <Value>Festes Solarmodul (Bausatz)</Value>
+      <Value>Bausatz (Festes Solarmodul)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureSDBHopperAdvanced</Key>
@@ -4694,7 +4694,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitUprightWindTurbine</Key>
-      <Value>H-Darrieus-Windkraftanlage (Bausatz)</Value>
+      <Value>Bausatz (H-Darrieus-Windkraftanlage)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureUprightWindTurbine</Key>
@@ -4738,7 +4738,11 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSolarPanelReinforced</Key>
-      <Value>Verstärktes bewegliches Solarmodul (Bausatz)</Value>
+      <Value>Bausatz (Verstärktes bewegliches Solarmodul)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitSolarPanelBasicReinforced</Key>
+      <Value>Bausatz (Verstärktes festes Solarmodul)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureSolarPanel45Reinforced</Key>
