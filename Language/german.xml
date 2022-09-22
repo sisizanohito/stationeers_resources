@@ -946,11 +946,11 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemGasCanisterWater</Key>
-      <Value>Gasflasche (Wasser - H2O)</Value>
+      <Value>Flüssigkeitsbehälter (Wasser)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemLiquidCanisterEmpty</Key>
-      <Value>Gasflasche</Value>
+      <Value>Flüssigkeitsbehälter</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterCarbonDioxide</Key>
@@ -1553,10 +1553,6 @@
       <Value>Typ 3 Verbundwand</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureCompositeWallType4</Key>
-      <Value>Typ 4 Verbundwand</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>StructureCompositeWindow</Key>
       <Value>Verbundfenster</Value>
     </RecordThing>
@@ -1622,15 +1618,15 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureFrame</Key>
-      <Value>Gerüst</Value>
+      <Value>Stahlrahmen</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureFrameCorner</Key>
-      <Value>Gerüst (Tetraeder)</Value>
+      <Value>Stahlrahmen (Ecke)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureFrameSide</Key>
-      <Value>Gerüst (Prisma)</Value>
+      <Value>Stahlrahmen (seitlich)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureFurnace</Key>
@@ -1650,7 +1646,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidTankStorage</Key>
-      <Value>Gasflaschenlager</Value>
+      <Value>Flüssigkeitsbehälter Anschluss</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureGlassDoor</Key>
