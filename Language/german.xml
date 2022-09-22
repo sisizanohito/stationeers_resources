@@ -1073,28 +1073,24 @@
       <Value>Kryogene Röhre (Bausatz)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemKitEngine</Key>
-      <Value>Triebwerk (Bausatz)</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemKitFabricator</Key>
-      <Value>Fertiger (Bausatz)</Value>
+      <Value>Bausatz (Verarbeitungseinheit)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitFurnace</Key>
-      <Value>Schmelzofen (Bausatz)</Value>
+      <Value>Bausatz (Schmelzofen)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitFurniture</Key>
-      <Value>Möbel (Bausatz)</Value>
+      <Value>Bausatz (Möbel)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitGyroscope</Key>
-      <Value>Gyroskop (Bausatz)</Value>
+      <Value>Bausatz (Gyroskop)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitRegulator</Key>
-      <Value>Druckregler (Bausatz)</Value>
+      <Value>Bausatz (Druckregler)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSensor</Key>
@@ -1102,39 +1098,39 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSign</Key>
-      <Value>Schild (Bausatz)</Value>
+      <Value>Bausatz (Schild)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSleeper</Key>
-      <Value>Schlafeinheit (Bausatz)</Value>
+      <Value>Bausatz (Schlafkapsel)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSolarPanel</Key>
-      <Value>Bewegliches Solarmodul (Bausatz)</Value>
+      <Value>Bausatz (Solarmodul)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitStairs</Key>
-      <Value>Treppe (Bausatz)</Value>
+      <Value>Bausatz (Treppe)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitStellarAnchor</Key>
-      <Value>Stellarer Anker (Bausatz)</Value>
+      <Value>Bausatz (Stellarer Anker)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitStorage</Key>
-      <Value>Lager (Bausatz)</Value>
+      <Value>Bausatz (Lager)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitTank</Key>
-      <Value>Tank (Bausatz)</Value>
+      <Value>Bausatz (Tank)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitTorpedoTube</Key>
-      <Value>Torpedorohr (Bausatz)</Value>
+      <Value>Bausatz (Torpedorohr)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitTurret</Key>
-      <Value>Türme (Bausatz)</Value>
+      <Value>Bausatz (Geschützkanzel)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitWall</Key>
@@ -1258,7 +1254,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemRTGSurvival</Key>
-      <Value>Radioisotopengenerator (RTG) (Bausatz)</Value>
+      <Value>Bausatz (RTG)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemScanner</Key>
@@ -1890,7 +1886,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitGenerator</Key>
-      <Value>Generator (Bausatz)</Value>
+      <Value>Bausatz (Generator)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableStraightH</Key>
