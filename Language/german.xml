@@ -1098,7 +1098,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSensor</Key>
-      <Value>Sensoren (Bausatz)</Value>
+      <Value>Bausatz (Sensoren)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSign</Key>
@@ -1138,7 +1138,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitWall</Key>
-      <Value>Wände (Bausatz)</Value>
+      <Value>Bausatz (Wand)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemLabeller</Key>
@@ -1378,7 +1378,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemWallLight</Key>
-      <Value>Leuchten (Bausatz)</Value>
+      <Value>Bausatz (Lampen)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWeldingTorch</Key>
@@ -2574,7 +2574,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitCompositeFloorGrating</Key>
-      <Value>Bodenrost (Bausatz)</Value>
+      <Value>Bausatz (Bodengitter)</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeRollCover</Key>
@@ -4741,10 +4741,6 @@
       <Value>Verstärktes bewegliches Solarmodul (Bausatz)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemKitSolarPanelBasicReinforced</Key>
-      <Value>Verstärktes festes Solarmodul (Bausatz)</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>StructureSolarPanel45Reinforced</Key>
       <Value>Verstärktes Solarmodul (Abgewinkelt)</Value>
     </RecordThing>
@@ -4774,11 +4770,11 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitWindTurbine</Key>
-      <Value>Windkraftanlage (Bausatz)</Value>
+      <Value>Bausatz (Windkraftanlage)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPipeLiquid</Key>
-      <Value>Flüssigkeitsrohr (Bausatz)</Value>
+      <Value>Bausatz (Flüssigkeitsrohr)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeLiquidCrossJunction</Key>
@@ -4882,7 +4878,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitIceCrusher</Key>
-      <Value>Eis-Zerkleinerer (Bausatz)</Value>
+      <Value>Bausatz (Eiszerkleinerer)</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasTankAdvancedOxygen</Key>
