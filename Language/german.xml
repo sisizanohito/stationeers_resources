@@ -2141,28 +2141,24 @@
       <Value>Triebwerk (Bausatz - Mittel)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemKitEngineLarge</Key>
-      <Value>Triebwerk (Bausatz - Groß)</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemKitElectronicsPrinter</Key>
-      <Value>Elektronikdrucker (Bausatz)</Value>
+      <Value>Bausatz (Elektronikdrucker)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitDoor</Key>
-      <Value>Tür (Bausatz)</Value>
+      <Value>Bausatz (Tür)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAutolathe</Key>
-      <Value>Drehmaschine (Bausatz)</Value>
+      <Value>Bausatz (Drehmaschine)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitBlastDoor</Key>
-      <Value>Schutztür (Bausatz)</Value>
+      <Value>Bausatz (Explosionsschutztür)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitArcFurnace</Key>
-      <Value>Lichtbogenofen (Bausatz)</Value>
+      <Value>Bausatz (Lichtbogenofen)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureHydraulicPipeBender</Key>
@@ -2170,15 +2166,15 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitHydraulicPipeBender</Key>
-      <Value>Hydraulischer Rohrbieger (Bausatz)</Value>
+      <Value>Bausatz (Hydraulischer Rohrbieger)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSorter</Key>
-      <Value>Sortiereinheit (Bausatz)</Value>
+      <Value>Bausatz (Sortiereinheit)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitStacker</Key>
-      <Value>Stapeleinheit (Bausatz)</Value>
+      <Value>Bausatz (Stapeleinheit)</Value>
     </RecordThing>
     <RecordThing>
       <Key>CartridgeTracker</Key>
@@ -2198,7 +2194,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitToolManufactory</Key>
-      <Value>Werkzeugmanufaktur (Bausatz)</Value>
+      <Value>Bausatz (Werkzeugmanufaktur)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureTransformerSmallReversed</Key>
@@ -2210,7 +2206,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLogic</Key>
-      <Value>Logikeinheit (Bausatz)</Value>
+      <Value>Bausatz (Logikeinheit)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLogicReader</Key>
@@ -2238,11 +2234,15 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLogicProcessor</Key>
-      <Value>Logikprozessor (Bausatz)</Value>
+      <Value>Bausatz (Logikprozessor)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLogicMemory</Key>
-      <Value>Speichereinheit (Bausatz)</Value>
+      <Value>Bausatz (Logikspeicher)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitLogicInputOutput</Key>
+      <Value>Bausatz (Logik-I/O)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLogicSwitch</Key>
