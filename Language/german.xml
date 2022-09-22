@@ -978,7 +978,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemGasTankStorage</Key>
-      <Value>Gasflaschenlager (Bausatz)</Value>
+      <Value>Bausatz (Druckflaschen Anschluss)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGlassSheets</Key>
@@ -1038,39 +1038,39 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAirlock</Key>
-      <Value>Luftschleusentür (Bausatz)</Value>
+      <Value>Bausatz (Luftschleuse)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAtmospherics</Key>
-      <Value>Atmosphärisch (Bausatz)</Value>
+      <Value>Bausatz (Atmosphärische Geräte)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitBattery</Key>
-      <Value>Stationäre Batterien (Bausatz)</Value>
+      <Value>Bausatz (Batterie)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitCentrifuge</Key>
-      <Value>Zentrifuge (Bausatz)</Value>
+      <Value>Bausatz (Zentrifuge)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitChute</Key>
-      <Value>Schächte (Bausatz)</Value>
+      <Value>Bausatz (Schächte)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitComputer</Key>
-      <Value>Computer (Bausatz)</Value>
+      <Value>Bausatz (Computer)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitConsole</Key>
-      <Value>Konsolen (Bausatz)</Value>
+      <Value>Bausatz (Konsolen)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitConveyor</Key>
-      <Value>Förderband (Bausatz)</Value>
+      <Value>Bausatz (Förderbänder)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitCryoTube</Key>
-      <Value>Kryogene Röhre (Bausatz)</Value>
+      <Value>Bausatz (Kryo-Röhre)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitFabricator</Key>
