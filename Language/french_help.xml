@@ -144,7 +144,50 @@ Fabriqué dans la cintreuse de tuyaux, un {THING:StructurePipeRadiator} vous aid
 Dans des conditions normales, un segment de tuyau échangera de la chaleur avec son environnement, mais l’ajout d’un radiateur à ce segment de tuyau accélérera considérablement le processus. Le segment de tuyau continuera à échanger de la chaleur avec l’atmosphère environnante jusqu’à ce que les deux s’égalisent en température.
 
 {HEADER:REFROIDISSEMENT PASSIF}
-Vous pouvez refroidir ou chauffer n’importe quel environnement en utilisant un {THING:StructurePipeRadiator} pour échanger de la chaleur entre deux atmosphères. Une illustration serait de placer un tuyau sur un mur, de le remplir de gaz et de placer des radiateurs sur ce tuyau. À partir de là, les deux atmosphères (celle du tuyau et celle de la pièce) échangeront leur température jusqu’à ce que leurs environnements s’égalisent.</Text>
+Vous pouvez refroidir ou chauffer n’importe quel environnement en utilisant un {THING:StructurePipeRadiator} pour échanger de la chaleur entre deux atmosphères. Une illustration serait de placer un tuyau sur un mur, de le remplir de gaz et de placer des radiateurs sur ce tuyau. À partir de là, les deux atmosphères (celle du tuyau et celle de la pièce) échangeront leur température jusqu’à ce que leurs environnements s’égalisent.
+
+{HEADER : CHAUFFAGE MURAL}
+Le {THING:ItemWallHeater} est un appareil tout simple qui peut être installé sur un mur ou un cadre et connecté à une source d&apos;alimentation. Lorsqu&apos;il est allumé, il commencera à chauffer son environnement. Il consomme 1010W de puissance et peut être contrôlé par des puces logiques pour fonctionner lorsque la température atteint un certain niveau.
+
+{HEADER:REFROIDISSEUR MURAL}
+Le {THING:ItemWallCooler}, en complément du {THING:ItemWallHeater}, ne peut que baisser la température. Le refroidisseur mural fonctionne en puisant la chaleur de l&apos;atmosphère environnante et en ajoutant cette chaleur dans son réseau de canalisations. Afin de faire fonctionner correctement le refroidisseur mural, vous devrez connecter des tuyaux au refroidisseur mural et les remplir avec n&apos;importe quel type de gaz. La capacité calorifique et le volume du gaz détermineront à quelle vitesse il réagit aux changements de température.
+
+Plus la différence de température entre le gaz stocké dans les tuyaux et la pièce est élevée, moins le refroidisseur mural sera efficace. Donc, pour que le refroidisseur mural fonctionne à une efficacité acceptable, vous devrez vous débarrasser de la chaleur qui s&apos;accumule dans les tuyaux qui y sont connectés. Une pratique courante serait de faire passer les tuyaux vers l&apos;extérieur et d&apos;utiliser des radiateurs sur la section extérieure des tuyaux pour se débarrasser de la chaleur.
+
+Moins le refroidisseur mural est efficace, moins il consomme d&apos;énergie. Il consommera 1010W à son efficacité maximale. Le refroidisseur mural peut être contrôlé par des puces logiques pour fonctionner lorsque la température atteint un certain degré.
+
+Si le refroidisseur mural affiche une erreur, il manque l&apos;un des éléments suivants :
+- Raccordement du tuyau au refroidisseur mural.
+- Le gaz dans les tuyaux raccordés ou la pression trop faible.
+- L&apos;atmosphère dans le milieu environnant ou la pression sont trop basses.
+
+{HEADER:CLIMATISEUR}
+Le {THING:StructureAirConditioner} dans sa forme de base fonctionne exactement comme le refroidisseur mural et peut bénéficier des mêmes conceptions. Cependant, il est plus puissant. Il refroidit plus rapidement et consomme beaucoup plus d&apos;énergie en fonction de la situation, ce qui le rend plus adapté pour traiter de gros volumes et de grandes surfaces. Il peut chauffer ou refroidir selon le réglage.
+
+CLIMATISEUR : COMMENT ÇA MARCHE
+Le climatiseur dispose de 3 raccords de tuyauterie (Entrée, Sortie, Déchets). Le gaz entre par le côté entrée, puis, selon le réglage, de la chaleur est ajoutée ou retirée du gaz entrant et ajoutée au tuyau d&apos;évacuation. Le gaz de sortie sortira alors par la connexion de sortie, plus froid ou plus chaud, selon le réglage.
+Vous pouvez connecter le tuyau d&apos;entrée au tuyau de sortie; vous pouvez voir s&apos;ils sont connectés s&apos;ils ont tous les deux le même numéro de réseau. Ceci vous donnera plus de contrôle sur la température, car le gaz n&apos;atteindra pas la température cible après le premier passage. Il faudra du temps et de l&apos;énergie pour retirer ou ajouter de la chaleur à n&apos;importe quel gaz.
+
+La façon dont vous installez et configurez votre climatiseur dépend de ce que vous essayez de refroidir ou de chauffer. Pour une pièce, vous aurez besoin d&apos;une ventilation passive à l&apos;intérieur de la pièce, connectée à l&apos;entrée et à la sortie du climatiseur, tandis que le tuyau d&apos;évacuation doit être rempli d&apos;un gaz réfrigérant.
+
+Le climatiseur n&apos;a pas besoin d&apos;être à l&apos;intérieur de la pièce. La seule partie de cette configuration qui doit être dans la pièce est la ventilation passive qui fera le tour de l&apos;atmosphère de la pièce jusqu&apos;au climatiseur pour être refroidie ou chauffée.
+
+Vous pouvez utiliser un seul climatiseur pour chauffer et refroidir. Il vous suffit de modifier le réglage de la température cible sur le panneau. Cependant, si vous souhaitez automatiser le refroidissement et le chauffage en même temps, vous aurez besoin d&apos;un climatiseur pour le refroidissement et d&apos;un autre pour le chauffage, car le réglage sur le panneau ne peut être modifié que manuellement.
+
+L&apos;installation de plusieurs climatiseurs sur le même réseau de canalisations peut être utile si vous avez besoin que les choses aillent plus vite ou si vous devez en utiliser certains pour le chauffage et d&apos;autres pour le refroidissement. Pour ce faire, connectez les entrées et les sorties des climatiseurs ensemble et partagez le même réseau de tuyaux pour leurs entrées et sorties. Le réseau de canalisations d&apos;évacuation peut également être partagé entre eux, mais il doit être séparé du réseau de tuyaux d&apos;entrée/sortie. La même idée s&apos;applique lors de l&apos;utilisation du climatiseur pour contrôler la température des réservoirs. Cependant, au lieu d&apos;utiliser une ventilation passive, vous devrez connecter directement le réservoir au climatiseur.
+
+CLIMATISEUR : À GARDER EN TÊTE
+- Plus la différence de température entre le tuyau d&apos;entrée et le tuyau d&apos;évacuation est grande, plus le climatiseur utilisera de puissance.
+- La puissance consommée par le climatiseur peut dépasser 5 kW, il est donc recommandé d&apos;utiliser des câbles lourds pour alimenter les climatiseurs.
+- Faire passer le tuyau d&apos;évacuation à l&apos;extérieur et l&apos;égaliser avec l&apos;atmosphère extérieure n&apos;est pas toujours la meilleure option : le gaz que vous mettez à l&apos;intérieur peut être utilisé ailleurs dans votre base.
+
+CLIMATISEUR : CONTRÔLE DE LA TEMPÉRATURE DE BASE
+Il existe de nombreuses façons de contrôler la température de votre base à l&apos;aide de climatiseurs - c&apos;est une façon d&apos;atteindre cet objectif :
+Étape 1 : Placez un réseau de tuyaux unique, tout autour de votre base et installez des ventilations passives connectées à ce tuyau dans chaque pièce que vous souhaitez contrôler avec cette configuration. C&apos;est &quot;Réseau A&quot;.
+Étape 2 : Connectez le « réseau A » à l&apos;entrée et à la sortie d&apos;un climatiseur.
+Étape 3 : Connectez le tuyau d&apos;évacuation à un autre réseau et faites-le passer vers l&apos;extérieur. Installez des radiateurs sur ce réseau.
+C&apos;est la configuration de base. Pour l&apos;automatiser, vous aurez besoin d&apos;un analyseur de tuyaux sur le &quot;réseau A&quot;, puis lisez la température et faites fonctionner votre ou vos climatiseurs en conséquence.
+Bonne chance cadet !</Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>GasPage</Key>
