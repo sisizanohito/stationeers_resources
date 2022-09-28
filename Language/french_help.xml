@@ -95,6 +95,34 @@ Du gaz / &amp;lt;color=#00BDACCD&amp;gt;Centre commercial Spes - Commerce du gaz
 </Text>
     </StationpediaPage>
     <StationpediaPage>
+      <Key>MusicPage</Key>
+      <Title>Faire de la musique</Title>
+      <DisplayFilter>Guides</DisplayFilter>
+      <Text>L’{LINK:ODA;ODA} désapprouve les bandes sonores ou toute autre sorte de distraction.
+C’est pourquoi les {LINK:Stationeers; Stationeers} ont dû créer leur propre accompagnement musical pour faire face au travail exigeant de construction et d’entretien d’infrastructures extraplanétaires.
+Au centre de ce passe-temps se trouve le séquenceur pas à pas, qui permet aux Stationeers de séquencer de courts motifs musicaux ou des boucles. 
+
+{HEADER:DIY MUSIC - MISE EN ROUTE}
+
+1: Connectez 8 {THING:DeviceStepUnit} à votre séquenceur pas à pas via le port de données sur le côté gauche.
+
+2 : Étiquetez chaque unité, puis associez-les au séquenceur pas à pas à l’aide du tournevis de 1 à 8.
+
+3: Sélectionnez le haut-parleur de sortie (par exemple un {THING:PassiveSpeaker}) où le séquenceur jouera les sons. Il doit être connecté au réseau logique sur le côté droit du séquenceur.
+
+4 : Placez un {THING:StopWatch} et utilisez un {THING:StructureLogicReader} et un {THING:StructureLogicWriter} afin d’écrire le temps dans la variable « temps » du séquenceur.
+
+5 : Définissez le BPM sur le séquenceur à l’aide d’un {THING:StructureLogicDial} et d’un {THING:StructureLogicWriter} permettant d’écrire dans la variable « BPM » du séquenceur. Un BPM plus élevé jouera la séquence plus rapidement. 
+
+6: Insérez une cartouche de son de votre choix et sélectionnez le son que vous souhaitez jouer en appuyant sur les boutons fléchés situés au-dessus et au-dessous de la fente de la cartouche de son.
+
+7: Choisissez la hauteur des sons à jouer (pitch) en réglant sur chacun des cadrans de vos 8 unités sur la note souhaitée. Avec la batterie, chaque note est un son de batterie différent. Vous pouvez tester vos sons en appuyant sur le bouton d’activation de chaque unité (avec le séquenceur inactif).
+
+8: Laissez-vous aller avec le {THING:DeviceLfoVolume}.
+
+9: Enfin, activez le séquenceur, Vibeoneer.</Text>
+    </StationpediaPage>
+    <StationpediaPage>
       <Key>GasPage</Key>
       <Title>Gaz</Title>
       <Text>Ce sont des gaz chimiques de certains types.{LIST_OF_GASES}
