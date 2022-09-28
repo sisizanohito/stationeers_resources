@@ -4943,7 +4943,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureRocketModuleSilo</Key>
-      <Value>Module de silo de fusée autonome</Value>
+      <Value>Module cargo de fusée autonome</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureRocketModuleBattery</Key>
