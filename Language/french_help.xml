@@ -123,6 +123,30 @@ Au centre de ce passe-temps se trouve le séquenceur pas à pas, qui permet aux 
 9: Enfin, activez le séquenceur, Vibeoneer.</Text>
     </StationpediaPage>
     <StationpediaPage>
+      <Key>TemperatureControlPage</Key>
+      <Title>Contrôle de la température</Title>
+      <DisplayFilter>Guides</DisplayFilter>
+      <Text>Afin de contrôler la température d’un système, nous devons soit lui ajouter de la chaleur, augmentant ainsi sa température, soit lui retirer de la chaleur, ce qui le refroidit ; c’est l’idée de base du contrôle de la température. Les appareils qui peuvent atteindre cet objectif pour vous sont le {THING:ItemWallHeater}, le {THING:ItemWallCooler}, le {THING:StructurePipeRadiator} et le {THING:StructureAirConditioner}.
+
+REMARQUE : Il existe de nombreuses méthodes de contrôle de la température. Certaines n’impliquent aucun des dispositifs mentionnés. Ici, nous couvrons les bases.
+
+Il est important de comprendre votre environnement avant d’installer l’un des différents systèmes de contrôle de la température. Le volume de gaz ou de liquide est un facteur important lors du choix de votre méthode. Un {THING:StructureTankSmall} peut contenir jusqu’à 6 000 L tandis qu’un {THING:StructureTankBig} peut contenir jusqu’à 50 000 L, ce qui signifie que si les deux sont totalement pleins, le petit réservoir réagira plus rapidement aux changements de température. Une pièce est un espace pouvant contenir une certaine quantité de gaz. Plus il est grand, plus il pourra contenir de volume, donc les mêmes règles s’appliquent généralement aux réservoirs et aux pièces.
+
+{HEADER:RÉSEAUX DE TUYAUX}
+Un réseau de tuyaux (ou de canalisations) est constitué d’un ou de plusieurs segments de tuyaux connectés les uns aux autres sans aucune séparation en aucun point du réseau. Ce réseau partage la même atmosphère en tout point, quelle que soit sa taille. Si vous modifiez la température ou la pression à une extrémité du réseau, l’extrémité la plus éloignée subira immédiatement le même changement, sans aucun délai.
+
+L’ajout d’appareils à un réseau peut le diviser en deux réseaux différents. Par exemple, l’ajout d’un {THING:StructureVolumePump} à un réseau de canalisations divisera le réseau en deux réseaux : un avant la pompe et un après celle-ci.
+
+Utilisez une {THING:ItemTablet} avec une {THING:CartridgeAtmosAnalyser} dedans pour afficher des informations sur le contenu de n’importe quel réseau de tuyaux.
+
+Fabriqué dans la cintreuse de tuyaux, un {THING:StructurePipeRadiator} vous aidera à échanger de la chaleur entre les tuyaux et leur environnement. Ils fonctionnent à la fois sur les tuyaux et sur les tuyaux isolés, ainsi que sur les variantes pour les liquides.
+
+Dans des conditions normales, un segment de tuyau échangera de la chaleur avec son environnement, mais l’ajout d’un radiateur à ce segment de tuyau accélérera considérablement le processus. Le segment de tuyau continuera à échanger de la chaleur avec l’atmosphère environnante jusqu’à ce que les deux s’égalisent en température.
+
+{HEADER:REFROIDISSEMENT PASSIF}
+Vous pouvez refroidir ou chauffer n’importe quel environnement en utilisant un {THING:StructurePipeRadiator} pour échanger de la chaleur entre deux atmosphères. Une illustration serait de placer un tuyau sur un mur, de le remplir de gaz et de placer des radiateurs sur ce tuyau. À partir de là, les deux atmosphères (celle du tuyau et celle de la pièce) échangeront leur température jusqu’à ce que leurs environnements s’égalisent.</Text>
+    </StationpediaPage>
+    <StationpediaPage>
       <Key>GasPage</Key>
       <Title>Gaz</Title>
       <Text>Ce sont des gaz chimiques de certains types.{LIST_OF_GASES}
