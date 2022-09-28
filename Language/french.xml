@@ -5093,8 +5093,16 @@
       <Value>Kit (porte coulissante de hangar)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>LogicStepSequencer8</Key>
+      <Value>Séquenceur pas à pas logique</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>DeviceStepUnit</Key>
       <Value>Appareil sélecteur de position</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StopWatch</Key>
+      <Value>Chronomètre</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemSoundCartridgeBass</Key>
