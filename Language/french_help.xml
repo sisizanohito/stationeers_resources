@@ -337,24 +337,23 @@ L’effet de ses ingrédients dépend de leurs proportions respectives dans le c
       <Key>DecayPage</Key>
       <Title>Décomposition des aliments</Title>
       <DisplayFilter>Guides</DisplayFilter>
-      <Text>Les aliments se décomposent au fil du temps en {THING:DecayedFood}, à moins qu’ils ne soient réfrigérés dans une atmosphère appropriée. La vitesse exacte de désintégration varie en fonction :
+      <Text>À moins qu’ils ne soient réfrigérés dans une atmosphère appropriée, les aliments se décomposent au fil du temps en {THING:DecayedFood}. La vitesse exacte de décomposition varie en fonction :
 
-- DE LA TEMPÉRATURE - La réfrigération ralentie la décomposition, mais de nombreux aliments seront endommagés par l’exposition à une pression extrêmement basse, ainsi qu’à une chaleur extrême. La température optimale est de 0 kelvin (-272 C).
+- DE LA TEMPÉRATURE - La réfrigération ralentit la décomposition, mais de nombreux aliments seront endommagés par l’exposition à une pression extrêmement basse, ainsi qu’à une chaleur extrême. La température optimale est de 0 kelvin (-272 C).
 
-- DU TYPE D’ALIMENT - Chaque type &lt;color=#0080FFFF&gt;{LINK:OrganicPage;food}&lt;/color&gt; a ses propres propriétés de décomposition. Par exemple, une {THING:ItemTomatoSoup} dure beaucoup plus longtemps qu’une {THING:ItemTomato}.
+- DU TYPE D’ALIMENT - Chaque type {LINK:OrganicPage;food} a ses propres propriétés de décomposition. Par exemple, une {THING:ItemTomatoSoup} dure beaucoup plus longtemps qu’une {THING:ItemTomato}.
 
-- DE LA PRESSION - Les aliments se décomposent plus rapidement lorsque la pression tombe en dessous de 1 atmosphère (101kPa). La désintégration se produit exponentiellement plus rapidement à mesure que l’atmosphère s’approche du vide parfait. Une pression plus élevée n&apos;a pas d’effet. 
+- DE LA PRESSION - Les aliments se décomposent plus rapidement lorsque la pression tombe en dessous de 1 atmosphère (101kPa). La décomposition se produit exponentiellement plus rapidement à mesure que l’atmosphère s’approche du vide parfait. Une pression plus élevée n&apos;a pas d’effet. 
 
-- DE L&apos;ATMOSPHÈRE - Différents gaz peuvent ralentir ou accélérer le processus de décomposition . Le procédé prend en compte la proportion de chaque gaz présents dans l’atmosphère pour calculer le taux de décomposition . Les taux suivants s’appliquent à tous les aliments :
+- DE L&apos;ATMOSPHÈRE - Différents gaz peuvent ralentir ou accélérer le processus de décomposition . Le procédé prend en compte la proportion de chaque gaz présent dans l’atmosphère pour calculer le taux de décomposition . Les taux suivants s’appliquent à tous les aliments :
 
-&gt; Oxygène x 1,3
-&gt; Azote x 0,6
-&gt; Dioxyde de carbone x 0,8
-&gt; Volatiles x 1
-&gt; Polluant x 3
-&gt; Protoxyde d’azote x 1,5
-&gt; Eau x 2
-
+&gt; {GAS:Oxygen} x 1,3
+&gt; {GAS:Nitrogen} x 0,6
+&gt; {GAS:CarbonDioxide} x 0,8
+&gt; {GAS:Volatiles} x 1
+&gt; {GAS:Pollutant} x 3
+&gt; {GAS:NitrousOxide} x 1,5
+&gt; {GAS:Water} x 2
 &gt; Vide - voir PRESSION (ci-dessus).</Text>
     </StationpediaPage>
     <StationpediaPage>
