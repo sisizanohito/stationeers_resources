@@ -5106,19 +5106,19 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemSoundCartridgeBass</Key>
-      <Value>Cartouches de son pour les basses</Value>
+      <Value>Cartouche de son pour les basses</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemSoundCartridgeDrums</Key>
-      <Value>Cartouches de son pour les tambours</Value>
+      <Value>Cartouche de son pour les tambours</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemSoundCartridgeLeads</Key>
-      <Value>Cartouches de son pour les pistes</Value>
+      <Value>Cartouche de son pour les pistes</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemSoundCartridgeSynth</Key>
-      <Value>Cartouches de son pour les synthé</Value>
+      <Value>Cartouche de son pour les synthé</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitMusicMachines</Key>
