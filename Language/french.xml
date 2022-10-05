@@ -5649,8 +5649,12 @@
       <Value>Minerai sale</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureCombustionCentrifuge</Key>
+      <Value>Centrifugeuse à combustion</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>KitStructureCombustionCentrifuge</Key>
-      <Value/>
+      <Value>Kit (centrifugeuse à combustion)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitStandardChute</Key>
