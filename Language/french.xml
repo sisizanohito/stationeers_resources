@@ -5453,6 +5453,26 @@
       <Value>Kit (volet de fenêtre)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureReinforcedCompositeWindow</Key>
+      <Value>Fenêtre renforcée (composite)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureReinforcedCompositeWindowSteel</Key>
+      <Value>Fenêtre renforcée (acier composite)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureReinforcedWallPaddedWindow</Key>
+      <Value>Fenêtre renforcée (rembourrée)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureReinforcedWallPaddedWindowThin</Key>
+      <Value>Fenêtre renforcée (fine)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitReinforcedWindows</Key>
+      <Value>Kit (fenêtres renforcées)</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitStirlingEngine</Key>
       <Value>Kit (moteur Stirling)</Value>
     </RecordThing>
