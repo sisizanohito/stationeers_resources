@@ -3383,7 +3383,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureLogicTransmitter</Key>
-      <Value>Unité Logique: Transmetteur</Value>
+      <Value>Unité logique: transmetteur</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLogicTransmitter</Key>
@@ -5494,7 +5494,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPowerTransmitter</Key>
-      <Value/>
+      <Value>Kit (transmetteur de courant)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureInteriorDoorTriangle</Key>
@@ -5522,7 +5522,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPowerTransmitterOmni</Key>
-      <Value/>
+      <Value>Kit (transmetteur de courant Omni)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePowerTransmitterOmni</Key>
@@ -5530,11 +5530,11 @@
     </RecordThing>
     <RecordThing>
       <Key>Battery_Wireless_cell</Key>
-      <Value/>
+      <Value>Cellule de batterie sans fil</Value>
     </RecordThing>
     <RecordThing>
       <Key>Battery_Wireless_cell_Big</Key>
-      <Value/>
+      <Value>Cellule de batterie sans fil (grande)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLargeExtendableRadiator</Key>
