@@ -38,7 +38,7 @@
     </Record>
     <Record>
       <Key>4Narration2D</Key>
-      <Value>Empecemos. Para construir una esclusa de aire, comience imprimiendo dos kits de puertas. Deberá agregar lingotes de la caja al torno automático.</Value>
+      <Value>Empecemos. Para construir una esclusa de aire, comience imprimiendo dos kits de puertas compuestas. Deberá agregar lingotes de la caja al torno automático.</Value>
     </Record>
     <Record>
       <Key>4PutCopperIngotInAutoLathe</Key>
@@ -50,11 +50,11 @@
     </Record>
     <Record>
       <Key>4Narration3D</Key>
-      <Value>Ahora puede imprimir kits de dos puertas utilizando el sistema de composición molecular multieje, también conocido como torno automatico. Y comienza a aislarte de la soledad y la decepción del espacio.</Value>
+      <Value>Ahora puede imprimir kits de dos puertas compuestas utilizando el sistema de composición molecular multieje, también conocido como torno automatico. Y comienza a aislarte de la soledad y la decepción del espacio.</Value>
     </Record>
     <Record>
       <Key>4FabricateDoor</Key>
-      <Value>Imprime dos kits de puertas</Value>
+      <Value>Imprime dos kits de puertas compuestas</Value>
     </Record>
     <Record>
       <Key>4Narration4D</Key>
