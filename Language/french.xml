@@ -8218,31 +8218,31 @@ Soyez très prudent lorsque vous marchez ou sautez, car vous pouvez parcourir un
     </Record>
     <Record>
       <Key>LogicTypeRatioOxygenInput</Key>
-      <Value>Le ratio d&apos;oxygène dans l&apos;atmosphère du dispositif</Value>
+      <Value>Le ratio d&apos;oxygène dans le réseau d&apos;entrée du dispositif</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioCarbonDioxideInput</Key>
-      <Value>Le ratio de {GAS:CarbonDioxide} dans l&apos;atmosphère du dispositif</Value>
+      <Value>Le ratio de {GAS:CarbonDioxide} dans le réseau d&apos;entrée du dispositif</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioNitrogenInput</Key>
-      <Value>Le ratio de nitrogène dans l&apos;atmosphère du dispositif</Value>
+      <Value>Le ratio de nitrogène dans le réseau d&apos;entrée du dispositif</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioPollutantInput</Key>
-      <Value>Le ratio de polluant dans l’atmosphère du dispositif</Value>
+      <Value>Le ratio de polluant dans le réseau d&apos;entrée du dispositif</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioVolatilesInput</Key>
-      <Value>Le ratio d&apos;hydrogène dans l’atmosphère du dispositif</Value>
+      <Value>Le ratio d&apos;hydrogène dans le réseau d&apos;entrée du dispositif</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioWaterInput</Key>
-      <Value>Le ratio d&apos;eau dans l&apos;atmosphère du dispositif</Value>
+      <Value>Le ratio d&apos;eau dans le réseau d&apos;entrée du dispositif</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioNitrousOxideInput</Key>
-      <Value>Le ratio de {GAS:NitrousOxide} dans l&apos;atmosphère du dispositif</Value>
+      <Value>Le ratio de {GAS:NitrousOxide} dans le réseau d&apos;entrée du dispositif</Value>
     </Record>
     <Record>
       <Key>LogicTypeCombustionInput</Key>
@@ -8250,31 +8250,31 @@ Soyez très prudent lorsque vous marchez ou sautez, car vous pouvez parcourir un
     </Record>
     <Record>
       <Key>LogicTypeRatioOxygenInput2</Key>
-      <Value>Le ratio d&apos;oxygène dans l&apos;atmosphère du dispositif</Value>
+      <Value>Le ratio d&apos;oxygène dans le réseau d&apos;entrée 2 du dispositif</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioCarbonDioxideInput2</Key>
-      <Value>Le ratio de {GAS:CarbonDioxide} dans l&apos;atmosphère du dispositif</Value>
+      <Value>Le ratio de {GAS:CarbonDioxide} dans le réseau d&apos;entrée 2 du dispositif</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioNitrogenInput2</Key>
-      <Value>Le ratio de nitrogène dans l&apos;atmosphère du dispositif</Value>
+      <Value>Le ratio de nitrogène dans le réseau d&apos;entrée 2 du dispositif</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioPollutantInput2</Key>
-      <Value>Le ratio de polluant dans l’atmosphère du dispositif</Value>
+      <Value>Le ratio de polluant dans le réseau d&apos;entrée 2 du dispositif</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioVolatilesInput2</Key>
-      <Value>Le ratio d&apos;hydrogène dans l’atmosphère du dispositif</Value>
+      <Value>Le ratio d&apos;hydrogène dans le réseau d&apos;entrée 2 du dispositif</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioWaterInput2</Key>
-      <Value>Le ratio d&apos;eau dans l&apos;atmosphère du dispositif</Value>
+      <Value>Le ratio d&apos;eau dans le réseau d&apos;entrée 2 du dispositif</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioNitrousOxideInput2</Key>
-      <Value>Le ratio de {GAS:NitrousOxide} dans l&apos;atmosphère du dispositif</Value>
+      <Value>Le ratio de {GAS:NitrousOxide} dans le réseau d&apos;entrée 2 du dispositif</Value>
     </Record>
     <Record>
       <Key>LogicTypeCombustionInput2</Key>
@@ -8282,31 +8282,31 @@ Soyez très prudent lorsque vous marchez ou sautez, car vous pouvez parcourir un
     </Record>
     <Record>
       <Key>LogicTypeRatioOxygenOutput</Key>
-      <Value>Le ratio d&apos;oxygène dans l&apos;atmosphère du dispositif</Value>
+      <Value>Le ratio d&apos;oxygène dans le réseau de sortie du dispositif</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioCarbonDioxideOutput</Key>
-      <Value>Le ratio de {GAS:CarbonDioxide} dans l&apos;atmosphère du dispositif</Value>
+      <Value>Le ratio de {GAS:CarbonDioxide} dans le réseau de sortie du dispositif</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioNitrogenOutput</Key>
-      <Value>Le ratio de nitrogène dans l&apos;atmosphère du dispositif</Value>
+      <Value>Le ratio de nitrogène dans le réseau de sortie du dispositif</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioPollutantOutput</Key>
-      <Value>Le ratio de polluant dans l’atmosphère du dispositif</Value>
+      <Value>Le ratio de polluant dans le réseau de sortie du dispositif</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioVolatilesOutput</Key>
-      <Value>Le ratio d&apos;hydrogène dans l’atmosphère du dispositif</Value>
+      <Value>Le ratio d&apos;hydrogène dans le réseau de sortie du dispositif</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioWaterOutput</Key>
-      <Value>Le ratio d&apos;eau dans l&apos;atmosphère du dispositif</Value>
+      <Value>Le ratio d&apos;eau dans le réseau de sortie du dispositif</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioNitrousOxideOutput</Key>
-      <Value>Le ratio de {GAS:NitrousOxide} dans l&apos;atmosphère du dispositif</Value>
+      <Value>Le ratio de {GAS:NitrousOxide} dans le réseau de sortie du dispositif</Value>
     </Record>
     <Record>
       <Key>LogicTypeCombustionOutput</Key>
