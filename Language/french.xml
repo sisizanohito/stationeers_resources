@@ -6387,12 +6387,20 @@
   </Interactables>
   <Interface>
     <Record>
+      <Key>Throttle</Key>
+      <Value>Manette de gaz</Value>
+    </Record>
+    <Record>
+      <Key>CombustionLimiter</Key>
+      <Value>Limiteur de combustion</Value>
+    </Record>
+    <Record>
       <Key>RespawnConditionEasy</Key>
       <Value>Facile</Value>
     </Record>
     <Record>
       <Key>Rpm</Key>
-      <Value>Bpm</Value>
+      <Value>tr/min</Value>
     </Record>
     <Record>
       <Key>Stress</Key>
@@ -10800,6 +10808,10 @@ Le programme Stationeers, qui est fondamentalement ouvert à toute l’humanité
       <Value>Signaux</Value>
     </Record>
     <Record>
+      <Key>Radius</Key>
+      <Value>Rayon de détection</Value>
+    </Record>
+    <Record>
       <Key>StationpediaBasePowerUsage</Key>
       <Value>Consommation électrique de base :</Value>
     </Record>
@@ -10870,7 +10882,7 @@ Remarque : l’eau était auparavant traitée comme un gaz, mais un nouveau syst
     </Record>
     <Record>
       <Key>CreateNewGame</Key>
-      <Value>Créer une nouvelle partie</Value>
+      <Value>Sélectionner le monde</Value>
     </Record>
     <Record>
       <Key>WorkshopModsTitle</Key>
@@ -10893,12 +10905,20 @@ Remarque : l’eau était auparavant traitée comme un gaz, mais un nouveau syst
       <Value>Démarrer la partie</Value>
     </Record>
     <Record>
+      <Key>StationpediaThermalConductivityConvection</Key>
+      <Value>Convection thermique :</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaThermalConductivityRadiation</Key>
+      <Value>Rayonnement thermique :</Value>
+    </Record>
+    <Record>
       <Key>ScoreboardDaysLived</Key>
       <Value>Jours vécus</Value>
     </Record>
     <Record>
       <Key>WorldInfoButtonDeleteBackup</Key>
-      <Value>Supprimer</Value>
+      <Value>Supprimer la sauvegarde de secours</Value>
     </Record>
   </Interface>
   <Colors>
