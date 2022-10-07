@@ -12944,6 +12944,10 @@ Note: {GAS:Water} was previously treated as a gas, but a new system for liquids 
       <Key>ScoreboardDaysLived</Key>
       <Value>Days Lived</Value>
     </Record>
+    <Record>
+      <Key>WorldInfoButtonDeleteBackup</Key>
+      <Value>Delete Backup</Value>
+    </Record>
   </Interface>
   <Colors>
     <Record>
