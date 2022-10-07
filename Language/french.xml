@@ -8314,31 +8314,31 @@ Soyez très prudent lorsque vous marchez ou sautez, car vous pouvez parcourir un
     </Record>
     <Record>
       <Key>LogicTypeRatioOxygenOutput2</Key>
-      <Value>Le ratio d&apos;oxygène dans l&apos;atmosphère du dispositif</Value>
+      <Value>Le ratio d&apos;oxygène dans le réseau de sortie 2 du dispositif</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioCarbonDioxideOutput2</Key>
-      <Value>Le ratio de {GAS:CarbonDioxide} dans l&apos;atmosphère du dispositif</Value>
+      <Value>Le ratio de {GAS:CarbonDioxide} dans le réseau de sortie 2 du dispositif</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioNitrogenOutput2</Key>
-      <Value>Le ratio de nitrogène dans l&apos;atmosphère du dispositif</Value>
+      <Value>Le ratio de nitrogène dans le réseau de sortie 2 du dispositif</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioPollutantOutput2</Key>
-      <Value>Le ratio de polluant dans l’atmosphère du dispositif</Value>
+      <Value>Le ratio de polluant dans le réseau de sortie 2 du dispositif</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioVolatilesOutput2</Key>
-      <Value>Le ratio d&apos;hydrogène dans l’atmosphère du dispositif</Value>
+      <Value>Le ratio d&apos;hydrogène dans le réseau de sortie 2 du dispositif</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioWaterOutput2</Key>
-      <Value>Le ratio d&apos;eau dans l&apos;atmosphère du dispositif</Value>
+      <Value>Le ratio d&apos;eau dans le réseau de sortie 2 du dispositif</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioNitrousOxideOutput2</Key>
-      <Value>Le ratio de {GAS:NitrousOxide} dans l&apos;atmosphère du dispositif</Value>
+      <Value>Le ratio de {GAS:NitrousOxide} dans le réseau de sortie 2 du dispositif</Value>
     </Record>
     <Record>
       <Key>LogicTypeCombustionOutput2</Key>
@@ -8570,6 +8570,10 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
     <Record>
       <Key>LogicTypeTemperatureDifferentialEfficiency</Key>
       <Value>Comment la différence entre les températures du tuyau d’entrée et du tuyau d’évacuation affecte l’efficacité des machines ?</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeStress</Key>
+      <Value>Les machines subissent des contraintes lorsqu’elles travaillent avec difficulté. Si la contrainte atteint 100, la machine s’arrête automatiquement</Value>
     </Record>
     <Record>
       <Key>LogicTypePressureEfficiency</Key>
@@ -10525,6 +10529,10 @@ Le programme Stationeers, qui est fondamentalement ouvert à toute l’humanité
     <Record>
       <Key>FixedWeatherEventMissing</Key>
       <Value>Aucun système météorologique n’a été trouvé pour ce monde. Le système météorologique par défaut a été appliqué. Attendez-vous à des turbulences.</Value>
+    </Record>
+    <Record>
+      <Key>AdvancedTutorialButton</Key>
+      <Value>Mode histoire / Avancé</Value>
     </Record>
     <Record>
       <Key>BasicButtonTutorial</Key>
