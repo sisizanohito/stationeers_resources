@@ -11233,6 +11233,10 @@ Poznámka: S vodou se dříve zacházelo jako s plynem, ale nyní se vyvíjí no
       <Key>StationpediaThermalConductivityRadiation</Key>
       <Value>Tepelné záření:</Value>
     </Record>
+    <Record>
+      <Key>WorldInfoButtonDeleteBackup</Key>
+      <Value>Odstranit</Value>
+    </Record>
   </Interface>
   <Colors>
     <Record>

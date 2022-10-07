@@ -10701,6 +10701,10 @@
       <Key>StartNewGameButton</Key>
       <Value>Вернуться в игру</Value>
     </Record>
+    <Record>
+      <Key>WorldInfoButtonDeleteBackup</Key>
+      <Value>Удалить</Value>
+    </Record>
   </Interface>
   <Colors>
     <Record>

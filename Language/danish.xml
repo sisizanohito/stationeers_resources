@@ -1310,6 +1310,10 @@
       <Key>WorkshopModsTitle</Key>
       <Value>Værksted</Value>
     </Record>
+    <Record>
+      <Key>WorldInfoButtonDeleteBackup</Key>
+      <Value>Slet</Value>
+    </Record>
   </Interface>
   <Colors>
     <Record>

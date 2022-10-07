@@ -10926,6 +10926,10 @@ Nota: El agua se trataba anteriormente como un gas, pero se está desarrollando 
       <Key>ScoreboardDaysLived</Key>
       <Value>Días vividos</Value>
     </Record>
+    <Record>
+      <Key>WorldInfoButtonDeleteBackup</Key>
+      <Value>Borrar</Value>
+    </Record>
   </Interface>
   <Colors>
     <Record>

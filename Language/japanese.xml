@@ -7522,6 +7522,10 @@
       <Key>StartNewGameButton</Key>
       <Value>ゲームに戻る</Value>
     </Record>
+    <Record>
+      <Key>WorldInfoButtonDeleteBackup</Key>
+      <Value>削除</Value>
+    </Record>
   </Interface>
   <Colors>
     <Record>

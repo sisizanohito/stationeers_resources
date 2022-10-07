@@ -11077,6 +11077,10 @@ Hinweis: Wasser wurde früher wie Gas behandelt, aber ein neues System für Flü
       <Key>ScoreboardDaysLived</Key>
       <Value>Überlebte Tage</Value>
     </Record>
+    <Record>
+      <Key>WorldInfoButtonDeleteBackup</Key>
+      <Value>Löschen</Value>
+    </Record>
   </Interface>
   <Colors>
     <Record>

@@ -6518,6 +6518,10 @@ Spawnaa mikä tahansa esine, testaa ideoita ja rakenna ihme juttuja todella nope
       <Key>StartNewGameButton</Key>
       <Value>Palaa Peliin</Value>
     </Record>
+    <Record>
+      <Key>WorldInfoButtonDeleteBackup</Key>
+      <Value>Poista</Value>
+    </Record>
   </Interface>
   <Colors>
     <Record>

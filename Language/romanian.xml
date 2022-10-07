@@ -1686,6 +1686,10 @@
       <Key>StartNewGameButton</Key>
       <Value>Ieșire joc</Value>
     </Record>
+    <Record>
+      <Key>WorldInfoButtonDeleteBackup</Key>
+      <Value>Șterge</Value>
+    </Record>
   </Interface>
   <Colors>
     <Record>

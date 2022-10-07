@@ -9162,6 +9162,10 @@ Leginkább mérnöki, katonai vagy űripari, szoftverfejlesztői vagy bányásza
       <Key>StartNewGameButton</Key>
       <Value>Vissza a játékba</Value>
     </Record>
+    <Record>
+      <Key>WorldInfoButtonDeleteBackup</Key>
+      <Value>Törlés</Value>
+    </Record>
   </Interface>
   <Colors>
     <Record>

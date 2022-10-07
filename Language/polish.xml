@@ -8141,6 +8141,10 @@ Uwaga: Woda była poprzednio traktowana jako gaz, ale został wprowadzony nowy s
       <Key>StartNewGameButton</Key>
       <Value>Powrót do gry</Value>
     </Record>
+    <Record>
+      <Key>WorldInfoButtonDeleteBackup</Key>
+      <Value>Usuń</Value>
+    </Record>
   </Interface>
   <Colors>
     <Record>

@@ -7253,6 +7253,10 @@ Non essere triste quando ti farai saltare in aria in piccoli, piccolissimi pezzi
       <Key>StartNewGameButton</Key>
       <Value>Torna al Gioco</Value>
     </Record>
+    <Record>
+      <Key>WorldInfoButtonDeleteBackup</Key>
+      <Value>Cancella</Value>
+    </Record>
   </Interface>
   <Colors>
     <Record>

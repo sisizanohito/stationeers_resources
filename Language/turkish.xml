@@ -9405,6 +9405,10 @@
       <Key>StartNewGameButton</Key>
       <Value>OYUNA GERİ DÖN</Value>
     </Record>
+    <Record>
+      <Key>WorldInfoButtonDeleteBackup</Key>
+      <Value>Sil</Value>
+    </Record>
   </Interface>
   <Colors>
     <Record>

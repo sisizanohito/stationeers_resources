@@ -5223,6 +5223,10 @@
       <Key>StartNewGameButton</Key>
       <Value>Sair do Jogo</Value>
     </Record>
+    <Record>
+      <Key>WorldInfoButtonDeleteBackup</Key>
+      <Value>Deletar</Value>
+    </Record>
   </Interface>
   <Colors>
     <Record>

@@ -8326,6 +8326,10 @@
       <Key>StartNewGameButton</Key>
       <Value>返回遊戲</Value>
     </Record>
+    <Record>
+      <Key>WorldInfoButtonDeleteBackup</Key>
+      <Value>刪除</Value>
+    </Record>
   </Interface>
   <Colors>
     <Record>

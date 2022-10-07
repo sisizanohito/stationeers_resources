@@ -11407,6 +11407,10 @@ Stationeers计划从土木工程从业人员、军事和航空航天工业、软
       <Key>StartNewGameButton</Key>
       <Value>开始游戏</Value>
     </Record>
+    <Record>
+      <Key>WorldInfoButtonDeleteBackup</Key>
+      <Value>删除</Value>
+    </Record>
   </Interface>
   <Colors>
     <Record>

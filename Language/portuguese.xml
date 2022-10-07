@@ -8591,6 +8591,10 @@
       <Key>StartNewGameButton</Key>
       <Value>Regressar ao Jogo</Value>
     </Record>
+    <Record>
+      <Key>WorldInfoButtonDeleteBackup</Key>
+      <Value>Apagar</Value>
+    </Record>
   </Interface>
   <Colors>
     <Record>
