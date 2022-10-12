@@ -5,6 +5,71 @@
   <Font>font_extended</Font>
   <Reagents>
     <RecordReagent>
+      <Key>Flour</Key>
+      <Value>Harina</Value>
+      <Unit>Harina.Unidad</Unit>
+    </RecordReagent>
+    <RecordReagent>
+      <Key>Oil</Key>
+      <Value>Aceite</Value>
+      <Unit>Aceite.Unidad</Unit>
+    </RecordReagent>
+    <RecordReagent>
+      <Key>Tomato</Key>
+      <Value>Tomate</Value>
+      <Unit>Tomate.Unidad</Unit>
+    </RecordReagent>
+    <RecordReagent>
+      <Key>ColorBlue</Key>
+      <Value>Coloración Azul</Value>
+      <Unit>ColorAzul.Unidad</Unit>
+    </RecordReagent>
+    <RecordReagent>
+      <Key>ColorYellow</Key>
+      <Value>Coloración Amarilla</Value>
+      <Unit>ColorAmarillo.Unidad</Unit>
+    </RecordReagent>
+    <RecordReagent>
+      <Key>ColorOrange</Key>
+      <Value>Coloración Naranja</Value>
+      <Unit>ColorNaranja.Unidad</Unit>
+    </RecordReagent>
+    <RecordReagent>
+      <Key>Pumpkin</Key>
+      <Value>Calabaza</Value>
+      <Unit>Calabaza.Unidad</Unit>
+    </RecordReagent>
+    <RecordReagent>
+      <Key>Rice</Key>
+      <Value>Arroz</Value>
+      <Unit>Arroz.Unidad</Unit>
+    </RecordReagent>
+    <RecordReagent>
+      <Key>Cobalt</Key>
+      <Value>Cobalto</Value>
+      <Unit>Cobalto.Unidad</Unit>
+    </RecordReagent>
+    <RecordReagent>
+      <Key>Corn</Key>
+      <Value>Maíz</Value>
+      <Unit>Maiz.Unidad</Unit>
+    </RecordReagent>
+    <RecordReagent>
+      <Key>Wheat</Key>
+      <Value>Trigo</Value>
+      <Unit>Trigo.Unidad</Unit>
+    </RecordReagent>
+    <RecordReagent>
+      <Key>Biomass</Key>
+      <Value>Biomasa</Value>
+      <Unit>Biomasa.Unidad</Unit>
+    </RecordReagent>
+    <RecordReagent>
+      <Key>Soy</Key>
+      <Value>Soja</Value>
+      <Unit>Soja.Unidad</Unit>
+    </RecordReagent>
+    <RecordReagent>
       <Key>Mushroom</Key>
       <Value>Seta</Value>
       <Unit>Seta.Unidad</Unit>
@@ -933,7 +998,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSolarPanel</Key>
-      <Value>Kit (Panel Solar)</Value>
+      <Value>Panel Solar (kit)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitStairs</Key>
@@ -2401,7 +2466,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitCompositeFloorGrating</Key>
-      <Value>Kit (Rejilla de piso)</Value>
+      <Value>Rejilla de suelo (kit)</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeRollCover</Key>
@@ -3797,7 +3862,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSolarPanelBasic</Key>
-      <Value>Kit (Panel Solar Básico)</Value>
+      <Value>Panel Solar Basico (kit)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureSDBHopperAdvanced</Key>
@@ -4549,7 +4614,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSolarPanelReinforced</Key>
-      <Value>Kit (Panel Solar)</Value>
+      <Value>Panel Solar Reforzado (kit)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSolarPanelBasicReinforced</Key>
@@ -4733,7 +4798,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLiquidRegulator</Key>
-      <Value>kit (regulador liquido)</Value>
+      <Value>Regulador de presion de liquidos (kit)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureBackLiquidPressureRegulator</Key>
@@ -5730,11 +5795,11 @@
     </Record>
     <Record>
       <Key>Belt</Key>
-      <Value>Cinturón</Value>
+      <Value>Cinturon</Value>
     </Record>
     <Record>
       <Key>Battery</Key>
-      <Value>Batería</Value>
+      <Value>Bateria</Value>
     </Record>
     <Record>
       <Key>GasCanister</Key>
@@ -5754,11 +5819,15 @@
     </Record>
     <Record>
       <Key>LifeSupport</Key>
-      <Value>Batería</Value>
+      <Value>Soporte vital</Value>
     </Record>
     <Record>
       <Key>Filter</Key>
       <Value>Filtro</Value>
+    </Record>
+    <Record>
+      <Key>Tool</Key>
+      <Value>Herramienta</Value>
     </Record>
     <Record>
       <Key>Ore</Key>
@@ -5910,7 +5979,7 @@
     </Record>
     <Record>
       <Key>LiquidCanister</Key>
-      <Value>Recipiente de líquidos</Value>
+      <Value>Botella de líquidos</Value>
     </Record>
     <Record>
       <Key>HandSlot</Key>
