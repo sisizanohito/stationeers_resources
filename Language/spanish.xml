@@ -805,7 +805,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemGlassSheets</Key>
-      <Value>Placa de Vidrio</Value>
+      <Value>Placa de Cristal</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemCopperIngot</Key>
@@ -3089,11 +3089,11 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureHydroponicsAutomated</Key>
-      <Value>Hidroponía Automatizada</Value>
+      <Value>Hidroponia Automatizada</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitHydroponicAutomated</Key>
-      <Value>Kit (Hidroponía Automatizada)</Value>
+      <Value>Hidroponia Automatizada (kit)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemBasketBall</Key>
@@ -3153,7 +3153,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemPlasticSheets</Key>
-      <Value>Placa de Plástico</Value>
+      <Value>Placa de Plastico</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemAlienMushroom</Key>
@@ -3801,15 +3801,23 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureSDBHopperAdvanced</Key>
-      <Value>SDB Tolva Avanzada</Value>
+      <Value>Tolva Avanzada</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureSDBHopper</Key>
-      <Value>SDB Tolva</Value>
+      <Value>Tolva</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSDBHopper</Key>
-      <Value>Kit (SDB Tolva)</Value>
+      <Value>Tolva (kit)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureSDBSilo</Key>
+      <Value>Silo</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>KitSDBSilo</Key>
+      <Value>Silo (kit)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureTankSmallInsulated</Key>
@@ -4301,7 +4309,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSDBSilo5</Key>
-      <Value>Silo SDB de restos</Value>
+      <Value>Restos de Silo</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageShuttleLandingPad1</Key>
@@ -4357,7 +4365,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageCompositeDoorGlass2</Key>
-      <Value>Restos Vidrio compuesto de la puerta</Value>
+      <Value>Restos de cristal de la puerta compuesta</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageElevatorShaftIndustrial1</Key>
@@ -5108,15 +5116,15 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPlanter</Key>
-      <Value>Kit Jardinera</Value>
+      <Value>Jardinera (kit)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureAutomatedOven</Key>
-      <Value>Horno automatizado</Value>
+      <Value>Horno de cocina automatizado</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAutomatedOven</Key>
-      <Value>Kit (Horno Automatizado)</Value>
+      <Value>Horno de cocina Automatizado (kit)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemCannedMushroom</Key>
