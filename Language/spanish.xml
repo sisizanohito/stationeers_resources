@@ -2741,19 +2741,19 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureElevatorShaft</Key>
-      <Value>Eje del Elevador</Value>
+      <Value>Eje del Ascensor</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitElevator</Key>
-      <Value>Kit (Elevador)</Value>
+      <Value>Ascensor (Kit)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ElevatorCarrage</Key>
-      <Value>Elevador</Value>
+      <Value>Ascensor</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureElevatorLevelFront</Key>
-      <Value>Nivel del Elevador</Value>
+      <Value>Nivel del Ascensor</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCrateMount</Key>
@@ -4369,7 +4369,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageElevatorShaftIndustrial3</Key>
-      <Value>Elevador industrial de carga 3 restos</Value>
+      <Value>Restos de Elevador industrial de carga 3</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageElevatorLevelFront1</Key>
@@ -5096,7 +5096,7 @@
     </RecordThing>
     <RecordThing>
       <Key>KitPlanter</Key>
-      <Value>Kit Jardinera</Value>
+      <Value>Jardinera (kit)</Value>
     </RecordThing>
     <RecordThing>
       <Key>PortableComposter</Key>
