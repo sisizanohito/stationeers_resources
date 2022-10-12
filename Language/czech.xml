@@ -274,6 +274,10 @@
       <Value>Spotřebovat</Value>
     </Record>
     <Record>
+      <Key>ConsumeFail</Key>
+      <Value>Nelze: Helma zavřená</Value>
+    </Record>
+    <Record>
       <Key>Plant</Key>
       <Value>Zasadit</Value>
     </Record>
@@ -416,6 +420,14 @@
     <Record>
       <Key>FlipRover</Key>
       <Value>Převrátit rover</Value>
+    </Record>
+    <Record>
+      <Key>Idle</Key>
+      <Value>Nečinný</Value>
+    </Record>
+    <Record>
+      <Key>Active</Key>
+      <Value>Aktivní</Value>
     </Record>
   </Actions>
   <Things>
