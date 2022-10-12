@@ -10,14 +10,34 @@
       <Unit>Harina.Unidad</Unit>
     </RecordReagent>
     <RecordReagent>
+      <Key>Milk</Key>
+      <Value>Leche</Value>
+      <Unit>Leche.Unidad</Unit>
+    </RecordReagent>
+    <RecordReagent>
+      <Key>Egg</Key>
+      <Value>Huevo</Value>
+      <Unit>Huevo.Unidad</Unit>
+    </RecordReagent>
+    <RecordReagent>
       <Key>Oil</Key>
       <Value>Aceite</Value>
       <Unit>Aceite.Unidad</Unit>
     </RecordReagent>
     <RecordReagent>
+      <Key>Potato</Key>
+      <Value>Patata</Value>
+      <Unit>Patata.Unidad</Unit>
+    </RecordReagent>
+    <RecordReagent>
       <Key>Tomato</Key>
       <Value>Tomate</Value>
       <Unit>Tomate.Unidad</Unit>
+    </RecordReagent>
+    <RecordReagent>
+      <Key>Fenoxitone</Key>
+      <Value>Fenoxitona</Value>
+      <Unit>Fenoxitona.Unidad</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>ColorBlue</Key>
@@ -82,7 +102,7 @@
     </Record>
     <Record>
       <Key>CarbonDioxide</Key>
-      <Value>Dióxido de carbono</Value>
+      <Value>Dioxido de carbono</Value>
     </Record>
     <Record>
       <Key>Nitrogen</Key>
@@ -90,7 +110,7 @@
     </Record>
     <Record>
       <Key>Volatiles</Key>
-      <Value>Volátil</Value>
+      <Value>Volatil</Value>
     </Record>
     <Record>
       <Key>Pollutant</Key>
@@ -102,7 +122,7 @@
     </Record>
     <Record>
       <Key>NitrousOxide</Key>
-      <Value>Óxido Nitroso</Value>
+      <Value>Oxido Nitroso</Value>
     </Record>
   </Gases>
   <Actions>
@@ -189,6 +209,14 @@
     <Record>
       <Key>Closed</Key>
       <Value>Cerrado</Value>
+    </Record>
+    <Record>
+      <Key>Off</Key>
+      <Value>Apagado</Value>
+    </Record>
+    <Record>
+      <Key>On</Key>
+      <Value>Encendido</Value>
     </Record>
     <Record>
       <Key>Powered</Key>
@@ -838,7 +866,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterCarbonDioxide</Key>
-      <Value>Filtro (Dióxido de carbono)</Value>
+      <Value>Filtro (Dioxido de carbono)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterPollutants</Key>
@@ -846,15 +874,15 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterNitrogen</Key>
-      <Value>Filtro (Nitrógeno)</Value>
+      <Value>Filtro (Nitrogeno)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterOxygen</Key>
-      <Value>Filtro (Oxígeno)</Value>
+      <Value>Filtro (Oxigeno)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterVolatiles</Key>
-      <Value>Filtro (Volátiles)</Value>
+      <Value>Filtro (Volatiles)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterWater</Key>
@@ -2070,7 +2098,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSorter</Key>
-      <Value>Kit (Clasificador)</Value>
+      <Value>Clasificador (kit)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitStacker</Key>
@@ -3042,27 +3070,27 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterCarbonDioxideL</Key>
-      <Value>Filtro Pesado(Dióxido de Carbono)</Value>
+      <Value>Filtro Pesado(Dioxido de Carbono)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterCarbonDioxideM</Key>
-      <Value>Filtro Mediano (Dióxido de Carbono)</Value>
+      <Value>Filtro Mediano (Dioxido de Carbono)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterNitrogenL</Key>
-      <Value>Filtro Pesado (Nitrógeno)</Value>
+      <Value>Filtro Pesado (Nitrogeno)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterNitrogenM</Key>
-      <Value>Filtro Mediano (Nitrógeno)</Value>
+      <Value>Filtro Mediano (Nitrogeno)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterOxygenL</Key>
-      <Value>Filtro Pesado (Oxígeno)</Value>
+      <Value>Filtro Pesado (Oxigeno)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterOxygenM</Key>
-      <Value>Filtro Mediano (Oxygen)</Value>
+      <Value>Filtro Mediano (Oxigeno)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterPollutantsL</Key>
@@ -3074,11 +3102,11 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterVolatilesL</Key>
-      <Value>Filtro Pesado (Volátiles)</Value>
+      <Value>Filtro Pesado (Volatiles)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterVolatilesM</Key>
-      <Value>Filtro Mediano (Volátiles)</Value>
+      <Value>Filtro Mediano (Volatiles)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterWaterL</Key>
@@ -3174,15 +3202,15 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterNitrousOxide</Key>
-      <Value>Filtro (Óxido de nitrógeno)</Value>
+      <Value>Filtro (Oxido de nitrogeno)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterNitrousOxideL</Key>
-      <Value>Filtro Pesado (Óxido de nitrógeno)</Value>
+      <Value>Filtro Pesado (Oxido de nitrogeno)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterNitrousOxideM</Key>
-      <Value>Filtro Mediano (Óxido de nitrógeno)</Value>
+      <Value>Filtro Mediano (Oxido de nitrogeno)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasCanisterNitrousOxide</Key>
@@ -12214,16 +12242,12 @@ Nota: El agua se trataba anteriormente como un gas, pero se está desarrollando 
       <Value>Hielo</Value>
     </Record>
     <Record>
-      <Key>Volatiles</Key>
-      <Value>Volátiles</Value>
-    </Record>
-    <Record>
       <Key>Gold</Key>
       <Value>Oro</Value>
     </Record>
     <Record>
       <Key>Coal</Key>
-      <Value>Carbón</Value>
+      <Value>Carbon</Value>
     </Record>
     <Record>
       <Key>Copper</Key>
@@ -12239,7 +12263,7 @@ Nota: El agua se trataba anteriormente como un gas, pero se está desarrollando 
     </Record>
     <Record>
       <Key>Nickel</Key>
-      <Value>Níquel</Value>
+      <Value>Niquel</Value>
     </Record>
     <Record>
       <Key>Lead</Key>
