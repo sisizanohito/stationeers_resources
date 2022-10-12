@@ -2810,7 +2810,7 @@
     </RecordThing>
     <RecordThing>
       <Key>Handgun</Key>
-      <Value>Revólver</Value>
+      <Value>Pistola</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemAmmoBox</Key>
@@ -2818,15 +2818,15 @@
     </RecordThing>
     <RecordThing>
       <Key>HandgunMagazine</Key>
-      <Value>Cargador de Revólver</Value>
+      <Value>Cargador de Pistola</Value>
     </RecordThing>
     <RecordThing>
       <Key>SMGMagazine</Key>
-      <Value>Almacén SMG</Value>
+      <Value>Cargador Fusil SMG</Value>
     </RecordThing>
     <RecordThing>
       <Key>FireArmSMG</Key>
-      <Value>Arma de Fuego S M G</Value>
+      <Value>Fusil SMG</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureElectrolyzer</Key>
@@ -5453,7 +5453,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemMiningCharge</Key>
-      <Value>Carga de minería</Value>
+      <Value>Explosivos de mineria</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureReinforcedCompositeWindow</Key>
