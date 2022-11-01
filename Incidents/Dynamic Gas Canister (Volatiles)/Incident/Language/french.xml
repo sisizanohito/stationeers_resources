@@ -6,7 +6,7 @@
   <Interface>
     <Record>
       <Key>Incident_Supply_Dynamic_Canister_Volatiles_Title</Key>
-      <Value>Bouteille dynamique (Gaz volatiles)</Value>
+      <Value>Bouteille dynamique (volatile)</Value>
     </Record>
     <Record>
       <Key>Incident_Supply_Dynamic_Canister_Volatiles</Key>

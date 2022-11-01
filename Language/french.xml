@@ -4847,7 +4847,7 @@
     </RecordThing>
     <RecordThing>
       <Key>DynamicMKIILiquidCanisterWater</Key>
-      <Value>Citerne portable MKII (Eau)</Value>
+      <Value>Citerne portable Mk II (eau)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidVolumePump</Key>
@@ -5908,7 +5908,7 @@
     </Record>
     <Record>
       <Key>LiquidCanister</Key>
-      <Value>Réservoir de liquide</Value>
+      <Value>Bouteille de liquide</Value>
     </Record>
     <Record>
       <Key>HandSlot</Key>
