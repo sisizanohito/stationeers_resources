@@ -6640,11 +6640,11 @@
     </Record>
     <Record>
       <Key>Rpm</Key>
-      <Value>每分钟节拍数（BPM）</Value>
+      <Value>每分钟转数（RPM）</Value>
     </Record>
     <Record>
       <Key>Stress</Key>
-      <Value>地址</Value>
+      <Value>压力</Value>
     </Record>
     <Record>
       <Key>SlotKey</Key>
@@ -11424,8 +11424,12 @@ Stationeers计划从土木工程从业人员、军事和航空航天工业、软
       <Value>开始游戏</Value>
     </Record>
     <Record>
+      <Key>ScoreboardDaysLived</Key>
+      <Value>存活天数</Value>
+    </Record>
+    <Record>
       <Key>WorldInfoButtonDeleteBackup</Key>
-      <Value>删除</Value>
+      <Value>删除备份</Value>
     </Record>
   </Interface>
   <Colors>
