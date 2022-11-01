@@ -6627,6 +6627,10 @@
       <Value>节流阀</Value>
     </Record>
     <Record>
+      <Key>CombustionLimiter</Key>
+      <Value>燃烧限制器</Value>
+    </Record>
+    <Record>
       <Key>RespawnConditionEasy</Key>
       <Value>简单</Value>
     </Record>
