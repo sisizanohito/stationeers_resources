@@ -2899,7 +2899,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemGasCanisterSmart</Key>
-      <Value>Bouteille de Gaz (Evoluée)</Value>
+      <Value>Bouteille de gaz (renforcée)</Value>
     </RecordThing>
     <RecordThing>
       <Key>CartridgeConfiguration</Key>
@@ -4871,7 +4871,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemLiquidCanisterSmart</Key>
-      <Value>Bonbonne de liquide (Evoluée)</Value>
+      <Value>Bouteille de liquide (renforcée)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemMKIIScrewdriver</Key>

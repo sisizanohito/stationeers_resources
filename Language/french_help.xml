@@ -350,6 +350,10 @@ Pression de fusion {0}</Text>
       <Text>{0} W</Text>
     </StationpediaPage>
     <StationpediaPage>
+      <Key>GasCanisterTemplate</Key>
+      <Text>Modèle de bouteille de gaz</Text>
+    </StationpediaPage>
+    <StationpediaPage>
       <Key>LogicTransmitHeaderTemplate</Key>
       <Text>{LIST}{0}{/LIST}</Text>
     </StationpediaPage>
