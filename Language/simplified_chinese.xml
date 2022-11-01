@@ -8969,6 +8969,10 @@
       <Value>输入管道和废弃物管道之间的温差如何影响机器的工作效率</Value>
     </Record>
     <Record>
+      <Key>LogicTypeCombustionLimiter</Key>
+      <Value>减缓机器内部的燃烧速率（范围：0-100），其中 0 是最慢的燃烧速率，而 100 是最快的燃烧速率</Value>
+    </Record>
+    <Record>
       <Key>LogicTypePressureEfficiency</Key>
       <Value>输入管道和废弃物管道的压强如何影响机器的工作效率</Value>
     </Record>
