@@ -4823,11 +4823,11 @@
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasTankAdvancedOxygen</Key>
-      <Value>Réservoir portable MKII (Oxygène)</Value>
+      <Value>Réservoir portable renforcé (Oxygène)</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasTankAdvancedWater</Key>
-      <Value>Citerne portable MKII (Eau)</Value>
+      <Value>Réservoir pour liquide portable renforcée (eau)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidPipeRadiator</Key>
@@ -4915,19 +4915,19 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidTankBig</Key>
-      <Value>Grande Citerne</Value>
+      <Value>Grande citerne de liquide</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidTankSmall</Key>
-      <Value>Citerne</Value>
+      <Value>Petite citerne de liquide</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLiquidTank</Key>
-      <Value>Kit (Citerne)</Value>
+      <Value>Kit (citerne de liquide)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLiquidTankInsulated</Key>
-      <Value>Kit (Citerne calfeutré portable)</Value>
+      <Value>Kit (réservoir de liquide calfeutré)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidTankBigInsulated</Key>
@@ -5126,7 +5126,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemInsulatedTankConnector</Key>
-      <Value>Connecteur de citerne portable (calfeutré)</Value>
+      <Value>Connecteur de réservoir portable (calfeutré)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedTankConnector</Key>
@@ -5134,11 +5134,11 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemInsulatedTankConnectorLiquid</Key>
-      <Value>Kit (connecteur de citerne portable calfeutré pour liquides)</Value>
+      <Value>Kit (connecteur de réservoir portable calfeutré pour liquides)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedTankConnectorLiquid</Key>
-      <Value>Connecteur de citerne portable calfeutré pour liquides</Value>
+      <Value>Connecteur de réservoir portable calfeutré pour liquides</Value>
     </RecordThing>
     <RecordThing>
       <Key>DecayedFood</Key>
