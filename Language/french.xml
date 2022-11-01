@@ -695,39 +695,39 @@
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterAir</Key>
-      <Value>Réservoir portable (Air)</Value>
+      <Value>Réservoir portable de gaz (air)</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterCarbonDioxide</Key>
-      <Value>Réservoir portable (CO2)</Value>
+      <Value>Réservoir portable de gaz (CO2)</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterEmpty</Key>
-      <Value>Réservoir portable</Value>
+      <Value>Réservoir portable de gaz </Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterFuel</Key>
-      <Value>Réservoir portable (Carburant)</Value>
+      <Value>Réservoir portable de gaz (carburant)</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterNitrogen</Key>
-      <Value>Réservoir portable (Azote)</Value>
+      <Value>Réservoir portable de gaz (azote)</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterOxygen</Key>
-      <Value>Réservoir portable (Oxygène)</Value>
+      <Value>Réservoir portable de gaz (oxygène)</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterVolatiles</Key>
-      <Value>Réservoir portable (gaz volatiles)</Value>
+      <Value>Réservoir portable de gaz (volatile)</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterWater</Key>
-      <Value>Citerne portable (Eau)</Value>
+      <Value>Réservoir de liquide portable (eau)</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicLiquidCanisterEmpty</Key>
-      <Value>Citerne portable</Value>
+      <Value>Réservoir dynamique portable de liquide</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGenerator</Key>
@@ -895,39 +895,39 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemGasCanisterCarbonDioxide</Key>
-      <Value>Bouteille de Gaz (CO2)</Value>
+      <Value>Bouteille de gaz (CO2)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasCanisterPollutants</Key>
-      <Value>Bouteille de Gaz (Polluant)</Value>
+      <Value>Bouteille de gaz (polluant)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasCanisterEmpty</Key>
-      <Value>Bouteille de Gaz</Value>
+      <Value>Bouteille de gaz vide</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasCanisterFuel</Key>
-      <Value>Bouteille de Gaz (Carburant)</Value>
+      <Value>Bouteille de gaz (carburant)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasCanisterVolatiles</Key>
-      <Value>Bouteille de Gaz (gaz volatiles)</Value>
+      <Value>Bouteille de gaz (volatile)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasCanisterNitrogen</Key>
-      <Value>Bouteille de Gaz (Azote)</Value>
+      <Value>Bouteille de gaz (azote)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasCanisterOxygen</Key>
-      <Value>Bouteille de Gaz (Oxygène)</Value>
+      <Value>Bouteille de gaz (oxygène)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasCanisterWater</Key>
-      <Value>Bonbonne (Eau)</Value>
+      <Value>Bouteille de liquide (eau)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemLiquidCanisterEmpty</Key>
-      <Value>Bonbonne de liquide</Value>
+      <Value>Bouteille de liquide</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterCarbonDioxide</Key>
@@ -955,11 +955,11 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemGasTankStorage</Key>
-      <Value>Kit (Connecteur pour Bouteille)</Value>
+      <Value>Kit (connecteur pour bouteille de gaz)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemLiquidTankStorage</Key>
-      <Value>Kit (Connecteur pour Bonbonne)</Value>
+      <Value>Kit (connecteur pour bouteille de liquide)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGlassSheets</Key>
@@ -3039,11 +3039,11 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitDynamicCanister</Key>
-      <Value>Kit (Réservoir portable)</Value>
+      <Value>Kit (réservoir de gaz portable)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitDynamicLiquidCanister</Key>
-      <Value>Kit (Citerne portable)</Value>
+      <Value>Kit (réservoir de liquide portable)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemFlowerBlue</Key>
