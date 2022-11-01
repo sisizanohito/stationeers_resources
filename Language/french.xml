@@ -3239,7 +3239,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemGasCanisterNitrousOxide</Key>
-      <Value>Bouteille de gaz (Protoxyde d&apos;azote)</Value>
+      <Value>Bouteille de gaz (protoxyde d&apos;azote)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemNVG</Key>
@@ -3351,11 +3351,11 @@
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterNitrousOxide</Key>
-      <Value>Réservoir portable (Protoxyde d&apos;azote)</Value>
+      <Value>Réservoir de gaz portable (protoxyde d&apos;azote)</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterPollutants</Key>
-      <Value>Réservoir portable (Polluant)</Value>
+      <Value>Réservoir de gaz portable (polluant)</Value>
     </RecordThing>
     <RecordThing>
       <Key>Lander</Key>
@@ -3887,7 +3887,7 @@
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterRocketFuel</Key>
-      <Value>Réservoir portable (carburant fusée)</Value>
+      <Value>Réservoir dynamique portable (carburant de fusée)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ModularRocketCommand01Lander</Key>
@@ -4839,15 +4839,15 @@
     </RecordThing>
     <RecordThing>
       <Key>DynamicMKIILiquidCanisterEmpty</Key>
-      <Value>Citerne portable MKII</Value>
+      <Value>Réservoir de liquide portable Mk II</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitDynamicMKIILiquidCanister</Key>
-      <Value>Kit (Citerne portable MKII)</Value>
+      <Value>Kit (réservoir de liquide portable Mk II)</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicMKIILiquidCanisterWater</Key>
-      <Value>Citerne portable Mk II (eau)</Value>
+      <Value>Réservoir portable Mk II (eau)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidVolumePump</Key>
