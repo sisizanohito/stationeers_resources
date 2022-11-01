@@ -451,6 +451,14 @@
       <Key>FlipRover</Key>
       <Value>翻转漫游车</Value>
     </Record>
+    <Record>
+      <Key>Idle</Key>
+      <Value>闲置的</Value>
+    </Record>
+    <Record>
+      <Key>Active</Key>
+      <Value>活跃的</Value>
+    </Record>
   </Actions>
   <Things>
     <RecordThing>
@@ -6614,6 +6622,10 @@
     </Record>
   </Interactables>
   <Interface>
+    <Record>
+      <Key>Throttle</Key>
+      <Value>节流阀</Value>
+    </Record>
     <Record>
       <Key>RespawnConditionEasy</Key>
       <Value>简单</Value>
