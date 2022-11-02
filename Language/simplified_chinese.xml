@@ -8977,6 +8977,10 @@
       <Value>增大机器工作的速率（范围：0-100）</Value>
     </Record>
     <Record>
+      <Key>LogicTypeRpm</Key>
+      <Value>设备旋转机构当前的每分钟转数（RPM）</Value>
+    </Record>
+    <Record>
       <Key>LogicTypePressureEfficiency</Key>
       <Value>输入管道和废弃物管道的压强如何影响机器的工作效率</Value>
     </Record>
