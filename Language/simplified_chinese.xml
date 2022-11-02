@@ -8981,6 +8981,10 @@
       <Value>设备旋转机构当前的每分钟转数（RPM）</Value>
     </Record>
     <Record>
+      <Key>LogicTypeStress</Key>
+      <Value>机器在高强度工作时会受到应力。当应力值达到 100 时，机器将会自动关闭</Value>
+    </Record>
+    <Record>
       <Key>LogicTypePressureEfficiency</Key>
       <Value>输入管道和废弃物管道的压强如何影响机器的工作效率</Value>
     </Record>
