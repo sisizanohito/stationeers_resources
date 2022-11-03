@@ -489,7 +489,7 @@ Just bolt it to a {THING:StructureBench} using a {THING:ItemWrench} to power it,
     </RecordThing>
     <RecordThing>
       <Key>BodyPartAstronautFemaleLegL</Key>
-      <Value>Body Part Astronaut Female Leg)</Value>
+      <Value>Body Part Astronaut Female Leg L</Value>
       <Description>A leg, is a leg, is a leg.</Description>
     </RecordThing>
     <RecordThing>
@@ -504,7 +504,7 @@ Just bolt it to a {THING:StructureBench} using a {THING:ItemWrench} to power it,
     </RecordThing>
     <RecordThing>
       <Key>BodyPartAstronautMaleArmL</Key>
-      <Value>Body Part Astronaut Male Arm)</Value>
+      <Value>Body Part Astronaut Male Arm L</Value>
       <Description>Your arm is your fourth most important body part.</Description>
     </RecordThing>
     <RecordThing>
@@ -1402,7 +1402,7 @@ Careful not to pressurize beyond 10MPa, or it may go 'bang'.</Descript
     <RecordThing>
       <Key>ItemLabeller</Key>
       <Value>Labeller</Value>
-      <Description>The {LINK:Stationeers;Stationeer's} best friend, a labeller lets you set names and values on a variety of devices and structures, including {THING:StructureConsole} and {LINK:LogicPage;Logic}.</Description>
+      <Description>A labeller lets you set names and values on a variety of devices and structures, including {THING:StructureConsole} and {LINK:LogicPage;Logic}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemLightSword</Key>
@@ -6369,6 +6369,11 @@ NOTE: altering stack sizes DOES NOT update existing stacks within the machine, o
       <Description>Grow a {THING:ItemFern}.</Description>
     </RecordThing>
     <RecordThing>
+      <Key>SeedBag_Mushroom</Key>
+      <Value>Mushroom Seeds</Value>
+      <Description>Grow a {THING:ItemMushroom}.</Description>
+    </RecordThing>
+    <RecordThing>
       <Key>Fertilizer</Key>
       <Value>Fertilizer</Value>
       <Description>Fertilizer alters plant growth processes, and is created by the basic composter and the {THING:StructureAdvancedComposter} using {LINK:OrganicPage;organic} matter.
@@ -7193,6 +7198,22 @@ Ejecting ore from the Combustion Centrifuge while it is at high RPMs will result
       <Value>Kit (Powered Chutes)</Value>
       <Description>This kit produces a variety of powered chutes</Description>
     </RecordThing>
+    <RecordThing>
+      <Key>ItemPlantSampler</Key>
+      <Value>Plant Sampler</Value>
+      <Description>The Plant Sampler allows you to take a {LINK:GeneticsPage;gene} sample of a growing plant. The sampler can then be placed in the {THING:AppliancePlantGeneticAnalyzer} to attain and interpret the results.</Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>AppliancePlantGeneticAnalyzer</Key>
+      <Value>Plant Genetic Analyzer</Value>
+      <Description>The Genetic Analyzer can be used to process samples from the {THING:ItemPlantSampler}. Once processed, the genetic information of the sampled plant can be viewed by clicking on the search button.
+
+Individual Gene Value Widgets: 
+Most gene values will appear as a sliding bar between a minimum value on the left and a maximum value on the right. The actual value of the gene is in the middle of the bar, in orange.
+
+Multiple Gene Value Widgets: 
+For temperature and pressure ranges, four genes appear on the same widget. The orange values underneath the bar are the minimum and maximum thresholds for growth. Outside of this range, the plant will stop growing and eventually die. The blue values underneath the bar are the minimum and maximum thresholds for ideal growth. Inside of this range, the plant will grow at maximum speed. The white values above the bar are the minimum and maximum achievable values for the growth threshold.</Description>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>
@@ -7916,6 +7937,14 @@ Ejecting ore from the Combustion Centrifuge while it is at high RPMs will result
   </Interactables>
   <Interface>
     <Record>
+      <Key>GeneticsHeader</Key>
+      <Value>Genes</Value>
+    </Record>
+    <Record>
+      <Key>GeneticDevices</Key>
+      <Value>Genetic Devices</Value>
+    </Record>
+    <Record>
       <Key>Throttle</Key>
       <Value>Throttle</Value>
     </Record>
@@ -8090,6 +8119,10 @@ Ejecting ore from the Combustion Centrifuge while it is at high RPMs will result
     <Record>
       <Key>AtmosDevices</Key>
       <Value>Atmospheric Devices</Value>
+    </Record>
+    <Record>
+      <Key>GeneticAppliences</Key>
+      <Value>Genetic Appliences</Value>
     </Record>
     <Record>
       <Key>FireArm</Key>
@@ -10495,6 +10528,10 @@ Ejecting ore from the Combustion Centrifuge while it is at high RPMs will result
       <Value>Trading Terminal</Value>
     </Record>
     <Record>
+      <Key>PanelPlantGeneticsTitle</Key>
+      <Value>Genetic Information</Value>
+    </Record>
+    <Record>
       <Key>TraderElectronics</Key>
       <Value>TechTree Electronics</Value>
     </Record>
@@ -12540,6 +12577,10 @@ Recruiting from civil engineering backgrounds, military and aerospace industries
       <Value>Organics and Food</Value>
     </Record>
     <Record>
+      <Key>GeneticsCategoryKey</Key>
+      <Value>Genetics</Value>
+    </Record>
+    <Record>
       <Key>StructureCategoryKey</Key>
       <Value>Structures</Value>
     </Record>
@@ -12848,6 +12889,10 @@ Recruiting from civil engineering backgrounds, military and aerospace industries
     <Record>
       <Key>StationpediaNutrition</Key>
       <Value>Nutrition:</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaGrowthTime</Key>
+      <Value>Growth Time:</Value>
     </Record>
     <Record>
       <Key>MoleOxygenDescription</Key>

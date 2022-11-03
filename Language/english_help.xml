@@ -284,6 +284,19 @@ Good luck, Cadet!
         There are some ores that will melt when exposed to sunlight or heat and produce {LINK:GasPage;gases}. For example {THING:ItemIce} melts into {GAS:Water} and {GAS:Oxygen}. Be careful to keep these out of heat or sunlight until you actually want them to melt.{LIST_OF_ORES}
       </Text>
     </StationpediaPage>
+
+      <StationpediaPage>
+          <Key>GeneticsPage</Key>
+          <Title>Genetics</Title>
+          <Text>Plants have a set of Genes that modifies its behavior. A plant's genes will be manipulated in a number of ways, both naturally as well as artificially. When a plant produces fruit or seeds it will pass on its genetics with a small random mutation.
+
+On top of random mutations, a plant's condition over its life can also affect its genes - for example if a plant is starved of water, while it may affect the plants growth speed and yield, the offspring will receive genes that make it require less water. In this way you can manipulate your crop's ideal conditions.
+
+There are a number of tools you will need to manage your crops effectively: {THING:ItemPlantSampler} and {THING:AppliancePlantGeneticAnalyzer}. These tools allow you to sample a growing plant and see the state of its genes.
+
+Plant genetics is not an exact science and will require trial and error and repeated attempts before you are able to reach your targets. {LIST_OF_GENES} {LIST_OF_GENETIC_DEVICES}
+          </Text>
+      </StationpediaPage>
     
     <StationpediaPage>
       <Key>IngotPage</Key>
