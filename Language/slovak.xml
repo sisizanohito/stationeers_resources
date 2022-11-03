@@ -2255,6 +2255,10 @@
       <Value>Rocket Engine</Value>
     </RecordThing>
     <RecordThing>
+      <Key>SeedBag_Mushroom</Key>
+      <Value>Mushroom</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitAdvancedComposter</Key>
       <Value>Rocket Engine</Value>
     </RecordThing>
@@ -2285,6 +2289,10 @@
     <RecordThing>
       <Key>ItemKitStirlingEngine</Key>
       <Value>Rocket Engine</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>AppliancePlantGeneticAnalyzer</Key>
+      <Value>Kártridž (Analyzér Zdravia)</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -2453,6 +2461,10 @@
   </Interactables>
   <Interface>
     <Record>
+      <Key>GeneticDevices</Key>
+      <Value>No Device</Value>
+    </Record>
+    <Record>
       <Key>RespawnConditionStationeer</Key>
       <Value>Opustiť Stationeers</Value>
     </Record>
@@ -2495,6 +2507,10 @@
     <Record>
       <Key>AtmosDevices</Key>
       <Value>Atmosphere</Value>
+    </Record>
+    <Record>
+      <Key>GeneticAppliences</Key>
+      <Value>Change Appearance</Value>
     </Record>
     <Record>
       <Key>MainMenuNewWorld</Key>

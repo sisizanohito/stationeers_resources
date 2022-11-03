@@ -4839,6 +4839,10 @@
       <Value/>
     </RecordThing>
     <RecordThing>
+      <Key>SeedBag_Mushroom</Key>
+      <Value>Mantar</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitAdvancedComposter</Key>
       <Value/>
     </RecordThing>
@@ -4993,6 +4997,10 @@
     <RecordThing>
       <Key>KitStructureCombustionCentrifuge</Key>
       <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>AppliancePlantGeneticAnalyzer</Key>
+      <Value>Tıbbi Analiz Cihazı</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -5709,6 +5717,10 @@
   </Interactables>
   <Interface>
     <Record>
+      <Key>GeneticDevices</Key>
+      <Value>Mantık Cihazları</Value>
+    </Record>
+    <Record>
       <Key>RespawnConditionStationeer</Key>
       <Value>Stationeers</Value>
     </Record>
@@ -5831,6 +5843,10 @@
     <Record>
       <Key>AtmosDevices</Key>
       <Value>Atmosferik Cihazlar</Value>
+    </Record>
+    <Record>
+      <Key>GeneticAppliences</Key>
+      <Value>Aletler</Value>
     </Record>
     <Record>
       <Key>FireArm</Key>

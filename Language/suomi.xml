@@ -390,14 +390,6 @@
       <Value>Body Part Astronaut Female Arm L</Value>
     </RecordThing>
     <RecordThing>
-      <Key>BodyPartAstronautFemaleLegL</Key>
-      <Value>Body Part Astronaut Female Leg L</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>BodyPartAstronautMaleArmL</Key>
-      <Value>Body Part Astronaut Male Arm L</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>BodyPartAstronautMaleLegL</Key>
       <Value>Body Part Astronaut Male Leg L</Value>
     </RecordThing>
@@ -3905,6 +3897,10 @@
       <Value>Rakettimoottori</Value>
     </RecordThing>
     <RecordThing>
+      <Key>SeedBag_Mushroom</Key>
+      <Value>Sieni</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitAdvancedComposter</Key>
       <Value>Rakettimoottori</Value>
     </RecordThing>
@@ -3935,6 +3931,10 @@
     <RecordThing>
       <Key>ItemKitStirlingEngine</Key>
       <Value>Rakettimoottori</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>AppliancePlantGeneticAnalyzer</Key>
+      <Value>Kasetti (lääkintäanalysaattori)</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -4623,6 +4623,10 @@
   </Interactables>
   <Interface>
     <Record>
+      <Key>GeneticDevices</Key>
+      <Value>Ei Laitetta</Value>
+    </Record>
+    <Record>
       <Key>RespawnConditionStationeer</Key>
       <Value>Lopeta Stationeers</Value>
     </Record>
@@ -4665,6 +4669,10 @@
     <Record>
       <Key>AtmosDevices</Key>
       <Value>Ilmakehä</Value>
+    </Record>
+    <Record>
+      <Key>GeneticAppliences</Key>
+      <Value>Muokkaa ulkonäköä</Value>
     </Record>
     <Record>
       <Key>MainMenuNewWorld</Key>

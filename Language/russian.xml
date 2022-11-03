@@ -5277,6 +5277,10 @@
       <Value>Семена папоротника</Value>
     </RecordThing>
     <RecordThing>
+      <Key>SeedBag_Mushroom</Key>
+      <Value>Гриб</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>Fertilizer</Key>
       <Value>Удобрение</Value>
     </RecordThing>
@@ -5455,6 +5459,14 @@
     <RecordThing>
       <Key>ItemKitStandardChute</Key>
       <Value>Этот комплект производит ряд труб для жидкостей.</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemPlantSampler</Key>
+      <Value>Вазон</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>AppliancePlantGeneticAnalyzer</Key>
+      <Value>Медицинский анализатор</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -6167,6 +6179,10 @@
   </Interactables>
   <Interface>
     <Record>
+      <Key>GeneticDevices</Key>
+      <Value>Логические Устройства</Value>
+    </Record>
+    <Record>
       <Key>RespawnConditionStationeer</Key>
       <Value>Станционеры</Value>
     </Record>
@@ -6313,6 +6329,10 @@
     <Record>
       <Key>AtmosDevices</Key>
       <Value>Устройства для контроля атмосферы</Value>
+    </Record>
+    <Record>
+      <Key>GeneticAppliences</Key>
+      <Value>Внешний вид</Value>
     </Record>
     <Record>
       <Key>FireArm</Key>

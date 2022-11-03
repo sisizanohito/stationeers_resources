@@ -5176,6 +5176,10 @@
       <Value>Semillas de helechos</Value>
     </RecordThing>
     <RecordThing>
+      <Key>SeedBag_Mushroom</Key>
+      <Value>Seta</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>Fertilizer</Key>
       <Value>Fertilizante</Value>
     </RecordThing>
@@ -5774,6 +5778,14 @@
     <RecordThing>
       <Key>ItemKitStandardChute</Key>
       <Value>Kit (Conductos motorizados)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemPlantSampler</Key>
+      <Value>Jardinera</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>AppliancePlantGeneticAnalyzer</Key>
+      <Value>Analizador Médico</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -6478,6 +6490,10 @@
   </Interactables>
   <Interface>
     <Record>
+      <Key>GeneticDevices</Key>
+      <Value>Dispositivos lógicos</Value>
+    </Record>
+    <Record>
       <Key>Throttle</Key>
       <Value>Acelerador</Value>
     </Record>
@@ -6640,6 +6656,10 @@
     <Record>
       <Key>AtmosDevices</Key>
       <Value>Dispositivos atmosféricos</Value>
+    </Record>
+    <Record>
+      <Key>GeneticAppliences</Key>
+      <Value>Electrodomésticos</Value>
     </Record>
     <Record>
       <Key>FireArm</Key>

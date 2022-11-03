@@ -4545,6 +4545,10 @@
       <Value>シダの種</Value>
     </RecordThing>
     <RecordThing>
+      <Key>SeedBag_Mushroom</Key>
+      <Value>きのこ</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>Fertilizer</Key>
       <Value>肥料</Value>
     </RecordThing>
@@ -4631,6 +4635,10 @@
     <RecordThing>
       <Key>ItemKitStandardChute</Key>
       <Value>このキットは、さまざまな液体パイプを製作します。</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>AppliancePlantGeneticAnalyzer</Key>
+      <Value>メディカル分析器</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -5351,6 +5359,10 @@
   </Interactables>
   <Interface>
     <Record>
+      <Key>GeneticDevices</Key>
+      <Value>ロジックデバイス</Value>
+    </Record>
+    <Record>
       <Key>RespawnConditionStationeer</Key>
       <Value>Stationeers</Value>
     </Record>
@@ -5433,6 +5445,10 @@
     <Record>
       <Key>AtmosDevices</Key>
       <Value>空調機器</Value>
+    </Record>
+    <Record>
+      <Key>GeneticAppliences</Key>
+      <Value>小型機器</Value>
     </Record>
     <Record>
       <Key>FireArm</Key>

@@ -427,6 +427,14 @@
       <Value>Body Part Astronaut Female Arm)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>BodyPartAstronautFemaleLegL</Key>
+      <Value>Body Part Astronaut Female Leg)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>BodyPartAstronautMaleArmL</Key>
+      <Value>Body Part Astronaut Male Arm)</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>BodyPartGraylienArmL</Key>
       <Value>Body Part Graylien Arm L </Value>
     </RecordThing>
@@ -4022,6 +4030,10 @@
       <Value>Nasiona Kukurydzy</Value>
     </RecordThing>
     <RecordThing>
+      <Key>SeedBag_Mushroom</Key>
+      <Value>Grzyb</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitAdvancedComposter</Key>
       <Value>Silnik Rakietowy (Duzy)</Value>
     </RecordThing>
@@ -4092,6 +4104,10 @@
     <RecordThing>
       <Key>ItemKitStandardChute</Key>
       <Value>Zestaw ten wytwarza szereg rur cieczowych.</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>AppliancePlantGeneticAnalyzer</Key>
+      <Value>Kartridz (Analizator Medyczny)</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -4812,6 +4828,10 @@
   </Interactables>
   <Interface>
     <Record>
+      <Key>GeneticDevices</Key>
+      <Value>Urządzenia Logiczne</Value>
+    </Record>
+    <Record>
       <Key>RespawnConditionStationeer</Key>
       <Value>Stationeers</Value>
     </Record>
@@ -4966,6 +4986,10 @@
     <Record>
       <Key>AtmosDevices</Key>
       <Value>Urządzenia Atmosferyczne</Value>
+    </Record>
+    <Record>
+      <Key>GeneticAppliences</Key>
+      <Value>Urządzenia</Value>
     </Record>
     <Record>
       <Key>FireArm</Key>

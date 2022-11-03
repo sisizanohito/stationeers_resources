@@ -5260,6 +5260,10 @@
       <Value>Farnsamen</Value>
     </RecordThing>
     <RecordThing>
+      <Key>SeedBag_Mushroom</Key>
+      <Value>Pilz</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>Fertilizer</Key>
       <Value>Dünger</Value>
     </RecordThing>
@@ -5858,6 +5862,14 @@
     <RecordThing>
       <Key>ItemKitStandardChute</Key>
       <Value>Bausatz (Elektrische Schächte)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemPlantSampler</Key>
+      <Value>Pflanzenbehälter</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>AppliancePlantGeneticAnalyzer</Key>
+      <Value>Kassette (Analyse: Medizinisch)</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -6558,6 +6570,10 @@
   </Interactables>
   <Interface>
     <Record>
+      <Key>GeneticDevices</Key>
+      <Value>Logikgeräte</Value>
+    </Record>
+    <Record>
       <Key>Throttle</Key>
       <Value>Drosselung</Value>
     </Record>
@@ -6724,6 +6740,10 @@
     <Record>
       <Key>AtmosDevices</Key>
       <Value>Lüftungen</Value>
+    </Record>
+    <Record>
+      <Key>GeneticAppliences</Key>
+      <Value>Apparate</Value>
     </Record>
     <Record>
       <Key>FireArm</Key>

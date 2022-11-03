@@ -4009,6 +4009,10 @@
       <Value>Motore a razzo</Value>
     </RecordThing>
     <RecordThing>
+      <Key>SeedBag_Mushroom</Key>
+      <Value>Fungo</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitAdvancedComposter</Key>
       <Value>Motore a razzo</Value>
     </RecordThing>
@@ -4039,6 +4043,10 @@
     <RecordThing>
       <Key>ItemKitStirlingEngine</Key>
       <Value>Motore a razzo</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>AppliancePlantGeneticAnalyzer</Key>
+      <Value>Cartuccia (Analisi Medica)</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -4615,6 +4623,10 @@
   </Interactables>
   <Interface>
     <Record>
+      <Key>GeneticDevices</Key>
+      <Value>Nessun dispositivo</Value>
+    </Record>
+    <Record>
       <Key>RespawnConditionStationeer</Key>
       <Value>Esci da Stationeers</Value>
     </Record>
@@ -4657,6 +4669,10 @@
     <Record>
       <Key>AtmosDevices</Key>
       <Value>Atmosfera</Value>
+    </Record>
+    <Record>
+      <Key>GeneticAppliences</Key>
+      <Value>Aspetto</Value>
     </Record>
     <Record>
       <Key>MainMenuNewWorld</Key>

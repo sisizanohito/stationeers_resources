@@ -4996,6 +4996,10 @@
       <Value/>
     </RecordThing>
     <RecordThing>
+      <Key>SeedBag_Mushroom</Key>
+      <Value>蘑菇</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitAdvancedComposter</Key>
       <Value>Creates a {THING:StructureRocketModuleSilo}.</Value>
     </RecordThing>
@@ -5138,6 +5142,10 @@
     <RecordThing>
       <Key>KitStructureCombustionCentrifuge</Key>
       <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>AppliancePlantGeneticAnalyzer</Key>
+      <Value>晶片 (醫療分析)</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -5846,6 +5854,10 @@
   </Interactables>
   <Interface>
     <Record>
+      <Key>GeneticDevices</Key>
+      <Value>邏輯裝置</Value>
+    </Record>
+    <Record>
       <Key>RespawnConditionStationeer</Key>
       <Value>Stationeers</Value>
     </Record>
@@ -5988,6 +6000,10 @@
     <Record>
       <Key>AtmosDevices</Key>
       <Value>大氣設備</Value>
+    </Record>
+    <Record>
+      <Key>GeneticAppliences</Key>
+      <Value>小型設備</Value>
     </Record>
     <Record>
       <Key>FireArm</Key>

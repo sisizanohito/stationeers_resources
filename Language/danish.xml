@@ -947,6 +947,10 @@
   </Interactables>
   <Interface>
     <Record>
+      <Key>GeneticDevices</Key>
+      <Value>Atmosfæriske Enheder</Value>
+    </Record>
+    <Record>
       <Key>WallFloorCategory</Key>
       <Value>Vægge og Gulve</Value>
     </Record>
@@ -1041,6 +1045,10 @@
     <Record>
       <Key>AtmosDevices</Key>
       <Value>Atmosfæriske Enheder</Value>
+    </Record>
+    <Record>
+      <Key>GeneticAppliences</Key>
+      <Value>Apparater</Value>
     </Record>
     <Record>
       <Key>FireArm</Key>

@@ -4748,6 +4748,10 @@
       <Value/>
     </RecordThing>
     <RecordThing>
+      <Key>SeedBag_Mushroom</Key>
+      <Value>Gomba</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitAdvancedComposter</Key>
       <Value>Elkészít egy {THING:StructureRocketModuleSilo}-t.</Value>
     </RecordThing>
@@ -4906,6 +4910,10 @@
     <RecordThing>
       <Key>ItemKitStandardChute</Key>
       <Value>Ezzel a készlettel különféle folyadékcsöveket készíthetsz.</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>AppliancePlantGeneticAnalyzer</Key>
+      <Value>Kártya (Egészségügyi diagnosztika)</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -5490,6 +5498,10 @@
   </Interactables>
   <Interface>
     <Record>
+      <Key>GeneticDevices</Key>
+      <Value>Logikai eszközök</Value>
+    </Record>
+    <Record>
       <Key>RespawnConditionStationeer</Key>
       <Value>Stationeers</Value>
     </Record>
@@ -5640,6 +5652,10 @@
     <Record>
       <Key>AtmosDevices</Key>
       <Value>Atmoszferikai eszközök</Value>
+    </Record>
+    <Record>
+      <Key>GeneticAppliences</Key>
+      <Value>Készülékek</Value>
     </Record>
     <Record>
       <Key>FireArm</Key>

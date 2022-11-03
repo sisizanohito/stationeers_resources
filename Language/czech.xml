@@ -5316,6 +5316,10 @@ Rychlost získávání nebo ztráty tepla závisí na dané kapalině. Přidán�
       <Value>Semena kapradin</Value>
     </RecordThing>
     <RecordThing>
+      <Key>SeedBag_Mushroom</Key>
+      <Value>Houba</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>Fertilizer</Key>
       <Value>Hnojivo</Value>
     </RecordThing>
@@ -5806,6 +5810,14 @@ Rychlost získávání nebo ztráty tepla závisí na dané kapalině. Přidán�
     <RecordThing>
       <Key>ItemKitStandardChute</Key>
       <Value>Tato sada vytváří řadu potrubí na kapaliny.</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemPlantSampler</Key>
+      <Value>Sázeč</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>AppliancePlantGeneticAnalyzer</Key>
+      <Value>Zdravotní analyzátor</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -6506,6 +6518,10 @@ Rychlost získávání nebo ztráty tepla závisí na dané kapalině. Přidán�
   </Interactables>
   <Interface>
     <Record>
+      <Key>GeneticDevices</Key>
+      <Value>Logická zařízení</Value>
+    </Record>
+    <Record>
       <Key>RespawnConditionEasy</Key>
       <Value>Snadný</Value>
     </Record>
@@ -6668,6 +6684,10 @@ Rychlost získávání nebo ztráty tepla závisí na dané kapalině. Přidán�
     <Record>
       <Key>AtmosDevices</Key>
       <Value>Atmosférická zařízení</Value>
+    </Record>
+    <Record>
+      <Key>GeneticAppliences</Key>
+      <Value>Spotřebiče</Value>
     </Record>
     <Record>
       <Key>FireArm</Key>

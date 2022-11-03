@@ -5369,6 +5369,10 @@
       <Value>蕨类种子</Value>
     </RecordThing>
     <RecordThing>
+      <Key>SeedBag_Mushroom</Key>
+      <Value>蘑菇</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>Fertilizer</Key>
       <Value>肥料</Value>
     </RecordThing>
@@ -5899,6 +5903,14 @@
     <RecordThing>
       <Key>ItemKitStandardChute</Key>
       <Value>此套件可生产一系列液体管道。</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemPlantSampler</Key>
+      <Value>花盆</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>AppliancePlantGeneticAnalyzer</Key>
+      <Value>芯片（医疗分析仪）</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -6623,6 +6635,10 @@
   </Interactables>
   <Interface>
     <Record>
+      <Key>GeneticDevices</Key>
+      <Value>Logic设备</Value>
+    </Record>
+    <Record>
       <Key>Throttle</Key>
       <Value>节流阀</Value>
     </Record>
@@ -6793,6 +6809,10 @@
     <Record>
       <Key>AtmosDevices</Key>
       <Value>大气设备</Value>
+    </Record>
+    <Record>
+      <Key>GeneticAppliences</Key>
+      <Value>电器设备</Value>
     </Record>
     <Record>
       <Key>FireArm</Key>

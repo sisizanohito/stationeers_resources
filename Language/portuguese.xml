@@ -4259,6 +4259,10 @@
       <Value>Motor de Foguete</Value>
     </RecordThing>
     <RecordThing>
+      <Key>SeedBag_Mushroom</Key>
+      <Value>Cogumelo</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitAdvancedComposter</Key>
       <Value>Motor de Foguete</Value>
     </RecordThing>
@@ -4289,6 +4293,10 @@
     <RecordThing>
       <Key>ItemKitStirlingEngine</Key>
       <Value>Motor de Foguete</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>AppliancePlantGeneticAnalyzer</Key>
+      <Value>Cartucho (Analisador Médico)</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -4997,6 +5005,10 @@
   </Interactables>
   <Interface>
     <Record>
+      <Key>GeneticDevices</Key>
+      <Value>Sem Dispositivo</Value>
+    </Record>
+    <Record>
       <Key>RespawnConditionStationeer</Key>
       <Value>Sair do Stationeers</Value>
     </Record>
@@ -5063,6 +5075,10 @@
     <Record>
       <Key>AtmosDevices</Key>
       <Value>Atmosfera</Value>
+    </Record>
+    <Record>
+      <Key>GeneticAppliences</Key>
+      <Value>Aparência</Value>
     </Record>
     <Record>
       <Key>PowerTools</Key>

@@ -5209,6 +5209,10 @@
       <Value>Graine (Fougère)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>SeedBag_Mushroom</Key>
+      <Value>Champignon</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>Fertilizer</Key>
       <Value>Engrais</Value>
     </RecordThing>
@@ -5679,6 +5683,14 @@
     <RecordThing>
       <Key>ItemKitStandardChute</Key>
       <Value>Ce kit produit différent tuyaux pour les liquides.</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemPlantSampler</Key>
+      <Value>Pot de culture</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>AppliancePlantGeneticAnalyzer</Key>
+      <Value>Carte (Analyseur Médical)</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -6387,6 +6399,10 @@
   </Interactables>
   <Interface>
     <Record>
+      <Key>GeneticDevices</Key>
+      <Value>Unités Logiques</Value>
+    </Record>
+    <Record>
       <Key>Throttle</Key>
       <Value>Manette de gaz</Value>
     </Record>
@@ -6553,6 +6569,10 @@
     <Record>
       <Key>AtmosDevices</Key>
       <Value>Appareils atmosphériques</Value>
+    </Record>
+    <Record>
+      <Key>GeneticAppliences</Key>
+      <Value>Appareils</Value>
     </Record>
     <Record>
       <Key>FireArm</Key>
