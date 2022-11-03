@@ -6491,7 +6491,7 @@
   <Interface>
     <Record>
       <Key>GeneticDevices</Key>
-      <Value>Dispositivos lógicos</Value>
+      <Value>Dispositivos genéticos</Value>
     </Record>
     <Record>
       <Key>Throttle</Key>
@@ -6659,7 +6659,7 @@
     </Record>
     <Record>
       <Key>GeneticAppliences</Key>
-      <Value>Electrodomésticos</Value>
+      <Value>Aplicaciones genéticas</Value>
     </Record>
     <Record>
       <Key>FireArm</Key>
@@ -8882,6 +8882,10 @@ Es una ley universal inquebrantable que cualquier cosa superior a 11 será púrp
       <Value>Terminal de comercio</Value>
     </Record>
     <Record>
+      <Key>PanelPlantGeneticsTitle</Key>
+      <Value>Información genética</Value>
+    </Record>
+    <Record>
       <Key>TraderElectronics</Key>
       <Value>TechTree Electrónica</Value>
     </Record>
@@ -10682,6 +10686,10 @@ Reclutando de fondos de ingeniería civil, industrias militares y aeroespaciales
       <Value>Orgánicos y alimentos</Value>
     </Record>
     <Record>
+      <Key>GeneticsCategoryKey</Key>
+      <Value>Genetica</Value>
+    </Record>
+    <Record>
       <Key>StructureCategoryKey</Key>
       <Value>Estructuras</Value>
     </Record>
@@ -10961,6 +10969,10 @@ Reclutando de fondos de ingeniería civil, industrias militares y aeroespaciales
     <Record>
       <Key>StationpediaNutrition</Key>
       <Value>Nutrición:</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaGrowthTime</Key>
+      <Value>Tiempo de crecimiento:</Value>
     </Record>
     <Record>
       <Key>MoleOxygenDescription</Key>
