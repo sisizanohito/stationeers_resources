@@ -346,7 +346,7 @@
     </RecordThing>
     <RecordThing>
       <Key>BodyPartAstronautFemaleLegL</Key>
-      <Value>Pierna izquierda de la mujer astronauta</Value>
+      <Value>Parte del cuerpo Astronauta Pierna femenina L</Value>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartAstronautFemaleLegR</Key>
@@ -358,7 +358,7 @@
     </RecordThing>
     <RecordThing>
       <Key>BodyPartAstronautMaleArmL</Key>
-      <Value>Brazo izquierdo del hombre astronauta</Value>
+      <Value>Parte del cuerpo Astronauta Brazo masculino L</Value>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartAstronautMaleArmR</Key>
@@ -5177,7 +5177,7 @@
     </RecordThing>
     <RecordThing>
       <Key>SeedBag_Mushroom</Key>
-      <Value>Seta</Value>
+      <Value>Semillas de hongos</Value>
     </RecordThing>
     <RecordThing>
       <Key>Fertilizer</Key>
@@ -5781,11 +5781,11 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemPlantSampler</Key>
-      <Value>Jardinera</Value>
+      <Value>Muestreador de plantas</Value>
     </RecordThing>
     <RecordThing>
       <Key>AppliancePlantGeneticAnalyzer</Key>
-      <Value>Analizador Médico</Value>
+      <Value>Analizador Genético de Plantas</Value>
     </RecordThing>
   </Things>
   <Slots>

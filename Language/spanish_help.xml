@@ -210,6 +210,17 @@ Esta es la configuración básica. Para automatizarlo, necesitará un analizador
       </Text>
     </StationpediaPage>
     <StationpediaPage>
+      <Key>GeneticsPage</Key>
+      <Title>Genetica</Title>
+      <Text>Las plantas tienen un conjunto de genes que modifica su comportamiento. Los genes de una planta serán manipulados de varias maneras, tanto de forma natural como artificial. Cuando una planta produce frutos o semillas, transmitirá su genética con una pequeña mutación aleatoria.
+
+Además de las mutaciones aleatorias, la condición de una planta a lo largo de su vida también puede afectar sus genes, por ejemplo, si una planta carece de agua, mientras que puede afectar la velocidad de crecimiento y el rendimiento de las plantas, la descendencia recibirá genes que hacen que requiera menos agua. De esta manera puedes manipular las condiciones ideales de tu cultivo.
+
+Hay una serie de herramientas que necesitará para administrar sus cultivos de manera efectiva: {THING:ItemPlantSampler} y {THING:AppliancePlantGeneticAnalyzer}. Estas herramientas le permiten tomar muestras de una planta en crecimiento y ver el estado de sus genes.
+
+La genética vegetal no es una ciencia exacta y requerirá prueba y error e intentos repetidos antes de que pueda alcanzar sus objetivos. {LIST_OF_GENES} {LIST_OF_GENETIC_DEVICES}          </Text>
+    </StationpediaPage>
+    <StationpediaPage>
       <Key>IngotPage</Key>
       <Title>Lingotes</Title>
       <Text>Estos son artículos que están típicamente hechos de {LINK:SmeltingPage;Smelting} {LINK:OrePage;ores}.Para usarlos en {LINK:FabricatorPage;fabricators}.
