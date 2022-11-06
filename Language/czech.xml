@@ -6522,6 +6522,10 @@ Rychlost získávání nebo ztráty tepla závisí na dané kapalině. Přidán�
       <Value>Logická zařízení</Value>
     </Record>
     <Record>
+      <Key>CombustionLimiter</Key>
+      <Value>Omezovač spalování</Value>
+    </Record>
+    <Record>
       <Key>RespawnConditionEasy</Key>
       <Value>Snadný</Value>
     </Record>
@@ -6532,10 +6536,6 @@ Rychlost získávání nebo ztráty tepla závisí na dané kapalině. Přidán�
     <Record>
       <Key>RespawnConditionStationeer</Key>
       <Value>Stationeers</Value>
-    </Record>
-    <Record>
-      <Key>Rpm</Key>
-      <Value>Bpm</Value>
     </Record>
     <Record>
       <Key>Stress</Key>
@@ -6687,7 +6687,7 @@ Rychlost získávání nebo ztráty tepla závisí na dané kapalině. Přidán�
     </Record>
     <Record>
       <Key>GeneticAppliences</Key>
-      <Value>Genetické přístroje</Value>
+      <Value>Genetické aplikace</Value>
     </Record>
     <Record>
       <Key>FireArm</Key>
