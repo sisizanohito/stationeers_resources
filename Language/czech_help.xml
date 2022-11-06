@@ -511,9 +511,9 @@ Hnojivo mění růstové procesy rostlin a je vytvářeno pomocí {THING:Portabl
 
 - TEPLOTY - Chlazení zpomalí rozklad, ale mnoho potravin se poškodí vystavením extrémně nízkému tlaku a také extrémnímu teplu. Optimální teplota je 0 kelvinů (-272 C).
 
-- TYPU POTRAVINY - Každé &lt;color=#0080FFFF&gt;{LINK:OrganicPage;jídlo}&lt;/color&gt; má své vlastní vlastnosti rozkladu. Například {THING:ItemTomatoSoup} vydrží mnohem déle než {THING:ItemTomato}.
+- TYPU POTRAVINY - Každé &lt;color=#0080FFFF&gt;{LINK:OrganicPage;jídlo}&lt;/color&gt; má své vlastní dobu rozkladu. Například {THING:ItemTomatoSoup} vydrží mnohem déle než {THING:ItemTomato}.
 
-- TLAKU - Potraviny se rozkládají rychleji, když tlak klesne pod 1 atmosféru (101 kPa). Rozklad probíhá exponenciálně rychleji, jak se atmosféra blíží dokonalému vakuu. Vyšší tlaky nemají žádný vliv. 
+- TLAKU - Potraviny se rozkládají rychleji, když tlak klesne pod 1 atmosféru (101 kPa). Rozklad probíhá exponenciálně rychleji, jak se atmosféra blíží dokonalému vakuu. Vyšší tlaky nemají žádný vliv na rozklad. 
 
 - ATMOSFÉRY - Různé plyny mohou zpomalovat a urychlovat proces rozkladu. Proces při výpočtu modifikátoru rozpadu zohledňuje příslušné poměry plynů ve smíšených atmosférách. Pro všechny potraviny platí následující poměry:
 
