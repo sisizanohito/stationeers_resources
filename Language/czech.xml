@@ -10886,6 +10886,10 @@ Program Stationeers je otevřen všem lidem, a to jak z oblasti stavebního inž
       <Value>Organika a jídlo</Value>
     </Record>
     <Record>
+      <Key>GeneticsCategoryKey</Key>
+      <Value>Genetika</Value>
+    </Record>
+    <Record>
       <Key>StructureCategoryKey</Key>
       <Value>Struktury</Value>
     </Record>
@@ -11117,6 +11121,14 @@ Program Stationeers je otevřen všem lidem, a to jak z oblasti stavebního inž
       <Value>Čas</Value>
     </Record>
     <Record>
+      <Key>LogicTypeEnvironmentEfficiency</Key>
+      <Value>Efektivita prostředí hlášená strojem je mezi 0 a 1</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeWorkingGasEfficiency</Key>
+      <Value>Účinnost pracovního plynu hlášená strojem je mezi 0 a 1</Value>
+    </Record>
+    <Record>
       <Key>Pitch</Key>
       <Value>Hřiště</Value>
     </Record>
@@ -11181,6 +11193,10 @@ Program Stationeers je otevřen všem lidem, a to jak z oblasti stavebního inž
       <Value>Výživa:</Value>
     </Record>
     <Record>
+      <Key>StationpediaGrowthTime</Key>
+      <Value>Doba růstu:</Value>
+    </Record>
+    <Record>
       <Key>MoleOxygenDescription</Key>
       <Value>Kyslík poskytuje energii, když se uvolňuje při hoření, a také se váže s vodíkem za vzniku vody. Vytváří ho &lt;color=#0080FFFF&gt;{LINK:OrganicPage;rostliny}&lt;/color&gt; a také při zpracování {THING:ItemOxite}. Při nízkých teplotách je vysoce hořlavý.</Value>
     </Record>
@@ -11215,7 +11231,7 @@ Znečišťující látka má vysoké měrné teplo, což z ní činí vynikajíc
   
 Voda je pro &lt;color=#0080FFFF&gt;{LINK:OrganicPage;rostliny}&lt;/color&gt; rozhodující, aby zůstaly naživu a aby z ní rostlo &lt;color=#0080FFFF&gt;{LINK:NutritionPage;jídlo}&lt;/color&gt;. Je to také výjimečné chladivo s velmi vysokou měrnou tepelnou kapacitou.
 
-Poznámka: S vodou se dříve zacházelo jako s plynem, ale nyní se vyvíjí nový systém pro kapaliny, včetně samostatných potrubí, nádrží, čerpadel atd. pro kapaliny. Voda je v současné době jedinou dostupnou kapalinou a v současnosti nemění stavy.</Value>
+Poznámka: S vodou se dříve zacházelo jako s plynem, ale nyní se vyvíjí nový systém pro kapaliny, včetně samostatných potrubí, nádrží, čerpadel atd. pro kapaliny. Voda je v současné době jedinou dostupnou kapalinou a v současnosti nemění skupenství.</Value>
     </Record>
     <Record>
       <Key>MoleNitrousOxideDescription</Key>
