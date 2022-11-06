@@ -217,6 +217,17 @@ Hodně štěstí, kadete!
   </Text>
     </StationpediaPage>
     <StationpediaPage>
+      <Key>GeneticsPage</Key>
+      <Title>Genetika</Title>
+      <Text>Rostliny mají sadu genů, které modifikují jejich chování. Geny rostliny budou manipulovány mnoha způsoby, a to jak přirozeně, tak uměle. Když rostlina produkuje ovoce nebo semena, předá svou genetiku malou náhodnou mutací.
+
+Kromě náhodných mutací může stav rostliny během jejího života také ovlivnit její geny - například pokud rostlina trpí nedostatkem vody, zatímco to může ovlivnit rychlost růstu a úrodu rostlin, potomstvo obdrží geny, které způsobí, že bude vyžadovat méně vody. Tímto způsobem můžete manipulovat s ideálními podmínkami vaší plodiny.
+
+Existuje řada nástrojů, které budete potřebovat k efektivní správě plodin: {THING:ItemPlantSampler} a {THING:AppliancePlantGeneticAnalyzer}. Tyto nástroje vám umožní odebrat vzorky rostoucí rostliny a vidět stav jejích genů.
+
+Genetika rostlin není exaktní věda a bude vyžadovat pokus a omyl a opakované pokusy, než budete schopni dosáhnout svých cílů. {LIST_OF_GENES} {LIST_OF_GENETIC_DEVICES}          </Text>
+    </StationpediaPage>
+    <StationpediaPage>
       <Key>IngotPage</Key>
       <Title>Ingoty</Title>
       <Text>Jedná se o předměty, které se obvykle vyrábějí z {LINK:SmeltingPage;tavení} {LINK:OrePage;rudy} pro použití ve {LINK:FabricatorPage;fabrikátorech}.
@@ -546,7 +557,7 @@ Míru žízně lze upravit v hlavní nabídce nastavení nastavením posuvníku 
 
 Existuje několik obleků, včetně {THING:ItemEvaSuit} a obleku odolnějšího vůči tlaku a teplotě {THING:ItemHardSuit}.
 
-Různé údaje o vašem obleku jsou v pravém dolním rohu obrazovky. Stisknutím příslušné číselné klávesy (2 vyvoláte panel zobrazující jeho sloty a nastavení. Mezi ně patří:
+Různé údaje o vašem obleku jsou v pravém dolním rohu obrazovky. Stisknutím příslušné číselné klávesy (2 otevřete panel zobrazující jeho sloty a nastavení. Mezi ně patří:
 
 - Zapnutí/vypnutí klimatizace (tj. zapnutí/vypnutí regulace teploty)
 - Filtry zapnuto / vypnuto
@@ -558,14 +569,14 @@ Obleky obsahují 6-8 slotů:
 - Vzduchová nádrž (x1) - vložte kanystr nebo inteligentní kanystr obsahující směs dýchatelných plynů, např. O2 nebo dusík/kyslík 35/65.
 - Odpadní nádrž (x1) - shromažďuje plyny odstraněné filtry
 - Podpora života (x1) - obsahuje jednu baterii, která napájí klimatizaci, světla atd.
-- Filtry (x3) - vyžaduje alespoň jeden filtr CO2 (pokud je člověk), v závislosti na vaší směsi dýchacích plynů. Všimněte si, že {THING:ItemHardSuit} má 4 sloty na filtry.
+- Filtry (x3) - vyžaduje alespoň jeden filtr CO2 (pokud jste člověk), v závislosti na vaší směsi dýchatelného plynu. Všimněte si, že {THING:ItemHardSuit} má 4 sloty na filtry.
 - IC - pouze {THING:ItemHardSuit}.
 
 Tlak: měl by být nastaven na 50-100 KPa (0,5 až 1 pozemská atmosféra). Lidé ve hře snášejí až ~250 kPa a mohou přežít až ~300 kPA.
 
 Teplota: běžně se nastavuje na 18-21 °C, přičemž lidé ve hře dávají přednost 10-29 °C, snesou 0-39 °C a přežijí až 49 °C. Při vyšších teplotách bude vaše klimatizace spotřebovávat více energie z baterie na udržení vnitřní teploty.
 
-Filtry: Výchozím filtrem je filtr CO2, který zachycuje plyn vznikající při vydechování člověka. Pokud nepoužíváte 100% kyslík ve svém dýchacím plynu, přidejte další filtry, např. pokud smícháte 25% kyslíku + 75% dusíku, dusík se časem nahromadí ve vašem obleku a udusí vás, pokud nemáte dusíkový filtr. Pokud máte správné filtry a dýchací plyn, ale přesto máte problémy, použijte na své vesmírné přilbě funkci &quot;Vyprázdnit&quot;. Jakmile vaše filtry přestanou fungovat, ozve se varování o nízkém/kritickém obsahu kyslíku.
+Filtry: Výchozím filtrem je filtr CO2, který zachycuje plyn vznikající při vydechování člověka. Pokud nepoužíváte 100% kyslík ve svém dýchatlném plynu, přidejte další filtry, např. pokud smícháte 25% kyslíku + 75% dusíku, dusík se časem nahromadí ve vašem obleku a udusí vás, pokud nemáte dusíkový filtr. Pokud máte správné filtry a dýchací plyn, ale přesto máte problémy, použijte na své vesmírné přilbě funkci &quot;Vyprázdnit&quot;. Jakmile vaše filtry přestanou fungovat, ozve se varování o nízkém/kritickém obsahu kyslíku.
 
 V případě poškození lze skafandr opravit tak, že v ruce podržíte lepicí pásku a použijete tlačítko &quot;aktivovat&quot;.</Text>
     </StationpediaPage>
