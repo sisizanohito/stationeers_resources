@@ -6518,8 +6518,12 @@ Rychlost získávání nebo ztráty tepla závisí na dané kapalině. Přidán�
   </Interactables>
   <Interface>
     <Record>
+      <Key>GeneticsHeader</Key>
+      <Value>Geny</Value>
+    </Record>
+    <Record>
       <Key>GeneticDevices</Key>
-      <Value>Logická zařízení</Value>
+      <Value>Genetická zařízení</Value>
     </Record>
     <Record>
       <Key>CombustionLimiter</Key>
@@ -11266,8 +11270,12 @@ Poznámka: S vodou se dříve zacházelo jako s plynem, ale nyní se vyvíjí no
       <Value>Tepelné záření:</Value>
     </Record>
     <Record>
+      <Key>ScoreboardDaysLived</Key>
+      <Value>Přežito dnů</Value>
+    </Record>
+    <Record>
       <Key>WorldInfoButtonDeleteBackup</Key>
-      <Value>Odstranit</Value>
+      <Value>Odstranit zálohu</Value>
     </Record>
   </Interface>
   <Colors>
