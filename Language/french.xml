@@ -5682,7 +5682,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitStandardChute</Key>
-      <Value>Ce kit produit différent tuyaux pour les liquides.</Value>
+      <Value>Kit (gaines motorisées)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemPlantSampler</Key>
@@ -6399,8 +6399,12 @@
   </Interactables>
   <Interface>
     <Record>
+      <Key>GeneticsHeader</Key>
+      <Value>Gènes</Value>
+    </Record>
+    <Record>
       <Key>GeneticDevices</Key>
-      <Value>Unités Logiques</Value>
+      <Value>Dispositifs génétiques</Value>
     </Record>
     <Record>
       <Key>Throttle</Key>
@@ -6572,7 +6576,7 @@
     </Record>
     <Record>
       <Key>GeneticAppliences</Key>
-      <Value>Appareils</Value>
+      <Value>Applications génétiques</Value>
     </Record>
     <Record>
       <Key>FireArm</Key>
@@ -8776,6 +8780,10 @@ C’est une loi universelle inébranlable que tout ce qui dépasse 11 sera viole
       <Value>Terminal de vente</Value>
     </Record>
     <Record>
+      <Key>PanelPlantGeneticsTitle</Key>
+      <Value>Information génétique</Value>
+    </Record>
+    <Record>
       <Key>TraderElectronics</Key>
       <Value>Arbre technologique de l&apos;électronique</Value>
     </Record>
@@ -10591,6 +10599,10 @@ Le programme Stationeers, qui est fondamentalement ouvert à toute l’humanité
       <Value>Matières organiques et alimentaires</Value>
     </Record>
     <Record>
+      <Key>GeneticsCategoryKey</Key>
+      <Value>Génétique</Value>
+    </Record>
+    <Record>
       <Key>LogicCategoryKey</Key>
       <Value>Unités Logiques</Value>
     </Record>
@@ -10854,6 +10866,10 @@ Le programme Stationeers, qui est fondamentalement ouvert à toute l’humanité
     <Record>
       <Key>StationpediaNutrition</Key>
       <Value>Nutrition :</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaGrowthTime</Key>
+      <Value>Temps de croissance :</Value>
     </Record>
     <Record>
       <Key>MoleOxygenDescription</Key>
