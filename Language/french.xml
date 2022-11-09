@@ -5342,11 +5342,11 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitInsulatedWaterPipe</Key>
-      <Value/>
+      <Value>Kit (tuyau d’eau calfeutré)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitInsulatedLiquidPipe</Key>
-      <Value/>
+      <Value>Kit (tuyau de liquide calfeutré)</Value>
     </RecordThing>
     <RecordThing>
       <Key>InsulatedLiquidPipeCorner</Key>
