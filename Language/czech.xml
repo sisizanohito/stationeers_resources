@@ -11287,7 +11287,11 @@ Poznámka: S vodou se dříve zacházelo jako s plynem, ale nyní se vyvíjí no
     </Record>
     <Record>
       <Key>TradeErrorNoMotherboardInsertedTitle</Key>
-      <Value>Povolit automatické ukládání</Value>
+      <Value>Nelze obchodovat</Value>
+    </Record>
+    <Record>
+      <Key>TradeErrorNoMotherboardInsertedMessage</Key>
+      <Value>Připojený počítač vyžaduje, aby byla vložena komunikační základní deska, aby bylo možné obchodovat.</Value>
     </Record>
   </Interface>
   <Colors>
