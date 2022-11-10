@@ -775,6 +775,10 @@ Just bolt it to a {THING:StructureBench} using a {THING:ItemWrench} to power it,
 To enter setup mode, insert the board into a {THING:StructureConsole} along with a data disk. In this mode, you can see all data-accessible objects currently connected to the {THING:StructureConsole}. Doors, lights, gas sensors and slave consoles can be selected (highlighted green), and will be controlled once the data disk is removed.</Description>
     </RecordThing>
     <RecordThing>
+      <Key>ImGuiCircuitboardAirlockControl</Key>
+      <Value>Airlock (Experimental)</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>CircuitboardCameraDisplay</Key>
       <Value>Camera Display</Value>
       <Description>Surveillance is sometimes necessary when building bases in highly hostile environments. The camera display circuit board allows wary Stationeers to turn a {THING:StructureConsole} into a security display when connected to a {THING:StructureCamera}.</Description>
@@ -1033,7 +1037,7 @@ Normal coil has a maximum wattage of 5kW. For higher-current applications, use {
     <RecordThing>
       <Key>ItemCorn</Key>
       <Value>Corn</Value>
-      <Description />
+      <Description>A long growth time staple crop. Its low requirement for darkness allows for accelerated growing if provided with extra light.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemCrowbar</Key>
@@ -1718,7 +1722,7 @@ An upgraded version of the classic 'Zairo' model first manufactured by {LINK:ExM
     <RecordThing>
       <Key>ItemWheat</Key>
       <Value>Wheat</Value>
-      <Description>A classical symbol of growth and new life, wheat is grown in various {LINK:OrganicPage;hydroponics} devices. Once harvested, it produces two wheat, and can be turned into a {LINK:ReagentPage;flour} using the {THING:ApplianceReagentProcessor}, thence transmuted into sustenance like a {THING:ItemCerealBar} or {THING:ItemMuffin} using the {THING:ApplianceMicrowave}.</Description>
+      <Description>A classical symbol of growth and new life, wheat takes a moderate time to grow. Its main use is to create {LINK:ReagentPage;flour} using the {THING:ApplianceReagentProcessor}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWireCutters</Key>
@@ -2610,6 +2614,7 @@ Unlike the more advanced {THING:StructureFurnace}, the arc furnace cannot create
     <RecordThing>
       <Key>ItemSoybean</Key>
       <Value>Soybean</Value>
+	  <Description> Soybeans grow at a moderate rate, but require atmospheric {GAS:Nitrogen} to grow.  Its main use is to create {THING:ItemSoyOil}</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemAngleGrinder</Key>
@@ -2930,10 +2935,12 @@ Note that transformers operate as data isolators, preventing data flowing into a
     <RecordThing>
       <Key>ItemPotato</Key>
       <Value>Potato</Value>
+	        <Description> Potatoes are a simple, fast growing crop that can keep Stationeers alive in emergencies.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemTomato</Key>
       <Value>Tomato</Value>
+	  <Description>Tomato plants are perennial, and will produce multiple harvests without needing to be replanted. Once the plant is mature, it will fruit at a moderate pace.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureGasGenerator</Key>
@@ -3791,15 +3798,17 @@ Output = 1 exporting items inside and eventually the main item.</Description>
     <RecordThing>
       <Key>ItemMushroom</Key>
       <Value>Mushroom</Value>
-      <Description>A tasty food item. Unlike normal plants, it consumes {GAS:Oxygen} and outputs {GAS:CarbonDioxide} and will only grow when not in sunlight.</Description>
+      <Description>A tasty food item. Unlike normal plants, it consumes {GAS:Oxygen} and outputs {GAS:CarbonDioxide}. Mushrooms will only mature at a moderate rate in darkness, and prolonged light will kill it.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemPumpkin</Key>
       <Value>Pumpkin</Value>
+	  <Description>Pumpkins are a perennial plant, with both a long growth time, and a long time between harvests.  Its low requirement for darkness allows for accelerated growing if provided with extra light.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemRice</Key>
       <Value>Rice</Value>
+	  <Description>Rice grows at a moderate rate as long as its supplied with plenty of water.  Being more dependant on water, rice plants can easily die during periods of drought.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemPumpkinPie</Key>
@@ -6818,9 +6827,11 @@ Finished - 4
     <RecordThing>
       <Key>ItemLaptop</Key>
       <Value>Laptop</Value>
-      <Description>A portable IC editor, the {LINK:Norsec;Norsec} 'Slaptop' was designed for rugged use and abuse by intrepid {LINK:Stationeers;Stationeers} across the Solar System. While it will never replace the multifunctionality of the {THING:StructureComputer}, the Slaptop's low weight and portability have earned it a place in many an ODA operative's heart.
-      
-The Slaptop requires a {THING:MotherboardProgrammableChip} for operation.</Description>
+      <Description>The Laptop functions as a portable IC editor. To operate the Laptop it must be powered with a battery, have a {THING:MotherboardProgrammableChip} in the motherboard slot, and an {THING:ItemIntegratedCircuit10} in the Programmable Chip Slot.
+
+You must place the laptop down to interact with the onsreen UI.
+        
+</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemPlantEndothermic_Genepool1</Key>
@@ -12992,6 +13003,14 @@ Note: {GAS:Water} was previously treated as a gas, but a new system for liquids 
     <Record>
       <Key>WorldInfoButtonDeleteBackup</Key>
       <Value>Delete Backup</Value>
+    </Record>   
+    <Record>
+      <Key>TradeErrorNoMotherboardInsertedTitle</Key>
+      <Value>Unable to trade</Value>
+    </Record>    
+    <Record>
+      <Key>TradeErrorNoMotherboardInsertedMessage</Key>
+      <Value>The connected computer requires a comms motherboard to be inserted in order to trade.</Value>
     </Record>
   </Interface>
   <Colors>
