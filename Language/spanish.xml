@@ -573,6 +573,10 @@
       <Value>Esclusa de aire</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ImGuiCircuitboardAirlockControl</Key>
+      <Value>Esclusa de aire (experimental)</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>CircuitboardCameraDisplay</Key>
       <Value>Monitor Cámaras</Value>
     </RecordThing>
@@ -11069,7 +11073,11 @@ Nota: El agua se trataba anteriormente como un gas, pero se está desarrollando 
     </Record>
     <Record>
       <Key>TradeErrorNoMotherboardInsertedTitle</Key>
-      <Value>Habilitar Autoguardado</Value>
+      <Value>No se puede comerciar</Value>
+    </Record>
+    <Record>
+      <Key>TradeErrorNoMotherboardInsertedMessage</Key>
+      <Value>El ordenador conectado requiere que se inserte una placa base de comunicaciones para poder operar.</Value>
     </Record>
   </Interface>
   <Colors>
