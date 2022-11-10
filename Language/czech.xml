@@ -5317,7 +5317,7 @@ Rychlost získávání nebo ztráty tepla závisí na dané kapalině. Přidán�
     </RecordThing>
     <RecordThing>
       <Key>SeedBag_Mushroom</Key>
-      <Value>Houba</Value>
+      <Value>Vypěstuje {THING:ItemPotato}.</Value>
     </RecordThing>
     <RecordThing>
       <Key>Fertilizer</Key>
@@ -5810,14 +5810,6 @@ Rychlost získávání nebo ztráty tepla závisí na dané kapalině. Přidán�
     <RecordThing>
       <Key>ItemKitStandardChute</Key>
       <Value>Tato sada vytváří řadu potrubí na kapaliny.</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemPlantSampler</Key>
-      <Value>Sázeč</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>AppliancePlantGeneticAnalyzer</Key>
-      <Value>Zdravotní analyzátor</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -11292,6 +11284,10 @@ Poznámka: S vodou se dříve zacházelo jako s plynem, ale nyní se vyvíjí no
     <Record>
       <Key>WorldInfoButtonDeleteBackup</Key>
       <Value>Odstranit zálohu</Value>
+    </Record>
+    <Record>
+      <Key>TradeErrorNoMotherboardInsertedTitle</Key>
+      <Value>Povolit automatické ukládání</Value>
     </Record>
   </Interface>
   <Colors>

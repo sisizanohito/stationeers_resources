@@ -4545,10 +4545,6 @@
       <Value>シダの種</Value>
     </RecordThing>
     <RecordThing>
-      <Key>SeedBag_Mushroom</Key>
-      <Value>きのこ</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>Fertilizer</Key>
       <Value>肥料</Value>
     </RecordThing>
@@ -4635,10 +4631,6 @@
     <RecordThing>
       <Key>ItemKitStandardChute</Key>
       <Value>このキットは、さまざまな液体パイプを製作します。</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>AppliancePlantGeneticAnalyzer</Key>
-      <Value>メディカル分析器</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -7541,6 +7533,10 @@
     <Record>
       <Key>WorldInfoButtonDeleteBackup</Key>
       <Value>削除</Value>
+    </Record>
+    <Record>
+      <Key>TradeErrorNoMotherboardInsertedTitle</Key>
+      <Value>自動セーブを有効にする</Value>
     </Record>
   </Interface>
   <Colors>

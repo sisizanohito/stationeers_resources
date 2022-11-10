@@ -4009,10 +4009,6 @@
       <Value>Motore a razzo</Value>
     </RecordThing>
     <RecordThing>
-      <Key>SeedBag_Mushroom</Key>
-      <Value>Fungo</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemKitAdvancedComposter</Key>
       <Value>Motore a razzo</Value>
     </RecordThing>
@@ -4043,10 +4039,6 @@
     <RecordThing>
       <Key>ItemKitStirlingEngine</Key>
       <Value>Motore a razzo</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>AppliancePlantGeneticAnalyzer</Key>
-      <Value>Cartuccia (Analisi Medica)</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -7272,6 +7264,10 @@ Non essere triste quando ti farai saltare in aria in piccoli, piccolissimi pezzi
     <Record>
       <Key>WorldInfoButtonDeleteBackup</Key>
       <Value>Cancella</Value>
+    </Record>
+    <Record>
+      <Key>TradeErrorNoMotherboardInsertedTitle</Key>
+      <Value>Attiva salvataggio automatico</Value>
     </Record>
   </Interface>
   <Colors>

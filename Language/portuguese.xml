@@ -4259,10 +4259,6 @@
       <Value>Motor de Foguete</Value>
     </RecordThing>
     <RecordThing>
-      <Key>SeedBag_Mushroom</Key>
-      <Value>Cogumelo</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemKitAdvancedComposter</Key>
       <Value>Motor de Foguete</Value>
     </RecordThing>
@@ -4293,10 +4289,6 @@
     <RecordThing>
       <Key>ItemKitStirlingEngine</Key>
       <Value>Motor de Foguete</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>AppliancePlantGeneticAnalyzer</Key>
-      <Value>Cartucho (Analisador Médico)</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -8610,6 +8602,10 @@
     <Record>
       <Key>WorldInfoButtonDeleteBackup</Key>
       <Value>Apagar</Value>
+    </Record>
+    <Record>
+      <Key>TradeErrorNoMotherboardInsertedTitle</Key>
+      <Value>Gravação Automática</Value>
     </Record>
   </Interface>
   <Colors>

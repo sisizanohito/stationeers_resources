@@ -2255,10 +2255,6 @@
       <Value>Rocket Engine</Value>
     </RecordThing>
     <RecordThing>
-      <Key>SeedBag_Mushroom</Key>
-      <Value>Mushroom</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemKitAdvancedComposter</Key>
       <Value>Rocket Engine</Value>
     </RecordThing>
@@ -2289,10 +2285,6 @@
     <RecordThing>
       <Key>ItemKitStirlingEngine</Key>
       <Value>Rocket Engine</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>AppliancePlantGeneticAnalyzer</Key>
-      <Value>Kártridž (Analyzér Zdravia)</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -3706,6 +3698,10 @@ Just don&apos;t be sad when you blow yourself into tiny, tiny little pieces or g
     <Record>
       <Key>WorldInfoButtonDeleteBackup</Key>
       <Value>Odstrániť</Value>
+    </Record>
+    <Record>
+      <Key>TradeErrorNoMotherboardInsertedTitle</Key>
+      <Value>Zapnúť Autosave</Value>
     </Record>
   </Interface>
   <Colors>

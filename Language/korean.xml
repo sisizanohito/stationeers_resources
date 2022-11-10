@@ -3180,10 +3180,6 @@
       <Key>ItemKitStirlingEngine</Key>
       <Value>로켓 엔진</Value>
     </RecordThing>
-    <RecordThing>
-      <Key>AppliancePlantGeneticAnalyzer</Key>
-      <Value>카트리지 (의료 분석기)</Value>
-    </RecordThing>
   </Things>
   <Slots>
     <Record>
@@ -5694,6 +5690,10 @@ Just don&apos;t be sad when you blow yourself into tiny, tiny little pieces or g
     <Record>
       <Key>WorldInfoButtonDeleteBackup</Key>
       <Value>삭제</Value>
+    </Record>
+    <Record>
+      <Key>TradeErrorNoMotherboardInsertedTitle</Key>
+      <Value>자동저장 사용</Value>
     </Record>
   </Interface>
   <Colors>

@@ -1690,6 +1690,10 @@
       <Key>WorldInfoButtonDeleteBackup</Key>
       <Value>Șterge</Value>
     </Record>
+    <Record>
+      <Key>TradeErrorNoMotherboardInsertedTitle</Key>
+      <Value>Activează salvarea automată</Value>
+    </Record>
   </Interface>
   <Colors>
     <Record>

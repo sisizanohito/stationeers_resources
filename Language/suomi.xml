@@ -3897,10 +3897,6 @@
       <Value>Rakettimoottori</Value>
     </RecordThing>
     <RecordThing>
-      <Key>SeedBag_Mushroom</Key>
-      <Value>Sieni</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemKitAdvancedComposter</Key>
       <Value>Rakettimoottori</Value>
     </RecordThing>
@@ -3931,10 +3927,6 @@
     <RecordThing>
       <Key>ItemKitStirlingEngine</Key>
       <Value>Rakettimoottori</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>AppliancePlantGeneticAnalyzer</Key>
-      <Value>Kasetti (lääkintäanalysaattori)</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -6529,6 +6521,10 @@ Spawnaa mikä tahansa esine, testaa ideoita ja rakenna ihme juttuja todella nope
     <Record>
       <Key>WorldInfoButtonDeleteBackup</Key>
       <Value>Poista</Value>
+    </Record>
+    <Record>
+      <Key>TradeErrorNoMotherboardInsertedTitle</Key>
+      <Value>Automaattinen tallennus</Value>
     </Record>
   </Interface>
   <Colors>

@@ -5210,7 +5210,7 @@
     </RecordThing>
     <RecordThing>
       <Key>SeedBag_Mushroom</Key>
-      <Value>Champignon</Value>
+      <Value>Cultivez une {THING:ItemPotato}.</Value>
     </RecordThing>
     <RecordThing>
       <Key>Fertilizer</Key>
@@ -5683,14 +5683,6 @@
     <RecordThing>
       <Key>ItemKitStandardChute</Key>
       <Value>Kit (gaines motorisées)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemPlantSampler</Key>
-      <Value>Pot de culture</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>AppliancePlantGeneticAnalyzer</Key>
-      <Value>Carte (Analyseur Médical)</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -10963,6 +10955,10 @@ Remarque : l’eau était auparavant traitée comme un gaz, mais un nouveau syst
     <Record>
       <Key>WorldInfoButtonDeleteBackup</Key>
       <Value>Supprimer la sauvegarde de secours</Value>
+    </Record>
+    <Record>
+      <Key>TradeErrorNoMotherboardInsertedTitle</Key>
+      <Value>Activer la sauvegarde automatique</Value>
     </Record>
   </Interface>
   <Colors>

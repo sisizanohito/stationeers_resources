@@ -2856,14 +2856,6 @@
     <RecordThing>
       <Key>StructureRocketModuleMiningJunk</Key>
     </RecordThing>
-    <RecordThing>
-      <Key>SeedBag_Mushroom</Key>
-      <Value>Cogumelo</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>AppliancePlantGeneticAnalyzer</Key>
-      <Value>Analisador de Canos</Value>
-    </RecordThing>
   </Things>
   <Slots>
     <Record>
@@ -5238,6 +5230,10 @@
     <Record>
       <Key>WorldInfoButtonDeleteBackup</Key>
       <Value>Deletar</Value>
+    </Record>
+    <Record>
+      <Key>TradeErrorNoMotherboardInsertedTitle</Key>
+      <Value>Ativar Salvamento Automtico</Value>
     </Record>
   </Interface>
   <Colors>

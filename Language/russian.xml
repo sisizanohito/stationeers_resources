@@ -5278,7 +5278,7 @@
     </RecordThing>
     <RecordThing>
       <Key>SeedBag_Mushroom</Key>
-      <Value>Гриб</Value>
+      <Value>Выращивает {THING:ItemPotato}.</Value>
     </RecordThing>
     <RecordThing>
       <Key>Fertilizer</Key>
@@ -5459,14 +5459,6 @@
     <RecordThing>
       <Key>ItemKitStandardChute</Key>
       <Value>Этот комплект производит ряд труб для жидкостей.</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemPlantSampler</Key>
-      <Value>Вазон</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>AppliancePlantGeneticAnalyzer</Key>
-      <Value>Медицинский анализатор</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -10724,6 +10716,10 @@
     <Record>
       <Key>WorldInfoButtonDeleteBackup</Key>
       <Value>Удалить</Value>
+    </Record>
+    <Record>
+      <Key>TradeErrorNoMotherboardInsertedTitle</Key>
+      <Value>Включить автосохранение</Value>
     </Record>
   </Interface>
   <Colors>

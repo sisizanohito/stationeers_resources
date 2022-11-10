@@ -5370,7 +5370,7 @@
     </RecordThing>
     <RecordThing>
       <Key>SeedBag_Mushroom</Key>
-      <Value>蘑菇</Value>
+      <Value>种土豆用的</Value>
     </RecordThing>
     <RecordThing>
       <Key>Fertilizer</Key>
@@ -5903,14 +5903,6 @@
     <RecordThing>
       <Key>ItemKitStandardChute</Key>
       <Value>此套件可生产一系列液体管道。</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemPlantSampler</Key>
-      <Value>花盆</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>AppliancePlantGeneticAnalyzer</Key>
-      <Value>芯片（医疗分析仪）</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -11466,6 +11458,10 @@ Stationeers计划从土木工程从业人员、军事和航空航天工业、软
     <Record>
       <Key>WorldInfoButtonDeleteBackup</Key>
       <Value>删除备份</Value>
+    </Record>
+    <Record>
+      <Key>TradeErrorNoMotherboardInsertedTitle</Key>
+      <Value>启用自动保存</Value>
     </Record>
   </Interface>
   <Colors>

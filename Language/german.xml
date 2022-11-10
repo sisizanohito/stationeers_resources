@@ -5261,7 +5261,7 @@
     </RecordThing>
     <RecordThing>
       <Key>SeedBag_Mushroom</Key>
-      <Value>Pilz</Value>
+      <Value>Züchte eine {THING:ItemPotato}.</Value>
     </RecordThing>
     <RecordThing>
       <Key>Fertilizer</Key>
@@ -5862,14 +5862,6 @@
     <RecordThing>
       <Key>ItemKitStandardChute</Key>
       <Value>Bausatz (Elektrische Schächte)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemPlantSampler</Key>
-      <Value>Pflanzenbehälter</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>AppliancePlantGeneticAnalyzer</Key>
-      <Value>Kassette (Analyse: Medizinisch)</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -11100,6 +11092,10 @@ Hinweis: Wasser wurde früher wie Gas behandelt, aber ein neues System für Flü
     <Record>
       <Key>WorldInfoButtonDeleteBackup</Key>
       <Value>Löschen</Value>
+    </Record>
+    <Record>
+      <Key>TradeErrorNoMotherboardInsertedTitle</Key>
+      <Value>Aktivieren</Value>
     </Record>
   </Interface>
   <Colors>

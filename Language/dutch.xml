@@ -672,10 +672,6 @@
     <RecordThing>
       <Key>StructureRocketModuleMiningJunk</Key>
     </RecordThing>
-    <RecordThing>
-      <Key>SeedBag_Mushroom</Key>
-      <Value>Paddenstoel</Value>
-    </RecordThing>
   </Things>
   <Slots/>
   <Interactables>

@@ -4839,10 +4839,6 @@
       <Value/>
     </RecordThing>
     <RecordThing>
-      <Key>SeedBag_Mushroom</Key>
-      <Value>Mantar</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemKitAdvancedComposter</Key>
       <Value/>
     </RecordThing>
@@ -4997,10 +4993,6 @@
     <RecordThing>
       <Key>KitStructureCombustionCentrifuge</Key>
       <Value/>
-    </RecordThing>
-    <RecordThing>
-      <Key>AppliancePlantGeneticAnalyzer</Key>
-      <Value>Tıbbi Analiz Cihazı</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -9424,6 +9416,10 @@
     <Record>
       <Key>WorldInfoButtonDeleteBackup</Key>
       <Value>Sil</Value>
+    </Record>
+    <Record>
+      <Key>TradeErrorNoMotherboardInsertedTitle</Key>
+      <Value>Otomatik Kaydı Etkinleştir</Value>
     </Record>
   </Interface>
   <Colors>

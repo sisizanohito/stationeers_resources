@@ -4030,10 +4030,6 @@
       <Value>Nasiona Kukurydzy</Value>
     </RecordThing>
     <RecordThing>
-      <Key>SeedBag_Mushroom</Key>
-      <Value>Grzyb</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemKitAdvancedComposter</Key>
       <Value>Silnik Rakietowy (Duzy)</Value>
     </RecordThing>
@@ -4104,10 +4100,6 @@
     <RecordThing>
       <Key>ItemKitStandardChute</Key>
       <Value>Zestaw ten wytwarza szereg rur cieczowych.</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>AppliancePlantGeneticAnalyzer</Key>
-      <Value>Kartridz (Analizator Medyczny)</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -8168,6 +8160,10 @@ Uwaga: Woda była poprzednio traktowana jako gaz, ale został wprowadzony nowy s
     <Record>
       <Key>WorldInfoButtonDeleteBackup</Key>
       <Value>Usuń</Value>
+    </Record>
+    <Record>
+      <Key>TradeErrorNoMotherboardInsertedTitle</Key>
+      <Value>Włącz Automatyczny Zapis</Value>
     </Record>
   </Interface>
   <Colors>
