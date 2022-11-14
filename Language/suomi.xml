@@ -3614,10 +3614,6 @@
       <Value>Kannettava aurinkopaneeli</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemWreckageTransformer2</Key>
-      <Value>Muuntaja</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemWreckageTransformerMedium1</Key>
       <Value>Muuntaja (pieni)</Value>
     </RecordThing>

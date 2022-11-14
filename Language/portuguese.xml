@@ -3976,10 +3976,6 @@
       <Value>Painel Solar Portátil</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemWreckageTransformer2</Key>
-      <Value>Transformador</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemWreckageTransformerMedium1</Key>
       <Value>Estrutura Transformador (Médio)</Value>
     </RecordThing>

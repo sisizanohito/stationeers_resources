@@ -2594,10 +2594,6 @@
       <Value>Painel Solar</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemWreckageTransformer2</Key>
-      <Value>Kit (Transformador)</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemWreckageTransformerMedium1</Key>
       <Value>Transformador (Mdio)</Value>
     </RecordThing>
