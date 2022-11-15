@@ -5349,10 +5349,6 @@
       <Value>Kit (tuyau de liquide calfeutré)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>InsulatedLiquidPipeCorner</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
       <Key>InsulatedLiquidPipeCrossJunction</Key>
       <Value/>
     </RecordThing>
@@ -5370,10 +5366,6 @@
     </RecordThing>
     <RecordThing>
       <Key>InsulatedLiquidPipeCrossJunction6</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
-      <Key>InsulatedLiquidPipeJunction</Key>
       <Value/>
     </RecordThing>
     <RecordThing>
@@ -5423,6 +5415,10 @@
     <RecordThing>
       <Key>StructureOneWayValve</Key>
       <Value>Valve anti-retour (gaz)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureWaterPipeHeater</Key>
+      <Value>Réchauffeur de tuyau (canalisation d&apos;eau)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureTurboVolumePump</Key>
@@ -10955,6 +10951,10 @@ Remarque : l’eau était auparavant traitée comme un gaz, mais un nouveau syst
     <Record>
       <Key>WorldInfoButtonDeleteBackup</Key>
       <Value>Supprimer la sauvegarde de secours</Value>
+    </Record>
+    <Record>
+      <Key>TradeErrorNoMotherboardInsertedTitle</Key>
+      <Value>Impossible de commercer : la carte mère est manquante</Value>
     </Record>
   </Interface>
   <Colors>
