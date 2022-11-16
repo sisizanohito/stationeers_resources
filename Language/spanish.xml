@@ -5791,6 +5791,14 @@
       <Key>AppliancePlantGeneticAnalyzer</Key>
       <Value>Analizador Genético de Plantas</Value>
     </RecordThing>
+    <RecordThing>
+      <Key>AppliancePlantGeneticStabilizer</Key>
+      <Value>Analizador Genético de Plantas</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>AppliancePlantGeneticSplicer</Key>
+      <Value>Analizador Genético de Plantas</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>
