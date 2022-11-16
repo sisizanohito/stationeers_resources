@@ -2614,7 +2614,7 @@ Unlike the more advanced {THING:StructureFurnace}, the arc furnace cannot create
     <RecordThing>
       <Key>ItemSoybean</Key>
       <Value>Soybean</Value>
-	  <Description> Soybeans grow at a moderate rate, but require atmospheric {GAS:Nitrogen} to grow.  Its main use is to create {THING:ItemSoyOil}</Description>
+      <Description> Soybeans grow at a moderate rate, but require atmospheric {GAS:Nitrogen} to grow.  Its main use is to create {THING:ItemSoyOil}</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemAngleGrinder</Key>
@@ -2935,12 +2935,12 @@ Note that transformers operate as data isolators, preventing data flowing into a
     <RecordThing>
       <Key>ItemPotato</Key>
       <Value>Potato</Value>
-	        <Description> Potatoes are a simple, fast growing crop that can keep Stationeers alive in emergencies.</Description>
+      <Description> Potatoes are a simple, fast growing crop that can keep Stationeers alive in emergencies.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemTomato</Key>
       <Value>Tomato</Value>
-	  <Description>Tomato plants are perennial, and will produce multiple harvests without needing to be replanted. Once the plant is mature, it will fruit at a moderate pace.</Description>
+      <Description>Tomato plants are perennial, and will produce multiple harvests without needing to be replanted. Once the plant is mature, it will fruit at a moderate pace.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureGasGenerator</Key>
@@ -3803,12 +3803,12 @@ Output = 1 exporting items inside and eventually the main item.</Description>
     <RecordThing>
       <Key>ItemPumpkin</Key>
       <Value>Pumpkin</Value>
-	  <Description>Pumpkins are a perennial plant, with both a long growth time, and a long time between harvests.  Its low requirement for darkness allows for accelerated growing if provided with extra light.</Description>
+      <Description>Pumpkins are a perennial plant, with both a long growth time, and a long time between harvests.  Its low requirement for darkness allows for accelerated growing if provided with extra light.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemRice</Key>
       <Value>Rice</Value>
-	  <Description>Rice grows at a moderate rate as long as its supplied with plenty of water.  Being more dependant on water, rice plants can easily die during periods of drought.</Description>
+      <Description>Rice grows at a moderate rate as long as its supplied with plenty of water.  Being more dependant on water, rice plants can easily die during periods of drought.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemPumpkinPie</Key>
@@ -7225,6 +7225,16 @@ Most gene values will appear as a sliding bar between a minimum value on the lef
 Multiple Gene Value Widgets: 
 For temperature and pressure ranges, four genes appear on the same widget. The orange values underneath the bar are the minimum and maximum thresholds for growth. Outside of this range, the plant will stop growing and eventually die. The blue values underneath the bar are the minimum and maximum thresholds for ideal growth. Inside of this range, the plant will grow at maximum speed. The white values above the bar are the minimum and maximum achievable values for the growth threshold.</Description>
     </RecordThing>
+    <RecordThing>
+      <Key>AppliancePlantGeneticStabilizer</Key>
+      <Value>Appliance Plant Genetic Stabilizer</Value>
+      <Description />
+    </RecordThing>
+    <RecordThing>
+      <Key>AppliancePlantGeneticSplicer</Key>
+      <Value>Appliance Plant Genetic Splicer</Value>
+      <Description />
+    </RecordThing>
   </Things>
   <Slots>
     <Record>
@@ -7470,6 +7480,14 @@ For temperature and pressure ranges, four genes appear on the same widget. The o
     <Record>
       <Key>BottleSlot</Key>
       <Value>Bottle Slot</Value>
+    </Record>
+    <Record>
+      <Key>SourcePlant</Key>
+      <Value>Source Plant</Value>
+    </Record>
+    <Record>
+      <Key>TargetPlant</Key>
+      <Value>Target Plant</Value>
     </Record>
   </Slots>
   <Interactables>
@@ -13003,11 +13021,11 @@ Note: {GAS:Water} was previously treated as a gas, but a new system for liquids 
     <Record>
       <Key>WorldInfoButtonDeleteBackup</Key>
       <Value>Delete Backup</Value>
-    </Record>   
+    </Record>
     <Record>
       <Key>TradeErrorNoMotherboardInsertedTitle</Key>
       <Value>Unable to trade</Value>
-    </Record>    
+    </Record>
     <Record>
       <Key>TradeErrorNoMotherboardInsertedMessage</Key>
       <Value>The connected computer requires a comms motherboard to be inserted in order to trade.</Value>
