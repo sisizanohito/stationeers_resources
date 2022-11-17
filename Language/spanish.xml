@@ -5793,11 +5793,11 @@
     </RecordThing>
     <RecordThing>
       <Key>AppliancePlantGeneticStabilizer</Key>
-      <Value>Analizador Genético de Plantas</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>AppliancePlantGeneticSplicer</Key>
-      <Value>Analizador Genético de Plantas</Value>
+      <Value/>
     </RecordThing>
   </Things>
   <Slots>
