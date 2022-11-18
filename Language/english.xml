@@ -7226,6 +7226,11 @@ Multiple Gene Value Widgets:
 For temperature and pressure ranges, four genes appear on the same widget. The orange values underneath the bar are the minimum and maximum thresholds for growth. Outside of this range, the plant will stop growing and eventually die. The blue values underneath the bar are the minimum and maximum thresholds for ideal growth. Inside of this range, the plant will grow at maximum speed. The white values above the bar are the minimum and maximum achievable values for the growth threshold.</Description>
     </RecordThing>
     <RecordThing>
+      <Key>CartridgePlantAnalyser</Key>
+      <Value>Cartridge Plant Analyser</Value>
+      <Description />
+    </RecordThing>
+    <RecordThing>
       <Key>AppliancePlantGeneticStabilizer</Key>
       <Value>Appliance Plant Genetic Stabilizer</Value>
       <Description />
@@ -13029,6 +13034,10 @@ Note: {GAS:Water} was previously treated as a gas, but a new system for liquids 
     <Record>
       <Key>TradeErrorNoMotherboardInsertedMessage</Key>
       <Value>The connected computer requires a comms motherboard to be inserted in order to trade.</Value>
+    </Record>
+    <Record>
+      <Key>CartridgePlantAnalyserTitle</Key>
+      <Value>PLANT ANALYSER</Value>
     </Record>
   </Interface>
   <Colors>
