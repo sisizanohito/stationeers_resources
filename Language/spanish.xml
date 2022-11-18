@@ -5792,6 +5792,10 @@
       <Value>Analizador Genético de Plantas</Value>
     </RecordThing>
     <RecordThing>
+      <Key>CartridgePlantAnalyser</Key>
+      <Value>Cartucho (Rastreador)</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>AppliancePlantGeneticStabilizer</Key>
       <Value/>
     </RecordThing>
@@ -11086,6 +11090,10 @@ Nota: El agua se trataba anteriormente como un gas, pero se está desarrollando 
     <Record>
       <Key>TradeErrorNoMotherboardInsertedMessage</Key>
       <Value>El ordenador conectado requiere que se inserte una placa base de comunicaciones para poder operar.</Value>
+    </Record>
+    <Record>
+      <Key>CartridgePlantAnalyserTitle</Key>
+      <Value>ANALIZADOR DE REDES</Value>
     </Record>
   </Interface>
   <Colors>

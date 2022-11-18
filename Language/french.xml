@@ -5664,6 +5664,10 @@
       <Key>ItemKitStandardChute</Key>
       <Value>Kit (gaines motorisées)</Value>
     </RecordThing>
+    <RecordThing>
+      <Key>CartridgePlantAnalyser</Key>
+      <Value>Carte (Traqueur)</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>
@@ -10939,6 +10943,10 @@ Remarque : l’eau était auparavant traitée comme un gaz, mais un nouveau syst
     <Record>
       <Key>TradeErrorNoMotherboardInsertedTitle</Key>
       <Value>Impossible de commercer : la carte mère est manquante</Value>
+    </Record>
+    <Record>
+      <Key>CartridgePlantAnalyserTitle</Key>
+      <Value>ANALYSEUR RÉSEAU</Value>
     </Record>
   </Interface>
   <Colors>

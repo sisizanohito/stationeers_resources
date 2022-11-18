@@ -4994,6 +4994,10 @@
       <Key>KitStructureCombustionCentrifuge</Key>
       <Value/>
     </RecordThing>
+    <RecordThing>
+      <Key>CartridgePlantAnalyser</Key>
+      <Value>Kartuş (Takipçi)</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>
@@ -9420,6 +9424,10 @@
     <Record>
       <Key>TradeErrorNoMotherboardInsertedTitle</Key>
       <Value>Otomatik Kaydı Etkinleştir</Value>
+    </Record>
+    <Record>
+      <Key>CartridgePlantAnalyserTitle</Key>
+      <Value>AĞ ANALİZCİSİ</Value>
     </Record>
   </Interface>
   <Colors>

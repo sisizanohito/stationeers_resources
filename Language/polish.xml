@@ -4093,6 +4093,10 @@
       <Key>ItemKitStandardChute</Key>
       <Value>Zestaw ten wytwarza szereg rur cieczowych.</Value>
     </RecordThing>
+    <RecordThing>
+      <Key>CartridgePlantAnalyser</Key>
+      <Value>Kartridż (GPS)</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>
@@ -8156,6 +8160,10 @@ Uwaga: Woda była poprzednio traktowana jako gaz, ale został wprowadzony nowy s
     <Record>
       <Key>TradeErrorNoMotherboardInsertedTitle</Key>
       <Value>Włącz Automatyczny Zapis</Value>
+    </Record>
+    <Record>
+      <Key>CartridgePlantAnalyserTitle</Key>
+      <Value>ANALIZATOR SIECI</Value>
     </Record>
   </Interface>
   <Colors>

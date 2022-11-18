@@ -5863,6 +5863,10 @@
       <Key>ItemKitStandardChute</Key>
       <Value>Bausatz (Elektrische Schächte)</Value>
     </RecordThing>
+    <RecordThing>
+      <Key>CartridgePlantAnalyser</Key>
+      <Value>Kassette (Peilsignal Empfänger)</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>
@@ -11096,6 +11100,10 @@ Hinweis: Wasser wurde früher wie Gas behandelt, aber ein neues System für Flü
     <Record>
       <Key>TradeErrorNoMotherboardInsertedTitle</Key>
       <Value>Aktivieren</Value>
+    </Record>
+    <Record>
+      <Key>CartridgePlantAnalyserTitle</Key>
+      <Value>Netzwerkanalyse</Value>
     </Record>
   </Interface>
   <Colors>

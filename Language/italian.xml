@@ -4032,6 +4032,10 @@
       <Key>ItemKitStirlingEngine</Key>
       <Value>Motore a razzo</Value>
     </RecordThing>
+    <RecordThing>
+      <Key>CartridgePlantAnalyser</Key>
+      <Value>Cartuccia (Tracciante)</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>

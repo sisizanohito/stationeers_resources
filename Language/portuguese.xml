@@ -4282,6 +4282,10 @@
       <Key>ItemKitStirlingEngine</Key>
       <Value>Motor de Foguete</Value>
     </RecordThing>
+    <RecordThing>
+      <Key>CartridgePlantAnalyser</Key>
+      <Value>Cartucho (Rastreador)</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>
@@ -8598,6 +8602,10 @@
     <Record>
       <Key>TradeErrorNoMotherboardInsertedTitle</Key>
       <Value>Gravação Automática</Value>
+    </Record>
+    <Record>
+      <Key>CartridgePlantAnalyserTitle</Key>
+      <Value>ANALISADOR DE REDE</Value>
     </Record>
   </Interface>
   <Colors>

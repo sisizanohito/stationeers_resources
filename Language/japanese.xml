@@ -4632,6 +4632,10 @@
       <Key>ItemKitStandardChute</Key>
       <Value>このキットは、さまざまな液体パイプを製作します。</Value>
     </RecordThing>
+    <RecordThing>
+      <Key>CartridgePlantAnalyser</Key>
+      <Value>カードリッジ (追跡装置)</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>

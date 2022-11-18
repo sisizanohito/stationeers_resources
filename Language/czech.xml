@@ -5811,6 +5811,10 @@ Rychlost získávání nebo ztráty tepla závisí na dané kapalině. Přidán�
       <Key>ItemKitStandardChute</Key>
       <Value>Tato sada vytváří řadu potrubí na kapaliny.</Value>
     </RecordThing>
+    <RecordThing>
+      <Key>CartridgePlantAnalyser</Key>
+      <Value>Disketa (Lokalizátor)</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>
@@ -11292,6 +11296,10 @@ Poznámka: S vodou se dříve zacházelo jako s plynem, ale nyní se vyvíjí no
     <Record>
       <Key>TradeErrorNoMotherboardInsertedMessage</Key>
       <Value>Připojený počítač vyžaduje, aby byla vložena komunikační základní deska, aby bylo možné obchodovat.</Value>
+    </Record>
+    <Record>
+      <Key>CartridgePlantAnalyserTitle</Key>
+      <Value>SÍŤOVÝ ANALYZÁTOR</Value>
     </Record>
   </Interface>
   <Colors>

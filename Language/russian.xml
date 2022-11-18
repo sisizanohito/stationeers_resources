@@ -5460,6 +5460,10 @@
       <Key>ItemKitStandardChute</Key>
       <Value>Этот комплект производит ряд труб для жидкостей.</Value>
     </RecordThing>
+    <RecordThing>
+      <Key>CartridgePlantAnalyser</Key>
+      <Value>Картридж (Навигатор)</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>
@@ -10720,6 +10724,10 @@
     <Record>
       <Key>TradeErrorNoMotherboardInsertedTitle</Key>
       <Value>Включить автосохранение</Value>
+    </Record>
+    <Record>
+      <Key>CartridgePlantAnalyserTitle</Key>
+      <Value>СЕТЕВОЙ АНАЛИЗАТОР</Value>
     </Record>
   </Interface>
   <Colors>

@@ -4899,6 +4899,10 @@
       <Key>ItemKitStandardChute</Key>
       <Value>Ezzel a készlettel különféle folyadékcsöveket készíthetsz.</Value>
     </RecordThing>
+    <RecordThing>
+      <Key>CartridgePlantAnalyser</Key>
+      <Value>Kártya (Nyomkövetés)</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>
@@ -9169,6 +9173,10 @@ Leginkább mérnöki, katonai vagy űripari, szoftverfejlesztői vagy bányásza
     <Record>
       <Key>TradeErrorNoMotherboardInsertedTitle</Key>
       <Value>Automatikus mentés engedélyezése</Value>
+    </Record>
+    <Record>
+      <Key>CartridgePlantAnalyserTitle</Key>
+      <Value>HÁLÓZAT ELEMZŐ</Value>
     </Record>
   </Interface>
   <Colors>
