@@ -4282,10 +4282,6 @@
       <Key>ItemKitStirlingEngine</Key>
       <Value>Motor de Foguete</Value>
     </RecordThing>
-    <RecordThing>
-      <Key>CartridgePlantAnalyser</Key>
-      <Value>Cartucho (Rastreador)</Value>
-    </RecordThing>
   </Things>
   <Slots>
     <Record>

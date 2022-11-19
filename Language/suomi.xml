@@ -3920,10 +3920,6 @@
       <Key>ItemKitStirlingEngine</Key>
       <Value>Rakettimoottori</Value>
     </RecordThing>
-    <RecordThing>
-      <Key>CartridgePlantAnalyser</Key>
-      <Value>Kasetti (jäljitin)</Value>
-    </RecordThing>
   </Things>
   <Slots>
     <Record>

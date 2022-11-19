@@ -3172,10 +3172,6 @@
       <Key>ItemKitStirlingEngine</Key>
       <Value>로켓 엔진</Value>
     </RecordThing>
-    <RecordThing>
-      <Key>CartridgePlantAnalyser</Key>
-      <Value>카트리지 (추적기)</Value>
-    </RecordThing>
   </Things>
   <Slots>
     <Record>

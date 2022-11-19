@@ -2278,10 +2278,6 @@
       <Key>ItemKitStirlingEngine</Key>
       <Value>Rocket Engine</Value>
     </RecordThing>
-    <RecordThing>
-      <Key>CartridgePlantAnalyser</Key>
-      <Value>Cartridge (Tracker)</Value>
-    </RecordThing>
   </Things>
   <Slots>
     <Record>
