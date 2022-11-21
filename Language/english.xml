@@ -845,7 +845,7 @@ The circuit board has two modes: 'Link' switches all devices on or off; 'Toggle'
     <RecordThing>
       <Key>DynamicGasCanisterAir</Key>
       <Value>Portable Gas Tank (Air)</Value>
-      <Description>Portable gas tanks do one thing: store gas. But there's lots you can do with them. To refill the tank, bolt it to a {THING:ItemTankConnector}, then connect it to a pipe network. Try to avoid pushing it above 10 MPa, or bad things happen. Once it's full, you can refill a {THING:ItemGasCanisterOxygen} by attaching it to the tank's striped section. Or you could vent the tank's variable flow rate valve into a room and create an atmosphere. They also attach to rovers and rockets. Alternatively, kick it over and practice barrel rolling. The possiblities are endless.</Description>
+      <Description>Portable gas tanks do one thing: store gas. But there's lots you can do with them. To refill the tank, bolt it to a {THING:ItemTankConnector}, then connect it to a pipe network. Try to avoid pushing it above 10 MPa, or bad things happen. Once it's full, you can refill a {THING:ItemGasCanisterOxygen} by attaching it to the tank's striped section. Or you could vent the tank's variable flow rate valve into a room and create an atmosphere. They also attach to rovers and rockets. Alternatively, kick it over and practice barrel rolling. The possibilities are endless.</Description>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterCarbonDioxide</Key>
@@ -921,7 +921,7 @@ You can refill a {THING:ItemGasCanisterWater} by attaching it to the tank's stri
     <RecordThing>
       <Key>EntityChickenBrown</Key>
       <Value>Entity Chicken Brown</Value>
-      <Description>Like so many of its bretheren, this is a chicken. A brown one. It will eat soybeans, corn, and wheat, and lay eggs. Some will be fertilized, producing further chickens. Some will not.</Description>
+      <Description>Like so many of its brethren, this is a chicken. A brown one. It will eat soybeans, corn, and wheat, and lay eggs. Some will be fertilized, producing further chickens. Some will not.</Description>
     </RecordThing>
     <RecordThing>
       <Key>EntityChickenWhite</Key>
@@ -996,7 +996,7 @@ Pushing the power-weight balance to its limits, the 'nuke' has a 2.3 megawatt ch
     <RecordThing>
       <Key>ItemCableCoil</Key>
       <Value>Cable Coil</Value>
-      <Description>Bodily metaphors are tired and humancentric, but it was Frida Stuppen, the first {LINK:ODA;ODA} Administrator, who said, 'Let the cabling be as the nerve and the vessel, transmitting power and data alike through systems we forge among the stars.' Later commentators suggested that she was simply putting a romantic gloss on a piece of dubious economy. Whatever the case, standard cabling is where any {LINK:Stationeers;Stationeer's} network begins. 
+      <Description>Bodily metaphors are tired and anthropocentric, but it was Frida Stuppen, the first {LINK:ODA;ODA} Administrator, who said, 'Let the cabling be as the nerve and the vessel, transmitting power and data alike through systems we forge among the stars.' Later commentators suggested that she was simply putting a romantic gloss on a piece of dubious economy. Whatever the case, standard cabling is where any {LINK:Stationeers;Stationeer's} network begins. 
 Normal coil has a maximum wattage of 5kW. For higher-current applications, use {THING:ItemCableCoilHeavy}.</Description>
     </RecordThing>
     <RecordThing>
@@ -1115,8 +1115,8 @@ If an egg has been fertilized, and is kept between 20C-30C, an {THING:EntityChic
     <RecordThing>
       <Key>ItemGasCanisterCarbonDioxide</Key>
       <Value>Canister (CO2)</Value>
-      <Description>When fabricated, the {GAS:CarbonDioxide} {SLOT:GasCanister} is filled a pressure of 8000kPa (80 atmospheres) and coloured default grey. Used as a secondary fuel in the {THING:ItemJetpackBasic}, it can be mounted to a {THING:DynamicGasCanisterAir} or {THING:StructureGasTankStorage} for refill.
-Careful not to overpressurize when refilling, or it may go 'bang'.</Description>
+      <Description>When fabricated, the {GAS:CarbonDioxide} {SLOT:GasCanister} is filled a pressure of 8000kPa (80 atmospheres) and colored default grey. Used as a secondary fuel in the {THING:ItemJetpackBasic}, it can be mounted to a {THING:DynamicGasCanisterAir} or {THING:StructureGasTankStorage} for refill.
+Careful not to over pressurize when refilling, or it may go 'bang'.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasCanisterPollutants</Key>
@@ -1144,7 +1144,7 @@ Careful not to pressurize beyond 10MPa, or it may go 'bang'.</Descript
     <RecordThing>
       <Key>ItemGasCanisterNitrogen</Key>
       <Value>Canister (Nitrogen)</Value>
-      <Description>The green portable {GAS:Nitrogen} {SLOT:GasCanister} supplies propellent for the {THING:ItemSpacepack} and the {THING:ItemHardJetpack}. All gas canisters are full when fabricated to a pressure of 8000kPa (80 atmospheres), and can be mounted to a {THING:DynamicGasCanisterAir} or {THING:StructureGasTankStorage} for refill.
+      <Description>The green portable {GAS:Nitrogen} {SLOT:GasCanister} supplies propellant for the {THING:ItemSpacepack} and the {THING:ItemHardJetpack}. All gas canisters are full when fabricated to a pressure of 8000kPa (80 atmospheres), and can be mounted to a {THING:DynamicGasCanisterAir} or {THING:StructureGasTankStorage} for refill.
 Careful not to pressurize beyond 10MPa, or it may go 'bang'.</Description>
     </RecordThing>
     <RecordThing>
@@ -1241,7 +1241,7 @@ Careful not to pressurize beyond 10MPa, or it may go 'bang'.</Descript
     <RecordThing>
       <Key>ItemHealPill</Key>
       <Value>Heal Pill</Value>
-      <Description>Three centuries of pharmeceutical technology compressed into one small, easy to ingest pill: the Heal Pill, aka the Proton Pill, aka Mr Happy contains active enzymes, therapeutic proteins, modified microbial strains, and mammalian cell line analogues in a single-dose boost of high purity, efficacy, and potency that potentiates a swift parasympathetic immune response.</Description>
+      <Description>Three centuries of pharmaceutical technology compressed into one small, easy to ingest pill: the Heal Pill, aka the Proton Pill, aka Mr Happy contains active enzymes, therapeutic proteins, modified microbial strains, and mammalian cell line analogues in a single-dose boost of high purity, efficacy, and potency that potentiates a swift parasympathetic immune response.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemHydroponicTray</Key>
@@ -1411,7 +1411,7 @@ Careful not to pressurize beyond 10MPa, or it may go 'bang'.</Descript
     <RecordThing>
       <Key>ItemLightSword</Key>
       <Value>Light Sword</Value>
-      <Description>A charming, if useless, psuedo-weapon. (Creative only.)</Description>
+      <Description>A charming, if useless, pseudo-weapon. (Creative only.)</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemMilk</Key>
@@ -1421,12 +1421,12 @@ Careful not to pressurize beyond 10MPa, or it may go 'bang'.</Descript
     <RecordThing>
       <Key>ItemMiningBelt</Key>
       <Value>Mining Belt</Value>
-      <Description>Originally developed by {LINK:Recurso;Recurso Espaciais} for asteroid mining, the {LINK:Stationeers;Stationeer's} miningbelt has room for two {LINK:ToolPage;tools} and eight {LINK:OrePage;ore} stacks. While wearing the belt, {LINK:OrePage;ore} is automatically stored there when mined. Volatile and temperature-dependent remain stable in the environmentally controlled unit.</Description>
+      <Description>Originally developed by {LINK:Recurso;Recurso Espaciais} for asteroid mining, the {LINK:Stationeers;Stationeer's} mining belt has room for two {LINK:ToolPage;tools} and eight {LINK:OrePage;ore} stacks. While wearing the belt, {LINK:OrePage;ore} is automatically stored there when mined. Volatile and temperature-dependent remain stable in the environmentally controlled unit.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemMiningDrill</Key>
       <Value>Mining Drill</Value>
-      <Description>The handheld 'Topo' tri-cone rotary mining drill was made for one thing: quick digging. Modelled on a classic {LINK:Recurso;Recurso} zero-g design, it functions equally well in vacuum and atmosphere, with cemented carbide bits to increase resilience and bearing life, and reduce spalling. As Jenk Murtons once said, 'The Topo don't stopo.'</Description>
+      <Description>The handheld 'Topo' tri-cone rotary mining drill was made for one thing: quick digging. Modeled on a classic {LINK:Recurso;Recurso} zero-g design, it functions equally well in vacuum and atmosphere, with cemented carbide bits to increase resilience and bearing life, and reduce spalling. As Jenk Murtons once said, 'The Topo don't stopo.'</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemMuffin</Key>
@@ -1446,7 +1446,7 @@ Careful not to pressurize beyond 10MPa, or it may go 'bang'.</Descript
     <RecordThing>
       <Key>ItemPillHeal</Key>
       <Value>Pill (Medical)</Value>
-      <Description>Three centuries of pharmeceutical technology compressed into one small, easy to ingest pill: the Heal Pill, aka the Proton Pill, aka Mr Happy contains active enzymes, therapeutic proteins, modified microbial strains, and mammalian cell line analogues in a single-dose boost of high purity, efficacy, and potency that potentiates a swift parasympathetic immune response.</Description>
+      <Description>Three centuries of pharmaceutical technology compressed into one small, easy to ingest pill: the Heal Pill, aka the Proton Pill, aka Mr Happy contains active enzymes, therapeutic proteins, modified microbial strains, and mammalian cell line analogues in a single-dose boost of high purity, efficacy, and potency that potentiates a swift parasympathetic immune response.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemPillStun</Key>
@@ -1561,12 +1561,12 @@ Careful not to pressurize beyond 10MPa, or it may go 'bang'.</Descript
     <RecordThing>
       <Key>ItemScanner</Key>
       <Value>Handheld Scanner</Value>
-      <Description>A mysterious piece of technology, rumoured to have Zrillian origins.</Description>
+      <Description>A mysterious piece of technology, rumored to have Zrillian origins.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemScrewdriver</Key>
       <Value>Screwdriver</Value>
-      <Description>This standard issue frictional adherence adjustor is a top of the line, bi-rotational model with a columnated uni-grip. It's definintely not just a screwdriver. Use it for construction and deconstruction of certain kits, and setting values on {LINK:LogicUnitPage;logic} units.</Description>
+      <Description>This standard issue frictional adherence adjustor is a top of the line, bi-rotational model with a columnated uni-grip. It's definitely not just a screwdriver. Use it for construction and deconstruction of certain kits, and setting values on {LINK:LogicUnitPage;logic} units.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemSecurityCamera</Key>
@@ -1582,19 +1582,19 @@ Careful not to pressurize beyond 10MPa, or it may go 'bang'.</Descript
       <Key>ItemSpaceHelmet</Key>
       <Value>Space Helmet</Value>
       <Description>The basic space helmet insulates {LINK:Stationeers;Stationeers} against everything from hard vacuum to weird cooking smells. Providing a pressure-controlled, breathable atmosphere, it comes with a built-in light powered by your {THING:ItemEvaSuit} {THING:ItemBatteryCell}.
-It also incorporates a lock/unlock feature to avoid accidental opening, as well as a flush function to expel and replace the internal atmosphere. If damaged, use {THING:ItemDuctTape} to fix it, or paint it any colour you like using the {THING:AppliancePaintMixer}.</Description>
+It also incorporates a lock/unlock feature to avoid accidental opening, as well as a flush function to expel and replace the internal atmosphere. If damaged, use {THING:ItemDuctTape} to fix it, or paint it any color you like using the {THING:AppliancePaintMixer}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemSpacepack</Key>
       <Value>Spacepack</Value>
       <Description>The basic {LINK:CHAC;CHAC} spacepack isn't 'technically' a jetpack, it's a gas thruster. It can be powered by any gas, so long as the internal pressure of the {LINK:AtmosphericsPage;canister} is higher than the ambient external pressure. If the external pressure is greater, the spacepack will not function.
-Indispensible for building, mining and general movement, it has ten storage slots and lets {LINK:Stationeers;Stationeers} fly at 3m/s, compared to the more powerful {THING:ItemJetpackBasic} or {THING:ItemHardJetpack}. Adjusting the thrust value alters your rate of acceleration, while activating the stablizer causes the spacepack to hover when a given height is reached.
+Indispensable for building, mining and general movement, it has ten storage slots and lets {LINK:Stationeers;Stationeers} fly at 3m/s, compared to the more powerful {THING:ItemJetpackBasic} or {THING:ItemHardJetpack}. Adjusting the thrust value alters your rate of acceleration, while activating the stablizer causes the spacepack to hover when a given height is reached.
 USE: 'J' to activate; 'space' to fly up; 'left ctrl' to descend; and 'WASD' to move.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemSprayCanBlack</Key>
       <Value>Spray Paint (Black)</Value>
-      <Description>Go classic, clandestine or just plain gothic with black paint, which can be applied to most items. Each can has 20 uses.</Description>
+      <Description>Go classic, clandestine or just plain Gothic with black paint, which can be applied to most items. Each can has 20 uses.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemSprayCanBlue</Key>
@@ -1778,7 +1778,7 @@ The {LINK:Norsec;Norsec-designed} K-cops 10-10 sorter motherboard permits {LINK:
     <RecordThing>
       <Key>SpaceShuttle</Key>
       <Value>Space Shuttle</Value>
-      <Description>An antiquated {LINK:Sinotai;Sinotai} transport craft, long since de-commissioned.</Description>
+      <Description>An antiquated {LINK:Sinotai;Sinotai} transport craft, long since decommissioned.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureActiveVent</Key>
@@ -1792,7 +1792,7 @@ The {LINK:Norsec;Norsec-designed} K-cops 10-10 sorter motherboard permits {LINK:
 	  
 The unit has three pipe connections: input, output, and waste. Gas fed into the input will be heated or cooled to reach the target temperature, while the opposite will happen to gas on the waste network.
 
-Multiple Efficiency Multipliers can effect the amount of energy the Air Conditioner uses, and these can be view on the unit's green Information Panel. As the temperature difference between input and waste increases, the Temperature Differential Efficiency Multiplier will decrease. If input or waste temperature is extremely hot or cold, the Operational Temperature Efficiency will decrease. If the input or waste pipe has aproach low pressures, the Pressure Efficiency will decrease.
+Multiple Efficiency Multipliers can effect the amount of energy the Air Conditioner uses, and these can be view on the unit's green Information Panel. As the temperature difference between input and waste increases, the Temperature Differential Efficiency Multiplier will decrease. If input or waste temperature is extremely hot or cold, the Operational Temperature Efficiency will decrease. If the input or waste pipe has approach low pressures, the Pressure Efficiency will decrease.
 
 {THING:StructurePipeRadiator}s may be useful in bringing extreme pipe temperatures back towards normal world temperatures. 
   
@@ -1987,7 +1987,7 @@ Chutes are fundamental components of chute networks, which allow the transport o
       <Key>StructureComputer</Key>
       <Value>Computer</Value>
       <Description>In some ways a relic, the 'Chonk R1' was designed by severely conflicted {LINK:Norsec;Norsec} technicians, who needed a unit that could operate with a wide range of {LINK:LogicUnitPage;motherboards}, while also enduring the worst a new Cadet could throw at it.
-The result is a machine described by some as 'the only PC likely to survive our collision with a blackhole', while other, less appreciative users regard it as sharing most of its technological DNA with a cheese grater.
+The result is a machine described by some as 'the only PC likely to survive our collision with a black hole', while other, less appreciative users regard it as sharing most of its technological DNA with a cheese grater.
 Compatible motherboards:
 - {THING:MotherboardLogic}
 - {THING:MotherboardManufacturing}
@@ -2089,13 +2089,12 @@ The device has nonetheless proven indispensable for {LINK:Stationeers;Stationeer
       <Key>StructureFrameCorner</Key>
       <Value>Steel Frame (Corner)</Value>
       <Description>More durable than the {THING:StructureFrameIron}, steel frames also offer several variations for more complex lattice constructions. 
-With a little patience and manoeuvring, the corner frame's gothic-inspired silhouette allows the creation of ogival arches and even more ambitious architecture, although they are not airtight and cannot be built on.</Description>
+With a little patience and maneuvering, the corner frame's Gothic-inspired silhouette allows the creation of ogival arches and even more ambitious architecture, although they are not airtight and cannot be built on.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureFrameSide</Key>
       <Value>Steel Frame (Side)</Value>
-      <Description>More durable than the {THING:StructureFrameIron}, steel frames also provide variations for more ornate constructions. 
-The tilted side frame allows for an almost infinite variety of architectural erections, though is not airtight, rendering it, ultimately, an excresence.</Description>
+      <Description>More durable than the {THING:StructureFrameIron}, steel frames also provide variations for more ornate constructions.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureFurnace</Key>
@@ -2107,7 +2106,7 @@ If water is present in the furnace, it will gather there until the furnace is co
     <RecordThing>
       <Key>StructureGasMixer</Key>
       <Value>Gas Mixer</Value>
-      <Description>Indispensible for producing precise atmospheric ratios, this gas mixer blends two gases in proportions ranging anywhere from 0-100%.</Description>
+      <Description>Indispensable for producing precise atmospheric ratios, this gas mixer blends two gases in proportions ranging anywhere from 0-100%.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureGasSensor</Key>
@@ -2524,7 +2523,7 @@ Unlike the more advanced {THING:StructureFurnace}, the arc furnace cannot create
     <RecordThing>
       <Key>StructureAutolathe</Key>
       <Value>Autolathe</Value>
-      <Description>The foundation of most {LINK:Stationeers;Stationeer} fabrication systems, the {LINK:ExMin;ExMin} autolathe is a multi-axis molecular compositional system. Its complexity demands considerable time to assemble, but it remains an indispensible creation tool. Upgrade the device using a {THING:AutolathePrinterMod} for additional recipes and faster processing speeds.
+      <Description>The foundation of most {LINK:Stationeers;Stationeer} fabrication systems, the {LINK:ExMin;ExMin} autolathe is a multi-axis molecular compositional system. Its complexity demands considerable time to assemble, but it remains an indispensable creation tool. Upgrade the device using a {THING:AutolathePrinterMod} for additional recipes and faster processing speeds.
 	  </Description>
     </RecordThing>
     <RecordThing>
@@ -2559,7 +2558,7 @@ Unlike the more advanced {THING:StructureFurnace}, the arc furnace cannot create
     <RecordThing>
       <Key>ItemSilverOre</Key>
       <Value>Ore (Silver)</Value>
-      <Description>Silver is a chemical element with the symbol "Ag". Valued by many {LINK:Stationeers;Stationeers} for its attractive lustre and sheen, it is also used in a variety of {LINK:ElectronicPage;electronics} components and {LINK:IngotPage;alloys}.</Description>
+      <Description>Silver is a chemical element with the symbol "Ag". Valued by many {LINK:Stationeers;Stationeers} for its attractive luster and sheen, it is also used in a variety of {LINK:ElectronicPage;electronics} components and {LINK:IngotPage;alloys}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemNickelOre</Key>
@@ -2898,7 +2897,7 @@ Note that transformers operate as data isolators, preventing data flowing into a
     <RecordThing>
       <Key>StructureLogicDial</Key>
       <Value>Dial</Value>
-      <Description>An asignable dial with up to 1000 modes.</Description>
+      <Description>An assignable dial with up to 1000 modes.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureConsoleLED1x2</Key>
@@ -3607,7 +3606,7 @@ Insert a cartridge or color scanner into the tablet, then press the activate but
     <RecordThing>
       <Key>ItemHardsuitHelmet</Key>
       <Value>Hardsuit Helmet</Value>
-      <Description>The Hardsuit Helmet is similar to the {THING:ItemSpaceHelmet}, but can withstand higher temperatures and pressures. It's perfect for enduring harsh enviroments like Venus and Vulcan.</Description>
+      <Description>The Hardsuit Helmet is similar to the {THING:ItemSpaceHelmet}, but can withstand higher temperatures and pressures. It's perfect for enduring harsh environments like Venus and Vulcan.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWearLamp</Key>
@@ -3823,7 +3822,7 @@ Output = 1 exporting items inside and eventually the main item.</Description>
       <Key>ItemHardJetpack</Key>
       <Value>Hardsuit Jetpack</Value>
       <Description>The {LINK:Norsec;Norsec} jetpack isn't 'technically' a jetpack at all, it's a gas thruster. It can be powered by any gas, so long as the internal pressure of the {LINK:AtmosphericsPage;canister} is higher than the ambient external pressure. If the external pressure is greater, the spacepack will not function. Adjusting the thrust value alters your rate of acceleration, while activating the stablizer causes the spacepack to hover when a given height is reached.
-The hardsuit jetpack is capable of much higher speeds than the {THING:ItemJetpackBasic} - up to 15m/s. Indispensible for building, mining and general movement, it has fourteen storage slots.
+The hardsuit jetpack is capable of much higher speeds than the {THING:ItemJetpackBasic} - up to 15m/s. Indispensable for building, mining and general movement, it has fourteen storage slots.
 USE: 'J' to activate; 'space' to fly up; 'left ctrl' to descend; and 'WASD' to move.</Description>
     </RecordThing>
     <RecordThing>
@@ -3837,7 +3836,7 @@ USE: 'J' to activate; 'space' to fly up; 'left ctrl' to descend; and 'WASD' to m
     <RecordThing>
       <Key>StructureKlaxon</Key>
       <Value>Klaxon Speaker</Value>
-      <Description>Klaxons allow you to play over 50 announcemets and sounds, depending on your {LINK:LogicPage;Logic} set-up. Set the mode to select the output.</Description>
+      <Description>Klaxons allow you to play over 50 announcements and sounds, depending on your {LINK:LogicPage;Logic} set-up. Set the mode to select the output.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSpeaker</Key>
@@ -4194,7 +4193,7 @@ Note that transformers also operate as data isolators, preventing data flowing i
       <Key>ItemJetpackBasic</Key>
       <Value>Jetpack Basic</Value>
       <Description>The basic {LINK:CHAC;CHAC} jetpack isn't 'technically' a jetpack, it's a gas thruster. It can be powered by any gas, so long as the internal pressure of the {LINK:AtmosphericsPage;canister} is higher than the ambient external pressure. If the external pressure is greater, the spacepack will not function.
-Indispensible for building, mining and general movement, it has ten storage slots and lets {LINK:Stationeers;Stationeers} fly at 3m/s, compared to the more powerful {THING:ItemHardJetpack}. Adjusting the thrust value alters your rate of acceleration, while activating the stablizer causes the spacepack to hover when a given height is reached.
+Indispensable for building, mining and general movement, it has ten storage slots and lets {LINK:Stationeers;Stationeers} fly at 3m/s, compared to the more powerful {THING:ItemHardJetpack}. Adjusting the thrust value alters your rate of acceleration, while activating the stabilizer causes the spacepack to hover when a given height is reached.
 USE: 'J' to activate; 'space' to fly up; 'left ctrl' to descend; and 'WASD' to move.</Description>
     </RecordThing>
     <RecordThing>
@@ -5665,7 +5664,7 @@ It can be automated using the {THING:StructureHarvie}. Note that unlike the {THI
     <RecordThing>
       <Key>StructureWindTurbine</Key>
       <Value>Wind Turbine</Value>
-      <Description>The Stationeers wind turbine was first designed by Norsec atmospheric engineers, looking to create a wind-driven power generation system that would operate even on exceedingly low atmosphere worlds. The ultra-light blades respond to exceeedingly low atmospheric densities, while being strong enough to function even under huge strain in much more demanding environments.
+      <Description>The Stationeers wind turbine was first designed by Norsec atmospheric engineers, looking to create a wind-driven power generation system that would operate even on exceedingly low atmosphere worlds. The ultra-light blades respond to exceedingly low atmospheric densities, while being strong enough to function even under huge strain in much more demanding environments.
 While the wind turbine is optimized to produce power (up to 500W) even on low atmosphere worlds, it performs best in denser environments. Output varies with wind speed and, during storms, may increase dramatically (up to 10,000W), so be careful to design your power networks with that in mind.</Description>
     </RecordThing>
     <RecordThing>
@@ -5802,7 +5801,7 @@ While the wind turbine is optimized to produce power (up to 500W) even on low at
       <Key>StructureIceCrusher</Key>
       <Value>Ice Crusher</Value>
       <Description>The {LINK:Recurso;Recurso} KoolAuger converts various ices into their respective {LINK:GasPage;gases} and liquids.
-A remarkably smart and compact sublimation-melting unit, it produces gas or liquid depending on the ice being processed. The upper outlet is gas, the lower for liquid, and while you can attach any pipe you like to either oulet, it will only function if the correct network is attached. It will also only pass gas or liquid into a network if it is powered and turned on.
+A remarkably smart and compact sublimation-melting unit, it produces gas or liquid depending on the ice being processed. The upper outlet is gas, the lower for liquid, and while you can attach any pipe you like to either outlet, it will only function if the correct network is attached. It will also only pass gas or liquid into a network if it is powered and turned on.
 If the KoolAuger is full, it will not accept any further ice until the gas or liquid contents is drained. In this state, it will flash a yellow error state on the activation switch.</Description>
     </RecordThing>
     <RecordThing>
@@ -5879,7 +5878,7 @@ The speed of heat gain or loss will depend on the liquid in question. Adding mul
     <RecordThing>
       <Key>ItemMKIIScrewdriver</Key>
       <Value>Mk II Screwdriver</Value>
-      <Description>This standard issue frictional adherence adjustor is a top of the line, bi-rotational model with a columnated uni-grip. It's definintely not just a screwdriver. Use it for construction and deconstruction of certain kits, and setting values on {LINK:LogicUnitPage;logic} units. The MK II is more resistant to temperature and pressure.</Description>
+      <Description>This standard issue frictional adherence adjustor is a top of the line, bi-rotational model with a columnated uni-grip. It's definitely not just a screwdriver. Use it for construction and deconstruction of certain kits, and setting values on {LINK:LogicUnitPage;logic} units. The MK II is more resistant to temperature and pressure.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemMKIIAngleGrinder</Key>
@@ -5904,7 +5903,7 @@ The speed of heat gain or loss will depend on the liquid in question. Adding mul
     <RecordThing>
       <Key>ItemMKIIMiningDrill</Key>
       <Value>Mk II Mining Drill</Value>
-      <Description>The handheld 'Topo' tri-cone rotary mining drill was made for one thing: quick digging. Modelled on a classic {LINK:Recurso;Recurso} zero-g design, it functions equally well in vacuum and atmosphere, with cemented carbide bits to increase resilience and bearing life, and reduce spalling. As Jenk Murtons once said, 'The Topo don't stopo.' The MK II is more resistant to temperature and pressure.</Description>
+      <Description>The handheld 'Topo' tri-cone rotary mining drill was made for one thing: quick digging. Modeled on a classic {LINK:Recurso;Recurso} zero-g design, it functions equally well in vacuum and atmosphere, with cemented carbide bits to increase resilience and bearing life, and reduce spalling. As Jenk Murtons once said, 'The Topo don't stopo.' The MK II is more resistant to temperature and pressure.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemMKIIWireCutters</Key>
@@ -5965,7 +5964,7 @@ To use on yourself: put duct tape in your active hand, hold RIGHT MOUSE BUTTON t
     <RecordThing>
       <Key>StructureRocketModuleSilo</Key>
       <Value>Automated Rocket Silo Module</Value>
-      <Description>The {LINK:ExMin;ExMin} autononmous silo module provides storage for {LINK:OrePage;ores} collected by the {THING:StructureRocketModuleMiningOre}, {LINK:OrePage;ices} collected by the {THING:StructureModularRocketIceMining} and 'space junk' salvaged by the {THING:StructureModularRocketScrapMining} . In other words, it holds up to 600 'medium-sized dry goods'.
+      <Description>The {LINK:ExMin;ExMin} autonomous silo module provides storage for {LINK:OrePage;ores} collected by the {THING:StructureRocketModuleMiningOre}, {LINK:OrePage;ices} collected by the {THING:StructureModularRocketIceMining} and 'space junk' salvaged by the {THING:StructureModularRocketScrapMining} . In other words, it holds up to 600 'medium-sized dry goods'.
 The silo module must be connected to a mining or salvage module by a correctly placed {THING:StructureModularRocketCouplingDown} or {THING:StructureModularRocketCouplingUp}, in order for material to pass into the silo.
 The silo module must also be powered when on the launch pad. It is 'on' by default, but can be turned off with logic if needed. 
 The module can also be attached to a {THING:StructureChuteInlet} in order to connect it to {LINK:ImportExportPage;import/export} networks.
@@ -6175,21 +6174,21 @@ As the N Flow-P is a passive system, it equalizes pressure across the entire of 
       <Value>Logic Step Sequencer</Value>
       <Description>The {LINK:ODA;ODA} does not approve of soundtracks or other distractions.
 As such, {LINK:Stationeers;Stationeers} have had to create their own musical accompaniment to the demanding labor of building and maintaining off-world infrastructure.
-Central to this pasttime is the step sequencer, which allows Stationeers to sequence short musical patterns or loops. 
+Central to this pastime is the step sequencer, which allows Stationeers to sequence short musical patterns or loops. 
 
 {HEADER:DIY MUSIC - GETTING STARTED}
 
-1: Connect 8 {THING:DeviceStepUnit}s to your step sequencer via the data port on the lefthand side.
+1: Connect 8 {THING:DeviceStepUnit}s to your step sequencer via the data port on the left hand side.
 
-2: Label each step unit, then assign step units 1 through 8 on the step sequencer using the screwdiver.
+2: Label each step unit, then assign step units 1 through 8 on the step sequencer using the screwdriver.
 
-3: Select the output speaker (eg {THING:PassiveSpeaker}) where the sequencer will play the sounds. This needs to be connected to the logic network on the righthand side of the sequencer.
+3: Select the output speaker (eg {THING:PassiveSpeaker}) where the sequencer will play the sounds. This needs to be connected to the logic network on the right hand side of the sequencer.
 
 4: Place a {THING:StopWatch} and use a {THING:StructureLogicReader} and {THING:StructureLogicWriter} to write the time to the time variable on the sequencer.
 
 5: Set the BPM on the sequencer using a {THING:StructureLogicDial} and a {THING:StructureLogicWriter} to write to the sequencer's BPM variable. A higher bpm will play the sequence faster. 
 
-6: Insert a sound cartridge of your chosing and select which variant of sound you wish to play by pushing the arrow buttons located above and below the sound cartidge slot.
+6: Insert a sound cartridge of your choosing and select which variant of sound you wish to play by pushing the arrow buttons located above and below the sound cartridge slot.
 
 7: Choose the pitch of the sounds to play by setting the dial on each of your 8 step units to the desired note. With drums, each note is a different drum sounds. You can trial your sounds by pushing the activate button on each step unit (with the sequencer inactive).
 
@@ -6750,7 +6749,7 @@ Note: the Cannifier will flash an error on its activation switch if you attempt 
     <RecordThing>
       <Key>StructureLiquidPipeOneWayValve</Key>
       <Value>One Way Valve (Liquid)</Value>
-      <Description>The oneway valve moves liquid in one direction only: from input side to output side. It only permits flow if the input pressure is higher than output pressure..</Description>
+      <Description>The one way valve moves liquid in one direction only: from input side to output side. It only permits flow if the input pressure is higher than output pressure..</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureWindowShutter</Key>
@@ -6836,12 +6835,12 @@ You must place the laptop down to interact with the onsreen UI.
     <RecordThing>
       <Key>ItemPlantEndothermic_Genepool1</Key>
       <Value>Winterspawn (Alpha variant)</Value>
-      <Description>{LINK:Agrizero;Agrizero's} Winterspawn atmospheric bio-processor is a recent addition to their catalogue of genespliced environmental decorations. Using ambient heat to split {GAS:Water} into {GAS:Volatiles} and {GAS:Oxygen}, the Winterspawn cools its surroundings, when supplied with sufficient {GAS:Nitrogen}. The alpha variant has a peak cooling and electrolysis capacity of 90Watts and is most efficient operating in air temperatures of 0 to 40 Degrees Celsius.</Description>
+      <Description>{LINK:Agrizero;Agrizero's} Winterspawn atmospheric bio-processor is a recent addition to their catalog of genespliced environmental decorations. Using ambient heat to split {GAS:Water} into {GAS:Volatiles} and {GAS:Oxygen}, the Winterspawn cools its surroundings, when supplied with sufficient {GAS:Nitrogen}. The alpha variant has a peak cooling and electrolysis capacity of 90Watts and is most efficient operating in air temperatures of 0 to 40 Degrees Celsius.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemPlantEndothermic_Genepool2</Key>
       <Value>Winterspawn (Beta variant)</Value>
-      <Description>{LINK:Agrizero;Agrizero's} Winterspawn atmospheric bio-processor is a recent addition to their catalogue of genespliced environmental decorations. Using ambient heat to split {GAS:Water} into {GAS:Volatiles} and {GAS:Oxygen}, the Winterspawn cools its surroundings when supplied with sufficient {GAS:Nitrogen}. The beta variant has a peak cooling and electrolysis capacity of 150Watts and is most efficient operating in air temperatures of 14 to 24 Degrees Celsius.</Description>
+      <Description>{LINK:Agrizero;Agrizero's} Winterspawn atmospheric bio-processor is a recent addition to their catalog of genespliced environmental decorations. Using ambient heat to split {GAS:Water} into {GAS:Volatiles} and {GAS:Oxygen}, the Winterspawn cools its surroundings when supplied with sufficient {GAS:Nitrogen}. The beta variant has a peak cooling and electrolysis capacity of 150Watts and is most efficient operating in air temperatures of 14 to 24 Degrees Celsius.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemPlantThermogenic_Genepool1</Key>
@@ -7069,32 +7068,32 @@ Highly sensitive to temperature, nitrice will begin to melt as soon as it is min
     <RecordThing>
       <Key>StructurePipeRadiatorFlat</Key>
       <Value>Pipe Radiator</Value>
-      <Description>A pipe mounted radiator omptimised for radiating heat in vacuums and low pressure ebvironments.</Description>
+      <Description>A pipe mounted radiator optimized for radiating heat in vacuums and low pressure environments.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeRadiatorFlatLiquid</Key>
       <Value>Pipe Radiator Liquid</Value>
-      <Description>A liquid pipe mounted radiator omptimised for radiating heat in vacuums and low pressure environments.</Description>
+      <Description>A liquid pipe mounted radiator optimized for radiating heat in vacuums and low pressure environments.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureMediumConvectionRadiator</Key>
       <Value>Medium Convection Radiator</Value>
-      <Description>A stand-alone radiator unit omptimised for exchanging heat with its surrounding atmosphere.</Description>
+      <Description>A stand-alone radiator unit optimized for exchanging heat with its surrounding atmosphere.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureMediumRadiator</Key>
       <Value>Medium Radiator</Value>
-      <Description>A stand-alone radiator unit omptimised for radiating heat in vacuums and low pressure environments.</Description>
+      <Description>A stand-alone radiator unit optimized for radiating heat in vacuums and low pressure environments.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureMediumRadiatorLiquid</Key>
       <Value>Medium Radiator Liquid</Value>
-      <Description>A stand-alone liquid radiator unit omptimised for radiating heat in vacuums and low pressure environments.</Description>
+      <Description>A stand-alone liquid radiator unit optimized for radiating heat in vacuums and low pressure environments.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureMediumConvectionRadiatorLiquid</Key>
       <Value>Medium Convection Radiator Liquid</Value>
-      <Description>A stand-alone liquid radiator unit omptimised for exchanging heat with its surrounding atmosphere.</Description>
+      <Description>A stand-alone liquid radiator unit optimized for exchanging heat with its surrounding atmosphere.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPipeRadiator</Key>
@@ -7124,17 +7123,17 @@ Highly sensitive to temperature, nitrice will begin to melt as soon as it is min
     <RecordThing>
       <Key>StructureSleeperVertical</Key>
       <Value>Sleeper Vertical</Value>
-      <Description>The vertical variant of the sleeper. Will keep players hydrated and fed while they are logged out - as long as a breatheable atmosphere is provided.</Description>
+      <Description>The vertical variant of the sleeper. Will keep players hydrated and fed while they are logged out - as long as a breathable atmosphere is provided.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureSleeperLeft</Key>
       <Value>Sleeper Left</Value>
-      <Description>A horizontal variant of the sleeper. Will keep players hydrated and fed while they are logged out - as long as a breatheable atmosphere is provided.</Description>
+      <Description>A horizontal variant of the sleeper. Will keep players hydrated and fed while they are logged out - as long as a breathable atmosphere is provided.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureSleeperRight</Key>
       <Value>Sleeper Right</Value>
-      <Description>A horizontal variant of the sleeper. Will keep players hydrated and fed while they are logged out - as long as a breatheable atmosphere is provided.</Description>
+      <Description>A horizontal variant of the sleeper. Will keep players hydrated and fed while they are logged out - as long as a breathable atmosphere is provided.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureProximitySensor</Key>
@@ -7169,8 +7168,8 @@ Highly sensitive to temperature, nitrice will begin to melt as soon as it is min
     <RecordThing>
       <Key>StructureCombustionCentrifuge</Key>
       <Value>Combustion Centrifuge</Value>
-      <Description>The Combustion Centrifuge is a gas powered version of the {THING:StructureCentrifuge}. A combustible fuel mix should be supplied to the gas input, and waste gasses should be vented from the output. The machine's RPMs must be controlled via the throttle and combustion limitor levers. If the Combustion Centrifuge gains, or looses, RPMs too fast it will experience stress, and eventually grind to a halt.  Higher RPMs directly result in faster processing speeds.
-The throttle lever controls the amount of fuel being pulled into the machine, increasing the temperature inside the engine, and leading to an increase in RPM. The limitor lever influences the speed of the combustion, and how much uncombusted gas is in the exhaust.	  
+      <Description>The Combustion Centrifuge is a gas powered version of the {THING:StructureCentrifuge}. A combustible fuel mix should be supplied to the gas input, and waste gasses should be vented from the output. The machine's RPMs must be controlled via the throttle and combustion limiter levers. If the Combustion Centrifuge gains, or looses, RPMs too fast it will experience stress, and eventually grind to a halt.  Higher RPMs directly result in faster processing speeds.
+The throttle lever controls the amount of fuel being pulled into the machine, increasing the temperature inside the engine, and leading to an increase in RPM. The limiter lever influences the speed of the combustion, and how much uncombusted gas is in the exhaust.	  
 Ejecting ore from the Combustion Centrifuge while it is at high RPMs will result in additional stress build up.  If turned off while not stressed, the machine will automatically start to brake, and reduce RPMs in a controlled manner.
 	  </Description>
     </RecordThing>
@@ -7232,13 +7231,18 @@ For temperature and pressure ranges, four genes appear on the same widget. The o
     </RecordThing>
     <RecordThing>
       <Key>AppliancePlantGeneticStabilizer</Key>
-      <Value>Appliance Plant Genetic Stabilizer</Value>
-      <Description />
+      <Value>Plant Genetic Stabilizer</Value>
+      <Description>The Genetic Stabilizer can be used to manipulate gene stability on a specific {LINK:OrganicPage;Plants} or {LINK:OrganicPage;Seeds}. It has two modes Stabilize and Destabilize.
+Stabilize: Increases all genes stability by 50%.
+Destabilize: Decreases all gene stability by 10% other than a chosen gene which will received decreased stability by 50%.
+      </Description>
     </RecordThing>
     <RecordThing>
       <Key>AppliancePlantGeneticSplicer</Key>
-      <Value>Appliance Plant Genetic Splicer</Value>
-      <Description />
+      <Value>Plant Genetic Splicer</Value>
+      <Description>The Genetic Splicer can be used to copy a single {LINK:GeneticsPage;gene} from one 'source' plant to another 'target' plant of the same type. After copying, the source plant will be destroyed.
+        
+To begin splicing, place a plant or seed bag in the left slot (source) and place another plant or seed bag of the same type in the right slot (target). You can select a gene using the arrow buttons. Close the sliding door and press the green activate button. Once splicing has begun, the device will be locked until the process has finished (which will take approximately twenty minutes). If you want to cancel splicing you can power off the bench or detach the appliance as a last resort.</Description>
     </RecordThing>
   </Things>
   <Slots>
@@ -8156,7 +8160,7 @@ For temperature and pressure ranges, four genes appear on the same widget. The o
     </Record>
     <Record>
       <Key>GeneticAppliences</Key>
-      <Value>Genetic Appliences</Value>
+      <Value>Genetic Appliances</Value>
     </Record>
     <Record>
       <Key>FireArm</Key>
@@ -8324,7 +8328,7 @@ For temperature and pressure ranges, four genes appear on the same widget. The o
     </Record>
     <Record>
       <Key>LoulanShortDesc</Key>
-      <Value>Loulan, upon arrival you will notice a breathable atmosphere, high enough pressure to sustain life - but a severe lack of it. This sandy giant is situated in the Gargantuan System, moving closer to the black hole situated in the centre each day. While abandoned and no longer green and full of {GAS:Water}, this planet still has a functioning atmosphere and you are tasked with scouring the wasteland to acquire the materials and resources needed to survive on this everlasting desert.</Value>
+      <Value>Loulan, upon arrival you will notice a breathable atmosphere, high enough pressure to sustain life - but a severe lack of it. This sandy giant is situated in the Gargantuan System, moving closer to the black hole situated in the center each day. While abandoned and no longer green and full of {GAS:Water}, this planet still has a functioning atmosphere and you are tasked with scouring the wasteland to acquire the materials and resources needed to survive on this everlasting desert.</Value>
     </Record>
     <Record>
       <Key>NewWorldAreaVenus</Key>
@@ -8672,7 +8676,7 @@ For temperature and pressure ranges, four genes appear on the same widget. The o
     </Record>
     <Record>
       <Key>SaveLocationBroken</Key>
-      <Value>Unable to access the savefiles location, are you using an invalid character? Try changing the save directory in Settings.</Value>
+      <Value>Unable to access the save files location, are you using an invalid character? Try changing the save directory in Settings.</Value>
     </Record>
     <Record>
       <Key>PlayerIsConnecting</Key>
@@ -9590,11 +9594,11 @@ For temperature and pressure ranges, four genes appear on the same widget. The o
     </Record>
     <Record>
       <Key>NewWorldMoonShortDesc</Key>
-      <Value>While the presence of coal isn't typical of Earth's Moon, the relatively flat terrain full of various sizeable craters and lack of atmosphere may be more familiar in this grey landscape. A great location for the budding Stationeer to begin their journey, with fewer of the hazards and complexities offered on more exotic worlds</Value>
+      <Value>While the presence of coal isn't typical of Earth's Moon, the relatively flat terrain full of various sizable craters and lack of atmosphere may be more familiar in this grey landscape. A great location for the budding Stationeer to begin their journey, with fewer of the hazards and complexities offered on more exotic worlds</Value>
     </Record>
     <Record>
       <Key>NewWorldSpaceShortDesc</Key>
-      <Value>While there's no gravity or atmosphere, at least there's a lot of space to build!  You'll find yourself amongst several asteroids that may contain various ores and ices you can use to survive out here.</Value>
+      <Value>While there's no gravity or atmosphere, at least there's a lot of space to build!  You'll find yourself among several asteroids that may contain various ores and ices you can use to survive out here.</Value>
     </Record>
     <Record>
       <Key>NewWorldVenusShortDesc</Key>
@@ -9614,7 +9618,7 @@ For temperature and pressure ranges, four genes appear on the same widget. The o
     </Record>
     <Record>
       <Key>NewWorldMimasShortDesc</Key>
-      <Value>A barren rock nestled under the wing of Saturn's spectular rings. Mimas tiny stature is reflected in its extremely low gravity, and the Mimantean surface is saturated with impact craters from wayward ring occupants. It's distance from the sun provides little power from solar devices.Be very careful when walking or jumping, as you can travel a long way and gain a lot of speed due to the extremely low gravity.</Value>
+      <Value>A barren rock nestled under the wing of Saturn's spectacular rings. Mimas tiny stature is reflected in its extremely low gravity, and the Mimantean surface is saturated with impact craters from wayward ring occupants. It's distance from the sun provides little power from solar devices.Be very careful when walking or jumping, as you can travel a long way and gain a lot of speed due to the extremely low gravity.</Value>
     </Record>
     <Record>
       <Key>SettingsTitleAudioAlerts</Key>
@@ -10347,7 +10351,7 @@ For temperature and pressure ranges, four genes appear on the same widget. The o
     </Record>
     <Record>
       <Key>LogicTypeOperationalTemperatureEfficiency</Key>
-      <Value>How the input pipe's temperature effects the machines efficency</Value>
+      <Value>How the input pipe's temperature effects the machines efficiency</Value>
     </Record>
     <Record>
       <Key>LogicTypeTemperatureDifferentialEfficiency</Key>
@@ -10363,7 +10367,7 @@ For temperature and pressure ranges, four genes appear on the same widget. The o
     </Record>
     <Record>
       <Key>LogicTypeRpm</Key>
-      <Value>The number of revolutions per minute that the device's spinning machanism is doing</Value>
+      <Value>The number of revolutions per minute that the device's spinning mechanism is doing</Value>
     </Record>
     <Record>
       <Key>LogicTypeStress</Key>
@@ -11283,7 +11287,7 @@ For temperature and pressure ranges, four genes appear on the same widget. The o
     </Record>
     <Record>
       <Key>ManualGetResearchPodsRequired</Key>
-      <Value>Sets the pod type to search for a certian pod when breaking down a pods.</Value>
+      <Value>Sets the pod type to search for a certain pod when breaking down a pods.</Value>
     </Record>
     <Record>
       <Key>CurrentResearchPodType</Key>
@@ -11899,7 +11903,7 @@ For temperature and pressure ranges, four genes appear on the same widget. The o
     </Record>
     <Record>
       <Key>SaveBeforeTravel</Key>
-      <Value>You need to save your game before travelling to another world!</Value>
+      <Value>You need to save your game before traveling to another world!</Value>
     </Record>
     <Record>
       <Key>LaunchRocketAlert</Key>
@@ -12191,7 +12195,7 @@ For temperature and pressure ranges, four genes appear on the same widget. The o
     </Record>
     <Record>
       <Key>CommandShutdown</Key>
-      <Value>Shutsdown the game server and returns player to the lobby can append a timer and message. usage: "/shutdown"</Value>
+      <Value>Shuts down the game server and returns player to the lobby can append a timer and message. usage: "/shutdown"</Value>
     </Record>
     <Record>
       <Key>CommandNotice</Key>
@@ -12239,7 +12243,7 @@ For temperature and pressure ranges, four genes appear on the same widget. The o
     </Record>
     <Record>
       <Key>CommandToggleGod</Key>
-      <Value>Toggles Player invinciablity including suit. : "/tg"</Value>
+      <Value>Toggles Player invincibility including suit. : "/tg"</Value>
     </Record>
     <Record>
       <Key>CommandToggleInfinitePower</Key>
@@ -12251,7 +12255,7 @@ For temperature and pressure ranges, four genes appear on the same widget. The o
     </Record>
     <Record>
       <Key>CommandSetTime</Key>
-      <Value>Sets the sun offset affectivley changing the time of day. : "/settime 0.25"</Value>
+      <Value>Sets the sun offset effectively changing the time of day. : "/settime 0.25"</Value>
     </Record>
     <Record>
       <Key>CommandToggleInstaGrow</Key>
@@ -12934,7 +12938,7 @@ Recruiting from civil engineering backgrounds, military and aerospace industries
     </Record>
     <Record>
       <Key>MoleNitrogenDescription</Key>
-      <Value>{GAS:Nitrogen} can be mixed with {GAS:Oxygen} to stablize its flammability and avoid {GAS:Oxygen} toxicity, and is a resource in its own right, useful for creating, a breathable atmosphere (at roughly 3:1 {GAS:Nitrogen} and {GAS:Oxygen}). The most efficient source of {GAS:Nitrogen} is from {THING:ItemNitrice} deposites found around the Solar System.</Value>
+      <Value>{GAS:Nitrogen} can be mixed with {GAS:Oxygen} to stabilize its flammability and avoid {GAS:Oxygen} toxicity, and is a resource in its own right, useful for creating, a breathable atmosphere (at roughly 3:1 {GAS:Nitrogen} and {GAS:Oxygen}). The most efficient source of {GAS:Nitrogen} is from {THING:ItemNitrice} deposites found around the Solar System.</Value>
     </Record>
     <Record>
       <Key>MoleCarbonDioxideDescription</Key>
@@ -12947,7 +12951,7 @@ Recruiting from civil engineering backgrounds, military and aerospace industries
       <Key>MoleVolatilesDescription</Key>
       <Value>Volatiles are an extremely reactive, complex organic molecule, which can be used in conjunction with oxygen as a combustible fuel. It is refined from {THING:ItemVolatiles}.
       
-Due to obscure and largely forgotten {LINK:ODA;ODA} regulations, volatiles are sometimes labelled 'H2' by various items of technology. However, though they are similar to hydrogen, they're not 'actually' hydrogen. {GAS:Volatiles} will not produce {GAS:Water} when combusted, without a catalyst (see the {THING:H2Combustor}). Alone, they create {GAS:Pollutant}s and {GAS:CarbonDioxide} when burned in the following ratio:
+Due to obscure and largely forgotten {LINK:ODA;ODA} regulations, volatiles are sometimes labeled 'H2' by various items of technology. However, though they are similar to hydrogen, they're not 'actually' hydrogen. {GAS:Volatiles} will not produce {GAS:Water} when combusted, without a catalyst (see the {THING:H2Combustor}). Alone, they create {GAS:Pollutant}s and {GAS:CarbonDioxide} when burned in the following ratio:
       
 2 {GAS:Volatiles} + 1 {GAS:Oxygen} -&gt; 3 {GAS:Pollutant} + 6 {GAS:CarbonDioxide} + heat.</Value>
     </Record>
