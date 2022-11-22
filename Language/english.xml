@@ -7244,6 +7244,11 @@ Destabilize: Decreases all gene stability by 10% other than a chosen gene which 
         
 To begin splicing, place a plant or seed bag in the left slot (source) and place another plant or seed bag of the same type in the right slot (target). You can select a gene using the arrow buttons. Close the sliding door and press the green activate button. Once splicing has begun, the device will be locked until the process has finished (which will take approximately twenty minutes). If you want to cancel splicing you can power off the bench or detach the appliance as a last resort.</Description>
     </RecordThing>
+    <RecordThing>
+      <Key>ApplianceSeedTray</Key>
+      <Value>Appliance Seed Tray</Value>
+      <Description />
+    </RecordThing>
   </Things>
   <Slots>
     <Record>
