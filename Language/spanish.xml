@@ -5793,7 +5793,15 @@
     </RecordThing>
     <RecordThing>
       <Key>CartridgePlantAnalyser</Key>
-      <Value/>
+      <Value>Cartucho Analizador de planta</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>AppliancePlantGeneticStabilizer</Key>
+      <Value>Estabilizador genético vegetal</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>AppliancePlantGeneticSplicer</Key>
+      <Value>Maquina de union genetica vegetal</Value>
     </RecordThing>
     <RecordThing>
       <Key>ApplianceSeedTray</Key>
