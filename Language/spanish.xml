@@ -6049,6 +6049,14 @@
       <Key>BottleSlot</Key>
       <Value>Ranura para botellas</Value>
     </Record>
+    <Record>
+      <Key>SourcePlant</Key>
+      <Value>Planta Origen</Value>
+    </Record>
+    <Record>
+      <Key>TargetPlant</Key>
+      <Value>Planta objetivo</Value>
+    </Record>
   </Slots>
   <Interactables>
     <Record>
@@ -11097,7 +11105,7 @@ Nota: El agua se trataba anteriormente como un gas, pero se está desarrollando 
     </Record>
     <Record>
       <Key>CartridgePlantAnalyserTitle</Key>
-      <Value>ANALIZADOR DE REDES</Value>
+      <Value>ANALIZADOR DE PLANTAS</Value>
     </Record>
   </Interface>
   <Colors>
