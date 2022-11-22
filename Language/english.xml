@@ -7247,7 +7247,7 @@ To begin splicing, place a plant or seed bag in the left slot (source) and place
     <RecordThing>
       <Key>ApplianceSeedTray</Key>
       <Value>Appliance Seed Tray</Value>
-      <Description />
+      <Description>The seed tray can hold up to twelve plants or seeds and can be used to facilitate fast experimentation and testing of plant genetics.</Description>
     </RecordThing>
   </Things>
   <Slots>
