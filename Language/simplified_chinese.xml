@@ -5908,6 +5908,10 @@
       <Key>CartridgePlantAnalyser</Key>
       <Value/>
     </RecordThing>
+    <RecordThing>
+      <Key>ApplianceSeedTray</Key>
+      <Value>电器 台灯 左</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>

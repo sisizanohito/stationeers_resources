@@ -5143,6 +5143,10 @@
       <Key>CartridgePlantAnalyser</Key>
       <Value/>
     </RecordThing>
+    <RecordThing>
+      <Key>ApplianceSeedTray</Key>
+      <Value>檯燈左</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>

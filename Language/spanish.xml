@@ -5796,12 +5796,8 @@
       <Value/>
     </RecordThing>
     <RecordThing>
-      <Key>AppliancePlantGeneticStabilizer</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
-      <Key>AppliancePlantGeneticSplicer</Key>
-      <Value/>
+      <Key>ApplianceSeedTray</Key>
+      <Value>Lámpara de escritorio izquierda</Value>
     </RecordThing>
   </Things>
   <Slots>

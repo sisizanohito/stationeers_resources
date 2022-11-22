@@ -5867,6 +5867,10 @@
       <Key>CartridgePlantAnalyser</Key>
       <Value/>
     </RecordThing>
+    <RecordThing>
+      <Key>ApplianceSeedTray</Key>
+      <Value>Gerät Schreibtischlampe Left</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>

@@ -5815,6 +5815,10 @@ Rychlost získávání nebo ztráty tepla závisí na dané kapalině. Přidán�
       <Key>CartridgePlantAnalyser</Key>
       <Value/>
     </RecordThing>
+    <RecordThing>
+      <Key>ApplianceSeedTray</Key>
+      <Value>Stolní lampa spotřebiče vlevo</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>
