@@ -3976,10 +3976,6 @@
       <Value>Painel Solar Portátil</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemWreckageTransformerMedium2</Key>
-      <Value>Estrutura Transformador (Médio)</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemWreckageTransformerSmall1</Key>
       <Value>Transformador (Pequeno)</Value>
     </RecordThing>
@@ -4281,10 +4277,6 @@
     <RecordThing>
       <Key>ItemKitStirlingEngine</Key>
       <Value>Motor de Foguete</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ApplianceSeedTray</Key>
-      <Value>Utensílio Luz de Secretária Esquerda</Value>
     </RecordThing>
   </Things>
   <Slots>
