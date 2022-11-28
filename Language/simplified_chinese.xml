@@ -11412,10 +11412,6 @@ Stationeers计划从土木工程从业人员、军事和航空航天工业、软
 注意：水以前被处理为气体，但正在开发一种新的液体系统，包括单独的液体管道，罐，泵等。水是目前唯一可用的液体，目前不会改变状态。</Value>
     </Record>
     <Record>
-      <Key>MoleNitrousOxideDescription</Key>
-      <Value>一氧化二氮是一种麻醉性气体，如果吸入，会导致玩家昏迷。它能够被用作 {THING:ItemJetpackBasic} 的推进剂。</Value>
-    </Record>
-    <Record>
       <Key>SettingsSmoothTerrain</Key>
       <Value>平滑地形</Value>
     </Record>

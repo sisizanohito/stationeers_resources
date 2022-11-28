@@ -11040,10 +11040,6 @@ El agua es fundamental para que las  {LINK:OrganicPage;plants} se mantengan viva
 Nota: El agua se trataba anteriormente como un gas, pero se está desarrollando un nuevo sistema para líquidos, que incluye tuberías, tanques, bombas, etc. separados para líquidos. El agua es actualmente el único líquido disponible y actualmente no cambia de estado.</Value>
     </Record>
     <Record>
-      <Key>MoleNitrousOxideDescription</Key>
-      <Value>El óxido nitroso es un gas inerte que noqueará a los jugadores si se inhala. Hace que tu {THING:ItemJetpackBasic} funcione genial.</Value>
-    </Record>
-    <Record>
       <Key>SettingsSmoothTerrain</Key>
       <Value>Terreno Liso</Value>
     </Record>
