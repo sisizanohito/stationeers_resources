@@ -2851,7 +2851,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureElectrolyzer</Key>
-      <Value>Electrolyseur</Value>
+      <Value>Électrolyseur</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureElevatorShaft</Key>
@@ -3691,7 +3691,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureReverseElectrolyzer</Key>
-      <Value>Electrolyseur</Value>
+      <Value>Électrolyseur inversé</Value>
     </RecordThing>
     <RecordThing>
       <Key>H2Combustor</Key>
