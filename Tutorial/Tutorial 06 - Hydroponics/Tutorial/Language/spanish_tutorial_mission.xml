@@ -225,6 +225,10 @@ Pero hoy, solo estamos probando lo básico: tienes agua, luz y la mezcla de gas 
       <Value>Coge la botella de agua vacía de la caja</Value>
     </Record>
     <Record>
+      <Key>6AddWaterbottletofiller</Key>
+      <Value>Añade la botella de agua vacía al rellenador de botellas</Value>
+    </Record>
+    <Record>
       <Key>6NarrationExtra2</Key>
       <Value>Excelente. Ahora es el momento de añadir agua a su red de líquidos. Coge el cinturón de minerales de la caja. Luego use la trituradora de hielo para convertir el hielo en agua.</Value>
     </Record>

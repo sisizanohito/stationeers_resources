@@ -11042,6 +11042,10 @@ Wasser ist entscheidend dafür, dass &lt;color=#0080FFFF&gt;{LINK:OrganicPage;pl
 Hinweis: Wasser wurde früher wie Gas behandelt, aber ein neues System für Flüssigkeiten wird entwickelt, einschließlich separater Rohre, Tanks, Pumpen usw. für Flüssigkeiten. Wasser ist derzeit die einzige verfügbare Flüssigkeit und ändert derzeit nicht den Aggregatzustand.</Value>
     </Record>
     <Record>
+      <Key>MoleNitrousOxideDescription</Key>
+      <Value>Lachgas ist ein Inertgas, das Spieler ausknockt, wenn es eingeatmet wird. Es lässt dein {THING:ItemJetpackBasic} whoosh gehen.</Value>
+    </Record>
+    <Record>
       <Key>SettingsSmoothTerrain</Key>
       <Value>Terrainglättung</Value>
     </Record>

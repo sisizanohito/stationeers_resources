@@ -225,6 +225,10 @@ Dnes si však vyzkoušíme jen základy: máte vodu, světlo a správnou směs p
       <Value>Vezměte prázdnou láhev na vodu z bedny</Value>
     </Record>
     <Record>
+      <Key>6AddWaterbottletofiller</Key>
+      <Value>Přidejte láhev na vodu do plničky</Value>
+    </Record>
+    <Record>
       <Key>6NarrationExtra2</Key>
       <Value>Vynikající. Nyní je čas přidat do kapalinové sítě vodu. Vezměte z bedny hornický opasek. Pak použijte drtič ledu a zpracujte led na vodu.</Value>
     </Record>

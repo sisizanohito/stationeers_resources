@@ -225,6 +225,10 @@ Mais aujourd’hui, nous ne testons que les bases: vous avez de l’eau, de la l
       <Value>Obtenez une bouteille d&apos;eau vide de la caisse</Value>
     </Record>
     <Record>
+      <Key>6AddWaterbottletofiller</Key>
+      <Value>Ajoutez une bouteille d&apos;eau dans le remplisseur</Value>
+    </Record>
+    <Record>
       <Key>6NarrationExtra2</Key>
       <Value>Excellent. Il est maintenant temps d’ajouter de l’eau à votre réseau de liquide. Prenez la ceinture de minerai de la caisse. Ensuite, utilisez le broyeur de glace pour transformer la glace en eau.</Value>
     </Record>

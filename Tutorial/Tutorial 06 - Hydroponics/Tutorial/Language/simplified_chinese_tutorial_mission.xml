@@ -225,6 +225,10 @@
       <Value>从箱子中拿取空水瓶</Value>
     </Record>
     <Record>
+      <Key>6AddWaterbottletofiller</Key>
+      <Value>将水瓶放入灌装机</Value>
+    </Record>
+    <Record>
       <Key>6NarrationExtra2</Key>
       <Value>非常好。现在是时候向液体管网中添加水了。从箱子中取出采矿带。然后使用碎冰机将冰处理成水。</Value>
     </Record>
