@@ -7249,6 +7249,26 @@ To begin splicing, place a plant or seed bag in the left slot (source) and place
       <Value>Appliance Seed Tray</Value>
       <Description>The seed tray can hold up to twelve plants or seeds and can be used to facilitate fast experimentation and testing of plant genetics.</Description>
     </RecordThing>
+    <RecordThing>
+      <Key>Landingpad_CenterPiece01</Key>
+      <Value>Landingpad_ Center Piece01</Value>
+      <Description />
+    </RecordThing>
+    <RecordThing>
+      <Key>Landingpad_StraightPiece01</Key>
+      <Value>Landingpad_ Straight Piece01</Value>
+      <Description />
+    </RecordThing>
+    <RecordThing>
+      <Key>Landingpad_DiagonalPiece01</Key>
+      <Value>Landingpad_ Diagonal Piece01</Value>
+      <Description />
+    </RecordThing>
+    <RecordThing>
+      <Key>Landingpad_DataConnectionPiece</Key>
+      <Value>Landingpad_ Data Connection Piece</Value>
+      <Description />
+    </RecordThing>
   </Things>
   <Slots>
     <Record>
@@ -12977,7 +12997,7 @@ Note: {GAS:Water} was previously treated as a gas, but a new system for liquids 
     </Record>
     <Record>
       <Key>MoleNitrousOxideDescription</Key>
-      <Value>Nitrous oxide is an inert gas that will knock players out if inhaled. It makes your {THING:ItemJetpackBasic} go whoosh.</Value>
+      <Value>Nitrous oxide is a reactive gas that will knock players out if inhaled.  It acts as an oxidizer for combustion, and allows volatiles to burn significantly hotter, faster, and at a lower autoignition temperature. It can be produced in an energy intensive process inside of a {THING:StructureNitrolyzer}.</Value>
     </Record>
     <Record>
       <Key>SettingsSmoothTerrain</Key>

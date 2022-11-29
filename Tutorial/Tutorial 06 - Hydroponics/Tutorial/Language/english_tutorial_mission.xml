@@ -227,7 +227,7 @@ But today, we're just testing the basics: you've got water, light, and the corre
 		</Record>
 		<Record>
 			<Key>6AddWaterbottletofiller</Key>
-			<Value>Add water bottle to filler</Value>
+			<Value>Add water bottle to filler and turn the filler on using the power switch on the right hand side.</Value>
 		</Record>
 		<Record>
 			<Key>6NarrationExtra2</Key>
