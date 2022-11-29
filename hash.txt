@@ -6,7 +6,7 @@ e3aae2cbe50846e3461cece75916bdc0f04e16463e5101095cd9f25ec1fe70b8  ./Scenario/Bor
 ff100f5957a90be34311a456aed95c2e125c954b5db9f5d7cfd6d76a4011f240  ./Language/english_help.xml
 8c679faebb691c16ac378c36e22950d8a39eca1481ec185c512c433e73c6a606  ./Language/english_tips.xml
 a1d41912fb2da2100186e41633f3a8630301748b3044aa21a637ed56ab1458cf  ./Language/english_keys.xml
-719f3e7ab0c073a59616b41e4b40fbb0f03bee8549cc854bac3b8c56883575db  ./Language/english.xml
+f1e0e6cf6b015af8d73800c65d1f45430d9d8255d8c1ddf2fa8ba4e1efb48e69  ./Language/english.xml
 a715a2c3cf1487c2b212a27e1fe9a03af9c559d5e4e6d6ddb3aec139c4580bc7  ./Incidents/Storm/Incident/Language/english.xml
 f7d1474bd77ef0dae47335e2a897a4d09b06800228d84cc4e7a74987e61b3bfe  ./Incidents/Supply Crate (Grenade Trap)/Incident/Language/english.xml
 f203fec10b7db77385711340b8ccc846e4eeaf994410a00062650e637ec98081  ./Incidents/Power Surge/Incident/Language/english.xml
@@ -28,7 +28,7 @@ f7d1474bd77ef0dae47335e2a897a4d09b06800228d84cc4e7a74987e61b3bfe  ./Incidents/Su
 62f20bea5187059a7fb670110b807956c2b252645c3e3fbf055037b307b20cff  ./Incidents/Device Fault (Stun Player)/Incident/Language/english.xml
 ee8e62635f6129edc9faeb0b2062357413f57df4ff5d851df0f49c9264017297  ./Incidents/Grounder Attack/Incident/Language/english.xml
 04c1156a84c498b5631386dfbca9c2b92a59cc295d03f5cd1b8413f6d98fa1d7  ./Tutorial/Tutorial 01 - Basic Concepts/Tutorial/Language/english_tutorial_mission.xml
-5ca4cdd8202438caf00c62d04ea645a59264b12adcf016026f501ebc6038c4ad  ./Tutorial/Tutorial 06 - Hydroponics/Tutorial/Language/english_tutorial_mission.xml
+f62c37d449d6c8aad0ff271c51251561d7d79a6ea9fd392f6138aea48dac7c73  ./Tutorial/Tutorial 06 - Hydroponics/Tutorial/Language/english_tutorial_mission.xml
 22ced9582f48c701142ea7d385fe783cbbeefb733f8c5bd2f20ed4f89b6bd042  ./Tutorial/Tutorial 08 - Research/Tutorial/Language/english_tutorial_mission.xml
 5fc4776a0d8eb4f4120c4ccb5cad8c8abcde2cb10ef9dce66b0c15e3e585f7bb  ./Tutorial/Tutorial 02 -Constuction/Tutorial/Language/english_tutorial_mission.xml
 9452dec168c42c4bcf8f852e24c0d5c8774466addf8ca7683fdb8ffcbdfbf617  ./Tutorial/Tutorial 09 - Basic Reseach/Tutorial/Language/english_tutorial_mission.xml
