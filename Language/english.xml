@@ -4714,7 +4714,8 @@ When landing, the rocket will deploy a lander, and any cargo contained in the {T
     </RecordThing>
     <RecordThing>
       <Key>StructureTankSmallInsulated</Key>
-      <Value>Tank Small (Insulated)</Value>
+      <Value>Structure Tank Small Insulated</Value>
+      <Description />
     </RecordThing>
     <RecordThing>
       <Key>StructureTankBigInsulated</Key>
