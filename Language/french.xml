@@ -10881,10 +10881,6 @@ L’eau est essentielle pour que les &lt;color=#0080FFFF&gt;{LINK:OrganicPage;pl
 Remarque : l’eau était auparavant traitée comme un gaz, mais un nouveau système pour les liquides est en cours de développement, comprenant des tuyaux, des réservoirs, des pompes, etc. L’eau est actuellement le seul liquide disponible et, pour le moment, ne change pas d’état.</Value>
     </Record>
     <Record>
-      <Key>MoleNitrousOxideDescription</Key>
-      <Value>Le protoxyde d&apos;azote est un gaz inerte qui assommera les joueurs s&apos;il est inhalé. Il fait aussi exploser votre {THING:ItemJetpackBasic}.</Value>
-    </Record>
-    <Record>
       <Key>SettingsSmoothTerrain</Key>
       <Value>Terrain lisse</Value>
     </Record>

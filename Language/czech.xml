@@ -11230,10 +11230,6 @@ Voda je pro &lt;color=#0080FFFF&gt;{LINK:OrganicPage;rostliny}&lt;/color&gt; roz
 Poznámka: S vodou se dříve zacházelo jako s plynem, ale nyní se vyvíjí nový systém pro kapaliny, včetně samostatných potrubí, nádrží, čerpadel atd. pro kapaliny. Voda je v současné době jedinou dostupnou kapalinou a v současnosti nemění skupenství.</Value>
     </Record>
     <Record>
-      <Key>MoleNitrousOxideDescription</Key>
-      <Value>Oxid dusný je inertní plyn, který při vdechnutí hráče omráčí. Způsobí, že se váš {THING:ItemJetpackBasic} rozletí.</Value>
-    </Record>
-    <Record>
       <Key>SettingsSmoothTerrain</Key>
       <Value>Hladký terén</Value>
     </Record>
