@@ -3954,7 +3954,7 @@ When connected to a {THING:StructureComputer} containing a {THING:MotherboardCom
     <RecordThing>
       <Key>MotherboardComms</Key>
       <Value>Communications Motherboard</Value>
-      <Description>When placed in a {THING:StructureComputer} and connected to a {THING:StructureShuttleLandingPad}, a {THING:StructureSatelliteDish}, and a {THING:StructureVendingMachine} allows Stationeers to trade with suppliers. Adjust the horizontal and vertical attributes of the {THING:StructureSatelliteDish} either directly or through logic. You need a communications signal of 95% or above to establish reliable communications with a trader.</Description>
+      <Description>When placed in a {THING:StructureComputer} and connected to a {THING:Landingpad_DataConnectionPiece}, a {THING:StructureSatelliteDish}, and a {THING:StructureVendingMachine} allows Stationeers to trade with suppliers. Adjust the horizontal and vertical attributes of the {THING:StructureSatelliteDish} either directly or through logic. You need a communications signal of 95% or above to establish reliable communications with a trader. A minimum of a 3x3 clear pad area with a {THING:Landingpad_CenterPiece01} at the center is required for a trader to land.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemMarineBodyArmor</Key>
@@ -7252,23 +7252,28 @@ To begin splicing, place a plant or seed bag in the left slot (source) and place
     </RecordThing>
     <RecordThing>
       <Key>Landingpad_CenterPiece01</Key>
-      <Value>Landingpad_ Center Piece01</Value>
-      <Description />
+      <Value>Landingpad Center</Value>
+      <Description>The target point where the trader shuttle will land. Requires a clear view of the sky.</Description>
     </RecordThing>
     <RecordThing>
       <Key>Landingpad_StraightPiece01</Key>
-      <Value>Landingpad_ Straight Piece01</Value>
-      <Description />
+      <Value>Landingpad Straight</Value>
+      <Description>Extends the size of the landing pad area. A basic trader shuttle requires a 3x3 clear landing area.</Description>
     </RecordThing>
     <RecordThing>
       <Key>Landingpad_DiagonalPiece01</Key>
-      <Value>Landingpad_ Diagonal Piece01</Value>
-      <Description />
+      <Value>Landingpad Diagonal</Value>
+      <Description>Extends the size of the landing pad area. A basic trader shuttle requires a 3x3 clear landing area.</Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>Landingpad_CrossPiece</Key>
+      <Value>Landingpad Cross</Value>
+      <Description>Extends the size of the landing pad area. A basic trader shuttle requires a 3x3 clear landing area.</Description>
     </RecordThing>
     <RecordThing>
       <Key>Landingpad_DataConnectionPiece</Key>
-      <Value>Landingpad_ Data Connection Piece</Value>
-      <Description />
+      <Value>Landingpad Data And Power</Value>
+      <Description>Provides power to the landing pad. The data port must be connected to the data port of a computer with a communications motherboard for a trader to be called in to land.</Description>
     </RecordThing>
   </Things>
   <Slots>
