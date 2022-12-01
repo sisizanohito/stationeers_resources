@@ -4028,6 +4028,10 @@
       <Key>ItemKitStirlingEngine</Key>
       <Value>Motore a razzo</Value>
     </RecordThing>
+    <RecordThing>
+      <Key>Landingpad_CrossPiece</Key>
+      <Value>Piattaforma di atterraggio</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>

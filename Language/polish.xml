@@ -4093,6 +4093,18 @@
       <Key>CartridgePlantAnalyser</Key>
       <Value/>
     </RecordThing>
+    <RecordThing>
+      <Key>Landingpad_CenterPiece01</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>Landingpad_StraightPiece01</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>Landingpad_CrossPiece</Key>
+      <Value>Platforma do lądowania</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>

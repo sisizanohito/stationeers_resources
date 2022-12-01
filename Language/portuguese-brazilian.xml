@@ -2844,6 +2844,10 @@
     <RecordThing>
       <Key>StructureRocketModuleMiningJunk</Key>
     </RecordThing>
+    <RecordThing>
+      <Key>Landingpad_CrossPiece</Key>
+      <Value>Plataforma de Aterrissagem</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>

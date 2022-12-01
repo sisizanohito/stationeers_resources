@@ -3916,6 +3916,10 @@
       <Key>ItemKitStirlingEngine</Key>
       <Value>Rakettimoottori</Value>
     </RecordThing>
+    <RecordThing>
+      <Key>Landingpad_CrossPiece</Key>
+      <Value>Laskeutumisalusta</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>
