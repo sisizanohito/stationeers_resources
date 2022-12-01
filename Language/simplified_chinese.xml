@@ -5908,18 +5908,6 @@
       <Key>CartridgePlantAnalyser</Key>
       <Value/>
     </RecordThing>
-    <RecordThing>
-      <Key>Landingpad_CenterPiece01</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
-      <Key>Landingpad_StraightPiece01</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
-      <Key>Landingpad_CrossPiece</Key>
-      <Value>着陆架</Value>
-    </RecordThing>
   </Things>
   <Slots>
     <Record>

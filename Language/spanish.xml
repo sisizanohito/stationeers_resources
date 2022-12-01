@@ -5807,18 +5807,6 @@
       <Key>ApplianceSeedTray</Key>
       <Value>Bandeja de semillas del dispositivo</Value>
     </RecordThing>
-    <RecordThing>
-      <Key>Landingpad_CenterPiece01</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
-      <Key>Landingpad_StraightPiece01</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
-      <Key>Landingpad_CrossPiece</Key>
-      <Value>Pista de aterrizaje</Value>
-    </RecordThing>
   </Things>
   <Slots>
     <Record>

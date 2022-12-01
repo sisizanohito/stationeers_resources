@@ -4278,10 +4278,6 @@
       <Key>ItemKitStirlingEngine</Key>
       <Value>Motor de Foguete</Value>
     </RecordThing>
-    <RecordThing>
-      <Key>Landingpad_CrossPiece</Key>
-      <Value>Plataforma de Aterragem</Value>
-    </RecordThing>
   </Things>
   <Slots>
     <Record>
