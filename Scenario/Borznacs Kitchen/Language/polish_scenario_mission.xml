@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Code>PL</Code>
-  <Interface/>
+  <Interface>
+    <Record>
+      <Key>ScenariosBorznacsKitchenDescription</Key>
+      <!--Menu Disc-->
+      <Value>Po zerwaniu kilku umów handlowych z Sinotai, Borznac 5th postanowił zbudować własne imperium, przejmując kontrolę nad wszystkimi pobliskimi bazami księżycowymi, w tym twoją.
+Zostałeś zmuszony do pracy jako jego nowy osobisty szef kuchni. Więc lepiej zacznij gotować.</Value>
+    </Record>
+  </Interface>
 </Language>

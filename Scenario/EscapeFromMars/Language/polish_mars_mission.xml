@@ -68,6 +68,10 @@
     </Record>
     <!-- Mission Stage: Setup Manufacturing -->
     <Record>
+      <Key>MarsTitleSetupManufacturing</Key>
+      <Value>Zajęcie środków produkcji</Value>
+    </Record>
+    <Record>
       <Key>MarsTabletStage3</Key>
       <Value>PRODUKCYJNE 101</Value>
     </Record>

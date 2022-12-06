@@ -104,11 +104,20 @@ Gdy budujesz, ważne jest aby pamiętać że ciśnienie jest mierzone jako róż
       {LIST_OF_REAGENTS}
       </Text>
     </StationpediaPage>
+    <StationpediaPage>
+      <Key>GasPage</Key>
+      <Title>Gazy</Title>
+      <Text>Są to gazy chemiczne pewnych rodzajów.{LIST_OF_GASES}¶</Text>
+    </StationpediaPage>
     <!--
     ~~~~~~~~~~~~~~~~~~~~~~~~~
     |                     TEMPLATES               |
     ~~~~~~~~~~~~~~~~~~~~~~~~~
     -->
+    <StationpediaPage>
+      <Key>ThingSlotItemTemplate</Key>
+      <Text>{0}. {1} Rodzaj {2}</Text>
+    </StationpediaPage>
     <StationpediaPage>
       <Key>IceMeltingTemplate</Key>
       <Text>Temperatura Topnienia {1}

@@ -269,6 +269,10 @@
       <Value>Skonsumuj</Value>
     </Record>
     <Record>
+      <Key>ConsumeFail</Key>
+      <Value>Błąd: Hełm zamknięty</Value>
+    </Record>
+    <Record>
       <Key>Plant</Key>
       <Value>Posadź</Value>
     </Record>
@@ -411,6 +415,14 @@
     <Record>
       <Key>FlipRover</Key>
       <Value>Odwróć Łazik</Value>
+    </Record>
+    <Record>
+      <Key>Idle</Key>
+      <Value>Bezczynne</Value>
+    </Record>
+    <Record>
+      <Key>Active</Key>
+      <Value>Aktywny</Value>
     </Record>
   </Actions>
   <Things>
