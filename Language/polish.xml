@@ -5464,6 +5464,10 @@
       <Value>Nie można uzyskać dostępu do lokalizacji plików zapisu, czy używasz niepoprawnych znaków? Spróbuj zmienić folder zapisu w Ustawieniach.</Value>
     </Record>
     <Record>
+      <Key>GamePaused</Key>
+      <Value>Gra wstrzymana</Value>
+    </Record>
+    <Record>
       <Key>AlertButtonClose</Key>
       <Value>Zamknij</Value>
     </Record>
@@ -5922,7 +5926,7 @@
     </Record>
     <Record>
       <Key>TooltipNeedMoreKit</Key>
-      <Value>&lt;color=red&gt;Need more {0}&lt;/color&gt;.</Value>
+      <Value>&lt;color=red&gt;Potrzeba więcej {0}.</Value>
     </Record>
     <Record>
       <Key>JoinMenuSearchPlaceholder</Key>
