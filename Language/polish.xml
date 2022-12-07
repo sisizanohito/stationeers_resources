@@ -7968,8 +7968,7 @@
     </Record>
     <Record>
       <Key>StationpediaLogicHeader</Key>
-      <Value>
-        Logika</Value>
+      <Value>Logika</Value>
     </Record>
     <Record>
       <Key>StationpediaLogicSlotHeader</Key>
@@ -8146,6 +8145,10 @@ Uwaga: Woda była poprzednio traktowana jako gaz, ale został wprowadzony nowy s
       <Value>Zmień Wygląd</Value>
     </Record>
     <Record>
+      <Key>CreateNewGame</Key>
+      <Value>Wybierz świat</Value>
+    </Record>
+    <Record>
       <Key>WorkshopModsTitle</Key>
       <Value>Warsztat</Value>
     </Record>
@@ -8154,12 +8157,24 @@ Uwaga: Woda była poprzednio traktowana jako gaz, ale został wprowadzony nowy s
       <Value>Wprowadź Nazwę Zapisu...</Value>
     </Record>
     <Record>
+      <Key>GameMenuPauseGameButton</Key>
+      <Value>Wstrzymaj grę</Value>
+    </Record>
+    <Record>
       <Key>WorldConfigurationDifficultyTitle</Key>
       <Value>Inne Ustawienia</Value>
     </Record>
     <Record>
       <Key>StartNewGameButton</Key>
-      <Value>Powrót do gry</Value>
+      <Value>Rozpocznij grę</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaThermalConductivityRadiation</Key>
+      <Value>Promieniowanie cieplne:</Value>
+    </Record>
+    <Record>
+      <Key>ScoreboardDaysLived</Key>
+      <Value>Przeżytych dni</Value>
     </Record>
     <Record>
       <Key>WorldInfoButtonDeleteBackup</Key>
