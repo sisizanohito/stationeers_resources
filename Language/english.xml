@@ -4866,13 +4866,18 @@ When landing, the rocket will deploy a lander, and any cargo contained in the {T
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAirlockGate</Key>
-      <Value>Kit (Airlock Gate)</Value>
-      <Description>Description coming.</Description>
+      <Value>Kit (Hanger Door)</Value>
+      <Description>Modular door pieces for creating large hanger doors.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureAirlockGate</Key>
-      <Value>Airlock Gate</Value>
-      <Description>Description coming.</Description>
+      <Value>Small Hanger Door</Value>
+      <Description>1 x 1 modular door piece for building hanger doors.</Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureMediumHangerDoor</Key>
+      <Value>Medium Hanger Door</Value>
+      <Description>1 x 2 modular door piece for building hanger doors.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureBatteryLarge</Key>
@@ -7274,6 +7279,21 @@ To begin splicing, place a plant or seed bag in the left slot (source) and place
       <Key>Landingpad_DataConnectionPiece</Key>
       <Value>Landingpad Data And Power</Value>
       <Description>Provides power to the landing pad. The data port must be connected to the data port of a computer with a communications motherboard for a trader to be called in to land.</Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>SeedBag_Switchgrass</Key>
+      <Value>Switchgrass Seed</Value>
+      <Description />
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemPlantSwitchGrass</Key>
+      <Value>Switch Grass</Value>
+      <Description />
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCropHay</Key>
+      <Value>Hay</Value>
+      <Description />
     </RecordThing>
   </Things>
   <Slots>
