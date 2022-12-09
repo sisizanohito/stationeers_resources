@@ -4149,6 +4149,10 @@
       <Value>Luftschleusentor</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureMediumHangerDoor</Key>
+      <Value>Bausatz Hängetür</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureBatteryLarge</Key>
       <Value>Stationsbatterie (Groß)</Value>
     </RecordThing>
@@ -5866,6 +5870,14 @@
     <RecordThing>
       <Key>CartridgePlantAnalyser</Key>
       <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemPlantSwitchGrass</Key>
+      <Value>Schalter</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCropHay</Key>
+      <Value>Kappe</Value>
     </RecordThing>
   </Things>
   <Slots>

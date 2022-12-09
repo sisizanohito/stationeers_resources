@@ -4086,6 +4086,10 @@
       <Value>Portail étanche</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureMediumHangerDoor</Key>
+      <Value>Kit (porte coulissante de hangar)</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureBatteryLarge</Key>
       <Value>Batterie Stationnaire (Grande)</Value>
     </RecordThing>
@@ -5667,6 +5671,14 @@
     <RecordThing>
       <Key>CartridgePlantAnalyser</Key>
       <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemPlantSwitchGrass</Key>
+      <Value>Interrupteur</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCropHay</Key>
+      <Value>Chapeau</Value>
     </RecordThing>
   </Things>
   <Slots>

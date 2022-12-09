@@ -4636,6 +4636,14 @@
       <Key>CartridgePlantAnalyser</Key>
       <Value/>
     </RecordThing>
+    <RecordThing>
+      <Key>ItemPlantSwitchGrass</Key>
+      <Value>スイッチ</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCropHay</Key>
+      <Value>帽子</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>

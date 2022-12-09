@@ -4188,6 +4188,10 @@
       <Value>Přechodová vrata</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureMediumHangerDoor</Key>
+      <Value>Závěsné dveře (sada)</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureBatteryLarge</Key>
       <Value>Baterie stanice (velká)</Value>
     </RecordThing>
@@ -5814,6 +5818,14 @@ Rychlost získávání nebo ztráty tepla závisí na dané kapalině. Přidán�
     <RecordThing>
       <Key>CartridgePlantAnalyser</Key>
       <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemPlantSwitchGrass</Key>
+      <Value>Přepínač</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCropHay</Key>
+      <Value>Čepice</Value>
     </RecordThing>
   </Things>
   <Slots>

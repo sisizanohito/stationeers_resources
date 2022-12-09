@@ -4117,6 +4117,10 @@
       <Value>氣閘大門</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureMediumHangerDoor</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureBatteryLarge</Key>
       <Value>蓄電器 (大型)</Value>
     </RecordThing>
@@ -5142,6 +5146,14 @@
     <RecordThing>
       <Key>CartridgePlantAnalyser</Key>
       <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemPlantSwitchGrass</Key>
+      <Value>開關</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCropHay</Key>
+      <Value>帽</Value>
     </RecordThing>
   </Things>
   <Slots>

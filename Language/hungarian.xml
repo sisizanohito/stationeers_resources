@@ -3889,6 +3889,10 @@
       <Value>Légzsilip kapu</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureMediumHangerDoor</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureBatteryLarge</Key>
       <Value>Akkumulátor (Nagy)</Value>
     </RecordThing>
@@ -4898,6 +4902,14 @@
     <RecordThing>
       <Key>CartridgePlantAnalyser</Key>
       <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemPlantSwitchGrass</Key>
+      <Value>Kapcsoló</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCropHay</Key>
+      <Value>Sapka</Value>
     </RecordThing>
   </Things>
   <Slots>

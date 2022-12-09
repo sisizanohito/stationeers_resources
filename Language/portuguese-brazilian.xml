@@ -2844,6 +2844,10 @@
     <RecordThing>
       <Key>StructureRocketModuleMiningJunk</Key>
     </RecordThing>
+    <RecordThing>
+      <Key>ItemPlantSwitchGrass</Key>
+      <Value>Interruptor</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>

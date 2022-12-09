@@ -3168,6 +3168,14 @@
       <Key>ItemKitStirlingEngine</Key>
       <Value>로켓 엔진</Value>
     </RecordThing>
+    <RecordThing>
+      <Key>ItemPlantSwitchGrass</Key>
+      <Value>스위치</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCropHay</Key>
+      <Value>모자</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>

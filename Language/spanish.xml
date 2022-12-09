@@ -4065,6 +4065,10 @@
       <Value>Puerta de la esclusa de aire</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureMediumHangerDoor</Key>
+      <Value>Kit Puerta de hangar</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureBatteryLarge</Key>
       <Value>Batería de la estación (grande)</Value>
     </RecordThing>
@@ -5806,6 +5810,14 @@
     <RecordThing>
       <Key>ApplianceSeedTray</Key>
       <Value>Bandeja de semillas del dispositivo</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemPlantSwitchGrass</Key>
+      <Value>Conmutador</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCropHay</Key>
+      <Value>Gorra</Value>
     </RecordThing>
   </Things>
   <Slots>
