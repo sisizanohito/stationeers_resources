@@ -5812,6 +5812,26 @@
       <Value>Bandeja de semillas del dispositivo</Value>
     </RecordThing>
     <RecordThing>
+      <Key>Landingpad_CenterPiece01</Key>
+      <Value>Plataforma de lanzamiento central</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>Landingpad_StraightPiece01</Key>
+      <Value>Plataforma de lanzamiento recta</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>Landingpad_DiagonalPiece01</Key>
+      <Value>Plataforma de aterrizaje diagonal</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>Landingpad_CrossPiece</Key>
+      <Value>Plataforma de lanzamiento cruzada</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>Landingpad_DataConnectionPiece</Key>
+      <Value>Datos y energia de la Plataforma de aterrizaje</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemPlantSwitchGrass</Key>
       <Value>Conmutador</Value>
     </RecordThing>
@@ -11050,6 +11070,10 @@ El contaminante tiene un calor específico alto, lo que lo convierte en un excel
 El agua es fundamental para que las  {LINK:OrganicPage;plants} se mantengan vivas y crezcan {LINK:NutritionPage;food}. También es un refrigerante excepcional con una capacidad calorífica específica muy alta.
 
 Nota: El agua se trataba anteriormente como un gas, pero se está desarrollando un nuevo sistema para líquidos, que incluye tuberías, tanques, bombas, etc. separados para líquidos. El agua es actualmente el único líquido disponible y actualmente no cambia de estado.</Value>
+    </Record>
+    <Record>
+      <Key>MoleNitrousOxideDescription</Key>
+      <Value>El óxido nitroso es un gas reactivo que noqueará a los jugadores si se inhala.  Actúa como un oxidante para la combustión y permite que los volátiles se quemen significativamente más calientes, más rápido y a una temperatura de autoignición más baja. Se puede producir en un proceso intensivo de energía dentro de un {THING:StructureNitrolyzer}.</Value>
     </Record>
     <Record>
       <Key>SettingsSmoothTerrain</Key>
