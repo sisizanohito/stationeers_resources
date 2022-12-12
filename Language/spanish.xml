@@ -4058,15 +4058,15 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAirlockGate</Key>
-      <Value>Puerta de esclusa de aire (kit)</Value>
+      <Value>Puerta de hangar (kit)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureAirlockGate</Key>
-      <Value>Puerta de la esclusa de aire</Value>
+      <Value>Puerta de hangar pequeña</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureMediumHangerDoor</Key>
-      <Value>Kit Puerta de hangar</Value>
+      <Value>Puerta de hangar mediana</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureBatteryLarge</Key>
@@ -5832,12 +5832,16 @@
       <Value>Datos y energia de la Plataforma de aterrizaje</Value>
     </RecordThing>
     <RecordThing>
+      <Key>SeedBag_Switchgrass</Key>
+      <Value>Semilla de pasto varilla</Value>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemPlantSwitchGrass</Key>
-      <Value>Conmutador</Value>
+      <Value>Cambiar hierba</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemCropHay</Key>
-      <Value>Gorra</Value>
+      <Value>Heno</Value>
     </RecordThing>
   </Things>
   <Slots>
