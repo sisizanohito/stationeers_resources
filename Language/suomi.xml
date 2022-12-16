@@ -3618,10 +3618,6 @@
       <Value>Muuntaja (pieni)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemWreckageTransformerSmall2</Key>
-      <Value>Muuntaja (pieni)</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemWreckageSecurityPrinter1</Key>
       <Value>Turvalaitteiden tulostin</Value>
     </RecordThing>
@@ -3917,12 +3913,8 @@
       <Value>Rakettimoottori</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemPlantSwitchGrass</Key>
-      <Value>Kytkin</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemCropHay</Key>
-      <Value>Hattu</Value>
+      <Key>Landingpad_GasCylinderTankPiece</Key>
+      <Value>Kaasusäiliön teline</Value>
     </RecordThing>
   </Things>
   <Slots>

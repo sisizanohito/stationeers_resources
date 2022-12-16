@@ -3730,10 +3730,6 @@
       <Value>Trasformatore (Piccolo)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemWreckageTransformerSmall2</Key>
-      <Value>Trasformatore (Piccolo)</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemWreckageSecurityPrinter1</Key>
       <Value>Stampante articoli Sicurezza</Value>
     </RecordThing>
@@ -4029,12 +4025,8 @@
       <Value>Motore a razzo</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemPlantSwitchGrass</Key>
-      <Value>Interruttore</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemCropHay</Key>
-      <Value>Cappello</Value>
+      <Key>Landingpad_GasCylinderTankPiece</Key>
+      <Value>Stoccaggio bombole</Value>
     </RecordThing>
   </Things>
   <Slots>

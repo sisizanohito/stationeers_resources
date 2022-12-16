@@ -4117,8 +4117,12 @@
       <Value>氣閘大門</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureMediumHangerDoor</Key>
+      <Key>StructureMediumHangarDoor</Key>
       <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLargeHangarDoor</Key>
+      <Value>氣閘大門</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureBatteryLarge</Key>
@@ -5149,11 +5153,15 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemPlantSwitchGrass</Key>
-      <Value>開關</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>ItemCropHay</Key>
-      <Value>帽</Value>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>Landingpad_GasCylinderTankPiece</Key>
+      <Value>液體裝瓶器</Value>
     </RecordThing>
   </Things>
   <Slots>

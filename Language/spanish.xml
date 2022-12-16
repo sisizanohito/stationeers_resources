@@ -4065,8 +4065,12 @@
       <Value>Puerta de hangar pequeña</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureMediumHangerDoor</Key>
+      <Key>StructureMediumHangarDoor</Key>
       <Value>Puerta de hangar mediana</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLargeHangarDoor</Key>
+      <Value>Puerta de hangar pequeña</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureBatteryLarge</Key>
@@ -5065,7 +5069,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitHangerDoor</Key>
-      <Value>Kit Puerta de hangar</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>LogicStepSequencer8</Key>
@@ -5842,6 +5846,18 @@
     <RecordThing>
       <Key>ItemCropHay</Key>
       <Value>Heno</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>Landingpad_GasCylinderTankPiece</Key>
+      <Value>Plataforma de lanzamiento recta</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>Landingpad_GasConnectorOutwardPiece</Key>
+      <Value>Plataforma de lanzamiento recta</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>Landingpad_LiquidConnectorOutwardPiece</Key>
+      <Value>Plataforma de lanzamiento recta</Value>
     </RecordThing>
   </Things>
   <Slots>

@@ -1976,10 +1976,6 @@
       <Value>Transformer (Small)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemWreckageTransformerSmall2</Key>
-      <Value>Transformer (Small)</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemWreckageSecurityPrinter1</Key>
       <Value>Security Printer</Value>
     </RecordThing>
@@ -2275,12 +2271,8 @@
       <Value>Rocket Engine</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemPlantSwitchGrass</Key>
-      <Value>Switch</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemCropHay</Key>
-      <Value>Čiapka</Value>
+      <Key>Landingpad_GasCylinderTankPiece</Key>
+      <Value>Gas Tank Storage</Value>
     </RecordThing>
   </Things>
   <Slots>

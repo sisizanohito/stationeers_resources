@@ -3980,10 +3980,6 @@
       <Value>Transformador (Pequeno)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemWreckageTransformerSmall2</Key>
-      <Value>Transformador (Pequeno)</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemWreckageSecurityPrinter1</Key>
       <Value>Impressora de Componentes de Segurança</Value>
     </RecordThing>
@@ -4279,12 +4275,8 @@
       <Value>Motor de Foguete</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemPlantSwitchGrass</Key>
-      <Value>Interruptor</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemCropHay</Key>
-      <Value>Chapéu</Value>
+      <Key>Landingpad_GasCylinderTankPiece</Key>
+      <Value>Armazenamento de Cilindro de Gás</Value>
     </RecordThing>
   </Things>
   <Slots>

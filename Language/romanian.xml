@@ -680,10 +680,6 @@
     <RecordThing>
       <Key>StructureRocketModuleMiningJunk</Key>
     </RecordThing>
-    <RecordThing>
-      <Key>ItemPlantSwitchGrass</Key>
-      <Value>Comutator</Value>
-    </RecordThing>
   </Things>
   <Slots>
     <Record>

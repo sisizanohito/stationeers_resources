@@ -2598,10 +2598,6 @@
       <Value>Transformador (Pequeno)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemWreckageTransformerSmall2</Key>
-      <Value>Transformador (Pequeno)</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemWreckageSecurityPrinter1</Key>
       <Value>Mquina de Vendas</Value>
     </RecordThing>
@@ -2845,8 +2841,8 @@
       <Key>StructureRocketModuleMiningJunk</Key>
     </RecordThing>
     <RecordThing>
-      <Key>ItemPlantSwitchGrass</Key>
-      <Value>Interruptor</Value>
+      <Key>Landingpad_GasCylinderTankPiece</Key>
+      <Value>Armazenador de Cilindro de Gs</Value>
     </RecordThing>
   </Things>
   <Slots>

@@ -4149,8 +4149,12 @@
       <Value>Luftschleusentor</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureMediumHangerDoor</Key>
+      <Key>StructureMediumHangarDoor</Key>
       <Value>Bausatz Hängetür</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLargeHangarDoor</Key>
+      <Value>Luftschleusentor</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureBatteryLarge</Key>
@@ -5145,7 +5149,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitHangerDoor</Key>
-      <Value>Bausatz Hängetür</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>LogicStepSequencer8</Key>
@@ -5873,11 +5877,15 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemPlantSwitchGrass</Key>
-      <Value>Schalter</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>ItemCropHay</Key>
-      <Value>Kappe</Value>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>Landingpad_GasCylinderTankPiece</Key>
+      <Value>Flüssigkeitsbehälter Anschluss</Value>
     </RecordThing>
   </Things>
   <Slots>

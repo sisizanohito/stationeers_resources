@@ -4493,6 +4493,10 @@
       <Value>液体ドレイン</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemKitHangerDoor</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
       <Key>StopWatch</Key>
       <Value>ストップウォッチ</Value>
     </RecordThing>
@@ -4638,11 +4642,15 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemPlantSwitchGrass</Key>
-      <Value>スイッチ</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>ItemCropHay</Key>
-      <Value>帽子</Value>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>Landingpad_GasCylinderTankPiece</Key>
+      <Value>液体タンク格納容器</Value>
     </RecordThing>
   </Things>
   <Slots>

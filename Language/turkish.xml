@@ -4012,8 +4012,12 @@
       <Value>Hava Kilidi Kapısı</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureMediumHangerDoor</Key>
+      <Key>StructureMediumHangarDoor</Key>
       <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLargeHangarDoor</Key>
+      <Value>Hava Kilidi Kapısı</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureBatteryLarge</Key>
@@ -5004,11 +5008,15 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemPlantSwitchGrass</Key>
-      <Value>Anahtar</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>ItemCropHay</Key>
-      <Value>Şapka</Value>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>Landingpad_GasCylinderTankPiece</Key>
+      <Value>Sıvı Tankı Deposu</Value>
     </RecordThing>
   </Things>
   <Slots>

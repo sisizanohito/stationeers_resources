@@ -3567,10 +3567,6 @@
       <Value>Transformator (maly)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemWreckageTransformerSmall2</Key>
-      <Value>Transformator (maly)</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemWreckageSecurityPrinter1</Key>
       <Value>Drukarka kart dostepu</Value>
     </RecordThing>
@@ -3994,6 +3990,10 @@
       <Value>Drenaż</Value>
     </RecordThing>
     <RecordThing>
+      <Key>ItemKitHangerDoor</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemSoundCartridgeLeads</Key>
       <Value/>
     </RecordThing>
@@ -4107,11 +4107,15 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemPlantSwitchGrass</Key>
-      <Value>Przełącznik</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>ItemCropHay</Key>
-      <Value>Czapka</Value>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>Landingpad_GasCylinderTankPiece</Key>
+      <Value>Mocowanie kanistra</Value>
     </RecordThing>
   </Things>
   <Slots>

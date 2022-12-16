@@ -4201,8 +4201,12 @@
       <Value>Ангарный шлюз</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureMediumHangerDoor</Key>
+      <Key>StructureMediumHangarDoor</Key>
       <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLargeHangarDoor</Key>
+      <Value>Ангарный шлюз</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureBatteryLarge</Key>
@@ -5470,11 +5474,15 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemPlantSwitchGrass</Key>
-      <Value>Переключатель</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>ItemCropHay</Key>
-      <Value>Бейсболка</Value>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>Landingpad_GasCylinderTankPiece</Key>
+      <Value>Стойка для жидкостного баллона</Value>
     </RecordThing>
   </Things>
   <Slots>
