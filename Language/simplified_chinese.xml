@@ -6174,6 +6174,14 @@
       <Key>BottleSlot</Key>
       <Value>水瓶</Value>
     </Record>
+    <Record>
+      <Key>SourcePlant</Key>
+      <Value>源植物</Value>
+    </Record>
+    <Record>
+      <Key>TargetPlant</Key>
+      <Value>目标植物</Value>
+    </Record>
   </Slots>
   <Interactables>
     <Record>
