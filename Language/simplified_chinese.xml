@@ -11493,7 +11493,19 @@ Stationeers计划从土木工程从业人员、军事和航空航天工业、软
     </Record>
     <Record>
       <Key>TradeErrorNoMotherboardInsertedTitle</Key>
-      <Value>启用自动保存</Value>
+      <Value>无法交易</Value>
+    </Record>
+    <Record>
+      <Key>TradeErrorNoMotherboardInsertedMessage</Key>
+      <Value>已连接的电脑需要插入一块通信电脑主板才能进行交易。</Value>
+    </Record>
+    <Record>
+      <Key>TradeErrorPadError</Key>
+      <Value>着陆平台处于错误状态。请先恢复着陆平台的正常运行，此后交易才能继续。</Value>
+    </Record>
+    <Record>
+      <Key>TradeErrorPadOff</Key>
+      <Value>着陆平台未通电。请先恢复着陆平台的正常运行，此后交易才能继续。</Value>
     </Record>
     <Record>
       <Key>CartridgePlantAnalyserTitle</Key>
