@@ -9221,6 +9221,10 @@
       <Value>交易终端</Value>
     </Record>
     <Record>
+      <Key>PanelPlantGeneticsTitle</Key>
+      <Value>遗传信息</Value>
+    </Record>
+    <Record>
       <Key>ButtonContact</Key>
       <Value>联络</Value>
     </Record>
