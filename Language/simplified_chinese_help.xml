@@ -221,6 +221,18 @@
       </Text>
     </StationpediaPage>
     <StationpediaPage>
+      <Key>GeneticsPage</Key>
+      <Title>遗传学</Title>
+      <Text>植物们有一组可以改变其习性的基因。一株植物的基因将会以多种方式被影响，包括自然原因和人为原因。当一株植物结出果实或结籽时，它会伴随着一个小的随机突变将它的基因传递给下一代。
+
+除了随机突变外，一株植物一生中的生存环境也会影响它的基因 - 例如，如果一株植物的生存环境缺乏水源，虽然这可能会影响它的生长速度和产量，但它的后代将会获得使其需要更少的水分的基因。通过这种方式，你可以操纵作物的理想基因条件。
+
+为了有效地管理你的作物，你将需要用到一些工具： {THING:ItemPlantSampler} 和 {THING:AppliancePlantGeneticAnalyzer} 。这些工具能够让你对一株正在生长的植物进行采样，并查看它的基因状况。
+
+植物遗传学不是一门精确的科学，你需要反复地试验和摸索才能达到目标。 {LIST_OF_GENES} {LIST_OF_GENETIC_DEVICES}
+          </Text>
+    </StationpediaPage>
+    <StationpediaPage>
       <Key>IngotPage</Key>
       <Title>锭</Title>
       <Text>这些物品通常由 {LINK:SmeltingPage;熔炼} {LINK:OrePage;矿石} 制成，在 {LINK:FabricatorPage;制造机器} 中使用。
