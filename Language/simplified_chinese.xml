@@ -8101,6 +8101,10 @@
       <Value>处理交易时发生错误，你没有信用卡！</Value>
     </Record>
     <Record>
+      <Key>TraderErrorNoGasSpace</Key>
+      <Value>着陆平台没有足够的容纳能力，无法接收请求的气体。为着陆平台添加更多的气体贮存空间。</Value>
+    </Record>
+    <Record>
       <Key>GameMenuRespawn</Key>
       <Value>重生</Value>
     </Record>
