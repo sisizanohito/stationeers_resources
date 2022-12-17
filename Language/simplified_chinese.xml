@@ -11159,6 +11159,10 @@ Stationeers计划从土木工程从业人员、军事和航空航天工业、软
       <Value>有机物和食品</Value>
     </Record>
     <Record>
+      <Key>GeneticsCategoryKey</Key>
+      <Value>遗传学</Value>
+    </Record>
+    <Record>
       <Key>StructureCategoryKey</Key>
       <Value>结构件</Value>
     </Record>
