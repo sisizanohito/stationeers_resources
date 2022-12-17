@@ -6659,8 +6659,12 @@
   </Interactables>
   <Interface>
     <Record>
+      <Key>GeneticsHeader</Key>
+      <Value>基因</Value>
+    </Record>
+    <Record>
       <Key>GeneticDevices</Key>
-      <Value>Logic设备</Value>
+      <Value>遗传学设备</Value>
     </Record>
     <Record>
       <Key>Throttle</Key>
@@ -6836,7 +6840,7 @@
     </Record>
     <Record>
       <Key>GeneticAppliences</Key>
-      <Value>基因设备</Value>
+      <Value>遗传学设备</Value>
     </Record>
     <Record>
       <Key>FireArm</Key>
@@ -11493,7 +11497,7 @@ Stationeers计划从土木工程从业人员、军事和航空航天工业、软
     </Record>
     <Record>
       <Key>CartridgePlantAnalyserTitle</Key>
-      <Value>网络分析仪</Value>
+      <Value>植物分析仪</Value>
     </Record>
   </Interface>
   <Colors>
