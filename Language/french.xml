@@ -6580,7 +6580,7 @@
     </Record>
     <Record>
       <Key>GeneticAppliences</Key>
-      <Value>Applications génétiques</Value>
+      <Value>Instruments génétiques</Value>
     </Record>
     <Record>
       <Key>FireArm</Key>
@@ -10969,8 +10969,20 @@ Remarque : l’eau était auparavant traitée comme un gaz, mais un nouveau syst
       <Value>Impossible de commercer : la carte mère est manquante</Value>
     </Record>
     <Record>
+      <Key>TradeErrorNoMotherboardInsertedMessage</Key>
+      <Value>L’ordinateur connecté nécessite l’insertion d’une carte mère de communication afin de pouvoir commercer.</Value>
+    </Record>
+    <Record>
+      <Key>TradeErrorPadError</Key>
+      <Value>L’aire d’atterrissage est en erreur. Rétablissez le fonctionnement normal de l&apos;aire d’atterrissage afin que les transactions puissent reprendre</Value>
+    </Record>
+    <Record>
+      <Key>TradeErrorPadOff</Key>
+      <Value>L’aire d’atterrissage n’est pas alimentée. Rétablissez le fonctionnement normal de l&apos;aire d’atterrissage afin que les transactions puissent reprendre</Value>
+    </Record>
+    <Record>
       <Key>CartridgePlantAnalyserTitle</Key>
-      <Value>ANALYSEUR RÉSEAU</Value>
+      <Value>ANALYSEUR DE PLANTE</Value>
     </Record>
   </Interface>
   <Colors>
