@@ -5926,6 +5926,14 @@
       <Key>BottleSlot</Key>
       <Value>Emplacement pour bouteille</Value>
     </Record>
+    <Record>
+      <Key>SourcePlant</Key>
+      <Value>Plante d&apos;origine</Value>
+    </Record>
+    <Record>
+      <Key>TargetPlant</Key>
+      <Value>Plante cible</Value>
+    </Record>
   </Slots>
   <Interactables>
     <Record>
