@@ -4070,7 +4070,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureLargeHangarDoor</Key>
-      <Value>Puerta de hangar pequeña</Value>
+      <Value>Puerta de hangar grande</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureBatteryLarge</Key>
@@ -5069,7 +5069,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitHangerDoor</Key>
-      <Value/>
+      <Value>Puerta de Hangar Kit</Value>
     </RecordThing>
     <RecordThing>
       <Key>LogicStepSequencer8</Key>
@@ -5849,15 +5849,15 @@
     </RecordThing>
     <RecordThing>
       <Key>Landingpad_GasCylinderTankPiece</Key>
-      <Value>Plataforma de lanzamiento recta</Value>
+      <Value>Almacenamiento de gas de la plataforma de aterrizaje</Value>
     </RecordThing>
     <RecordThing>
       <Key>Landingpad_GasConnectorOutwardPiece</Key>
-      <Value>Plataforma de lanzamiento recta</Value>
+      <Value>Salida de gas de la plataforma de aterrizaje</Value>
     </RecordThing>
     <RecordThing>
       <Key>Landingpad_LiquidConnectorOutwardPiece</Key>
-      <Value>Plataforma de lanzamiento recta</Value>
+      <Value>Salida de líquidos de la plataforma de aterrizaje</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -7928,6 +7928,10 @@ Simplemente no te pongas triste cuando explotes en pequeños pedazos o te vuelva
     <Record>
       <Key>SomethingWentWrongTrading2</Key>
       <Value>Algo salió mal al procesar la operación, ¡no tienes tarjeta de crédito!</Value>
+    </Record>
+    <Record>
+      <Key>TraderErrorNoGasSpace</Key>
+      <Value>No hay suficiente capacidad en la plataforma de aterrizaje para recibir el gas solicitado. Agregue más almacenamiento de gas a la plataforma.</Value>
     </Record>
     <Record>
       <Key>GameMenuRespawn</Key>
@@ -11154,6 +11158,14 @@ Nota: El agua se trataba anteriormente como un gas, pero se está desarrollando 
     <Record>
       <Key>TradeErrorNoMotherboardInsertedMessage</Key>
       <Value>El ordenador conectado requiere que se inserte una placa base de comunicaciones para poder operar.</Value>
+    </Record>
+    <Record>
+      <Key>TradeErrorPadError</Key>
+      <Value>La plataforma de aterrizaje está en estado de error. Restaure la plataforma de aterrizaje a su modo normal antes de que el comercio pueda continuar</Value>
+    </Record>
+    <Record>
+      <Key>TradeErrorPadOff</Key>
+      <Value>La plataforma de aterrizaje no tiene energía. Restaure la energía a la plataforma de aterrizaje antes de que el comercio pueda continuar</Value>
     </Record>
     <Record>
       <Key>CartridgePlantAnalyserTitle</Key>
