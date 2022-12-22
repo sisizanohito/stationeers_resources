@@ -11262,6 +11262,10 @@ Voda je pro &lt;color=#0080FFFF&gt;{LINK:OrganicPage;rostliny}&lt;/color&gt; roz
 Poznámka: S vodou se dříve zacházelo jako s plynem, ale nyní se vyvíjí nový systém pro kapaliny, včetně samostatných potrubí, nádrží, čerpadel atd. pro kapaliny. Voda je v současné době jedinou dostupnou kapalinou a v současnosti nemění skupenství.</Value>
     </Record>
     <Record>
+      <Key>MoleNitrousOxideDescription</Key>
+      <Value>Oxid dusný je reaktivní plyn, který při vdechování hráče uspí.  Působí jako okysličovadlo pro spalování a umožňuje těkavým látkám hořet výrazně tepleji, rychleji a při nižší teplotě samovznícení. Může být vyroben energeticky náročným procesem uvnitř {THING:StructureNitrolyzer}.</Value>
+    </Record>
+    <Record>
       <Key>SettingsSmoothTerrain</Key>
       <Value>Hladký terén</Value>
     </Record>
