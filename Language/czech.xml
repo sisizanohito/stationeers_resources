@@ -6550,6 +6550,10 @@ Rychlost získávání nebo ztráty tepla závisí na dané kapalině. Přidán�
       <Value>Genetická zařízení</Value>
     </Record>
     <Record>
+      <Key>Throttle</Key>
+      <Value>Plyn</Value>
+    </Record>
+    <Record>
       <Key>CombustionLimiter</Key>
       <Value>Omezovač spalování</Value>
     </Record>
@@ -7187,7 +7191,7 @@ Rychlost získávání nebo ztráty tepla závisí na dané kapalině. Přidán�
     </Record>
     <Record>
       <Key>SaveLocationBroken</Key>
-      <Value>Nelze získat přístup k umístění uložených souborů, používáte neplatný znak? Zkuste změnit adresář pro ukládání v Nastavení.</Value>
+      <Value>Není přístup k umístnění uložených souborů, nepoužíváte neplatný znak? Zkuste změnit adresář pro ukládání v Nastavení.</Value>
     </Record>
     <Record>
       <Key>PlayerIsConnecting</Key>
