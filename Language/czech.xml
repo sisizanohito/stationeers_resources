@@ -11322,6 +11322,14 @@ Poznámka: S vodou se dříve zacházelo jako s plynem, ale nyní se vyvíjí no
       <Value>Připojený počítač vyžaduje, aby byla vložena komunikační základní deska, aby bylo možné obchodovat.</Value>
     </Record>
     <Record>
+      <Key>TradeErrorPadError</Key>
+      <Value>Přistávací plocha hlásí chybu. Obnovte normální provoz přistávací plochy před pokračováním obchodu</Value>
+    </Record>
+    <Record>
+      <Key>TradeErrorPadOff</Key>
+      <Value>Přistávací plocha je bez napájení. Obnovte normální provoz přistávací plochy před pokračováním obchodu</Value>
+    </Record>
+    <Record>
       <Key>CartridgePlantAnalyserTitle</Key>
       <Value>ANALYZÁTOR ROSTIN</Value>
     </Record>
