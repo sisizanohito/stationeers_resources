@@ -11241,9 +11241,9 @@ Oxid uhličitý má středně vysoké měrné teplo, což znamená, že je dobr�
     </Record>
     <Record>
       <Key>MoleVolatilesDescription</Key>
-      <Value>Těkavé látky jsou extrémně reaktivní, složité organické molekuly, které lze ve spojení s kyslíkem použít jako hořlavé palivo. Vyrábí se z {THING:ItemVolatiles}.
+      <Value>Těkavé látky jsou extrémně reaktivní, složité organické molekuly, které lze ve spojení s kyslíkem použít jako hořlavé palivo. Získávají se z {THING:ItemVolatiles}.
   
-Kvůli nejasným a z velké části zapomenutým &lt;color=#0080FFFF&gt;{LINK:ODA;ODA}&lt;/color&gt; předpisům jsou těkavé látky někdy označovány jako &quot;H2&quot; u různých technologických předmětů. Ačkoli se vodíku podobají, ve skutečnosti to &apos;vodík&apos; není. Při spalování těkavých látek bez katalyzátoru nevzniká voda (viz {THING:H2Combustor}). Samostatně vytvářejí škodliviny a oxid uhličitý, když se spalují v následujícím poměru:
+Kvůli nejasným a z velké části zapomenutým &lt;color=#0080FFFF&gt;{LINK:ODA;ODA}&lt;/color&gt; předpisům jsou těkavé látky někdy označovány jako &quot;H2&quot; u různých technologických předmětů. Ačkoli se vodíku podobají, ve skutečnosti to &quot;vodík&quot; není. Při spalování těkavých látek bez katalyzátoru nevzniká voda (viz {THING:H2Combustor}). Samostatně vytvářejí škodliviny a oxid uhličitý, když se spalují v následujícím poměru:
   
 2 těkavé látky + 1 O2 -&gt; 3X + 6CO2 + teplo.</Value>
     </Record>
