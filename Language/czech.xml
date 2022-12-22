@@ -6081,6 +6081,14 @@ Rychlost získávání nebo ztráty tepla závisí na dané kapalině. Přidán�
       <Key>BottleSlot</Key>
       <Value>Slot pro láhev</Value>
     </Record>
+    <Record>
+      <Key>SourcePlant</Key>
+      <Value>Zdrojová rostlina</Value>
+    </Record>
+    <Record>
+      <Key>TargetPlant</Key>
+      <Value>Cílová rostlina</Value>
+    </Record>
   </Slots>
   <Interactables>
     <Record>
@@ -11315,7 +11323,7 @@ Poznámka: S vodou se dříve zacházelo jako s plynem, ale nyní se vyvíjí no
     </Record>
     <Record>
       <Key>CartridgePlantAnalyserTitle</Key>
-      <Value>SÍŤOVÝ ANALYZÁTOR</Value>
+      <Value>ANALYZÁTOR ROSTIN</Value>
     </Record>
   </Interface>
   <Colors>
