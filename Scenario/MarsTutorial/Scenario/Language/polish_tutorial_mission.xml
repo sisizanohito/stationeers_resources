@@ -15,5 +15,40 @@
       <Key>TutorialTheBeginningTitle</Key>
       <Value>Początki</Value>
     </Record>
+    <Record> Using 
+			
+      <Key>TutorialTheBeginningDescription</Key>
+      <Value>Zacznijmy. Zamknij Stationpedię używając {KEY:Help}. Następnie się przebierzesz używając {KEY:PrimaryAction}, aby podnieść przedmioty. Wciśnij {KEY:HelmetSlot}, {KEY:SuitSlot}, {KEY:BackSlot}, {KEY:UniformSlot} lub {KEY:ToolBeltSlot}, aby przełączać się między interakcjami i polami dowolnego, noszonego przedmiotu. Wciśnij i przytrzymaj aby wymienić to pole ekwipunku z aktywną ręką. Możesz także przytrzymać {KEY:MouseControl} i przeciągnąć elementy wyposażenia na odpowiednie pole ekwipunku.
+
+Pola ekwipunku twojej postaci można zobaczyć po lewej stronie ekranu. Przykładowo użyj przycisku {KEY:MouseControl} i kliknij w pole {THING:UniformOrangeJumpSuit}. Otworzy to menu dla przedmiotu w danym polu, pozwalając na interakcję z tym przedmiotem.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTheBeginningTask1</Key>
+      <Value>Zamknij {LINK:Home;Stationpedia}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTheBeginningTask2</Key>
+      <Value>Załóż swój {THING:ItemSpaceHelmet}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTheBeginningTask3</Key>
+      <Value>Załóż swój {THING:ItemSpacepack}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialTheBeginningTask4</Key>
+      <Value>Załóż swój {THING:ItemEvaSuit}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDontBeAToolTitle</Key>
+      <Value>Nie bądź narzędziem</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDontBeAToolDescription</Key>
+      <Value>Wiesz co mówią, nie idź nigdzie bez swojego paska na narzędzia! Podnieś go i załóż.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDontBeAToolTask1</Key>
+      <Value>Załóż swój {THING:ItemToolBelt}</Value>
+    </Record>
   </Interface>
 </Language>
