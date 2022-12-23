@@ -50,5 +50,17 @@ Pola ekwipunku twojej postaci można zobaczyć po lewej stronie ekranu. Przykła
       <Key>TutorialDontBeAToolTask1</Key>
       <Value>Załóż swój {THING:ItemToolBelt}</Value>
     </Record>
+    <Record>
+      <Key>TutorialPowerUpTitle</Key>
+      <Value>Włączenie się</Value>
+    </Record>
+    <Record>
+      <Key>TutorialPowerUpDescription</Key>
+      <Value>Świetnie, teraz uruchom systemy swojego kombinezonu.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialPowerUpTask1</Key>
+      <Value>Podnieś {THING:ItemBatteryCellNuclear} używając {KEY:PrimaryAction}</Value>
+    </Record>
   </Interface>
 </Language>
