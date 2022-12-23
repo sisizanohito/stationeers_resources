@@ -4649,8 +4649,20 @@
       <Value/>
     </RecordThing>
     <RecordThing>
-      <Key>Landingpad_GasCylinderTankPiece</Key>
-      <Value>液体タンク格納容器</Value>
+      <Key>StructureSmallSatelliteDish</Key>
+      <Value>衛生アンテナ</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitSmallSatelliteDish</Key>
+      <Value>キット (衛星アンテナ)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLargeSatelliteDish</Key>
+      <Value>残骸 衛生アンテナ</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitLargeSatelliteDish</Key>
+      <Value>キット (衛星アンテナ)</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -5372,6 +5384,10 @@
   <Interface>
     <Record>
       <Key>GeneticDevices</Key>
+      <Value>ロジックデバイス</Value>
+    </Record>
+    <Record>
+      <Key>TradingDevices</Key>
       <Value>ロジックデバイス</Value>
     </Record>
     <Record>
@@ -7557,6 +7573,10 @@
     <Record>
       <Key>TradeErrorNoMotherboardInsertedTitle</Key>
       <Value>自動セーブを有効にする</Value>
+    </Record>
+    <Record>
+      <Key>ContactItemLostContact</Key>
+      <Value>連絡</Value>
     </Record>
   </Interface>
   <Colors>

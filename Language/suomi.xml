@@ -3618,10 +3618,6 @@
       <Value>Muuntaja (pieni)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemWreckageSecurityPrinter1</Key>
-      <Value>Turvalaitteiden tulostin</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemWreckageSecurityPrinter2</Key>
       <Value>Turvalaitteiden tulostin</Value>
     </RecordThing>
@@ -3913,8 +3909,20 @@
       <Value>Rakettimoottori</Value>
     </RecordThing>
     <RecordThing>
-      <Key>Landingpad_GasCylinderTankPiece</Key>
-      <Value>Kaasusäiliön teline</Value>
+      <Key>StructureSmallSatelliteDish</Key>
+      <Value>Satelliittilautanen</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitSmallSatelliteDish</Key>
+      <Value>Varustepakkaus (satelliittilautanen)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLargeSatelliteDish</Key>
+      <Value>Satelliittilautanen</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitLargeSatelliteDish</Key>
+      <Value>Varustepakkaus (satelliittilautanen)</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -4604,6 +4612,10 @@
   <Interface>
     <Record>
       <Key>GeneticDevices</Key>
+      <Value>Ei Laitetta</Value>
+    </Record>
+    <Record>
+      <Key>TradingDevices</Key>
       <Value>Ei Laitetta</Value>
     </Record>
     <Record>
@@ -6513,6 +6525,10 @@ Spawnaa mikä tahansa esine, testaa ideoita ja rakenna ihme juttuja todella nope
     <Record>
       <Key>TradeErrorNoMotherboardInsertedTitle</Key>
       <Value>Automaattinen tallennus</Value>
+    </Record>
+    <Record>
+      <Key>ContactItemLostContact</Key>
+      <Value>Näppäimistö</Value>
     </Record>
   </Interface>
   <Colors>

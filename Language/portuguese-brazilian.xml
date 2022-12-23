@@ -2598,10 +2598,6 @@
       <Value>Transformador (Pequeno)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemWreckageSecurityPrinter1</Key>
-      <Value>Mquina de Vendas</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemWreckageSecurityPrinter2</Key>
       <Value>Mquina de Vendas</Value>
     </RecordThing>
@@ -2841,8 +2837,20 @@
       <Key>StructureRocketModuleMiningJunk</Key>
     </RecordThing>
     <RecordThing>
-      <Key>Landingpad_GasCylinderTankPiece</Key>
-      <Value>Armazenador de Cilindro de Gs</Value>
+      <Key>StructureSmallSatelliteDish</Key>
+      <Value>Antena Parablica</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitSmallSatelliteDish</Key>
+      <Value>Kit (Antena Parablica)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLargeSatelliteDish</Key>
+      <Value>Antena Parablica</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitLargeSatelliteDish</Key>
+      <Value>Kit (Antena Parablica)</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -3424,6 +3432,10 @@
   <Interface>
     <Record>
       <Key>GeneticDevices</Key>
+      <Value>Atmosfera</Value>
+    </Record>
+    <Record>
+      <Key>TradingDevices</Key>
       <Value>Atmosfera</Value>
     </Record>
     <Record>

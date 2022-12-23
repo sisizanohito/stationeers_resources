@@ -1976,10 +1976,6 @@
       <Value>Transformer (Small)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemWreckageSecurityPrinter1</Key>
-      <Value>Security Printer</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemWreckageSecurityPrinter2</Key>
       <Value>Security Printer</Value>
     </RecordThing>
@@ -2271,8 +2267,20 @@
       <Value>Rocket Engine</Value>
     </RecordThing>
     <RecordThing>
-      <Key>Landingpad_GasCylinderTankPiece</Key>
-      <Value>Gas Tank Storage</Value>
+      <Key>StructureSmallSatelliteDish</Key>
+      <Value>Kit (Stellar Kotva)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitSmallSatelliteDish</Key>
+      <Value>Kit (Stellar Kotva)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLargeSatelliteDish</Key>
+      <Value>Kit (Stellar Kotva)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitLargeSatelliteDish</Key>
+      <Value>Kit (Stellar Kotva)</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -2442,6 +2450,10 @@
   <Interface>
     <Record>
       <Key>GeneticDevices</Key>
+      <Value>No Device</Value>
+    </Record>
+    <Record>
+      <Key>TradingDevices</Key>
       <Value>No Device</Value>
     </Record>
     <Record>
@@ -3690,6 +3702,10 @@ Just don&apos;t be sad when you blow yourself into tiny, tiny little pieces or g
     <Record>
       <Key>TradeErrorNoMotherboardInsertedTitle</Key>
       <Value>Zapnúť Autosave</Value>
+    </Record>
+    <Record>
+      <Key>ContactItemLostContact</Key>
+      <Value>Ovládanie</Value>
     </Record>
   </Interface>
   <Colors>

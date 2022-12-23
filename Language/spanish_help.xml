@@ -46,41 +46,6 @@
       </Text>
     </StationpediaPage>
     <StationpediaPage>
-      <Key>TradingPage</Key>
-      <Title>Comercio</Title>
-      <DisplayFilter>Guides</DisplayFilter>
-      <Text>El comercio es una parte esencial de una existencia {LINK:Stationeers;Stationeers} especialmente en mundos más extremos, donde los nuevos cadetes pueden ser desafiados al principio a sobrevivir sin ayuda.
-¶
-{HEADER:Getting started} ¶
-¶
-Para ponerse en contacto con un comerciante, debe establecer un sistema de comunicaciones. Esto requiere lo siguiente: ¶
-¶
-- Una {THING:StructureVendingMachine} conectada a la energia para almacenar e intercambiar artículos.
-- Una {THING:Structure SatelliteDish} operativa para localizar e identificar a los posibles comerciantes.
-- Un {THING:StructureComputer} en funcionamiento con una {THING:MotherboardComms} en ejecución.
-- Una {THING:StructureShuttleLandingPad} conectada a la energia para que el comerciante aterrice.
-¶
-Cuando su sistema esté en funcionamiento, verá una pantalla vacía en la terminal de la computadora. Ajuste la posición de la antena parabólica hasta que registre uno o más comerciantes. Estos aparecerán en la pantalla con una calificación del 1 al 100%. Esta es la fuerza de su señal. Un comerciante solo puede ser convocado cuando la intensidad de la señal es superior al 95%. Una vez que se haya contactado con un comerciante, posteriormente le proporcionará un nombre. Diferentes comerciantes proporcionan diferentes categorías de artículos.
-¶
-{ENCABEZADO: Comerciantes} ¶
-¶
-Electrónica · TechTree Electronics¶
-Orgánicos · Organicon¶
-Básico · Conceptos básicos de Spes&apos;mall¶
-Hidráulico · HydrauliKit¶
-Mineral · MineRiteOres¶
-Microondas · Microondas¶
-Química · ChemLab¶
-Exóticos · ExoTech¶
-Pintura · Color Corp Paints¶
-Herramientas · Tool Corp¶
-Seguridad · Hall Corp Security¶
-Otros · Productos surtidos de Kolders¶
-Gas · GasTrade¶
-Personalizado · Spes&apos;mall¶
- ·</Text>
-    </StationpediaPage>
-    <StationpediaPage>
       <Key>ConstructionPage</Key>
       <Title>Construcción</Title>
       <DisplayFilter>Guides</DisplayFilter>

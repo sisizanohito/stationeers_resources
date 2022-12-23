@@ -47,44 +47,6 @@
       </Text>
     </StationpediaPage>
     <StationpediaPage>
-      <Key>TradingPage</Key>
-      <Title>交易</Title>
-      <DisplayFilter>Guides</DisplayFilter>
-      <Text>交易是一位 {LINK:Stationeers;Stationeer} 的生活中必不可少的一部分，尤其在环境更加极端的世界中，新学员可能会在没有援助的情况下首先面临生存挑战。
-
-{HEADER:新手入门}
-
-要联系一位贸易商，你需要建立一个通信系统。这需要以下几点：
-
-- 一台已供电的 {THING:StructureVendingMachine} 用来储存和交易物品。
-- 一架可使用的 {THING:StructureSatelliteDish} 用来定位并识别潜在的贸易商。
-- 一台装有一块 {THING:MotherboardComms} 的工作中的 {THING:StructureComputer} 用来运行。
-- 一个已供电的 {THING:StructureShuttleLandingPad} 用来让贸易商着陆。
-
-当你的系统启动并运行时，你将会在计算机终端上看到一片空屏幕。调整卫星天线的位置，直到它显示一个或多个贸易商。他们将以1-100%的等级出现在屏幕上。这是你的信号强度。一位贸易商只能在信号强度高于95%时被召唤。一旦一位贸易商能够被联系上，他将会在屏幕上显示一个名称。不同的贸易商提供不同类别的商品。
-
-{HEADER:贸易商}
-
-电子设备           TechTree Electronics
-有机物               Organicon
-基础设施           Spes&apos;mall Basics
-水利设施           HydrauliKit
-矿石                   MineRiteOres
-微波制品           Microwares
-化学品               ChemLab
-外星科技           ExoTech
-颜料                   Color Corp Paints
-工具                   Tool Corp
-安保设施           Hall Corp Security
-其它商品           Kolders&apos; Assorted Goods
-气体                   GasTrade
-客制化               Spes&apos;mall
-
-{HEADER:译者特别提醒}
-在交易终端界面中，会出现汉字显示为“口口口口”的错误，但是不用担心，点击可交易物品左侧的“i”按钮即可查看其详细信息。
-      </Text>
-    </StationpediaPage>
-    <StationpediaPage>
       <Key>ConstructionPage</Key>
       <Title>建造</Title>
       <DisplayFilter>Guides</DisplayFilter>

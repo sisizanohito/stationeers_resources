@@ -3730,10 +3730,6 @@
       <Value>Trasformatore (Piccolo)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemWreckageSecurityPrinter1</Key>
-      <Value>Stampante articoli Sicurezza</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemWreckageSecurityPrinter2</Key>
       <Value>Stampante articoli Sicurezza</Value>
     </RecordThing>
@@ -4025,8 +4021,20 @@
       <Value>Motore a razzo</Value>
     </RecordThing>
     <RecordThing>
-      <Key>Landingpad_GasCylinderTankPiece</Key>
-      <Value>Stoccaggio bombole</Value>
+      <Key>StructureSmallSatelliteDish</Key>
+      <Value>Disco satellite</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitSmallSatelliteDish</Key>
+      <Value>Kit (Disco satellite)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLargeSatelliteDish</Key>
+      <Value>Disco satellite</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitLargeSatelliteDish</Key>
+      <Value>Kit (Disco satellite)</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -4605,6 +4613,10 @@
     <Record>
       <Key>GeneticDevices</Key>
       <Value>Nessun dispositivo</Value>
+    </Record>
+    <Record>
+      <Key>TradingDevices</Key>
+      <Value>Terminale di commercio</Value>
     </Record>
     <Record>
       <Key>RespawnConditionStationeer</Key>
@@ -7146,6 +7158,10 @@ Non essere triste quando ti farai saltare in aria in piccoli, piccolissimi pezzi
       <Value>Strumenti display</Value>
     </Record>
     <Record>
+      <Key>TradingCategoryKey</Key>
+      <Value>Commercio</Value>
+    </Record>
+    <Record>
       <Key>LogicCategoryKey</Key>
       <Value>Nessun dispositivo</Value>
     </Record>
@@ -7256,6 +7272,10 @@ Non essere triste quando ti farai saltare in aria in piccoli, piccolissimi pezzi
     <Record>
       <Key>TradeErrorNoMotherboardInsertedTitle</Key>
       <Value>Attiva salvataggio automatico</Value>
+    </Record>
+    <Record>
+      <Key>ContactItemLostContact</Key>
+      <Value>Contatti</Value>
     </Record>
   </Interface>
   <Colors>

@@ -5884,8 +5884,20 @@
       <Value/>
     </RecordThing>
     <RecordThing>
-      <Key>Landingpad_GasCylinderTankPiece</Key>
-      <Value>Flüssigkeitsbehälter Anschluss</Value>
+      <Key>StructureSmallSatelliteDish</Key>
+      <Value>Satellitenschüssel</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitSmallSatelliteDish</Key>
+      <Value>Bausatz (Satellitenschüssel)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLargeSatelliteDish</Key>
+      <Value>Zerstörte Satellitenschüssel</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitLargeSatelliteDish</Key>
+      <Value>Bausatz (Satellitenschüssel)</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -6588,6 +6600,10 @@
     <Record>
       <Key>GeneticDevices</Key>
       <Value>Logikgeräte</Value>
+    </Record>
+    <Record>
+      <Key>TradingDevices</Key>
+      <Value>Handelsterminal</Value>
     </Record>
     <Record>
       <Key>Throttle</Key>
@@ -10732,6 +10748,10 @@ Das Stationeers-Programm, das aus dem Bauingenieurwesen, der Militär- und Luft-
       <Value>Organisches und Essen</Value>
     </Record>
     <Record>
+      <Key>TradingCategoryKey</Key>
+      <Value>Handel</Value>
+    </Record>
+    <Record>
       <Key>StructureCategoryKey</Key>
       <Value>Strukturen</Value>
     </Record>
@@ -11120,6 +11140,10 @@ Hinweis: Wasser wurde früher wie Gas behandelt, aber ein neues System für Flü
     <Record>
       <Key>CartridgePlantAnalyserTitle</Key>
       <Value>Netzwerkanalyse</Value>
+    </Record>
+    <Record>
+      <Key>ContactItemLostContact</Key>
+      <Value>Kontakt</Value>
     </Record>
   </Interface>
   <Colors>

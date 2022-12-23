@@ -46,41 +46,6 @@
       </Text>
     </StationpediaPage>
     <StationpediaPage>
-      <Key>TradingPage</Key>
-      <Title>Handel</Title>
-      <DisplayFilter>Guides</DisplayFilter>
-      <Text>Handel jest ważną częścią egzystencji &lt;color=#0080FFFF&gt;{LINK:Stationeers;Stationeers}&lt;/color&gt;, zwłaszcza na bardziej ekstremalnych światach, gdzie nowi kadeci mogą stanąć przed wyzwaniem próbując przetrwać bez pomocy.
-
-{HEADER:Pierwsze kroki}
-
-By skontaktować się z handlarzem potrzebujesz ustabilizować system łączności. Wymaga to następujących:
-
-- Zasilony {THING:StructureVendingMachine} by przechowywać i handlować przedmiotami.
-- Sprawny {THING:StructureSatelliteDish} by zlokalizować i zidentyfikować ewentualnych handlarzy.
-- Działający {THING:StructureComputer} z uruchomioną {THING:MotherboardComms}.
-- Zasilone {THING:StructureShuttleLandingPad} dla Handlarza do wylądowania.
-
-Jeśli twój system działa, zobaczysz pusty ekran w terminalu komputera. Reguluj pozycję talerza satelitarnego aż zacznie rejestrować jednego lub więcej handlarzy. Pojawią się oni na ekranie z oceną od 1 do 100%. To siła twojego sygnału. Handlarz może zostać wezwany wyłącznie wtedy gdy siła sygnału jest powyżej 95%. Po skontaktowaniu się z Handlarzem, poda on swoją nazwę. Różni handlarze dostarczają różne kategorie przedmiotów.
-
-{HEADER:Handlarze}
-
-Elektronika      Elektronika TechTree
-Organiczne         Organicon
-Podstawowe            Spes&apos;mall Basics
-Hydrauliczne        HydrauliKit
-Rudy              MineRiteOres
-Mikrofale        Microwares
-Chemia        ChemLab
-Egzotyczne          ExoTech
-Farby            Color Corp Paints
-Narzędzia            Tool Corp
-Ochrona         Hall Corp Security
-Inne            Kolders&apos; Assorted Goods
-Gazy              GasTrade
-Niestandardowe           Spes&apos;mall
-      </Text>
-    </StationpediaPage>
-    <StationpediaPage>
       <Key>ConstructionPage</Key>
       <Title>Budowanie</Title>
       <DisplayFilter>Guides</DisplayFilter>

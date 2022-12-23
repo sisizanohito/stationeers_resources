@@ -3980,10 +3980,6 @@
       <Value>Transformador (Pequeno)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemWreckageSecurityPrinter1</Key>
-      <Value>Impressora de Componentes de Segurança</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemWreckageSecurityPrinter2</Key>
       <Value>Impressora de Componentes de Segurança</Value>
     </RecordThing>
@@ -4275,8 +4271,20 @@
       <Value>Motor de Foguete</Value>
     </RecordThing>
     <RecordThing>
-      <Key>Landingpad_GasCylinderTankPiece</Key>
-      <Value>Armazenamento de Cilindro de Gás</Value>
+      <Key>StructureSmallSatelliteDish</Key>
+      <Value>Disco de Satélite</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitSmallSatelliteDish</Key>
+      <Value>Kit (Disco de Satélite)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLargeSatelliteDish</Key>
+      <Value>Disco de Satélite</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitLargeSatelliteDish</Key>
+      <Value>Kit (Disco de Satélite)</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -4987,6 +4995,10 @@
     <Record>
       <Key>GeneticDevices</Key>
       <Value>Sem Dispositivo</Value>
+    </Record>
+    <Record>
+      <Key>TradingDevices</Key>
+      <Value>Terminal de Comércio</Value>
     </Record>
     <Record>
       <Key>RespawnConditionStationeer</Key>
@@ -8436,6 +8448,10 @@
       <Value>Orgânicos</Value>
     </Record>
     <Record>
+      <Key>TradingCategoryKey</Key>
+      <Value>Comercializar</Value>
+    </Record>
+    <Record>
       <Key>LogicCategoryKey</Key>
       <Value>Sem Dispositivo</Value>
     </Record>
@@ -8598,6 +8614,10 @@
     <Record>
       <Key>CartridgePlantAnalyserTitle</Key>
       <Value>ANALISADOR DE REDE</Value>
+    </Record>
+    <Record>
+      <Key>ContactItemLostContact</Key>
+      <Value>Contactar</Value>
     </Record>
   </Interface>
   <Colors>

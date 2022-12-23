@@ -5481,8 +5481,20 @@
       <Value/>
     </RecordThing>
     <RecordThing>
-      <Key>Landingpad_GasCylinderTankPiece</Key>
-      <Value>Стойка для жидкостного баллона</Value>
+      <Key>StructureSmallSatelliteDish</Key>
+      <Value>Спутниковая тарелка</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitSmallSatelliteDish</Key>
+      <Value>Набор (Спутниковая тарелка)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLargeSatelliteDish</Key>
+      <Value>Обломки Спутниковой Тарелки</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitLargeSatelliteDish</Key>
+      <Value>Набор (Спутниковая тарелка)</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -6197,6 +6209,10 @@
     <Record>
       <Key>GeneticDevices</Key>
       <Value>Логические Устройства</Value>
+    </Record>
+    <Record>
+      <Key>TradingDevices</Key>
+      <Value>Торговый терминал</Value>
     </Record>
     <Record>
       <Key>RespawnConditionStationeer</Key>
@@ -10468,6 +10484,10 @@
       <Value>Органика и Пища</Value>
     </Record>
     <Record>
+      <Key>TradingCategoryKey</Key>
+      <Value>Обмен</Value>
+    </Record>
+    <Record>
       <Key>StructureCategoryKey</Key>
       <Value>Конструкции</Value>
     </Record>
@@ -10748,6 +10768,10 @@
     <Record>
       <Key>CartridgePlantAnalyserTitle</Key>
       <Value>СЕТЕВОЙ АНАЛИЗАТОР</Value>
+    </Record>
+    <Record>
+      <Key>ContactItemLostContact</Key>
+      <Value>Конктакт</Value>
     </Record>
   </Interface>
   <Colors>

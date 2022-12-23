@@ -44,40 +44,6 @@
       <Text>Sie können {LINK: OrePage; Erze} mithilfe eines {THING:ItemMiningDrill} abbauen. Wenn Sie einen {THING:ItemMiningBelt} tragen, werden {LINK: OrePage;Erze} automatisch hinein gelegt.</Text>
     </StationpediaPage>
     <StationpediaPage>
-      <Key>TradingPage</Key>
-      <Title>Handel</Title>
-      <DisplayFilter>Guides</DisplayFilter>
-      <Text>Der Handel ist ein wesentlicher Bestandteil der Existenz eines {LINK:Stationeers; Stationeers}, besonders auf extremeren Welten, in denen neue Kadetten vor der Herausforderung stehen, selbstständig zu überleben.
-
-{HEADER:Erste Schritte}
-
-Um einen Händler zu kontaktieren, musst du ein Kommunikationssystem einrichten. Dies erfordert Folgendes:
-
-- Eine funktionierende {THING:StructureVendingMachine} zum Lagern und Handeln von Gegenständen.
-- Eine funktionstüchtige {THING:StructureSatelliteDish} zum Auffinden und Identifizieren potenzieller Händler.
-- Ein funktionierender {THING:StructureComputer} mit einem {THING:MotherboardComms}
-- Ein aktives {THING:StructureShuttleLandingPad} für den Händler zum Landen.
-
-Wenn dein System betriebsbereit ist, siehst du einen leeren Bildschirm auf dem Computerterminal. Passe die Position der Satellitenschüssel an, bis sie einen oder mehrere Händler registriert. Diese erscheinen auf dem Bildschirm mit einer Bewertung von 1-100%. Das ist Ihre Signalstärke. Ein Händler kann nur gerufen werden, wenn die Signalstärke über 95% liegt. Sobald ein Händler kontaktiert wurde, wird er anschließend einen Namen angeben. Verschiedene Händler bieten verschiedene Kategorien von Artikeln an.
-
-{HEADER:Händler}
-
-Elektronik - TechTree Elektronik
-Organisches - Organicon
-Grundlagen - Basic Spes&apos;mall Basics
-Hydraulisches - HydrauliKit
-Erze - MineRiteOres
-Mikrowellen - Mikrowares
-Chemie - ChemLab
-Exotisches - ExoTech
-Farben - Color Corp Paints
-Werkzeuge - Tool Corp
-Security - Hall Corp Security
-Sonstiges - Kolders&apos; Assorted Goods
-Gas - GasTrade
-Benutzerdefiniert - Spes&apos;mall      </Text>
-    </StationpediaPage>
-    <StationpediaPage>
       <Key>ConstructionPage</Key>
       <Title>Konstruktion</Title>
       <DisplayFilter>Guides</DisplayFilter>

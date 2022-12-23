@@ -5685,8 +5685,20 @@
       <Value/>
     </RecordThing>
     <RecordThing>
-      <Key>Landingpad_GasCylinderTankPiece</Key>
-      <Value>Connecteur de Bonbonne</Value>
+      <Key>StructureSmallSatelliteDish</Key>
+      <Value>Antenne satellite</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitSmallSatelliteDish</Key>
+      <Value>Kit (Antenne satellite)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLargeSatelliteDish</Key>
+      <Value>Récepteur d&apos;{THING:StructureSatelliteDish}</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitLargeSatelliteDish</Key>
+      <Value>Kit (Antenne satellite)</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -6409,6 +6421,10 @@
     <Record>
       <Key>GeneticDevices</Key>
       <Value>Dispositifs génétiques</Value>
+    </Record>
+    <Record>
+      <Key>TradingDevices</Key>
+      <Value>Terminal de vente</Value>
     </Record>
     <Record>
       <Key>Throttle</Key>
@@ -10607,6 +10623,10 @@ Le programme Stationeers, qui est fondamentalement ouvert à toute l’humanité
       <Value>Génétique</Value>
     </Record>
     <Record>
+      <Key>TradingCategoryKey</Key>
+      <Value>Vendeur de micro-onde</Value>
+    </Record>
+    <Record>
       <Key>LogicCategoryKey</Key>
       <Value>Unités Logiques</Value>
     </Record>
@@ -10983,6 +11003,10 @@ Remarque : l’eau était auparavant traitée comme un gaz, mais un nouveau syst
     <Record>
       <Key>CartridgePlantAnalyserTitle</Key>
       <Value>ANALYSEUR DE PLANTE</Value>
+    </Record>
+    <Record>
+      <Key>ContactItemLostContact</Key>
+      <Value>Contact</Value>
     </Record>
   </Interface>
   <Colors>

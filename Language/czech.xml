@@ -5832,8 +5832,20 @@ Rychlost získávání nebo ztráty tepla závisí na dané kapalině. Přidán�
       <Value/>
     </RecordThing>
     <RecordThing>
-      <Key>Landingpad_GasCylinderTankPiece</Key>
-      <Value>Úložiště kanystru na kapaliny</Value>
+      <Key>StructureSmallSatelliteDish</Key>
+      <Value>Satelitní anténa</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitSmallSatelliteDish</Key>
+      <Value>Satelitní anténa (sada)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLargeSatelliteDish</Key>
+      <Value>Vrak satelitní antény</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitLargeSatelliteDish</Key>
+      <Value>Satelitní anténa (sada)</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -6548,6 +6560,10 @@ Rychlost získávání nebo ztráty tepla závisí na dané kapalině. Přidán�
     <Record>
       <Key>GeneticDevices</Key>
       <Value>Genetická zařízení</Value>
+    </Record>
+    <Record>
+      <Key>TradingDevices</Key>
+      <Value>Obchodní terminál</Value>
     </Record>
     <Record>
       <Key>Throttle</Key>
@@ -10918,6 +10934,10 @@ Program Stationeers je otevřen všem lidem, a to jak z oblasti stavebního inž
       <Value>Genetika</Value>
     </Record>
     <Record>
+      <Key>TradingCategoryKey</Key>
+      <Value>Obchod</Value>
+    </Record>
+    <Record>
       <Key>StructureCategoryKey</Key>
       <Value>Struktury</Value>
     </Record>
@@ -11340,6 +11360,10 @@ Poznámka: S vodou se dříve zacházelo jako s plynem, ale nyní se vyvíjí no
     <Record>
       <Key>CartridgePlantAnalyserTitle</Key>
       <Value>ANALYZÁTOR ROSTIN</Value>
+    </Record>
+    <Record>
+      <Key>ContactItemLostContact</Key>
+      <Value>Kontakt</Value>
     </Record>
   </Interface>
   <Colors>

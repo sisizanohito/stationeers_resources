@@ -5015,8 +5015,20 @@
       <Value/>
     </RecordThing>
     <RecordThing>
-      <Key>Landingpad_GasCylinderTankPiece</Key>
-      <Value>Sıvı Tankı Deposu</Value>
+      <Key>StructureSmallSatelliteDish</Key>
+      <Value>Uydu Anteni</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitSmallSatelliteDish</Key>
+      <Value>Donanım (Uydu Anteni)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLargeSatelliteDish</Key>
+      <Value>Enkaz Uydu Anteni</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitLargeSatelliteDish</Key>
+      <Value>Donanım (Uydu Anteni)</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -5735,6 +5747,10 @@
     <Record>
       <Key>GeneticDevices</Key>
       <Value>Mantık Cihazları</Value>
+    </Record>
+    <Record>
+      <Key>TradingDevices</Key>
+      <Value>Ticaret Terminali</Value>
     </Record>
     <Record>
       <Key>RespawnConditionStationeer</Key>
@@ -9222,6 +9238,10 @@
       <Value>Organikler ve Gıda</Value>
     </Record>
     <Record>
+      <Key>TradingCategoryKey</Key>
+      <Value>Ticaret</Value>
+    </Record>
+    <Record>
       <Key>StructureCategoryKey</Key>
       <Value>Yapılar</Value>
     </Record>
@@ -9448,6 +9468,10 @@
     <Record>
       <Key>CartridgePlantAnalyserTitle</Key>
       <Value>AĞ ANALİZCİSİ</Value>
+    </Record>
+    <Record>
+      <Key>ContactItemLostContact</Key>
+      <Value>İrtibat Kur</Value>
     </Record>
   </Interface>
   <Colors>

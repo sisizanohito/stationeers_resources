@@ -3965,10 +3965,6 @@
       <Value>Transzformátor (Kicsi)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemWreckageSecurityPrinter1</Key>
-      <Value>Biztonsági nyomtató</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemWreckageSecurityPrinter2</Key>
       <Value>Biztonsági nyomtató</Value>
     </RecordThing>
@@ -4912,8 +4908,20 @@
       <Value/>
     </RecordThing>
     <RecordThing>
-      <Key>Landingpad_GasCylinderTankPiece</Key>
-      <Value>Gáztartály tároló</Value>
+      <Key>StructureSmallSatelliteDish</Key>
+      <Value>Parabola antenna</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitSmallSatelliteDish</Key>
+      <Value>Készlet (Parabola antenna)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLargeSatelliteDish</Key>
+      <Value>Parabola antenna</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitLargeSatelliteDish</Key>
+      <Value>Készlet (Parabola antenna)</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -5500,6 +5508,10 @@
     <Record>
       <Key>GeneticDevices</Key>
       <Value>Logikai eszközök</Value>
+    </Record>
+    <Record>
+      <Key>TradingDevices</Key>
+      <Value>Kereskedő terminál</Value>
     </Record>
     <Record>
       <Key>RespawnConditionStationeer</Key>
@@ -8915,6 +8927,10 @@ Leginkább mérnöki, katonai vagy űripari, szoftverfejlesztői vagy bányásza
       <Value>Organikus és élelem</Value>
     </Record>
     <Record>
+      <Key>TradingCategoryKey</Key>
+      <Value>Üzletelés</Value>
+    </Record>
+    <Record>
       <Key>StructureCategoryKey</Key>
       <Value>Struktúrák</Value>
     </Record>
@@ -9189,6 +9205,10 @@ Leginkább mérnöki, katonai vagy űripari, szoftverfejlesztői vagy bányásza
     <Record>
       <Key>CartridgePlantAnalyserTitle</Key>
       <Value>HÁLÓZAT ELEMZŐ</Value>
+    </Record>
+    <Record>
+      <Key>ContactItemLostContact</Key>
+      <Value>Ügyfél</Value>
     </Record>
   </Interface>
   <Colors>

@@ -5160,8 +5160,20 @@
       <Value/>
     </RecordThing>
     <RecordThing>
-      <Key>Landingpad_GasCylinderTankPiece</Key>
-      <Value>液體裝瓶器</Value>
+      <Key>StructureSmallSatelliteDish</Key>
+      <Value>衛星天線</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitSmallSatelliteDish</Key>
+      <Value>套件 衛星天線</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLargeSatelliteDish</Key>
+      <Value>殘骸 Satellite Dish</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitLargeSatelliteDish</Key>
+      <Value>套件 衛星天線</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -5871,6 +5883,10 @@
   <Interface>
     <Record>
       <Key>GeneticDevices</Key>
+      <Value>邏輯裝置</Value>
+    </Record>
+    <Record>
+      <Key>TradingDevices</Key>
       <Value>邏輯裝置</Value>
     </Record>
     <Record>
@@ -8365,6 +8381,10 @@
     <Record>
       <Key>TradeErrorNoMotherboardInsertedTitle</Key>
       <Value>啟用自動存檔</Value>
+    </Record>
+    <Record>
+      <Key>ContactItemLostContact</Key>
+      <Value>聯絡</Value>
     </Record>
   </Interface>
   <Colors>

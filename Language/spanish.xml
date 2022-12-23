@@ -5859,6 +5859,22 @@
       <Key>Landingpad_LiquidConnectorOutwardPiece</Key>
       <Value>Salida de líquidos de la plataforma de aterrizaje</Value>
     </RecordThing>
+    <RecordThing>
+      <Key>StructureSmallSatelliteDish</Key>
+      <Value>Antena parabólica</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitSmallSatelliteDish</Key>
+      <Value>Kit (Antena parabólica)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLargeSatelliteDish</Key>
+      <Value>Antena parabólica destruida 3</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitLargeSatelliteDish</Key>
+      <Value>Kit (Antena parabólica)</Value>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>
@@ -6572,6 +6588,10 @@
     <Record>
       <Key>GeneticDevices</Key>
       <Value>Dispositivos genéticos</Value>
+    </Record>
+    <Record>
+      <Key>TradingDevices</Key>
+      <Value>Terminal de comercio</Value>
     </Record>
     <Record>
       <Key>Throttle</Key>
@@ -10774,6 +10794,10 @@ Reclutando de fondos de ingeniería civil, industrias militares y aeroespaciales
       <Value>Genetica</Value>
     </Record>
     <Record>
+      <Key>TradingCategoryKey</Key>
+      <Value>Micro Trading </Value>
+    </Record>
+    <Record>
       <Key>StructureCategoryKey</Key>
       <Value>Estructuras</Value>
     </Record>
@@ -11170,6 +11194,10 @@ Nota: El agua se trataba anteriormente como un gas, pero se está desarrollando 
     <Record>
       <Key>CartridgePlantAnalyserTitle</Key>
       <Value>ANALIZADOR DE PLANTAS</Value>
+    </Record>
+    <Record>
+      <Key>ContactItemLostContact</Key>
+      <Value>Contacto</Value>
     </Record>
   </Interface>
   <Colors>

@@ -3567,10 +3567,6 @@
       <Value>Transformator (maly)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemWreckageSecurityPrinter1</Key>
-      <Value>Drukarka kart dostepu</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemWreckageSecurityPrinter2</Key>
       <Value>Drukarka kart dostepu</Value>
     </RecordThing>
@@ -4114,8 +4110,20 @@
       <Value/>
     </RecordThing>
     <RecordThing>
-      <Key>Landingpad_GasCylinderTankPiece</Key>
-      <Value>Mocowanie kanistra</Value>
+      <Key>StructureSmallSatelliteDish</Key>
+      <Value>Antena satelitarna</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitSmallSatelliteDish</Key>
+      <Value>Zestaw (Antena satelitarna)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLargeSatelliteDish</Key>
+      <Value>Antena satelitarna</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitLargeSatelliteDish</Key>
+      <Value>Zestaw (Antena satelitarna)</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -4838,6 +4846,10 @@
     <Record>
       <Key>GeneticDevices</Key>
       <Value>Urządzenia Logiczne</Value>
+    </Record>
+    <Record>
+      <Key>TradingDevices</Key>
+      <Value>Terminal Handlowy</Value>
     </Record>
     <Record>
       <Key>RespawnConditionStationeer</Key>
@@ -7818,6 +7830,10 @@
       <Value>Substancje Organiczne i Żywność</Value>
     </Record>
     <Record>
+      <Key>TradingCategoryKey</Key>
+      <Value>Handel</Value>
+    </Record>
+    <Record>
       <Key>StructureCategoryKey</Key>
       <Value>Struktury</Value>
     </Record>
@@ -8199,6 +8215,10 @@ Uwaga: Woda była poprzednio traktowana jako gaz, ale został wprowadzony nowy s
     <Record>
       <Key>CartridgePlantAnalyserTitle</Key>
       <Value>ANALIZATOR SIECI</Value>
+    </Record>
+    <Record>
+      <Key>ContactItemLostContact</Key>
+      <Value>Kontakt</Value>
     </Record>
   </Interface>
   <Colors>

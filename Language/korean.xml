@@ -2870,10 +2870,6 @@
       <Value>변압기 (소형)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemWreckageSecurityPrinter1</Key>
-      <Value>Structure Security Printer</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemWreckageSecurityPrinter2</Key>
       <Value>Structure Security Printer</Value>
     </RecordThing>
@@ -3165,8 +3161,20 @@
       <Value>로켓 엔진</Value>
     </RecordThing>
     <RecordThing>
-      <Key>Landingpad_GasCylinderTankPiece</Key>
-      <Value>가스 주입기 저장고</Value>
+      <Key>StructureSmallSatelliteDish</Key>
+      <Value>건축물 조립킷 (공간 닻)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitSmallSatelliteDish</Key>
+      <Value>건축물 조립킷 (공간 닻)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLargeSatelliteDish</Key>
+      <Value>건축물 조립킷 (공간 닻)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitLargeSatelliteDish</Key>
+      <Value>건축물 조립킷 (공간 닻)</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -3824,6 +3832,10 @@
   <Interface>
     <Record>
       <Key>GeneticDevices</Key>
+      <Value>No Device</Value>
+    </Record>
+    <Record>
+      <Key>TradingDevices</Key>
       <Value>No Device</Value>
     </Record>
     <Record>
@@ -5682,6 +5694,10 @@ Just don&apos;t be sad when you blow yourself into tiny, tiny little pieces or g
     <Record>
       <Key>TradeErrorNoMotherboardInsertedTitle</Key>
       <Value>자동저장 사용</Value>
+    </Record>
+    <Record>
+      <Key>ContactItemLostContact</Key>
+      <Value>조작</Value>
     </Record>
   </Interface>
   <Colors>

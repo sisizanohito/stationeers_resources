@@ -5925,8 +5925,20 @@
       <Value/>
     </RecordThing>
     <RecordThing>
-      <Key>Landingpad_GasCylinderTankPiece</Key>
-      <Value>储液瓶装填器</Value>
+      <Key>StructureSmallSatelliteDish</Key>
+      <Value>卫星天线</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitSmallSatelliteDish</Key>
+      <Value>套件(卫星天线)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLargeSatelliteDish</Key>
+      <Value>卫星天线残骸</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitLargeSatelliteDish</Key>
+      <Value>套件(卫星天线)</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -6665,6 +6677,10 @@
     <Record>
       <Key>GeneticDevices</Key>
       <Value>遗传学设备</Value>
+    </Record>
+    <Record>
+      <Key>TradingDevices</Key>
+      <Value>交易终端</Value>
     </Record>
     <Record>
       <Key>Throttle</Key>
@@ -11171,6 +11187,10 @@ Stationeers计划从土木工程从业人员、军事和航空航天工业、软
       <Value>遗传学</Value>
     </Record>
     <Record>
+      <Key>TradingCategoryKey</Key>
+      <Value>交易</Value>
+    </Record>
+    <Record>
       <Key>StructureCategoryKey</Key>
       <Value>结构件</Value>
     </Record>
@@ -11526,6 +11546,10 @@ Stationeers计划从土木工程从业人员、军事和航空航天工业、软
     <Record>
       <Key>CartridgePlantAnalyserTitle</Key>
       <Value>植物分析仪</Value>
+    </Record>
+    <Record>
+      <Key>ContactItemLostContact</Key>
+      <Value>联络</Value>
     </Record>
   </Interface>
   <Colors>
