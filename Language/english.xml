@@ -3934,14 +3934,14 @@ Volatiles and Uranium = white</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureSatelliteDish</Key>
-      <Value>Satellite Dish</Value>
-      <Description>This large communications unit can be used to communicate with nearby trade vessels.
+      <Value>Medium Satellite Dish</Value>
+      <Description>This medium communications unit can be used to communicate with nearby trade vessels.
       
-When connected to a {THING:StructureComputer} containing a {THING:MotherboardComms} motherboard, a {THING:StructureShuttleLandingPad}, and a {THING:StructureVendingMachine}, this allows Stationeers to trade with suppliers. Adjust its horizontal and vertical attributes either directly or through logic. You need a communications signal of 95% or above to establish reliable communications with a trader.</Description>
+When connected to a {THING:StructureComputer} containing a {THING:MotherboardComms} motherboard, a {THING:Landingpad_CenterPiece01}, and a {THING:StructureVendingMachine}, this allows Stationeers to contact traders. Adjust its horizontal and vertical attributes either directly or through logic.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSatelliteDish</Key>
-      <Value>Kit (Satellite Dish)</Value>
+      <Value>Kit (Medium Satellite Dish)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemPlasticSheets</Key>
@@ -5132,17 +5132,17 @@ Able to store up to 9000001 watts of power, there are no practical limits to its
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSatelliteDish1</Key>
-      <Value>Wreckage Satellite Dish</Value>
+      <Value>Wreckage Medium Satellite Dish</Value>
       <Description>Description coming.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSatelliteDish2</Key>
-      <Value>Wreckage Satellite Dish</Value>
+      <Value>Wreckage Medium Satellite Dish</Value>
       <Description>Description coming.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSatelliteDish3</Key>
-      <Value>Wreckage Satellite Dish</Value>
+      <Value>Wreckage Medium Satellite Dish</Value>
       <Description>Description coming.</Description>
     </RecordThing>
     <RecordThing>
@@ -7315,6 +7315,30 @@ To begin splicing, place a plant or seed bag in the left slot (source) and place
       <Value>Landingpad Liquid Output</Value>
       <Description>Pumps liquid purchased from a trader out of the landing pad. You can increase the landing pad's liquid storage capacity by adding more {THING:Landingpad_GasCylinderTankPiece} to the landing pad.</Description>
     </RecordThing>
+    <RecordThing>
+      <Key>StructureSmallSatelliteDish</Key>
+      <Value>Small Satellite Dish</Value>
+      <Description>This small communications unit can be used to communicate with nearby trade vessels.
+
+        When connected to a {THING:StructureComputer} containing a {THING:MotherboardComms} motherboard, a {THING:Landingpad_CenterPiece01}, and a {THING:StructureVendingMachine}, this allows Stationeers to contact traders. Adjust its horizontal and vertical attributes either directly or through logic.</Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitSmallSatelliteDish</Key>
+      <Value>Kit (Small Satellite Dish)</Value>
+      <Description />
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLargeSatelliteDish</Key>
+      <Value>Large Satellite Dish</Value>
+      <Description>This large communications unit can be used to communicate with nearby trade vessels.
+
+        When connected to a {THING:StructureComputer} containing a {THING:MotherboardComms} motherboard, a {THING:Landingpad_CenterPiece01}, and a {THING:StructureVendingMachine}, this allows Stationeers to contact traders. Adjust its horizontal and vertical attributes either directly or through logic.</Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitLargeSatelliteDish</Key>
+      <Value>Kit (Large Satellite Dish)</Value>
+      <Description />
+    </RecordThing>
   </Things>
   <Slots>
     <Record>
@@ -8052,6 +8076,10 @@ To begin splicing, place a plant or seed bag in the left slot (source) and place
     <Record>
       <Key>GeneticDevices</Key>
       <Value>Genetic Devices</Value>
+    </Record>
+    <Record>
+      <Key>TradingDevices</Key>
+      <Value>Trading Devices</Value>
     </Record>
     <Record>
       <Key>Throttle</Key>
@@ -12694,6 +12722,10 @@ Recruiting from civil engineering backgrounds, military and aerospace industries
       <Value>Genetics</Value>
     </Record>
     <Record>
+      <Key>TradingCategoryKey</Key>
+      <Value>Trading</Value>
+    </Record>
+    <Record>
       <Key>StructureCategoryKey</Key>
       <Value>Structures</Value>
     </Record>
@@ -13125,6 +13157,10 @@ Note: {GAS:Water} was previously treated as a gas, but a new system for liquids 
     <Record>
       <Key>CartridgePlantAnalyserTitle</Key>
       <Value>PLANT ANALYSER</Value>
+    </Record>
+    <Record>
+      <Key>ContactItemLostContact</Key>
+      <Value>Lost Contact</Value>
     </Record>
   </Interface>
   <Colors>
