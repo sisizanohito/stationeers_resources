@@ -2,6 +2,18 @@
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Code>PL</Code>
   <Interface>
+    <Record>
+      <Key>TheNewBeginningTitle</Key>
+      <Value>Nowy Początek [BETA]</Value>
+    </Record>
+    <Record>
+      <Key>TheNewBeginningDescription</Key>
+      <Value>Nauczmy się podstaw i dowiedzmy się jak być najlepszym Stationeerem jakim możesz być!</Value>
+    </Record>
     <!-- start the tutorial -->
+    <Record>
+      <Key>TutorialTheBeginningTitle</Key>
+      <Value>Początki</Value>
+    </Record>
   </Interface>
 </Language>
