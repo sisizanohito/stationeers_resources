@@ -90,5 +90,13 @@ Pola ekwipunku twojej postaci można zobaczyć po lewej stronie ekranu. Przykła
       <Key>TutorialGasItUpTitle</Key>
       <Value>Zatankujmy</Value>
     </Record>
+    <Record>
+      <Key>TutorialGasItUpDescription</Key>
+      <Value>{THING:ItemSpacepack} wymaga gazu pędnego, aby używać dysz. Użyjmy zbiornika z azotem.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialGasItUpTask</Key>
+      <Value>Dodaj {THING:ItemGasCanisterNitrogen} do pola na gaz pędny.</Value>
+    </Record>
   </Interface>
 </Language>
