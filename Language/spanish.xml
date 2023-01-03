@@ -5861,7 +5861,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureSmallSatelliteDish</Key>
-      <Value>Antena parabólica</Value>
+      <Value>Antena parabólica pequeña</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSmallSatelliteDish</Key>
@@ -6591,7 +6591,7 @@
     </Record>
     <Record>
       <Key>TradingDevices</Key>
-      <Value>Terminal de comercio</Value>
+      <Value>Dispositivos de Comercio</Value>
     </Record>
     <Record>
       <Key>Throttle</Key>
@@ -10795,7 +10795,7 @@ Reclutando de fondos de ingeniería civil, industrias militares y aeroespaciales
     </Record>
     <Record>
       <Key>TradingCategoryKey</Key>
-      <Value>Micro Trading </Value>
+      <Value>Comercio</Value>
     </Record>
     <Record>
       <Key>StructureCategoryKey</Key>
@@ -11197,7 +11197,7 @@ Nota: El agua se trataba anteriormente como un gas, pero se está desarrollando 
     </Record>
     <Record>
       <Key>ContactItemLostContact</Key>
-      <Value>Contacto</Value>
+      <Value>Contacto perdido</Value>
     </Record>
   </Interface>
   <Colors>

@@ -46,6 +46,19 @@
       </Text>
     </StationpediaPage>
     <StationpediaPage>
+      <Key>TradingPage</Key>
+      <Title>Comercio</Title>
+      <Text>El trading es una parte esencial de un {LINK:Stationeers;Stationeers}, especialmente en mundos más extremos, donde los nuevos cadetes pueden ser desafiados al principio a sobrevivir sin ayuda.
+
+Hay tres niveles separados de contactos. Estos contactos tienen cada vez más dificultades para contactar, y se quedan durante unos 20 minutos antes de que se vayan y otro tome su lugar, por lo que tendrá que encontrar los contactos más difíciles si desea consultar a muchos comerciantes.
+
+Los contactos deben ser resueltos por la antena antes de que pueda determinar con qué precisión apunta al contacto.  El tiempo de resolución está determinado por la potencia de salida de la antena multiplicada por la alineación del plato, sobre la potencia de resolución esperada del contacto. Si el contacto se resuelve demasiado lentamente, es probable que indique que no está cerca del objetivo en absoluto, y debe probar un ángulo muy diferente. Alternativamente, el contacto puede tener una potencia esperada muy alta, y su antena actual simplemente no es lo suficientemente grande como para resolverlo en un tiempo razonable. El proceso de resolución solo utiliza el 10% de la potencia real configurada para su antena.
+
+Una vez que haya resuelto la posición de los contactos, podrá presionar el botón de interrogar.  Similar a la resolución, deberá aterrizar suficiente potencia en el contacto. El diálogo de interrogación le informará de los cálculos actuales. El interrogatorio tiene un mínimo difícil, y si la antena no está lo suficientemente bien apuntada, o la potencia es demasiado baja, no podrá comenzar el proceso. El interrogatorio también tiene un requisito de tiempo, con contactos más difíciles que toman mucho más tiempo, por lo que querrá usar altos vatios para asegurarse de terminar antes de que el comerciante se marche de su ubicacion actual.  Una vez que se completa el interrogatorio, puede aterrizar al comerciante como antes.
+
+{LIST_OF_TRADING_DEVICES}      </Text>
+    </StationpediaPage>
+    <StationpediaPage>
       <Key>ConstructionPage</Key>
       <Title>Construcción</Title>
       <DisplayFilter>Guides</DisplayFilter>
