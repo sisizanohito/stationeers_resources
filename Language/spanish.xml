@@ -3242,11 +3242,11 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureSatelliteDish</Key>
-      <Value>Antena parabólica</Value>
+      <Value>Antena parabólica mediana</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSatelliteDish</Key>
-      <Value>Kit (Antena parabólica)</Value>
+      <Value>Antena parabólica mediana (kit)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemPlasticSheets</Key>
@@ -4270,15 +4270,15 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSatelliteDish1</Key>
-      <Value>Antena parabólica destruida 1</Value>
+      <Value>Restos de la antena parabólica mediana</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSatelliteDish2</Key>
-      <Value>Antena parabólica destruida 2</Value>
+      <Value>Restos de la antena parabólica mediana</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSatelliteDish3</Key>
-      <Value>Antena parabólica destruida 3</Value>
+      <Value>Restos de la antena parabólica mediana</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageElectrolysis1</Key>
@@ -5865,15 +5865,15 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSmallSatelliteDish</Key>
-      <Value>Kit (Antena parabólica)</Value>
+      <Value>antena parabólica pequeña (kit)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLargeSatelliteDish</Key>
-      <Value>Antena parabólica destruida 3</Value>
+      <Value>Antena parabólica Grande</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLargeSatelliteDish</Key>
-      <Value>Kit (Antena parabólica)</Value>
+      <Value>Antena parabólica grande (kit)</Value>
     </RecordThing>
   </Things>
   <Slots>
