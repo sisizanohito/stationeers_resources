@@ -1189,10 +1189,6 @@
       <Value>Pirula (Bénulás)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemPipeAnalyizer</Key>
-      <Value>Készlet (Csőelemző)</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemPipeCorner</Key>
       <Value>Készlet (Cső, sarok)</Value>
     </RecordThing>
@@ -3889,11 +3885,11 @@
       <Value>Légzsilip kapu</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureMediumHangarDoor</Key>
+      <Key>StructureMediumHangerDoor</Key>
       <Value/>
     </RecordThing>
     <RecordThing>
-      <Key>StructureLargeHangarDoor</Key>
+      <Key>StructureLargeHangerDoor</Key>
       <Value>Légzsilip kapu</Value>
     </RecordThing>
     <RecordThing>
@@ -4692,10 +4688,6 @@
       <Value>Ezzel a készlettel egy {THING:StructureModularRocketEngine01} készíthető.</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemKitHangerDoor</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemSoundCartridgeLeads</Key>
       <Value/>
     </RecordThing>
@@ -4908,20 +4900,12 @@
       <Value/>
     </RecordThing>
     <RecordThing>
-      <Key>StructureSmallSatelliteDish</Key>
-      <Value>Parabola antenna</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemKitSmallSatelliteDish</Key>
-      <Value>Készlet (Parabola antenna)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureLargeSatelliteDish</Key>
-      <Value>Parabola antenna</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLargeSatelliteDish</Key>
-      <Value>Készlet (Parabola antenna)</Value>
+      <Value/>
     </RecordThing>
   </Things>
   <Slots>
@@ -5502,6 +5486,14 @@
     <Record>
       <Key>Motherboard</Key>
       <Value>Alaplap</Value>
+    </Record>
+    <Record>
+      <Key>IncreasePower</Key>
+      <Value>Növelés</Value>
+    </Record>
+    <Record>
+      <Key>DecreasePower</Key>
+      <Value>Csökkentés</Value>
     </Record>
   </Interactables>
   <Interface>

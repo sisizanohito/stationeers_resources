@@ -1209,10 +1209,6 @@
       <Value>藥丸 (暈眩)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemPipeAnalyizer</Key>
-      <Value>套件 管線分析儀</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemPipeCorner</Key>
       <Value>金屬管 (轉角)</Value>
     </RecordThing>
@@ -4117,11 +4113,11 @@
       <Value>氣閘大門</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureMediumHangarDoor</Key>
+      <Key>StructureMediumHangerDoor</Key>
       <Value/>
     </RecordThing>
     <RecordThing>
-      <Key>StructureLargeHangarDoor</Key>
+      <Key>StructureLargeHangerDoor</Key>
       <Value>氣閘大門</Value>
     </RecordThing>
     <RecordThing>
@@ -4960,10 +4956,6 @@
       <Value>This kit creates a {THING:StructureModularRocketEngine01}.</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemKitHangerDoor</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemSoundCartridgeLeads</Key>
       <Value/>
     </RecordThing>
@@ -5160,20 +5152,12 @@
       <Value/>
     </RecordThing>
     <RecordThing>
-      <Key>StructureSmallSatelliteDish</Key>
-      <Value>衛星天線</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemKitSmallSatelliteDish</Key>
-      <Value>套件 衛星天線</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureLargeSatelliteDish</Key>
-      <Value>殘骸 Satellite Dish</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLargeSatelliteDish</Key>
-      <Value>套件 衛星天線</Value>
+      <Value/>
     </RecordThing>
   </Things>
   <Slots>
@@ -5878,6 +5862,14 @@
     <Record>
       <Key>Button17</Key>
       <Value>按鈕1</Value>
+    </Record>
+    <Record>
+      <Key>IncreasePower</Key>
+      <Value>增加</Value>
+    </Record>
+    <Record>
+      <Key>DecreasePower</Key>
+      <Value>減少</Value>
     </Record>
   </Interactables>
   <Interface>

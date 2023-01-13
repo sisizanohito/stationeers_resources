@@ -1210,7 +1210,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemPipeAnalyizer</Key>
-      <Value>Анализатор атмосферы</Value>
+      <Value>Этот набор используется для сборки {THING:StructurePipeAnalysizer}.</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemPipeCorner</Key>
@@ -4201,11 +4201,11 @@
       <Value>Ангарный шлюз</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureMediumHangarDoor</Key>
+      <Key>StructureMediumHangerDoor</Key>
       <Value/>
     </RecordThing>
     <RecordThing>
-      <Key>StructureLargeHangarDoor</Key>
+      <Key>StructureLargeHangerDoor</Key>
       <Value>Ангарный шлюз</Value>
     </RecordThing>
     <RecordThing>
@@ -5201,10 +5201,6 @@
       <Value>Теплообменник для жидкостей и газов</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemKitHangerDoor</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemSoundCartridgeLeads</Key>
       <Value/>
     </RecordThing>
@@ -5481,20 +5477,12 @@
       <Value/>
     </RecordThing>
     <RecordThing>
-      <Key>StructureSmallSatelliteDish</Key>
-      <Value>Спутниковая тарелка</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemKitSmallSatelliteDish</Key>
-      <Value>Набор (Спутниковая тарелка)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureLargeSatelliteDish</Key>
-      <Value>Обломки Спутниковой Тарелки</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLargeSatelliteDish</Key>
-      <Value>Набор (Спутниковая тарелка)</Value>
+      <Value/>
     </RecordThing>
   </Things>
   <Slots>
@@ -6203,6 +6191,14 @@
     <Record>
       <Key>Button17</Key>
       <Value>Кнопка 1</Value>
+    </Record>
+    <Record>
+      <Key>IncreasePower</Key>
+      <Value>Увеличить</Value>
+    </Record>
+    <Record>
+      <Key>DecreasePower</Key>
+      <Value>Уменьшить</Value>
     </Record>
   </Interactables>
   <Interface>

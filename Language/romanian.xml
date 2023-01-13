@@ -1252,6 +1252,14 @@
       <Key>Button17</Key>
       <Value>Buton1</Value>
     </Record>
+    <Record>
+      <Key>IncreasePower</Key>
+      <Value>Crește</Value>
+    </Record>
+    <Record>
+      <Key>DecreasePower</Key>
+      <Value>Descreştere</Value>
+    </Record>
   </Interactables>
   <Interface>
     <Record>

@@ -1140,10 +1140,6 @@
       <Value>Comprimido (Paralisia)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemPipeAnalyizer</Key>
-      <Value>Kit (Analisador de Canos)</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemPipeCorner</Key>
       <Value>Kit (Cano Canto)</Value>
     </RecordThing>
@@ -4270,22 +4266,6 @@
       <Key>ItemKitStirlingEngine</Key>
       <Value>Motor de Foguete</Value>
     </RecordThing>
-    <RecordThing>
-      <Key>StructureSmallSatelliteDish</Key>
-      <Value>Disco de Satélite</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemKitSmallSatelliteDish</Key>
-      <Value>Kit (Disco de Satélite)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureLargeSatelliteDish</Key>
-      <Value>Disco de Satélite</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemKitLargeSatelliteDish</Key>
-      <Value>Kit (Disco de Satélite)</Value>
-    </RecordThing>
   </Things>
   <Slots>
     <Record>
@@ -4989,6 +4969,14 @@
     <Record>
       <Key>Button17</Key>
       <Value>Botão1</Value>
+    </Record>
+    <Record>
+      <Key>IncreasePower</Key>
+      <Value>Aumentar</Value>
+    </Record>
+    <Record>
+      <Key>DecreasePower</Key>
+      <Value>Diminuir</Value>
     </Record>
   </Interactables>
   <Interface>

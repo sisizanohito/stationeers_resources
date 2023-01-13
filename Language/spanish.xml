@@ -4065,11 +4065,11 @@
       <Value>Puerta de hangar pequeña</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureMediumHangarDoor</Key>
+      <Key>StructureMediumHangerDoor</Key>
       <Value>Puerta de hangar mediana</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureLargeHangarDoor</Key>
+      <Key>StructureLargeHangerDoor</Key>
       <Value>Puerta de hangar grande</Value>
     </RecordThing>
     <RecordThing>
@@ -5066,10 +5066,6 @@
     <RecordThing>
       <Key>StructureHeatExchangeLiquidAndGas</Key>
       <Value>Intercambiador de calor Líquido y Gas</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemKitHangerDoor</Key>
-      <Value>Puerta de Hangar Kit</Value>
     </RecordThing>
     <RecordThing>
       <Key>LogicStepSequencer8</Key>
@@ -6582,6 +6578,14 @@
     <Record>
       <Key>Motherboard</Key>
       <Value>Placa Base</Value>
+    </Record>
+    <Record>
+      <Key>IncreasePower</Key>
+      <Value>Incrementar</Value>
+    </Record>
+    <Record>
+      <Key>DecreasePower</Key>
+      <Value>Disminuir</Value>
     </Record>
   </Interactables>
   <Interface>

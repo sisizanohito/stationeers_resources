@@ -1155,7 +1155,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemPipeAnalyizer</Key>
-      <Value>Kit (Analyseur de Tuyau)</Value>
+      <Value>Ce kit un {THING:StructurePipeAnalysizer}. Utile pour entendre les souris courrir dans les tuyaux.</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemPipeCorner</Key>
@@ -4086,11 +4086,11 @@
       <Value>Portail étanche</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureMediumHangarDoor</Key>
+      <Key>StructureMediumHangerDoor</Key>
       <Value>Kit (porte coulissante de hangar)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureLargeHangarDoor</Key>
+      <Key>StructureLargeHangerDoor</Key>
       <Value>Portail étanche</Value>
     </RecordThing>
     <RecordThing>
@@ -5097,10 +5097,6 @@
       <Value>Échange de chaleur, liquide et gaz</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemKitHangerDoor</Key>
-      <Value>Kit (porte coulissante de hangar)</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>LogicStepSequencer8</Key>
       <Value>Séquenceur pas à pas logique</Value>
     </RecordThing>
@@ -5690,15 +5686,15 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSmallSatelliteDish</Key>
-      <Value>Kit (Antenne satellite)</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>StructureLargeSatelliteDish</Key>
-      <Value>Récepteur d&apos;{THING:StructureSatelliteDish}</Value>
+      <Value>Antenne satellite</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLargeSatelliteDish</Key>
-      <Value>Kit (Antenne satellite)</Value>
+      <Value/>
     </RecordThing>
   </Things>
   <Slots>
@@ -6411,6 +6407,14 @@
     <Record>
       <Key>Motherboard</Key>
       <Value>Carte mère</Value>
+    </Record>
+    <Record>
+      <Key>IncreasePower</Key>
+      <Value>Augmenter</Value>
+    </Record>
+    <Record>
+      <Key>DecreasePower</Key>
+      <Value>Diminuer</Value>
     </Record>
   </Interactables>
   <Interface>

@@ -979,10 +979,6 @@
       <Value>Pigulka (Paralizujaca)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemPipeAnalyizer</Key>
-      <Value>Analizator Rur</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemPipeCorner</Key>
       <Value>Rura (Naroznik)</Value>
     </RecordThing>
@@ -3507,6 +3503,14 @@
       <Value>Zestaw (Radiolatarnia)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureMediumHangerDoor</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLargeHangerDoor</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemWreckageVendingMachine1</Key>
       <Value>Automat Wydajacy</Value>
     </RecordThing>
@@ -3986,10 +3990,6 @@
       <Value>Drenaż</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemKitHangerDoor</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemSoundCartridgeLeads</Key>
       <Value/>
     </RecordThing>
@@ -4110,20 +4110,12 @@
       <Value/>
     </RecordThing>
     <RecordThing>
-      <Key>StructureSmallSatelliteDish</Key>
-      <Value>Antena satelitarna</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemKitSmallSatelliteDish</Key>
-      <Value>Zestaw (Antena satelitarna)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureLargeSatelliteDish</Key>
-      <Value>Antena satelitarna</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLargeSatelliteDish</Key>
-      <Value>Zestaw (Antena satelitarna)</Value>
+      <Value/>
     </RecordThing>
   </Things>
   <Slots>
@@ -4840,6 +4832,14 @@
     <Record>
       <Key>Motherboard</Key>
       <Value>Płyta Główna</Value>
+    </Record>
+    <Record>
+      <Key>IncreasePower</Key>
+      <Value>Zwiększ</Value>
+    </Record>
+    <Record>
+      <Key>DecreasePower</Key>
+      <Value>Zmniejsz</Value>
     </Record>
   </Interactables>
   <Interface>

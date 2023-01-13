@@ -1123,6 +1123,14 @@
       <Key>Button17</Key>
       <Value>Knop1</Value>
     </Record>
+    <Record>
+      <Key>IncreasePower</Key>
+      <Value>Vermeerder</Value>
+    </Record>
+    <Record>
+      <Key>DecreasePower</Key>
+      <Value>Verminder</Value>
+    </Record>
   </Interactables>
   <Interface>
     <Record>

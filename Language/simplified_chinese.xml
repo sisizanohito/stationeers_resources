@@ -4238,11 +4238,11 @@
       <Value>气闸门</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureMediumHangarDoor</Key>
+      <Key>StructureMediumHangerDoor</Key>
       <Value>套件（吊柜门）</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureLargeHangarDoor</Key>
+      <Key>StructureLargeHangerDoor</Key>
       <Value>气闸门</Value>
     </RecordThing>
     <RecordThing>
@@ -5257,10 +5257,6 @@
       <Value>液体和气体热交换</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemKitHangerDoor</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
       <Key>LogicStepSequencer8</Key>
       <Value>逻辑步进排序器</Value>
     </RecordThing>
@@ -5926,19 +5922,23 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureSmallSatelliteDish</Key>
-      <Value>卫星天线</Value>
+      <Value>这种大型通信单元可用于与附近的贸易船只进行通信。
+      
+当连接到包含{THING:MotherboardComms}主板、{THING:StructureShuttleLandingPad}和 {THING:StructureVendingMachine}的{THING:StructureComputer}时，你可以与供应商进行交易。直接或通过逻辑调整其水平和垂直角度。你需要95%或以上的通信信号才能与交易者建立可靠的通信。</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSmallSatelliteDish</Key>
-      <Value>套件(卫星天线)</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>StructureLargeSatelliteDish</Key>
-      <Value>卫星天线残骸</Value>
+      <Value>这种大型通信单元可用于与附近的贸易船只进行通信。
+      
+当连接到包含{THING:MotherboardComms}主板、{THING:StructureShuttleLandingPad}和 {THING:StructureVendingMachine}的{THING:StructureComputer}时，你可以与供应商进行交易。直接或通过逻辑调整其水平和垂直角度。你需要95%或以上的通信信号才能与交易者建立可靠的通信。</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLargeSatelliteDish</Key>
-      <Value>套件(卫星天线)</Value>
+      <Value/>
     </RecordThing>
   </Things>
   <Slots>
@@ -6667,6 +6667,14 @@
     <Record>
       <Key>Motherboard</Key>
       <Value>电脑主板</Value>
+    </Record>
+    <Record>
+      <Key>IncreasePower</Key>
+      <Value>增加</Value>
+    </Record>
+    <Record>
+      <Key>DecreasePower</Key>
+      <Value>减少</Value>
     </Record>
   </Interactables>
   <Interface>

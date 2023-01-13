@@ -2836,22 +2836,6 @@
     <RecordThing>
       <Key>StructureRocketModuleMiningJunk</Key>
     </RecordThing>
-    <RecordThing>
-      <Key>StructureSmallSatelliteDish</Key>
-      <Value>Antena Parablica</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemKitSmallSatelliteDish</Key>
-      <Value>Kit (Antena Parablica)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureLargeSatelliteDish</Key>
-      <Value>Antena Parablica</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemKitLargeSatelliteDish</Key>
-      <Value>Kit (Antena Parablica)</Value>
-    </RecordThing>
   </Things>
   <Slots>
     <Record>
@@ -3427,6 +3411,14 @@
     <Record>
       <Key>Button17</Key>
       <Value>Boto1</Value>
+    </Record>
+    <Record>
+      <Key>IncreasePower</Key>
+      <Value>Aumentar</Value>
+    </Record>
+    <Record>
+      <Key>DecreasePower</Key>
+      <Value>Diminuir</Value>
     </Record>
   </Interactables>
   <Interface>

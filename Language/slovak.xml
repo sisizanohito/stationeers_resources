@@ -784,10 +784,6 @@
       <Value>Tabletka (Paralýza)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemPipeAnalyizer</Key>
-      <Value>Analyzátor trubky</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemPipeCorner</Key>
       <Value>Trubka (Roh)</Value>
     </RecordThing>
@@ -2266,22 +2262,6 @@
       <Key>ItemKitStirlingEngine</Key>
       <Value>Rocket Engine</Value>
     </RecordThing>
-    <RecordThing>
-      <Key>StructureSmallSatelliteDish</Key>
-      <Value>Kit (Stellar Kotva)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemKitSmallSatelliteDish</Key>
-      <Value>Kit (Stellar Kotva)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureLargeSatelliteDish</Key>
-      <Value>Kit (Stellar Kotva)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemKitLargeSatelliteDish</Key>
-      <Value>Kit (Stellar Kotva)</Value>
-    </RecordThing>
   </Things>
   <Slots>
     <Record>
@@ -2445,6 +2425,14 @@
     <Record>
       <Key>Button17</Key>
       <Value>Button1</Value>
+    </Record>
+    <Record>
+      <Key>IncreasePower</Key>
+      <Value>Increase</Value>
+    </Record>
+    <Record>
+      <Key>DecreasePower</Key>
+      <Value>Decrease</Value>
     </Record>
   </Interactables>
   <Interface>

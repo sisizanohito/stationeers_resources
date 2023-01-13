@@ -4188,11 +4188,11 @@
       <Value>Přechodová vrata</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureMediumHangarDoor</Key>
+      <Key>StructureMediumHangerDoor</Key>
       <Value>Závěsné dveře (sada)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureLargeHangarDoor</Key>
+      <Key>StructureLargeHangerDoor</Key>
       <Value>Přechodová vrata</Value>
     </RecordThing>
     <RecordThing>
@@ -5204,10 +5204,6 @@ Rychlost získávání nebo ztráty tepla závisí na dané kapalině. Přidán�
       <Value>Výměník tepla Kapaliny a Plyny</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemKitHangerDoor</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
       <Key>LogicStepSequencer8</Key>
       <Value>Logický krokový sekvencer</Value>
     </RecordThing>
@@ -5833,19 +5829,23 @@ Rychlost získávání nebo ztráty tepla závisí na dané kapalině. Přidán�
     </RecordThing>
     <RecordThing>
       <Key>StructureSmallSatelliteDish</Key>
-      <Value>Satelitní anténa</Value>
+      <Value>Tuto velkou komunikační jednotku lze použít ke komunikaci s blízkými obchodními plavidly.
+  
+Po připojení k {THING:StructureComputer} obsahujícímu {THING:MotherboardComms} základní desku, {THING:StructureShuttleLandingPad} a {THING:StructureVendingMachine} umožňuje Stationeerům obchodovat s dodavateli. Upravte jeho horizontální a vertikální atributy buď přímo, nebo pomocí logiky. K navázání spolehlivé komunikace s obchodníkem je třeba komunikační signál 95 % nebo vyšší.</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSmallSatelliteDish</Key>
-      <Value>Satelitní anténa (sada)</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>StructureLargeSatelliteDish</Key>
-      <Value>Vrak satelitní antény</Value>
+      <Value>Tuto velkou komunikační jednotku lze použít ke komunikaci s blízkými obchodními plavidly.
+  
+Po připojení k {THING:StructureComputer} obsahujícímu {THING:MotherboardComms} základní desku, {THING:StructureShuttleLandingPad} a {THING:StructureVendingMachine} umožňuje Stationeerům obchodovat s dodavateli. Upravte jeho horizontální a vertikální atributy buď přímo, nebo pomocí logiky. K navázání spolehlivé komunikace s obchodníkem je třeba komunikační signál 95 % nebo vyšší.</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLargeSatelliteDish</Key>
-      <Value>Satelitní anténa (sada)</Value>
+      <Value/>
     </RecordThing>
   </Things>
   <Slots>
@@ -6550,6 +6550,14 @@ Rychlost získávání nebo ztráty tepla závisí na dané kapalině. Přidán�
     <Record>
       <Key>Motherboard</Key>
       <Value>Základní deska</Value>
+    </Record>
+    <Record>
+      <Key>IncreasePower</Key>
+      <Value>Zvýšit</Value>
+    </Record>
+    <Record>
+      <Key>DecreasePower</Key>
+      <Value>Snížit</Value>
     </Record>
   </Interactables>
   <Interface>

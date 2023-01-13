@@ -1180,10 +1180,6 @@
       <Value>Hap (Felç)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemPipeAnalyizer</Key>
-      <Value>Donanım (Boru Analiz Cihazı)</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemPipeCorner</Key>
       <Value>Donanım (Boru Köşe)</Value>
     </RecordThing>
@@ -4012,11 +4008,11 @@
       <Value>Hava Kilidi Kapısı</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureMediumHangarDoor</Key>
+      <Key>StructureMediumHangerDoor</Key>
       <Value/>
     </RecordThing>
     <RecordThing>
-      <Key>StructureLargeHangarDoor</Key>
+      <Key>StructureLargeHangerDoor</Key>
       <Value>Hava Kilidi Kapısı</Value>
     </RecordThing>
     <RecordThing>
@@ -4803,10 +4799,6 @@
       <Value>Donanım (Modüler Roket Motoru)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemKitHangerDoor</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemSoundCartridgeLeads</Key>
       <Value/>
     </RecordThing>
@@ -5015,20 +5007,12 @@
       <Value/>
     </RecordThing>
     <RecordThing>
-      <Key>StructureSmallSatelliteDish</Key>
-      <Value>Uydu Anteni</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemKitSmallSatelliteDish</Key>
-      <Value>Donanım (Uydu Anteni)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureLargeSatelliteDish</Key>
-      <Value>Enkaz Uydu Anteni</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLargeSatelliteDish</Key>
-      <Value>Donanım (Uydu Anteni)</Value>
+      <Value/>
     </RecordThing>
   </Things>
   <Slots>
@@ -5741,6 +5725,14 @@
     <Record>
       <Key>Button17</Key>
       <Value>Tuş1</Value>
+    </Record>
+    <Record>
+      <Key>IncreasePower</Key>
+      <Value>Arttır</Value>
+    </Record>
+    <Record>
+      <Key>DecreasePower</Key>
+      <Value>Azalt</Value>
     </Record>
   </Interactables>
   <Interface>

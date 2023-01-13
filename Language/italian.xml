@@ -1106,10 +1106,6 @@
       <Value>Pillola (Paralizzante)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemPipeAnalyizer</Key>
-      <Value>Analisi tubature</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemPipeCorner</Key>
       <Value>Tubo (Curva)</Value>
     </RecordThing>
@@ -4020,22 +4016,6 @@
       <Key>ItemKitStirlingEngine</Key>
       <Value>Motore a razzo</Value>
     </RecordThing>
-    <RecordThing>
-      <Key>StructureSmallSatelliteDish</Key>
-      <Value>Disco satellite</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemKitSmallSatelliteDish</Key>
-      <Value>Kit (Disco satellite)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureLargeSatelliteDish</Key>
-      <Value>Disco satellite</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemKitLargeSatelliteDish</Key>
-      <Value>Kit (Disco satellite)</Value>
-    </RecordThing>
   </Things>
   <Slots>
     <Record>
@@ -4607,6 +4587,14 @@
     <Record>
       <Key>Button17</Key>
       <Value>Bottone1</Value>
+    </Record>
+    <Record>
+      <Key>IncreasePower</Key>
+      <Value>Aumenta</Value>
+    </Record>
+    <Record>
+      <Key>DecreasePower</Key>
+      <Value>Diminuisci</Value>
     </Record>
   </Interactables>
   <Interface>

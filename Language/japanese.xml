@@ -3910,6 +3910,14 @@
       <Value>キット (ベット)</Value>
     </RecordThing>
     <RecordThing>
+      <Key>StructureMediumHangerDoor</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLargeHangerDoor</Key>
+      <Value/>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemWreckageVendingMachine1</Key>
       <Value>残骸 自動販売機</Value>
     </RecordThing>
@@ -4493,10 +4501,6 @@
       <Value>液体ドレイン</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemKitHangerDoor</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
       <Key>StopWatch</Key>
       <Value>ストップウォッチ</Value>
     </RecordThing>
@@ -4649,20 +4653,12 @@
       <Value/>
     </RecordThing>
     <RecordThing>
-      <Key>StructureSmallSatelliteDish</Key>
-      <Value>衛生アンテナ</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemKitSmallSatelliteDish</Key>
-      <Value>キット (衛星アンテナ)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureLargeSatelliteDish</Key>
-      <Value>残骸 衛生アンテナ</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLargeSatelliteDish</Key>
-      <Value>キット (衛星アンテナ)</Value>
+      <Value/>
     </RecordThing>
   </Things>
   <Slots>
@@ -5379,6 +5375,14 @@
     <Record>
       <Key>Motherboard</Key>
       <Value>マザーボード</Value>
+    </Record>
+    <Record>
+      <Key>IncreasePower</Key>
+      <Value>増やす</Value>
+    </Record>
+    <Record>
+      <Key>DecreasePower</Key>
+      <Value>減らす</Value>
     </Record>
   </Interactables>
   <Interface>

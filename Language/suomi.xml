@@ -998,10 +998,6 @@
       <Value>Pilleri (halvaus)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemPipeAnalyizer</Key>
-      <Value>Varustepakkaus (putkianalysaattori)</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemPipeCorner</Key>
       <Value>Varustepakkaus (putki, kulma)</Value>
     </RecordThing>
@@ -3908,22 +3904,6 @@
       <Key>ItemKitStirlingEngine</Key>
       <Value>Rakettimoottori</Value>
     </RecordThing>
-    <RecordThing>
-      <Key>StructureSmallSatelliteDish</Key>
-      <Value>Satelliittilautanen</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemKitSmallSatelliteDish</Key>
-      <Value>Varustepakkaus (satelliittilautanen)</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureLargeSatelliteDish</Key>
-      <Value>Satelliittilautanen</Value>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemKitLargeSatelliteDish</Key>
-      <Value>Varustepakkaus (satelliittilautanen)</Value>
-    </RecordThing>
   </Things>
   <Slots>
     <Record>
@@ -4607,6 +4587,14 @@
     <Record>
       <Key>Button17</Key>
       <Value>Näppäin 1</Value>
+    </Record>
+    <Record>
+      <Key>IncreasePower</Key>
+      <Value>Lisää</Value>
+    </Record>
+    <Record>
+      <Key>DecreasePower</Key>
+      <Value>Vähennä</Value>
     </Record>
   </Interactables>
   <Interface>

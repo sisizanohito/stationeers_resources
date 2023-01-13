@@ -1173,10 +1173,6 @@
       <Value>Pille (Paralyse)</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemPipeAnalyizer</Key>
-      <Value>Messeinrichtung (Rohre)</Value>
-    </RecordThing>
-    <RecordThing>
       <Key>ItemPipeCorner</Key>
       <Value>Rohrkurve</Value>
     </RecordThing>
@@ -4149,11 +4145,11 @@
       <Value>Luftschleusentor</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureMediumHangarDoor</Key>
+      <Key>StructureMediumHangerDoor</Key>
       <Value>Bausatz Hängetür</Value>
     </RecordThing>
     <RecordThing>
-      <Key>StructureLargeHangarDoor</Key>
+      <Key>StructureLargeHangerDoor</Key>
       <Value>Luftschleusentor</Value>
     </RecordThing>
     <RecordThing>
@@ -5148,10 +5144,6 @@
       <Value>Wärmeaustausch Flüssigkeit und Gas</Value>
     </RecordThing>
     <RecordThing>
-      <Key>ItemKitHangerDoor</Key>
-      <Value/>
-    </RecordThing>
-    <RecordThing>
       <Key>LogicStepSequencer8</Key>
       <Value>Logik Schrittzähler</Value>
     </RecordThing>
@@ -5885,19 +5877,23 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureSmallSatelliteDish</Key>
-      <Value>Satellitenschüssel</Value>
+      <Value>Diese große Kommunikationseinheit kann zur Kommunikation mit Handelsschiffen in der Nähe verwendet werden.
+      
+Wenn eine Verbindung zu einem {THING:StructureComputer} besteht, der eine {THING:MotherboardComms}-Hauptplatine, eine {THING:StructureShuttleLandingPad} und einen {THING:StructureVendingMachine} enthält, können Stationeers mit Lieferanten handeln. Passe die horizontalen und vertikalen Attribute entweder direkt oder über Logik an. Du benötigst ein Kommunikationssignal von 95% oder mehr, um eine zuverlässige Kommunikation mit einem Händler herzustellen.</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSmallSatelliteDish</Key>
-      <Value>Bausatz (Satellitenschüssel)</Value>
+      <Value/>
     </RecordThing>
     <RecordThing>
       <Key>StructureLargeSatelliteDish</Key>
-      <Value>Zerstörte Satellitenschüssel</Value>
+      <Value>Diese große Kommunikationseinheit kann zur Kommunikation mit Handelsschiffen in der Nähe verwendet werden.
+      
+Wenn eine Verbindung zu einem {THING:StructureComputer} besteht, der eine {THING:MotherboardComms}-Hauptplatine, eine {THING:StructureShuttleLandingPad} und einen {THING:StructureVendingMachine} enthält, können Stationeers mit Lieferanten handeln. Passe die horizontalen und vertikalen Attribute entweder direkt oder über Logik an. Du benötigst ein Kommunikationssignal von 95% oder mehr, um eine zuverlässige Kommunikation mit einem Händler herzustellen.</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLargeSatelliteDish</Key>
-      <Value>Bausatz (Satellitenschüssel)</Value>
+      <Value/>
     </RecordThing>
   </Things>
   <Slots>
@@ -6594,6 +6590,14 @@
     <Record>
       <Key>Motherboard</Key>
       <Value>Hauptplatine</Value>
+    </Record>
+    <Record>
+      <Key>IncreasePower</Key>
+      <Value>Erhöhen</Value>
+    </Record>
+    <Record>
+      <Key>DecreasePower</Key>
+      <Value>Verringern</Value>
     </Record>
   </Interactables>
   <Interface>

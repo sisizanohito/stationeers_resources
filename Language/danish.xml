@@ -944,6 +944,14 @@
       <Key>Button17</Key>
       <Value>Knap1</Value>
     </Record>
+    <Record>
+      <Key>IncreasePower</Key>
+      <Value>Forøg</Value>
+    </Record>
+    <Record>
+      <Key>DecreasePower</Key>
+      <Value>Reducer</Value>
+    </Record>
   </Interactables>
   <Interface>
     <Record>
