@@ -4875,12 +4875,12 @@ When landing, the rocket will deploy a lander, and any cargo contained in the {T
       <Description>1 x 1 modular door piece for building hangar doors.</Description>
     </RecordThing>
     <RecordThing>
-      <Key>StructureMediumHangarDoor</Key>
+      <Key>StructureMediumHangerDoor</Key>
       <Value>Medium Hangar Door</Value>
       <Description>1 x 2 modular door piece for building hangar doors.</Description>
     </RecordThing>
     <RecordThing>
-      <Key>StructureLargeHangarDoor</Key>
+      <Key>StructureLargeHangerDoor</Key>
       <Value>Large Hangar Door</Value>
       <Description>1 x 3 modular door piece for building hangar doors.</Description>
     </RecordThing>
@@ -6173,11 +6173,6 @@ As the N Flow-P is a passive system, it equalizes pressure across the entire of 
     <RecordThing>
       <Key>StructureHeatExchangeLiquidAndGas</Key>
       <Value>Heat Exchange Liquid And Gas</Value>
-      <Description />
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemKitHangerDoor</Key>
-      <Value>Kit Hangar Door</Value>
       <Description />
     </RecordThing>
     <RecordThing>
@@ -8066,6 +8061,14 @@ To begin splicing, place a plant or seed bag in the left slot (source) and place
     <Record>
       <Key>Motherboard</Key>
       <Value>Motherboard</Value>
+    </Record>
+    <Record>
+      <Key>IncreasePower</Key>
+      <Value>Increase Power</Value>
+    </Record>
+    <Record>
+      <Key>DecreasePower</Key>
+      <Value>Decrease Power</Value>
     </Record>
   </Interactables>
   <Interface>

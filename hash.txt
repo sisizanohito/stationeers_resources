@@ -6,7 +6,7 @@ e3aae2cbe50846e3461cece75916bdc0f04e16463e5101095cd9f25ec1fe70b8  ./Scenario/Bor
 4e40b780e24c528d197b110671b4a1c337e3bfd7b14e0f2b14cd85151bb80467  ./Language/english_help.xml
 8c679faebb691c16ac378c36e22950d8a39eca1481ec185c512c433e73c6a606  ./Language/english_tips.xml
 a1d41912fb2da2100186e41633f3a8630301748b3044aa21a637ed56ab1458cf  ./Language/english_keys.xml
-052c680ae3d32f6b0815cbe313e9393833f10095598fc3ff9b0a7f99f19ee8b0  ./Language/english.xml
+d80cadc9d6eb732c36eefd4f056e96d01f169ecac2582e738ee4f4f195b185f7  ./Language/english.xml
 a715a2c3cf1487c2b212a27e1fe9a03af9c559d5e4e6d6ddb3aec139c4580bc7  ./Incidents/Storm/Incident/Language/english.xml
 f7d1474bd77ef0dae47335e2a897a4d09b06800228d84cc4e7a74987e61b3bfe  ./Incidents/Supply Crate (Grenade Trap)/Incident/Language/english.xml
 f203fec10b7db77385711340b8ccc846e4eeaf994410a00062650e637ec98081  ./Incidents/Power Surge/Incident/Language/english.xml
@@ -35,7 +35,7 @@ ee8e62635f6129edc9faeb0b2062357413f57df4ff5d851df0f49c9264017297  ./Incidents/Gr
 78ec7eaaa296b0d8491131e9a01d08c1a61f77bf48db85f58464d365b9ac8d9e  ./Tutorial/Tutorial 09 - Rocketry/Tutorial/Language/english_tutorial_mission.xml
 b2d2866beedd9bbcc6223cea0a24aa6ed1161853fb89628f0aac9afef5d4f430  ./Tutorial/Tutorial 04 - Airlocks/Tutorial/Language/english_tutorial_mission.xml
 f74be1eaaef5222ae8a732f60b7b3cf44f2603645fbb7d6e42f44f713af0c29e  ./Tutorial/Tutorial 07 - Logic/Tutorial/Language/english_tutorial_mission.xml
-34d833c4055f60bd002a13c12a7272896a447547a9fae1f9ca1713ef74e23488  ./Tutorial/Tutorial 07 - GasMixing/Tutorial/Language/english_tutorial_mission.xml
+b00877d4e7ea30b73aa9190ba7cf2d5b4dbb4114b1e288701909ee37e71a5258  ./Tutorial/Tutorial 07 - GasMixing/Tutorial/Language/english_tutorial_mission.xml
 4e51b37d71e0982cb1507741cafef245d3d0fcbd8867221ad1897f0ec4a0840d  ./Tutorial/Tutorial 10 - Circuit Logic Solar/Tutorial/Language/english_tutorial_mission.xml
 8ce8d48dc8997aa6157df63f80ccb437de218b132db68ee040ac7716cea8a8d3  ./Tutorial/Tutorial 04.5 - Smelting/Tutorial/Language/english_tutorial_mission.xml
 ca5eb25a4f4cbcb37bd32851556b73f33c03220eae284f67a650b04082b27fae  ./Tutorial/Tutorial 09.5/Tutorial/Language/english_tutorial_mission.xml

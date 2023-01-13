@@ -196,7 +196,7 @@ There's volatile ices in the mining belt in the crate. Add some to the ice crush
 		</Record>
 		<Record>
 			<Key>7Narration14D</Key>
-			<Value>Excellent! Your gas network is now set up. Insert your welder's empty fuel canister into the storage unit, so it's ready fo refilling.</Value>
+			<Value>Excellent! Your gas network is now set up. Insert your welder's empty fuel canister into the storage unit, so it's ready for refilling.</Value>
 		</Record>
 		<Record>
 			<Key>7GetEmptyTank</Key>
